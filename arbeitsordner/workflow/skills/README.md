@@ -39,6 +39,7 @@ skills/
 ## Geplante Skills (Beispiele, später anzulegen)
 
 - `svg-illustration` – erzeugt eine einzelne, selbstenthaltene SVG-Abbildung im Reihe-Stil
-- `latex-compile` – kompiliert ein band-NN.tex auf macOS (mit Fallback, falls MacTeX fehlt)
+  (wird vom Agent `illustrator` pro Abbildung aufgerufen)
+- `typst-compile` – kompiliert ein band-NN.typ auf macOS (laut Tool-Analyse: `brew install typst`)
 - `web-research` – strukturierte Webrecherche mit Quellenangaben
 - `quellenabgleich` – gleicht eine Aussage gegen 3 unabhängige Wissenstraditionen ab

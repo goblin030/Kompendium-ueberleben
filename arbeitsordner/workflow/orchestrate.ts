@@ -7,8 +7,8 @@
 //   Phase A (parallel):  tool-analyst, researcher
 //   Phase B:             fact-checker  <- 01-recherche.md
 //   Phase C:             planner       <- 02-factcheck.md + 00-tool-analyse.md
-//   Phase D:             editor        <- 03-planung.md + 02-factcheck.md
-//   Phase E:             doc-builder   <- 04-redaktion.md + 03-planung.md + 00-tool-analyse.md
+//   Phase D (parallel):  editor + illustrator  <- 03-planung.md + 02-factcheck.md
+//   Phase E:             doc-builder   <- 04-redaktion.md + 03-planung.md + 00-tool-analyse.md + illustrationen/
 //   Phase F:             format-reviewer <- 06-dokumente/
 
 type AgentSpec = {
@@ -33,6 +33,7 @@ const PHASES: AgentSpec[][] = [
   ],
   [
     { name: 'editor', prompt: '<INHALT agents/05-editor.md>', dependsOn: ['artifacts/03-planung.md', 'artifacts/02-factcheck.md'] },
+    { name: 'illustrator', prompt: '<INHALT agents/08-illustrator.md>', dependsOn: ['artifacts/03-planung.md', 'artifacts/02-factcheck.md', 'artifacts/00-tool-analyse.md'] },
   ],
   [
     { name: 'doc-builder', prompt: '<INHALT agents/07-doc-builder.md>', dependsOn: ['artifacts/04-redaktion.md', 'artifacts/03-planung.md', 'artifacts/00-tool-analyse.md'] },
