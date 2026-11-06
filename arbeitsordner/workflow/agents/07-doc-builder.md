@@ -33,3 +33,13 @@ Fertige, auslieferbare Dateien gemäß der vom tool-analyst gewählten Toolchain
 - [ ] Alle Bände als Quelldateien vorhanden
 - [ ] PDFs kompiliert (oder Fallback dokumentiert)
 - [ ] Abschlussbericht mit Zählungen und Prüfliste
+
+## Logging (Pflicht)
+
+Jeder Schritt dieses Agents wird als JSONL-Zeile an `logs/workflow.log` angehängt
+(append-only, nie überschreiben). Pflicht-Events: `decision` (jede wesentliche Wahl mit
+Begründung), `output` (beim Schreiben des Artefakts), `error` (bei Abbruch),
+`subagent_spawn` / `subagent_complete` (beim Spawnen/Beenden eigener Sub-Agents –
+dabei `agent` = voller Pfad `parent/child`), `phase_end` (bei Phasenabschluss).
+Felder: `ts`, `phase`, `agent`, `event`, `detail`, `artifact`. Format siehe
+`WORKFLOW.md` Abschnitt „Logging".

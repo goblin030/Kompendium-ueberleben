@@ -33,3 +33,13 @@ bevor sie in Planung und Redaktion einfließt.
 - [ ] Jedes Konzept hat alle drei Prüfungen + drei Bewertungen
 - [ ] Ampel-Entscheid pro Konzept mit Begründung
 - [ ] Warnpflichtige Risiken markiert
+
+## Logging (Pflicht)
+
+Jeder Schritt dieses Agents wird als JSONL-Zeile an `logs/workflow.log` angehängt
+(append-only, nie überschreiben). Pflicht-Events: `decision` (jede wesentliche Wahl mit
+Begründung), `output` (beim Schreiben des Artefakts), `error` (bei Abbruch),
+`subagent_spawn` / `subagent_complete` (beim Spawnen/Beenden eigener Sub-Agents –
+dabei `agent` = voller Pfad `parent/child`), `phase_end` (bei Phasenabschluss).
+Felder: `ts`, `phase`, `agent`, `event`, `detail`, `artifact`. Format siehe
+`WORKFLOW.md` Abschnitt „Logging".

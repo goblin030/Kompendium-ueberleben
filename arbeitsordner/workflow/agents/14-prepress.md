@@ -27,3 +27,13 @@ Druckfähige PDFs nach Plattform-Vorgaben: PDF/X, Anschnitt, Schnittmarken, CMYK
 - [ ] Pro Band eine druckfähige PDF/X-Datei
 - [ ] Proof-Bericht mit CMYK-/Auflösungs-/Font-Check
 - [ ] Tool-Befehle für macOS dokumentiert
+
+## Logging (Pflicht)
+
+Jeder Schritt dieses Agents wird als JSONL-Zeile an `logs/workflow.log` angehängt
+(append-only, nie überschreiben). Pflicht-Events: `decision` (jede wesentliche Wahl mit
+Begründung), `output` (beim Schreiben des Artefakts), `error` (bei Abbruch),
+`subagent_spawn` / `subagent_complete` (beim Spawnen/Beenden eigener Sub-Agents –
+dabei `agent` = voller Pfad `parent/child`), `phase_end` (bei Phasenabschluss).
+Felder: `ts`, `phase`, `agent`, `event`, `detail`, `artifact`. Format siehe
+`WORKFLOW.md` Abschnitt „Logging".

@@ -27,3 +27,13 @@ Einheitliches, wiedererkennbares Reihen-Design; plattformkonforme Cover-Dateien.
 - [ ] Pro Band ein KDP-konformes Cover
 - [ ] Klappentexte vorhanden
 - [ ] Design-System dokumentiert
+
+## Logging (Pflicht)
+
+Jeder Schritt dieses Agents wird als JSONL-Zeile an `logs/workflow.log` angehängt
+(append-only, nie überschreiben). Pflicht-Events: `decision` (jede wesentliche Wahl mit
+Begründung), `output` (beim Schreiben des Artefakts), `error` (bei Abbruch),
+`subagent_spawn` / `subagent_complete` (beim Spawnen/Beenden eigener Sub-Agents –
+dabei `agent` = voller Pfad `parent/child`), `phase_end` (bei Phasenabschluss).
+Felder: `ts`, `phase`, `agent`, `event`, `detail`, `artifact`. Format siehe
+`WORKFLOW.md` Abschnitt „Logging".

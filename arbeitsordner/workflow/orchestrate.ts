@@ -74,6 +74,9 @@ const PHASES: AgentSpec[][] = [
 // {"ts":"...","phase":"A","agent":"tool-analyst","event":"spawn","detail":"..."}
 // (run_typescript hat keinen fs-Zugriff – das Schreiben des Eintrags übernimmt die
 //  orchestrierende Session via file tools; hier nur der Builder.)
+// Sub-Agents (Children von Agents) loggen selbst mit agent="parent/child" und den
+// Events subagent_spawn/subagent_complete – siehe WORKFLOW.md "Logging" und den
+// Abschnitt "Logging (Pflicht)" in jeder agents/NN-*.md.
 function logLine(phase: string, agent: string, event: string, detail: string, artifact?: string) {
   return JSON.stringify({
     ts: new Date().toISOString(),
@@ -91,8 +94,8 @@ async function spawnPhase(phaseIdx: number, phase: AgentSpec[]) {
       'Workflow-Artefakte unter ' + WORKFLOW_DIR + '/artifacts/. ' +
       (spec.dependsOn ? 'Input-Artefakte: ' + spec.dependsOn.join(', ') + '. ' : '') +
       'Arbeitsordner für Ergebnisse: ' + WORKFLOW_DIR + '/artifacts/. ' +
-      'LOGGING-PFLICHT: Hänge jeden wichtigen Schritt (decision/output/error) als JSONL-Zeile ' +
-      'an ' + WORKFLOW_DIR + '/logs/workflow.log (append-only, Format siehe WORKFLOW.md).';
+      'LOGGING-PFLICHT (siehe Abschnitt "Logging (Pflicht)" in deiner Definition): Hänge JEDEN Schritt als JSONL-Zeile ' +
+      'an ' + WORKFLOW_DIR + '/logs/workflow.log (append-only; agent = dein voller Pfad, bei eigenen Sub-Agents parent/child mit subagent_spawn/subagent_complete). Format siehe WORKFLOW.md "Logging".';
     await tools.agents.spawn({ name: spec.name, message: nachricht });
     console.log(logLine(phaseName, spec.name, 'spawn', 'Agent gestartet', spec.dependsOn?.join(', ')));
   }

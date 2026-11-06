@@ -28,3 +28,13 @@ Ein kontrollierbarer Projektplan, an dem sich alle anderen Agents orientieren.
 - [ ] Meilensteine für alle Phasen definiert
 - [ ] Risiko-Register mit Owner
 - [ ] Budget-Rahmen vorhanden
+
+## Logging (Pflicht)
+
+Jeder Schritt dieses Agents wird als JSONL-Zeile an `logs/workflow.log` angehängt
+(append-only, nie überschreiben). Pflicht-Events: `decision` (jede wesentliche Wahl mit
+Begründung), `output` (beim Schreiben des Artefakts), `error` (bei Abbruch),
+`subagent_spawn` / `subagent_complete` (beim Spawnen/Beenden eigener Sub-Agents –
+dabei `agent` = voller Pfad `parent/child`), `phase_end` (bei Phasenabschluss).
+Felder: `ts`, `phase`, `agent`, `event`, `detail`, `artifact`. Format siehe
+`WORKFLOW.md` Abschnitt „Logging".
