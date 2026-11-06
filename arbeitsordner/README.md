@@ -83,9 +83,9 @@ arbeitsordner/
 ├── INDEX.md           <- Übersicht aller 13 Chats (Datum, Umfang, erster Prompt)
 ├── chat-export/       <- rohe JSON-Exporte (Dateiname: <datum>_<chat-id>.json)
 └── workflow/          <- Agent/Skill-Workflow für die Neuauflage
-    ├── WORKFLOW.md    <- Pipeline: 8 Agents, Reihenfolge, Artefakt-Fluss
+    ├── WORKFLOW.md    <- Pipeline: 19 Agents (Phasen A–K inkl. Publishing), Artefakt-Fluss
     ├── orchestrate.ts <- Orchestrator (tools.agents.spawn)
-    ├── agents/        <- 8 Agent-Definitionen (tool-analyst … illustrator … format-reviewer)
+    ├── agents/        <- 19 Agent-Definitionen (tool-analyst … accessibility)
     ├── skills/        <- Konvention für später auslagerbare Skills
     └── artifacts/     <- Outputs der Agents (00-tool-analyse.md … 06-dokumente/)
 ```

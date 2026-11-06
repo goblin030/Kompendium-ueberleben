@@ -3,13 +3,18 @@
 // arbeitsordner/workflow/agents/*.md – vor dem Spawn per read_file einlesen und
 // als `prompt` übergeben (run_typescript hat keinen Dateizugriff).
 //
-// Pipeline siehe WORKFLOW.md:
-//   Phase A (parallel):  tool-analyst, researcher
-//   Phase B:             fact-checker  <- 01-recherche.md
-//   Phase C:             planner       <- 02-factcheck.md + 00-tool-analyse.md
-//   Phase D (parallel):  editor + illustrator  <- 03-planung.md + 02-factcheck.md
-//   Phase E:             doc-builder   <- 04-redaktion.md + 03-planung.md + 00-tool-analyse.md + illustrationen/
-//   Phase F:             format-reviewer <- 06-dokumente/
+// Pipeline siehe WORKFLOW.md (19 Agents, Phasen A-K):
+//   A (parallel):  project-manager, tool-analyst, researcher
+//   B:             fact-checker   <- 01-recherche.md
+//   C:             fachlektor     <- 02-factcheck.md
+//   D:             planner        <- 02-factcheck.md + 09-fachlektor.md + 00-tool-analyse.md
+//   E (parallel):  editor + illustrator  <- 03-planung.md + 02-factcheck.md
+//   F:             testleser      <- 04-redaktion.md (Feedback -> editor)
+//   G (parallel):  korrektor + index-builder <- 04-redaktion.md + 10-testleser.md + 03-planung.md
+//   H:             doc-builder    <- 04-redaktion.md + 11-korrektur.md + 12-register.md + 03-planung.md + 00-tool-analyse.md + illustrationen/
+//   I:             prepress       <- 06-dokumente/ + 00-tool-analyse.md
+//   J:             format-reviewer <- 06-dokumente/ (inkl. druckdaten/)
+//   K (parallel, Publishing): legal, cover-designer, publisher, marketing, accessibility
 
 type AgentSpec = {
   name: string;          // muss dem Dateinamen ohne Nummer entsprechen
@@ -21,25 +26,46 @@ const WORKFLOW_DIR = '/Users/otacon/git/Kompendium-ueberleben/arbeitsordner/work
 
 // Phasen: Agents, die parallel gespawnt werden können.
 const PHASES: AgentSpec[][] = [
-  [
+  [ // A
+    { name: 'project-manager', prompt: '<INHALT agents/09-project-manager.md>' },
     { name: 'tool-analyst', prompt: '<INHALT agents/01-tool-analyst.md>' },
     { name: 'researcher', prompt: '<INHALT agents/02-researcher.md>' },
   ],
-  [
+  [ // B
     { name: 'fact-checker', prompt: '<INHALT agents/03-fact-checker.md>', dependsOn: ['artifacts/01-recherche.md'] },
   ],
-  [
-    { name: 'planner', prompt: '<INHALT agents/04-planner.md>', dependsOn: ['artifacts/02-factcheck.md', 'artifacts/00-tool-analyse.md'] },
+  [ // C
+    { name: 'fachlektor', prompt: '<INHALT agents/10-fachlektor.md>', dependsOn: ['artifacts/02-factcheck.md'] },
   ],
-  [
+  [ // D
+    { name: 'planner', prompt: '<INHALT agents/04-planner.md>', dependsOn: ['artifacts/02-factcheck.md', 'artifacts/09-fachlektor.md', 'artifacts/00-tool-analyse.md'] },
+  ],
+  [ // E
     { name: 'editor', prompt: '<INHALT agents/05-editor.md>', dependsOn: ['artifacts/03-planung.md', 'artifacts/02-factcheck.md'] },
     { name: 'illustrator', prompt: '<INHALT agents/08-illustrator.md>', dependsOn: ['artifacts/03-planung.md', 'artifacts/02-factcheck.md', 'artifacts/00-tool-analyse.md'] },
   ],
-  [
-    { name: 'doc-builder', prompt: '<INHALT agents/07-doc-builder.md>', dependsOn: ['artifacts/04-redaktion.md', 'artifacts/03-planung.md', 'artifacts/00-tool-analyse.md'] },
+  [ // F
+    { name: 'testleser', prompt: '<INHALT agents/11-testleser.md>', dependsOn: ['artifacts/04-redaktion.md'] },
   ],
-  [
+  [ // G
+    { name: 'korrektor', prompt: '<INHALT agents/12-korrektor.md>', dependsOn: ['artifacts/04-redaktion.md', 'artifacts/10-testleser.md'] },
+    { name: 'index-builder', prompt: '<INHALT agents/13-index-builder.md>', dependsOn: ['artifacts/03-planung.md', 'artifacts/04-redaktion.md'] },
+  ],
+  [ // H
+    { name: 'doc-builder', prompt: '<INHALT agents/07-doc-builder.md>', dependsOn: ['artifacts/04-redaktion.md', 'artifacts/11-korrektur.md', 'artifacts/12-register.md', 'artifacts/03-planung.md', 'artifacts/00-tool-analyse.md', 'artifacts/06-dokumente/illustrationen/'] },
+  ],
+  [ // I
+    { name: 'prepress', prompt: '<INHALT agents/14-prepress.md>', dependsOn: ['artifacts/06-dokumente/', 'artifacts/00-tool-analyse.md'] },
+  ],
+  [ // J
     { name: 'format-reviewer', prompt: '<INHALT agents/06-format-reviewer.md>', dependsOn: ['artifacts/06-dokumente/'] },
+  ],
+  [ // K – Publishing (parallel); legal zuerst, publisher braucht dessen Output
+    { name: 'legal', prompt: '<INHALT agents/16-legal.md>' },
+    { name: 'cover-designer', prompt: '<INHALT agents/15-cover-designer.md>', dependsOn: ['artifacts/03-planung.md', 'artifacts/00-tool-analyse.md'] },
+    { name: 'publisher', prompt: '<INHALT agents/17-publisher.md>', dependsOn: ['artifacts/06-dokumente/', 'artifacts/13-rechtstexte.md'] },
+    { name: 'marketing', prompt: '<INHALT agents/18-marketing.md>', dependsOn: ['artifacts/06-dokumente/', 'artifacts/14-publikation.md'] },
+    { name: 'accessibility', prompt: '<INHALT agents/19-accessibility.md>', dependsOn: ['artifacts/06-dokumente/', 'artifacts/00-tool-analyse.md', 'artifacts/14-publikation.md'] },
   ],
 ];
 
