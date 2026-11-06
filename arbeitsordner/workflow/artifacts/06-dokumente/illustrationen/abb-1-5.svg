@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Abb. 1.5 – Regel der Drei (Heuristik, W19): 3 Min Luft – 3 Std Wärme – 3 Tage Wasser – 3 Wochen Nahrung.">
+<title>Abb. 1.5: Regel der Drei (Heuristik, W19): 3 Min Luft – 3 Std Wärme – 3 Tage Wasser – 3 Wochen Nahrung.</title>
+<defs>
+<marker id="ah" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0 0 L10 4 L0 8 z" fill="#1a1a1a"/></marker>
+<marker id="ahs" markerWidth="10" markerHeight="8" refX="1" refY="4" orient="auto"><path d="M10 0 L0 4 L10 8 z" fill="#1a1a1a"/></marker>
+<pattern id="hatch" width="8" height="8" patternTransform="rotate(45)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="0" y2="8" stroke="#8c8c8c" stroke-width="1.6"/></pattern>
+<pattern id="cross" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 0 L8 8 M8 0 L0 8" stroke="#bfbfbf" stroke-width="1"/></pattern>
+<pattern id="dots" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#8c8c8c"/></pattern>
+</defs>
+<rect x="0" y="0" width="800" height="520" fill="#ffffff"/>
+<text x="28" y="38" font-family="sans-serif" font-size="22" text-anchor="start" font-weight="bold" fill="#1a1a1a">Abb. 1.5</text>
+<line x1="28" y1="52" x2="772" y2="52" stroke="#1a1a1a" stroke-width="1.5"/>
+<text x="400" y="100" font-family="sans-serif" font-size="13" text-anchor="middle" font-weight="normal" fill="#4d4d4d">Heuristik – keine Naturgesetze; Reihenfolge gilt in allen Traditionen</text><text x="120" y="170" font-family="sans-serif" font-size="16" text-anchor="end" font-weight="bold" fill="#1a1a1a">Luft</text><rect x="140" y="140" width="90" height="46" fill="#a6a6a6" stroke="#1a1a1a" stroke-width="2"/><text x="244" y="170" font-family="sans-serif" font-size="15" text-anchor="start" font-weight="normal" fill="#1a1a1a">3 Minuten</text><text x="120" y="250" font-family="sans-serif" font-size="16" text-anchor="end" font-weight="bold" fill="#1a1a1a">Wärme</text><rect x="140" y="220" width="220" height="46" fill="#c9c9c9" stroke="#1a1a1a" stroke-width="2"/><text x="374" y="250" font-family="sans-serif" font-size="15" text-anchor="start" font-weight="normal" fill="#1a1a1a">3 Stunden</text><text x="120" y="330" font-family="sans-serif" font-size="16" text-anchor="end" font-weight="bold" fill="#1a1a1a">Wasser</text><rect x="140" y="300" width="380" height="46" fill="#e2e2e2" stroke="#1a1a1a" stroke-width="2"/><text x="534" y="330" font-family="sans-serif" font-size="15" text-anchor="start" font-weight="normal" fill="#1a1a1a">3 Tage</text><text x="120" y="410" font-family="sans-serif" font-size="16" text-anchor="end" font-weight="bold" fill="#1a1a1a">Nahrung</text><rect x="140" y="380" width="540" height="46" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="2"/><text x="694" y="410" font-family="sans-serif" font-size="15" text-anchor="start" font-weight="normal" fill="#1a1a1a">3 Wochen</text><rect x="140" y="430" width="560" height="46" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="2"/><text x="420" y="457.9" font-family="sans-serif" font-size="14" text-anchor="middle" font-weight="normal" fill="#1a1a1a">Erst die Zeit mit der kürzesten Frist handeln</text>
+<line x1="28" y1="472" x2="772" y2="472" stroke="#1a1a1a" stroke-width="1"/>
+<text x="28" y="494" font-family="sans-serif" font-size="14" text-anchor="start" font-weight="normal" fill="#1a1a1a">Regel der Drei (Heuristik, W19): 3 Min Luft – 3 Std Wärme – 3 Tage Wasser – 3 Wochen Nahrung.</text>
+<text x="772" y="494" font-family="sans-serif" font-size="11" text-anchor="end" font-weight="normal" fill="#4d4d4d">Das Überlebenbuch · Band 1</text>
+</svg>

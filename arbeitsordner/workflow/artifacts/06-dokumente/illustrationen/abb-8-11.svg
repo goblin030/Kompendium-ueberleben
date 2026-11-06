@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Abb. 8.11 – Brandwunde &amp; Frostbeule: 10–20 min kühles fließendes Wasser – nie Fett, nie Eis (Konzept 7.1, W22: 55 °C-Grenze).">
+<title>Abb. 8.11: Brandwunde &amp; Frostbeule: 10–20 min kühles fließendes Wasser – nie Fett, nie Eis (Konzept 7.1, W22: 55 °C-Grenze).</title>
+<defs>
+<marker id="ah" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0 0 L10 4 L0 8 z" fill="#1a1a1a"/></marker>
+<marker id="ahs" markerWidth="10" markerHeight="8" refX="1" refY="4" orient="auto"><path d="M10 0 L0 4 L10 8 z" fill="#1a1a1a"/></marker>
+<pattern id="hatch" width="8" height="8" patternTransform="rotate(45)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="0" y2="8" stroke="#8c8c8c" stroke-width="1.6"/></pattern>
+<pattern id="cross" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 0 L8 8 M8 0 L0 8" stroke="#bfbfbf" stroke-width="1"/></pattern>
+<pattern id="dots" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#8c8c8c"/></pattern>
+</defs>
+<rect x="0" y="0" width="800" height="520" fill="#ffffff"/>
+<text x="28" y="38" font-family="sans-serif" font-size="22" text-anchor="start" font-weight="bold" fill="#1a1a1a">Abb. 8.11</text>
+<line x1="28" y1="52" x2="772" y2="52" stroke="#1a1a1a" stroke-width="1.5"/>
+<ellipse cx="280" cy="280" rx="120" ry="55" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="3"/><ellipse cx="320" cy="270" rx="30" ry="20" fill="url(#hatch)" stroke="#1a1a1a" stroke-width="2"/><path d="M140 160 q 10 60 0 120 M170 150 q 14 70 0 140 M110 170 q 8 50 0 100" fill="none" stroke="#1a1a1a" stroke-width="1.8"/><text x="140" y="320" font-family="sans-serif" font-size="11" text-anchor="middle" font-weight="bold" fill="#1a1a1a">kühles fließendes Wasser 10–20 min</text><rect x="480" y="140" width="280" height="70" fill="url(#hatch)" stroke="#1a1a1a" stroke-width="2"/><text x="620" y="170.7" font-family="sans-serif" font-size="12" text-anchor="middle" font-weight="bold" fill="#1a1a1a">NIE Fett, Butter, Öl auf die Brandwunde –</text><text x="620" y="187.7" font-family="sans-serif" font-size="12" text-anchor="middle" font-weight="bold" fill="#1a1a1a">Wärme staut sich, Infektion steigt</text><rect x="480" y="230" width="280" height="60" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="2"/><text x="620" y="264.2" font-family="sans-serif" font-size="12" text-anchor="middle" font-weight="bold" fill="#1a1a1a">NIE Eis direkt auf die Haut – Erfrierung!</text><rect x="90" y="400" width="620" height="56" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="2"/><text x="400" y="432.2" font-family="sans-serif" font-size="12" text-anchor="middle" font-weight="normal" fill="#1a1a1a">Verbrühungsgrenze 55 °C (W22, Abb. 1.27) · Blasen nicht aufstechen · lockerer Verband · Schockzeichen beachten</text>
+<line x1="28" y1="472" x2="772" y2="472" stroke="#1a1a1a" stroke-width="1"/>
+<text x="28" y="494" font-family="sans-serif" font-size="14" text-anchor="start" font-weight="normal" fill="#1a1a1a">Brandwunde &amp; Frostbeule: 10–20 min kühles fließendes Wasser – nie Fett, nie Eis (Konzept 7.1, W22: 55 °C-Grenze).</text>
+<text x="772" y="494" font-family="sans-serif" font-size="11" text-anchor="end" font-weight="normal" fill="#4d4d4d">Das Überlebenbuch · Band 8</text>
+</svg>

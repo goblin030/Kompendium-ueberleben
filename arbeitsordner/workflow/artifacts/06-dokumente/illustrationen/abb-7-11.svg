@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-label="Abb. 7.11 – Verderb-Atlas: retten / essen / wegwerfen – verschimmeltes Korn, Brot, Nüsse NIEMALS retten (Mykotoxine penetrieren) (Konzept 8.2).">
+<title>Abb. 7.11: Verderb-Atlas: retten / essen / wegwerfen – verschimmeltes Korn, Brot, Nüsse NIEMALS retten (Mykotoxine penetrieren) (Konzept 8.2).</title>
+<defs>
+<marker id="ah" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0 0 L10 4 L0 8 z" fill="#1a1a1a"/></marker>
+<marker id="ahs" markerWidth="10" markerHeight="8" refX="1" refY="4" orient="auto"><path d="M10 0 L0 4 L10 8 z" fill="#1a1a1a"/></marker>
+<pattern id="hatch" width="8" height="8" patternTransform="rotate(45)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="0" y2="8" stroke="#8c8c8c" stroke-width="1.6"/></pattern>
+<pattern id="cross" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 0 L8 8 M8 0 L0 8" stroke="#bfbfbf" stroke-width="1"/></pattern>
+<pattern id="dots" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#8c8c8c"/></pattern>
+</defs>
+<rect x="0" y="0" width="800" height="560" fill="#ffffff"/>
+<text x="28" y="38" font-family="sans-serif" font-size="22" text-anchor="start" font-weight="bold" fill="#1a1a1a">Abb. 7.11</text>
+<line x1="28" y1="52" x2="772" y2="52" stroke="#1a1a1a" stroke-width="1.5"/>
+<rect x="60" y="110" width="220" height="300" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="2.5"/><text x="170" y="146" font-family="sans-serif" font-size="15" text-anchor="middle" font-weight="bold" fill="#1a1a1a">RETten</text><text x="170" y="180" font-family="sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#1a1a1a">streusalzfreie Trocknung, Umsortieren, Einkochen bei Obst</text><rect x="310" y="110" width="220" height="300" fill="#e2e2e2" stroke="#1a1a1a" stroke-width="2.5"/><text x="420" y="146" font-family="sans-serif" font-size="15" text-anchor="middle" font-weight="bold" fill="#1a1a1a">essen (bald)</text><text x="420" y="180" font-family="sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#1a1a1a">Geruch/Farbe ok, Schimmel nur oberflächlich bei festem Gut (Käse, Hartwurst – Rand weg)</text><rect x="560" y="110" width="220" height="300" fill="url(#hatch)" stroke="#1a1a1a" stroke-width="2.5"/><text x="670" y="146" font-family="sans-serif" font-size="15" text-anchor="middle" font-weight="bold" fill="#1a1a1a">WEGWERFEN</text><text x="670" y="180" font-family="sans-serif" font-size="10" text-anchor="middle" font-weight="normal" fill="#1a1a1a">verschimmeltes Korn/Brot/Nüsse – Mykotoxine ziehen durch · aufgeblähte Konserven · gewölbter Deckel</text><rect x="60" y="440" width="680" height="60" fill="#e2e2e2" stroke="#1a1a1a" stroke-width="2"/><text x="400" y="474.2" font-family="sans-serif" font-size="12" text-anchor="middle" font-weight="bold" fill="#1a1a1a">Faustregel: im Zweifel wegwerfen – eine Lebensmittelvergiftung im Ernstfall ist teurer als der Vorrat (Botulismus warn-7b!)</text>
+<line x1="28" y1="512" x2="772" y2="512" stroke="#1a1a1a" stroke-width="1"/>
+<text x="28" y="534" font-family="sans-serif" font-size="14" text-anchor="start" font-weight="normal" fill="#1a1a1a">Verderb-Atlas: retten / essen / wegwerfen – verschimmeltes Korn, Brot, Nüsse NIEMALS retten (Mykotoxine penetrieren) (Konzept 8.2).</text>
+<text x="772" y="534" font-family="sans-serif" font-size="11" text-anchor="end" font-weight="normal" fill="#4d4d4d">Das Überlebenbuch · Band 7</text>
+</svg>
