@@ -69,23 +69,39 @@ const PHASES: AgentSpec[][] = [
   ],
 ];
 
-async function spawnPhase(phase: AgentSpec[]) {
+// Logging: Jeder spawn/phase-Wechsel wird als JSONL-Zeile an
+// arbeitsordner/workflow/logs/workflow.log angehängt (append-only), z. B.:
+// {"ts":"...","phase":"A","agent":"tool-analyst","event":"spawn","detail":"..."}
+// (run_typescript hat keinen fs-Zugriff – das Schreiben des Eintrags übernimmt die
+//  orchestrierende Session via file tools; hier nur der Builder.)
+function logLine(phase: string, agent: string, event: string, detail: string, artifact?: string) {
+  return JSON.stringify({
+    ts: new Date().toISOString(),
+    phase, agent, event, detail, ...(artifact ? { artifact } : {}),
+  });
+}
+
+async function spawnPhase(phaseIdx: number, phase: AgentSpec[]) {
+  const phaseName = 'ABCDEFGHIJK'[phaseIdx];
+  console.log(logLine(phaseName, 'orchestrator', 'phase_start', phase.map(p => p.name).join(', ')));
   for (const spec of phase) {
     const nachricht =
       spec.prompt +
       '\n\n---\nKontext: Projekt-Repo unter /Users/otacon/git/Kompendium-ueberleben, ' +
       'Workflow-Artefakte unter ' + WORKFLOW_DIR + '/artifacts/. ' +
       (spec.dependsOn ? 'Input-Artefakte: ' + spec.dependsOn.join(', ') + '. ' : '') +
-      'Arbeitsordner für Ergebnisse: ' + WORKFLOW_DIR + '/artifacts/.';
+      'Arbeitsordner für Ergebnisse: ' + WORKFLOW_DIR + '/artifacts/. ' +
+      'LOGGING-PFLICHT: Hänge jeden wichtigen Schritt (decision/output/error) als JSONL-Zeile ' +
+      'an ' + WORKFLOW_DIR + '/logs/workflow.log (append-only, Format siehe WORKFLOW.md).';
     await tools.agents.spawn({ name: spec.name, message: nachricht });
-    console.log('gespawnt: ' + spec.name);
+    console.log(logLine(phaseName, spec.name, 'spawn', 'Agent gestartet', spec.dependsOn?.join(', ')));
   }
 }
 
 async function main() {
   // Beispiel: nur Phase A starten (zum Test). Für den vollen Lauf alle Phasen
   // sequenziell abarbeiten und zwischen den Phasen auf die Artefakte warten.
-  await spawnPhase(PHASES[0]);
+  await spawnPhase(0, PHASES[0]);
   const liste = await tools.agents.list({});
   return { gespawnt: PHASES[0].map(p => p.name), status: liste };
 }

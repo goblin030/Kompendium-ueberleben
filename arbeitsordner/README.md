@@ -87,7 +87,9 @@ arbeitsordner/
     ├── orchestrate.ts <- Orchestrator (tools.agents.spawn)
     ├── agents/        <- 19 Agent-Definitionen (tool-analyst … accessibility)
     ├── skills/        <- Konvention für später auslagerbare Skills
-    └── artifacts/     <- Outputs der Agents (00-tool-analyse.md … 06-dokumente/)
+    ├── artifacts/     <- Outputs der Agents (00-tool-analyse.md … 06-dokumente/)
+    └── logs/          <- workflow.log (JSONL, append-only): jeder Agent-Schritt
+                          mit Zeitstempel, Phase, Entscheidung und Artefakt
 ```
 
 Details siehe `workflow/WORKFLOW.md`.

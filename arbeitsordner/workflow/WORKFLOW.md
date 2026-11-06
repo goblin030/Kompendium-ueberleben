@@ -65,6 +65,25 @@ Phase A (parallel):   project-manager ─┐
 - Wiederkehrende Teilaufgaben (z. B. einzelne SVG erzeugen, Band kompilieren) werden
   als Skills nach `skills/` ausgelagert – siehe `skills/README.md`.
 
+## Logging (Nachvollziehbarkeit)
+
+Jeder Schritt wird append-only in **`logs/workflow.log`** protokolliert – eine JSON-Zeile
+(JSONL) pro Event:
+
+```json
+{"ts":"2026-11-06T18:05:00+01:00","phase":"A","agent":"tool-analyst","event":"decision","detail":"Primary: Typst, Fallback: TinyTeX","artifact":"artifacts/00-tool-analyse.md"}
+```
+
+- **Felder:** `ts` (ISO 8601 mit Zeitzone), `phase` (A–K oder setup/design/review),
+  `agent` (Agent-Name oder `orchestrator`), `event`, `detail` (Was wurde entschieden/produziert und warum), `artifact` (betroffenes Artefakt, optional).
+- **Event-Typen:** `init`, `spawn`, `phase_start`, `phase_end`, `decision`, `output`,
+  `review_feedback`, `error`, `commit`, `push`.
+- **Pflicht pro Agent:** `spawn` (durch Orchestrator), `decision` für jede wesentliche
+  Wahl (mit Begründung im `detail`), `output` beim Schreiben des Artefakts, `error` bei
+  Abbruch – plus `phase_end`, wenn die Phase abgeschlossen ist.
+- Das Log wird mit ins Repo committed; Agents hängen Einträge an (nie überschreiben).
+- Menschenlesbare Auswertung: `jq -r '[.ts,.phase,.agent,.event,.detail] | @tsv' logs/workflow.log`.
+
 ## Artefakt-Fluss
 
 ```
