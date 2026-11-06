@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xml:lang="de" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Abb. 7.6 – Kraut-Fass: Kraut einsalzen, Lake auffüllen, Gärrohr – Milchsäure konserviert (Konzept 6.1).">
+<title>Abb. 7.6: Kraut-Fass: Kraut einsalzen, Lake auffüllen, Gärrohr – Milchsäure konserviert (Konzept 6.1).</title>
+<defs>
+<marker id="ah" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0 0 L10 4 L0 8 z" fill="#1a1a1a"/></marker>
+<marker id="ahs" markerWidth="10" markerHeight="8" refX="1" refY="4" orient="auto"><path d="M10 0 L0 4 L10 8 z" fill="#1a1a1a"/></marker>
+<pattern id="hatch" width="8" height="8" patternTransform="rotate(45)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="0" y2="8" stroke="#8c8c8c" stroke-width="1.6"/></pattern>
+<pattern id="cross" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 0 L8 8 M8 0 L0 8" stroke="#bfbfbf" stroke-width="1"/></pattern>
+<pattern id="dots" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#8c8c8c"/></pattern>
+</defs>
+<rect x="0" y="0" width="800" height="520" fill="#ffffff"/>
+<text x="28" y="38" font-family="sans-serif" font-size="22" text-anchor="start" font-weight="bold" fill="#1a1a1a">Abb. 7.6</text>
+<line x1="28" y1="52" x2="772" y2="52" stroke="#1a1a1a" stroke-width="1.5"/>
+<rect x="300" y="160" width="200" height="240" fill="#e2e2e2" stroke="#1a1a1a" stroke-width="3" rx="12"/><rect x="300" y="250" width="200" height="150" fill="url(#dots)" stroke="#1a1a1a" stroke-width="0"/><text x="400" y="240" font-family="sans-serif" font-size="11" text-anchor="middle" font-weight="normal" fill="#1a1a1a">Lake bedeckt das Kraut</text><line x1="400" y1="160" x2="400" y2="110" stroke="#1a1a1a" stroke-width="4"/><path d="M385 110 q 15 -18 30 0" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/><text x="400" y="92" font-family="sans-serif" font-size="9.5" text-anchor="middle" font-weight="normal" fill="#1a1a1a">Gärrohr (CO₂ raus, Luft bleibt draußen)</text><ellipse cx="340" cy="280" rx="26" ry="16" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="1.5"/><ellipse cx="460" cy="280" rx="26" ry="16" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="1.5"/><ellipse cx="340" cy="340" rx="26" ry="16" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="1.5"/><ellipse cx="460" cy="340" rx="26" ry="16" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="1.5"/><text x="400" y="436" font-family="sans-serif" font-size="11.5" text-anchor="middle" font-weight="bold" fill="#1a1a1a">Weißkohl → Sauerkraut (Milchsäuregärung)</text><rect x="90" y="460" width="620" height="44" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="2"/><text x="400" y="486.025" font-family="sans-serif" font-size="11.5" text-anchor="middle" font-weight="normal" fill="#1a1a1a">Immer unter Lake halten – Schimmel oben abschöpfen, Kraut nie retten (Mykotoxine, Abb. 7.11)</text>
+<line x1="28" y1="472" x2="772" y2="472" stroke="#1a1a1a" stroke-width="1"/>
+<text x="28" y="494" font-family="sans-serif" font-size="14" text-anchor="start" font-weight="normal" fill="#1a1a1a">Kraut-Fass: Kraut einsalzen, Lake auffüllen, Gärrohr – Milchsäure konserviert (Konzept 6.1).</text>
+<text x="772" y="494" font-family="sans-serif" font-size="11" text-anchor="end" font-weight="normal" fill="#4d4d4d">Das Überlebenbuch · Band 7</text>
+</svg>

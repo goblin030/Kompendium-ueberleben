@@ -83,3 +83,35 @@ Hinweis zu Band 6: Gate G-1 (legal) ist laut abschlussbericht §3 noch offen —
 
 ---
 *Erstellt durch Agent `format-reviewer`, Phase J, 2026-11-06. Messungen reproduzierbar: frischer `typst compile`-Build, eigene Python-Parser (PDF: /Length-basiertes Stream-Decoding Flate/ASCII85; SVG: xml.etree). Log: `logs/workflow.log` (Events phase J, agent format-reviewer).*
+
+---
+
+# Nachtrag — Re-Review Turn 2 (2026-11-07, ~00:25 MEZ)
+
+**Anlass:** Nachbesserung nach Turn 1 (prepress Pass C Marken-Overlay + proof.py-Rev.2; illustrator SVGs neu generiert; doc-builder Captions/W-IDs/Titel/XMP + Rebuild aller Bände). **Geprüft:** alle F1–F7 gegen den aktuellen Stand von `06-dokumente/` mit denselben unabhängigen Methoden (frischer typst-Build, /Length-basiertes Stream-Decoding, XML-Parse, Token-Scans).
+
+## Ergebnis pro Befund
+
+| Befund | Status | Nachweis (eigene Messung) |
+|---|---|---|
+| **F1 major** Schnittmarken fehlten in Druck-PDFs | **BEHOBEN** | Alle 10 `band-NN-druck.pdf`: `1 1 1 1 K` (Registration Black) genau 1× pro Seite (414/382/359/352/338/335/342/346/338/329 = Seitenzahl), Strichstärke 0,3 pt, 8 Markensegmente/Seite im Bleed-Rand (gemessen: 8×pages Linien). PDF/X-4 nach Pass C erhalten: `GTS_PDFXVersion=PDF/X-4` in XMP+Info, OutputIntent `/S /GTS_PDFX`, `Trapped /False`, 0 RGB-Ops, 0 Annots, Boxen korrekt (216×303 / Trim 210×297 um 3,0 mm). proof.json Rev.2: `crop_marks_ok=true`, Content pages_with_marks = pages_total, Raster 8/8+8/8 — stimmt mit meiner Messung überein; proof-bericht Rev.2 korrigiert die falsche Rev.-1-Behauptung und dokumentiert Pass C + echten Content-/Raster-Check. |
+| **F2 major** `abb-9-10.svg` „undefined“ | **BEHOBEN** | 0× „undefined“/„NaN“; 157/157 SVGs XML-wohlgeformt. |
+| F3 minor ungültige SVG-Attribute | **BEHOBEN bis auf 1 Reststelle** | Nur noch `abb-6-2.svg`: 1× `stroke-width='#e2e2e2'` (minor, Restbefund R1). |
+| F4 minor doppelte Abb.-Nr. in Captions | **BEHOBEN** | 0 Treffer auf „Abb. N.M — Abb. N.M“. |
+| F5 minor XMP-Leak „Phase I“ | **BEHOBEN** | 0× „Phase I“ in allen 10 Druck-PDFs; `dc:creator` = „Das Ueberlebenbuch“. |
+| F6 minor W-IDs im Lesertext | **TEILWEISE BEHOBEN** | W-IDs aus dem Lesetext entfernt (198 → 0 außerhalb des Prüfprotokolls); dafür je Band ein Abschnitt „Prüfprotokoll (interne Quellen-IDs)“ (inhaltlich laut Plan L4 Prüfungsdokumentation geplant). **Rest-Meta-Leak (minor, R2):** Artefakt-Referenzen „09 §…/09 Nr.…/02 §…“ (Verweis auf interne Artefakte 09-fachlektor.md / 02-factcheck.md, für Leser nicht auflösbar) noch an 45 Stellen in Warnrahmen (B3, B5–B10), 6 Stellen in Registern (B8–B10) und in **7 SVGs** (abb-7-3, abb-7-7, abb-8-6, abb-8-10, abb-9-9, warn-8a, warn-9b); Prüfprotokoll-Intro enthält Meta-Satz („stehen nicht im Lesetext, sondern hier im Protokoll“). Keine Gate-Texte/Arbeitsanweisungen mehr im Dokument. |
+| F7 minor kein PDF-Dokumenttitel | **BEHOBEN** | XMP `dc:title` = „Das Überlebenbuch — Band N: <Titel>“ in allen 10 Quell-PDFs (und Druck-PDFs). |
+
+## Re-Check der Basisdaten (Turn 2)
+
+- **Kompilierung:** 10/10 `typst compile … --pdf-standard a-2b` fehlerfrei (rc=0, keine Warnungen); frischer Build seitenzahl-identisch zu den gelieferten PDFs.
+- **Seitenziel:** 414/383/360/352/338/335/342/346/338/329 = **3.537 S.**, alle ≥ 300 S./Band. Druck-PDFs seitenzahl-gleich zur Quelle, außer B2/B3 (je 1 Seite weniger): die Quell-PDFs haben eine **leere Schlussseite** (Content-Stream 0 Bytes), die der Ghostscript-Pass entfernt — inhaltslos, proof.json konsistent. Minor-Hinweis (R3).
+- **PDF/A-2b:** `pdfaid:part=2`, `conformance=B` in allen 10 Quell-PDFs; Fonts 4/4 eingebettet; 0 Rasterbilder.
+- **Nummerierung:** unverändert konsistent gegen 03-planung.md (244 Konzepte inkl. 5.1a/6.2k, B2 3.6 unbesetzt wie geplant; 142 Abb. N.M Datei=Ref=Caption; 15 warn-*.svg an den geplanten Stellen; Register-Labels lösen auf).
+- **ZIP:** 213 Einträge, 157 SVGs, Integrität OK.
+
+## Gesamturteil Turn 2: **FREIGEGEBEN** (Imprimatur Druckdaten + Quell-PDFs)
+
+0 blocker, 0 major offen. Die beiden Major-Befunde aus Turn 1 (F1 Schnittmarken, F2 „undefined“) sind vollständig und unabhängig verifiziert behoben. Restbefunde (minor, nicht blockierend, in nächster Revision/Print-Run entfernen): **R1** `abb-6-2.svg` `stroke-width='#e2e2e2'`; **R2** Meta-Referenzen „09 §…/Nr.…/02 §…“ in Warnrahmen/Registern/7 SVGs + Prüfprotokoll-Intro-Satz; **R3** leere Schlussseite in band-02/03-Quell-PDF (fällt im Druck ohnehin weg).
+
+**Nicht-Format-Hinweis an Phase K:** Gate G-1 (legal-Freigabe Band 6) ist laut abschlussbericht weiterhin offen — Owner legal/fachlektor, blockiert nicht die Formatfreigabe, wohl aber die Publikationsfreigabe von Band 6.
