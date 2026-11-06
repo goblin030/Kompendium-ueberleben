@@ -445,3 +445,28 @@ Alle übrigen 244 Konzept-Ampeln sowie die Korrekturen W5 (Chlor-Kinder), W7 (La
 
 ---
 *Ende 09-fachlektor.md — nächster Schritt laut WORKFLOW.md: planner (Phase D, Input: 02-factcheck.md + 09-fachlektor.md).*
+
+---
+
+## 9. Gate G-2 — Gegencheck Konzept 6.2k (Band 7, `04-redaktion-band-07.md`) · 2026-11-06
+
+**Anlass:** Gegencheck-Turn Gate G-2 nach Umsetzung von ROT-1 in der Redaktion. Geprüft: Konzept 6.2k inkl. WARNRAHMEN [warn-7b], Inline-NCHFP-Zeiten, psi→bar-Umrechnung, Anhang A3 (Einkoch-Protokoll) und Fehler-Tabelle (Anhang B).
+
+**SME-Prüfung (Lebensmittelsicherheit/medizinisch) gegen USDA/NCHFP, RKI, BfR:**
+
+| Aussage in 6.2k | Befund G-2 |
+|---|---|
+| Druckkocher 116–121 °C Pflicht für low-acid (pH > 4,6); Wasserbad (max. 100 °C) tötet C.-botulinum-Sporen nicht | korrekt (USDA/NCHFP, RKI, BfR) |
+| 10 psi bis 300 m (1.000 ft), darüber 15 psi; 1 psi ≈ 0,069 bar → 10 psi ≈ 0,7 bar, 15 psi ≈ 1,0 bar (Überdruck); 10 psi ≈ 115–116 °C, 15 psi ≈ 121 °C | korrekt. Hinweis: NCHFP-Höhenchart nennt heute feinere Stufen (12–14 psi); 15 psi über 300 m ist konservativ sicher |
+| NCHFP-Zeiten bei 10 psi (240 °F): Fleisch 75/90, Geflügel ohne Knochen 65/75, Fisch 75/100, Eintopf mit Fleisch/Fisch 75/90 (0,5-l-/1-l-Glas) | korrekt (NCHFP-Tabelle 240 °F); Eintopf konservativ |
+| Über 300 m: 15 psi, Zeiten ~15–20 % kürzer (Fleisch 60/75) | physikalisch korrekt (NCHFP-Spalte 250 °F/121 °C); NCHFP-Höhenanpassung behält alternativ die längeren 10-psi-Zeiten bei — der vorhandene Hinweis „ohne Manometer: Zeiten nicht kürzen / im Zweifel längere Zeiten“ deckt beides konservativ ab |
+| **Gemüse pauschal 30/35 min (0,5 l/1 l), inkl. Mais/Erbsen/Kürbis** | **Korrektur nötig:** NCHFP nennt für dichtes Gemüse in 1-l-Gläsern längere Zeiten (z. B. Mais ganze Körner: 55 min bei 10 psi); pauschal 35 min für 1 l ist für Mais/Kürbis/Erbsen zu kurz → Zeile differenzieren (Bohnen/Möhren ca. 25/30; Mais/Kürbis/Erbsen 1 l = 50–55 min) oder pauschal konservativ „1-l-Glas dichtes Gemüse ≥ 55 min“ |
+| Wasserbad nur Obst/sauer Eingelegtes (pH ≤ 4,6, gemessen); pH messen, ohne Messung konservativ low-acid → Druckkocher | korrekt (USDA: acidified tomatoes nur mit Zitronensaft/Citronensäure nach tested recipe) |
+| Öl-Einlagen (Kräuter/Knoblauch/Chili) nur gesäuert pH < 4,6 oder vollständig getrocknet, kühl lagern, Frist in Tagen | korrekt (FDA/BfR: Knoblauch-in-Öl = klassische Botulismus-Falle) |
+| Gewölbter Deckel/Schwall/Fremdgeruch/Schimmel → ungeöffnet wegwerfen, nie probieren, nicht an Tiere verfüttern; Vorkochen macht sporibelastetes Glas nicht sicher (Toxin hitzelabil 85 °C/5 min, Sporen nicht) | korrekt (RKI/BfR) |
+| Kaltgeräucherter Fisch allein nicht haltbar (C. botulinum Typ E) | korrekt |
+| US-Pintsglas ≈ 0,5 l, US-Quartglas ≈ 1 l | korrekt (0,47/0,95 l) |
+
+**G-2-Verdikt:** 6.2k **bestätigt — Ampel grün + WARNRAHMEN [warn-7b]**, mit einer **Korrekturauflage (gelb) für die pauschale Gemüse-Zeile** (siehe Tabelle): vor Druck Gemüse-Zeiten nach NCHFP differenzieren (Mais/Kürbis/Erbsen 1 l = 50–55 min bei 10 psi) oder pauschal konservativer angeben. Alle übrigen Aussagen fachlich korrekt. warn-7b, A3-Protokoll und Fehler-Tabelle (Anhang B) sind korrekt.
+
+*Angehängt an 09-fachlektor.md am 2026-11-06 (Gate G-2, fachlektor).*
