@@ -42,6 +42,25 @@ researcher ────────────────┘                  
   geht der Befund zurück an `doc-builder` (Format), `editor` (Inhalt) bzw.
   `illustrator` (Grafiken).
 
+## Gap-Analyse (2026-11-06)
+
+Recherche notwendiger Rollen für Erstellung + Publikation vs. bisheriger Workflow –
+Details in `artifacts/07-rollen-gap-analyse.md`. Festgestellte Lücken:
+
+- **Fachlektor/SME** pro Themenfeld (Jagd, Heilkunde, Recht) – fact-checker macht nur Quellenabgleich
+- **Korrektor** (Rechtschreibung/Grammatik/Typografie) als eigene Rolle nach dem editor
+- **Cover-/Gestaltungs-Agent** (Reihen-Design, KDP-Cover)
+- **Hersteller/Prepress** (PDF/X, Anschnitt, CMYK, Proof, Druckfreigabe)
+- **Publikations-/Vertriebs-Agent** (ISBN, ONIX-Metadaten, Plattform-Uploads, Preismodell)
+- **Rechts-Agent** (Impressum, AGB, Widerruf, Lizenz) – war im Chat als offen markiert
+- **Marketing-/Launch-Agent** (Leseprobe, Klappentext, Kampagne)
+- **Zielgruppen-/Testleser-Agent** (Persona, Beta-Leser)
+- **Barrierefreiheit** (EAA ab Juni 2025: getaggtes PDF/EPUB, ONIX-Metadaten)
+- **Register über alle 10 Bände**
+- **Projektmanager** (Meilensteine, Budget, Risiko)
+
+Diese Rollen sind Kandidaten für eine Phase G „Publishing" bzw. zusätzliche Agents/Skills.
+
 ## Konventionen
 
 - Jeder Agent schreibt **ein** definiertes Artefakt; Zwischenschritte landen im selben File.
