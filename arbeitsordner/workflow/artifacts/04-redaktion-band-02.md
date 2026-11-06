@@ -17,11 +17,11 @@ Wasser wird nach Bedarf verteilt, nicht nach Status oder Stärke.
 3. Nie Wasser als Druckmittel einsetzen.
 
 - [ ] Bedarfsliste aktuell
-- [ ] Zuteilung dokumentiert (s. Konzept 9.1 Band 1)
+- [ ] Zuteilung dokumentiert (s. Konzept B1-9.1)
 
 > **BAUSTEIN:** Wer mehr schwitzt, trinkt mehr. Bedarf vor Gerechtigkeit der Gleichheit.
 
-**Querverweise:** siehe Konzept 2.1, siehe Konzept 2.2, siehe Konzept 10.1.1 (Band 10, Schuld & Geschenk).
+**Querverweise:** siehe Konzept 2.1, siehe Konzept 2.2, siehe Konzept B10-1.1, Schuld & Geschenk.
 
 ### 1.2 Zonenplan — **gelb (W7)** · P 9 · M unbedenklich · V 9 · Abb. 2.1
 
@@ -30,7 +30,7 @@ Der Zonenplan trennt Wasserentnahme, Grauwasser und Latrine im Gelände. **Korre
 1. Entnahmestelle oben im Gelände wählen (siehe Konzept 3.3).
 2. Latrine hangabwärts, windabwärts, ≥ 30 m (besser 50 m) entfernt anlegen (siehe Konzept 9.1).
 3. Grauwasser-Zone zwischen beiden, nie oberhalb der Entnahme (siehe Konzept 9.2).
-4. Zonen markieren und im Protokoll eintragen (siehe Konzept 9.1 Band 1).
+4. Zonen markieren und im Protokoll eintragen (siehe Konzept B1-9.1).
 
 | Zone | Abstand zur Entnahme | Nutzung |
 |---|---|---|
@@ -63,20 +63,20 @@ Werte (W1/W2/L8): Trinkminimum **2–3 l/Person/Tag** (Kinder 1–1,5 l); Notfal
 
 > **BAUSTEIN:** 2 Liter retten, 15 Liter leben. Rechne beides, bevor du schöpfst.
 
-**Querverweise:** siehe Konzept 2.2, siehe Konzept 2.3, siehe Konzept 8.1, siehe Konzept 8.4.2 (Band 8, Wärme-Regie 2–4 l/Tag).
+**Querverweise:** siehe Konzept 2.2, siehe Konzept 2.3, siehe Konzept 8.1, siehe Konzept B8-4.2, Wärme-Regie 2–4 l/Tag.
 
 ### 2.2 Bedarfsprofile — grün · P 9 · M unbedenklich · V 9
 
 | Profil | Zuschlag |
 |---|---|
 | Kind | 1–1,5 l/Tag (dehydriert schneller) |
-| Fieber | + 1–2 l/Tag, siehe Konzept 8.4.2 (Band 8) |
+| Fieber | + 1–2 l/Tag, siehe Konzept B8-4.2 |
 | Schwere Arbeit | 4–6 l/Tag |
 | Schwangerschaft/Stillen | + 1 l/Tag |
 
 - [ ] Profile der Gruppe erfasst
 
-**Querverweise:** siehe Konzept 2.1, siehe Konzept 8.4.2 (Band 8).
+**Querverweise:** siehe Konzept 2.1, siehe Konzept B8-4.2.
 
 ### 2.3 Ertragsrechnung — grün · P 8 · M unbedenklich · V 8 · Abb. 2.3
 
@@ -113,6 +113,15 @@ Fließend vor stehend. Ölfilm oder Chemiegeruch = **verwerfen** (W4: Abkochen t
 3. Danach in sauberen Behälter (siehe Konzept 4.1) leiten.
 4. Ertrag nach Konzept 2.3 rechnen.
 
+**Stadt / Land:**
+
+| | Land (Haus mit Dach) | Stadt (Wohnung, kein Dachzugang) |
+|---|---|---|
+| Auffangfläche | Dachhälfte, Garage, Scheune | Balkonbrüstung (Plane darüber), Innenhof, Fensterbank, Flachdach-Zugang wenn vorhanden |
+| Aufbau | Rinne → Filter → Tank | Plane/Müllsack über Brüstung spannen, Eimer darunter; erstes Wasser verwerfen |
+| Ertrag | voll (siehe Konzept 2.3) | deutlich kleiner — mehr Behälter, öfter sammeln |
+| Kontrolle | First-Abwurf am Fallrohr | Plane nach jedem Regen reinigen; Vogelkot meiden |
+
 - [ ] First-Abwurf durchgeführt
 - [ ] Behälter sauber und lebensmittelecht (HDPE)
 
@@ -138,6 +147,8 @@ Fließend vor stehend. Ölfilm oder Chemiegeruch = **verwerfen** (W4: Abkochen t
 3. **Erstwasser verwerfen** (aufgewirbelter Schlamm), dann schöpfen.
 4. Absetzen lassen und klären (siehe Konzept 6.1), dann aufbereiten (Kapitel 6/7).
 
+**Stadt / Land:** Nur auf dem Land mit eigenem Grundstück sinnvoll. **In der Stadt:** keine Sickergrube graben (Keller, Leitungen, Nachbarn) — Regen auffangen (siehe B2-3.2 Stadt), Leitungsreste sammeln, Wasser aus dem Hausanschluss wenn Druck noch da ist, dann aufbereiten.
+
 - [ ] Erstwasser verworfen
 - [ ] Wasser geklärt vor der Aufbereitung
 
@@ -147,7 +158,7 @@ Fließend vor stehend. Ölfilm oder Chemiegeruch = **verwerfen** (W4: Abkochen t
 
 Der Solarstill ist ein Notbehelf (W11): Ertrag konservativ **0,3–1,5 l/Tag**, nur als Klarwasser-Nachbehandlung.
 
-1. Grube 50 × 50 cm, 30 cm tief; frisches Grün/Blaetter als Feuchtigkeitsspender hinein.
+1. Grube 50 × 50 cm, 30 cm tief; frisches Grün/Blätter als Feuchtigkeitsspender hinein.
 2. Auffanggefäß in die Mitte, Folie luftdicht darüber spannen, Stein in die Mitte der Folie (Trichter).
 3. Sonne 1 Tag stehen lassen; Kondensat auffangen.
 4. Ergebnis anschließend nachbehandeln: abkochen (siehe Konzept 6.2).
@@ -166,13 +177,13 @@ Der Solarstill ist ein Notbehelf (W11): Ertrag konservativ **0,3–1,5 l/Tag**, 
 Schmelze statt Schnee essen (W9): Pulverschnee ≈ 1:10, Altschnee 2–3:10, Krusten 3–5:10, Eis ≈ 9:10.
 
 1. Schnee in Behälter schmelzen (Körperwärme oder Feuer, siehe Band 3).
-2. **Tausalz-Schnee verwerfen** — Streusalz ist nicht genießbar (siehe Konzept 7.5.1 Band 7, `warn-7c`).
+2. **Tausalz-Schnee verwerfen** — Streusalz ist nicht genießbar (siehe Konzept B7-5.1, `warn-7c`).
 3. Geschmolzenes Wasser wie Oberflächenwasser behandeln (Kapitel 6/7).
 
 - [ ] Schmelzverhältnis beachtet
 - [ ] Tausalz-Schnee ausgeschlossen
 
-**Querverweise:** siehe Konzept 7.5.1 (Band 7), siehe Konzept 6.2.
+**Querverweise:** siehe Konzept B7-5.1, siehe Konzept 6.2.
 
 ---
 
@@ -194,16 +205,16 @@ Schmelze statt Schnee essen (W9): Pulverschnee ≈ 1:10, Altschnee 2–3:10, Kru
 
 ### 4.2 Transportkette (10 l einseitig) — grün · P 8 · M unbedenklich · V 9 · Abb. 2.7
 
-Konsistent mit Traglast (W20, siehe Konzept 6.5 Band 1): 10 l Wasser = 10 kg = eine Seite, ein Arm.
+Konsistent mit Traglast (W20, siehe Konzept B1-6.5): 10 l Wasser = 10 kg = eine Seite, ein Arm.
 
 1. Max. 10 l pro Person pro Gang einseitig tragen.
-2. Besser: Kanister mit Trageriemen auf dem Rücken (siehe Konzept 6.5 Band 1).
+2. Besser: Kanister mit Trageriemen auf dem Rücken (siehe Konzept B1-6.5).
 3. Gruppe: Zwischentank am Ziel (siehe Konzept 4.3).
 
 - [ ] ≤ 10 l einseitig
-- [ ] Traglast-Regel (siehe Konzept 6.5 Band 1) eingehalten
+- [ ] Traglast-Regel (siehe Konzept B1-6.5) eingehalten
 
-**Querverweise:** siehe Konzept 6.5 (Band 1), siehe Konzept 4.3.
+**Querverweise:** siehe Konzept B1-6.5, siehe Konzept 4.3.
 
 ### 4.3 Gruppenkette (Zwischentank) — grün · P 8 · M unbedenklich · V 8
 
@@ -233,6 +244,14 @@ Konsistent mit Traglast (W20, siehe Konzept 6.5 Band 1): 10 l Wasser = 10 kg = e
 - [ ] Befund-Tabelle abgearbeitet
 - [ ] Blaualgen-Vorkommen ausgeschlossen
 
+**Trübung messen ohne Gerät (Feldmethode, ersetzt NTU-Messgerät):** weiße Scheibe/Teller (DIY-Secchi) an eine Schnur binden, ins Wasser lassen, Sichttiefe ablesen (bei der das Teller gerade noch/verschwimmt). Richtwerte:
+
+| Sichttiefe (Secchi) | ≈ NTU | Bedeutung für die Aufbereitung |
+|---|---|---|
+| > 30 cm (Teller klar sichtbar) | < 10 | klären reicht oft; SODIS zulässig (siehe 6.3); Chlor normal dosieren |
+| 10–30 cm | 10–30 | vorfiltern (siehe 6.1), dann Chlor **doppelt** (siehe 7.3) oder SODIS nur nach Klärung |
+| < 10 cm (Teller sofort weg) | > 30 | **SODIS ungeeignet** (siehe 6.3); erst absetzen + filtern (6.1), dann abkochen (6.2) oder Chlor doppelt (7.3) |
+
 > **BAUSTEIN:** Sieh hin, riech dran, lass stehen. Im Zweifel kochst du (siehe Konzept 6.2).
 
 **Querverweise:** siehe Konzept 3.1, siehe Konzept 6.1, siehe Konzept 6.2, siehe Konzept 7.2.
@@ -246,7 +265,7 @@ Konsistent mit Traglast (W20, siehe Konzept 6.5 Band 1): 10 l Wasser = 10 kg = e
 1. Wasser 30 min absetzen lassen.
 2. Vorsichtig dekantieren — Bodensatz bleibt zurück.
 3. Durch Tuch (mehrfach gebügelt) oder Aktivkohle-Schicht (5 cm) filtern.
-4. Trübung messen: Ziel < 5 NTU vor SODIS/Chlor (siehe 6.3/7.3).
+4. Trübung messen: Ziel **Sichttiefe > 10 cm (≈ < 30 NTU)** vor SODIS/Chlor — Feldmethode siehe Konzept 5.1 (Secchi-Teller). Bei < 10 cm Sichttiefe: erst absetzen + doppelt filtern, sonst abkochen (siehe 6.2).
 
 - [ ] Absetzzeit eingehalten
 - [ ] Trübung nach Filterung geprüft
@@ -271,7 +290,7 @@ Wert (W3, CDC/WHO): **1 Minute sprudelnd kochen; ab 2.000 m Höhe 3 Minuten.**
 
 ### 6.3 SODIS — **gelb** · P 6 · M unbedenklich · V 8 · Abb. 2.10
 
-Nur bei **klarem Wasser < 30 NTU**, PET-Flaschen **1–2 l**, **6 h volle Sonne / 2 Tage bewölkt** (W6). **Im Zweifel kochen** (siehe Konzept 6.2).
+Nur bei **klarem Wasser — Sichttiefe > 30 cm (≈ < 10 NTU, Feldmethode siehe Konzept 5.1)**, PET-Flaschen **1–2 l**, **6 h volle Sonne / 2 Tage bewölkt** (W6). **Im Zweifel kochen** (siehe Konzept 6.2).
 
 1. Wasser klären (siehe Konzept 6.1), sonst ungeeignet.
 2. PET-Flasche randvoll füllen, schütteln (Sauerstoff), in volle Sonne legen.
@@ -325,6 +344,13 @@ Ertrag konservativ (W11): Topf-Destille **0,5–1,5 l/h**, Solarstill 0,3–1,5 
 
 Dosis (W5): **~2 Tropfen 5–6%ige Bleiche pro Liter**; trüb oder kalt: **doppelt (4 Tropfen)**, Wartezeit **30 min (kalt 60 min)**, dann Geruchsprobe.
 
+**Konzentration umrechnen (% NaOCl ↔ °chl.):** Haushaltsbleiche wird oft als „Javel 36° chl.“ (≈ 9,6 % NaOCl) verkauft. Umrechnung: °chl. × 0,266 ≈ % NaOCl — also **36° chl. ≈ 9,6 % → Dosis halbieren: ≈ 1 Tropfen pro Liter** (trüb/kalt: 2 Tropfen).
+
+| Produkt | ≈ % NaOCl | Tropfen pro 1 l klar | Tropfen pro 1 l trüb/kalt |
+|---|---|---|---|
+| 5–6 % NaOCl (Standard) | 5–6 % | 2 | 4 |
+| Javel 36° chl. (≈ 9,6 %) | ≈ 9,6 % | 1 | 2 |
+
 > **WARNRAHMEN [warn-2]:** Nie Bleiche mit **Säure (Essig/Entkalker) oder Ammoniak** mischen — Chlorgas/Chloramine, lebensgefährlich. Nur unparfümierte Haushaltsbleiche 5–6 % NaOCl, nur mit kaltem Wasser, gut lüften. Symptome (Husten, Atemnot, Augenbrennen): sofort Frischluft, ärztlich vorstellen.
 
 **Korrektur W5:** Die Kinder-Halbdosis ist **gestrichen** — die Desinfektionsdosis wird nicht halbiert. **Im Zweifel abkochen** (siehe Konzept 6.2).
@@ -344,19 +370,21 @@ Dosis (W5): **~2 Tropfen 5–6%ige Bleiche pro Liter**; trüb oder kalt: **doppe
 
 ### 8.1 Haushaltsvorrat (2 l × 14 T) — grün · P 9 · M unbedenklich · V 10 · Abb. 2.14
 
-BBK-Wert (W21): **2 l Trinkwasser pro Person × 14 Tage**. Konsistent mit Konzept 9.1 Band 1 (Stundenprotokoll: Verbrauch dokumentieren).
+BBK-Wert (W21): **2 l Trinkwasser pro Person × 14 Tage**. Konsistent mit Konzept B1-9.1 (Stundenprotokoll: Verbrauch dokumentieren).
 
 1. Vorrat = Personen × 2 l × 14 T.
 2. In sauberen, lebensmittelechten Behältern (siehe Konzept 4.1), dunkel und kühl lagern.
 3. Alle 6 Monate rotieren (neu auffüllen, alt verbrauchen).
-4. Verbrauch im Stundenprotokoll erfassen (siehe Konzept 9.1 Band 1).
+4. Verbrauch im Stundenprotokoll erfassen (siehe Konzept B1-9.1).
+
+**Stadt / Land:** Land = kühler Keller/erdberührter Raum. **Stadt (Wohnung):** kühlerster Schrank/Abstellraum am Treppenhaus, nie über der Heizung, nie in der Sonne; Temperatur regelmäßig prüfen (siehe B1-7.4); Behälter kennzeichnen (siehe 4.1).
 
 - [ ] Vorrat gerechnet und eingelagert
 - [ ] Rotationstermin notiert
 
 > **BAUSTEIN:** Zwei Liter am Tag, vierzehn Tage lang — das ist der Boden, auf dem du stehst.
 
-**Querverweise:** siehe Konzept 2.1, siehe Konzept 4.1, siehe Konzept 9.1 (Band 1).
+**Querverweise:** siehe Konzept 2.1, siehe Konzept 4.1, siehe Konzept B1-9.1.
 
 ### 8.2 Wiederverseuchung (Ausgießbehälter) — grün · P 8 · M unbedenklich · V 9
 
@@ -382,7 +410,15 @@ Sauberes Wasser wird am Behälter wieder dreckig. Dagegen: **Ausgießbehälter**
 1. Stelle nach Konzept 1.2 wählen (≥ 30 m, besser 50 m, hangabwärts, windabwärts).
 2. Grabtiefe **25–30 cm** (Glossar Band 1 Anhang D: Tiefe ≠ Abstand).
 3. Nach jedem Gebrauch mit Erde/Spänen abdecken.
-4. Hände danach desinfizieren/waschen mit gesottenem Wasser (siehe Konzept 2.6.2 und Konzept 8.2.2 Band 8).
+4. Hände danach desinfizieren/waschen mit gesottenem Wasser (siehe Konzept 2.6.2 und Konzept B8-2.2).
+
+**Stadt / Land:**
+
+| | Land | Stadt (Wohnung) |
+|---|---|---|
+| Toilette | Grube 25–30 cm tief, ≥ 30 m (besser 50 m) unterhalb der Wasserentnahme (siehe 1.2) | **Trocken-Trenn-Toilette** oder Eimer mit dichtem Deckel + Sägespäne/Laub als Abdeckung |
+| Entsorgung | Abdecken, neue Stelle nach 4–6 Wochen | Beutel luftdicht verschließen, über kommunale Entsorgung (wenn vorhanden) oder weit außerhalb des Wohngebiets; nie in Hausmülltonne offen |
+| Hygiene | Hände waschen mit gesottenem Wasser (siehe B8-2.2) | Hände desinfizieren (Chlor-Lösung siehe 7.3 oder Spiritus), Wasser sparen |
 
 - [ ] Abstand ≥ 30 m (besser 50 m) gemessen
 - [ ] Grabtiefe 25–30 cm
@@ -390,11 +426,11 @@ Sauberes Wasser wird am Behälter wieder dreckig. Dagegen: **Ausgießbehälter**
 
 > **BAUSTEIN:** Tiefer graben (25–30 cm), weiter weg legen (≥ 30 m). Beides zählt.
 
-**Querverweise:** siehe Konzept 1.2, siehe Konzept 2.6.2, siehe Glossar „Latrine“ (Band 1 Anhang D), siehe Konzept 4.1.2 (Band 4).
+**Querverweise:** siehe Konzept 1.2, siehe Konzept 2.6.2, siehe Glossar „Latrine“ (Band 1 Anhang D), siehe Konzept B4-1.2.
 
 ### 9.2 Grauwasser-Kette — grün · P 7 · M unbedenklich · V 9 · Abb. 2.16
 
-Kaskade: erst Waschen (Körper), dann Spülen (Geschirr), dann Boden wischen. **Lauge nie an Haut oder Wunden** (siehe Konzept 8.2.2 Band 8).
+Kaskade: erst Waschen (Körper), dann Spülen (Geschirr), dann Boden wischen. **Lauge nie an Haut oder Wunden** (siehe Konzept B8-2.2).
 
 1. Grauwasser-Zone unterhalb der Entnahme (siehe Konzept 1.2).
 2. Versickerungsgrube 30 cm tief, 50 cm breit, mit Steinen gefüllt.
@@ -404,14 +440,14 @@ Kaskade: erst Waschen (Körper), dann Spülen (Geschirr), dann Boden wischen. **
 - [ ] Lauge nicht an Haut/Wunden
 - [ ] Versickerung unterhalb der Entnahme
 
-**Querverweise:** siehe Konzept 1.2, siehe Konzept 8.2.2 (Band 8).
+**Querverweise:** siehe Konzept 1.2, siehe Konzept B8-2.2.
 
 ---
 
 ## Anhang A — Kopiervorlagen (Band 2)
 
-- **A1 Wasserinventur** (zu 8.1): Personen × 2 l × 14 T = Soll; Ist-Spalte; Verbrauch pro Tag (mit Konzept 9.1 Band 1).
-- **A2 Chlor-Dosis-Tabelle (korrigiert W5)** (zu 7.3): 1 l klar = 2 Tropfen 5–6 % NaOCl, 30 min; trüb/kalt = 4 Tropfen, 60 min; **keine Kinder-Halbdosis — im Zweifel abkochen (6.2)**; nie mit Säure/Ammoniak mischen (`warn-2`).
+- **A1 Wasserinventur** (zu 8.1): Personen × 2 l × 14 T = Soll; Ist-Spalte; Verbrauch pro Tag (mit Konzept B1-9.1).
+- **A2 Chlor-Dosis-Tabelle (korrigiert W5)** (zu 7.3): 1 l klar = 2 Tropfen 5–6 % NaOCl (36° chl. ≈ 9,6 %: 1 Tropfen), 30 min; trüb/kalt = doppelt, 60 min; **keine Kinder-Halbdosis — im Zweifel abkochen (6.2)**; nie mit Säure/Ammoniak mischen (`warn-2`).
 - **A3 Latrinen-Check (korrigiert W7)** (zu 9.1): Abstand ≥ 30 m (besser 50 m) unterhalb gemessen / Grabtiefe 25–30 cm / Abdeckung vorhanden.
 
 ## Anhang B — Fehler-Tabelle (Band 2)
@@ -424,11 +460,11 @@ Kaskade: erst Waschen (Körper), dann Spülen (Geschirr), dann Boden wischen. **
 | Trübes Wasser mit SODIS | wirkungslos | 6.1 klären; nur < 30 NTU (6.3) |
 | Destillat ohne Nachkochen | Keime überlebt | 7.2 + 6.2 |
 | Schöpfen mit schmutzigem Becher | Wiederverseuchung | 8.2 Ausgießbehälter |
-| Tausalz-Schnee geschmolzen | Salzvergiftung | 3.7 verwerfen; `warn-7c` (Band 7 5.1) |
+| Tausalz-Schnee geschmolzen | Salzvergiftung | 3.7 verwerfen; `warn-7c` (B7-5.1) |
 
 ## Anhang C — Übungsplan (Band 2)
 
-Q2 siehe Konzept 8.1 (Band 1): Wasseraufbereitung üben — Abkochen (6.2), Sandfilter bauen (7.1), Chlor dosieren (7.3, korrigiert), Latrine anlegen (9.1, W7). Verfalluhr 12 Monate (siehe Konzept 8.2 Band 1).
+Q2 siehe Konzept B1-8.1: Wasseraufbereitung üben — Abkochen (6.2), Sandfilter bauen (7.1), Chlor dosieren (7.3, korrigiert), Latrine anlegen (9.1, W7). Verfalluhr 12 Monate (siehe Konzept B1-8.2).
 
 ---
 

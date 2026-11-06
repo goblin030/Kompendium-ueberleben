@@ -42,7 +42,7 @@ Gäste sitzen auf dem Ehrenplatz (wärmster/sicherster Platz, beste Portion). Ga
 
 ### 2.1 Der Wert — grün · P 8 · M unbedenklich · V 7 · Abb. 10.1
 
-**Korridor: Stunde / Seltenheit / Not.** Historische Maße: **Elle/Ruthe/Mandel = 15/Zehnt** (siehe Konzept 1.7.1 Band 1, Elle ≈ 45 cm).
+**Korridor: Stunde / Seltenheit / Not.** Elle, Ruthe und Mandel waren historische Hohlmaße (Elle ≈ 45 cm, siehe B1-7.1); „15/Zehnt“ heißt: 15 Teile Maß = ein Zehnt Aufschlag — historischer Vergleich, heute nicht mehr gebräuchlich.
 
 1. Wert nach Arbeitszeit (Stunden-Tafel, siehe Konzept 3.2).
 2. Seltenheit: was nicht verfügbar ist, steigt.
@@ -50,7 +50,7 @@ Gäste sitzen auf dem Ehrenplatz (wärmster/sicherster Platz, beste Portion). Ga
 
 - [ ] Korridor angewendet
 
-**Querverweise:** siehe Konzept 1.7.1 (Band 1), siehe Konzept 2.2, siehe Konzept 2.4, siehe Konzept 3.2.
+**Querverweise:** siehe Konzept B1-7.1, siehe Konzept 2.2, siehe Konzept 2.4, siehe Konzept 3.2.
 
 ### 2.2 Ehrliche Waage — grün · P 7 · M unbedenklich · V 8 · Abb. 10.2
 
@@ -63,12 +63,12 @@ Gäste sitzen auf dem Ehrenplatz (wärmster/sicherster Platz, beste Portion). Ga
 
 ### 2.3 Tausch-Platz — **gelb (prüfenswert)** · P 7 · M prüfenswert · V 8
 
-Markt mit **Fristen** (Anfang/Ende angesagt); Ordnung aufrechterhalten (Wachen, siehe Konzept 9.3 Band 3 und Konzept 1.9.2 Band 1).
+Markt mit **Fristen** (Anfang/Ende angesagt); Ordnung aufrechterhalten (Wachen, siehe Konzept B3-9.3 und Konzept B1-9.2).
 
 - [ ] Markt-Fristen angesagt
 - [ ] Ordnungsposten besetzt
 
-**Querverweise:** siehe Konzept 9.3 (Band 3), siehe Konzept 1.9.2 (Band 1), siehe Konzept 4.1.
+**Querverweise:** siehe Konzept B3-9.3, siehe Konzept B1-9.2, siehe Konzept 4.1.
 
 ### 2.4 Wucher — **gelb** · P 7 · M prüfenswert · V 8
 
@@ -87,11 +87,11 @@ Markt mit **Fristen** (Anfang/Ende angesagt); Ordnung aufrechterhalten (Wachen, 
 
 ### 3.1 Ware des Hauses — grün · P 7 · M unbedenklich · V 8
 
-Nur **haltbare Ware** handeln (siehe Band 7, sechs Wege, Konzept 7.2.2): Dörrware, Gesalzenes, Eingekochtes (siehe Konzept 7.6.2k), Getreide, Salz (Herkunft bekannt, siehe Konzept 7.5.1 `warn-7c`).
+Nur **haltbare Ware** handeln (siehe Band 7, sechs Wege, Konzept B7-2.2): Dörrware, Gesalzenes, Eingekochtes (siehe Konzept B7-6.2k), Getreide, Salz (Herkunft bekannt, siehe Konzept B7-5.1 `warn-7c`).
 
 - [ ] Nur haltbare Ware
 
-**Querverweise:** siehe Konzept 7.2.2 (Band 7), siehe Konzept 7.6.2k (Band 7), siehe Konzept 7.5.1 (Band 7).
+**Querverweise:** siehe Konzept B7-2.2, siehe Konzept B7-6.2k, siehe Konzept B7-5.1.
 
 ### 3.2 Ware der Hand — grün · P 7 · M unbedenklich · V 8
 
@@ -99,7 +99,7 @@ Nur **haltbare Ware** handeln (siehe Band 7, sechs Wege, Konzept 7.2.2): Dörrwa
 
 - [ ] Stunden-Tafel geführt
 
-**Querverweise:** siehe Konzept 2.1, siehe Konzept 9.9.1 (Band 9, Weitergabe).
+**Querverweise:** siehe Konzept 2.1, siehe Konzept B9-9.1, Weitergabe.
 
 ---
 
@@ -107,12 +107,14 @@ Nur **haltbare Ware** handeln (siehe Band 7, sechs Wege, Konzept 7.2.2): Dörrwa
 
 ### 4.1 Ämter des Dorfes — grün · P 9 · M unbedenklich · V 8 · Abb. 10.3
 
-**Amt an die Hand, nicht an das Blut** — Ämter rotieren, doppelt besetzt (siehe Konzept 1.9.2 Band 1).
+**Amt an die Hand, nicht an das Blut** — Ämter rotieren, doppelt besetzt (siehe Konzept B1-9.2).
+
+**Stadt / Land:** Land = Dorfgemeinschaft auf dem Land. **Stadt:** dasselbe auf Nachbarschaft/Stockwerk — Rat der Nachbarn (siehe 4.2), Ämter rotieren pro Haushalt, Tauschplatz im Treppenhaus oder Hof (siehe 2.3), gemeinsamer Vorrat im kühlen Treppenhaus (siehe B7-8.1), Wachplan für das Haus (siehe B1-9.2).
 
 - [ ] Ämter vergeben und doppelt besetzt
 - [ ] Rotation geplant
 
-**Querverweise:** siehe Konzept 1.9.2 (Band 1).
+**Querverweise:** siehe Konzept B1-9.2.
 
 ### 4.2 Rat & Streit — **gelb** · P 7 · M prüfenswert · V 8
 
@@ -130,11 +132,11 @@ Streit nach **Klage und Zeugen** (siehe Konzept 1.2), **nie Rache**.
 
 ### 4.3 Reserve: der Zehnte — grün · P 8 · M unbedenklich · V 8
 
-**Aus voller Kammer, nie aus der Not** — der Zehnte (10 %) der Erträge geht in die Reserve (siehe Konzept 7.9.1 Band 7, Winter-Rechnung).
+**Aus voller Kammer, nie aus der Not** — der Zehnte (10 %) der Erträge geht in die Reserve (siehe Konzept B7-9.1, Winter-Rechnung).
 
 - [ ] Zehnte aus voller Kammer
 
-**Querverweise:** siehe Konzept 7.9.1 (Band 7), siehe Konzept 8.3.
+**Querverweise:** siehe Konzept B7-9.1, siehe Konzept 8.3.
 
 ---
 
@@ -142,7 +144,7 @@ Streit nach **Klage und Zeugen** (siehe Konzept 1.2), **nie Rache**.
 
 ### 5.1 Weg-Kunde / Furt — **gelb + WARNRAHMEN [warn-10a]** · P 7 · M prüfenswert · V 8 · Abb. 10.4
 
-> **WARNRAHMEN [warn-10a] — FURT:** **Stab an 3 Stellen prüfen** (Tiefe, Grund, Strömung), **nie über Kniehöhe mit Last** durchwaten, **nie im Dunkeln** (siehe Konzept 4.9.2 Band 4, Restlicht-1-h). Umgehung suchen, wenn eine Stelle zweifelhaft ist.
+> **WARNRAHMEN [warn-10a] — FURT:** **Stab an 3 Stellen prüfen** (Tiefe, Grund, Strömung), **nie über Kniehöhe mit Last** durchwaten, **nie im Dunkeln** (siehe Konzept B4-9.2, Restlicht-1-h). Umgehung suchen, wenn eine Stelle zweifelhaft ist.
 
 - [ ] Stab-Prüfung an 3 Stellen
 - [ ] Nie über Knie mit Last
@@ -150,31 +152,31 @@ Streit nach **Klage und Zeugen** (siehe Konzept 1.2), **nie Rache**.
 
 > **BAUSTEIN:** Die Furt prüfst du mit dem Stab dreimal — und im Dunkeln gar nicht.
 
-**Querverweise:** siehe Konzept 4.9.2 (Band 4), siehe Konzept 2.3 (Band 2, Wasser lesen).
+**Querverweise:** siehe Konzept B4-9.2, siehe Konzept B2-2.3, Wasser lesen.
 
 ### 5.2 Gast & Fremder — **gelb** · P 6 · M prüfenswert · V 8
 
-1. **Nie allein empfangen** — zwei Gastgeber (siehe Konzept 1.9.2 Band 1).
-2. **Verdacht laut aussprechen** (in der Gruppe, siehe Konzept 2.4 Band 1).
+1. **Nie allein empfangen** — zwei Gastgeber (siehe Konzept B1-9.2).
+2. **Verdacht laut aussprechen** (in der Gruppe, siehe Konzept B1-2.4).
 3. **Selbstjustiz verboten** — siehe Konzept 4.2.
-4. **Prüfen, was mitgebracht wird** (Waffen ablegen lassen am Eingang, siehe Konzept 10.7.1 `warn-10b`).
+4. **Prüfen, was mitgebracht wird** (Waffen ablegen lassen am Eingang, siehe Konzept B10-7.1 `warn-10b`).
 
-> **Rechtlich (09 §4.6):** **Notstand §§ 34/35 StGB** — Eigentumseingriff bei Lebensgefahr ist gerechtfertigt/entschuldigt (siehe Konzept 4.8.1 Band 4). **Hausrecht § 123 StGB** — Eindringen in Wohnungen verboten, Abwehr erlaubt. **Keine Präventivgewalt.** Deeskalation zuerst (siehe Konzept 4.2).
+> **Rechtlich (09 §4.6):** **Notstand §§ 34/35 StGB** — Eigentumseingriff bei Lebensgefahr ist gerechtfertigt/entschuldigt (siehe Konzept B4-8.1). **Hausrecht § 123 StGB** — Eindringen in Wohnungen verboten, Abwehr erlaubt. **Keine Präventivgewalt.** Deeskalation zuerst (siehe Konzept 4.2).
 
 - [ ] Nie allein empfangen
 - [ ] Mitgebrachtes geprüft
 - [ ] §§ 34/35/123 StGB bekannt
 
-**Querverweise:** siehe Konzept 4.2, siehe Konzept 4.8.1 (Band 4), siehe Konzept 1.1 (Gast-Ethik).
+**Querverweise:** siehe Konzept 4.2, siehe Konzept B4-8.1, siehe Konzept 1.1 (Gast-Ethik).
 
 ### 5.3 Trupp — **gelb** · P 7 · M prüfenswert · V 8
 
-**Einer vorn, einer hinten** — nie allein los (siehe Konzept 1.5.2 Band 1, +60-min-Regel).
+**Einer vorn, einer hinten** — nie allein los (siehe Konzept B1-5.2, +60-min-Regel).
 
 - [ ] Trupp doppelt besetzt
-- [ ] +60-min-Regel aktiv (siehe Konzept 1.5.2 Band 1)
+- [ ] +60-min-Regel aktiv (siehe Konzept B1-5.2)
 
-**Querverweise:** siehe Konzept 1.5.2 (Band 1).
+**Querverweise:** siehe Konzept B1-5.2.
 
 ---
 
@@ -182,26 +184,26 @@ Streit nach **Klage und Zeugen** (siehe Konzept 1.2), **nie Rache**.
 
 ### 6.1 Feuerprobe (Ring der Reihe) — grün · P 9 · M unbedenklich · V 8 · Abb. 10.5
 
-Die Feuerprobe prüft **alle Bände 1–9** im Ring der Reihe (jeder concept wird abgefragt, siehe Anhang Feuerprobe). Konsistent mit Übungskultur (siehe Konzept 1.8.1/1.8.2 Band 1).
+Die Feuerprobe prüft **alle Bände 1–9** im Ring der Reihe (jedes Konzept wird abgefragt, siehe Anhang Feuerprobe). Konsistent mit Übungskultur (siehe Konzepte B1-8.1 und B1-8.2).
 
 1. Jeder Band 1–9 wird mit seinem Fragenkatalog geprüft (Anhang Band 10).
-2. Wer eine Frage nicht beantworten kann, übt nach (siehe Konzept 1.8.2 Band 1, Verfalluhr 12 Monate).
-3. Ergebnis im Protokoll (siehe Konzept 1.9.1 Band 1).
+2. Wer eine Frage nicht beantworten kann, übt nach (siehe Konzept B1-8.2, Verfalluhr 12 Monate).
+3. Ergebnis im Protokoll (siehe Konzept B1-9.1).
 
 - [ ] Alle 9 Bände durchgeprüft
-- [ ] Lücken als Übungspflicht notiert (siehe Konzept 1.8.2 Band 1)
+- [ ] Lücken als Übungspflicht notiert (siehe Konzept B1-8.2)
 
 > **BAUSTEIN:** Was die Feuerprobe nicht besteht, fliegt aus dem Kopf — bis du es wieder übst.
 
-**Querverweise:** siehe Konzept 1.8.1, siehe Konzept 1.8.2, siehe Konzept 1.9.1 (alle Band 1), Anhang Feuerprobe.
+**Querverweise:** siehe Konzepte B1-8.1, B1-8.2, B1-9.1, Anhang Feuerprobe.
 
 ### 6.2 Prüfung der Werkstatt — grün · P 7 · M unbedenklich · V 9
 
-**Zwei Nachbarn zeugen** die Werkstatt-Prüfung (siehe Konzept 9.9.1 Band 9, Weitergabe dreifach gesichert).
+**Zwei Nachbarn zeugen** die Werkstatt-Prüfung (siehe Konzept B9-9.1, Weitergabe dreifach gesichert).
 
 - [ ] Zwei Zeugen anwesend
 
-**Querverweise:** siehe Konzept 9.9.1 (Band 9).
+**Querverweise:** siehe Konzept B9-9.1.
 
 ---
 
@@ -209,22 +211,22 @@ Die Feuerprobe prüft **alle Bände 1–9** im Ring der Reihe (jeder concept wir
 
 ### 7.1 Zeug-Haus — grün + **WARNRAHMEN [warn-10b]** · P 9 · M unbedenklich · V 8 · Abb. 10.6
 
-> **WARNRAHMEN [warn-10b] — BRAND IM ZEUGHAUS:** **Kein offenes Licht** im Zeughaus (Lampe außen oder elektrisch nicht vorhanden — Kerze/Laterne nur am Eingang). **Ofen außen**, Eimer mit Wasser am Eingang (siehe Konzept 3.9.1 Band 3). Abstände konsistent mit Konzept 3.1.2 (Band 3): 2–3 m frei, 4–6 m zu Unterkünften.
+> **WARNRAHMEN [warn-10b] — BRAND IM ZEUGHAUS:** **Kein offenes Licht** im Zeughaus (Lampe außen oder elektrisch nicht vorhanden — Kerze/Laterne nur am Eingang). **Ofen außen**, Eimer mit Wasser am Eingang (siehe Konzept B3-9.1). Abstände konsistent mit Konzept B3-1.2: 2–3 m frei, 4–6 m zu Unterkünften.
 
 - [ ] Kein offenes Licht innen
 - [ ] Ofen außen
 - [ ] Eimer am Eingang
-- [ ] Abstände (siehe Konzept 3.1.2 Band 3)
+- [ ] Abstände (siehe Konzept B3-1.2)
 
-**Querverweise:** siehe Konzept 3.1.2 (Band 3), siehe Konzept 3.9.1 (Band 3), siehe Konzept 5.2 (Waffen ablegen).
+**Querverweise:** siehe Konzept B3-1.2, siehe Konzept B3-9.1, siehe Konzept 5.2 (Waffen ablegen).
 
 ### 7.2 Abschreiben & Bewahren (vier Schichten) — grün · P 7 · M unbedenklich · V 9 · Abb. 10.7
 
-Vier Schichten der Bewahrung: **1. geschriebene Kopie, 2. verlesene mündliche Überlieferung, 3. eingeübte Praxis (siehe Konzept 1.8.2 Band 1), 4. Vermächtnis (siehe Konzept 9.1)**.
+Vier Schichten der Bewahrung: **1. geschriebene Kopie, 2. verlesene mündliche Überlieferung, 3. eingeübte Praxis (siehe Konzept B1-8.2), 4. Vermächtnis (siehe Konzept 9.1)**.
 
 - [ ] Vier Schichten vorhanden
 
-**Querverweise:** siehe Konzept 1.8.2 (Band 1), siehe Konzept 9.1.
+**Querverweise:** siehe Konzept B1-8.2, siehe Konzept 9.1.
 
 ---
 
@@ -232,9 +234,9 @@ Vier Schichten der Bewahrung: **1. geschriebene Kopie, 2. verlesene mündliche �
 
 ### 8.1 Kalender des Dorfes — grün · P 7 · M unbedenklich · V 9 · Abb. 10.8
 
-Konsistent mit Konzept 1.8.1 (Band 1, Jahres-Übungsplan) und Konzept 5.9.2 (Band 5, Pflanzen-Kalender): Fest- und Arbeitstermine schriftlich (siehe Konzept 1.3.4 Band 1, Papier statt Netz).
+Konsistent mit Konzept B1-8.1, Jahres-Übungsplan und Konzept B5-9.2, Pflanzen-Kalender: Fest- und Arbeitstermine schriftlich (siehe Konzept B1-3.4, Papier statt Netz).
 
-**Querverweise:** siehe Konzept 1.8.1 (Band 1), siehe Konzept 5.9.2 (Band 5).
+**Querverweise:** siehe Konzept B1-8.1, siehe Konzept B5-9.2.
 
 ### 8.2 Gedenken (Vermächtnis verlesen) — grün · P 6 · M unbedenklich · V 9
 
@@ -244,11 +246,11 @@ Vermächtnis wird **verlesen** (siehe Konzept 9.1) — mündlich und schriftlich
 
 ### 8.3 Die harte Zeit — grün · P 8 · M unbedenklich · V 8
 
-**Ration im Herbst gesetzt** (siehe Konzept 7.9.1 Band 7, Winter-Rechnung 100 Tage + 20–33 %). Entscheidung im Rat (siehe Konzept 4.2), nicht allein.
+**Ration im Herbst gesetzt** (siehe Konzept B7-9.1, Winter-Rechnung 100 Tage + 20–33 %). Entscheidung im Rat (siehe Konzept 4.2), nicht allein.
 
 - [ ] Ration im Herbst beschlossen
 
-**Querverweise:** siehe Konzept 7.9.1 (Band 7), siehe Konzept 4.2, siehe Konzept 4.3.
+**Querverweise:** siehe Konzept B7-9.1, siehe Konzept 4.2, siehe Konzept 4.3.
 
 ---
 
@@ -263,7 +265,7 @@ Vermächtnis wird **verlesen** (siehe Konzept 9.1) — mündlich und schriftlich
 - [ ] Vermächtnis-Blatt geführt
 - [ ] Verlesen protokolliert
 
-**Querverweise:** siehe Konzept 7.2, siehe Konzept 8.2, siehe Konzept 9.2 (Band 9, Lehrling).
+**Querverweise:** siehe Konzept 7.2, siehe Konzept 8.2, siehe Konzept B9-9.2, Lehrling.
 
 ### 9.2 Schluss der Reihe (Haus-Metapher) — grün · P 6 · M unbedenklich · V 10
 
@@ -296,7 +298,7 @@ Das Kompendium ist ein Haus: Band 1 das Fundament, Bände 2–9 die Räume, Band
 
 ## Anhang C — Übungsplan (Band 10)
 
-Feuerprobe (6.1) halbjährlich über alle Bände 1–9; Tausch-Protokoll (1.2) üben; Vermächtnis-Blatt (9.1) jährlich aktualisieren. Verfalluhr 12 Monate (siehe Konzept 8.2 Band 1).
+Feuerprobe (6.1) halbjährlich über alle Bände 1–9; Tausch-Protokoll (1.2) üben; Vermächtnis-Blatt (9.1) jährlich aktualisieren. Verfalluhr 12 Monate (siehe Konzept B1-8.2).
 
 ## Anhang Feuerprobe / Fragenkatalog (zu 6.1) — Ring der Reihe
 

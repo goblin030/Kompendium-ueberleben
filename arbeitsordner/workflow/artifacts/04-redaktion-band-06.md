@@ -18,7 +18,7 @@ Jagd nur im **Notstand** (Lebenserhalt), sauberer Tod, **Ganz-Verwertung** (sieh
 - [ ] Jagdschein + Befugnis vorhanden
 - [ ] Ganz-Verwertung geplant (siehe Konzept 9.3)
 
-**Querverweise:** siehe Konzept 9.3, siehe Konzept 10.4.2 (Band 10).
+**Querverweise:** siehe Konzept 9.3, siehe Konzept B10-4.2.
 
 ### 1.2 Jagd-Kreise & Ruhe-Zonen — grün · P 9 · M unbedenklich · V 9
 
@@ -35,9 +35,19 @@ Jagd nur im **Notstand** (Lebenserhalt), sauberer Tod, **Ganz-Verwertung** (sieh
 
 **Setz-/Brut-/Laich-Fenster** meiden (z. B. Reh Mai–Juni, Forelle Okt–Jan). **Schonzeiten nach § 22 BJagdG** — Zuwiderhandlung strafbar (§ 38 BJagdG).
 
-- [ ] Schonzeiten im Kalender (siehe Konzept 10.8.1 Band 10)
+**Schon-/Schonfenster (konservativ, DE-weit; je Bundesland strenger — ohne Netz diese Fenster meiden; Zuwiderhandlung § 38 BJagdG strafbar):**
 
-**Querverweise:** siehe Konzept 10.8.1 (Band 10).
+| Tier / Gruppe | Fenster | Grund |
+|---|---|---|
+| Rehwild (Kitz/Setzzeit) | Mai–Juni | Setzzeit |
+| Feldhase | Oktober–Januar (je Land) | Schonzeit |
+| Fasan/Huhn (Brut) | März–Juli | Brutzeit |
+| Fische (Laichzeit, z. B. Forelle) | Oktober–Januar | Laichzeit |
+| Vögel allgemein | ganzjährig | Eier/Nester entnehmen verboten (§ 44 BNatSchG, siehe 5.2) |
+
+- [ ] Schonzeiten im Kalender (siehe Konzept B10-8.1)
+
+**Querverweise:** siehe Konzept B10-8.1.
 
 ---
 
@@ -52,7 +62,7 @@ Jagd nur im **Notstand** (Lebenserhalt), sauberer Tod, **Ganz-Verwertung** (sieh
 | Reh | herzförmig, gespalten |
 | Hase | hintere Abdrücke lang, paarweise neben Vorderläufen |
 
-- [ ] Trittsiegel fotografiert/notiert (siehe Konzept 9.1 Band 1)
+- [ ] Trittsiegel fotografiert/notiert (siehe Konzept B1-9.1)
 
 **Querverweise:** siehe Konzept 2.4.
 
@@ -95,7 +105,14 @@ Fuchsbau (mehrere Röhren), Dachs (groß, Erdhaufen), Wildschwein (Nest), Reh (L
 
 > **WARNRAHMEN [warn-6c] — VERLETZTES WILD (09 Nr. 12):** Verletztes Wild ist die **größte Gefahr für den Jäger**. **Wartefrist** nach dem Schuss einhalten (Reh/Wildschwein: 10–15 min), dann **Nachsuche** mit Hund oder systematisch (siehe Konzept 2.x). **Schusswaffen nur mit Erlaubnis (WaffG)** — ohne Waffenschein keine Schusswaffe führen.
 
-1. Schuss nur bei sicherer Gelegenheit (Breitseite, < 20 m bei Kurzwaffe im Notstand — siehe rechtlicher Hinweis).
+1. Schuss nur bei sicherer Gelegenheit — Entscheidungstabelle:
+
+| Mittel | Max. Entfernung | Zielzone | Bedingung |
+|---|---|---|---|
+| Schusswaffe | bis 50 m | Breitseite, Kugelfang sicher | **nur mit Waffenschein (WaffG)** — ohne Erlaubnis keine Schusswaffe führen oder einsetzen |
+| Jagdbogen | — | — | **nur Übungsgerät, nicht zur Jagd** (siehe 4.1) |
+| Wurfholz/Speer | < 10 m | — | nur als Werkzeug (siehe 4.2) |
+
 2. Nach dem Schuss: Wartefrist, dann Nachsuche.
 3. Wildbret-Untersuchung und Durchgaren: siehe Konzept 9.1 (`warn-6b`).
 
@@ -117,22 +134,22 @@ Fuchsbau (mehrere Röhren), Dachs (groß, Erdhaufen), Wildschwein (Nest), Reh (L
 
 1. Nur als Übungsgerät führen; nie zur Jagd einsetzen.
 2. Sicherheitsabstand **10–20 m**; nie auf Personen richten.
-3. **100 Probeschüsse Pflicht** vor jedem Einsatz (siehe Konzept 8.2 Band 1, Übungsprotokoll).
+3. **100 Probeschüsse Pflicht** vor jedem Einsatz (siehe Konzept B1-8.2, Übungsprotokoll).
 
 - [ ] Als Übungsgerät deklariert
 - [ ] 100 Probeschüsse dokumentiert
 - [ ] Sicherheitsabstand 10–20 m
 
-**Querverweise:** siehe Konzept 1.1 (Jagdschein-Pflicht), siehe Konzept 8.2 (Band 1).
+**Querverweise:** siehe Konzept 1.1 (Jagdschein-Pflicht), siehe Konzept B1-8.2.
 
 ### 4.2 Pfeil, Speer, Wurfholz — **gelb (SME)** · P 6 · M unbedenklich · V 8
 
-> **Rechtlicher Hinweis (Pflicht):** **Speer als Jagdwaffe unzulässig**; Wurfholz nur als **Werkzeug** (siehe Konzept 9.9.x Band 9). **Keine Gifte** an Pfeil/Speer (ethische Leitlinie, siehe Konzept 10.4.2 Band 10).
+> **Rechtlicher Hinweis (Pflicht):** **Speer als Jagdwaffe unzulässig**; Wurfholz nur als **Werkzeug** (siehe Konzept B9-9.x). **Keine Gifte** an Pfeil/Speer (ethische Leitlinie, siehe Konzept B10-4.2).
 
 - [ ] Speer nicht zur Jagd
 - [ ] Keine Gifte
 
-**Querverweise:** siehe Konzept 4.1, siehe Konzept 9.3.3 (Band 9, Stiel/Wurfholz als Werkzeug).
+**Querverweise:** siehe Konzept 4.1, siehe Konzept B9-3.3, Stiel/Wurfholz als Werkzeug.
 
 ---
 
@@ -149,7 +166,7 @@ Fuchsbau (mehrere Röhren), Dachs (groß, Erdhaufen), Wildschwein (Nest), Reh (L
 1. Kastenfalle am Wechsel aufstellen (siehe Konzept 2.3), mit Draht an Baum sichern.
 2. Köder: Apfel, Möhre, Ei (siehe Konzept 6.2).
 3. Kontrollkarte führen (Anhang A Band 6): 2× täglich, Fang sofort entnehmen oder töten (sauberer Tod, siehe Konzept 1.1).
-4. Lebendfang: Tier unverletzt entnehmen, nach Konzept 9.1 zerwirken.
+4. Lebendfang: Tier unverteilt entnehmen — **sauberer Tod sofort:** bei Kleintieren **Genickbruch** ( kräftiger Zug/Drehung am Kopf, bis das Rückgrat durchtrennt ist) oder kräftiger Schlag auf den Kopf; nie quälen, nie leiden lassen. Danach nach Konzept 9.1 zerwirken.
 
 - [ ] Amtlich zugelassen (Bundesland geprüft)
 - [ ] 2× täglich kontrolliert
@@ -172,9 +189,9 @@ Fuchsbau (mehrere Röhren), Dachs (groß, Erdhaufen), Wildschwein (Nest), Reh (L
 
 ### 5.3 Feder-Kunde — grün · P 7 · M unbedenklich · V 9
 
-Schwungfeder (steif, zum Schreiben/Schneiden) vs Daune (weich, Isolation, siehe Konzept 4.2.1 Band 4). Federn trocknen, mit Talkum/Puder gegen Verkleben lagern.
+Schwungfeder (steif, zum Schreiben/Schneiden) vs Daune (weich, Isolation, siehe Konzept B4-2.1). Federn trocknen, mit Talkum/Puder gegen Verkleben lagern.
 
-**Querverweise:** siehe Konzept 4.2.1 (Band 4), siehe Konzept 9.3 (Ganz-Verwertung).
+**Querverweise:** siehe Konzept B4-2.1, siehe Konzept 9.3 (Ganz-Verwertung).
 
 ---
 
@@ -182,16 +199,16 @@ Schwungfeder (steif, zum Schreiben/Schneiden) vs Daune (weich, Isolation, siehe 
 
 ### 6.1 Schnur, Haken, Pose — grün · P 8 · M unbedenklich · V 9 · Abb. 6.6
 
-Konsistent mit Knoten (siehe Konzept 1.6.3 Band 1) und Seil (siehe Konzept 9.5.2 Band 9).
+Konsistent mit Knoten (siehe Konzept B1-6.3) und Seil (siehe Konzept B9-5.2).
 
 1. **Knoten-Prüfung vor jedem Einsatz:** jeder Knoten belastet ziehen.
-2. Haken an Schnur mit Achterknoten (siehe Konzept 1.6.3 Band 1) oder Palomar.
+2. Haken an Schnur mit **Achterknoten** (siehe Konzept B1-6.3).
 3. Pose (Schwimmer) aus Kork/Holz selbst schnitzen.
 
 - [ ] Knoten geprüft
 - [ ] Haken fest
 
-**Querverweise:** siehe Konzept 1.6.3 (Band 1), siehe Konzept 9.5.2 (Band 9).
+**Querverweise:** siehe Konzept B1-6.3, siehe Konzept B9-5.2.
 
 ### 6.2 Köder-Kunde — grün · P 8 · M unbedenklich · V 9
 
@@ -243,21 +260,21 @@ Konsistent mit Knoten (siehe Konzept 1.6.3 Band 1) und Seil (siehe Konzept 9.5.2
 
 ### 8.1 Muscheln der Gezeiten — grün + **WARNRAHMEN [warn-6]** · P 9 · M unbedenklich · V 9 · Abb. 6.9
 
-> **WARNRAHMEN [warn-6] — MUSCHEL-/ALGENGIFTE (W17, 09 Nr. 6):** PSP (Saxitoxin), DSP, ASP sind **hitzestabil — kein Kochen rettet**. **Nur aus amtlich überwachten Gewässern** ernten; nach Algenblüten/Stürmen **Sperre** beachten. **Blaualgen (Microcystin) im Süßwasser:** nicht trinken, nicht baden bei Massenvermehrung (siehe Konzept 2.5.1 Band 2). Bank-Rast: nur frische, fest schließende Muscheln.
+> **WARNRAHMEN [warn-6] — MUSCHEL-/ALGENGIFTE (W17, 09 Nr. 6):** PSP (Saxitoxin), DSP, ASP sind **hitzestabil — kein Kochen rettet**. **Nur aus amtlich überwachten Gewässern** ernten; nach Algenblüten/Stürmen **Sperre** beachten. **Blaualgen (Microcystin) im Süßwasser:** nicht trinken, nicht baden bei Massenvermehrung (siehe Konzept B2-5.1). Bank-Rast: nur frische, fest schließende Muscheln.
 
 - [ ] Amtlich überwachtes Gewässer
 - [ ] Sperrzeiten beachtet
 - [ ] Frische geprüft (fest geschlossen)
 
-**Querverweise:** siehe Konzept 2.5.1 (Band 2, Blaualgen), siehe Konzept 9.2.
+**Querverweise:** siehe Konzept B2-5.1, Blaualgen, siehe Konzept 9.2.
 
 ### 8.2 Krabben & Watt-Gäste — grün · P 8 · M unbedenklich · V 8
 
-**Petermännchen** und **Löwenmähnen-Qualle:** beim Stich **heißes Wasser** auf die Stelle (40–45 °C, so heiß wie ertragbar — nicht verbrühen, siehe Konzept 1.7.4 Band 1, 55-°C-Grenze).
+**Petermännchen** und **Löwenmähnen-Qualle:** beim Stich **heißes Wasser 40–45 °C** auf die Stelle — so heiß wie möglich, **ohne zu verbrühen** (Verbrühungsgrenze 55 °C, siehe B1-7.4). 40–45 °C sind die wirksame Temperatur; „so heiß wie ertragbar“ meint nicht 55 °C.
 
 - [ ] Heißwasser-Behandlung bekannt
 
-**Querverweise:** siehe Konzept 1.7.4 (Band 1), siehe Konzept 8.7.1 (Band 8).
+**Querverweise:** siehe Konzept B1-7.4, siehe Konzept B8-7.1.
 
 ---
 
@@ -265,17 +282,17 @@ Konsistent mit Knoten (siehe Konzept 1.6.3 Band 1) und Seil (siehe Konzept 9.5.2
 
 ### 9.1 Ausnehmen & Zerwirken — grün + **WARNRAHMEN [warn-6b]** · P 9 · M unbedenklich · V 8 · Abb. 6.10
 
-> **WARNRAHMEN [warn-6b] — TRICHINEN / TOLLWUT / FLEDERMAUS-LYSSAVIREN (W18, 09 Nr. 7, verschärft):** **Trichinen:** amtliche Untersuchung (EU-VO 2075/2005) dringend empfohlen; sicher ist **Durchgaren auf ≥ 71 °C Kerntemperatur** (besser 75 °C) — **Gefrieren bei Wild ist unzuverlässig** (T. britovi kälteresistent). **Tollwut:** DE/IR terrestrisch tollwutfrei, aber **Fledermaus-Lyssaviren (EBLV-1/-2)** möglich — **Fledermaus nie mit bloßen Händen**, Biss/Kratzer → sofort postexpositionelle Prophylaxe (siehe Konzept 8.2.2 Band 8). Verhaltensauffällige Tiere meiden, nicht anfassen.
+> **WARNRAHMEN [warn-6b] — TRICHINEN / TOLLWUT / FLEDERMAUS-LYSSAVIREN (W18, 09 Nr. 7, verschärft):** **Trichinen:** amtliche Untersuchung (EU-VO 2075/2005) dringend empfohlen; sicher ist **Durchgaren auf ≥ 71 °C Kerntemperatur** (besser 75 °C) — **Gefrieren bei Wild ist unzuverlässig** (T. britovi kälteresistent). **Tollwut:** DE/IR terrestrisch tollwutfrei, aber **Fledermaus-Lyssaviren (EBLV-1/-2)** möglich — **Fledermaus nie mit bloßen Händen**, Biss/Kratzer → sofort postexpositionelle Prophylaxe (siehe Konzept B8-2.2). Verhaltensauffällige Tiere meiden, nicht anfassen.
 
 1. Wild mit Handschuhen ausnehmen; kranke Tiere (Leber/Lunge verändert) meiden.
 2. Fleisch kühl halten, bald verarbeiten (siehe Band 7).
-3. Durchgaren ≥ 71 °C Kern vor Verzehr.
+3. Durchgaren ≥ 71 °C Kern vor Verzehr. **Messen:** Fleischthermometer in der Sanitätsmappe (siehe B8-8.1) und in der Werkzeugkiste (siehe B9-8.1). **Ohne Thermometer (Ersatzkriterien):** Fleisch ist innen grau-braun (nicht rosa), die Fasern lösen sich leicht, austretender Saft ist klar (nicht rosa); Fisch: Fleisch undurchsichtig weiß und löst sich von der Gräte; Kochzeit konservativ wählen.
 
 - [ ] ≥ 71 °C Kerntemperatur gemessen
 - [ ] Keine Fledermaus mit bloßen Händen
 - [ ] Kranke Tiere gemieden
 
-**Querverweise:** siehe Konzept 8.2.2 (Band 8, Tetanus/postexpositionell), siehe Konzept 7.9.2 (Band 7, Schwelle/Vorrat).
+**Querverweise:** siehe Konzept B8-2.2, Tetanus/postexpositionell, siehe Konzept B7-9.2, Schwelle/Vorrat.
 
 ### 9.2 Wild-Küche — grün · P 9 · M unbedenklich · V 9
 
@@ -288,11 +305,11 @@ Konsistent mit Knoten (siehe Konzept 1.6.3 Band 1) und Seil (siehe Konzept 9.5.2
 
 ### 9.3 Fell, Sehne, Knochen (Ganz-Verwertung) — grün · P 8 · M unbedenklich · V 8
 
-Konsistent mit Konzept 1.1 (Ganz-Verwertung): Fell gerben (siehe Konzept 7.7.3 Band 7), Sehnen als Faden/Schnur (siehe Konzept 9.5.2 Band 9), Knochen zu Leim/Werkzeug (siehe Konzept 9.7.2 Band 9).
+Konsistent mit Konzept 1.1 (Ganz-Verwertung): Fell gerben (siehe Konzept B7-7.3), Sehnen als Faden/Schnur (siehe Konzept B9-5.2), Knochen zu Leim/Werkzeug (siehe Konzept B9-7.2).
 
 - [ ] Nichts wegwerfen, was verwertbar ist
 
-**Querverweise:** siehe Konzept 1.1, siehe Konzept 7.7.3 (Band 7), siehe Konzept 9.7.2 (Band 9).
+**Querverweise:** siehe Konzept 1.1, siehe Konzept B7-7.3, siehe Konzept B9-7.2.
 
 ---
 
@@ -317,7 +334,7 @@ Konsistent mit Konzept 1.1 (Ganz-Verwertung): Fell gerben (siehe Konzept 7.7.3 B
 
 ## Anhang C — Übungsplan (Band 6)
 
-Spurenlesen (2.1–2.4) monatlich im Gelände; Kastenfalle 5.1a aufstellen + kontrollieren üben; Angelknoten (6.1) mit Konzept 1.6.3 (Band 1); Zerwirk-Protokoll (9.1). Verfalluhr 12 Monate (siehe Konzept 8.2 Band 1). Bogen 4.1: 100 Probeschüsse als Übungspflicht.
+Spurenlesen (2.1–2.4) monatlich im Gelände; Kastenfalle 5.1a aufstellen + kontrollieren üben; Angelknoten (6.1) mit Konzept B1-6.3; Zerwirk-Protokoll (9.1). Verfalluhr 12 Monate (siehe Konzept B1-8.2). Bogen 4.1: 100 Probeschüsse als Übungspflicht.
 
 ---
 

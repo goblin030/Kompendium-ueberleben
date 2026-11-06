@@ -10,11 +10,11 @@
 
 ### 1.1 Grenze des Vorrats — grün · P 8 · M unbedenklich · V 10
 
-Vorrat dient dem Überleben der Gruppe, nicht dem Horten. Tausch vor Behalten (siehe Konzept 10.2.3 Band 10).
+Vorrat dient dem Überleben der Gruppe, nicht dem Horten. Tausch vor Behalten (siehe Konzept B10-2.3).
 
 - [ ] Vorratsziel nach Bedarf (siehe Konzept 9.1), nicht nach Angst
 
-**Querverweise:** siehe Konzept 9.1, siehe Konzept 10.2.3 (Band 10).
+**Querverweise:** siehe Konzept 9.1, siehe Konzept B10-2.3.
 
 ### 1.2 Die drei Kreise — grün · P 9 · M unbedenklich · V 9
 
@@ -24,7 +24,7 @@ Vorrat dient dem Überleben der Gruppe, nicht dem Horten. Tausch vor Behalten (s
 | Woche | kurz haltbar (Brot, Wurst) | wöchentlich |
 | Winter | Kammer, Dörrware, Gesalzenes | saisonal (siehe Konzept 9.1) |
 
-**Querverweise:** siehe Konzept 9.1, siehe Konzept 8.1 (Band 2, Haushaltsvorrat).
+**Querverweise:** siehe Konzept 9.1, siehe Konzept B2-8.1, Haushaltsvorrat.
 
 ### 1.3 Vorrats-Fahrplan (sechs Stationen) — grün · P 9 · M unbedenklich · V 9
 
@@ -78,7 +78,7 @@ Trocknen, Räuchern, Salzen/Pökeln, Säuern/Einlegen, Einkochen, Kühlen — Ta
 
 ### 3.2 Dörrware — grün + **WARNRAHMEN [warn-7a]** · P 9 · M unbedenklich · V 9 · Abb. 7.2
 
-> **WARNRAHMEN [warn-7a] — HALBTROCKENE DÖRRFALLE (09 Nr. 8, verschärft):** **USDA-Preheat: Fleisch und Fisch vor dem Dörren auf 71 °C Kerntemperatur erhitzen** (Trocknen allein tötet Keime nicht sicher). Halbtrocken (aw > 0,85) wachsen S. aureus (Enterotoxin hitzestabil) und C. perfringens. Dörrware muss **spröde brechen (Brechprobe)**, Scheiben **fingerdünn**. **Schimmel auf Dörrware → ganz wegwerfen** (Mykotoxine penetrieren, siehe Konzept 8.2).
+> **WARNRAHMEN [warn-7a] — HALBTROCKENE DÖRRFALLE (09 Nr. 8, verschärft):** **USDA-Preheat: Fleisch und Fisch vor dem Dörren auf 71 °C Kerntemperatur erhitzen** (Trocknen allein tötet Keime nicht sicher; Kern messen mit Thermometer, siehe B8-8.1/B9-8.1, Ersatzkriterien siehe B6-9.1). Halbtrocken bedeutet: die Ware **biegt sich noch, statt spröde zu brechen** (Wasseraktivität aw > 0,85) — darauf wachsen S. aureus (Enterotoxin hitzestabil) und C. perfringens. Dörrware muss **spröde brechen (Brechprobe)**, Scheiben **fingerdünn**. **Schimmel auf Dörrware → ganz wegwerfen** (Mykotoxine penetrieren, siehe Konzept 8.2).
 
 Reduktionsverhältnisse (W25): Fleisch 3:1, Fisch 4:1, Obst 5:1, Kraut 10:1.
 
@@ -107,12 +107,12 @@ Reduktionsverhältnisse (W25): Fleisch 3:1, Fisch 4:1, Obst 5:1, Kraut 10:1.
 
 ### 4.2 Holz & Rauch — grün · P 7 · M unbedenklich · V 9 · Abb. 7.4
 
-**Nadelholz-Verbot** (Terpentin, harzig, ungenießbarer Rauch). Torf nur gemischt (siehe Konzept 3.7.2 Band 3). Hartholz (Buche, Eiche) bevorzugen.
+**Nadelholz-Verbot** (Terpentin, harzig, ungenießbarer Rauch). Torf nur gemischt (siehe Konzept B3-7.2). Hartholz (Buche, Eiche) bevorzugen.
 
 - [ ] Kein Nadelholz
 - [ ] Hartholz bevorzugt
 
-**Querverweise:** siehe Konzept 3.2.2 (Band 3), siehe Konzept 3.7.2 (Band 3).
+**Querverweise:** siehe Konzept B3-2.2, siehe Konzept B3-7.2.
 
 ### 4.3 Wurst — grün · P 7 · M unbedenklich · V 7
 
@@ -131,15 +131,15 @@ Reduktionsverhältnisse (W25): Fleisch 3:1, Fisch 4:1, Obst 5:1, Kraut 10:1.
 > **WARNRAHMEN [warn-7c] — UNBEKANNTES SALZ (WARN 2, 09 §4.3):** **Streusalz und Regeneriersalz nie in die Küche** — Ferrocyanid-Rieselhilfe und Verunreinigungen. Nur Salz **bekannter Herkunft** (Meersalz, Siedesalz, Steinsalz aus kontrollierter Quelle). Herkunft prüfen, bevor du salzt.
 
 - [ ] Herkunft des Salzes bekannt
-- [ ] Kein Streusalz/Regeneriersalz in Lebensmitteln (siehe auch Konzept 2.3.7 Band 2, Tausalz-Schnee)
+- [ ] Kein Streusalz/Regeneriersalz in Lebensmitteln (siehe auch Konzept B2-3.7, Tausalz-Schnee)
 
 > **BAUSTEIN:** Salz aus der Winterstreuung ist für die Straße, nicht für den Topf.
 
-**Querverweise:** siehe Konzept 2.3.7 (Band 2), siehe Konzept 5.2.
+**Querverweise:** siehe Konzept B2-3.7, siehe Konzept 5.2.
 
 ### 5.2 Pökeln (Lake-Ei-Test) — grün · P 9 · M unbedenklich · V 9 · Abb. 7.5
 
-Werte (W26): **Lake-Ei-Test** — rohes Ei schwimmt in der Lake. Speck **7–10 Tage**, Schinken **~1 Tag je cm Dicke + 2 Tage** (konservativer als USDA).
+Werte (W26): **Lake-Ei-Test** — ein **frisches rohes Ei** (legt in Süßwasser auf den Grund) **schwimmt in der fertigen Lake** (Salzgehalt ausreichend). Speck **7–10 Tage**, Schinken **~1 Tag je cm Dicke + 2 Tage** (konservativer als USDA).
 
 1. Lake ansetzen: Salzgehalt prüfen (Ei-Test).
 2. Fleisch einlegen, kühl stellen (siehe Konzept 8.1).
@@ -173,6 +173,20 @@ Werte (W26): **Lake-Ei-Test** — rohes Ei schwimmt in der Lake. Speck **7–10 
 
 > „Einkochen von Fleisch, Geflügel, Fisch und Gemüse (pH > 4,6) gelingt nur im **Druckkocher bei 116–121 °C** (10 psi bis 300 m, darüber 15 psi) mit den Zeiten nach USDA/NCHFP (z. B. Fleisch: Pintsglas 75 min, Quartglas 90 min bei 10 psi). Ein Wasserbad (max. 100 °C) tötet die Sporen von *C. botulinum* nicht — es ist nur für Obst und sauer Eingelegtes (pH ≤ 4,6, gemessen) zulässig. pH mit Indikatorpapier messen; ohne Messung konservativ Druckkocher wählen. Kräuter/Knoblauch in Öl nur mit Säuerung auf pH < 4,6 oder vollständig getrocknet, kühl lagern, innerhalb weniger Tage verbrauchen. Gewölbte Deckel, Schwall oder Fremdgeruch: Glas ungeöffnet wegwerfen — nie probieren.“
 
+**Umrechnung:** 1 psi ≈ 0,069 bar → **10 psi ≈ 0,7 bar** (bis 300 m Höhe), **15 psi ≈ 1,0 bar** (über 300 m). US-Pintsglas ≈ **0,5 l**, US-Quartglas ≈ **1 l**.
+
+**Einkoch-Zeiten inline (NCHFP-Richtwerte, low-acid pH > 4,6, 10 psi ≈ 0,7 bar, bis 300 m):**
+
+| Ware (low-acid) | 0,5-l-Glas | 1-l-Glas |
+|---|---|---|
+| Fleisch (Rind, Schwein, Lamm), roh gepackt | 75 min | 90 min |
+| Geflügel, ohne Knochen | 65 min | 75 min |
+| Fisch | 75 min | 100 min |
+| Gemüse, Stückware (Bohnen, Möhren, Erbsen, Mais) | 30 min | 35 min |
+| Eintopf / Gerichte mit Fleisch oder Fisch | 75 min | 90 min |
+
+**Über 300 m Höhe (15 psi ≈ 1,0 bar):** Zeiten um ca. 15–20 % kürzen (Fleisch: 0,5 l = 60 min, 1 l = 75 min). **Im Zweifel die längeren 10-psi-Zeiten wählen** — länger schadet nicht, zu kurz tötet Sporen nicht. Ohne Manometer: 10-psi-Stufe nehmen und Zeiten nicht kürzen.
+
 Umsetzung als Schritte:
 
 1. pH des Einlegeguts mit Indikatorpapier messen; **ohne Messung konservativ als low-acid (pH > 4,6) behandeln**.
@@ -190,7 +204,7 @@ Umsetzung als Schritte:
 
 > **BAUSTEIN:** Was sauer ist, darf ins Wasserbad. Was nicht sauer ist, braucht den Druckkocher. Alles andere ist Russisch Roulette mit Gläsern.
 
-**Querverweise:** siehe Konzept 4.1 (Räucherfisch), siehe Konzept 6.1, siehe Konzept 6.3, siehe Konzept 8.3.3 (Band 8, Öl-Auszüge nur gesäuert), siehe Konzept 5.6.2 (Band 5, `warn-5`-Kontext), Anhang A (Einkoch-Protokoll Druckkocher, NCHFP-Zeiten).
+**Querverweise:** siehe Konzept 4.1 (Räucherfisch), siehe Konzept 6.1, siehe Konzept 6.3, siehe Konzept B8-3.3, Öl-Auszüge nur gesäuert, siehe Konzept B5-6.2, `warn-5`-Kontext, Anhang A (Einkoch-Protokoll Druckkocher, NCHFP-Zeiten).
 
 ### 6.3 Essig selbst gebraut — grün · P 8 · M unbedenklich · V 8
 
@@ -219,10 +233,10 @@ Umsetzung als Schritte:
 
 ### 7.2 Seife aus Resten — grün · P 6 · M unbedenklich · V 8 · Abb. 7.9
 
-Werte (W27): **~1 Pfund Fett → ~1 Pfund Seife**; Lauge **0,5 l pro Pfund Fett**; **Reife 4–6 Wochen**.
+Werte (W27): **~1 Pfund (= 500 g) Fett → ~500 g Seife**; Lauge **0,5 l pro Pfund (500 g) Fett**; **Reife 4–6 Wochen**.
 
-1. Lauge aus Asche herstellen (siehe Konzept 3.8.2 Band 3: 2 Hände Asche/10 l Wasser).
-2. Fett erhitzen, Lauge zugeben, rühren bis Spuren („Spur ziehen“).
+1. Lauge aus Asche herstellen (siehe B3-8.2: 2 Hände Asche/10 l Wasser).
+2. Fett erhitzen, Lauge zugeben, rühren bis **„Spur ziehen“** — die Masse hinterlässt auf dem Löffel eine sichtbare dickflüssige Bahn.
 3. In Form gießen, 4–6 Wochen reifen lassen.
 
 - [ ] Verhältnis 1:1, Lauge 0,5 l/Pfund
@@ -230,7 +244,7 @@ Werte (W27): **~1 Pfund Fett → ~1 Pfund Seife**; Lauge **0,5 l pro Pfund Fett*
 
 > **BAUSTEIN:** Seife braucht sechs Wochen Geduld und kein Parfüm.
 
-**Querverweise:** siehe Konzept 3.8.2 (Band 3), siehe Konzept 8.1.
+**Querverweise:** siehe Konzept B3-8.2, siehe Konzept 8.1.
 
 ### 7.3 Gerben (Lohe/Eichenrinde) — grün · P 7 · M unbedenklich · V 7
 
@@ -241,7 +255,7 @@ Werte (W27): **~1 Pfund Fett → ~1 Pfund Seife**; Lauge **0,5 l pro Pfund Fett*
 
 - [ ] Schnittprobe braun
 
-**Querverweise:** siehe Konzept 9.3 (Band 6), siehe Konzept 7.1, siehe Konzept 9.7.3 (Band 9, Lederpflege/Fett).
+**Querverweise:** siehe Konzept B6-9.3, siehe Konzept 7.1, siehe Konzept B9-7.3, Lederpflege/Fett.
 
 ---
 
@@ -249,7 +263,7 @@ Werte (W27): **~1 Pfund Fett → ~1 Pfund Seife**; Lauge **0,5 l pro Pfund Fett*
 
 ### 8.1 Die kalte Kammer (Zonen) — grün · P 9 · M unbedenklich · V 9 · Abb. 7.10
 
-Zonen konsistent mit Feuer-Abständen Band 3 (siehe Konzept 3.1.2 Band 3).
+Zonen konsistent mit Feuer-Abständen Band 3 (siehe Konzept B3-1.2).
 
 | Zone | Inhalt | Temperatur |
 |---|---|---|
@@ -257,10 +271,12 @@ Zonen konsistent mit Feuer-Abständen Band 3 (siehe Konzept 3.1.2 Band 3).
 | Trocken- und Dunkelzone | Getreide, Dörrware, Konserven | kühl, trocken, dunkel |
 | Warme Zone (nicht beheizt) | Obst, Gemüse, Brot | Keller-Temperatur |
 
-- [ ] Zonen klar getrennt
-- [ ] Temperatur regelmäßig geprüft (siehe Konzept 1.7.4 Band 1)
+**Stadt / Land:** Land = erdberührter Keller/Grube. **Stadt (Wohnung):** kühlster Schrank oder Abstellraum am Treppenhaus, **nie über der Heizung**, nie in der Sonne; Temperatur mit Thermometer prüfen (Ziel < 10 °C in der Kühlzone, siehe B8-8.1); bei Stromausfall in der Wohnung bleibt der Treppenhaus-Schrank der kühlste Ort.
 
-**Querverweise:** siehe Konzept 3.1.2 (Band 3), siehe Konzept 8.2.
+- [ ] Zonen klar getrennt
+- [ ] Temperatur regelmäßig geprüft (siehe Konzept B1-7.4)
+
+**Querverweise:** siehe Konzept B3-1.2, siehe Konzept 8.2.
 
 ### 8.2 Gäste & Verderb-Atlas — grün · P 8 · M unbedenklich · V 9 · Abb. 7.11
 
@@ -281,29 +297,29 @@ Entscheidungstabelle: retten / essen / wegwerfen.
 
 **100 stille Tage + 20–33 % Zugabe.**
 
-1. Tage × Personen × Tagesbedarf (siehe Konzept 2.2.1 Band 2 für Wasser; Kalorien analog) rechnen.
+1. Tage × Personen × Tagesbedarf (siehe Konzept B2-2.1 für Wasser; Kalorien analog) rechnen.
 2. 20–33 % Zugabe für Krankheit, Mehrverbrauch, Verluste.
-3. Gegen Vorrat rechnen (siehe Konzept 8.1 Band 2).
+3. Gegen Vorrat rechnen (siehe Konzept B2-8.1).
 
 - [ ] 100 Tage + Zugabe gerechnet
 
-**Querverweise:** siehe Konzept 2.2.1 (Band 2), siehe Konzept 1.2, siehe Konzept 9.2.
+**Querverweise:** siehe Konzept B2-2.1, siehe Konzept 1.2, siehe Konzept 9.2.
 
 ### 9.2 Vorrat & Schwelle — grün · P 8 · M unbedenklich · V 10
 
-Konsistent mit Konzept 6.9.x (Band 6): Der Fang/Wildertrag geht zuerst in die Schwelle (Tageskreis, siehe Konzept 1.2), dann in den Winter-Speicher.
+Konsistent mit Konzept B6-9.x (Band 6): Der Fang/Wildertrag geht zuerst in die Schwelle (Tageskreis, siehe Konzept 1.2), dann in den Winter-Speicher.
 
-**Querverweise:** siehe Konzept 6.9.1 (Band 6), siehe Konzept 1.2.
+**Querverweise:** siehe Konzept B6-9.1, siehe Konzept 1.2.
 
 ### 9.3 Die Saat — grün · P 9 · M unbedenklich · V 9
 
-1. Keimprobe (siehe Konzept 5.8.3 Band 5): **< 12/20 gekeimt → neue Saat**.
+1. Keimprobe (siehe Konzept B5-8.3): **< 30 von 50 gekeimt (60 %) → neue Saat**.
 2. **Nie Saatgut essen** — auch nicht in der Not.
 
 - [ ] Keimprobe bestanden (≥ 12/20)
 - [ ] Saat getrennt gelagert, nie verzehrt
 
-**Querverweise:** siehe Konzept 5.8.3 (Band 5), siehe Konzept 8.1.
+**Querverweise:** siehe Konzept B5-8.3, siehe Konzept 8.1.
 
 ---
 
@@ -329,7 +345,7 @@ Konsistent mit Konzept 6.9.x (Band 6): Der Fang/Wildertrag geht zuerst in die Sc
 
 ## Anhang C — Übungsplan (Band 7)
 
-Dörren mit Preheat + Brechprobe (3.2) üben; Einkochen im Druckkocher mit Protokoll (6.2k, NCHFP-Zeiten) üben; Pökeln mit Ei-Test (5.2); Kammer-Inventur (8.1). Verfalluhr 12 Monate (siehe Konzept 8.2 Band 1).
+Dörren mit Preheat + Brechprobe (3.2) üben; Einkochen im Druckkocher mit Protokoll (6.2k, NCHFP-Zeiten) üben; Pökeln mit Ei-Test (5.2); Kammer-Inventur (8.1). Verfalluhr 12 Monate (siehe Konzept B1-8.2).
 
 ---
 

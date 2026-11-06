@@ -2,7 +2,7 @@
 
 **Band-Datei zu `04-redaktion.md` · 24 Konzepte (20 grün, 4 gelb) · Anhänge A–C · Bandabschluss**
 
-Warnungen umgesetzt: 3.1 `warn-9a` (tödliche Minute beim Fällen), 7.3 `warn-9b` (Leinöl-Lappen-Selbstentzündung). Querverweise: 3.1 → Konzept 1.6.2 (Band 1, Axt-Regel); 5.2 → Konzept 1.6.3 (Band 1, Knoten); 8.1 → Konzept 1.6.5 (Band 1, Traglast).
+Warnungen umgesetzt: 3.1 `warn-9a` (tödliche Minute beim Fällen), 7.3 `warn-9b` (Leinöl-Lappen-Selbstentzündung). Querverweise: 3.1 → Konzept B1-6.2, Axt-Regel; 5.2 → Konzept B1-6.3, Knoten; 8.1 → Konzept B1-6.5, Traglast.
 
 ---
 
@@ -29,7 +29,7 @@ Mache nur, was du **kannst**, wofür **Material** da ist und wofür **Zeit** ist
 
 - [ ] Vier Schritte bewusst durchlaufen
 
-**Querverweise:** siehe Konzept 6.2, siehe Konzept 1.6.1 (Band 1).
+**Querverweise:** siehe Konzept 6.2, siehe Konzept B1-6.1.
 
 ### 1.3 Übestück — grün · P 7 · M unbedenklich · V 9
 
@@ -45,14 +45,14 @@ Mache nur, was du **kannst**, wofür **Material** da ist und wofür **Zeit** ist
 
 ### 2.1 Schmied-Feuer — **gelb** · P 7 · M prüfenswert · V 7 · Abb. 9.1
 
-1. Kohlebett, Luftzufuhr von unten; blanca Glut in der Mitte.
-2. **CO/Brandgefahr:** nur im Freien oder mit Abzug — siehe Konzept 3.6.3 (Band 3, `warn-3`): keine Verbrennung in geschlossenen Räumen.
+1. Kohlebett, Luftzufuhr von unten; **weiße** Glut in der Mitte.
+2. **CO/Brandgefahr:** nur im Freien oder mit Abzug — siehe Konzept B3-6.3, `warn-3`: keine Verbrennung in geschlossenen Räumen.
 3. **Augenschutz gegen IR/UV:** Schweißschild/Schutzbrille — nie ohne in die Glut sehen.
 
 - [ ] Im Freien/Abzug
 - [ ] Augenschutz getragen
 
-**Querverweise:** siehe Konzept 3.6.3 (Band 3, `warn-3`).
+**Querverweise:** siehe Konzept B3-6.3, `warn-3`.
 
 ### 2.2 Härten & Anlassen — **gelb** · P 6 · M prüfenswert · V 7 · Abb. 9.2
 
@@ -72,7 +72,7 @@ Mache nur, was du **kannst**, wofür **Material** da ist und wofür **Zeit** ist
 
 **Amboss formt, Stein schärft.** 1. Rohling auf dem Amboss in Form bringen. 2. Schneide auf dem Schleifstein (siehe Konzept 4.1) ausarbeiten.
 
-**Querverweise:** siehe Konzept 4.1, siehe Konzept 1.6.1 (Band 1, Messer).
+**Querverweise:** siehe Konzept 4.1, siehe Konzept B1-6.1, Messer.
 
 ### 2.4 Feuerschweißen — **gelb (V = 6 → Übungspflicht)** · P 6 · M prüfenswert · V 6
 
@@ -82,9 +82,9 @@ Mache nur, was du **kannst**, wofür **Material** da ist und wofür **Zeit** ist
 
 - [ ] Zunder als Flussmittel
 - [ ] UV-Schutz
-- [ ] Übungspflicht erfüllt (s. Konzept 8.2 Band 1)
+- [ ] Übungspflicht erfüllt (s. Konzept B1-8.2)
 
-**Querverweise:** siehe Konzept 2.1, siehe Konzept 8.2 (Band 1).
+**Querverweise:** siehe Konzept 2.1, siehe Konzept B1-8.2.
 
 ---
 
@@ -92,7 +92,7 @@ Mache nur, was du **kannst**, wofür **Material** da ist und wofür **Zeit** ist
 
 ### 3.1 Fällen — **gelb + WARNRAHMEN [warn-9a]** · P 7 · M prüfenswert · V 7 · Abb. 9.3
 
-> **WARNRAHMEN [warn-9a] — TÖDLICHE MINUTE (WARN 2):** Beim Fällen kann der Baum in der **letzten Minute** brechen/kippen. **Nie hangabwärts darunter stehen.** **Fluchtweg 45° schräg** zur Fallrichtung, zwei Wege frei (siehe Konzept 1.6.2 Band 1: 2 Stiellängen Sperrzone, 2 Fluchtwege 45°).
+> **WARNRAHMEN [warn-9a] — TÖDLICHE MINUTE (WARN 2):** Beim Fällen kann der Baum in der **letzten Minute** brechen/kippen. **Nie hangabwärts darunter stehen.** **Fluchtweg 45° schräg** zur Fallrichtung, zwei Wege frei (siehe Konzept B1-6.2: 2 Stiellängen Sperrzone, 2 Fluchtwege 45°).
 
 1. **Untere Kerbe 1/3** der Stammdicke, Keilform.
 2. Gegenüber: Fällschnitt leicht oberhalb der Kerbe.
@@ -101,11 +101,11 @@ Mache nur, was du **kannst**, wofür **Material** da ist und wofür **Zeit** ist
 
 - [ ] Untere Kerbe 1/3
 - [ ] Flucht 45° schräg, nie hangabwärts
-- [ ] Sperrzone 2 Stiellängen (siehe Konzept 1.6.2 Band 1)
+- [ ] Sperrzone 2 Stiellängen (siehe Konzept B1-6.2)
 
 > **BAUSTEIN:** Die letzte Minute gehört dem Baum. Steh nie darunter, geh immer seitlich weg.
 
-**Querverweise:** siehe Konzept 1.6.2 (Band 1), siehe Konzept 3.1 (Band 4, Windbruch).
+**Querverweise:** siehe Konzept B1-6.2, siehe Konzept B4-3.1, Windbruch.
 
 ### 3.2 Block → Brett — grün · P 8 · M unbedenklich · V 8 · Abb. 9.4
 
@@ -116,13 +116,13 @@ Mache nur, was du **kannst**, wofür **Material** da ist und wofür **Zeit** ist
 - [ ] Maserung gelesen
 - [ ] Trocknungszeit eingeplant
 
-**Querverweise:** siehe Konzept 5.1, siehe Konzept 3.2.2 (Band 3).
+**Querverweise:** siehe Konzept 5.1, siehe Konzept B3-2.2.
 
 ### 3.3 Stiel (Esche/Ahorn) — grün · P 8 · M unbedenklich · V 9
 
 Esche und Ahorn: zäh, biegsam, ideal für Stiele (Axt, Hammer, Spaten). Rundling auf halbe Länge spalten, entrinden, trocknen, hobeln.
 
-**Querverweise:** siehe Konzept 1.6.2 (Band 1), siehe Konzept 3.2.
+**Querverweise:** siehe Konzept B1-6.2, siehe Konzept 3.2.
 
 ---
 
@@ -139,15 +139,15 @@ Esche und Ahorn: zäh, biegsam, ideal für Stiele (Axt, Hammer, Spaten). Rundlin
 - [ ] Winkel konstant
 - [ ] Drei Stufen durchlaufen
 
-**Querverweise:** siehe Konzept 4.2, siehe Konzept 1.6.1 (Band 1).
+**Querverweise:** siehe Konzept 4.2, siehe Konzept B1-6.1.
 
 ### 4.2 Schneide halten (Wetz-Takt) — grün · P 9 · M unbedenklich · V 9
 
-Konsistent mit Konzept 1.6.1 (Band 1): nach jedem Gebrauch kurz wetzen — nie stumpf werden lassen.
+Konsistent mit Konzept B1-6.1: nach jedem Gebrauch kurz wetzen — nie stumpf werden lassen.
 
 - [ ] Wetz-Takt eingehalten
 
-**Querverweise:** siehe Konzept 1.6.1 (Band 1), siehe Konzept 4.1.
+**Querverweise:** siehe Konzept B1-6.1, siehe Konzept 4.1.
 
 ---
 
@@ -159,18 +159,18 @@ Konsistent mit Konzept 1.6.1 (Band 1): nach jedem Gebrauch kurz wetzen — nie s
 
 - [ ] Keil entlang der Faser
 
-**Querverweise:** siehe Konzept 4.2 (Band 4, Sattelkerbe).
+**Querverweise:** siehe Konzept B4-4.2, Sattelkerbe.
 
 ### 5.2 Seil & Knoten — grün · P 8 · M unbedenklich · V 7 · Abb. 9.7
 
-Konsistent mit Konzept 1.6.3 (Band 1, fünf Serienknoten).
+Konsistent mit Konzept B1-6.3, fünf Serienknoten.
 
 > **WARNUNG (lastendes Seil):** Ein belastetes Seil nie mit dem Messer durchtrennen — es **schlägt zurück**. Seil auslaufen lassen, dann trennen.
 
-- [ ] Knoten aus Konzept 1.6.3 (Band 1)
+- [ ] Knoten aus Konzept B1-6.3
 - [ ] Lastendes Seil nie durchschnitten
 
-**Querverweise:** siehe Konzept 1.6.3 (Band 1), siehe Konzept 7.2 (Band 5, Bastseil).
+**Querverweise:** siehe Konzept B1-6.3, siehe Konzept B5-7.2, Bastseil.
 
 ### 5.3 Niet & Nagel — grün · P 7 · M unbedenklich · V 8
 
@@ -193,11 +193,11 @@ Konsistent mit Konzept 1.6.3 (Band 1, fünf Serienknoten).
 
 ### 6.2 Flicken als Methode — grün · P 9 · M unbedenklich · V 9
 
-**Schaden lesen, dann flicken:** erst die Ursache finden (Riss, Abrieb, Naht), dann passende Reparatur (Flicken, Stopfen, neue Naht — siehe Konzept 4.7.2 Band 4, Nadel & Faden).
+**Schaden lesen, dann flicken:** erst die Ursache finden (Riss, Abrieb, Naht), dann passende Reparatur (Flicken, Stopfen, neue Naht — siehe Konzept B4-7.2, Nadel & Faden).
 
 - [ ] Ursache gelesen vor dem Flicken
 
-**Querverweise:** siehe Konzept 4.7.2 (Band 4), siehe Konzept 8.2 (Band 4, Verfallsdatum).
+**Querverweise:** siehe Konzept B4-7.2, siehe Konzept B4-8.2, Verfallsdatum.
 
 ---
 
@@ -205,11 +205,11 @@ Konsistent mit Konzept 1.6.3 (Band 1, fünf Serienknoten).
 
 ### 7.1 Kammer — grün · P 8 · M unbedenklich · V 8
 
-Konsistent mit Konzept 7.8.1 (Band 7, kalte Kammer): Zonen, trocken, dunkel, gelüftet, Gäste fern (Mäuse — Fallen siehe Konzept 6.5.1a Band 6).
+Konsistent mit Konzept B7-8.1, kalte Kammer: Zonen, trocken, dunkel, gelüftet, Gäste fern (Mäuse — Fallen siehe Konzept 6.5.1a Band 6).
 
 - [ ] Zonen eingehalten
 
-**Querverweise:** siehe Konzept 7.8.1 (Band 7), siehe Konzept 5.1a (Band 6).
+**Querverweise:** siehe Konzept B7-8.1, siehe Konzept B6-5.1a.
 
 ### 7.2 Selbst gemachter Leim — grün · P 6 · M unbedenklich · V 7 · Abb. 9.8
 
@@ -220,14 +220,14 @@ Konsistent mit Konzept 7.8.1 (Band 7, kalte Kammer): Zonen, trocken, dunkel, gel
 - [ ] Nie sieden
 - [ ] Haltbarkeit ~1 Wo beachtet
 
-**Querverweise:** siehe Konzept 9.3 (Band 6, Knochen), siehe Konzept 5.1.
+**Querverweise:** siehe Konzept B6-9.3, Knochen, siehe Konzept 5.1.
 
 ### 7.3 Riemen / Fett / Öl — grün + **WARNRAHMEN [warn-9b]** · P 8 · M unbedenklich · V 8 · Abb. 9.9
 
 > **WARNRAHMEN [warn-9b] — LEINÖL-LAPPEN-SELBSTENTZÜNDUNG (W30, 09 Nr. 10):** **Lappen nie zerknüllt in den Abfalleimer** — ausgebreitet auf **nichtbrennbarem Untergrund** trocknen **oder** in **dicht verschlossenen Metallbehälter mit Wasser** legen. **Nie Öl in einen Wassereimer** — Dampfexplosion.
 
-1. Lederriemen mit Fett (siehe Konzept 7.7.1 Band 7, Schmalz/Talg) einreiben, geschmeidig halten.
-2. Werkzeuge ölen (siehe Konzept 1.6.1 Band 1).
+1. Lederriemen mit Fett (siehe Konzept B7-7.1, Schmalz/Talg) einreiben, geschmeidig halten.
+2. Werkzeuge ölen (siehe Konzept B1-6.1).
 3. Ölige Lappen nach warn-9b behandeln.
 
 - [ ] Lappen ausgebreitet getrocknet oder im Metallbehälter mit Wasser
@@ -235,7 +235,7 @@ Konsistent mit Konzept 7.8.1 (Band 7, kalte Kammer): Zonen, trocken, dunkel, gel
 
 > **BAUSTEIN:** Leinöl wärmt von allein. Zerknüllt im Eimer wird der Eimer zur Bombe.
 
-**Querverweise:** siehe Konzept 7.7.1 (Band 7), siehe Konzept 1.6.1 (Band 1), siehe Konzept 3.9.1 (Band 3, Brandbekämpfung).
+**Querverweise:** siehe Konzept B7-7.1, siehe Konzept B1-6.1, siehe Konzept B3-9.1, Brandbekämpfung.
 
 ---
 
@@ -243,26 +243,26 @@ Konsistent mit Konzept 7.8.1 (Band 7, kalte Kammer): Zonen, trocken, dunkel, gel
 
 ### 8.1 Die Kiste (3 Schichten, ≤ ¼ Körpergewicht) — grün · P 8 · M unbedenklich · V 9 · Abb. 9.10
 
-Konsistent mit Traglast (W20, siehe Konzept 1.6.5 Band 1): **≤ ¼ Körpergewicht**.
+Konsistent mit Traglast (W20, siehe Konzept B1-6.5): **≤ ¼ Körpergewicht**.
 
 | Schicht | Inhalt |
 |---|---|
 | 1 (unten, schwer) | Hammer, Stemmeisen, Säge |
 | 2 (Mitte) | Messer, Hobel, Bohrer, Zange |
-| 3 (oben, leicht) | Nägel, Schrauben, Seil, Schleifstein |
+| 3 (oben, leicht) | Nägel, Schrauben, Seil, Schleifstein, **Fleischthermometer** (Kerntemperatur ≥ 71 °C, siehe B6-9.1/B7-3.2) |
 
-- [ ] ≤ ¼ Körpergewicht gewogen (siehe Konzept 1.6.5 Band 1)
+- [ ] ≤ ¼ Körpergewicht gewogen (siehe Konzept B1-6.5)
 - [ ] Drei Schichten gepackt
 
-**Querverweise:** siehe Konzept 1.6.5 (Band 1), siehe Konzept 3.2 (Band 1, Rucksack).
+**Querverweise:** siehe Konzept B1-6.5, siehe Konzept B1-3.2, Rucksack.
 
 ### 8.2 Feld-Werkstatt — grün · P 7 · M unbedenklich · V 8
 
-1. Fester Platz im Lager (siehe Konzept 4.1.2 Band 4), überdacht (siehe Konzept 4.3.2 Band 4).
+1. Fester Platz im Lager (siehe Konzept B4-1.2), überdacht (siehe Konzept B4-3.2 (Behelfsdach, Band 4)).
 2. Amboss-Ersatz: schwerer Stein; Schraubstock-Ersatz: zwei Keile.
-3. Gutes Licht (Restlicht-1-h, siehe Konzept 4.9.2 Band 4).
+3. Gutes Licht (Restlicht-1-h, siehe Konzept B4-9.2).
 
-**Querverweise:** siehe Konzept 4.1.2 (Band 4), siehe Konzept 4.3.2 (Band 4), siehe Konzept 4.9.2 (Band 4).
+**Querverweise:** siehe Konzept B4-1.2, siehe Konzept B4-3.2, siehe Konzept B4-9.2.
 
 ---
 
@@ -282,7 +282,7 @@ Konsistent mit Traglast (W20, siehe Konzept 1.6.5 Band 1): **≤ ¼ Körpergewic
 
 - [ ] Vier Proben bestanden
 
-**Querverweise:** siehe Konzept 1.3, siehe Konzept 6.1, siehe Konzept 10.9.1 (Band 10, Vermächtnis/Weitergabe).
+**Querverweise:** siehe Konzept 1.3, siehe Konzept 6.1, siehe Konzept B10-9.1, Vermächtnis/Weitergabe.
 
 ---
 
@@ -307,7 +307,7 @@ Konsistent mit Traglast (W20, siehe Konzept 1.6.5 Band 1): **≤ ¼ Körpergewic
 
 ## Anhang C — Übungsplan (Band 9)
 
-Q4 siehe Konzept 8.1 (Band 1): Knoten (5.2), Schliff/Wetzen (4.1/4.2), Feuerschweißen (2.4, V = 6 → Übungspflicht), Fällkerbe am Übestück (3.1). Verfalluhr 12 Monate (siehe Konzept 8.2 Band 1).
+Q4 siehe Konzept B1-8.1: Knoten (5.2), Schliff/Wetzen (4.1/4.2), Feuerschweißen (2.4, V = 6 → Übungspflicht), Fällkerbe am Übestück (3.1). Verfalluhr 12 Monate (siehe Konzept B1-8.2).
 
 ---
 

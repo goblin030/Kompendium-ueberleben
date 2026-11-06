@@ -10,32 +10,34 @@ Querverweise konsistent mit Band 1 (6.5 Traglast, 7.3 Restlicht), Band 3 (1.2/9.
 
 ### 1.1 Unterkunftsethik — grün · P 9 · M unbedenklich · V 10
 
-Unterkunft wird dort gebaut, wo sie niemanden gefährdet und niemands Lebensgrundlage zerstört; Tausch und Zustimmung vor Beanspruchung (siehe Konzept 10.5.2 Band 10).
+Unterkunft wird dort gebaut, wo sie niemanden gefährdet und niemands Lebensgrundlage zerstört; Tausch und Zustimmung vor Beanspruchung (siehe Konzept B10-5.2).
 
-- [ ] Eigentümer/Zustimmung geklärt (siehe Konzept 10.5.2 Band 10)
+- [ ] Eigentümer/Zustimmung geklärt (siehe Konzept B10-5.2)
 - [ ] Keine Felder/Gärten zerstört
 
 > **BAUSTEIN:** Frage vor dem Bauen, nicht danach.
 
-**Querverweise:** siehe Konzept 10.5.2 (Band 10), siehe Konzept 10.1.1 (Band 10).
+**Querverweise:** siehe Konzept B10-5.2, siehe Konzept B10-1.1.
 
 ### 1.2 Lagerplatz — grün · P 9 · M unbedenklich · V 9 · Abb. 4.1
 
 1. **Kaltluftsee meiden:** Tallagen sammeln nachts Kälte (2–5 °C kälter) — Hanglage bevorzugen.
 2. **Flutlinie:** mindestens **30 m Abstand zum Gewässerbett** (Hochwassermarke erkennen: Treibgut, kahle Steine).
 3. **Lee-Seite** des Hauptwinds wählen.
-4. Feuer-Abstände nach Konzept 3.1.2 (Band 3): 4–6 m zu Zelten.
-5. Latrine nach Konzept 2.9.1 (Band 2, W7: ≥ 30 m unterhalb der Wasserentnahme).
+4. Feuer-Abstände nach Konzept B3-1.2: 4–6 m zu Zelten.
+5. Latrine nach Konzept B2-9.1, W7: ≥ 30 m unterhalb der Wasserentnahme.
+
+**Stadt / Land:** Land = Hanglage/Lee/Flutlinie wie beschrieben. **Stadt (Wohnung):** Du baust keinen Lagerplatz im Freien — die Wohnung ist der Lagerplatz. Wähle den **wärmsten Innenraum** (innen liegend, nicht über Keller/Feuchtigkeit), halte **Fluchtwege frei** (Treppenhaus, Wohnungstür), richte einen festen Lagerkern ein (siehe 9.x) und prüfe Fenster/Türen auf Dichtigkeit (siehe Kapitel 4, Stadt-Variante).
 
 - [ ] Nicht im Kaltluftsee
 - [ ] ≥ 30 m zur Flutlinie
 - [ ] Lee-Seite
-- [ ] Feuer-Abstände (siehe Konzept 3.1.2 Band 3)
-- [ ] Latrine (siehe Konzept 2.9.1 Band 2)
+- [ ] Feuer-Abstände (siehe Konzept B3-1.2)
+- [ ] Latrine (siehe Konzept B2-9.1)
 
 > **BAUSTEIN:** Hanglage statt Talgrund, Abstand zum Wasser, Lee statt Luv.
 
-**Querverweise:** siehe Konzept 3.1.2 (Band 3), siehe Konzept 2.9.1 (Band 2), siehe Konzept 1.2 (Band 2 Zonenplan).
+**Querverweise:** siehe Konzept B3-1.2, siehe Konzept B2-9.1, siehe Konzept B2-1.2 Zonenplan.
 
 ---
 
@@ -43,7 +45,7 @@ Unterkunft wird dort gebaut, wo sie niemanden gefährdet und niemands Lebensgrun
 
 ### 2.1 Wärmehaushalt & Schichten — grün · P 9 · M unbedenklich · V 9 · Abb. 4.2
 
-Konsistent mit Konzept 3.6.1 (Band 3, Wärmepaket): innen trocken, Mitte isolierend, außen winddicht.
+Konsistent mit Konzept B3-6.1, Wärmepaket: innen trocken, Mitte isolierend, außen winddicht.
 
 1. Schicht 1 (innen): trocken, atmungsaktiv.
 2. Schicht 2 (Mitte): Wolle/Daune/trockenes Gras — Isolation.
@@ -52,19 +54,19 @@ Konsistent mit Konzept 3.6.1 (Band 3, Wärmepaket): innen trocken, Mitte isolier
 - [ ] Innenschicht trocken
 - [ ] Isolation ausreichend
 
-**Querverweise:** siehe Konzept 3.6.1 (Band 3), siehe Konzept 6.3, siehe Konzept 7.1.
+**Querverweise:** siehe Konzept B3-6.1, siehe Konzept 6.3, siehe Konzept 7.1.
 
 ### 2.2 Wetter-/Wolkenlesen — grün · P 8 · M unbedenklich · V 8
 
-Konsistent mit Konzept 4.4 (Band 1): Zwei-Zeichen-Regel.
+Konsistent mit Konzept B1-4.4: Zwei-Zeichen-Regel.
 
 - [ ] Zwei Zeichen vor jeder Entscheidung
 
-**Querverweise:** siehe Konzept 1.4.4 (Band 1).
+**Querverweise:** siehe Konzept B1-4.4.
 
 ### 2.3 Werkstoffkunde Dach/Wand — grün · P 8 · M unbedenklich · V 8 · Abb. 4.3
 
-Konsistent mit Band 9 (W28, Trocknung) und Band 5 (Ried/Stroh, siehe Konzept 5.8.1):
+Konsistent mit Band 9 (W28, Trocknung) und Band 5 (Ried/Stroh, siehe Konzept B5-8.1):
 
 | Werkstoff | Einsatz | Hinweis |
 |---|---|---|
@@ -72,16 +74,16 @@ Konsistent mit Band 9 (W28, Trocknung) und Band 5 (Ried/Stroh, siehe Konzept 5.8
 | Zweige/Reisig | Wandfüllung, Unterlage | Neigung 50° |
 | Rinde (Birke) | Dachdeckung, Behälter | Neigung 30° |
 | Lehm/Stein | Sockel, Ofen | siehe Konzept 5.2 |
-| Holz | Tragwerk | Trocknung ~1 J je Daumen (W28, siehe Konzept 9.3.2 Band 9) |
+| Holz | Tragwerk | Trocknung ~1 J je Daumen (W28, siehe Konzept B9-3.2) |
 
-**Querverweise:** siehe Konzept 5.1, siehe Konzept 5.8.1 (Band 5), siehe Konzept 9.3.2 (Band 9).
+**Querverweise:** siehe Konzept 5.1, siehe Konzept B5-8.1, siehe Konzept B9-3.2.
 
 ### 2.4 Kältegefahr erkennen — grün · P 8 · M unbedenklich · V 9
 
 **Zittern hört auf = Umschlag** in die gefährliche Phase (Hypothermie): Person fröstelt nicht mehr, wird verwirrt, müde.
 
 1. Zittern, blasse/blaue Haut, Koordinationsverlust = Warnstufe.
-2. **Zittern hört auf** = Alarm: sofort trockene Kleidung (siehe Konzept 2.1), Wärmepaket (siehe Konzept 3.6.1 Band 3), warmes Getränk.
+2. **Zittern hört auf** = Alarm: sofort trockene Kleidung (siehe Konzept 2.1), Wärmepaket (siehe Konzept B3-6.1), warmes Getränk.
 3. Nie Alkohol gegen Kälte.
 
 - [ ] Warnzeichen bekannt
@@ -89,7 +91,7 @@ Konsistent mit Band 9 (W28, Trocknung) und Band 5 (Ried/Stroh, siehe Konzept 5.8
 
 > **BAUSTEIN:** Wer aufhört zu zittern, friert bereits. Das ist der gefährlichste Moment.
 
-**Querverweise:** siehe Konzept 3.6.1 (Band 3), siehe Konzept 8.7.1 (Band 8, Frostbeule).
+**Querverweise:** siehe Konzept B3-6.1, siehe Konzept B8-7.1, Frostbeule.
 
 ---
 
@@ -98,25 +100,25 @@ Konsistent mit Band 9 (W28, Trocknung) und Band 5 (Ried/Stroh, siehe Konzept 5.8
 ### 3.1 Windbruch (Klangprobe) — grün · P 7 · M unbedenklich · V 8
 
 1. Tote/stehende Bäume über dem Lagerplatz mit dem Messerklang prüfen: hohler Klang = morsches Holz = Windbruchgefahr.
-2. **Besetzter Bau bleibt besetzt:** solange jemand im Zelt ist, wird darunter nicht gearbeitet (siehe Konzept 9.3.1 Band 9).
+2. **Besetzter Bau bleibt besetzt:** solange jemand im Zelt ist, wird darunter nicht gearbeitet (siehe Konzept B9-3.1).
 
 - [ ] Klangprobe durchgeführt
 - [ ] Besetzter Bau bleibt besetzt
 
-**Querverweise:** siehe Konzept 9.3.1 (Band 9, `warn-9a`).
+**Querverweise:** siehe Konzept B9-3.1, `warn-9a`.
 
 ### 3.2 Behelfsdach — grün · P 7 · M unbedenklich · V 9 · Abb. 4.4
 
 **Steillage 30/45/50°** nach Wetter: 30° bei Nieselregen, 45° bei Dauerregen, 50° bei Schnee.
 
-1. Firstlinie spannen (siehe Konzept 1.6.3 Band 1, Knoten).
+1. Firstlinie spannen (siehe Konzept B1-6.3, Knoten).
 2. Sparren in der gewählten Neigung auflegen, Abstand 50–60 cm.
 3. Deckung aufbringen (siehe Konzept 5.1).
 
 - [ ] Neigung nach Wetter gewählt
 - [ ] Sparrenabstand 50–60 cm
 
-**Querverweise:** siehe Konzept 5.1, siehe Konzept 1.6.3 (Band 1).
+**Querverweise:** siehe Konzept 5.1, siehe Konzept B1-6.3.
 
 ### 3.3 Winter-Unterkunft (Schneehöhle) — **gelb** · P 6 · M unbedenklich · V 7 · Abb. 4.5
 
@@ -142,26 +144,28 @@ Konsistent mit Band 9 (W28, Trocknung) und Band 5 (Ried/Stroh, siehe Konzept 5.8
 
 Maße für 4 Personen: **2,5 × 2,5 m Grundfläche, Firsthöhe 1,20 m, Firstspanne ≤ 3,50 m**.
 
-1. Grundriss abstecken (siehe Konzept 1.7.1 Band 1, Körpermaße).
+**Stadt / Land:** Land = Hütte nach diesem Bauplan. **Stadt (Wohnung):** keine Hütte bauen — Wohnung abdichten und ausbauen: Fenster mit Folie/Dichtband abdichten, Türschwelle mit Lappen abdichten, Bett/Pritsche statt Boden (siehe 6.1), wärmster Raum als Schlafraum, Vorrat im kühlen Treppenhaus (siehe B7-8.1), Fluchtweg kennen.
+
+1. Grundriss abstecken (siehe Konzept B1-7.1, Körpermaße).
 2. Eckpunkte mit Pfosten (siehe Konzept 4.2).
 3. Firstpfosten mittig, Firstbalken auflegen.
 
 - [ ] Maße eingehalten
 - [ ] Firstspanne ≤ 3,50 m
 
-**Querverweise:** siehe Konzept 4.2, siehe Konzept 1.7.1 (Band 1).
+**Querverweise:** siehe Konzept 4.2, siehe Konzept B1-7.1.
 
 ### 4.2 Pfosten / First / Verbindungen — grün · P 8 · M unbedenklich · V 8 · Abb. 4.7
 
 1. Pfostenlöcher **30 cm tief**, **Steinkranz** um jedes Loch (Fundament).
 2. **Sattelkerbe** für Firstbalken und Sparren — Formschluss statt Nagel.
-3. Verbindungen mit Seil verklemmen (siehe Konzept 1.6.3 Band 1 und Konzept 9.5.2 Band 9).
+3. Verbindungen mit Seil verklemmen (siehe Konzept B1-6.3 und Konzept B9-5.2).
 
 - [ ] 30 cm Tiefe
 - [ ] Steinkranz
 - [ ] Sattelkerbe sauber
 
-**Querverweise:** siehe Konzept 1.6.3 (Band 1), siehe Konzept 9.5.1 (Band 9, Zapfen/Keil), siehe Konzept 9.5.2 (Band 9).
+**Querverweise:** siehe Konzept B1-6.3, siehe Konzept B9-5.1, Zapfen/Keil, siehe Konzept B9-5.2.
 
 ---
 
@@ -175,11 +179,11 @@ Maße für 4 Personen: **2,5 × 2,5 m Grundfläche, Firsthöhe 1,20 m, Firstspan
 | Zweige/Reisig | 50° |
 | Rinde | 30° |
 
-Konsistent mit Konzept 5.8.1 (Band 5, Materialquelle).
+Konsistent mit Konzept B5-8.1, Materialquelle.
 
 - [ ] Neigung nach Material
 
-**Querverweise:** siehe Konzept 5.8.1 (Band 5), siehe Konzept 3.2.
+**Querverweise:** siehe Konzept B5-8.1, siehe Konzept 3.2.
 
 ### 5.2 Wand / Boden / Sockel — grün · P 7 · M unbedenklich · V 8 · Abb. 4.9
 
@@ -190,7 +194,7 @@ Konsistent mit Konzept 5.8.1 (Band 5, Materialquelle).
 - [ ] Sockel 20 cm
 - [ ] Ringgraben gezogen
 
-**Querverweise:** siehe Konzept 6.1, siehe Konzept 2.9.2 (Band 2, Grauwasser).
+**Querverweise:** siehe Konzept 6.1, siehe Konzept B2-9.2, Grauwasser.
 
 ### 5.3 Hüttendiagnose (sechs Schwachstellen) — grün · P 8 · M unbedenklich · V 9
 
@@ -224,26 +228,26 @@ Checkliste (Kopiervorlage Anhang A): Dach dicht? Sockel trocken? Ringgraben frei
 
 ### 6.2 Nachtwärme & Deckenbilanz — grün · P 8 · M unbedenklich · V 9
 
-Konsistent mit Konzept 1.2.3 (Band 1, Wachenplan).
+Konsistent mit Konzept B1-2.3, Wachenplan.
 
-1. Deckenbilanz: pro Person 1 Decke + 1 Wärmeflasche/heißer Stein (siehe Konzept 3.6.2 Band 3).
+1. Deckenbilanz: pro Person 1 Decke + 1 Wärmeflasche/heißer Stein (siehe Konzept B3-6.2).
 2. Vor dem Schlafen lüften (Stoßlüftung, siehe Konzept 6.3), dann schließen.
 
 - [ ] Pro Person Decke + Wärmequelle
 
-**Querverweise:** siehe Konzept 1.2.3 (Band 1), siehe Konzept 3.6.2 (Band 3), siehe Konzept 6.3.
+**Querverweise:** siehe Konzept B1-2.3, siehe Konzept B3-6.2, siehe Konzept 6.3.
 
 ### 6.3 Feuchtebilanz & Lüftung — grün · P 8 · M unbedenklich · V 8 · Abb. 4.11
 
 **½ l Atemfeuchtigkeit pro Person und Nacht.** Stoßlüftung: 2× täglich 5 min komplett durchlüften, dann schließen.
 
-> **Querverweis CO:** Bei Beheizung im Raum siehe Konzept 3.6.3 (Band 3, `warn-3`): keine Verbrennung im geschlossenen Raum, nie über Nacht.
+> **Querverweis CO:** Bei Beheizung im Raum siehe Konzept B3-6.3, `warn-3`: keine Verbrennung im geschlossenen Raum, nie über Nacht.
 
 - [ ] ½ l/Nacht einkalkuliert (Material zum Auffangen/Ableiten)
 - [ ] Stoßlüftung 2× täglich
-- [ ] CO-Regel beachtet (siehe Konzept 3.6.3 Band 3)
+- [ ] CO-Regel beachtet (siehe Konzept B3-6.3)
 
-**Querverweise:** siehe Konzept 3.6.3 (Band 3, `warn-3`), siehe Konzept 2.4.
+**Querverweise:** siehe Konzept B3-6.3, `warn-3`, siehe Konzept 2.4.
 
 ---
 
@@ -258,22 +262,22 @@ Konsistent mit Konzept 1.2.3 (Band 1, Wachenplan).
 | Synthetik | warm | warm | **schmilzt** am Funken (siehe Band 3) |
 
 1. Wolle bei Nässe auswringen, nicht rubbeln.
-2. Synthetik nie ans Feuer (siehe Konzept 4.8.3).
+2. Synthetik nie ans Feuer (siehe Konzept 8.3).
 
 - [ ] Fasereigenschaften bekannt
 
-**Querverweise:** siehe Konzept 8.3, siehe Konzept 3.2.2 (Band 3), siehe Konzept 5.7.1 (Band 5, Fasergewinnung).
+**Querverweise:** siehe Konzept 8.3, siehe Konzept B3-2.2, siehe Konzept B5-7.1, Fasergewinnung.
 
 ### 7.2 Nadel & Faden — grün · P 8 · M unbedenklich · V 9
 
-Soll: **2 Nadeln, 10–15 m Zwirn** (konsistent mit Faserertrag, siehe Konzept 5.7.1 Band 5).
+Soll: **2 Nadeln, 10–15 m Zwirn** (konsistent mit Faserertrag, siehe Konzept B5-7.1).
 
-1. Zwirn aus Pflanzenfasern selbst drehen (siehe Konzept 5.7.1 Band 5) oder Faden aus alter Kleidung.
+1. Zwirn aus Pflanzenfasern selbst drehen (siehe Konzept B5-7.1) oder Faden aus alter Kleidung.
 2. Nadel an Faden binden, Ende anknoten.
 
 - [ ] 2 Nadeln + 10–15 m Zwirn im Nähset
 
-**Querverweise:** siehe Konzept 5.7.1 (Band 5), siehe Konzept 9.6.2 (Band 9, Flicken).
+**Querverweise:** siehe Konzept B5-7.1, siehe Konzept B9-6.2, Flicken.
 
 ---
 
@@ -283,12 +287,12 @@ Soll: **2 Nadeln, 10–15 m Zwirn** (konsistent mit Faserertrag, siehe Konzept 5
 
 Jeder führt einen vollständigen Satz: Unterwäsche, Socken, Hose, Pullover, Jacke, Kopfbedeckung, Handschuhe, Schuhwerk.
 
-> **Juristisch (siehe Konzept 10.5.2 Band 10):** Entnahme fremder Kleidung im Notstand ist nach **§§ 34/35 StGB** bei Lebensgefahr gerechtfertigt/entschuldigt — aber: Deeskalation und Tausch vor Verteidigung; nie Gewalt gegen Personen (Notwehr nur § 32 StGB, siehe Konzept 10.4.2 Band 10).
+> **Juristisch (siehe Konzept B10-5.2):** Entnahme fremder Kleidung im Notstand ist nach **§§ 34/35 StGB** bei Lebensgefahr gerechtfertigt/entschuldigt — aber: Deeskalation und Tausch vor Verteidigung; nie Gewalt gegen Personen (Notwehr nur § 32 StGB, siehe Konzept B10-4.2).
 
 - [ ] Kompletter Satz pro Person
 - [ ] Eigentumsfragen nach Band 10 gelöst
 
-**Querverweise:** siehe Konzept 10.5.2, siehe Konzept 10.4.2 (Band 10).
+**Querverweise:** siehe Konzept B10-5.2, siehe Konzept B10-4.2.
 
 ### 8.2 Wettergrenzen improvisiert (Verfallsdatum) — grün · P 7 · M unbedenklich · V 9
 
@@ -296,7 +300,7 @@ Jeder Behelf (z. B. Poncho aus Müllsack, Gamaschen aus Dosenblech) bekommt ein 
 
 - [ ] Verfallsdatum auf jedem Behelf notiert
 
-**Querverweise:** siehe Konzept 8.1, siehe Konzept 9.6.2 (Band 9, Flicken als Methode).
+**Querverweise:** siehe Konzept 8.1, siehe Konzept B9-6.2, Flicken als Methode.
 
 ### 8.3 Schuhwerk — grün · P 7 · M unbedenklich · V 8 · Abb. 4.13
 
@@ -309,7 +313,7 @@ Jeder Behelf (z. B. Poncho aus Müllsack, Gamaschen aus Dosenblech) bekommt ein 
 - [ ] Wechselrhythmus eingehalten
 - [ ] Nie ans Feuer
 
-**Querverweise:** siehe Konzept 7.1, siehe Konzept 3.6.2 (Band 3).
+**Querverweise:** siehe Konzept 7.1, siehe Konzept B3-6.2.
 
 ---
 
@@ -317,29 +321,29 @@ Jeder Behelf (z. B. Poncho aus Müllsack, Gamaschen aus Dosenblech) bekommt ein 
 
 ### 9.1 Behelfstrage — grün · P 7 · M unbedenklich · V 8
 
-Konsistent mit Trage-Regeln Band 8 (siehe Konzept 8.6.1 Band 8) und Traglast (siehe Konzept 1.6.5 Band 1).
+Konsistent mit Trage-Regeln Band 8 (siehe Konzept B8-6.1) und Traglast (siehe Konzept B1-6.5).
 
-1. Trage aus Plane/Holz mit zwei Stangen (siehe Konzept 9.3.3 Band 9, Stiele).
-2. Max. 30 % Körpergewicht kurz (siehe Konzept 1.6.5 Band 1).
+1. Trage aus Plane/Holz mit zwei Stangen (siehe Konzept B9-3.3, Stiele).
+2. Max. 30 % Körpergewicht kurz (siehe Konzept B1-6.5).
 3. Zwei Träger, Ablösung alle 30 min.
 
-- [ ] Traglast-Regel (siehe Konzept 1.6.5 Band 1)
+- [ ] Traglast-Regel (siehe Konzept B1-6.5)
 - [ ] Zwei Träger
 
-**Querverweise:** siehe Konzept 1.6.5 (Band 1), siehe Konzept 8.6.1 (Band 8), siehe Konzept 9.3.3 (Band 9).
+**Querverweise:** siehe Konzept B1-6.5, siehe Konzept B8-6.1, siehe Konzept B9-3.3.
 
 ### 9.2 Lager bei Dunkelheit (Restlicht-1-h) — grün · P 8 · M unbedenklich · V 9
 
-Konsistent mit Konzept 1.7.3 (Band 1): eine Stunde vor Dunkelheit alle Arbeiten einstellen, die Licht brauchen.
+Konsistent mit Konzept B1-7.3: eine Stunde vor Dunkelheit alle Arbeiten einstellen, die Licht brauchen.
 
 1. Restlicht-1-h-Regel: ab einer Stunde vor Einbruch der Dunkelheit nur noch Lampenlicht-Arbeit.
 2. Lagerpfade mit Steinen/Leuchtmarkern markieren.
-3. Feuerwache bei Dunkelheit doppelt (siehe Konzept 3.9.3 Band 3).
+3. Feuerwache bei Dunkelheit doppelt (siehe Konzept B3-9.3).
 
 - [ ] Restlicht-1-h eingehalten
 - [ ] Pfade markiert
 
-**Querverweise:** siehe Konzept 1.7.3 (Band 1), siehe Konzept 3.9.3 (Band 3).
+**Querverweise:** siehe Konzept B1-7.3, siehe Konzept B3-9.3.
 
 ---
 
@@ -362,7 +366,7 @@ Konsistent mit Konzept 1.7.3 (Band 1): eine Stunde vor Dunkelheit alle Arbeiten 
 
 ## Anhang C — Übungsplan (Band 4)
 
-Behelfsdach (3.2) und Schneehöhle (3.3, zu zweit) üben; Hüttendiagnose (5.3) monatlich; Verfalluhr 12 Monate (siehe Konzept 8.2 Band 1).
+Behelfsdach (3.2) und Schneehöhle (3.3, zu zweit) üben; Hüttendiagnose (5.3) monatlich; Verfalluhr 12 Monate (siehe Konzept B1-8.2).
 
 ---
 

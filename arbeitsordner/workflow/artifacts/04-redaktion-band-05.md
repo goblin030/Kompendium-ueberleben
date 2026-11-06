@@ -24,14 +24,14 @@ Rechtliche Ergänzung (BNatSchG): **Handstrauß-Regel** (§ 39 Abs. 1 Nr. 3 BNat
 
 ### 1.2 Sammelgang (Kreise: 500 m / 2–5 km) — grün · P 8 · M unbedenklich · V 9
 
-1. Kreis 1: 500 m um den Lagerplatz — nur mit Erlaubnis des „Hausherrn“ (siehe Konzept 10.5.2 Band 10).
+1. Kreis 1: 500 m um den Lagerplatz — nur mit Erlaubnis des „Hausherrn“ (siehe Konzept B10-5.2).
 2. Kreis 2: 2–5 km — Tagesmarsch mit Anlass (Wasser, Spuren, Wetter; siehe Konzepte Band 1 Kapitel 4/5).
-3. Trupp-Regel: einer vorn, einer hinten (siehe Konzept 10.5.3 Band 10).
+3. Trupp-Regel: einer vorn, einer hinten (siehe Konzept B10-5.3).
 
 - [ ] Kreisgrenzen vereinbart
 - [ ] Trupp-Regel eingehalten
 
-**Querverweise:** siehe Konzept 10.5.2, siehe Konzept 10.5.3 (Band 10).
+**Querverweise:** siehe Konzept B10-5.2, siehe Konzept B10-5.3.
 
 ### 1.3 Samen-Bank (10 % Streu-Rückgabe) — grün · P 8 · M unbedenklich · V 9
 
@@ -64,7 +64,7 @@ Bestimme jede Pflanze über **fünf Merkmale**: Blattstellung, Blattform, Blattr
 
 ### 2.2 Verwechslungs-Paare & Giftpflanzen — grün + **WARNRAHMEN [warn-5]** · P 9 · M unbedenklich · V 8 · Abb. 5.2
 
-> **WARNRAHMEN [warn-5] — GIFTPFLANZEN (W15, 09 Nr. 4, verschärft):** Tollkirsche, Schierling, Maiglöckchen, Aronstab, Fingerhut, Eisenhut, Hundspetersilie, Rhododendron — **kein Laien-Gegenmittel**. **Herbstzeitlose vs Bärlauch:** Frühjahrsblätter täuschend ähnlich — Colchicin, tödlich; sicherstes Merkmal: **Knoblauchgeruch beim Zerreiben des Bärlauchs**. **Herkulesstaude (Riesenbärenklau):** Saft + UV-Licht = phototoxische Verbrennungen 2. Grades — **nicht berühren**. Geschützte Arten sind kein Sammelgut (siehe Konzept 1.1). Giftnotruf: **116 123 (DE) / +353 1 809 2166 (IE) / 112 (EU)**; Reste sichern (siehe Konzept 8.5.2 Band 8). **„Keine Mahlzeit ohne Namen + zweites Merkmal.“**
+> **WARNRAHMEN [warn-5] — GIFTPFLANZEN (W15, 09 Nr. 4, verschärft):** Tollkirsche, Schierling, Maiglöckchen, Aronstab, Fingerhut, Eisenhut, Hundspetersilie, Rhododendron — **kein Laien-Gegenmittel**. **Herbstzeitlose vs Bärlauch:** Frühjahrsblätter täuschend ähnlich — Colchicin, tödlich; sicherstes Merkmal: **Knoblauchgeruch beim Zerreiben des Bärlauchs**. **Herkulesstaude (Riesenbärenklau):** Saft + UV-Licht = phototoxische Verbrennungen 2. Grades — **nicht berühren**. Geschützte Arten sind kein Sammelgut (siehe Konzept 1.1). Giftnotruf: **116 123 (DE) / +353 1 809 2166 (IE) / 112 (EU)**; Reste sichern (siehe Konzept B8-5.2). **„Keine Mahlzeit ohne Namen + zweites Merkmal.“**
 
 | Paar | Merkmal des Doppelgängers | Gefahr |
 |---|---|---|
@@ -79,17 +79,17 @@ Bestimme jede Pflanze über **fünf Merkmale**: Blattstellung, Blattform, Blattr
 
 > **BAUSTEIN:** Keine Mahlzeit ohne Namen und zweites Merkmal. Im Zweifel weglassen.
 
-**Querverweise:** siehe Konzept 8.5.1 (Band 8, Gift erkennen), siehe Konzept 8.3.1 (Band 8, Kräuter-Lese), siehe Konzept 1.1.
+**Querverweise:** siehe Konzept B8-5.1, Gift erkennen, siehe Konzept B8-3.1, Kräuter-Lese, siehe Konzept 1.1.
 
 ### 2.3 Gehölze: Saft / Rinde / Harz — grün · P 7 · M unbedenklich · V 8
 
 1. **Saft-Fenster: 2–3 Wochen im Frühjahr** (Ahorn, Birke); **Pflock statt Ring** — nie rundum ringeln (Baum stirbt).
-2. Rinde und Harz als Wundauflage/Kit (siehe Konzept 8.3.x Band 8).
+2. Rinde und Harz als Wundauflage/Kit (siehe Konzept B8-3.x).
 
 - [ ] Saft-Fenster beachtet
 - [ ] Pflock statt Ring
 
-**Querverweise:** siehe Konzept 8.3.4 (Band 8, Umschlag-Buch).
+**Querverweise:** siehe Konzept B8-3.4, Umschlag-Buch.
 
 ### 2.4 Winter-Bestimmung (Knospe/Rinde/Stand) — grün · P 7 · M unbedenklich · V 8
 
@@ -145,12 +145,12 @@ Oxalsäurehaltige Wildpflanzen (Ampfer, Sauerampfer): roh nur in **Handvoll-Meng
 
 ### 4.2 Strand & Watt — grün · P 7 · M unbedenklich · V 8
 
-Strand-Knollen und Algen: **nur gekochte Knollen** essen; **Algen-Gift-Regel (W17):** nach Stürmen/Algenblüte Sperre — Muschel-/Algengifte hitzestabil (siehe Konzept 6.8.1 Band 6, `warn-6`).
+Strand-Knollen und Algen: **nur gekochte Knollen** essen; **Algen-Gift-Regel (W17):** nach Stürmen/Algenblüte Sperre — Muschel-/Algengifte hitzestabil (siehe Konzept B6-8.1, `warn-6`).
 
 - [ ] Knollen gekocht
 - [ ] Algen-Sperre beachtet
 
-**Querverweise:** siehe Konzept 6.8.1 (Band 6, `warn-6`).
+**Querverweise:** siehe Konzept B6-8.1, `warn-6`.
 
 ---
 
@@ -162,7 +162,7 @@ Strand-Knollen und Algen: **nur gekochte Knollen** essen; **Algen-Gift-Regel (W1
 
 - [ ] Holunder/Vogelbeere/Schlehe gekocht vor dem Verzehr
 
-**Querverweise:** siehe Konzept 2.2, siehe Konzept 7.6.1 (Band 7, Einkochen von Obst — Wasserbad zulässig bei pH ≤ 4,6).
+**Querverweise:** siehe Konzept 2.2, siehe Konzept B7-6.1, Einkochen von Obst — Wasserbad zulässig bei pH ≤ 4,6.
 
 ### 5.2 Nüsse & Läuterung — grün · P 7 · M unbedenklich · V 8 · Abb. 5.5
 
@@ -196,7 +196,7 @@ Frost/Gefriertruhe vor Rohverzehr: Wildobst (z. B. Schlehe, Hagebutte) nach Fros
 
 Wegerich, Nessel, Kamille, Beinwell, Weidenrinde — mit Grenzen:
 
-> **SME-Korrektur (09 §4.1):** **Beinwell nur äußerlich auf intakter Haut** — innerlich obsolet (Pyrrolizidinalkaloide, hepatotoxisch, EMA/HMPC). **Weidenrinde nicht bei Kindern/Jugendlichen < 16 J** (Reye-Syndrom, siehe Konzept 8.7.3 Band 8).
+> **SME-Korrektur (09 §4.1):** **Beinwell nur äußerlich auf intakter Haut** — innerlich obsolet (Pyrrolizidinalkaloide, hepatotoxisch, EMA/HMPC). **Weidenrinde nicht bei Kindern/Jugendlichen < 16 J** (Reye-Syndrom, siehe Konzept B8-7.3).
 
 | Pflanze | Anwendung | Grenze |
 |---|---|---|
@@ -209,20 +209,20 @@ Wegerich, Nessel, Kamille, Beinwell, Weidenrinde — mit Grenzen:
 - [ ] Beinwell nur äußerlich
 - [ ] Weidenrinde nicht < 16 J
 
-**Querverweise:** siehe Konzept 8.3.1 (Band 8), siehe Konzept 8.7.3 (Band 8), siehe Konzept 6.2.
+**Querverweise:** siehe Konzept B8-3.1, siehe Konzept B8-7.3, siehe Konzept 6.2.
 
 ### 6.2 Dosierung & rote Liste — grün + **WARNRAHMEN** · P 8 · M unbedenklich · V 8
 
 **„Erst die Grenze, dann die Gabe.“**
 
-> **WARNRAHMEN (Botulismus-Verweis, 09 §2.1):** **Öl-Auszüge nur gesäuert (pH < 4,6, gemessen) oder aus vollständig getrockneten Pflanzen** — siehe Konzept 7.6.2k (Band 7, `warn-7b`) und Konzept 8.3.3 (Band 8). Datum am Gefäß.
+> **WARNRAHMEN (Botulismus-Verweis, 09 §2.1):** **Öl-Auszüge nur gesäuert (pH < 4,6, gemessen) oder aus vollständig getrockneten Pflanzen** — siehe Konzept B7-6.2k, `warn-7b` und Konzept B8-3.3. Datum am Gefäß.
 
-- [ ] Frische Dosis = 1,5× getrocknete, nie doppelt (siehe Konzept 8.3.2 Band 8)
+- [ ] Frische Dosis = 1,5× getrocknete, nie doppelt (siehe Konzept B8-3.2)
 - [ ] Öl-Auszug nur gesäuert/getrocknet
 
 > **BAUSTEIN:** Erst die Grenze, dann die Gabe. Wer die Grenze nicht kennt, gibt nichts.
 
-**Querverweise:** siehe Konzept 7.6.2k (Band 7, `warn-7b`), siehe Konzept 8.3.2/8.3.3 (Band 8).
+**Querverweise:** siehe Konzept B7-6.2k, `warn-7b`, siehe Konzepte B8-3.2 und B8-3.3.
 
 ---
 
@@ -233,12 +233,12 @@ Wegerich, Nessel, Kamille, Beinwell, Weidenrinde — mit Grenzen:
 1. **Tau-Röste: 1–5 Wochen** im stehenden Gewässer.
 2. **Wasser-Röste: 3–10 Tage** in warmem Wasser.
 3. Danach Fasern lösen, waschen, trocknen.
-4. Konsistent mit Nadel & Faden (siehe Konzept 4.7.2 Band 4).
+4. Konsistent mit Nadel & Faden (siehe Konzept B4-7.2).
 
 - [ ] Röste-Frist eingehalten
 - [ ] Fasern sauber gelöst
 
-**Querverweise:** siehe Konzept 4.7.2 (Band 4).
+**Querverweise:** siehe Konzept B4-7.2.
 
 ### 7.2 Binden / Körbe / Bast — grün · P 8 · M unbedenklich · V 9
 
@@ -246,7 +246,7 @@ Wegerich, Nessel, Kamille, Beinwell, Weidenrinde — mit Grenzen:
 
 - [ ] Bast nur von Totholz
 
-**Querverweise:** siehe Konzept 1.1, siehe Konzept 9.5.2 (Band 9, Seil & Knoten).
+**Querverweise:** siehe Konzept 1.1, siehe Konzept B9-5.2, Seil & Knoten.
 
 ### 7.3 Färbe-Pflanzen (Beize) — grün · P 7 · M unbedenklich · V 8
 
@@ -264,31 +264,31 @@ Wegerich, Nessel, Kamille, Beinwell, Weidenrinde — mit Grenzen:
 
 ### 8.1 Ried / Stroh / Binse (Dachdeckung) — grün · P 8 · M unbedenklich · V 8 · Abb. 5.8
 
-Konsistent mit Konzept 4.5.1 (Band 4, Dachdeckung & Neigung).
+Konsistent mit Konzept B4-5.1, Dachdeckung & Neigung.
 
-- [ ] Dachneigung nach Material (siehe Konzept 4.5.1 Band 4)
+- [ ] Dachneigung nach Material (siehe Konzept B4-5.1)
 
-**Querverweise:** siehe Konzept 4.5.1 (Band 4).
+**Querverweise:** siehe Konzept B4-5.1.
 
 ### 8.2 Wildgarten — **gelb** · P 7 · M prüfenswert · V 8
 
-Nur **mit Zustimmung** des Eigentümers (siehe Konzept 10.5.2 Band 10); **Fremdgrund, NSG und geschützte Arten** sind tabu (Naturschutzrecht, siehe Konzept 1.1).
+Nur **mit Zustimmung** des Eigentümers (siehe Konzept B10-5.2); **Fremdgrund, NSG und geschützte Arten** sind tabu (Naturschutzrecht, siehe Konzept 1.1).
 
 - [ ] Zustimmung eingeholt
 - [ ] Kein NSG, keine geschützten Arten
 
-**Querverweise:** siehe Konzept 1.1, siehe Konzept 10.5.2 (Band 10).
+**Querverweise:** siehe Konzept 1.1, siehe Konzept B10-5.2.
 
 ### 8.3 Saatgut-Keimprobe (50 Körner / 7–14 T) — grün · P 8 · M unbedenklich · V 8 · Abb. 5.9
 
 1. 50 Körner auf feuchtes Tuch, 7–14 Tage warm halten.
-2. Keimlinge zählen: **< 12/20 (60 %) → neue Saat** (siehe Konzept 7.9.3 Band 7).
-3. Nie Saatgut essen (s. Konzept 7.9.3 Band 7).
+2. Keimlinge zählen: **< 30 von 50 (60 %) → neue Saat** (siehe Konzept B7-9.3).
+3. Nie Saatgut essen (s. Konzept B7-9.3).
 
 - [ ] 50 Körner, 7–14 T
 - [ ] Schwelle 60 % beachtet
 
-**Querverweise:** siehe Konzept 7.9.3 (Band 7).
+**Querverweise:** siehe Konzept B7-9.3.
 
 ---
 
@@ -296,7 +296,7 @@ Nur **mit Zustimmung** des Eigentümers (siehe Konzept 10.5.2 Band 10); **Fremdg
 
 ### 9.1 Pilze — **gelb + WARNRAHMEN [warn-5b]** · P 6 · M unbedenklich · V 7 · Abb. 5.10
 
-> **WARNRAHMEN [warn-5b] — PILZE (W16, 09 Nr. 4):** Knollenblätterpilz und Frühjahrslorchel — **Amatoxine sind hitzestabil: kein Kochen, kein Braten rettet**. **Keine Rettungsleine, nie roh probieren.** Giftnotruf 116 123 (DE) / +353 1 809 2166 (IE) / 112 (EU). **Drei Merkmale aus lebendiger Anleitung** (Lehrmeister, siehe Konzept 9.9.2 Band 9) vor dem Verzehr bestätigen.
+> **WARNRAHMEN [warn-5b] — PILZE (W16, 09 Nr. 4):** Knollenblätterpilz und Frühjahrslorchel — **Amatoxine sind hitzestabil: kein Kochen, kein Braten rettet**. **Keine Rettungsleine, nie roh probieren.** Giftnotruf 116 123 (DE) / +353 1 809 2166 (IE) / 112 (EU). **Drei Merkmale aus lebendiger Anleitung** (Lehrmeister, siehe Konzept B9-9.2) vor dem Verzehr bestätigen.
 
 1. Nur Pilze mit drei bestätigten Merkmalen sammeln.
 2. Nie roh — auch „Testbissen“ ist tödlich.
@@ -304,19 +304,34 @@ Nur **mit Zustimmung** des Eigentümers (siehe Konzept 10.5.2 Band 10); **Fremdg
 
 - [ ] Drei Merkmale bestätigt
 - [ ] Nie roh
-- [ ] Amatoxin-Verdacht → Giftnotruf, siehe Konzept 8.5.2 (Band 8)
+- [ ] Amatoxin-Verdacht → Giftnotruf, siehe Konzept B8-5.2
 
 > **BAUSTEIN:** Beim Pilz gibt es keine zweite Chance. Ein Merkmal zu wenig, und du isst Gift.
 
-**Querverweise:** siehe Konzept 8.5.1/8.5.2 (Band 8), siehe Konzept 2.2 (`warn-5`).
+**Querverweise:** siehe Konzepte B8-5.1 und B8-5.2, siehe Konzept 2.2 (`warn-5`).
 
 ### 9.2 Pflanzen-Kalender (Monatsfenster ME/Irland) — grün · P 9 · M unbedenklich · V 9 · Abb. 5.11
 
-Monatsfenster für Ernte/Saat in Mitteleuropa und Irland; lokal um ± 2 Wochen verschiebbar (Höhenlage, Küste).
+Monatsfenster für Ernte/Saat in Mitteleuropa und Irland (lokal um ± 2 Wochen verschiebbar nach Höhenlage/Küste; Abb. 5.11 zeigt denselben Kalender grafisch):
 
-- [ ] Kalender des Lagers geführt (siehe Konzept 10.8.1 Band 10)
+| Monat | Ernte (Beispiel) | Saat/Aussaat (Beispiel) |
+|---|---|---|
+| Januar | — (Vorratspflege) | — |
+| Februar | — | Frühbeet unter Glas: Salat, Zwiebeln |
+| März | Bärlauch (Knoblauch-Merkmal prüfen, siehe B5-2.2 `warn-5`) | Erbsen, Spinat, Möhren |
+| April | Brennnessel, Giersch, Löwenzahn | Kartoffeln, Rote Bete, Kohl |
+| Mai | Holunderblüte, Schafgarbe | Bohnen, Mais, Kürbis (nach Eisheiligen) |
+| Juni | Erdbeeren, Himbeeren, Kamille | Winterrettich, Feldsalat |
+| Juli | Beeren, Frühkartoffeln, erste Tomaten | Gründüngung (Phacelia, Senf) |
+| August | Haupt-Ernte: Tomaten, Zucchini, Bohnen, Nüsse | Spinat, Feldsalat, Winterroggen |
+| September | Äpfel, Birnen, Wurzelgemüse, Kartoffeln | Winterweizen, Knoblauch (Steckzwiebeln) |
+| Oktober | Späte Äpfel, Nüsse, Wurzeln, Kürbis | — (Saatgut-Ernte, siehe 1.3) |
+| November | — (Lager kontrollieren, siehe B7-8.1) | — |
+| Dezember | — (Vorrat, siehe B7-9.1) | — |
 
-**Querverweise:** siehe Konzept 10.8.1 (Band 10), siehe Konzept 1.3.
+- [ ] Kalender des Lagers geführt (siehe Konzept B10-8.1)
+
+**Querverweise:** siehe Konzept B10-8.1, siehe Konzept 1.3.
 
 ---
 
@@ -341,7 +356,7 @@ Monatsfenster für Ernte/Saat in Mitteleuropa und Irland; lokal um ± 2 Wochen v
 
 ## Anhang C — Übungsplan (Band 5)
 
-Bestimmung der 12 Arten (3.1) mit Merkmal + Falle (2.2) üben; Keimprobe (8.3); Sammelgang mit Kreisen (1.2). Verfalluhr 12 Monate (siehe Konzept 8.2 Band 1); Pilzbestimmung nur mit Lehrmeister (siehe Konzept 9.9.2 Band 9).
+Bestimmung der 12 Arten (3.1) mit Merkmal + Falle (2.2) üben; Keimprobe (8.3); Sammelgang mit Kreisen (1.2). Verfalluhr 12 Monate (siehe Konzept B1-8.2); Pilzbestimmung nur mit Lehrmeister (siehe Konzept B9-9.2).
 
 ---
 

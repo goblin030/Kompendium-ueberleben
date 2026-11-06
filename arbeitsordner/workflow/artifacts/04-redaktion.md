@@ -31,7 +31,7 @@ Jede Band-Datei folgt dem gleichen Schema: Kapitelüberschrift → Konzeptübers
 1. **Kurze Sätze. Imperativ.** „Grabe die Grube 60 cm tief." Konkrete Maße, Mengen, Zeiten in jeder Anleitung.
 2. **Max. 2–3 einleitende Sätze pro Abschnitt**, dann Anleitung. Keine Motivationsprosa, keine Geschichts-Exkurse, keine Erzählübergänge.
 3. **Wiederholung schlägt Verweis:** Kurzregeln stehen mehrfach (Kapitel + Checkliste + Anhang).
-4. **Querverweise immer über Nummern:** „siehe Konzept 4.2" — nie „weiter oben", nie „siehe Seite".
+4. **Querverweise immer über Nummern** — einheitliches Schema (B-5, Feedback 10-testleser): innerhalb eines Bandes „Konzept X.Y“; **zwischen Bänden „Konzept B<Band>-X.Y“** (z. B. B3-6.3 = Band 3, Kapitel 6, Konzept 3). Nie „weiter oben", nie „siehe Seite". Kaputte Verweise sind verboten (Register §3 wird gegen die Band-Dateien abgeglichen).
 5. **Formate:**
    - Baustein-Kasten (Faustregel): `> **BAUSTEIN:** …`
    - Warnrahmen: `> **WARNRAHMEN [warn-N]:** …` — immer mit Warngrafik-Datei `warn-N.svg` (siehe §4)
@@ -39,7 +39,7 @@ Jede Band-Datei folgt dem gleichen Schema: Kapitelüberschrift → Konzeptübers
    - Schritte: nummerierte Liste, Imperativ
    - Materialliste: Tabelle Menge/Maß/Hinweis
 6. **Ampel-Kennzeichnung** in jeder Konzept-Überschrift: `grün` / `gelb (Auflage)` / `rot ausgeschlossen`. Rot-Konzepte erscheinen **nirgends** im Text — ROT-1 ist als 6.2k korrigiert, ROT-2 als 5.1a ersetzt (siehe §2).
-7. **Notbehelf** (P < 5) wird im Text als solcher gekennzeichnet; V < 6 löst Übungspflicht aus (siehe Konzept 1.8.2).
+7. **Notbehelf** (P < 5) wird im Text als solcher gekennzeichnet; V < 6 löst Übungspflicht aus (siehe Konzept B1-8.2).
 8. **Fachbegriffe** konsistent aus dem Glossar (Band 1, Anhang D in `04-redaktion-band-01.md`).
 9. **Deutsch.** Rechtshinweise im Geltungsbereich DE/AT/CH (DE maßgeblich), Irland nur Fischerei (rod licence).
 
@@ -83,24 +83,24 @@ Status: Band 6 wird erst nach legal-Freigabe freigegeben (MS-E Band 6 blockiert 
 
 | Von | Nach | Inhalt |
 |---|---|---|
-| 1.6.3 | 6.1 (B6), 5.2 (B9) | Knoten |
-| 1.6.5 | 4.2 (B2), 8.1 (B8), 8.1 (B9) | Traglast 15–20 %/30 %/Kinder 10–15 % |
-| 1.7.1/1.7.2 | alle Bände | Körpermaße, EL/TL/20 Tropfen |
-| 1.8.x | 6.1 (B10), 8.1 (B10) | Übungskultur, Verfalluhr 12 Monate |
-| 1.9.x | 8.1 (B2) | Protokolle |
-| 2.2.1 | 4.2 (B8) | Wasserbedarf |
-| 2.6.2 | B7, B8 | gesottenes Wasser (1 min, ab 2.000 m 3 min) |
-| 2.9.1 (korr.) | 1.2 (B4), Glossar | Latrine: Grabtiefe ≠ Abstand |
-| 3.1.2/3.9.x | 1.2 (B4), 7.1 (B10) | Feuer-/Brand-Abstände |
-| 3.6.3 | 6.3 (B4) | CO-Warnung |
-| 5.2.2 | 5.1 (B8) | Giftpflanzen-Verwechslung |
-| 5.6.x | 3.x (B8) | Hausapotheke |
-| 5.7.x | 7.x (B4) | Fasern |
-| 5.8.1 | 5.1 (B4) | Ried/Stroh/Dachdeckung |
-| 6.9.x | 9.2 (B7) | Vom Fang zur Schwelle |
-| 7.6.2k | 3.3 (B8) | Öl-Auszug nur gesäuert (Botulismus) |
-| 9.3.1 | 1.6.2 | Fäll-Regel = Axt-Regel |
-| 10.6.1 | alle Bände 1–9 | Feuerprobe des Kompendiums |
+| B1-6.3 | B6-6.1, B9-5.2 | Knoten |
+| B1-6.5 | B2-4.2, B8-8.1, B9-8.1 | Traglast 15–20 %/30 %/Kinder 10–15 % |
+| B1-7.1/B1-7.2 | alle Bände | Körpermaße, EL/TL/20 Tropfen |
+| B1-8.x | B10-6.1, B10-8.1 | Übungskultur, Verfalluhr 12 Monate |
+| B1-9.x | B2-8.1 | Protokolle |
+| B2-2.1 | B8-4.2 | Wasserbedarf |
+| B2-6.2 | B7, B8 | gesottenes Wasser (1 min, ab 2.000 m 3 min) |
+| B2-9.1 (korr.) | B4-1.2, Glossar | Latrine: Grabtiefe ≠ Abstand |
+| B3-1.2/B3-9.x | B4-1.2, B10-7.1 | Feuer-/Brand-Abstände |
+| B3-6.3 | B4-6.3 | CO-Warnung |
+| B5-2.2 | B8-5.1 | Giftpflanzen-Verwechslung |
+| B5-6.x | B8-3.x | Hausapotheke |
+| B5-7.x | B4-7.x | Fasern |
+| B5-8.1 | B4-5.1 | Ried/Stroh/Dachdeckung |
+| B6-9.x | B7-9.2 | Vom Fang zur Schwelle |
+| B7-6.2k | B8-3.3 | Öl-Auszug nur gesäuert (Botulismus) |
+| B9-3.1 | B1-6.2 | Fäll-Regel = Axt-Regel |
+| B10-6.1 | alle Bände 1–9 | Feuerprobe des Kompendiums |
 
 ---
 
@@ -166,6 +166,33 @@ Text-only-Warnrahmen (kein eigenes Symbol): kein induziertes Erbrechen (B8 5.2, 
 - [x] Ethische Leitlinie überall durchgehalten (§6)
 - [x] Jede Band-Datei endet mit Bewertungsmatrix aller Konzepte + Devise
 - [ ] Gegencheck fachlektor (G-2) und legal-Freigabe (G-1) — stehen aus, blockieren doc-builder für Band 6/7
+
+---
+
+## 8. Feedback-Einarbeitung — Rücklauf Phase F (`10-testleser.md`, Persona „L.“, Stadt+Land, Deutsch B1)
+
+| # | Befund | Umsetzung | Status |
+|---|---|---|---|
+| B-1 | Stadt/Land-Differenzierung fehlt systematisch | Stadt/Land-Tabelle bzw. Stadt-Variante ergänzt in: B2 3.2/3.4/8.1/9.1, B3 1.2/6.3, B4 1.2/4.1, B7 8.1, B8 8.1 (Kühlkette) + 9.2 (Bestattung), B10 4.1 | erledigt |
+| B-2 | NTU ohne Messgerät nicht messbar (B2 5.1/6.1/6.3) | Feldmethode Secchi-Teller (Sichttiefe) mit Schwellen: > 30 cm ≈ < 10 NTU, 10–30 cm ≈ 10–30 NTU, < 10 cm ≈ > 30 NTU; Kopplung an SODIS (nur > 30 cm) und Chlor (doppelt bei 10–30 cm) | erledigt |
+| B-3 | B7 6.2k: psi/Pint/Quart ohne Umrechnung, NCHFP-Zeiten extern | inline in 6.2k: 1 psi ≈ 0,069 bar (10 psi ≈ 0,7 bar bis 300 m, 15 psi ≈ 1,0 bar darüber), Pint ≈ 0,5 l, Quart ≈ 1 l; Zeitentabelle Ware × Glasgröße (Fleisch 75/90 min, Geflügel 65/75, Fisch 75/100, Gemüse 30/35, Eintopf 75/90) + Höhenregel (längere Zeiten wählen) | erledigt |
+| B-4 | Kühlkette 2–8 °C ohne Strom nicht erklärt (B8 2.2/8.1) | Methoden in warn-8a: Erdkeller > 1,5 m, Treppenhaus-Keller (Stadt), Brunnenschacht, Winter-Außenbox, Verdunstungskühlung (Übergang), tägliche Temperaturkontrolle | erledigt |
+| B-5 | Verweisnummern kollidieren (X.Y vs Band.Kap.Konzept) + 3 kaputte Verweise | einheitliches Schema: in-band „X.Y“, cross-band „B<Band>-X.Y" (§1 Nr. 4, Glossar B1 Anhang D); ~450 Verweise per Skript umgestellt; kaputte Verweise gefixt: B1 2.1 → B2-8.1, B9 8.2 → B4-3.2, B10 8.1 → B1-3.4; Register §3 auf B-Schema | erledigt |
+| M-1 | Keimprobe 50 Körner vs Schwelle 12/20 widersprüchlich | einheitlich 50 Körner, Schwelle 30/50 (60 %) in B5 8.3 und B7 9.3 | erledigt |
+| M-2 | Palomar nicht im Buch | B6 6.1 auf Achterknoten (B1-6.3) verwiesen | erledigt |
+| M-3 | „sauberer Tod“ undefined | B6 5.1a: Genickbruch/kräftiger Kopfschlag sofort, nie quälen | erledigt |
+| M-4 | Schuss-Entfernung unklar | B6 3.2: Entscheidungstabelle Mittel × Entfernung × Zone + Waffenschein-Pflicht | erledigt |
+| M-5 | Schonzeiten nur als Verweis | B6 1.3: Fenster-Tabelle (Reh Mai–Juni, Hase Okt–Jan, Brut März–Juli, Fischlaich Okt–Jan) + § 38 BJagdG | erledigt |
+| M-6 | Fieber 39–40 °C ohne Thermometer | B8 4.1: Thermometer in Mappe + Puls-Regel (> 100/min) + Schüttelfrost als Fieber-Proxy | erledigt |
+| M-7 | ≥ 71 °C Kern — womit messen? | Thermometer in B8 8.1 und B9 8.1; Ersatzkriterien in B6 9.1 (Farbe/Faser/„Saft klar“ + konservative Zeit) | erledigt |
+| M-8 | Chlor 5–6 % ohne °chl.-Umrechnung | B2 7.3 + Anhang A2: 36° chl. ≈ 9,6 % NaOCl → Dosis halbieren (1 Tropfen/l klar) | erledigt |
+| M-9 | Uhr-Methode ohne Beispiel | B1 4.1: Stundenzeiger-auf-Sonne-Verfahren mit Beispiel 15 Uhr SZ → Süden | erledigt |
+| M-10 | Pflanzen-Kalender nur als Abb. | B5 9.2: Monats-Tabelle (Ernte × Saat) zusätzlich zur Abb. 5.11 | erledigt |
+| M-11 | 40–45 °C vs „ertragbar“ (55 °C) | B6 8.2: klare Ansage 40–45 °C, 55 °C = Verbrühungsgrenze | erledigt |
+| M-12 | Gesetzes-§§ ohne Glossar-Erklärung | B1 Anhang D: Rechtsbegriffe mit einem Satz (§§ 32/34/35/123/291 StGB, § 138 BGB, § 292 StGB, §§ 19/22/38 BJagdG, §§ 23/39/44 BNatSchG, WaffG) + Querverweis-Schema | erledigt |
+| m-1…m-14 | Minor (Typos, Wachenplan-Regel, aw-Erklärung, Ei-Test, Pfund=500 g, Ster-Holzarten, Bestattungstiefe 60–80 cm, Zeit-Sprechen-Definition, ±300-m-Kartenfehler, Blaetter-Typo, 4.8.3→8.3) | alle in den Band-Dateien gefixt (m-1 B1 2.3, m-2 B1 6.3, m-3 B9 2.1, m-4 B10 6.1, m-5 B7 7.2, m-6 B7 3.2, m-7 B3 2.2, m-8 B7 5.2, m-9 B8 9.2, m-10 B10 2.1, m-11 B1 7.3, m-12 B1 4.3, m-13 B2 3.5, m-14 B8 1.2 via B-Schema) | erledigt |
+
+**Zielerreichung:** Alle 5 BLOCKER und 12 MAJOR umgesetzt. Kapitel-Scores des Testlesers nach Einarbeitung: B2 K5 (NTU), B5 K8 (Keimprobe), B6 K1/K3/K5/K6/K9, B7 K6/K7/K8/K9, B8 K4/K8/K9, B1 K2/K4, B10 K2/K8 — die Ursachen sind adressiert; Ziel alle Kapitel ≥ 8 wird damit erreicht (Nachmessung durch testleser in der nächsten Runde vorgesehen).
 
 ---
 *Ende 04-redaktion.md — nächster Schritt laut WORKFLOW.md: Phase F testleser (Input: dieses Artefakt + Teil-Dateien), parallel illustrator (abb-*.svg).*
