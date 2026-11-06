@@ -89,7 +89,7 @@ _Querverweise:_ siehe Konzept 1.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -244,7 +244,7 @@ _Querverweise:_ siehe Konzept 6.2, siehe Konzept B1-6.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -395,7 +395,7 @@ _Querverweise:_ siehe Konzept 1.1, siehe Konzept 9.2 (Lehrling, Proben).
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -517,7 +517,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 2.1 Schmied-Feuer <k-2-1>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb_ · P 7 · M prüfenswert · V 7 · Abb. 9.1]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-1.svg", width: 100%), caption: [Abb. 9.1 — Abb. 9.1: Schmiede-Feuer: Esse mit Luftzufuhr, Amboss daneben – CO- & Brandgefahr, Augenschutz (IR/UV) (Konzept 2.1, gelb).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-1.svg", width: 100%), caption: [Abb. 9.1 — Schmiede-Feuer: Esse mit Luftzufuhr, Amboss daneben – CO- & Brandgefahr, Augenschutz (IR/UV) (Konzept 2.1, gelb).])]]
 + Kohlebett, Luftzufuhr von unten; _weiße_ Glut in der Mitte.
 + _CO/Brandgefahr:_ nur im Freien oder mit Abzug — siehe Konzept B3-6.3, `warn-3`: keine Verbrennung in geschlossenen Räumen.
 + _Augenschutz gegen IR/UV:_ Schweißschild/Schutzbrille — nie ohne in die Glut sehen.
@@ -559,7 +559,7 @@ _Querverweise:_ siehe Konzept B3-6.3, `warn-3`.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -678,10 +678,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 2.2 Härten & Anlassen <k-2-2>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb_ · P 6 · M prüfenswert · V 7 · Abb. 9.2]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-2.svg", width: 100%), caption: [Abb. 9.2 — Abb. 9.2: Härten & Anlassen: Abschrecken, dann anlassen – Anlassfarben Hellstrohgelb (hart) bis Hellblau (weich); Anlassen zwingend, sonst Glasbruch (Konzept 2.2, W29).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-2.svg", width: 100%), caption: [Abb. 9.2 — Härten & Anlassen: Abschrecken, dann anlassen – Anlassfarben Hellstrohgelb (hart) bis Hellblau (weich); Anlassen zwingend, sonst Glasbruch (Konzept 2.2).])]]
 + Stahl auf _Kirschrot bis Hellrot_ (ca. 800–900 °C) erhitzen.
 + Abschrecken: _Öl = milder, weniger Rissgefahr; Wasser = härter, spröder._
-+ _Anlassen zwingend_ (sonst Glasbruch): Anlassfarben als Kontrolle (W29): _Hellstrohgelb ≈ 200 °C (hart) bis Hellblau ≈ 300 °C (weich)_ — je nach Werkzeug wählen.
++ _Anlassen zwingend_ (sonst Glasbruch): Anlassfarben als Kontrolle : _Hellstrohgelb ≈ 200 °C (hart) bis Hellblau ≈ 300 °C (weich)_ — je nach Werkzeug wählen.
 - [ ] Abschreckmedium gewählt (Öl milder / Wasser härter)
 - [ ] Anlassen nicht vergessen (Glasbruch!)
 - [ ] Anlassfarbe kontrolliert
@@ -694,14 +694,14 @@ _Querverweise:_ siehe Konzept 4.1, siehe Konzept 2.3.
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [1], [Stahl auf _Kirschrot bis Hellrot_ (ca. 800–900 °C) erhitzen.], [[ ] erledigt  [ ] geprüft],
   [2], [Abschrecken: _Öl = milder, weniger Rissgefahr; Wasser = härter, spröder._], [[ ] erledigt  [ ] geprüft],
-  [3], [_Anlassen zwingend_ (sonst Glasbruch): Anlassfarben als Kontrolle (W29): _Hellstrohgelb ≈ 200 °C (hart) bis Hellblau ≈ 300 °C (weich)_ — je nach Werkzeug wählen.], [[ ] erledigt  [ ] geprüft],
+  [3], [_Anlassen zwingend_ (sonst Glasbruch): Anlassfarben als Kontrolle : _Hellstrohgelb ≈ 200 °C (hart) bis Hellblau ≈ 300 °C (weich)_ — je nach Werkzeug wählen.], [[ ] erledigt  [ ] geprüft],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
   columns: 3,
   table.header([*Anfängerfehler*], [*Folge*], [*Korrektur*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Härten ohne Anlassen], [Klinge bricht wie Glas], [2.2: Anlassfarben (W29)],
+  [Härten ohne Anlassen], [Klinge bricht wie Glas], [2.2: Anlassfarben],
   [Nadelholz geräuchert (Band 7)], [Terpentin im Essen], [7.4.2 (Band 7) + 3.2.2 (Band 3)],
 )
 #subhead[Randbedingungen & Klima/Saison (vor Ort ausfüllen)]
@@ -723,7 +723,7 @@ _Querverweise:_ siehe Konzept 4.1, siehe Konzept 2.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -734,7 +734,7 @@ _Querverweise:_ siehe Konzept 4.1, siehe Konzept 2.3.
 *Schritt 2:* Abschrecken: _Öl = milder, weniger Rissgefahr; Wasser = härter, spröder._
   - [ ] Kontrolle: Schritt vollständig ausgeführt  
   - [ ] Fehlerfolge beachtet (siehe „Fehler & Folgen“)  
-*Schritt 3:* _Anlassen zwingend_ (sonst Glasbruch): Anlassfarben als Kontrolle (W29): _Hellstrohgelb ≈ 200 °C (hart) bis Hellblau ≈ 300 °C (weich)_ — je nach Werkzeug wählen.
+*Schritt 3:* _Anlassen zwingend_ (sonst Glasbruch): Anlassfarben als Kontrolle : _Hellstrohgelb ≈ 200 °C (hart) bis Hellblau ≈ 300 °C (weich)_ — je nach Werkzeug wählen.
   - [ ] Kontrolle: Schritt vollständig ausgeführt  
   - [ ] Fehlerfolge beachtet (siehe „Fehler & Folgen“)  
 #subhead[Begriffe aus diesem Konzept]
@@ -870,7 +870,7 @@ _Querverweise:_ siehe Konzept 4.1, siehe Konzept B1-6.1, Messer.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1021,7 +1021,7 @@ _Querverweise:_ siehe Konzept 2.1, siehe Konzept B1-8.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1151,8 +1151,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 3.1 Fällen <k-3-1>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb + WARNRAHMEN [warn-9a]_ · P 7 · M prüfenswert · V 7 · Abb. 9.3]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-3.svg", width: 100%), caption: [Abb. 9.3 — Abb. 9.3: Fällen: untere Kerbe 1/3, Fällkerbe, Fluchtweg 45° schräg – nie hangabwärts darunter stehen (Konzept 3.1, warn-9a, WARN 2: „tödliche Minute“).])]]
-#warnrahmen(id: "warn-9a", title: [TÖDLICHE MINUTE (WARN 2):])[Beim Fällen kann der Baum in der _letzten Minute_ brechen/kippen. _Nie hangabwärts darunter stehen._ _Fluchtweg 45° schräg_ zur Fallrichtung, zwei Wege frei (siehe Konzept B1-6.2: 2 Stiellängen Sperrzone, 2 Fluchtwege 45°).]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-3.svg", width: 100%), caption: [Abb. 9.3 — Fällen: untere Kerbe 1/3, Fällkerbe, Fluchtweg 45° schräg – nie hangabwärts darunter stehen (Konzept 3.1, warn-9a, : „tödliche Minute“).])]]
+#warnrahmen(id: "warn-9a", title: [TÖDLICHE MINUTE :])[Beim Fällen kann der Baum in der _letzten Minute_ brechen/kippen. _Nie hangabwärts darunter stehen._ _Fluchtweg 45° schräg_ zur Fallrichtung, zwei Wege frei (siehe Konzept B1-6.2: 2 Stiellängen Sperrzone, 2 Fluchtwege 45°).]
 + _Untere Kerbe 1/3_ der Stammdicke, Keilform.
 + Gegenüber: Fällschnitt leicht oberhalb der Kerbe.
 + Keil einsetzen, Baum kontrolliert kippen lassen.
@@ -1205,7 +1205,7 @@ _Querverweise:_ siehe Konzept B1-6.2, siehe Konzept B4-3.1, Windbruch.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1227,8 +1227,9 @@ _Querverweise:_ siehe Konzept B1-6.2, siehe Konzept B4-3.1, Windbruch.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [ Beim Fällen kann der Baum in der ], [siehe Glossar, Anhang D Band 1],
-  [ brechen/kippen. ], [siehe Glossar, Anhang D Band 1],
+  [WARNRAHMEN [warn-9a] — TÖDLICHE MINUTE :], [siehe Glossar, Anhang D Band 1],
+  [letzten Minute], [siehe Glossar, Anhang D Band 1],
+  [Nie hangabwärts darunter stehen.], [siehe Glossar, Anhang D Band 1],
   [Fluchtweg 45° schräg], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
@@ -1331,10 +1332,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 3.2 Block → Brett <k-3-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 9.4]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-4.svg", width: 100%), caption: [Abb. 9.4 — Abb. 9.4: Block → Brett: Keile in die Hirnholzseite, Maserung lesen – Trocknung \~1 Jahr je Daumen Dicke (Konzept 3.2, W28).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-4.svg", width: 100%), caption: [Abb. 9.4 — Block → Brett: Keile in die Hirnholzseite, Maserung lesen – Trocknung \~1 Jahr je Daumen Dicke (Konzept 3.2).])]]
 + _Maserung lesen:_ Äste, Risse, Drehwuchs erkennen.
 + Keile entlang der Faser einschlagen (siehe Konzept 5.1), Brett abspalten.
-+ _Trocknung: \~1 Jahr je Daumendicke_ (W28; Fichte 1 J, Buche/Eiche 2 J), luftig stapeln.
++ _Trocknung: \~1 Jahr je Daumendicke_ (Fichte 1 J, Buche/Eiche 2 J), luftig stapeln.
 - [ ] Maserung gelesen
 - [ ] Trocknungszeit eingeplant
 _Querverweise:_ siehe Konzept 5.1, siehe Konzept B3-2.2.
@@ -1345,7 +1346,7 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept B3-2.2.
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [1], [_Maserung lesen:_ Äste, Risse, Drehwuchs erkennen.], [[ ] erledigt  [ ] geprüft],
   [2], [Keile entlang der Faser einschlagen (siehe Konzept 5.1), Brett abspalten.], [[ ] erledigt  [ ] geprüft],
-  [3], [_Trocknung: \~1 Jahr je Daumendicke_ (W28; Fichte 1 J, Buche/Eiche 2 J), luftig stapeln.], [[ ] erledigt  [ ] geprüft],
+  [3], [_Trocknung: \~1 Jahr je Daumendicke_ (Fichte 1 J, Buche/Eiche 2 J), luftig stapeln.], [[ ] erledigt  [ ] geprüft],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -1373,7 +1374,7 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept B3-2.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1384,7 +1385,7 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept B3-2.2.
 *Schritt 2:* Keile entlang der Faser einschlagen (siehe Konzept 5.1), Brett abspalten.
   - [ ] Kontrolle: Schritt vollständig ausgeführt  
   - [ ] Fehlerfolge beachtet (siehe „Fehler & Folgen“)  
-*Schritt 3:* _Trocknung: \~1 Jahr je Daumendicke_ (W28; Fichte 1 J, Buche/Eiche 2 J), luftig stapeln.
+*Schritt 3:* _Trocknung: \~1 Jahr je Daumendicke_ (Fichte 1 J, Buche/Eiche 2 J), luftig stapeln.
   - [ ] Kontrolle: Schritt vollständig ausgeführt  
   - [ ] Fehlerfolge beachtet (siehe „Fehler & Folgen“)  
 #subhead[Begriffe aus diesem Konzept]
@@ -1519,7 +1520,7 @@ _Querverweise:_ siehe Konzept B1-6.2, siehe Konzept 3.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1638,7 +1639,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 4.1 Schliff <k-4-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 9.5]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-5.svg", width: 100%), caption: [Abb. 9.5 — Abb. 9.5: Schliff in drei Stufen: Grob – Fein – Glatt, Winkel konstant halten (Konzept 4.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-5.svg", width: 100%), caption: [Abb. 9.5 — Schliff in drei Stufen: Grob – Fein – Glatt, Winkel konstant halten (Konzept 4.1).])]]
 _Grob → Fein → Glatt_, _Winkel konstant_ halten.
 + Grob: Sensen-/Schleifstein, Kratzer raus.
 + Fein: Wetzstein mit Wasser/Öl.
@@ -1681,7 +1682,7 @@ _Querverweise:_ siehe Konzept 4.2, siehe Konzept B1-6.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1830,7 +1831,7 @@ _Querverweise:_ siehe Konzept B1-6.1, siehe Konzept 4.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1950,7 +1951,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 5.1 Zapfen / Loch / Keil <k-5-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 9.6]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-6.svg", width: 100%), caption: [Abb. 9.6 — Abb. 9.6: Zapfen, Loch, Keil: Zapfenloch ausstemmen, Keil folgt der Faser – Verbindung hält ohne Leim (Konzept 5.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-6.svg", width: 100%), caption: [Abb. 9.6 — Zapfen, Loch, Keil: Zapfenloch ausstemmen, Keil folgt der Faser – Verbindung hält ohne Leim (Konzept 5.1).])]]
 _Der Keil folgt der Faser._ 1. Zapfenloch stemmen (Stemmeisen). 2. Zapfen passend sägen. 3. Keil aus Hartholz eintreiben, bündig absägen.
 - [ ] Keil entlang der Faser
 _Querverweise:_ siehe Konzept B4-4.2, Sattelkerbe.
@@ -1980,7 +1981,7 @@ _Querverweise:_ siehe Konzept B4-4.2, Sattelkerbe.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2090,7 +2091,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 5.2 Seil & Knoten <k-5-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 7 · Abb. 9.7]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-7.svg", width: 100%), caption: [Abb. 9.7 — Abb. 9.7: Seil & Knoten: Knoten nach Abb. 1.17–1.21 – lastendes Seil regelmäßig prüfen (Konzept 5.2, konsistent B1 6.3).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-7.svg", width: 100%), caption: [Abb. 9.7 — Seil & Knoten: Knoten nach Abb. 1.17–1.21 – lastendes Seil regelmäßig prüfen (Konzept 5.2, konsistent B1 6.3).])]]
 Konsistent mit Konzept B1-6.3, fünf Serienknoten.
 #warnrahmen()[Ein belastetes Seil nie mit dem Messer durchtrennen — es _schlägt zurück_. Seil auslaufen lassen, dann trennen.]
 - [ ] Knoten aus Konzept B1-6.3
@@ -2122,7 +2123,7 @@ _Querverweise:_ siehe Konzept B1-6.3, siehe Konzept B5-7.2, Bastseil.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2269,7 +2270,7 @@ _Querverweise:_ siehe Konzept 5.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2423,7 +2424,7 @@ _Querverweise:_ siehe Konzept 8.1, siehe Konzept 6.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2561,7 +2562,7 @@ _Querverweise:_ siehe Konzept B4-7.2, siehe Konzept B4-8.2, Verfallsdatum.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2710,7 +2711,7 @@ _Querverweise:_ siehe Konzept B7-8.1, siehe Konzept B6-5.1a.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2819,7 +2820,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 7.2 Selbst gemachter Leim <k-7-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 6 · M unbedenklich · V 7 · Abb. 9.8]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-8.svg", width: 100%), caption: [Abb. 9.8 — Abb. 9.8: Selbst gemachter Leim: Wasserbad 2–4 h, nie sieden – haltbar \~1 Woche (Konzept 7.2).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-8.svg", width: 100%), caption: [Abb. 9.8 — Selbst gemachter Leim: Wasserbad 2–4 h, nie sieden – haltbar \~1 Woche (Konzept 7.2).])]]
 + Knochen/Haut/Leimreste im _Wasserbad 2–4 h_ erhitzen — _nie sieden_ (brennt an, verliert Kraft).
 + Durchseihen, in Form gießen.
 + Haltbarkeit _\~1 Woche_ — frisch ansetzen.
@@ -2840,7 +2841,7 @@ _Querverweise:_ siehe Konzept B6-9.3, Knochen, siehe Konzept 5.1.
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [1 Wo], [[ ] Haltbarkeit \~1 Wo beachtet],
+  [1 Wo], [( ) Haltbarkeit \~1 Wo beachtet],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -2868,7 +2869,7 @@ _Querverweise:_ siehe Konzept B6-9.3, Knochen, siehe Konzept 5.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2987,8 +2988,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 7.3 Riemen / Fett / Öl <k-7-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün + _WARNRAHMEN [warn-9b]_ · P 8 · M unbedenklich · V 8 · Abb. 9.9]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-9.svg", width: 100%), caption: [Abb. 9.9 — Abb. 9.9: Riemen, Fett, Öl: Leinöl-Lappen nie zerknüllt wegwerfen – Selbstentzündung (Konzept 7.3, warn-9b, W30).])]]
-#warnrahmen(id: "warn-9b", title: [LEINÖL-LAPPEN-SELBSTENTZÜNDUNG (W30, 09 Nr. 10):])[_Lappen nie zerknüllt in den Abfalleimer_ — ausgebreitet auf _nichtbrennbarem Untergrund_ trocknen _oder_ in _dicht verschlossenen Metallbehälter mit Wasser_ legen. _Nie Öl in einen Wassereimer_ — Dampfexplosion.]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-9.svg", width: 100%), caption: [Abb. 9.9 — Riemen, Fett, Öl: Leinöl-Lappen nie zerknüllt wegwerfen – Selbstentzündung (Konzept 7.3, warn-9b).])]]
+#warnrahmen(id: "warn-9b", title: [LEINÖL-LAPPEN-SELBSTENTZÜNDUNG (09 Nr. 10):])[_Lappen nie zerknüllt in den Abfalleimer_ — ausgebreitet auf _nichtbrennbarem Untergrund_ trocknen _oder_ in _dicht verschlossenen Metallbehälter mit Wasser_ legen. _Nie Öl in einen Wassereimer_ — Dampfexplosion.]
 + Lederriemen mit Fett (siehe Konzept B7-7.1, Schmalz/Talg) einreiben, geschmeidig halten.
 + Werkzeuge ölen (siehe Konzept B1-6.1).
 + Ölige Lappen nach warn-9b behandeln.
@@ -3032,7 +3033,7 @@ _Querverweise:_ siehe Konzept B7-7.1, siehe Konzept B1-6.1, siehe Konzept B3-9.1
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W30],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3166,8 +3167,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 8.1 Die Kiste (3 Schichten, ≤ ¼ Körpergewicht) <k-8-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 9.10]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-10.svg", width: 100%), caption: [Abb. 9.10 — Abb. 9.10: Die Werkzeug-Kiste: 3 Schichten, ≤ ¼ Körpergewicht (Konzept 8.1, W20).])]]
-Konsistent mit Traglast (W20, siehe Konzept B1-6.5): _≤ ¼ Körpergewicht_.
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-10.svg", width: 100%), caption: [Abb. 9.10 — Die Werkzeug-Kiste: 3 Schichten, ≤ ¼ Körpergewicht (Konzept 8.1).])]]
+Konsistent mit Traglast (siehe Konzept B1-6.5): _≤ ¼ Körpergewicht_.
 #table(
   columns: 2,
   table.header([Schicht], [Inhalt]),
@@ -3212,7 +3213,7 @@ _Querverweise:_ siehe Konzept B1-6.5, siehe Konzept B1-3.2, Rucksack.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W20],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3361,7 +3362,7 @@ _Querverweise:_ siehe Konzept B4-1.2, siehe Konzept B4-3.2, siehe Konzept B4-9.2
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3525,7 +3526,7 @@ _Querverweise:_ siehe Konzept 9.2, siehe Konzept 1.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3673,7 +3674,7 @@ _Querverweise:_ siehe Konzept 1.3, siehe Konzept 6.1, siehe Konzept B10-9.1, Ver
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3857,7 +3858,7 @@ Kopiervorlage zu Konzept 7.1 — konsistent mit Anhang A Band 7 (A1).
   table.header([Anfängerfehler], [Folge], [Korrektur]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Hangabwärts unter dem fallenden Baum], [Tod („tödliche Minute“)], [3.1 `warn-9a`: nie hangabwärts, Flucht 45°],
-  [Härten ohne Anlassen], [Klinge bricht wie Glas], [2.2: Anlassfarben (W29)],
+  [Härten ohne Anlassen], [Klinge bricht wie Glas], [2.2: Anlassfarben],
   [Nadelholz geräuchert (Band 7)], [Terpentin im Essen], [7.4.2 (Band 7) + 3.2.2 (Band 3)],
   [Leinöl-Lappen zerknüllt im Eimer], [Selbstentzündung, Brand], [7.3 `warn-9b`: ausgebreitet trocknen oder Metallbehälter mit Wasser],
   [Öl in Wassereimer], [Dampfexplosion], [7.3 `warn-9b`],
@@ -3932,8 +3933,8 @@ Alle Konzepte dieses Bandes im Überblick — abhaken, wenn geübt/gelesen:
   columns: 2,
   table.header([*Warngrafik*], [*Thema*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [warn-9a], [TÖDLICHE MINUTE WARN 2],
-  [warn-9b], [LEINÖLLAPPENSELBSTENTZÜNDUNG W30 09 NR 1],
+  [warn-9a], [TÖDLICHE MINUTE ],
+  [warn-9b], [LEINÖLLAPPENSELBSTENTZÜNDUNG 09 NR 10],
 )
 #pagebreak(weak: true)
 == Querverweis-Register Band 9 <querverweis-register>
@@ -3971,6 +3972,20 @@ Alle Verweise aus diesem Band auf andere Bände (Schema B\<Band\>-X.Y):
   [8.2], [B4-3.2],
   [8.2], [B4-9.2],
   [9.2], [B10-9.1],
+)
+#pagebreak(weak: true)
+== Prüfprotokoll (interne Quellen-IDs) <pruefprotokoll>
+Interne Prüf-IDs aus dem Factcheck (dreifache Prüfung). Sie stehen nicht im Lesetext, sondern hier im Protokoll.
+#table(
+  columns: 3,
+  table.header([*ID*], [*Konzept*], [*Fundstelle (Kontext)*]),
+  table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [W29], [2.2], [onst Glasbruch): Anlassfarben als Kontrolle : \*\*Hellstrohgelb ≈ 200 °C (hart) bis Hellbl],
+  [WARN 2], [3.1], [\> _WARNRAHMEN (warn-9a) — TÖDLICHE MINUTE (WARN 2):_ Beim Fällen kann der Baum in der \*\*],
+  [W28], [3.2], [3. _Trocknung: \~1 Jahr je Daumendicke_ (Fichte 1 J, Buche/Eiche 2 J), luftig stapel],
+  [W30], [7.3], [(warn-9b) — LEINÖL-LAPPEN-SELBSTENTZÜNDUNG (09 Nr. 10):_ _Lappen nie zerknüllt in den],
+  [W20], [8.1], [Konsistent mit Traglast (siehe Konzept B1-6.5): _\*≤ ¼ Körpergewicht_],
+  [W29], [9.2], [Klinge bricht wie Glas | 2.2: Anlassfarben |],
 )
 
 #pagebreak(weak: true)

@@ -30,7 +30,7 @@ Einträge zu Konzepten dieses Bandes mit Seitenzahl (S. …); Verweise auf ander
 - _Wand / Boden / Sockel (Hütte)_ — Konzept 5.2, S. #refpage(<k-5-2>) (Abb. 4.9)  · _20 cm Sockel, Ringgraben_; siehe auch Schlafplatz & Bodenisolierung
 - _Wärme (halten)_ — siehe Wärmepaket (B3-6.1); Wärmehaushalt (Konzept 2.1, S. #refpage(<k-2-1>))
 - _Wärmehaushalt (Schichtprinzip)_ — Konzept 2.1, S. #refpage(<k-2-1>) (Abb. 4.2); siehe auch Wärmepaket (Schichten); Nachtwärme & Deckenbilanz; Faserkunde & Pflege (Textil)
-- _Werkstoffkunde Dach/Wand_ — Konzept 2.3, S. #refpage(<k-2-3>) (Abb. 4.3); siehe auch Dachdeckung & Neigung; Binden / Körbe / Bast (W28)
+- _Werkstoffkunde Dach/Wand_ — Konzept 2.3, S. #refpage(<k-2-3>) (Abb. 4.3); siehe auch Dachdeckung & Neigung; Binden / Körbe / Bast 
 - _Wetter-/Wolkenlesen (Unterkunft)_ — Konzept 2.2, S. #refpage(<k-2-2>); siehe auch Wetter lesen (Zwei-Zeichen-Regel)
 - _Wettergrenzen improvisiert (Kleidung)_ — Konzept 8.2, S. #refpage(<k-8-2>)  · _Verfallsdatum_; siehe auch Kleidungssatz & Eigentum; Schuhwerk
 - _Windbruch (Klangprobe)_ — Konzept 3.1, S. #refpage(<k-3-1>)  · _besetzter Bau bleibt besetzt_; siehe auch Fällen (tödliche Minute); Bauplan & Hüttenmaße

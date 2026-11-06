@@ -1,6 +1,6 @@
 # Proof-Bericht — Druckdaten (Phase I, Agent prepress)
 
-**Erstellt:** 2026-11-06 · **Input:** `06-dokumente/band-01..10.pdf` (Typst 0.15.1, PDF/A-2b, A4 210×297 mm, 328–413 S., keine Boxen außer MediaBox) · **Output:** `druckdaten/band-01..10-druck.pdf`
+**Erstellt:** 2026-11-06 · **Revision 2 (2026-11-06, nach Phase-J-Review F1):** Schnittmarken werden jetzt in **Pass C nach** dem Ghostscript-Pass auf das finale PDF/X-4 gelegt; proof.py enthält einen echten Marken-Check. · **Input:** `06-dokumente/band-01..10.pdf` (Typst 0.15.1, PDF/A-2b, A4 210×297 mm, keine Boxen außer MediaBox) · **Output:** `druckdaten/band-01..10-druck.pdf`
 
 ## 1. Pipeline (pro Band, `prepress.sh`)
 
@@ -8,7 +8,6 @@
 band-NN.pdf (A4, RGB, PDF/A-2b)
   │ Pass A  bleed_marks.py (pypdf 7.0.0)
   │         A4 → 216×303 mm, Inhalt 1:1 um +3 mm versetzt (unten/links),
-  │         8 Ecken-Schnittmarken (0,3 pt, Registration Black) im Anschnitt,
   │         TrimBox=CropBox=ArtBox = A4 innen, BleedBox=MediaBox = 216×303 mm,
   │         Link-Annotationen entfernt (PDF/X verbietet sie; Druckdaten = keine interaktiven Elemente)
   ▼
@@ -16,9 +15,18 @@ band-NN-bleed.pdf
   │ Pass B  Ghostscript 10.08.0 pdfwrite, -dPDFX=4 (GTS_PDFXVersion=PDF/X-4 in Info + XMP),
   │         -sColorConversionStrategy=CMYK + default_cmyk.icc, Fonts eingebettet+subset,
   │         OutputIntent GTS_PDFX via PDFX_def.ps, PDF 1.6
+  │         ACHTUNG (F1): pdfwrite/pdfi beschneidet auf die CropBox — in Pass A gezeichnete
+  │         Marken im Bleed ueberleben Pass B NICHT (Rev. 1 des Berichts behauptete das
+  │         faelschlich; proof.py pruefte es nicht). Daher Pass C:
+  ▼
+band-NN-x4.pdf
+  │ Pass C  marks_overlay.py → marks.pdf (216×303 mm, 8 Ecken-Marken, 0,3 pt, Registration
+  │         Black 1 1 1 1 K), dann apply_marks.py (pypdf clone_from + merge_page(over=False),
+  │         1:1 ohne Skalierung VOR den Seiteninhalt — qpdf --overlay skaliert stattdessen
+  │         ins CropBox und versetzt die Marken). clone_from erhaelt OutputIntents, XMP, Info.
   ▼
 band-NN-druck.pdf  (PDF/X-4, CMYK, 3 mm Anschnitt, Schnittmarken)
-  │ Pass C  proof.py → proof.json (dieser Bericht)
+  │ proof.py → proof.json (dieser Bericht)
 ```
 
 ## 2. Toolchain macOS (dokumentierte Befehle)
@@ -53,47 +61,52 @@ gs -dBATCH -dNOPAUSE -dQUIET -dNOSAFER -sDEVICE=pdfwrite \
    -dEmbedAllFonts=true -dSubsetFonts=true -dCompressFonts=true \
    -dAutoFilterColorImages=false -dColorImageFilter=/FlateEncode \
    -dDownsampleColorImages=false -dDownsampleGrayImages=false -dDownsampleMonoImages=false \
-   -sOutputFile=band-NN-druck.pdf PDFX_def.ps band-NN-bleed.pdf   # aus dem Arbeitsverzeichnis (ICC relativ)
+   -sOutputFile=band-NN-x4.pdf PDFX_def.ps band-NN-bleed.pdf   # aus dem Arbeitsverzeichnis (ICC relativ)
+
+# Pass C (Marken aufs finale PDF/X-4, 1:1, ohne Farbkonvertierung):
+PYTHONPATH=$PYLIBS python3 marks_overlay.py marks.pdf            # einmalig
+PYTHONPATH=$PYLIBS python3 apply_marks.py band-NN-x4.pdf marks.pdf band-NN-druck.pdf
 ```
 
-**Proof-Befehle:** `pdffonts band-NN-druck.pdf` · `pdfimages -list band-NN-druck.pdf` · `pdfinfo -box band-NN-druck.pdf` · `qpdf --qdf --object-streams=disable … -` + grep (Farb-Operatoren) · Graustufen: `gs -sDEVICE=pdfwrite -sColorConversionStrategy=Gray -dProcessColorModel=/DeviceGray …` dann `gs -sDEVICE=inkcov -o - gray.pdf` (alle Werte als JSON in `proof.json` via `proof.py`).
+**Proof-Befehle:** `pdffonts band-NN-druck.pdf` · `pdfimages -list band-NN-druck.pdf` · `pdfinfo -box band-NN-druck.pdf` · `qpdf --qdf --object-streams=disable … -` + grep (Farb-Operatoren) · Marken: Content-Check (Registration Black `1 1 1 1 K`, Strich < 1 pt, 8 Segmente im Bleed-Rand pro Seite) + Raster-Check (erste/letzte Seite, 300 dpi pngmono an einer Visualisierungs-Kopie mit CropBox=MediaBox — Viewer rendern sonst nur die TrimBox und blenden die Marken im Bleed aus) · Graustufen: `gs -sDEVICE=pdfwrite -sColorConversionStrategy=Gray …` dann `gs -sDEVICE=inkcov -o - gray.pdf` (alles als JSON in `proof.json` via `proof.py`).
 
-## 3. Proof-Ergebnis pro Band (aus `proof.json`)
+## 3. Proof-Ergebnis pro Band (aus `proof.json`, Rev. 2)
 
-| Band | Seiten | MB | PDF/X-4 (XMP+Info) | OutputIntent | CMYK-only (RGB-ops=0) | Fonts emb | Rasterbilder | MediaBox mm | Anschnitt je Seite | Form/Annots | Graustufen |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| band-01 | 413 | 1.03 | PDF/X-4 / PDF/X-4 | GTS_PDFX | True (cmyk-ops 1584) | 4/4 yes | 0 (Vektor, dpi n/a) | 216.0 x 303.0 | 3.0/3.0/3.0/3.0 mm | False/False | K-only=True K 0.001-0.161 |
-| band-02 | 382 | 0.95 | PDF/X-4 / PDF/X-4 | GTS_PDFX | True (cmyk-ops 1335) | 4/4 yes | 0 (Vektor, dpi n/a) | 216.0 x 303.0 | 3.0/3.0/3.0/3.0 mm | False/False | K-only=True K 0.001-0.127 |
-| band-03 | 359 | 0.90 | PDF/X-4 / PDF/X-4 | GTS_PDFX | True (cmyk-ops 1196) | 4/4 yes | 0 (Vektor, dpi n/a) | 216.0 x 303.0 | 3.0/3.0/3.0/3.0 mm | False/False | K-only=True K 0.001-0.167 |
-| band-04 | 351 | 0.87 | PDF/X-4 / PDF/X-4 | GTS_PDFX | True (cmyk-ops 1100) | 4/4 yes | 0 (Vektor, dpi n/a) | 216.0 x 303.0 | 3.0/3.0/3.0/3.0 mm | False/False | K-only=True K 0.001-0.121 |
-| band-05 | 336 | 0.87 | PDF/X-4 / PDF/X-4 | GTS_PDFX | True (cmyk-ops 1175) | 4/4 yes | 0 (Vektor, dpi n/a) | 216.0 x 303.0 | 3.0/3.0/3.0/3.0 mm | False/False | K-only=True K 0.001-0.310 |
-| band-06 | 333 | 0.86 | PDF/X-4 / PDF/X-4 | GTS_PDFX | True (cmyk-ops 1047) | 4/4 yes | 0 (Vektor, dpi n/a) | 216.0 x 303.0 | 3.0/3.0/3.0/3.0 mm | False/False | K-only=True K 0.001-0.182 |
-| band-07 | 340 | 0.88 | PDF/X-4 / PDF/X-4 | GTS_PDFX | True (cmyk-ops 1102) | 4/4 yes | 0 (Vektor, dpi n/a) | 216.0 x 303.0 | 3.0/3.0/3.0/3.0 mm | False/False | K-only=True K 0.001-0.206 |
-| band-08 | 345 | 0.88 | PDF/X-4 / PDF/X-4 | GTS_PDFX | True (cmyk-ops 1118) | 4/4 yes | 0 (Vektor, dpi n/a) | 216.0 x 303.0 | 3.0/3.0/3.0/3.0 mm | False/False | K-only=True K 0.001-0.295 |
-| band-09 | 336 | 0.85 | PDF/X-4 / PDF/X-4 | GTS_PDFX | True (cmyk-ops 1058) | 4/4 yes | 0 (Vektor, dpi n/a) | 216.0 x 303.0 | 3.0/3.0/3.0/3.0 mm | False/False | K-only=True K 0.001-0.157 |
-| band-10 | 328 | 0.92 | PDF/X-4 / PDF/X-4 | GTS_PDFX | True (cmyk-ops 1009) | 4/4 yes | 0 (Vektor, dpi n/a) | 216.0 x 303.0 | 3.0/3.0/3.0/3.0 mm | False/False | K-only=True K 0.001-0.124 |
+| Band | Seiten | MB | PDF/X-4 (XMP+Info) | OutputIntent | CMYK-only | Fonts emb | Rasterbilder | MediaBox mm | Anschnitt | Schnittmarken (Content/Raster) | Form/Annots | Graustufen |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| band-01 | 414 | 3.88 | PDF/X-4/PDF/X-4 | GTS_PDFX | True | 4/4 yes | 0 (Vektor) | 216.0 x 303.0 | 3.0/3.0/3.0/3.0 mm | 414/414 S., RegBlack 0,3 pt, 8 Segmente / 8+8 Ecken | False/False | K-only True |
+| band-02 | 382 | 3.53 | PDF/X-4/PDF/X-4 | GTS_PDFX | True | 4/4 yes | 0 (Vektor) | 216.0 x 303.0 | 3.0/3.0/3.0/3.0 mm | 382/382 S., RegBlack 0,3 pt, 8 Segmente / 8+8 Ecken | False/False | K-only True |
+| band-03 | 359 | 3.29 | PDF/X-4/PDF/X-4 | GTS_PDFX | True | 4/4 yes | 0 (Vektor) | 216.0 x 303.0 | 3.0/3.0/3.0/3.0 mm | 359/359 S., RegBlack 0,3 pt, 8 Segmente / 8+8 Ecken | False/False | K-only True |
+| band-04 | 352 | 3.20 | PDF/X-4/PDF/X-4 | GTS_PDFX | True | 4/4 yes | 0 (Vektor) | 216.0 x 303.0 | 3.0/3.0/3.0/3.0 mm | 352/352 S., RegBlack 0,3 pt, 8 Segmente / 8+8 Ecken | False/False | K-only True |
+| band-05 | 338 | 3.21 | PDF/X-4/PDF/X-4 | GTS_PDFX | True | 4/4 yes | 0 (Vektor) | 216.0 x 303.0 | 3.0/3.0/3.0/3.0 mm | 338/338 S., RegBlack 0,3 pt, 8 Segmente / 8+8 Ecken | False/False | K-only True |
+| band-06 | 335 | 3.19 | PDF/X-4/PDF/X-4 | GTS_PDFX | True | 4/4 yes | 0 (Vektor) | 216.0 x 303.0 | 3.0/3.0/3.0/3.0 mm | 335/335 S., RegBlack 0,3 pt, 8 Segmente / 8+8 Ecken | False/False | K-only True |
+| band-07 | 342 | 3.23 | PDF/X-4/PDF/X-4 | GTS_PDFX | True | 4/4 yes | 0 (Vektor) | 216.0 x 303.0 | 3.0/3.0/3.0/3.0 mm | 342/342 S., RegBlack 0,3 pt, 8 Segmente / 8+8 Ecken | False/False | K-only True |
+| band-08 | 346 | 3.26 | PDF/X-4/PDF/X-4 | GTS_PDFX | True | 4/4 yes | 0 (Vektor) | 216.0 x 303.0 | 3.0/3.0/3.0/3.0 mm | 346/346 S., RegBlack 0,3 pt, 8 Segmente / 8+8 Ecken | False/False | K-only True |
+| band-09 | 338 | 3.13 | PDF/X-4/PDF/X-4 | GTS_PDFX | True | 4/4 yes | 0 (Vektor) | 216.0 x 303.0 | 3.0/3.0/3.0/3.0 mm | 338/338 S., RegBlack 0,3 pt, 8 Segmente / 8+8 Ecken | False/False | K-only True |
+| band-10 | 329 | 3.50 | PDF/X-4/PDF/X-4 | GTS_PDFX | True | 4/4 yes | 0 (Vektor) | 216.0 x 303.0 | 3.0/3.0/3.0/3.0 mm | 329/329 S., RegBlack 0,3 pt, 8 Segmente / 8+8 Ecken | False/False | K-only True |
 
 ## 4. Pruefungen im Detail
 
-- **PDF/X-4:** `GTS_PDFXVersion = PDF/X-4` in Info-Dict **und** XMP (`pdfxid`), OutputIntent `/S /GTS_PDFX` mit eingebettetem CMYK-ICC (`/N 4`), PDF-Version 1.6, `Trapped /False`. Ghostscript meldete nach Entfernen der Link-Annotationen **keine** „not permitted in PDF/X"-Warnung mehr.
-- **CMYK:** RGB→CMYK via `default_cmyk.icc`; qdf-Scan: 0 RGB-Farboperatoren (`rg/RG`) und 0 `/DeviceRGB`, 1000–1600 CMYK-Operatoren (`k/K`) pro Band. Restliches DeviceGray (Text) liegt drucktechnisch auf K.
+- **PDF/X-4:** `GTS_PDFXVersion = PDF/X-4` in Info-Dict **und** XMP, OutputIntent `/S /GTS_PDFX` mit eingebettetem CMYK-ICC (`/N 4`), PDF 1.6, `Trapped /False` — auch nach Pass C erhalten (pypdf `clone_from` uebernimmt den Catalog vollstaendig). Keine „not permitted in PDF/X"-Warnungen von Ghostscript (Link-Annotationen der Quelle wurden in Pass A entfernt).
+- **CMYK:** RGB→CMYK via `default_cmyk.icc`; qdf-Scan: 0 RGB-Farboperatoren (`rg`/`RG`) und 0 `/DeviceRGB` pro Band; CMYK-Operatoren (`k`/`K`) vorhanden. Restliches DeviceGray (Text) liegt drucktechnisch auf K. Die Marken sind reines DeviceCMYK (Registration Black) und bleiben durch Pass C unkonvertiert.
 - **Fonts:** `pdffonts` — je Band 4 Fonts (Libertinus Serif Bold/Regular/Italic, DejaVu Sans Mono), alle `emb=yes sub=yes uni=yes`.
-- **Aufloesung ≥ 300 dpi:** `pdfimages -list` — **0 Rasterbilder** in allen Baenden (alle 142 Abb. + 15 Warngrafiken sind SVG→Vektor). Anforderung trivial erfuellt; kein Downsampling aktiv (`-dDownsample*=false`).
-- **Anschnitt:** MediaBox 216,0 × 303,0 mm; TrimBox/CropBox 8,5 pt (= 3,0 mm) an **allen vier** Seiten eingerueckt; BleedBox = MediaBox. Inhalt 1:1 verschoben (kein Rescaling).
-- **Schnittmarken:** 8 Ecken-Marken (waagerecht/senkrecht, 0,3 pt, Registration Black) von der MediaBox-Kante bis 2 pt vor die Trim-Ecke; per Rasterisierung (72 dpi) an den Eck-Koordinaten verifiziert (dunkle Pixel an allen Marken-Positionen).
-- **Keine interaktiven Elemente:** `Form: none` (kein AcroForm), 0 Seiten mit `/Annots`. Die 2 Link-Annotationen der Quelle (TOC-Verweise) wurden in Pass A entfernt — PDF/X erlaubt nur PrinterMark-Annotationen.
-- **Graustufen-Tauglichkeit (PoD S/W):** jedes `band-NN-druck.pdf` mit `-sColorConversionStrategy=Gray` nach DeviceGray konvertiert und per `gs -sDEVICE=inkcov` vermessen: auf **allen** Seiten C=M=Y=0,0 (K-only), K-Deckung 0,001–0,31 — S/W-Druck laeuft exclusively ueber die K-Platte, Tonwertverlauf bleibt erhalten (Text 100 % K). **Graustufen-tauglich: bestanden.**
+- **Aufloesung ≥ 300 dpi:** `pdfimages -list` — **0 Rasterbilder** in allen Baenden (142 Abb. + 15 Warngrafiken sind SVG→Vektor). Anforderung trivial erfuellt; kein Downsampling aktiv.
+- **Anschnitt:** MediaBox 216,0 × 303,0 mm; TrimBox/CropBox 8,5 pt (= 3,0 mm) an allen vier Seiten eingerueckt; BleedBox = MediaBox. Inhalt 1:1 verschoben (kein Rescaling). Seitenzahl Druck == Quelle (z. B. band-01: 414 = 414).
+- **Schnittmarken (F1, Rev. 2 — jetzt geprueft, vorher fehlten sie):** 8 Ecken-Marken (waagerecht/senkrecht, von der MediaBox-Kante bis 2 pt vor die Trim-Ecke), 0,3 pt, Registration Black (`1 1 1 1 K`), in Pass C nach Pass B aufgebracht. **Content-Check:** auf jeder Seite (N/N) Registration Black + Strich 0,3 pt + 8 Segmente im Bleed-Rand. **Raster-Check:** erste und letzte Seite bei 300 dpi gerendert (Visualisierungs-Kopie mit CropBox=MediaBox, da Viewer die TrimBox rendern und Bleed-Marken ausblenden) — alle 8 Marken an allen 4 Ecken als dunkle Pixel sichtbar (8/8 + 8/8). *Korrektur zu Rev. 1: Dort behauptete §4 eine Raster-Verifikation, die proof.py nicht enthielt; tatsaechlich hatte Pass B die Marken verworfen (Beschnitt auf CropBox).*
+- **Keine interaktiven Elemente:** `Form: none` (kein AcroForm), 0 Seiten mit `/Annots` (2 TOC-Link-Annotationen der Quelle in Pass A entfernt — PDF/X erlaubt nur PrinterMark-Annotationen).
+- **Graustufen-Tauglichkeit (PoD S/W):** jedes `band-NN-druck.pdf` mit `-sColorConversionStrategy=Gray` nach DeviceGray konvertiert und per `gs -sDEVICE=inkcov` vermessen: auf allen Seiten C=M=Y=0,0 (K-only), K-Deckung bis 0,31 — S/W-Druck laeuft exclusively ueber die K-Platte. **Graustufen-tauglich: bestanden.**
 
 ## 5. Annahmen / Hinweise
 
 - **ICC-Profil:** Ghostscript `default_cmyk.icc` (generisches CMYK). Fuer einen echten Drucklauf mit Hausfarbprofil FOGRA39/PSO Coated v3 in `PDFX_def.ps` (`/ICCProfile`) + `-sOutputICCProfile` austauschen — Profil ggf. bei der Druckerei anfordern.
-- Die Druckdaten sind **nicht mehr getaggt (PDF/A-UA)** — das bleibt den Quell-PDFs (Barrierefreiheit, Phase K) vorbehalten; PDF/X-4 und PDF/UA sind separate Ausspielungen.
-- KDP/tolino akzeptieren PDF/X-4 mit TrimBox+BleedBox; die Schnittmarken liegen innerhalb des Anschnitts (kein zusaetzlicher Slug) und werden beim Beschnitt entfernt.
+- Die Druckdaten sind **nicht getaggt (PDF/UA)** — das bleibt den Quell-PDFs vorbehalten; PDF/X-4 und PDF/UA sind separate Ausspielungen.
+- KDP/tolino akzeptieren PDF/X-4 mit TrimBox+BleedBox; die Schnittmarken liegen innerhalb des Anschnitts (kein zusaetzlicher Slug), werden beim Beschnitt entfernt und sind in der CropBox-Ansicht (TrimBox) nicht sichtbar — normal fuer Druck-PDFs.
+- Offen aus Phase J (nicht prepress): F2 `abb-9-10.svg` („undefined“-Artefakt, Owner illustrator/doc-builder), F3–F7 (minor), Gate G-1 Band 6 (legal).
 
 ## 6. Akzeptanzkriterien (agents/14-prepress.md)
 
-- [x] Pro Band eine druckfaehige PDF/X-Datei (`band-01..10-druck.pdf`, PDF/X-4)
-- [x] Proof-Bericht mit CMYK-/Aufloesungs-/Font-Check (Abschnitte 3–4, `proof.json`)
+- [x] Pro Band eine druckfaehige PDF/X-Datei (`band-01..10-druck.pdf`, PDF/X-4 + Schnittmarken)
+- [x] Proof-Bericht mit CMYK-/Aufloesungs-/Font-/Marken-Check (Abschnitte 3–4, `proof.json`)
 - [x] Tool-Befehle fuer macOS dokumentiert (Abschnitt 2, `prepress.sh`)
 - [x] Graustufen-Tauglichkeit verifiziert (Abschnitt 4)
 - [x] Ergebnis-Log als JSONL an `logs/workflow.log`

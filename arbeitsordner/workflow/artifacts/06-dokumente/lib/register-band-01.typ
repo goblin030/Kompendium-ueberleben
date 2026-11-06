@@ -30,10 +30,10 @@ Einträge zu Konzepten dieses Bandes mit Seitenzahl (S. …); Verweise auf ander
 - _Kompass_ — siehe Karte lesen (Konzept 4.3, S. #refpage(<k-4-3>))
 - _Körpermaß-System_ — Konzept 7.1, S. #refpage(<k-7-1>) (Abb. 1.24)  · _Eichungspflicht; Daumen 2,5 cm, Handspanne 20 cm, Elle 45 cm, Schritt 75 cm_; siehe auch Mengen & Referenzmaße (EL/TL/Tropfen); Der Wert (Elle/Ruthe/Mandel)
 - _Mastwurf_ — siehe Knoten (Konzept 6.3, S. #refpage(<k-6-3>), Abb. 1.21)
-- _Mengen & Referenzmaße (EL/TL/Tropfen)_ — Konzept 7.2, S. #refpage(<k-7-2>) (Abb. 1.25)  · _EL ≈ 15 ml, TL ≈ 5 ml, 20 Tropfen ≈ 1 ml (W31); kg ≠ l_; siehe auch Körpermaß-System; Wasserbedarf (Bedarfsrechnung)
+- _Mengen & Referenzmaße (EL/TL/Tropfen)_ — Konzept 7.2, S. #refpage(<k-7-2>) (Abb. 1.25)  · _EL ≈ 15 ml, TL ≈ 5 ml, 20 Tropfen ≈ 1 ml ; kg ≠ l_; siehe auch Körpermaß-System; Wasserbedarf (Bedarfsrechnung)
 - _Messer_ — Konzept 6.1, S. #refpage(<k-6-1>) (Abb. 1.15)  · _Schnitt immer weg vom Körper_; siehe auch Schliff (Klinge); Schneide halten (Wetz-Takt); Behelfswerkzeug
 - _Notbehelf (P \< 5)_ — Anhang D, S. #refpage(<anh-D>)  · _immer als solcher gekennzeichnet; gilt für die gelben Konzepte (z. B. Konzept 7.4, S. #refpage(<k-7-4>), B2-3.5, B2-7.2, B3-3.4)_
-- _Notfallrucksack (72 h)_ — Konzept 3.2, S. #refpage(<k-3-2>) (Abb. 1.6)  · _Prüfkriterium < 12 kg (W21)_; siehe auch Rucksack-Profile; Traglast; Haushaltsvorrat (Wasser)
+- _Notfallrucksack (72 h)_ — Konzept 3.2, S. #refpage(<k-3-2>) (Abb. 1.6)  · _Prüfkriterium < 12 kg _; siehe auch Rucksack-Profile; Traglast; Haushaltsvorrat (Wasser)
 - _Notrufzeichen (3 Signale/min)_ — Konzept 5.1, S. #refpage(<k-5-1>) (Abb. 1.13); siehe auch Signalfeuer (3 Feuer = Notzeichen); Botenregeln (+60-min-Regel)
 - _Notstand (§§ 34/35 StGB)_ — Anhang D, S. #refpage(<anh-D>); B10-5.2; B4-8.1  · _Eigentumseingriff bei Lebensgefahr gerechtfertigt/entschuldigt_; siehe auch Gast & Fremder; Kleidungssatz & Eigentum; Wucher
 - _Notwehr (§ 32 StGB)_ — Anhang D, S. #refpage(<anh-D>); B10-4.2  · _nur bei gegenwärtigem rechtswidrigem Angriff, verhältnismäßig_; siehe auch Rat & Streit; Selbstjustiz (verboten)
@@ -41,7 +41,7 @@ Einträge zu Konzepten dieses Bandes mit Seitenzahl (S. …); Verweise auf ander
 - _P / M / V (Bewertung)_ — Anhang D, S. #refpage(<anh-D>)  · _P praktisch 1–10 (< 5 = Notbehelf), M moralisch 4-stufig, V 1–10 (< 6 = Übungspflicht)_; siehe auch Ampel (grün/gelb/rot); Notbehelf (P \< 5)
 - _Polarstern_ — Konzept 4.2, S. #refpage(<k-4-2>) (Abb. 1.10)  · _Fünffach-Verlängerung Merak–Dubhe; Gegenprobe Cassiopeia_; siehe auch Schattenstab & Uhr-Methode; Karte lesen
 - _Protokoll (führen)_ — siehe Stundenprotokoll 24 h (Konzept 9.1, S. #refpage(<k-9-1>)); Übungsprotokoll (Konzept 8.2, S. #refpage(<k-8-2>))
-- _Regel der Drei_ — Konzept 3.1, S. #refpage(<k-3-1>) (Abb. 1.5)  · _Heuristik (W19): 3 min Luft, 3 h Wärme, 3 d Wasser, 3 Wo Nahrung_; siehe auch Heuristik; Wasserbedarf (Bedarfsrechnung); Wärmehaushalt (Schichtprinzip)
+- _Regel der Drei_ — Konzept 3.1, S. #refpage(<k-3-1>) (Abb. 1.5)  · _Heuristik : 3 min Luft, 3 h Wärme, 3 d Wasser, 3 Wo Nahrung_; siehe auch Heuristik; Wasserbedarf (Bedarfsrechnung); Wärmehaushalt (Schichtprinzip)
 - _Rucksack_ — siehe Notfallrucksack (Konzept 3.2, S. #refpage(<k-3-2>)); Rucksack-Profile (Konzept 3.3, S. #refpage(<k-3-3>))
 - _Rucksack-Profile_ — Konzept 3.3, S. #refpage(<k-3-3>) (Abb. 1.7)  · _Kinder/Senioren/Haustiere_; siehe auch Notfallrucksack; Traglast
 - _Sackstich_ — siehe Knoten (Konzept 6.3, S. #refpage(<k-6-3>), Abb. 1.19)
@@ -53,9 +53,9 @@ Einträge zu Konzepten dieses Bandes mit Seitenzahl (S. …); Verweise auf ander
 - _Signale / Zeichengebung_ — siehe Notrufzeichen (Konzept 5.1, S. #refpage(<k-5-1>)); Signalfeuer (B3-9.2)
 - _STOPP-Protokoll_ — Konzept 2.1, S. #refpage(<k-2-1>) (Abb. 1.1); siehe auch Atemprotokoll 4–6; Stundenprotokoll 24 h; Regel der Drei
 - _Stundenprotokoll 24 h_ — Konzept 9.1, S. #refpage(<k-9-1>) (Abb. 1.30); siehe auch Haushaltsvorrat (Wasser); STOPP-Protokoll; Gesprächsordnung (15-min-Box)
-- _Temperatur-Feinmessung (Ellbogenprobe)_ — Konzept 7.4, S. #refpage(<k-7-4>) (Abb. 1.27)  · _gelb — Notbehelf (P = 5), Übungspflicht (W22)_; siehe auch Brandwunde & Frostbeule; 55-°C-Verbrühungsgrenze
-- _Tödliche Minute (Fällen)_ — B9-3.1 (warn-9a); Konzept 6.2, S. #refpage(<k-6-2>)  · _Flucht 45° schräg, nie hangabwärts darunter (WARN 2)_; siehe auch Fällen (tödliche Minute); Axt & Säge
-- _Traglast_ — Konzept 6.5, S. #refpage(<k-6-5>) (Abb. 1.23)  · _15–20 % Marsch / 30 % kurz / Kinder 10–15 % (W20); Glossar Anhang D, S. #refpage(<anh-D>)_; siehe auch Wassertransport (Transportkette); Sanitätsmappe; Werkzeug-Kiste; Rucksack-Profile
+- _Temperatur-Feinmessung (Ellbogenprobe)_ — Konzept 7.4, S. #refpage(<k-7-4>) (Abb. 1.27)  · _gelb — Notbehelf (P = 5), Übungspflicht _; siehe auch Brandwunde & Frostbeule; 55-°C-Verbrühungsgrenze
+- _Tödliche Minute (Fällen)_ — B9-3.1 (warn-9a); Konzept 6.2, S. #refpage(<k-6-2>)  · _Flucht 45° schräg, nie hangabwärts darunter _; siehe auch Fällen (tödliche Minute); Axt & Säge
+- _Traglast_ — Konzept 6.5, S. #refpage(<k-6-5>) (Abb. 1.23)  · _15–20 % Marsch / 30 % kurz / Kinder 10–15 % ; Glossar Anhang D, S. #refpage(<anh-D>)_; siehe auch Wassertransport (Transportkette); Sanitätsmappe; Werkzeug-Kiste; Rucksack-Profile
 - _Treffpunkt-Plan_ — Konzept 3.4, S. #refpage(<k-3-4>) (Abb. 1.8)  · _schriftlich (Netzausfall), A/B + Abholliste_; siehe auch Botenregeln (+60-min-Regel); Notrufzeichen (3 Signale/min)
 - _Üben / Training_ — siehe Jahres-Übungsplan (Konzept 8.1, S. #refpage(<k-8-1>)); Übungsprotokoll (Konzept 8.2, S. #refpage(<k-8-2>))
 - _Übungsprotokoll (Verfalluhr 12 Monate)_ — Konzept 8.2, S. #refpage(<k-8-2>) (Abb. 1.29)  · _V < 6 → Übungspflicht_; siehe auch Jahres-Übungsplan; Verfalluhr (12 Monate)

@@ -16,11 +16,15 @@
 #
 # Pipeline pro Band:
 #   Pass A  bleed_marks.py : A4 -> 216 x 303 mm, Inhalt 1:1 um +3 mm versetzt, keine Annots,
-#                           TrimBox/CropBox/ArtBox = A4 innen, BleedBox = MediaBox,
-#                           8 Ecken-Schnittmarken (Registration Black 100/100/100/100)
+#                           TrimBox/CropBox/ArtBox = A4 innen, BleedBox = MediaBox
 #   Pass B  Ghostscript    : PDF/X-4 (-dPDFX=4, GTS_PDFXVersion in Info+XMP), RGB -> CMYK
 #                           (default_cmyk.icc), Fonts eingebettet/subset, OutputIntent GTS_PDFX
-#   Pass C  proof.py       : Proof (Fonts, dpi, CMYK, Boxen, PDF/X-4, Graustufen) als JSON
+#                           ACHTUNG: pdfwrite verwirft die Schnittmarken aus Pass A wieder
+#                           (liegen im Bleed ausserhalb der CropBox) -> siehe Pass C (F1, Phase J)
+#   Pass C  marks_overlay.py -> marks.pdf, dann apply_marks.py (pypdf, 1:1-Overlay OHNE
+#                           Skalierung — qpdf --overlay skaliert ins CropBox und versetzt die
+#                           Marken falsch): 8 Ecken-Schnittmarken (0,3 pt, Registration Black
+#                           1 1 1 1 K) NACH Pass B auf das finale PDF/X-4 legen; danach proof.py
 #
 # Nutzung:  GSBIN=/tmp/gsenv/bin ICCDIR=/tmp/icc PYLIBS=/tmp/pylibs bash prepress.sh
 set -euo pipefail
@@ -36,6 +40,7 @@ trap 'rm -rf "$WORK"' EXIT
 
 cp "$ICCDIR/default_cmyk.icc" "$WORK/default_cmyk.icc"
 cp "$OUT/PDFX_def.ps" "$WORK/PDFX_def.ps"
+PYTHONPATH="$PYLIBS" python3 "$OUT/marks_overlay.py" "$WORK/marks.pdf"
 cd "$WORK"   # PDFX_def.ps oeffnet default_cmyk.icc relativ -> Arbeitsverzeichnis
 
 for band in "$DOCS"/band-[0-9][0-9].pdf; do
@@ -50,8 +55,10 @@ for band in "$DOCS"/band-[0-9][0-9].pdf; do
      -dEmbedAllFonts=true -dSubsetFonts=true -dCompressFonts=true \
      -dAutoFilterColorImages=false -dColorImageFilter=/FlateEncode \
      -dDownsampleColorImages=false -dDownsampleGrayImages=false -dDownsampleMonoImages=false \
-     -sOutputFile="$OUT/$base-druck.pdf" \
+     -sOutputFile="$WORK/$base-x4.pdf" \
      "$WORK/PDFX_def.ps" "$WORK/$base-bleed.pdf"
+  # Pass C: Schnittmarken nach Pass B aufs finale PDF/X-4 (F1 Phase J: gs beschneidet auf CropBox)
+  PYTHONPATH="$PYLIBS" python3 "$OUT/apply_marks.py" "$WORK/$base-x4.pdf" "$WORK/marks.pdf" "$OUT/$base-druck.pdf"
   echo "   -> $OUT/$base-druck.pdf ($(du -h "$OUT/$base-druck.pdf" | cut -f1))"
 done
 echo "Fertig. Proof: PYTHONPATH=$PYLIBS PATH=$GSBIN:\$PATH python3 $OUT/proof.py $OUT/band-*-druck.pdf"

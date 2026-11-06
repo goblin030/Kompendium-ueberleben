@@ -70,7 +70,7 @@ Dieses Kapitel ist das Nachschlage-Rahmenkapitel des Bandes. Es benennt die Ausg
 === 2.1 STOPP-Protokoll <k-2-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 10 · M unbedenklich · V 9 · Abb. 1.1]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-1.svg", width: 100%), caption: [Abb. 1.1 — Abb. 1.1: STOPP-Protokoll: in unter 4 Minuten von der Lage zum Plan (Konzept 2.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-1.svg", width: 100%), caption: [Abb. 1.1 — STOPP-Protokoll: in unter 4 Minuten von der Lage zum Plan (Konzept 2.1).])]]
 In der ersten Minute nach einem Schock handelst du falsch, wenn du sofort losläufst. Das STOPP-Protokoll stoppt diese Impulsreaktion.
 + _S_ — Stopp: Steh still. Atme einmal tief ein und aus.
 + _T_ — Think: Was ist passiert? Was ist die nächste Gefahr?
@@ -119,7 +119,7 @@ _Querverweise:_ siehe Konzept 9.1 (Stundenprotokoll), siehe Konzept 3.1 (Prioris
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -245,7 +245,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 2.2 Atemprotokoll 4–6 <k-2-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 10 · Abb. 1.2]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-2.svg", width: 100%), caption: [Abb. 1.2 — Abb. 1.2: Atemprotokoll 4–6: 4 s einatmen, 6 s ausatmen, 6 Zyklen (Konzept 2.2).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-2.svg", width: 100%), caption: [Abb. 1.2 — Atemprotokoll 4–6: 4 s einatmen, 6 s ausatmen, 6 Zyklen (Konzept 2.2).])]]
 Panikatmung erhöht den Verbrauch und verschlechtert Entscheidungen. Das 4–6-Protokoll beruhigt in unter einer Minute.
 + Einatmen durch die Nase — 4 Sekunden zählen.
 + Luft anhalten — 6 Sekunden.
@@ -292,7 +292,7 @@ _Querverweise:_ siehe Konzept 2.1 (STOPP), siehe Konzept 8.2 (Übungsprotokoll �
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -415,7 +415,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 2.3 Schlaf / erste Nacht (Wachenplan) <k-2-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 1.3]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-3.svg", width: 100%), caption: [Abb. 1.3 — Abb. 1.3: Wachenplan erste Nacht: 24 h, Wache doppelt besetzt, Schlaf in Blöcken (Konzept 2.3).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-3.svg", width: 100%), caption: [Abb. 1.3 — Wachenplan erste Nacht: 24 h, Wache doppelt besetzt, Schlaf in Blöcken (Konzept 2.3).])]]
 Erschöpfung ist der häufigste Grund für Fehlentscheidungen in der ersten Nacht. Plane Schlaf wie eine Ressource.
 + Wähle den Schlafplatz nach Konzept B4-1.2 (Lagerplatz, Band 4).
 + Teile die Gruppe in Wachen: bei 3 Personen wechselt _eine_ Person die Wache im 1-Stunden-Rhythmus (siehe Tabelle); bei 4+ Personen sind _zwei_ Personen gleichzeitig wach.
@@ -474,7 +474,7 @@ _Querverweise:_ siehe Konzept B4-1.2, siehe Konzept B4-6.2, Nachtwärme, siehe K
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -597,7 +597,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 2.4 Gesprächsordnung (15-min-Box) <k-2-4>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 9 · Abb. 1.4]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-4.svg", width: 100%), caption: [Abb. 1.4 — Abb. 1.4: Gesprächsordnung: 15-min-Box pro Person, Redestab, keine Unterbrechung (Konzept 2.4).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-4.svg", width: 100%), caption: [Abb. 1.4 — Gesprächsordnung: 15-min-Box pro Person, Redestab, keine Unterbrechung (Konzept 2.4).])]]
 Unstrukturierte Gespräche eskalieren in der Krise. Die 15-min-Box begrenzt Redebeiträge und zwingt zur Sache.
 + Nenne das Thema in einem Satz.
 + Jedes Gruppenmitglied bekommt 15 Minuten Redezeit, unterbrechungsfrei.
@@ -644,7 +644,7 @@ _Querverweise:_ siehe Konzept 9.1, siehe Konzept B10-4.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -779,8 +779,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 3.1 Regel der Drei (Heuristik) <k-3-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 10 · Abb. 1.5]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-5.svg", width: 100%), caption: [Abb. 1.5 — Abb. 1.5: Regel der Drei (Heuristik, W19): 3 Min Luft – 3 Std Wärme – 3 Tage Wasser – 3 Wochen Nahrung.])]]
-Die Regel der Drei ist eine _Heuristik_ (W19), kein Naturgesetz: 3 Minuten ohne Luft, 3 Stunden ohne Wärme (bei Kälte), 3 Tage ohne Wasser, 3 Wochen ohne Nahrung. Reihenfolge ist in allen Traditionen identisch, Zeiten schwanken.
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-5.svg", width: 100%), caption: [Abb. 1.5 — Regel der Drei (Heuristik): 3 Min Luft – 3 Std Wärme – 3 Tage Wasser – 3 Wochen Nahrung.])]]
+Die Regel der Drei ist eine _Heuristik_, kein Naturgesetz: 3 Minuten ohne Luft, 3 Stunden ohne Wärme (bei Kälte), 3 Tage ohne Wasser, 3 Wochen ohne Nahrung. Reihenfolge ist in allen Traditionen identisch, Zeiten schwanken.
 + Prüfe sofort: Atmung, Blutung, Bewusstsein — siehe Konzept B8-2.1, Blutung.
 + Dann Wärme: siehe Kapitel 6 in Band 3 und Konzept B4-2.1.
 + Dann Wasser: siehe Konzept B2-2.1.
@@ -823,7 +823,7 @@ _Querverweise:_ siehe Konzept B2-2.1, siehe Konzept B3-6.3, siehe Glossar „Heu
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W19],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -947,8 +947,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 3.2 Notfallrucksack (72 h) <k-3-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 1.6]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-6.svg", width: 100%), caption: [Abb. 1.6 — Abb. 1.6: Notfallrucksack 72 h: 6 l Wasser, 6.000–9.000 kcal, Medikamente 7+ Tage – Prüfkriterium \< 12 kg (Konzept 3.2, W21).])]]
-Der Rucksack trägt 72 Stunden autarkes Handeln. Prüfkriterium: _unter 12 kg_ (W21).
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-6.svg", width: 100%), caption: [Abb. 1.6 — Notfallrucksack 72 h: 6 l Wasser, 6.000–9.000 kcal, Medikamente 7+ Tage – Prüfkriterium \< 12 kg (Konzept 3.2).])]]
+Der Rucksack trägt 72 Stunden autarkes Handeln. Prüfkriterium: _unter 12 kg_.
 #table(
   columns: 2,
   table.header([Menge], [Gegenstand]),
@@ -971,7 +971,7 @@ _Querverweise:_ siehe Konzept 3.3 (Profile), siehe Konzept 6.5 (Traglast), siehe
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [12 kg], [ndeln. Prüfkriterium: _unter 12 kg_ (W21).],
+  [12 kg], [ndeln. Prüfkriterium: _unter 12 kg_.],
   [6 l], [6 l | Wasser (2 l/Person/Tag],
   [2 l], [6 l | Wasser (2 l/Person/Tag × 3 Tage, sie],
   [6.000–9.000 kcal], [6.000–9.000 kcal | Nahrung (konserviert,],
@@ -1002,7 +1002,7 @@ _Querverweise:_ siehe Konzept 3.3 (Profile), siehe Konzept 6.5 (Traglast), siehe
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W21],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1113,7 +1113,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 3.3 Rucksack-Profile (Kinder/Senioren/Haustiere) <k-3-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 1.7]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-7.svg", width: 100%), caption: [Abb. 1.7 — Abb. 1.7: Rucksack-Profile: Traglast-Anteile nach Personengruppe (Konzept 3.3, W20).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-7.svg", width: 100%), caption: [Abb. 1.7 — Rucksack-Profile: Traglast-Anteile nach Personengruppe (Konzept 3.3).])]]
 Profile passen den Rucksack an die Tragkraft an (Kinder/Senioren 10–15 % Körpergewicht, siehe Konzept 6.5).
 - Kind: 10–15 % Körpergewicht, eigener kleiner Rucksack, Lieblingsobjekt, Wasserflasche mit Auslauf.
 - Senior: Medikamente doppelt, Brille Ersatz, Gehhilfe falls nötig.
@@ -1154,7 +1154,7 @@ _Querverweise:_ siehe Konzept 6.5, siehe Konzept 3.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1263,7 +1263,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 3.4 Treffpunkt-Plan (A/B + Abholliste) <k-3-4>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 1.8]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-8.svg", width: 100%), caption: [Abb. 1.8 — Abb. 1.8: Treffpunkt-Plan: Platz A (nah) und B (Ersatz), Abholliste – schriftlich, weil das Netz ausfallen kann (Konzept 3.4).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-8.svg", width: 100%), caption: [Abb. 1.8 — Treffpunkt-Plan: Platz A (nah) und B (Ersatz), Abholliste – schriftlich, weil das Netz ausfallen kann (Konzept 3.4).])]]
 Netzausfall bedeutet: keine digitale Absprache. Der Treffpunkt-Plan ist schriftlich.
 + Treffpunkt A (nah, innerhalb 1 km) und Treffpunkt B (fern, außerhalb des betroffenen Gebiets) festlegen.
 + Abholliste schreiben: Wer holt wen ab, in welcher Reihenfolge.
@@ -1310,7 +1310,7 @@ _Querverweise:_ siehe Konzept 5.2, siehe Konzept 3.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1445,7 +1445,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 4.1 Schattenstab & Uhr-Methode <k-4-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 1.9]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-9.svg", width: 100%), caption: [Abb. 1.9 — Abb. 1.9: Schattenstab: Spitze markieren, 15 min warten, zweite Markierung – Linie = West–Ost (Konzept 4.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-9.svg", width: 100%), caption: [Abb. 1.9 — Schattenstab: Spitze markieren, 15 min warten, zweite Markierung – Linie = West–Ost (Konzept 4.1).])]]
 Ein senkrechter Stab wirft einen Schatten, dessen Spitze sich bewegt. Daraus bestimmst du Nord und eine Uhr.
 + Stab 1 m senkrecht in den Boden stecken.
 + Schatten­spitze markieren (Punkt 1).
@@ -1495,7 +1495,7 @@ _Querverweise:_ siehe Konzept 4.2 (Polarstern als Gegenprobe), siehe Konzept 4.3
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1624,7 +1624,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 4.2 Polarstern (Fünffach-Verlängerung, Cassiopeia) <k-4-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 1.10]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-10.svg", width: 100%), caption: [Abb. 1.10 — Abb. 1.10: Polarstern finden: Fünffach-Verlängerung der hinteren Kastensterne, Gegenprobe Cassiopeia (Konzept 4.2).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-10.svg", width: 100%), caption: [Abb. 1.10 — Polarstern finden: Fünffach-Verlängerung der hinteren Kastensterne, Gegenprobe Cassiopeia (Konzept 4.2).])]]
 + Großen Wagen finden (Kasten + Deichsel).
 + Die beiden vorderen Kastensterne (Merak, Dubhe) als Zeiger nehmen.
 + Abstand Merak–Dubhe fünfmal nach oben abtragen — dort steht der Polarstern.
@@ -1671,7 +1671,7 @@ _Querverweise:_ siehe Konzept 4.1, siehe Konzept 4.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1797,7 +1797,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 4.3 Karte lesen <k-4-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 8 · Abb. 1.11]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-11.svg", width: 100%), caption: [Abb. 1.11 — Abb. 1.11: Karte lesen: erst Nordausrichtung, dann Maßstab und Signaturen (Konzept 4.3).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-11.svg", width: 100%), caption: [Abb. 1.11 — Karte lesen: erst Nordausrichtung, dann Maßstab und Signaturen (Konzept 4.3).])]]
 + Karte nach Norden ausrichten (siehe Konzept 4.1 oder 4.2).
 + Maßstab lesen: 1:25.000 = 1 cm auf Karte = 250 m; 1:50.000 = 1 cm = 500 m.
 + Eigenen Stand eintragen; Richtung mit Kompass nehmen.
@@ -1842,7 +1842,7 @@ _Querverweise:_ siehe Konzept 4.1, siehe Konzept 4.2, siehe Konzept 4.4.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1964,7 +1964,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 4.4 Wetter lesen (Zwei-Zeichen-Regel) <k-4-4>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 8 · Abb. 1.12]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-12.svg", width: 100%), caption: [Abb. 1.12 — Abb. 1.12: Wetter lesen nach der Zwei-Zeichen-Regel: erst zwei unabhängige Zeichen, dann entscheiden (Konzept 4.4).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-12.svg", width: 100%), caption: [Abb. 1.12 — Wetter lesen nach der Zwei-Zeichen-Regel: erst zwei unabhängige Zeichen, dann entscheiden (Konzept 4.4).])]]
 + Beobachte zwei unabhängige Zeichen (Wolkenbild + Windrichtung, oder Barometer-Fall + Wolkendichte).
 + Ein Zeichen allein täuscht. Zwei übereinstimmende Zeichen = Entscheidung.
 + Schnelle Änderungen (Wolken ziehen gegen den Höhenwind) = Wetterumschwung innerhalb 6–12 h.
@@ -2020,7 +2020,7 @@ _Querverweise:_ siehe Konzept B4-2.2, Wetter-/Wolkenlesen konsistent, siehe Konz
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2150,7 +2150,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 5.1 Notrufzeichen & Pfeife (3 Signale/min) <k-5-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 10 · Abb. 1.13]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-13.svg", width: 100%), caption: [Abb. 1.13 — Abb. 1.13: Notrufzeichen: 3 Signale pro Minute – Pfeife, Licht, Rauch oder 3 Feuer (Konzept 5.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-13.svg", width: 100%), caption: [Abb. 1.13 — Notrufzeichen: 3 Signale pro Minute – Pfeife, Licht, Rauch oder 3 Feuer (Konzept 5.1).])]]
 + Drei Signale (Pfeife, Licht, Ruf, Schläge auf Metall) = Notzeichen, international konsistent.
 + Pause, dann wieder drei Signale. Nie Dauerfeuer als Notzeichen (siehe Konzept B3-9.2: drei Feuer = Notzeichen).
 + Antwort erwartet: zwei Signale = „Verstanden“, ein Signal = „Nein“.
@@ -2193,7 +2193,7 @@ _Querverweise:_ siehe Konzept B3-9.2, Signalfeuer, siehe Konzept 5.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2313,7 +2313,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 5.2 Treffpunkte & Botenregeln (+60-min-Regel) <k-5-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 1.14]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-14.svg", width: 100%), caption: [Abb. 1.14 — Abb. 1.14: Botenregeln: +60-min-Regel – Treffzeit plus 60 Minuten ohne Lebenszeichen heißt Alarm (Konzept 5.2).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-14.svg", width: 100%), caption: [Abb. 1.14 — Botenregeln: +60-min-Regel – Treffzeit plus 60 Minuten ohne Lebenszeichen heißt Alarm (Konzept 5.2).])]]
 + Treffpunkt aus Konzept 3.4 wählen.
 + Bote nie allein senden — siehe Konzept B10-5.3, Trupp: einer vorn, einer hinten.
 + _+60-min-Regel:_ Bleibt ein Bote 60 Minuten überfällig, gilt er als vermisst; Suchtrupp nach Konzept 5.1 Zeichengebung.
@@ -2359,7 +2359,7 @@ _Querverweise:_ siehe Konzept 3.4, siehe Konzept B10-5.3, siehe Konzept 9.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2495,7 +2495,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 6.1 Messer <k-6-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 1.15]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-15.svg", width: 100%), caption: [Abb. 1.15 — Abb. 1.15: Messer: Schnitt immer weg vom Körper, Finger zur Klinge (Konzept 6.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-15.svg", width: 100%), caption: [Abb. 1.15 — Messer: Schnitt immer weg vom Körper, Finger zur Klinge (Konzept 6.1).])]]
 + Schnitt _immer weg vom Körper_ führen.
 + Werkstück sichern (Knie, Schraubstock, Unterlage) — nie in der freien Hand halten.
 + Klinge nach Gebrauch reinigen, trocknen, ölen (siehe Konzept B9-7.3).
@@ -2540,7 +2540,7 @@ _Querverweise:_ siehe Konzept B9-4.1, Schliff, siehe Konzept B9-4.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2663,7 +2663,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 6.2 Säge & Axt <k-6-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 1.16]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-16.svg", width: 100%), caption: [Abb. 1.16 — Abb. 1.16: Säge & Axt: Sperrzone 2 Stiellängen, zwei Fluchtwege im 45°-Winkel (Konzept 6.2, Querverweis B9 3.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-16.svg", width: 100%), caption: [Abb. 1.16 — Säge & Axt: Sperrzone 2 Stiellängen, zwei Fluchtwege im 45°-Winkel (Konzept 6.2, Querverweis B9 3.1).])]]
 + Sperrzone: _2 Stiellängen_ um die schwingende Person frei halten.
 + _Zwei Fluchtwege_ in 45° zur Schwingrichtung frei halten.
 + Nie hangabwärts unterhalb einer arbeitenden Person stehen — siehe Konzept B9-3.1, tödliche Minute, `warn-9a`.
@@ -2716,7 +2716,7 @@ _Querverweise:_ siehe Konzept B9-3.1, `warn-9a`.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2839,11 +2839,11 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 6.3 Fünf Serienknoten <k-6-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 1.17–1.21]
 #grid(columns: (1fr, 1fr), column-gutter: 8pt, row-gutter: 8pt,
-  figure(image("illustrationen/abb-1-17.svg", width: 100%), caption: [Abb. 1.17 — Abb. 1.17: Achterknoten: Anschlagschlaufe, nicht ziehend – Serienknoten 1 von 5 (Konzept 6.3).]),
-  figure(image("illustrationen/abb-1-18.svg", width: 100%), caption: [Abb. 1.18 — Abb. 1.18: Zimmermannsstek: zwei Leinen schnell verbinden – Serienknoten 2 von 5 (Konzept 6.3).]),
-  figure(image("illustrationen/abb-1-19.svg", width: 100%), caption: [Abb. 1.19 — Abb. 1.19: Sackstich: zwei gleiche Enden verbinden, zum Binden – Serienknoten 3 von 5 (Konzept 6.3).]),
-  figure(image("illustrationen/abb-1-20.svg", width: 100%), caption: [Abb. 1.20 — Abb. 1.20: Webleinstek: Leine am Pfahl fixieren – Serienknoten 4 von 5 (Konzept 6.3).]),
-  figure(image("illustrationen/abb-1-21.svg", width: 100%), caption: [Abb. 1.21 — Abb. 1.21: Mastwurf: Festmacherknoten an Pfahl/Mast – Serienknoten 5 von 5 (Konzept 6.3).]))
+  figure(image("illustrationen/abb-1-17.svg", width: 100%), caption: [Abb. 1.17 — Achterknoten: Anschlagschlaufe, nicht ziehend – Serienknoten 1 von 5 (Konzept 6.3).]),
+  figure(image("illustrationen/abb-1-18.svg", width: 100%), caption: [Abb. 1.18 — Zimmermannsstek: zwei Leinen schnell verbinden – Serienknoten 2 von 5 (Konzept 6.3).]),
+  figure(image("illustrationen/abb-1-19.svg", width: 100%), caption: [Abb. 1.19 — Sackstich: zwei gleiche Enden verbinden, zum Binden – Serienknoten 3 von 5 (Konzept 6.3).]),
+  figure(image("illustrationen/abb-1-20.svg", width: 100%), caption: [Abb. 1.20 — Webleinstek: Leine am Pfahl fixieren – Serienknoten 4 von 5 (Konzept 6.3).]),
+  figure(image("illustrationen/abb-1-21.svg", width: 100%), caption: [Abb. 1.21 — Mastwurf: Festmacherknoten an Pfahl/Mast – Serienknoten 5 von 5 (Konzept 6.3).]))
 #table(
   columns: 3,
   table.header([Knoten], [Abb.], [Verwendung]),
@@ -2896,7 +2896,7 @@ _Querverweise:_ siehe Konzept 6.1 (B6, Schnur/Haken/Pose), siehe Konzept 5.2 (B9
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3016,7 +3016,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 6.4 Behelfswerkzeug <k-6-4>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 6 · M unbedenklich · V 8 · Abb. 1.22]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-22.svg", width: 100%), caption: [Abb. 1.22 — Abb. 1.22: Behelfswerkzeug: improvisierte Werkzeuge mit ehrlichen Grenzen – als Behelf deklariert (Konzept 6.4).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-22.svg", width: 100%), caption: [Abb. 1.22 — Behelfswerkzeug: improvisierte Werkzeuge mit ehrlichen Grenzen – als Behelf deklariert (Konzept 6.4).])]]
 Als _Behelf_ deklariert: Funktion eingeschränkt, Grenzen ehrlich benennen.
 - Sägedraht (Drahtsäge): nur Weichholz _unter 5 cm_ Durchmesser.
 - Glasscherbe als Schneide: Griff mit Stoff umwickeln.
@@ -3058,7 +3058,7 @@ _Querverweise:_ siehe Konzept 6.1, siehe Konzept B9-8.1, Werkzeug-Kiste.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3170,7 +3170,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 6.5 Traglast (15–20 % / 30 % / Kinder 10–15 %) <k-6-5>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 1.23]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-23.svg", width: 100%), caption: [Abb. 1.23 — Abb. 1.23: Traglast: 15–20 % des Körpergewichts im Marsch, kurz max. 30 %, Kinder/Ältere 10–15 % (Konzept 6.5, W20).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-23.svg", width: 100%), caption: [Abb. 1.23 — Traglast: 15–20 % des Körpergewichts im Marsch, kurz max. 30 %, Kinder/Ältere 10–15 % (Konzept 6.5).])]]
 #table(
   columns: 2,
   table.header([Situation], [Max. Last]),
@@ -3179,7 +3179,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [Kurz \< 30 min], [max. 30 %],
   [Kinder/Ältere], [10–15 %],
 )
-Konsistenz (W20): 10-l-Wasserkanister = 10 kg = eine Seite tragen (siehe Konzept B2-4.2); Sanitätsmappe \< 3 kg (siehe Konzept B8-8.1); Werkzeugkiste ≤ ¼ Körpergewicht (siehe Konzept B9-8.1).
+Konsistenz : 10-l-Wasserkanister = 10 kg = eine Seite tragen (siehe Konzept B2-4.2); Sanitätsmappe \< 3 kg (siehe Konzept B8-8.1); Werkzeugkiste ≤ ¼ Körpergewicht (siehe Konzept B9-8.1).
 - [ ] Last gewogen oder geschätzt und gegen Tabelle geprüft
 - [ ] Schwere Last auf den Rücken, nicht in der Hand
 #baustein[20 Prozent auf Dauer, 30 Prozent nur kurz, Kinder 15. Rechne konservativ.]
@@ -3194,7 +3194,7 @@ _Querverweise:_ siehe Konzept B2-4.2, siehe Konzept B8-8.1, siehe Konzept B9-8.1
   [30 min], [Kurz \< 30 min | max. 30 %],
   [30 %], [Kurz \< 30 min | max. 30 %],
   [10–15 %], [Kinder/Ältere | 10–15 %],
-  [10 kg], [(W20): 10-l-Wasserkanister = 10 kg = eine Seite tragen (sie],
+  [10 kg], [stenz : 10-l-Wasserkanister = 10 kg = eine Seite tragen (sie],
   [3 kg], [zept B2-4.2); Sanitätsmappe \< 3 kg (siehe Konzept B8-8.1);],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
@@ -3223,7 +3223,7 @@ _Querverweise:_ siehe Konzept B2-4.2, siehe Konzept B8-8.1, siehe Konzept B9-8.1
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W20],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3345,7 +3345,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 7.1 Körpermaß-System <k-7-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 10 · Abb. 1.24]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-24.svg", width: 100%), caption: [Abb. 1.24 — Abb. 1.24: Körpermaß-System: Daumen, Handspanne, Elle, Fuß, Schritt – mit Eichungspflicht (Konzept 7.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-24.svg", width: 100%), caption: [Abb. 1.24 — Körpermaß-System: Daumen, Handspanne, Elle, Fuß, Schritt – mit Eichungspflicht (Konzept 7.1).])]]
 + Eichungspflicht: Körpermaße einmal messen und notieren.
 + Maße: Daumenbreite ≈ 2,5 cm; Handspanne ≈ 20 cm; Elle (Handgelenk–Mittelfingerspitze) ≈ 45 cm; Schritt ≈ 75 cm.
 + Schrittfehler \< 10 % durch Eichung an bekannter Strecke (100 m) prüfen.
@@ -3367,7 +3367,7 @@ _Querverweise:_ siehe Konzept 7.2, siehe Konzept B10-2.1, Elle/Ruthe als Wertma�
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [100 m], [[ ] Schritt an 100 m geeicht],
+  [100 m], [( ) Schritt an 100 m geeicht],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -3395,7 +3395,7 @@ _Querverweise:_ siehe Konzept 7.2, siehe Konzept B10-2.1, Elle/Ruthe als Wertma�
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3515,10 +3515,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 7.2 Mengen & Referenzmaße <k-7-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 1.25]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-25.svg", width: 100%), caption: [Abb. 1.25 — Abb. 1.25: Mengen & Referenzmaße: 1 EL ≈ 15 ml, 1 TL ≈ 5 ml, 20 Tropfen Wasser ≈ 1 ml – kg ≠ l (Konzept 7.2, W31).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-25.svg", width: 100%), caption: [Abb. 1.25 — Mengen & Referenzmaße: 1 EL ≈ 15 ml, 1 TL ≈ 5 ml, 20 Tropfen Wasser ≈ 1 ml – kg ≠ l (Konzept 7.2).])]]
 #table(
   columns: 2,
-  table.header([Maß], [Wert (W31)]),
+  table.header([Maß], [Wert]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [1 EL (Esslöffel)], [≈ 15 ml],
   [1 TL (Teelöffel)], [≈ 5 ml],
@@ -3568,7 +3568,7 @@ _Querverweise:_ siehe Konzept 7.1, siehe Konzept B2-2.1, Liter-Bedarf.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3678,7 +3678,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 7.3 Zeit ohne Uhr (± 30 min) <k-7-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 9 · Abb. 1.26]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-26.svg", width: 100%), caption: [Abb. 1.26 — Abb. 1.26: Zeit ohne Uhr messen: Pulsschlag zählen, Hand-Spanne-Methode – Genauigkeit ± 30 min (Konzept 7.3).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-26.svg", width: 100%), caption: [Abb. 1.26 — Zeit ohne Uhr messen: Pulsschlag zählen, Hand-Spanne-Methode – Genauigkeit ± 30 min (Konzept 7.3).])]]
 + Puls zählen: 15 Sekunden zählen, × 4 = Schläge/min. Ruhepuls ≈ 60 → 1 Sekunde pro Schlag.
 + Zeit-Sprechen: Zähle gleichmäßig „einundzwanzig, zweiundzwanzig, dreiundzwanzig …“ — jedes „…undzwanzig“ ist etwa _1 Sekunde_. An deinem Puls geeicht (siehe oben).
 + Restlicht-1-h: Vor Einbruch der Dunkelheit alle Arbeiten einstellen, die Licht brauchen (s. Konzept B4-9.2).
@@ -3721,7 +3721,7 @@ _Querverweise:_ siehe Konzept B4-9.2, siehe Konzept 7.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3841,10 +3841,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 7.4 Temperatur-Feinmessung (Ellbogenprobe) <k-7-4>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb (Notbehelf, P = 5)_ · P 5 · M unbedenklich · V 9 · Abb. 1.27]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-27.svg", width: 100%), caption: [Abb. 1.27 — Abb. 1.27: Temperatur-Feinmessung per Ellbogenprobe – Notbehelf (P = 5), Verbrühungsgrenze 55 °C (Konzept 7.4, W22).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-27.svg", width: 100%), caption: [Abb. 1.27 — Temperatur-Feinmessung per Ellbogenprobe – Notbehelf (P = 5), Verbrühungsgrenze 55 °C (Konzept 7.4).])]]
 Die Ellbogenprobe ist _ungenau_ — sie ist ein Notbehelf, kein Messgerät. _Übungspflicht_ (V \< 6 → siehe Konzept 8.2).
 + Wasser mit dem Ellbogen prüfen: lauwarm ≈ 35–40 °C.
-+ Konservative Verbrühungsgrenze _55 °C_ (W22): ab 55 °C verbrüht die Haut in Sekunden — nie heißer als handwarm zum Baden/Wunden spülen.
++ Konservative Verbrühungsgrenze _55 °C_ : ab 55 °C verbrüht die Haut in Sekunden — nie heißer als handwarm zum Baden/Wunden spülen.
 + Im Zweifel kühler annehmen.
 - [ ] Ellbogenprobe geübt (siehe Konzept 8.1/8.2)
 - [ ] 55-°C-Grenze eingehalten
@@ -3856,7 +3856,7 @@ _Querverweise:_ siehe Konzept B8-7.1, Brandwunde — 55 °C, siehe Konzept 8.2.
   table.header([*Nr.*], [*Schritt*], [*Kontrolle*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [1], [Wasser mit dem Ellbogen prüfen: lauwarm ≈ 35–40 °C.], [[ ] erledigt  [ ] geprüft],
-  [2], [Konservative Verbrühungsgrenze _55 °C_ (W22): ab 55 °C verbrüht die Haut in Sekunden — nie heißer als handwarm zum Baden/Wunden spülen.], [[ ] erledigt  [ ] geprüft],
+  [2], [Konservative Verbrühungsgrenze _55 °C_ : ab 55 °C verbrüht die Haut in Sekunden — nie heißer als handwarm zum Baden/Wunden spülen.], [[ ] erledigt  [ ] geprüft],
   [3], [Im Zweifel kühler annehmen.], [[ ] erledigt  [ ] geprüft],
 )
 #subhead[Material & Maß (aus diesem Konzept)]
@@ -3892,7 +3892,7 @@ _Querverweise:_ siehe Konzept B8-7.1, Brandwunde — 55 °C, siehe Konzept 8.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3900,7 +3900,7 @@ _Querverweise:_ siehe Konzept B8-7.1, Brandwunde — 55 °C, siehe Konzept 8.2.
 *Schritt 1:* Wasser mit dem Ellbogen prüfen: lauwarm ≈ 35–40 °C.
   - [ ] Kontrolle: Schritt vollständig ausgeführt  
   - [ ] Fehlerfolge beachtet (siehe „Fehler & Folgen“)  
-*Schritt 2:* Konservative Verbrühungsgrenze _55 °C_ (W22): ab 55 °C verbrüht die Haut in Sekunden — nie heißer als handwarm zum Baden/Wunden spülen.
+*Schritt 2:* Konservative Verbrühungsgrenze _55 °C_ : ab 55 °C verbrüht die Haut in Sekunden — nie heißer als handwarm zum Baden/Wunden spülen.
   - [ ] Kontrolle: Schritt vollständig ausgeführt  
   - [ ] Fehlerfolge beachtet (siehe „Fehler & Folgen“)  
 *Schritt 3:* Im Zweifel kühler annehmen.
@@ -4024,7 +4024,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 8.1 Jahres-Übungsplan <k-8-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 1.28]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-28.svg", width: 100%), caption: [Abb. 1.28 — Abb. 1.28: Jahres-Übungsplan: feste Übungen pro Quartal, alles mit Verfalluhr (Konzept 8.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-28.svg", width: 100%), caption: [Abb. 1.28 — Jahres-Übungsplan: feste Übungen pro Quartal, alles mit Verfalluhr (Konzept 8.1).])]]
 #table(
   columns: 2,
   table.header([Quartal], [Übungsschwerpunkt]),
@@ -4064,7 +4064,7 @@ _Querverweise:_ siehe Konzept 8.2, siehe Konzept B10-6.1, Feuerprobe, siehe Konz
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -4174,7 +4174,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 8.2 Übungsprotokoll (Verfalluhr 12 Monate) <k-8-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 1.29]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-29.svg", width: 100%), caption: [Abb. 1.29 — Abb. 1.29: Übungsprotokoll & Verfalluhr: 12 Monate gültig, V \< 6 verpflichtet zur Übung (Konzept 8.2).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-29.svg", width: 100%), caption: [Abb. 1.29 — Übungsprotokoll & Verfalluhr: 12 Monate gültig, V \< 6 verpflichtet zur Übung (Konzept 8.2).])]]
 + Jede Übung protokollieren: Datum, Konzept-Nummer, Dauer, Fehler, Bewertung V.
 + _Verfalluhr 12 Monate:_ Nach 12 Monaten ohne Wiederholung gilt die Fähigkeit als verfallen.
 + _V \< 6 → Übungspflicht_ sofort einplanen (z. B. 7.4 Ellbogenprobe, 3.3.3 Band 3 Reibfeuer, 9.2.4 Band 9 Feuerschweißen).
@@ -4218,7 +4218,7 @@ _Querverweise:_ siehe Konzept 8.1, siehe Konzept B10-6.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -4348,7 +4348,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 9.1 Stundenprotokoll 24 h <k-9-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 8 · Abb. 1.30]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-30.svg", width: 100%), caption: [Abb. 1.30 — Abb. 1.30: Stundenprotokoll 24 h: jede Stunde Tätigkeit, Wasser, Auffälliges notieren (Konzept 9.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-30.svg", width: 100%), caption: [Abb. 1.30 — Stundenprotokoll 24 h: jede Stunde Tätigkeit, Wasser, Auffälliges notieren (Konzept 9.1).])]]
 + Alle 24 h das Protokoll abschließen: Was wurde getan, gegessen, getrunken, entschieden?
 + Konsistent mit Wasser-Inventur (siehe Konzept B2-8.1).
 + Kopiervorlage: Anhang A Band 1.
@@ -4370,7 +4370,7 @@ _Querverweise:_ siehe Konzept B2-8.1, siehe Konzept 2.1, Anhang A.
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [24 h], [[ ] Protokoll alle 24 h geführt],
+  [24 h], [( ) Protokoll alle 24 h geführt],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -4398,7 +4398,7 @@ _Querverweise:_ siehe Konzept B2-8.1, siehe Konzept 2.1, Anhang A.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -4518,7 +4518,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 9.2 Wochenrollenplan (doppelt besetzt) <k-9-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 1.31]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-31.svg", width: 100%), caption: [Abb. 1.31 — Abb. 1.31: Wochenrollenplan: jeder Dienst doppelt besetzt, konsistent mit den Ämtern des Dorfes (B10 4.1) (Konzept 9.2).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-31.svg", width: 100%), caption: [Abb. 1.31 — Wochenrollenplan: jeder Dienst doppelt besetzt, konsistent mit den Ämtern des Dorfes (B10 4.1) (Konzept 9.2).])]]
 + Rollen: Wache, Wasser, Feuer, Kochen, Instandhaltung, Protokoll.
 + Jede Rolle _doppelt besetzen_ — Krankheit oder Verletzung einer Person darf die Rolle nicht ausfallen lassen.
 + Konsistent mit Ämtern des Dorfes (siehe Konzept B10-4.1).
@@ -4561,7 +4561,7 @@ _Querverweise:_ siehe Konzept B10-4.1, siehe Konzept 2.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -4923,6 +4923,19 @@ Alle Verweise aus diesem Band auf andere Bände (Schema B\<Band\>-X.Y):
   [8.2], [B10-6.1],
   [9.1], [B2-8.1],
   [9.2], [B10-4.1],
+)
+#pagebreak(weak: true)
+== Prüfprotokoll (interne Quellen-IDs) <pruefprotokoll>
+Interne Prüf-IDs aus dem Factcheck (dreifache Prüfung). Sie stehen nicht im Lesetext, sondern hier im Protokoll.
+#table(
+  columns: 3,
+  table.header([*ID*], [*Konzept*], [*Fundstelle (Kontext)*]),
+  table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [W19], [3.1], [Die Regel der Drei ist eine _Heuristik_ , kein Naturgesetz: 3 Minuten ohne Luft, 3 S],
+  [W21], [3.2], [kes Handeln. Prüfkriterium: _unter 12 kg_ .],
+  [W20], [6.5], [Konsistenz : 10-l-Wasserkanister = 10 kg = eine Seite t],
+  [W31], [7.2], [| Maß | Wert |],
+  [W22], [7.4], [2. Konservative Verbrühungsgrenze _55 °C_ : ab 55 °C verbrüht die Haut in Sekunden — n],
 )
 
 #pagebreak(weak: true)

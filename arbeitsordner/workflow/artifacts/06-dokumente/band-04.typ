@@ -89,7 +89,7 @@ _Querverweise:_ siehe Konzept B10-5.2, siehe Konzept B10-1.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -199,12 +199,12 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 1.2 Lagerplatz <k-1-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 4.1]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-1.svg", width: 100%), caption: [Abb. 4.1 — Abb. 4.1: Lagerplatz wählen: Kaltluftsee meiden, 30 m über Flutlinie, im Lee des Windes (Konzept 1.2).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-1.svg", width: 100%), caption: [Abb. 4.1 — Lagerplatz wählen: Kaltluftsee meiden, 30 m über Flutlinie, im Lee des Windes (Konzept 1.2).])]]
 + _Kaltluftsee meiden:_ Tallagen sammeln nachts Kälte (2–5 °C kälter) — Hanglage bevorzugen.
 + _Flutlinie:_ mindestens _30 m Abstand zum Gewässerbett_ (Hochwassermarke erkennen: Treibgut, kahle Steine).
 + _Lee-Seite_ des Hauptwinds wählen.
 + Feuer-Abstände nach Konzept B3-1.2: 4–6 m zu Zelten.
-+ Latrine nach Konzept B2-9.1, W7: ≥ 30 m unterhalb der Wasserentnahme.
++ Latrine nach Konzept B2-9.1, ≥ 30 m unterhalb der Wasserentnahme.
 _Stadt / Land:_ Land = Hanglage/Lee/Flutlinie wie beschrieben. _Stadt (Wohnung):_ Du baust keinen Lagerplatz im Freien — die Wohnung ist der Lagerplatz. Wähle den _wärmsten Innenraum_ (innen liegend, nicht über Keller/Feuchtigkeit), halte _Fluchtwege frei_ (Treppenhaus, Wohnungstür), richte einen festen Lagerkern ein (siehe 9.x) und prüfe Fenster/Türen auf Dichtigkeit (siehe Kapitel 4, Stadt-Variante).
 - [ ] Nicht im Kaltluftsee
 - [ ] ≥ 30 m zur Flutlinie
@@ -222,14 +222,14 @@ _Querverweise:_ siehe Konzept B3-1.2, siehe Konzept B2-9.1, siehe Konzept B2-1.2
   [2], [_Flutlinie:_ mindestens _30 m Abstand zum Gewässerbett_ (Hochwassermarke erkennen: Treibgut, kahle Steine).], [[ ] erledigt  [ ] geprüft],
   [3], [_Lee-Seite_ des Hauptwinds wählen.], [[ ] erledigt  [ ] geprüft],
   [4], [Feuer-Abstände nach Konzept B3-1.2: 4–6 m zu Zelten.], [[ ] erledigt  [ ] geprüft],
-  [5], [Latrine nach Konzept B2-9.1, W7: ≥ 30 m unterhalb der Wasserentnahme.], [[ ] erledigt  [ ] geprüft],
+  [5], [Latrine nach Konzept B2-9.1, ≥ 30 m unterhalb der Wasserentnahme.], [[ ] erledigt  [ ] geprüft],
 )
 #subhead[Material & Maß (aus diesem Konzept)]
 #table(
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [30 m], [[ ] ≥ 30 m zur Flutlinie],
+  [30 m], [( ) ≥ 30 m zur Flutlinie],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -258,7 +258,7 @@ _Querverweise:_ siehe Konzept B3-1.2, siehe Konzept B2-9.1, siehe Konzept B2-1.2
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -275,7 +275,7 @@ _Querverweise:_ siehe Konzept B3-1.2, siehe Konzept B2-9.1, siehe Konzept B2-1.2
 *Schritt 4:* Feuer-Abstände nach Konzept B3-1.2: 4–6 m zu Zelten.
   - [ ] Kontrolle: Schritt vollständig ausgeführt  
   - [ ] Fehlerfolge beachtet (siehe „Fehler & Folgen“)  
-*Schritt 5:* Latrine nach Konzept B2-9.1, W7: ≥ 30 m unterhalb der Wasserentnahme.
+*Schritt 5:* Latrine nach Konzept B2-9.1, ≥ 30 m unterhalb der Wasserentnahme.
   - [ ] Kontrolle: Schritt vollständig ausgeführt  
   - [ ] Fehlerfolge beachtet (siehe „Fehler & Folgen“)  
 #subhead[Begriffe aus diesem Konzept]
@@ -400,7 +400,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 2.1 Wärmehaushalt & Schichten <k-2-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 4.2]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-2.svg", width: 100%), caption: [Abb. 4.2 — Abb. 4.2: Wärmehaushalt & Schichten: von innen nach außen – Feuchte muss raus, Wärme bleibt (Konzept 2.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-2.svg", width: 100%), caption: [Abb. 4.2 — Wärmehaushalt & Schichten: von innen nach außen – Feuchte muss raus, Wärme bleibt (Konzept 2.1).])]]
 Konsistent mit Konzept B3-6.1, Wärmepaket: innen trocken, Mitte isolierend, außen winddicht.
 + Schicht 1 (innen): trocken, atmungsaktiv.
 + Schicht 2 (Mitte): Wolle/Daune/trockenes Gras — Isolation.
@@ -443,7 +443,7 @@ _Querverweise:_ siehe Konzept B3-6.1, siehe Konzept 6.3, siehe Konzept 7.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -590,7 +590,7 @@ _Querverweise:_ siehe Konzept B1-4.4.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -699,8 +699,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 2.3 Werkstoffkunde Dach/Wand <k-2-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 4.3]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-3.svg", width: 100%), caption: [Abb. 4.3 — Abb. 4.3: Werkstoffkunde für Dach & Wand (Konzept 2.3, konsistent B9 W28).])]]
-Konsistent mit Band 9 (W28, Trocknung) und Band 5 (Ried/Stroh, siehe Konzept B5-8.1):
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-3.svg", width: 100%), caption: [Abb. 4.3 — Werkstoffkunde für Dach & Wand (Konzept 2.3, konsistent B9).])]]
+Konsistent mit Band 9 (Trocknung) und Band 5 (Ried/Stroh, siehe Konzept B5-8.1):
 #table(
   columns: 3,
   table.header([Werkstoff], [Einsatz], [Hinweis]),
@@ -709,7 +709,7 @@ Konsistent mit Band 9 (W28, Trocknung) und Band 5 (Ried/Stroh, siehe Konzept B5-
   [Zweige/Reisig], [Wandfüllung, Unterlage], [Neigung 50°],
   [Rinde (Birke)], [Dachdeckung, Behälter], [Neigung 30°],
   [Lehm/Stein], [Sockel, Ofen], [siehe Konzept 5.2],
-  [Holz], [Tragwerk], [Trocknung \~1 J je Daumendicke (W28, siehe Konzept B9-3.2)],
+  [Holz], [Tragwerk], [Trocknung \~1 J je Daumendicke (siehe Konzept B9-3.2)],
 )
 _Querverweise:_ siehe Konzept 5.1, siehe Konzept B5-8.1, siehe Konzept B9-3.2.
 #subhead[Material & Maß (aus diesem Konzept)]
@@ -717,7 +717,7 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept B5-8.1, siehe Konzept B9-3.2.
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [1 J], [Holz | Tragwerk | Trocknung \~1 J je Daumendicke (W28, sie],
+  [1 J], [Holz | Tragwerk | Trocknung \~1 J je Daumendicke (siehe Ko],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -745,7 +745,7 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept B5-8.1, siehe Konzept B9-3.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W28],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -896,7 +896,7 @@ _Querverweise:_ siehe Konzept B3-6.1, siehe Konzept B8-7.1, Frostbeule.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1066,7 +1066,7 @@ _Querverweise:_ siehe Konzept B9-3.1, `warn-9a`.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1182,7 +1182,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 3.2 Behelfsdach <k-3-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 9 · Abb. 4.4]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-4.svg", width: 100%), caption: [Abb. 4.4 — Abb. 4.4: Behelfsdach (Lean-to): Steillage je nach Wetter 30° / 45° / 50° (Konzept 3.2).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-4.svg", width: 100%), caption: [Abb. 4.4 — Behelfsdach (Lean-to): Steillage je nach Wetter 30° / 45° / 50° (Konzept 3.2).])]]
 _Steillage 30/45/50°_ nach Wetter: 30° bei Nieselregen, 45° bei Dauerregen, 50° bei Schnee.
 + Firstlinie spannen (siehe Konzept B1-6.3, Knoten).
 + Sparren in der gewählten Neigung auflegen, Abstand 50–60 cm.
@@ -1204,7 +1204,7 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept B1-6.3.
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [50–60 cm], [[ ] Sparrenabstand 50–60 cm],
+  [50–60 cm], [( ) Sparrenabstand 50–60 cm],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -1232,7 +1232,7 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept B1-6.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1352,7 +1352,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 3.3 Winter-Unterkunft (Schneehöhle) <k-3-3>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb_ · P 6 · M unbedenklich · V 7 · Abb. 4.5]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-5.svg", width: 100%), caption: [Abb. 4.5 — Abb. 4.5: Schneehöhle: Kugelprobe, Luftloch, Podest – immer zu zweit bauen (Konzept 3.3, gelb: Einsturzrisiko).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-5.svg", width: 100%), caption: [Abb. 4.5 — Schneehöhle: Kugelprobe, Luftloch, Podest – immer zu zweit bauen (Konzept 3.3, gelb: Einsturzrisiko).])]]
 #kasten([Einsturzrisiko — zu zweit bauen.])[Niemals allein.]
 + _Kugelprobe:_ Schneekugel formen und drücken — hält sie, taugt der Schnee zum Bau.
 + Höhle in Schneeverwehung graben; _Luftloch_ nach oben stechen.
@@ -1399,7 +1399,7 @@ _Querverweise:_ siehe Konzept 6.1, siehe Konzept 2.4.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1532,7 +1532,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 4.1 Bauplan & Hüttenmaße <k-4-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 4.6]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-6.svg", width: 100%), caption: [Abb. 4.6 — Abb. 4.6: Bauplan & Hüttenmaße: 4 Personen 2,5 × 2,5 m, Firsthöhe 1,20 m, Firstspanne ≤ 3,50 m (Konzept 4.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-6.svg", width: 100%), caption: [Abb. 4.6 — Bauplan & Hüttenmaße: 4 Personen 2,5 × 2,5 m, Firsthöhe 1,20 m, Firstspanne ≤ 3,50 m (Konzept 4.1).])]]
 Maße für 4 Personen: _2,5 × 2,5 m Grundfläche, Firsthöhe 1,20 m, Firstspanne ≤ 3,50 m_.
 _Stadt / Land:_ Land = Hütte nach diesem Bauplan. _Stadt (Wohnung):_ keine Hütte bauen — Wohnung abdichten und ausbauen: Fenster mit Folie/Dichtband abdichten, Türschwelle mit Lappen abdichten, Bett/Pritsche statt Boden (siehe 6.1), wärmster Raum als Schlafraum, Vorrat im kühlen Treppenhaus (siehe B7-8.1), Fluchtweg kennen.
 + Grundriss abstecken (siehe Konzept B1-7.1, Körpermaße).
@@ -1585,7 +1585,7 @@ _Querverweise:_ siehe Konzept 4.2, siehe Konzept B1-7.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1706,7 +1706,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 4.2 Pfosten / First / Verbindungen <k-4-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 4.7]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-7.svg", width: 100%), caption: [Abb. 4.7 — Abb. 4.7: Pfosten & First: Steinkranz, 30 cm eingegraben, Sattelkerbe für den Firstbalken (Konzept 4.2).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-7.svg", width: 100%), caption: [Abb. 4.7 — Pfosten & First: Steinkranz, 30 cm eingegraben, Sattelkerbe für den Firstbalken (Konzept 4.2).])]]
 + Pfostenlöcher _30 cm tief_, _Steinkranz_ um jedes Loch (Fundament).
 + _Sattelkerbe_ für Firstbalken und Sparren — Formschluss statt Nagel.
 + Verbindungen mit Seil verklemmen (siehe Konzept B1-6.3 und Konzept B9-5.2).
@@ -1728,7 +1728,7 @@ _Querverweise:_ siehe Konzept B1-6.3, siehe Konzept B9-5.1, Zapfen/Keil, siehe K
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [30 cm], [[ ] 30 cm Tiefe],
+  [30 cm], [( ) 30 cm Tiefe],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -1756,7 +1756,7 @@ _Querverweise:_ siehe Konzept B1-6.3, siehe Konzept B9-5.1, Zapfen/Keil, siehe K
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1886,7 +1886,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 5.1 Dachdeckung & Neigung <k-5-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 8 · Abb. 4.8]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-8.svg", width: 100%), caption: [Abb. 4.8 — Abb. 4.8: Dachdeckung & Mindestneigung: Ried/Stroh 45°, Zweige 50°, Rinde 30° (Konzept 5.1, konsistent B5 8.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-8.svg", width: 100%), caption: [Abb. 4.8 — Dachdeckung & Mindestneigung: Ried/Stroh 45°, Zweige 50°, Rinde 30° (Konzept 5.1, konsistent B5 8.1).])]]
 #table(
   columns: 2,
   table.header([Material], [Mindestneigung]),
@@ -1924,7 +1924,7 @@ _Querverweise:_ siehe Konzept B5-8.1, siehe Konzept 3.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2033,7 +2033,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 5.2 Wand / Boden / Sockel <k-5-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 8 · Abb. 4.9]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-9.svg", width: 100%), caption: [Abb. 4.9 — Abb. 4.9: Wand, Boden, Sockel: 20 cm Sockel gegen Spritzwasser, Ringgraben ums Haus (Konzept 5.2).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-9.svg", width: 100%), caption: [Abb. 4.9 — Wand, Boden, Sockel: 20 cm Sockel gegen Spritzwasser, Ringgraben ums Haus (Konzept 5.2).])]]
 + _Sockel 20 cm_ hoch (Stein/Lehm) gegen Bodenfeuchte und Nager.
 + _Ringgraben_ um die Hütte, 30 cm breit, 20 cm tief — Wasser ableiten.
 + Boden innen: 10 cm Sand/Späne, darauf Schlafplattform (siehe Konzept 6.1).
@@ -2054,7 +2054,7 @@ _Querverweise:_ siehe Konzept 6.1, siehe Konzept B2-9.2, Grauwasser.
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [20 cm], [[ ] Sockel 20 cm],
+  [20 cm], [( ) Sockel 20 cm],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -2082,7 +2082,7 @@ _Querverweise:_ siehe Konzept 6.1, siehe Konzept B2-9.2, Grauwasser.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2239,7 +2239,7 @@ _Querverweise:_ siehe Anhang A, siehe Konzept 5.1, siehe Konzept 5.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2366,7 +2366,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 6.1 Schlafplatz & Bodenisolierung <k-6-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 4.10]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-10.svg", width: 100%), caption: [Abb. 4.10 — Abb. 4.10: Bodenisolierung: unten zuerst, 12–18 Armvoll trockenes Füllmaterial unter der Schlafstelle (Konzept 6.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-10.svg", width: 100%), caption: [Abb. 4.10 — Bodenisolierung: unten zuerst, 12–18 Armvoll trockenes Füllmaterial unter der Schlafstelle (Konzept 6.1).])]]
 _Unten-zuerst-Regel:_ erst die Bodenisolation, dann die Decke. Kälte kommt von unten.
 + Boden mit _12–18 Armvoll_ trockenem Material (Gras, Laub, Nadelreisig, Schaumstoff) aufschütten.
 + Darüber luftdichte Schicht (Plane), dann Schlafunterlage.
@@ -2389,7 +2389,7 @@ _Querverweise:_ siehe Konzept 6.2, siehe Konzept 2.1, siehe Konzept 3.3.
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [12–18 Armvoll], [[ ] 12–18 Armvoll Füllung],
+  [12–18 Armvoll], [( ) 12–18 Armvoll Füllung],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -2417,7 +2417,7 @@ _Querverweise:_ siehe Konzept 6.2, siehe Konzept 2.1, siehe Konzept 3.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2576,7 +2576,7 @@ _Querverweise:_ siehe Konzept B1-2.3, siehe Konzept B3-6.2, siehe Konzept 6.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2692,7 +2692,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 6.3 Feuchtebilanz & Lüftung <k-6-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 4.11]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-11.svg", width: 100%), caption: [Abb. 4.11 — Abb. 4.11: Feuchtebilanz & Lüftung: ½ l Atemfeuchte pro Nacht – Stoßlüftung, nie Dauerzug (Konzept 6.3, Querverweis B3 6.3 CO).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-11.svg", width: 100%), caption: [Abb. 4.11 — Feuchtebilanz & Lüftung: ½ l Atemfeuchte pro Nacht – Stoßlüftung, nie Dauerzug (Konzept 6.3, Querverweis B3 6.3 CO).])]]
 _½ l Atemfeuchtigkeit pro Person und Nacht._ Stoßlüftung: 2× täglich 5 min komplett durchlüften, dann schließen.
 #kasten([Querverweis CO:])[Bei Beheizung im Raum siehe Konzept B3-6.3, `warn-3`: keine Verbrennung im geschlossenen Raum, nie über Nacht.]
 - [ ] ½ l/Nacht einkalkuliert (Material zum Auffangen/Ableiten)
@@ -2732,7 +2732,7 @@ _Querverweise:_ siehe Konzept B3-6.3, `warn-3`, siehe Konzept 2.4.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2852,7 +2852,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 7.1 Faserkunde & Pflege <k-7-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 4.12]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-12.svg", width: 100%), caption: [Abb. 4.12 — Abb. 4.12: Faserkunde: Wolle wärmt auch feucht, Baumwolle kühlt nass, Synthetik schmilzt am Funken (Konzept 7.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-12.svg", width: 100%), caption: [Abb. 4.12 — Faserkunde: Wolle wärmt auch feucht, Baumwolle kühlt nass, Synthetik schmilzt am Funken (Konzept 7.1).])]]
 #table(
   columns: 4,
   table.header([Faser], [Feucht], [Nass], [Hitze/Funken]),
@@ -2899,7 +2899,7 @@ _Querverweise:_ siehe Konzept 8.3, siehe Konzept B3-2.2, siehe Konzept B5-7.1, F
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3063,7 +3063,7 @@ _Querverweise:_ siehe Konzept B5-7.1, siehe Konzept B9-6.2, Flicken.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3221,7 +3221,7 @@ _Querverweise:_ siehe Konzept B10-5.2, siehe Konzept B10-4.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3360,7 +3360,7 @@ _Querverweise:_ siehe Konzept 8.1, siehe Konzept B9-6.2, Flicken als Methode.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3470,7 +3470,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 8.3 Schuhwerk <k-8-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 8 · Abb. 4.13]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-13.svg", width: 100%), caption: [Abb. 4.13 — Abb. 4.13: Schuhwerk: eines tragen, eines trocknen – nie direkt ans Feuer (Konzept 8.3).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-13.svg", width: 100%), caption: [Abb. 4.13 — Schuhwerk: eines tragen, eines trocknen – nie direkt ans Feuer (Konzept 8.3).])]]
 _Eines trägt, eines trocknet._ Nie nasse Schuhe ans Feuer stellen (Leder bricht, siehe Konzept 7.1).
 + Zwei Paar Schuhe pro Person wechselnd.
 + Trocknen bei Raumtemperatur, Zeitung als Einlage.
@@ -3513,7 +3513,7 @@ _Querverweise:_ siehe Konzept 7.1, siehe Konzept B3-6.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3684,7 +3684,7 @@ _Querverweise:_ siehe Konzept B1-6.5, siehe Konzept B8-6.1, siehe Konzept B9-3.3
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3844,7 +3844,7 @@ _Querverweise:_ siehe Konzept B1-7.3, siehe Konzept B3-9.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -4123,6 +4123,16 @@ Alle Verweise aus diesem Band auf andere Bände (Schema B\<Band\>-X.Y):
   [9.1], [B9-3.3],
   [9.2], [B1-7.3],
   [9.2], [B3-9.3],
+)
+#pagebreak(weak: true)
+== Prüfprotokoll (interne Quellen-IDs) <pruefprotokoll>
+Interne Prüf-IDs aus dem Factcheck (dreifache Prüfung). Sie stehen nicht im Lesetext, sondern hier im Protokoll.
+#table(
+  columns: 3,
+  table.header([*ID*], [*Konzept*], [*Fundstelle (Kontext)*]),
+  table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [W7], [1.2], [5. Latrine nach Konzept B2-9.1, ≥ 30 m unterhalb der Wasserentnahme.],
+  [W28], [2.3], [Konsistent mit Band 9 (Trocknung) und Band 5 (Ried/Stroh, siehe Ko],
 )
 
 #pagebreak(weak: true)

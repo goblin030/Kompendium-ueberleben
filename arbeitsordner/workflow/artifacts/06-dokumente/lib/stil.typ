@@ -24,6 +24,7 @@
 }
 
 #let init-doc(band: 1, titel: "") = {
+  set document(title: "Das Überlebenbuch — Band " + str(band) + ": " + titel, author: "Das Überlebenbuch")
   seite(band, titel)
   set text(lang: "de", size: 16pt, font: "Libertinus Serif", hyphenate: true)
   set par(justify: true, leading: 1.5em, spacing: 2.1em)

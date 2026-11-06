@@ -8,7 +8,7 @@ Einträge zu Konzepten dieses Bandes mit Seitenzahl (S. …); Verweise auf ander
 - _Angel: Schnur, Haken, Pose_ — Konzept 6.1, S. #refpage(<k-6-1>) (Abb. 6.6)  · _Knoten-Prüfung_; siehe auch Knoten (fünf Serienknoten); Köder-Kunde; Seil & Knoten (lastendes Seil)
 - _Angeln / Angel_ — siehe Angel: Schnur, Haken, Pose (Konzept 6.1, S. #refpage(<k-6-1>))
 - _Ansitz_ — Konzept 3.1, S. #refpage(<k-3-1>) (Abb. 6.3)  · _Wind von hinten_; siehe auch Pirsch & sauberer Schuss; Jagd-Kreise & Ruhe-Zonen
-- _Ausnehmen & Zerwirken_ — Konzept 9.1, S. #refpage(<k-9-1>) (Abb. 6.10)  · _warn-6b: Trichinen-Untersuchung (EU-VO 2075/2005) + Durchgaren ≥ 71 °C Kern; EBLV — nie mit bloßen Händen; kranke Tiere meiden (W18)_; siehe auch Trichinen; Tollwut / Fledermaus-Lyssaviren (EBLV); Vorrat & Schwelle
+- _Ausnehmen & Zerwirken_ — Konzept 9.1, S. #refpage(<k-9-1>) (Abb. 6.10)  · _warn-6b: Trichinen-Untersuchung (EU-VO 2075/2005) + Durchgaren ≥ 71 °C Kern; EBLV — nie mit bloßen Händen; kranke Tiere meiden _; siehe auch Trichinen; Tollwut / Fledermaus-Lyssaviren (EBLV); Vorrat & Schwelle
 - _Bauten, Lager & Wechsel (Wild)_ — Konzept 2.3, S. #refpage(<k-2-3>) (Abb. 6.2); siehe auch Kastenfalle & Kleintierfallen; Ansitz
 - _Feder-Kunde_ — Konzept 5.3, S. #refpage(<k-5-3>)  · _Schwungfeder/Daune_; siehe auch Fell, Sehne, Knochen (Ganz-Verwertung)
 - _Fell, Sehne, Knochen (Ganz-Verwertung)_ — Konzept 9.3, S. #refpage(<k-9-3>)  · _konsistent Konzept 1.1, S. #refpage(<k-1-1>)_; siehe auch Gerben (Leder); Feder-Kunde
@@ -27,14 +27,14 @@ Einträge zu Konzepten dieses Bandes mit Seitenzahl (S. …); Verweise auf ander
 - _Krabben & Watt-Gäste_ — Konzept 8.2, S. #refpage(<k-8-2>)  · _Petermännchen, Löwenmähnen-Qualle; heißes Wasser beim Stich_; siehe auch Strand & Watt (Nahrung); Muscheln der Gezeiten
 - _Leder_ — siehe Gerben (B7-7.3); Fell, Sehne, Knochen (Konzept 9.3, S. #refpage(<k-9-3>))
 - _Losung, Äsung & Riss_ — Konzept 2.2, S. #refpage(<k-2-2>); siehe auch Trittsiegel & Gangbilder
-- _Muschel-/Algengifte (PSP/DSP/ASP, Blaualgen/Microcystin)_ — Konzept 8.1, S. #refpage(<k-8-1>) (warn-6); B2-5.1  · _hitzestabil (W17); nur amtlich überwachte Gewässer_; siehe auch Muscheln der Gezeiten; Wasser beurteilen (Befund-Tabelle, Blaualgen)
-- _Muscheln der Gezeiten_ — Konzept 8.1, S. #refpage(<k-8-1>) (Abb. 6.9)  · _warn-6 (W17): PSP/DSP/ASP hitzestabil; nur amtlich überwachte Gewässer; Sperre nach Algenblüten; Blaualgen (Microcystin) nicht trinken/baden_; siehe auch Muschel-/Algengifte (PSP/DSP/ASP); Strand & Watt (Nahrung)
+- _Muschel-/Algengifte (PSP/DSP/ASP, Blaualgen/Microcystin)_ — Konzept 8.1, S. #refpage(<k-8-1>) (warn-6); B2-5.1  · _hitzestabil ; nur amtlich überwachte Gewässer_; siehe auch Muscheln der Gezeiten; Wasser beurteilen (Befund-Tabelle, Blaualgen)
+- _Muscheln der Gezeiten_ — Konzept 8.1, S. #refpage(<k-8-1>) (Abb. 6.9)  · _warn-6 : PSP/DSP/ASP hitzestabil; nur amtlich überwachte Gewässer; Sperre nach Algenblüten; Blaualgen (Microcystin) nicht trinken/baden_; siehe auch Muschel-/Algengifte (PSP/DSP/ASP); Strand & Watt (Nahrung)
 - _Netz (Fischerei)_ — Konzept 7.1, S. #refpage(<k-7-1>) (Abb. 6.7)  · _gelb: nie als Mauer ohne Öffnung; Stellnetz/Kiemennetz genehmigungspflichtig, Maschenweite/Markierung je Bundesland_; siehe auch Reuse, Fischwehr, Stellnetz; Fischereirecht
 - _Pfeil, Speer, Wurfholz_ — Konzept 4.2, S. #refpage(<k-4-2>)  · _gelb (SME): Speer als Jagdwaffe unzulässig; Wurfholz nur Werkzeug; keine Gifte_; siehe auch Jagdbogen (Übungsgerät)
 - _Pirsch & sauberer Schuss_ — Konzept 3.2, S. #refpage(<k-3-2>)  · _warn-6c: verletztes Wild = größte Gefahr; Wartefrist + Nachsuche; Schusswaffen nur mit Erlaubnis (WaffG)_; siehe auch Ansitz; Verletztes Wild (Wartefrist + Nachsuche)
 - _Reuse, Fischwehr, Stellnetz_ — Konzept 7.2, S. #refpage(<k-7-2>) (Abb. 6.8)  · _Drei-Tage-Regel, tägliche Kontrolle warm; IR: rod licence_; siehe auch Netz (Fischerei); Fischereirecht
 - _Schonzeiten (§ 22 BJagdG)_ — Konzept 1.3, S. #refpage(<k-1-3>)  · _Zuwiderhandlung § 38 BJagdG strafbar_; siehe auch Jagd-Kalender (Schonzeiten)
-- _Tollwut / Fledermaus-Lyssaviren (EBLV)_ — Konzept 9.1, S. #refpage(<k-9-1>) (warn-6b)  · _terrestrisch tollwutfrei, aber EBLV: nie mit bloßen Händen; kranke Tiere meiden (W18)_; siehe auch Ausnehmen & Zerwirken
+- _Tollwut / Fledermaus-Lyssaviren (EBLV)_ — Konzept 9.1, S. #refpage(<k-9-1>) (warn-6b)  · _terrestrisch tollwutfrei, aber EBLV: nie mit bloßen Händen; kranke Tiere meiden _; siehe auch Ausnehmen & Zerwirken
 - _Trichinen_ — Konzept 9.1, S. #refpage(<k-9-1>) (warn-6b)  · _EU-VO 2075/2005; Gefrieren bei Wild unzuverlässig_; siehe auch 71-°C-Kerntemperatur; Ausnehmen & Zerwirken
 - _Trittsiegel & Gangbilder_ — Konzept 2.1, S. #refpage(<k-2-1>) (Abb. 6.1)  · _Fuchs/Hund/Reh/Hase_; siehe auch Losung, Äsung & Riss; Winter-Spur
 - _Verletztes Wild (Wartefrist + Nachsuche)_ — Konzept 3.2, S. #refpage(<k-3-2>) (warn-6c); siehe auch Pirsch & sauberer Schuss

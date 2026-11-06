@@ -14,7 +14,7 @@ Alle Einträge des Gesamtregisters; Verweise auf Konzepte dieses Bandes mit Seit
 - _72-Stunden-Rucksack_ — siehe Notfallrucksack (B1-3.2)
 - _Aal (Blut roh giftig, hitzelabil)_ — B6-9.2  · _text-only-Warnung_; siehe auch Wild-Küche
 - _Abb. N.M (Abbildung)_ — B1 Anhang D  · \_Konvention: Datei `abb-N-M.svg`, deutsch beschriftet, graustufentauglich\_
-- _Abkochen (gesottenes Wasser)_ — B2-6.2 (Abb. 2.9)  · _1 min sprudelnd, ab 2.000 m 3 min (W3, CDC/WHO)_; siehe auch SODIS; Chemische Desinfektion (Chlor); Gesottenes Wasser; Wunde reinigen & schließen (Tetanus)
+- _Abkochen (gesottenes Wasser)_ — B2-6.2 (Abb. 2.9)  · _1 min sprudelnd, ab 2.000 m 3 min (CDC/WHO)_; siehe auch SODIS; Chemische Desinfektion (Chlor); Gesottenes Wasser; Wunde reinigen & schließen (Tetanus)
 - _Abschied (Sterben, Blatt bis zuletzt)_ — B8-9.2; siehe auch Sterbebegleitung; Vermächtnis
 - _Abschreiben & Bewahren_ — Konzept 7.2, S. #refpage(<k-7-2>) (Abb. 10.7)  · _vier Schichten_; siehe auch Vermächtnis; Material-Kammer
 - _Achterknoten_ — siehe Knoten (B1-6.3, Abb. 1.17)
@@ -28,10 +28,10 @@ Alle Einträge des Gesamtregisters; Verweise auf Konzepte dieses Bandes mit Seit
 - _Ansitz_ — B6-3.1 (Abb. 6.3)  · _Wind von hinten_; siehe auch Pirsch & sauberer Schuss; Jagd-Kreise & Ruhe-Zonen
 - _Antibiotika_ — siehe Sanitätsmappe (B8-8.1)
 - _Asche-Ordnung (Lauge)_ — B3-8.2 (Abb. 3.16)  · _24-h-Ruhen; Lauge 2 Hände/10 l_; siehe auch Seife aus Resten; Holzkohle-Meiler
-- _Atemnot_ — B8-4.3 (Abb. 8.9)  · _12–20/min; blaue Lippen = sofort (W23)_; siehe auch Fieber lesen; Erste Hilfe
+- _Atemnot_ — B8-4.3 (Abb. 8.9)  · _12–20/min; blaue Lippen = sofort _; siehe auch Fieber lesen; Erste Hilfe
 - _Atemprotokoll 4–6_ — B1-2.2 (Abb. 1.2); siehe auch STOPP-Protokoll; Übungsprotokoll (Verfalluhr 12 Monate)
 - _Aufguss / Absud / Kaltauszug_ — B8-3.2 (Abb. 8.5)  · _5–10 min / 15 min / 2–8 h; 1-Tag-Frist_; siehe auch Tinktur / Salbe / Öl-Auszug; Umschlag (Kräuterbrei)
-- _Ausnehmen & Zerwirken_ — B6-9.1 (Abb. 6.10)  · _warn-6b: Trichinen-Untersuchung (EU-VO 2075/2005) + Durchgaren ≥ 71 °C Kern; EBLV — nie mit bloßen Händen; kranke Tiere meiden (W18)_; siehe auch Trichinen; Tollwut / Fledermaus-Lyssaviren (EBLV); Vorrat & Schwelle
+- _Ausnehmen & Zerwirken_ — B6-9.1 (Abb. 6.10)  · _warn-6b: Trichinen-Untersuchung (EU-VO 2075/2005) + Durchgaren ≥ 71 °C Kern; EBLV — nie mit bloßen Händen; kranke Tiere meiden _; siehe auch Trichinen; Tollwut / Fledermaus-Lyssaviren (EBLV); Vorrat & Schwelle
 - _Axt & Säge_ — B1-6.2 (Abb. 1.16)  · _Sperrzone 2 Stiellängen, zwei Fluchtwege 45°, nie hangabwärts; siehe warn-9a_; siehe auch Fällen (tödliche Minute)
 - _Bärlauch (vs. Herbstzeitlose)_ — B5-2.2; siehe auch Herbstzeitlose (Colchicin, vs. Bärlauch)
 - _Bauplan & Hüttenmaße_ — B4-4.1 (Abb. 4.6)  · _4 Pers.: 2,5 × 2,5 m, First 1,20 m, Firstspanne ≤ 3,50 m_; siehe auch Pfosten / First / Verbindungen (Hütte); Hüttendiagnose
@@ -45,21 +45,21 @@ Alle Einträge des Gesamtregisters; Verweise auf Konzepte dieses Bandes mit Seit
 - _Beinwell (nur äußerlich, Pyrrolizidinalkaloide)_ — B5-6.1; B8-3.1  · _EMA/HMPC: nur äußerlich auf intakter Haut_; siehe auch Grüne Hausapotheke (fünf Haus-Pflanzen); Kräuter-Lese (zwei Zeugen)
 - _Bestimmungskunde (5 Merkmale, Familien)_ — B5-2.1 (Abb. 5.1); siehe auch Winter-Bestimmung (Gehölze); Verwechslungs-Paare & Giftpflanzen
 - _Binden / Körbe / Bast_ — B5-7.2  · _Lindenbast nur vom Totholz_; siehe auch Faseraufschluss (Röste); Werkstoffkunde Dach/Wand
-- _Block → Brett_ — B9-3.2 (Abb. 9.4)  · _Maserung, Trocknung ~1 J je Daumen (W28)_; siehe auch Fällen (tödliche Minute); Stiel (Esche/Ahorn)
+- _Block → Brett_ — B9-3.2 (Abb. 9.4)  · _Maserung, Trocknung ~1 J je Daumen _; siehe auch Fällen (tödliche Minute); Stiel (Esche/Ahorn)
 - _Blutung stillen (Druckverband)_ — B8-2.1 (Abb. 8.2)  · _15 min Druckverband, ERC-konsistent_; siehe auch Wunde reinigen & schließen (Tetanus); Erste Hilfe
 - _Botenregeln (+60-min-Regel)_ — B1-5.2 (Abb. 1.14)  · _Bote nie allein; +60 min = vermisst_; siehe auch Treffpunkt-Plan; Trupp (einer vorn, einer hinten)
 - _Botulismus (C. botulinum)_ — B7-6.2k (warn-7b); B7-4.1; B5-6.2; B8-3.3  · _W13; low-acid nur Druckkocher 116–121 °C; gewölbte Deckel ungeöffnet wegwerfen_; siehe auch Druckkocher (Einkochen); pH-Wert; Tinktur / Salbe / Öl-Auszug
 - _Brandbekämpfung (60-Sekunden-Regel)_ — B3-9.1 (Abb. 3.17); siehe auch Feuerethik; STOPP-Protokoll; Signalfeuer (3 Feuer = Notzeichen)
-- _Brandwunde & Frostbeule_ — B8-7.1 (Abb. 8.11)  · _10–20 min kühles fließendes Wasser; nie Fett, nie Eis (W22)_; siehe auch 55-°C-Verbrühungsgrenze; Temperatur-Feinmessung (Ellbogenprobe); Kältegefahr erkennen (Unterkühlung)
+- _Brandwunde & Frostbeule_ — B8-7.1 (Abb. 8.11)  · _10–20 min kühles fließendes Wasser; nie Fett, nie Eis _; siehe auch 55-°C-Verbrühungsgrenze; Temperatur-Feinmessung (Ellbogenprobe); Kältegefahr erkennen (Unterkühlung)
 - _Brennstoffkunde_ — B3-2.2 (Abb. 3.3); siehe auch Holzvorrat & Stock-Rechnung; Torf / Dung (Brennstoff); Räucherholz & Rauch
 - _Bruch / Schiene_ — siehe Bruch & Verrenkung (B8-7.2)
 - _Bruch & Verrenkung_ — B8-7.2  · _gelb: richten nur durch Wissende; Schienen; Abgabe-Regel_; siehe auch Behelfstrage
-- _Chemische Desinfektion (Chlor)_ — B2-7.3 (Abb. 2.13)  · _gelb (W5 korrigiert: keine Kinder-Halbdosis, im Zweifel abkochen); warn-2_; siehe auch Abkochen (gesottenes Wasser); SODIS; Chlorgas
+- _Chemische Desinfektion (Chlor)_ — B2-7.3 (Abb. 2.13)  · _gelb (korrigiert: keine Kinder-Halbdosis, im Zweifel abkochen); warn-2_; siehe auch Abkochen (gesottenes Wasser); SODIS; Chlorgas
 - _Chlorgas (Bleiche + Säure oder Ammoniak)_ — B2-7.3 (warn-2)  · _nie mit Säure oder Ammoniak mischen_; siehe auch Chemische Desinfektion (Chlor)
 - _Dachdeckung & Neigung_ — B4-5.1 (Abb. 4.8)  · _Ried/Stroh 45°, Zweige 50°, Rinde 30°_; siehe auch Ried / Stroh / Binse (Dachdeckung); Behelfsdach
 - _Das Mahl (Ehren-Platz-Regel)_ — Konzept 1.3, S. #refpage(<k-1-3>); siehe auch Gast & Fremder
 - _Der Wert (Tausch)_ — Konzept 2.1, S. #refpage(<k-2-1>) (Abb. 10.1)  · _Korridor Stunde/Seltenheit/Not; Elle/Ruthe/Mandel = 15/Zehnt_; siehe auch Waage (ehrliche Waage); Elle / Ruthe (Wertmaß); Wucher
-- _Destillation (Wasser)_ — B2-7.2 (Abb. 2.12)  · _gelb — Notbehelf-Grenze (P = 5); Keime erst nachkochen (W11)_; siehe auch Solarstill; Abkochen (gesottenes Wasser)
+- _Destillation (Wasser)_ — B2-7.2 (Abb. 2.12)  · _gelb — Notbehelf-Grenze (P = 5); Keime erst nachkochen _; siehe auch Solarstill; Abkochen (gesottenes Wasser)
 - _Die harte Zeit (Rationierung)_ — Konzept 8.3, S. #refpage(<k-8-3>)  · _Ration im Herbst gesetzt_; siehe auch Reserve: der Zehnte; Winter-Rechnung (Vorrat)
 - _Die Saat (Saatgut-Lagerung)_ — B7-9.3  · _Keimprobe < 12/20 → neue Saat; nie Saat essen_; siehe auch Samen-Bank; Saatgut-Keimprobe
 - _Dorf / Gemeinschaft_ — siehe Ämter des Dorfes (Konzept 4.1, S. #refpage(<k-4-1>)); Rat & Streit (Konzept 4.2, S. #refpage(<k-4-2>))
@@ -77,9 +77,9 @@ Alle Einträge des Gesamtregisters; Verweise auf Konzepte dieses Bandes mit Seit
 - _Elle / Ruthe (Wertmaß)_ — siehe Körpermaß-System (B1-7.1); Der Wert (Konzept 2.1, S. #refpage(<k-2-1>))
 - _Erfrierung / Frostbeule_ — siehe Brandwunde & Frostbeule (B8-7.1)
 - _Erste Hilfe_ — B8-2.1; B8-2.2; B8-4.3; B8-5.2; siehe auch Blutung stillen (Druckverband); Wunde reinigen & schließen (Tetanus); Atemnot; Vergiftung (Erstmaßnahme, kein induziertes Erbrechen)
-- _Ertragsrechnung (Regen)_ — B2-2.3 (Abb. 2.3)  · _1 mm × 1 m² = 1 l (W8)_; siehe auch Regen auffangen (First-Abwurf)
+- _Ertragsrechnung (Regen)_ — B2-2.3 (Abb. 2.3)  · _1 mm × 1 m² = 1 l _; siehe auch Regen auffangen (First-Abwurf)
 - _Essig selbst gebraut_ — B7-6.3; siehe auch Sauerkraut / Kraut-Fass (Milchsäuregärung); Einkochen, Öl & Essig (Druckkocher)
-- _Fällen (tödliche Minute)_ — B9-3.1 (Abb. 9.3)  · _gelb + warn-9a (WARN 2): untere Kerbe 1/3, Flucht 45° schräg, nie hangabwärts darunter stehen_; siehe auch Axt & Säge; Tödliche Minute (Fällen)
+- _Fällen (tödliche Minute)_ — B9-3.1 (Abb. 9.3)  · _gelb + warn-9a : untere Kerbe 1/3, Flucht 45° schräg, nie hangabwärts darunter stehen_; siehe auch Axt & Säge; Tödliche Minute (Fällen)
 - _Färbe-Pflanzen (Beize)_ — B5-7.3; siehe auch Faseraufschluss (Röste)
 - _Faseraufschluss (Röste)_ — B5-7.1 (Abb. 5.7)  · _Tau 1–5 Wo, Wasser 3–10 T_; siehe auch Faserkunde & Pflege (Textil); Binden / Körbe / Bast
 - _Faserkunde & Pflege (Textil)_ — B4-7.1 (Abb. 4.12)  · _Wolle feucht warm, Baumwolle nass kalt, Synthetik schmilzt_; siehe auch Faseraufschluss (Röste); Nadel & Faden; Kleidungssatz & Eigentum
@@ -129,8 +129,8 @@ Alle Einträge des Gesamtregisters; Verweise auf Konzepte dieses Bandes mit Seit
 - _Haltbarkeits-Tafeln (sechs Wege)_ — B7-2.2 (Abb. 7.1)  · _W25 (USDA)_; siehe auch Fünf Feinde des Vorrats; Konservieren / Haltbarmachen
 - _Handstrauß-Regel / Naturschutz (§ 39, § 23 BNatSchG, NSG, Anlage 1)_ — B5-1.1; B5-8.2  · _geschützte Arten meiden_; siehe auch Sammel-Ethik; Wildgarten
 - _Handwerk (Grenze des Machens)_ — B9-1.1  · _Können/Material/Zeit_; siehe auch Werkzeug-Kette; Übestück
-- _Härten & Anlassen_ — B9-2.2 (Abb. 9.2)  · _gelb (W29): Anlassen zwingend (sonst Glasbruch); Abschreckmedium Öl (milder) vs Wasser (härter, spröder)_; siehe auch Schmiede-Feuer; Geschmiedete Klinge
-- _Haushaltsvorrat (Wasser)_ — B2-8.1 (Abb. 2.14)  · _2 l × 14 T (W21/BBK)_; siehe auch Stundenprotokoll 24 h; Notfallrucksack (72 h)
+- _Härten & Anlassen_ — B9-2.2 (Abb. 9.2)  · _gelb : Anlassen zwingend (sonst Glasbruch); Abschreckmedium Öl (milder) vs Wasser (härter, spröder)_; siehe auch Schmiede-Feuer; Geschmiedete Klinge
+- _Haushaltsvorrat (Wasser)_ — B2-8.1 (Abb. 2.14)  · _2 l × 14 T (BBK)_; siehe auch Stundenprotokoll 24 h; Notfallrucksack (72 h)
 - _Hausrecht (§ 123 StGB)_ — Konzept 5.2, S. #refpage(<k-5-2>)  · _Eindringen verboten, Abwehr erlaubt_; siehe auch Gast & Fremder
 - _Heilkunde (Grenze des Behandelns)_ — B8-1.1  · _Können/Frist/Zustand_; siehe auch Sanitäts-Kette; Helfer-Netz
 - _Heilpflanzen / Hausapotheke_ — siehe Grüne Hausapotheke (B5-6.1); Band 8 Kap. 3 (Kräuter-Lese B8-3.1, Aufgüsse B8-3.2, Tinkturen B8-3.3)
@@ -143,7 +143,7 @@ Alle Einträge des Gesamtregisters; Verweise auf Konzepte dieses Bandes mit Seit
 - _Holzfällen_ — siehe Fällen (B9-3.1); Axt & Säge (B1-6.2)
 - _Holzkohle_ — siehe Holzkohle-Meiler (B3-8.1); Räucherholz & Rauch (B7-4.2)
 - _Holzkohle-Meiler_ — B3-8.1 (Abb. 3.15)  · _Rauchfarben als Uhr_; siehe auch Asche-Ordnung (Lauge); Räucherholz & Rauch
-- _Holzvorrat & Stock-Rechnung_ — B3-7.1 (Abb. 3.14)  · _1 Ster ≈ 300–350 kg; 25–35 kg/Tag (W24)_; siehe auch Brennstoffkunde; Winter-Rechnung (Vorrat)
+- _Holzvorrat & Stock-Rechnung_ — B3-7.1 (Abb. 3.14)  · _1 Ster ≈ 300–350 kg; 25–35 kg/Tag _; siehe auch Brennstoffkunde; Winter-Rechnung (Vorrat)
 - _Hüttenbau_ — siehe Bauplan & Hüttenmaße (B4-4.1); Dachdeckung & Neigung (B4-5.1)
 - _Hüttendiagnose_ — B4-5.3  · _sechs Schwachstellen_; siehe auch Bauplan & Hüttenmaße
 - _Jagd (allgemein)_ — siehe B6-1.1, Ansitz (B6-3.1), Pirsch & sauberer Schuss (B6-3.2), Fallen (B6-5.1a)
@@ -161,7 +161,7 @@ Alle Einträge des Gesamtregisters; Verweise auf Konzepte dieses Bandes mit Seit
 - _Klären / Vorfiltern_ — B2-6.1 (Abb. 2.8); siehe auch Langsamsandfilter; Abkochen (gesottenes Wasser)
 - _Kleidung_ — siehe Kleidungssatz & Eigentum (B4-8.1); Faserkunde & Pflege (Textil) (B4-7.1)
 - _Kleidungssatz & Eigentum_ — B4-8.1  · _gelb: Notstand §§ 34/35 StGB siehe Konzept 5.2, S. #refpage(<k-5-2>)_; siehe auch Wettergrenzen improvisiert (Kleidung); Notstand (§§ 34/35 StGB)
-- _Knollenblätterpilz / Amatoxine_ — B5-9.1 (warn-5b)  · _hitzestabil (W16); keine Rettungsleine_; siehe auch Pilze (Bestimmung, Amatoxine); Gift erkennen
+- _Knollenblätterpilz / Amatoxine_ — B5-9.1 (warn-5b)  · _hitzestabil ; keine Rettungsleine_; siehe auch Pilze (Bestimmung, Amatoxine); Gift erkennen
 - _Knoten (fünf Serienknoten)_ — B1-6.3 (Abb. 1.17–1.21)  · _Achterknoten, Zimmermannsstek, Sackstich, Webleinstek, Mastwurf_; siehe auch Seil & Knoten (lastendes Seil); Angel: Schnur, Haken, Pose
 - _Kochfeuer & Glut_ — B3-5.1 (Abb. 3.9); siehe auch Reflektor & Nachtfeuer; Abkochen (gesottenes Wasser)
 - _Köder-Kunde_ — B6-6.2  · _Wurm/Nymphe/Kleinfisch, saisonal_; siehe auch Köder-Zucht (Wurm-Kiste); Kastenfalle & Kleintierfallen
@@ -173,11 +173,11 @@ Alle Einträge des Gesamtregisters; Verweise auf Konzepte dieses Bandes mit Seit
 - _Krabben & Watt-Gäste_ — B6-8.2  · _Petermännchen, Löwenmähnen-Qualle; heißes Wasser beim Stich_; siehe auch Strand & Watt (Nahrung); Muscheln der Gezeiten
 - _Krankenhygiene (Wäsche & Schmutz)_ — B8-6.2  · _gesondert gesotten_; siehe auch Krankenlager; Abkochen (gesottenes Wasser)
 - _Krankenlager_ — B8-6.1  · _Wache 2–3 h_; siehe auch Sanitäts-Kette; Ruhe als Arznei
-- _Kräuter-Lese (zwei Zeugen)_ — B8-3.1  · _gelb (W15): zwei Zeugen je Pflanze; Beinwell nur äußerlich (siehe B5-6.1)_; siehe auch Grüne Hausapotheke (fünf Haus-Pflanzen); Beinwell (nur äußerlich)
+- _Kräuter-Lese (zwei Zeugen)_ — B8-3.1  · _gelb : zwei Zeugen je Pflanze; Beinwell nur äußerlich (siehe B5-6.1)_; siehe auch Grüne Hausapotheke (fünf Haus-Pflanzen); Beinwell (nur äußerlich)
 - _Lager bei Dunkelheit (Restlicht-1-h)_ — B4-9.2  · _Restlicht-1-h_; siehe auch Zeit ohne Uhr
 - _Lagerplatz_ — B4-1.2 (Abb. 4.1)  · _Kaltluftsee, Flutlinie 30 m, Lee_; siehe auch Zonenplan (Wasser & Latrine); Feuerplatz / Zonenplan (Feuer); Latrine
-- _Langsamsandfilter_ — B2-7.1 (Abb. 2.11)  · _40–60 cm Sand, Reife 1–2 Wo, Nachkochen (W10)_; siehe auch Klären / Vorfiltern; Abkochen (gesottenes Wasser)
-- _Latrine_ — B2-9.1 (Abb. 2.15)  · _gelb (W7): Grabtiefe 25–30 cm und Abstand ≥ 30 m (besser 50 m) zur Wasserstelle — verschiedene Größen_; siehe auch Zonenplan (Wasser & Latrine); Lagerplatz; Grauwasser-Kette; Glossar „Latrine“
+- _Langsamsandfilter_ — B2-7.1 (Abb. 2.11)  · _40–60 cm Sand, Reife 1–2 Wo, Nachkochen _; siehe auch Klären / Vorfiltern; Abkochen (gesottenes Wasser)
+- _Latrine_ — B2-9.1 (Abb. 2.15)  · _gelb : Grabtiefe 25–30 cm und Abstand ≥ 30 m (besser 50 m) zur Wasserstelle — verschiedene Größen_; siehe auch Zonenplan (Wasser & Latrine); Lagerplatz; Grauwasser-Kette; Glossar „Latrine“
 - _Lauge (Seife)_ — siehe Asche-Ordnung (B3-8.2); Seife aus Resten (B7-7.2)
 - _Leder_ — siehe Gerben (B7-7.3); Fell, Sehne, Knochen (B6-9.3)
 - _Lehrling (4 Proben)_ — B9-9.2  · _Hand/Ordnung/Geduld/Wahrheit_; siehe auch Weitergabe (am Werkstück)
@@ -186,24 +186,24 @@ Alle Einträge des Gesamtregisters; Verweise auf Konzepte dieses Bandes mit Seit
 - _Losung, Äsung & Riss_ — B6-2.2; siehe auch Trittsiegel & Gangbilder
 - _Mastwurf_ — siehe Knoten (B1-6.3, Abb. 1.21)
 - _Material-Kammer_ — B9-7.1  · _konsistent B7-8.1_; siehe auch Kammer (kalte Kammer, Zonen); Werkstatt-Ordnung
-- _Mengen & Referenzmaße (EL/TL/Tropfen)_ — B1-7.2 (Abb. 1.25)  · _EL ≈ 15 ml, TL ≈ 5 ml, 20 Tropfen ≈ 1 ml (W31); kg ≠ l_; siehe auch Körpermaß-System; Wasserbedarf (Bedarfsrechnung)
+- _Mengen & Referenzmaße (EL/TL/Tropfen)_ — B1-7.2 (Abb. 1.25)  · _EL ≈ 15 ml, TL ≈ 5 ml, 20 Tropfen ≈ 1 ml ; kg ≠ l_; siehe auch Körpermaß-System; Wasserbedarf (Bedarfsrechnung)
 - _Messer_ — B1-6.1 (Abb. 1.15)  · _Schnitt immer weg vom Körper_; siehe auch Schliff (Klinge); Schneide halten (Wetz-Takt); Behelfswerkzeug
-- _Muschel-/Algengifte (PSP/DSP/ASP, Blaualgen/Microcystin)_ — B6-8.1 (warn-6); B2-5.1  · _hitzestabil (W17); nur amtlich überwachte Gewässer_; siehe auch Muscheln der Gezeiten; Wasser beurteilen (Befund-Tabelle, Blaualgen)
-- _Muscheln der Gezeiten_ — B6-8.1 (Abb. 6.9)  · _warn-6 (W17): PSP/DSP/ASP hitzestabil; nur amtlich überwachte Gewässer; Sperre nach Algenblüten; Blaualgen (Microcystin) nicht trinken/baden_; siehe auch Muschel-/Algengifte (PSP/DSP/ASP); Strand & Watt (Nahrung)
+- _Muschel-/Algengifte (PSP/DSP/ASP, Blaualgen/Microcystin)_ — B6-8.1 (warn-6); B2-5.1  · _hitzestabil ; nur amtlich überwachte Gewässer_; siehe auch Muscheln der Gezeiten; Wasser beurteilen (Befund-Tabelle, Blaualgen)
+- _Muscheln der Gezeiten_ — B6-8.1 (Abb. 6.9)  · _warn-6 : PSP/DSP/ASP hitzestabil; nur amtlich überwachte Gewässer; Sperre nach Algenblüten; Blaualgen (Microcystin) nicht trinken/baden_; siehe auch Muschel-/Algengifte (PSP/DSP/ASP); Strand & Watt (Nahrung)
 - _Mykotoxine (Schimmelvergiftung)_ — B7-3.2 (warn-7a); B7-8.2  · _Schimmel → ganz wegwerfen_; siehe auch Dörren (Dörrware); Verderb-Atlas (retten/essen/wegwerfen)
 - _Nachtwärme & Deckenbilanz_ — B4-6.2; siehe auch Wärmepaket (Schichten); Schlaf (Wachenplan, erste Nacht)
 - _Nadel & Faden_ — B4-7.2  · _2 Nadeln / 10–15 m Zwirn_; siehe auch Faserkunde & Pflege (Textil); Flicken (als Methode)
 - _Netz (Fischerei)_ — B6-7.1 (Abb. 6.7)  · _gelb: nie als Mauer ohne Öffnung; Stellnetz/Kiemennetz genehmigungspflichtig, Maschenweite/Markierung je Bundesland_; siehe auch Reuse, Fischwehr, Stellnetz; Fischereirecht
 - _Niet & Nagel_ — B9-5.3; siehe auch Zapfen / Loch / Keil (Holzverbindung)
 - _Notbehelf (P \< 5)_ — B1 Anhang D  · _immer als solcher gekennzeichnet; gilt für die gelben Konzepte (z. B. B1-7.4, B2-3.5, B2-7.2, B3-3.4)_
-- _Notfallrucksack (72 h)_ — B1-3.2 (Abb. 1.6)  · _Prüfkriterium < 12 kg (W21)_; siehe auch Rucksack-Profile; Traglast; Haushaltsvorrat (Wasser)
+- _Notfallrucksack (72 h)_ — B1-3.2 (Abb. 1.6)  · _Prüfkriterium < 12 kg _; siehe auch Rucksack-Profile; Traglast; Haushaltsvorrat (Wasser)
 - _Notrufzeichen (3 Signale/min)_ — B1-5.1 (Abb. 1.13); siehe auch Signalfeuer (3 Feuer = Notzeichen); Botenregeln (+60-min-Regel)
 - _Notstand (§§ 34/35 StGB)_ — B1 Anhang D; Konzept 5.2, S. #refpage(<k-5-2>); B4-8.1  · _Eigentumseingriff bei Lebensgefahr gerechtfertigt/entschuldigt_; siehe auch Gast & Fremder; Kleidungssatz & Eigentum; Wucher
 - _Notwehr (§ 32 StGB)_ — B1 Anhang D; Konzept 4.2, S. #refpage(<k-4-2>)  · _nur bei gegenwärtigem rechtswidrigem Angriff, verhältnismäßig_; siehe auch Rat & Streit; Selbstjustiz (verboten)
 - _NTU (Trübung, Feldmessung)_ — B2-6.3; B2-5.1; siehe auch SODIS (\< 30 NTU); Wasser beurteilen (Befund-Tabelle, Blaualgen)
 - _Nüsse & Läuterung_ — B5-5.2 (Abb. 5.5)  · _Wasser 3–10 T_; siehe auch Beeren (Wild); Eicheln/Kastanien (Buchecker Fagin)
-- _Oberflächenwasser lesen_ — B2-3.1  · _Ölfilm/Chemie = verwerfen (W4)_; siehe auch Quellen & Brunnen; Wasser beurteilen (Befund-Tabelle, Blaualgen)
-- _Ofenlose Not-Heizung (CO)_ — B3-6.3 (Abb. 3.13)  · _gelb + warn-3 (W14): keine Verbrennung in geschlossenen Räumen (Zelt = geschlossener Raum), nie über Nacht im Schlafraum_; siehe auch Kohlenmonoxid (CO); Feuchtebilanz & Lüftung (Unterkunft); Schmiede-Feuer
+- _Oberflächenwasser lesen_ — B2-3.1  · _Ölfilm/Chemie = verwerfen _; siehe auch Quellen & Brunnen; Wasser beurteilen (Befund-Tabelle, Blaualgen)
+- _Ofenlose Not-Heizung (CO)_ — B3-6.3 (Abb. 3.13)  · _gelb + warn-3 : keine Verbrennung in geschlossenen Räumen (Zelt = geschlossener Raum), nie über Nacht im Schlafraum_; siehe auch Kohlenmonoxid (CO); Feuchtebilanz & Lüftung (Unterkunft); Schmiede-Feuer
 - _Orientierung_ — siehe Band 1 Kap. 4: Schattenstab (B1-4.1), Polarstern (B1-4.2), Karte (B1-4.3)
 - _ORS (orale Rehydratationslösung)_ — B8-4.2  · _1 l abgekochtes Wasser + 6 gestrichene TL Zucker + ½ TL Salz, schluckweise_; siehe auch Wärme-Regie & ORS; Wasserbedarf (Bedarfsrechnung)
 - _P / M / V (Bewertung)_ — B1 Anhang D  · _P praktisch 1–10 (< 5 = Notbehelf), M moralisch 4-stufig, V 1–10 (< 6 = Übungspflicht)_; siehe auch Ampel (grün/gelb/rot); Notbehelf (P \< 5)
@@ -211,10 +211,10 @@ Alle Einträge des Gesamtregisters; Verweise auf Konzepte dieses Bandes mit Seit
 - _Pflanzen-Kalender_ — B5-9.2 (Abb. 5.11)  · _Monatsfenster ME/Irland_; siehe auch Sammelgang (Kreise); Jagd-Kalender (Schonzeiten); Kalender des Dorfes
 - _Pfosten / First / Verbindungen (Hütte)_ — B4-4.2 (Abb. 4.7)  · _Steinkranz, 30 cm Tiefe, Sattelkerbe_; siehe auch Bauplan & Hüttenmaße; Zapfen / Loch / Keil (Holzverbindung)
 - _pH-Wert (messen, Indikatorpapier)_ — B7-6.2k; B5-6.2; B8-3.3  · _Grenze pH 4,6; ohne Messung konservativ low-acid annehmen_; siehe auch Einkochen, Öl & Essig (Druckkocher); Dosierung & rote Liste (Heilpflanzen)
-- _Pilze (Bestimmung, Amatoxine)_ — B5-9.1 (Abb. 5.10)  · _gelb + warn-5b (W16): Amatoxine hitzestabil, nie roh, keine Rettungsleine_; siehe auch Knollenblätterpilz / Amatoxine; Gift erkennen
+- _Pilze (Bestimmung, Amatoxine)_ — B5-9.1 (Abb. 5.10)  · _gelb + warn-5b : Amatoxine hitzestabil, nie roh, keine Rettungsleine_; siehe auch Knollenblätterpilz / Amatoxine; Gift erkennen
 - _Pilze sammeln_ — siehe Pilze (B5-9.1)
 - _Pirsch & sauberer Schuss_ — B6-3.2  · _warn-6c: verletztes Wild = größte Gefahr; Wartefrist + Nachsuche; Schusswaffen nur mit Erlaubnis (WaffG)_; siehe auch Ansitz; Verletztes Wild (Wartefrist + Nachsuche)
-- _Pökeln (Lake-Ei-Test)_ — B7-5.2 (Abb. 7.5)  · _Lake-Ei-Test; Speck 7–10 d; Schinken ~1 d/cm + 2 d (W26)_; siehe auch Salz (Vorratshaltung); Wurst (Herstellung)
+- _Pökeln (Lake-Ei-Test)_ — B7-5.2 (Abb. 7.5)  · _Lake-Ei-Test; Speck 7–10 d; Schinken ~1 d/cm + 2 d _; siehe auch Salz (Vorratshaltung); Wurst (Herstellung)
 - _Polarstern_ — B1-4.2 (Abb. 1.10)  · _Fünffach-Verlängerung Merak–Dubhe; Gegenprobe Cassiopeia_; siehe auch Schattenstab & Uhr-Methode; Karte lesen
 - _Protokoll (führen)_ — siehe Stundenprotokoll 24 h (B1-9.1); Übungsprotokoll (B1-8.2)
 - _Prüfung der Werkstatt_ — Konzept 6.2, S. #refpage(<k-6-2>)  · _zwei Nachbarn zeugen_; siehe auch Weitergabe (am Werkstück); Ämter des Dorfes
@@ -224,25 +224,25 @@ Alle Einträge des Gesamtregisters; Verweise auf Konzepte dieses Bandes mit Seit
 - _Räuchern (Räucher-Ofen)_ — B7-4.1 (Abb. 7.3)  · _Kalt-/Warmgang; kaltgeräucherter Fisch allein nicht haltbar (Botulismus Typ E, siehe B7-6.2k)_; siehe auch Räucherholz & Rauch; Wurst (Herstellung); Botulismus (C. botulinum)
 - _Räucherofen_ — siehe Räuchern (B7-4.1)
 - _Reflektor & Nachtfeuer_ — B3-5.2 (Abb. 3.10)  · _Wache, Glut-Disziplin_; siehe auch Kochfeuer & Glut; Feuerwache (Zwei-Personen-Regel)
-- _Regel der Drei_ — B1-3.1 (Abb. 1.5)  · _Heuristik (W19): 3 min Luft, 3 h Wärme, 3 d Wasser, 3 Wo Nahrung_; siehe auch Heuristik; Wasserbedarf (Bedarfsrechnung); Wärmehaushalt (Schichtprinzip)
+- _Regel der Drei_ — B1-3.1 (Abb. 1.5)  · _Heuristik : 3 min Luft, 3 h Wärme, 3 d Wasser, 3 Wo Nahrung_; siehe auch Heuristik; Wasserbedarf (Bedarfsrechnung); Wärmehaushalt (Schichtprinzip)
 - _Regen auffangen (First-Abwurf)_ — B2-3.2 (Abb. 2.4)  · _First-Abwurf-Pflicht_; siehe auch Ertragsrechnung (Regen); Behälterkunde (Wasser)
 - _Reibfeuer_ — B3-3.3 (Abb. 3.5)  · _gelb — Übungstechnik (P = 5), kein Alltagsplan; V = 6 → Übungspflicht_; siehe auch Sonnenzündung; Feuerstahl & Zundermulm
 - _Reserve: der Zehnte_ — Konzept 4.3, S. #refpage(<k-4-3>)  · _aus voller Kammer, nie aus der Not_; siehe auch Die harte Zeit (Rationierung); Drei Kreise (Vorrat)
 - _Reuse, Fischwehr, Stellnetz_ — B6-7.2 (Abb. 6.8)  · _Drei-Tage-Regel, tägliche Kontrolle warm; IR: rod licence_; siehe auch Netz (Fischerei); Fischereirecht
 - _Reye-Syndrom_ — B8-7.3; B5-6.1; siehe auch Weidenrinde (Salicyl, nicht \< 16 J)
 - _Ried / Stroh / Binse (Dachdeckung)_ — B5-8.1 (Abb. 5.8); siehe auch Dachdeckung & Neigung; Behelfsdach
-- _Riemen / Fett / Öl (Leinöl)_ — B9-7.3 (Abb. 9.9)  · _warn-9b (W30): Lappen nie zerknüllt im Abfalleimer; nie Öl in Wassereimer (Dampfexplosion)_; siehe auch Messer (Pflege); Leinöl-Selbstentzündung (Lappen)
+- _Riemen / Fett / Öl (Leinöl)_ — B9-7.3 (Abb. 9.9)  · _warn-9b : Lappen nie zerknüllt im Abfalleimer; nie Öl in Wassereimer (Dampfexplosion)_; siehe auch Messer (Pflege); Leinöl-Selbstentzündung (Lappen)
 - _Rucksack_ — siehe Notfallrucksack (B1-3.2); Rucksack-Profile (B1-3.3)
 - _Rucksack-Profile_ — B1-3.3 (Abb. 1.7)  · _Kinder/Senioren/Haustiere_; siehe auch Notfallrucksack; Traglast
 - _Ruhe als Arznei_ — B8-6.3; siehe auch Krankenlager
 - _Saatgut-Keimprobe_ — B5-8.3 (Abb. 5.9)  · _50 Körner / 7–14 T_; siehe auch Samen-Bank; Die Saat (Saatgut-Lagerung)
 - _Sackstich_ — siehe Knoten (B1-6.3, Abb. 1.19)
-- _Salz (Vorratshaltung)_ — B7-5.1  · _gelb + warn-7c: Streusalz/Regeneriersalz nie in die Küche (Ferrocyanid, WARN 2)_; siehe auch Pökeln (Lake-Ei-Test); Streusalz / Regeneriersalz
+- _Salz (Vorratshaltung)_ — B7-5.1  · _gelb + warn-7c: Streusalz/Regeneriersalz nie in die Küche (Ferrocyanid)_; siehe auch Pökeln (Lake-Ei-Test); Streusalz / Regeneriersalz
 - _Samen-Bank_ — B5-1.3  · _10 % Streu-Rückgabe_; siehe auch Saatgut-Keimprobe; Die Saat (Saatgut-Lagerung)
 - _Sammel-Ethik_ — B5-1.1  · _Ein-Drittel-Regel, Wurzelrückgabe; § 39 BNatSchG, NSG § 23, geschützte Arten (Anlage 1)_; siehe auch Handstrauß-Regel / Naturschutz; Wildgarten
 - _Sammelgang (Kreise)_ — B5-1.2  · _500 m / 2–5 km_; siehe auch Sammel-Ethik; Sicheres Dutzend (12 Arten)
 - _Sanitäts-Kette_ — B8-1.2 (Abb. 8.1)  · _Ruhe–Blick–Frage–Hand–Blatt_; siehe auch Helfer-Netz; Krankenlager
-- _Sanitätsmappe_ — B8-8.1 (Abb. 8.13)  · _< 3 kg (W20); Antibiotika nur bei klarer bakterieller Indikation, volle Kursdauer, Allergie beachten_; siehe auch Notfallrucksack (72 h); Traglast
+- _Sanitätsmappe_ — B8-8.1 (Abb. 8.13)  · _< 3 kg ; Antibiotika nur bei klarer bakterieller Indikation, volle Kursdauer, Allergie beachten_; siehe auch Notfallrucksack (72 h); Traglast
 - _Sauerkraut_ — siehe Sauerkraut / Kraut-Fass (B7-6.1)
 - _Sauerkraut / Kraut-Fass (Milchsäuregärung)_ — B7-6.1 (Abb. 7.6)  · _Milchsäure/Lake_; siehe auch Essig selbst gebraut; Einkochen, Öl & Essig (Druckkocher)
 - _Schärfen_ — siehe Schliff (Klinge) (B9-4.1); Schneide halten (Wetz-Takt) (B9-4.2); Messer (B1-6.1)
@@ -261,7 +261,7 @@ Alle Einträge des Gesamtregisters; Verweise auf Konzepte dieses Bandes mit Seit
 - _Schonzeiten (§ 22 BJagdG)_ — B6-1.3  · _Zuwiderhandlung § 38 BJagdG strafbar_; siehe auch Jagd-Kalender (Schonzeiten)
 - _Schuhwerk_ — B4-8.3 (Abb. 4.13)  · _eines trägt, eines trocknet; nie ans Feuer_; siehe auch Wettergrenzen improvisiert (Kleidung)
 - _Schuld & Geschenk_ — Konzept 1.1, S. #refpage(<k-1-1>)  · _Gabe nie gemahnt; Schuld mit Frist am Blatt_; siehe auch Wort & Vertrag (zwei Zeugen); Wassergerechtigkeit; Glut-Botschaft
-- _Seife aus Resten_ — B7-7.2 (Abb. 7.9)  · _1:1; Lauge 0,5 l/Pfund; Reife 4–6 Wo (W27)_; siehe auch Asche-Ordnung (Lauge); Schmalz & Talg
+- _Seife aus Resten_ — B7-7.2 (Abb. 7.9)  · _1:1; Lauge 0,5 l/Pfund; Reife 4–6 Wo _; siehe auch Asche-Ordnung (Lauge); Schmalz & Talg
 - _Seil_ — siehe Seil & Knoten (B9-5.2); Knoten (B1-6.3)
 - _Seil & Knoten (lastendes Seil)_ — B9-5.2 (Abb. 9.7)  · _lastendes Seil nie mit dem Messer durchtrennen — auslaufen lassen_; siehe auch Knoten (fünf Serienknoten); Angel: Schnur, Haken, Pose
 - _Selbstjustiz (verboten)_ — Konzept 4.2, S. #refpage(<k-4-2>); Konzept 5.2, S. #refpage(<k-5-2>)  · _strafbar; keine Präventiv-/Rachegewalt_; siehe auch Rat & Streit; Gast & Fremder
@@ -269,26 +269,26 @@ Alle Einträge des Gesamtregisters; Verweise auf Konzepte dieses Bandes mit Seit
 - _Sickergrube / Behelfsbrunnen_ — B2-3.4  · _Erstwasser verwerfen_; siehe auch Quellen & Brunnen
 - _Signale / Zeichengebung_ — siehe Notrufzeichen (B1-5.1); Signalfeuer (B3-9.2)
 - _Signalfeuer (3 Feuer = Notzeichen)_ — B3-9.2 (Abb. 3.18); siehe auch Notrufzeichen (3 Signale/min); Feuerwache (Zwei-Personen-Regel)
-- _SODIS_ — B2-6.3 (Abb. 2.10)  · _gelb: nur < 30 NTU, PET 1–2 l, 6 h Sonne / 2 T bewölkt; im Zweifel kochen (W6)_; siehe auch Abkochen (gesottenes Wasser); Destillation (Wasser); NTU (Trübung)
-- _Solarstill_ — B2-3.5 (Abb. 2.5)  · _gelb — Notbehelf (P = 4); nur Klarwasser-Nachbehandlung (W11)_; siehe auch Destillation (Wasser); SODIS
+- _SODIS_ — B2-6.3 (Abb. 2.10)  · _gelb: nur < 30 NTU, PET 1–2 l, 6 h Sonne / 2 T bewölkt; im Zweifel kochen _; siehe auch Abkochen (gesottenes Wasser); Destillation (Wasser); NTU (Trübung)
+- _Solarstill_ — B2-3.5 (Abb. 2.5)  · _gelb — Notbehelf (P = 4); nur Klarwasser-Nachbehandlung _; siehe auch Destillation (Wasser); SODIS
 - _Sonnenzündung_ — B3-3.4 (Abb. 3.6)  · _gelb — Notbehelf (P = 4); Linsen-Abdeckung Pflicht (Brandgefahr)_; siehe auch Reibfeuer
 - _Sterbebegleitung_ — B8-9.1; siehe auch Abschied (Sterben, Blatt bis zuletzt)
 - _Stiel (Esche/Ahorn)_ — B9-3.3; siehe auch Block → Brett; Werkzeug-Kette
 - _STOPP-Protokoll_ — B1-2.1 (Abb. 1.1); siehe auch Atemprotokoll 4–6; Stundenprotokoll 24 h; Regel der Drei
-- _Strand & Watt (Nahrung)_ — B5-4.2  · _nur gekochte Knollen; Algen-Gift-Regel (W17)_; siehe auch Muscheln der Gezeiten; Krabben & Watt-Gäste
+- _Strand & Watt (Nahrung)_ — B5-4.2  · _nur gekochte Knollen; Algen-Gift-Regel _; siehe auch Muscheln der Gezeiten; Krabben & Watt-Gäste
 - _Streusalz / Regeneriersalz (nie in die Küche)_ — B7-5.1 (warn-7c)  · _Ferrocyanid, Verunreinigungen; Herkunft prüfen_; siehe auch Salz (Vorratshaltung)
 - _Stundenprotokoll 24 h_ — B1-9.1 (Abb. 1.30); siehe auch Haushaltsvorrat (Wasser); STOPP-Protokoll; Gesprächsordnung (15-min-Box)
 - _Tausch_ — siehe Der Wert (Konzept 2.1, S. #refpage(<k-2-1>)); Tausch-Platz (Konzept 2.3, S. #refpage(<k-2-3>))
 - _Tausch-Platz_ — Konzept 2.3, S. #refpage(<k-2-3>)  · _gelb (prüfenswert): Markt-Fristen; Ordnung aufrechterhalten_; siehe auch Der Wert (Tausch); Ämter des Dorfes
-- _Temperatur-Feinmessung (Ellbogenprobe)_ — B1-7.4 (Abb. 1.27)  · _gelb — Notbehelf (P = 5), Übungspflicht (W22)_; siehe auch Brandwunde & Frostbeule; 55-°C-Verbrühungsgrenze
+- _Temperatur-Feinmessung (Ellbogenprobe)_ — B1-7.4 (Abb. 1.27)  · _gelb — Notbehelf (P = 5), Übungspflicht _; siehe auch Brandwunde & Frostbeule; 55-°C-Verbrühungsgrenze
 - _Tetanus_ — B8-2.2 (warn-8a)  · _W12; Risikowunden offen halten; Booster-Regeln_; siehe auch Wunde reinigen & schließen (Tetanus); Tetanus-Impfstoff (Kühlkette 2–8 °C)
 - _Tetanus-Impfstoff (Kühlkette 2–8 °C)_ — B8-2.2  · _kühlkettenpflichtig_; siehe auch B8-8.1 (Sanitätsmappe)
 - _Tinktur / Salbe / Öl-Auszug_ — B8-3.3 (Abb. 8.6)  · _gelb: Öl-Auszug nur gesäuert (pH < 4,6) oder vollständig getrocknet (09 §2.1); Datum am Gefäß_; siehe auch Dosierung & rote Liste (Heilpflanzen); Botulismus (C. botulinum); Einkochen, Öl & Essig (Druckkocher)
-- _Tödliche Minute (Fällen)_ — B9-3.1 (warn-9a); B1-6.2  · _Flucht 45° schräg, nie hangabwärts darunter (WARN 2)_; siehe auch Fällen (tödliche Minute); Axt & Säge
-- _Tollwut / Fledermaus-Lyssaviren (EBLV)_ — B6-9.1 (warn-6b)  · _terrestrisch tollwutfrei, aber EBLV: nie mit bloßen Händen; kranke Tiere meiden (W18)_; siehe auch Ausnehmen & Zerwirken
+- _Tödliche Minute (Fällen)_ — B9-3.1 (warn-9a); B1-6.2  · _Flucht 45° schräg, nie hangabwärts darunter _; siehe auch Fällen (tödliche Minute); Axt & Säge
+- _Tollwut / Fledermaus-Lyssaviren (EBLV)_ — B6-9.1 (warn-6b)  · _terrestrisch tollwutfrei, aber EBLV: nie mit bloßen Händen; kranke Tiere meiden _; siehe auch Ausnehmen & Zerwirken
 - _Torf / Dung (Brennstoff)_ — B3-7.2  · _gelb: nur Notstand, oberflächlich; Moor-Schwelbrand-Gefahr_; siehe auch Brennstoffkunde; Räucherholz & Rauch
 - _Trage / Krankentrage_ — siehe Behelfstrage (B4-9.1)
-- _Traglast_ — B1-6.5 (Abb. 1.23)  · _15–20 % Marsch / 30 % kurz / Kinder 10–15 % (W20); Glossar B1 Anhang D_; siehe auch Wassertransport (Transportkette); Sanitätsmappe; Werkzeug-Kiste; Rucksack-Profile
+- _Traglast_ — B1-6.5 (Abb. 1.23)  · _15–20 % Marsch / 30 % kurz / Kinder 10–15 % ; Glossar B1 Anhang D_; siehe auch Wassertransport (Transportkette); Sanitätsmappe; Werkzeug-Kiste; Rucksack-Profile
 - _Treffpunkt-Plan_ — B1-3.4 (Abb. 1.8)  · _schriftlich (Netzausfall), A/B + Abholliste_; siehe auch Botenregeln (+60-min-Regel); Notrufzeichen (3 Signale/min)
 - _Trichinen_ — B6-9.1 (warn-6b)  · _EU-VO 2075/2005; Gefrieren bei Wild unzuverlässig_; siehe auch 71-°C-Kerntemperatur; Ausnehmen & Zerwirken
 - _Trinkwasser_ — siehe Band 2: Wasserbedarf (B2-2.1), Wasser beurteilen (B2-5.1), Abkochen (B2-6.2), Langsamsandfilter (B2-7.1), Chemische Desinfektion (B2-7.3)
@@ -308,7 +308,7 @@ Alle Einträge des Gesamtregisters; Verweise auf Konzepte dieses Bandes mit Seit
 - _Verletztes Wild (Wartefrist + Nachsuche)_ — B6-3.2 (warn-6c); siehe auch Pirsch & sauberer Schuss
 - _Verletzungsfallen / Schlinge & Totfang (verboten)_ — siehe B6-5.1a (Ersatz;  gestrichen)  · _§ 19 Abs. 1 BJagdG + Leitlinie „keine Verletzungsfallen“; rot_; siehe auch Kastenfalle & Kleintierfallen
 - _Vermächtnis_ — Konzept 9.1, S. #refpage(<k-9-1>)  · _geschrieben + verlesen_; siehe auch Abschreiben & Bewahren; Gedenken
-- _Verwechslungs-Paare & Giftpflanzen_ — B5-2.2 (Abb. 5.2)  · _warn-5 (W15): keine Mahlzeit ohne Namen + zweites Merkmal_; siehe auch Giftpflanzen; Herbstzeitlose (Colchicin); Bärlauch; Gift erkennen
+- _Verwechslungs-Paare & Giftpflanzen_ — B5-2.2 (Abb. 5.2)  · _warn-5 : keine Mahlzeit ohne Namen + zweites Merkmal_; siehe auch Giftpflanzen; Herbstzeitlose (Colchicin); Bärlauch; Gift erkennen
 - _Vögel, Eier, Kleintier (Fang)_ — B6-5.2  · _§ 44 BNatSchG: Entnahme verboten; nie letztes Gelege; roh nie_; siehe auch Vogeleier & Nester (§ 44 BNatSchG)
 - _Vogeleier & Nester (§ 44 BNatSchG)_ — B6-5.2  · _Entnahme verboten_; siehe auch Vögel, Eier, Kleintier (Fang)
 - _Vorrat (Grenze des Vorrats)_ — B7-1.1; siehe auch Drei Kreise (Vorrat); Wucher
@@ -324,18 +324,18 @@ Alle Einträge des Gesamtregisters; Verweise auf Konzepte dieses Bandes mit Seit
 - _Wärmepaket (Schichten)_ — B3-6.1 (Abb. 3.11); siehe auch Wärmehaushalt (Schichtprinzip); Nachtwärme & Deckenbilanz
 - _Warnrahmen / Warngrafik (warn-N.svg)_ — B1 Anhang D  · _15 Warngrafiken + 2 text-only — Liste in Warnrahmen-Pflichtliste_; siehe auch Botulismus (C. botulinum); Kohlenmonoxid (CO); Tetanus
 - _Wasser (allgemein)_ — siehe Wassergerechtigkeit (B2-1.1); Band 2 Kap. 3–7 (finden, beurteilen, aufbereiten, lagern)
-- _Wasser beurteilen (Befund-Tabelle, Blaualgen)_ — B2-5.1  · _Blaualgen (Microcystin) (W4); NTU_; siehe auch Oberflächenwasser lesen; Chemische Desinfektion (Chlor); Muschel-/Algengifte (PSP/DSP/ASP)
-- _Wasserbedarf (Bedarfsrechnung)_ — B2-2.1 (Abb. 2.2)  · _2–3 l Trinkmin., 7,5–10 l Notfall, 15–20 l Haushalt (W1/W2/L8)_; siehe auch Bedarfsprofile (Wasser); Ertragsrechnung (Regen); Wärme-Regie & ORS; Mengen & Referenzmaße
+- _Wasser beurteilen (Befund-Tabelle, Blaualgen)_ — B2-5.1  · _Blaualgen (Microcystin) ; NTU_; siehe auch Oberflächenwasser lesen; Chemische Desinfektion (Chlor); Muschel-/Algengifte (PSP/DSP/ASP)
+- _Wasserbedarf (Bedarfsrechnung)_ — B2-2.1 (Abb. 2.2)  · _2–3 l Trinkmin., 7,5–10 l Notfall, 15–20 l Haushalt _; siehe auch Bedarfsprofile (Wasser); Ertragsrechnung (Regen); Wärme-Regie & ORS; Mengen & Referenzmaße
 - _Wassergerechtigkeit_ — B2-1.1; siehe auch Zonenplan (Wasser & Latrine); Schuld & Geschenk
-- _Wassertransport (Transportkette)_ — B2-4.2 (Abb. 2.7)  · _10 l einseitig (W20)_; siehe auch Gruppenkette (Zwischentank); Traglast
+- _Wassertransport (Transportkette)_ — B2-4.2 (Abb. 2.7)  · _10 l einseitig _; siehe auch Gruppenkette (Zwischentank); Traglast
 - _Watt_ — siehe Strand & Watt (B5-4.2); Muscheln der Gezeiten (B6-8.1); Krabben & Watt-Gäste (B6-8.2)
 - _Webleinstek_ — siehe Knoten (B1-6.3, Abb. 1.20)
 - _Weidenrinde (Salicyl, nicht \< 16 J)_ — B5-6.1; B8-7.3  · _Reye: nicht < 16 J_; siehe auch Schmerzmittel aus der Natur (Weidenrinde); Reye-Syndrom
 - _Weitergabe (am Werkstück)_ — B9-9.1  · _dreifach gesichert_; siehe auch Lehrling (4 Proben); Übestück
 - _Werkstatt-Ordnung_ — B9-6.1  · _fester Ort je Ding_; siehe auch Feld-Werkstatt; Material-Kammer
-- _Werkstoffkunde Dach/Wand_ — B4-2.3 (Abb. 4.3); siehe auch Dachdeckung & Neigung; Binden / Körbe / Bast (W28)
+- _Werkstoffkunde Dach/Wand_ — B4-2.3 (Abb. 4.3); siehe auch Dachdeckung & Neigung; Binden / Körbe / Bast 
 - _Werkzeug-Kette_ — B9-1.2  · _Lesen–Wählen–Halten–Führen_; siehe auch Handwerk (Grenze des Machens); Werkzeug-Kiste
-- _Werkzeug-Kiste_ — B9-8.1 (Abb. 9.10)  · _3 Schichten, ≤ ¼ Körpergewicht (W20)_; siehe auch Notfallrucksack (72 h); Traglast; Behelfswerkzeug
+- _Werkzeug-Kiste_ — B9-8.1 (Abb. 9.10)  · _3 Schichten, ≤ ¼ Körpergewicht _; siehe auch Notfallrucksack (72 h); Traglast; Behelfswerkzeug
 - _Wetter lesen (Zwei-Zeichen-Regel)_ — B1-4.4 (Abb. 1.12); siehe auch Wetter-/Wolkenlesen (Unterkunft); Brandbekämpfung (60-Sekunden-Regel)
 - _Wetter-/Wolkenlesen (Unterkunft)_ — B4-2.2; siehe auch Wetter lesen (Zwei-Zeichen-Regel)
 - _Wettergrenzen improvisiert (Kleidung)_ — B4-8.2  · _Verfallsdatum_; siehe auch Kleidungssatz & Eigentum; Schuhwerk
@@ -350,11 +350,11 @@ Alle Einträge des Gesamtregisters; Verweise auf Konzepte dieses Bandes mit Seit
 - _Winter-Rechnung (Vorrat)_ — B7-9.1 (Abb. 7.12)  · _100 stille Tage + 20–33 % Zugabe_; siehe auch Holzvorrat & Stock-Rechnung; Die harte Zeit (Rationierung)
 - _Winter-Spur_ — B6-2.4  · _Neuschnee datiert_; siehe auch Trittsiegel & Gangbilder
 - _Winter-Unterkunft (Schneehöhle)_ — B4-3.3 (Abb. 4.5)  · _gelb: Einsturzrisiko — zu zweit bauen; Kugelprobe, Luftloch, Podest_; siehe auch Behelfsdach
-- _Winterwasser_ — B2-3.7 (Abb. 2.6)  · _Schmelze 10:1; Tausalz-Schnee verwerfen (W9)_; siehe auch Regen auffangen (First-Abwurf)
+- _Winterwasser_ — B2-3.7 (Abb. 2.6)  · _Schmelze 10:1; Tausalz-Schnee verwerfen _; siehe auch Regen auffangen (First-Abwurf)
 - _Wochenrollenplan_ — B1-9.2 (Abb. 1.31)  · _jede Rolle doppelt besetzt_; siehe auch Ämter des Dorfes; Schlaf (Wachenplan, erste Nacht)
 - _Wort & Vertrag (zwei Zeugen)_ — Konzept 1.2, S. #refpage(<k-1-2>); siehe auch Schuld & Geschenk; Rat & Streit
 - _Wucher_ — Konzept 2.4, S. #refpage(<k-2-4>)  · _gelb: § 291 StGB (strafbar bei Ausbeutung + krassem Missverhältnis), § 138 Abs. 2 BGB (Nichtigkeit)_; siehe auch Der Wert (Tausch); Notstand (§§ 34/35 StGB)
-- _Wunde reinigen & schließen (Tetanus)_ — B8-2.2 (Abb. 8.3)  · _warn-8a (W12, verschärft): Risikowunden ausgiebig spülen, Fremdkörper entfernen, offen halten; Booster-Regeln (> 10 J / > 5 J Risikowunde); Impfstoff kühlkettenpflichtig 2–8 °C; nur gesottenes Wasser_; siehe auch Tetanus; Wundheilung (heilende Wunde, Naht); Abkochen (gesottenes Wasser)
+- _Wunde reinigen & schließen (Tetanus)_ — B8-2.2 (Abb. 8.3)  · _warn-8a (verschärft): Risikowunden ausgiebig spülen, Fremdkörper entfernen, offen halten; Booster-Regeln (> 10 J / > 5 J Risikowunde); Impfstoff kühlkettenpflichtig 2–8 °C; nur gesottenes Wasser_; siehe auch Tetanus; Wundheilung (heilende Wunde, Naht); Abkochen (gesottenes Wasser)
 - _Wundheilung (heilende Wunde, Naht)_ — B8-2.3 (Abb. 8.4)  · _5 Eiter-Zeichen; Naht nur bei sauberer Schnittwunde < 6–12 h durch erfahrene Person, sonst offen sekundär heilen lassen_; siehe auch Wunde reinigen & schließen (Tetanus)
 - _Wundnaht_ — siehe Wundheilung (B8-2.3)
 - _Wurst (Herstellung)_ — B7-4.3  · _Kern durchgaren; Rohwurst-Haltbarkeit nur über Salz/pH_; siehe auch Räuchern (Räucher-Ofen); Pökeln (Lake-Ei-Test)
@@ -362,7 +362,7 @@ Alle Einträge des Gesamtregisters; Verweise auf Konzepte dieses Bandes mit Seit
 - _Zeit ohne Uhr_ — B1-7.3 (Abb. 1.26)  · _Puls 15 s × 4; ± 30 min_; siehe auch Lager bei Dunkelheit (Restlicht-1-h); Körpermaß-System
 - _Zeughaus_ — Konzept 7.1, S. #refpage(<k-7-1>) (Abb. 10.6)  · _warn-10b: kein offenes Licht, Ofen außen, Eimer am Eingang; Abstände konsistent B3-1.2_; siehe auch Feuerplatz / Zonenplan (Feuer); Brandbekämpfung (60-Sekunden-Regel)
 - _Zimmermannsstek_ — siehe Knoten (B1-6.3, Abb. 1.18)
-- _Zonenplan (Wasser & Latrine)_ — B2-1.2 (Abb. 2.1)  · _gelb (W7): Latrine–Wasser ≥ 30 m (besser 50 m), unterhalb/hangabwärts_; siehe auch Latrine; Lagerplatz; Glossar „Latrine“
+- _Zonenplan (Wasser & Latrine)_ — B2-1.2 (Abb. 2.1)  · _gelb : Latrine–Wasser ≥ 30 m (besser 50 m), unterhalb/hangabwärts_; siehe auch Latrine; Lagerplatz; Glossar „Latrine“
 - _Zunder_ — siehe Zunderkette (B3-4.1); Feuerstahl & Zundermulm (B3-3.2)
 - _Zunderkette (Zunder → Faschholz → Scheit)_ — B3-4.1 (Abb. 3.7); siehe auch Feuerstahl & Zundermulm; Feuerbauten
 - _Zündquellen-Inventar_ — B3-3.1  · _3 Sets + Monatsprobe_; siehe auch Feuerstahl & Zundermulm; Notfallrucksack (72 h)

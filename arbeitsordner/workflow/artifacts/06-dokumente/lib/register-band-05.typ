@@ -22,12 +22,12 @@ Einträge zu Konzepten dieses Bandes mit Seitenzahl (S. …); Verweise auf ander
 - _Heilpflanzen / Hausapotheke_ — siehe Grüne Hausapotheke (Konzept 6.1, S. #refpage(<k-6-1>)); Band 8 Kap. 3 (Kräuter-Lese B8-3.1, Aufgüsse B8-3.2, Tinkturen B8-3.3)
 - _Herbstzeitlose (Colchicin, vs. Bärlauch)_ — Konzept 2.2, S. #refpage(<k-2-2>) (warn-5)  · _Merkmal: Knoblauchgeruch beim Zerreiben = Bärlauch_; siehe auch Bärlauch (vs. Herbstzeitlose); Giftpflanzen
 - _Herkulesstaude (phototoxisch)_ — Konzept 2.2, S. #refpage(<k-2-2>) (warn-5); siehe auch Giftpflanzen
-- _Knollenblätterpilz / Amatoxine_ — Konzept 9.1, S. #refpage(<k-9-1>) (warn-5b)  · _hitzestabil (W16); keine Rettungsleine_; siehe auch Pilze (Bestimmung, Amatoxine); Gift erkennen
-- _Kräuter-Lese (zwei Zeugen)_ — B8-3.1  · _gelb (W15): zwei Zeugen je Pflanze; Beinwell nur äußerlich (siehe Konzept 6.1, S. #refpage(<k-6-1>))_; siehe auch Grüne Hausapotheke (fünf Haus-Pflanzen); Beinwell (nur äußerlich)
+- _Knollenblätterpilz / Amatoxine_ — Konzept 9.1, S. #refpage(<k-9-1>) (warn-5b)  · _hitzestabil ; keine Rettungsleine_; siehe auch Pilze (Bestimmung, Amatoxine); Gift erkennen
+- _Kräuter-Lese (zwei Zeugen)_ — B8-3.1  · _gelb : zwei Zeugen je Pflanze; Beinwell nur äußerlich (siehe Konzept 6.1, S. #refpage(<k-6-1>))_; siehe auch Grüne Hausapotheke (fünf Haus-Pflanzen); Beinwell (nur äußerlich)
 - _Nüsse & Läuterung_ — Konzept 5.2, S. #refpage(<k-5-2>) (Abb. 5.5)  · _Wasser 3–10 T_; siehe auch Beeren (Wild); Eicheln/Kastanien (Buchecker Fagin)
 - _Pflanzen-Kalender_ — Konzept 9.2, S. #refpage(<k-9-2>) (Abb. 5.11)  · _Monatsfenster ME/Irland_; siehe auch Sammelgang (Kreise); Jagd-Kalender (Schonzeiten); Kalender des Dorfes
 - _pH-Wert (messen, Indikatorpapier)_ — B7-6.2k; Konzept 6.2, S. #refpage(<k-6-2>); B8-3.3  · _Grenze pH 4,6; ohne Messung konservativ low-acid annehmen_; siehe auch Einkochen, Öl & Essig (Druckkocher); Dosierung & rote Liste (Heilpflanzen)
-- _Pilze (Bestimmung, Amatoxine)_ — Konzept 9.1, S. #refpage(<k-9-1>) (Abb. 5.10)  · _gelb + warn-5b (W16): Amatoxine hitzestabil, nie roh, keine Rettungsleine_; siehe auch Knollenblätterpilz / Amatoxine; Gift erkennen
+- _Pilze (Bestimmung, Amatoxine)_ — Konzept 9.1, S. #refpage(<k-9-1>) (Abb. 5.10)  · _gelb + warn-5b : Amatoxine hitzestabil, nie roh, keine Rettungsleine_; siehe auch Knollenblätterpilz / Amatoxine; Gift erkennen
 - _Pilze sammeln_ — siehe Pilze (Konzept 9.1, S. #refpage(<k-9-1>))
 - _Reye-Syndrom_ — B8-7.3; Konzept 6.1, S. #refpage(<k-6-1>); siehe auch Weidenrinde (Salicyl, nicht \< 16 J)
 - _Ried / Stroh / Binse (Dachdeckung)_ — Konzept 8.1, S. #refpage(<k-8-1>) (Abb. 5.8); siehe auch Dachdeckung & Neigung; Behelfsdach
@@ -37,8 +37,8 @@ Einträge zu Konzepten dieses Bandes mit Seitenzahl (S. …); Verweise auf ander
 - _Sammelgang (Kreise)_ — Konzept 1.2, S. #refpage(<k-1-2>)  · _500 m / 2–5 km_; siehe auch Sammel-Ethik; Sicheres Dutzend (12 Arten)
 - _Schmerzmittel aus der Natur (Weidenrinde)_ — B8-7.3 (Abb. 8.12)  · _gelb (SME): nicht < 16 J (Reye-Syndrom, siehe Konzept 6.1, S. #refpage(<k-6-1>))_; siehe auch Weidenrinde (Salicyl); Grüne Hausapotheke (fünf Haus-Pflanzen); Reye-Syndrom
 - _Sicheres Dutzend (12 Arten)_ — Konzept 3.1, S. #refpage(<k-3-1>) (Abb. 5.3); siehe auch Sammelgang (Kreise); Duldungsgrenzen (Oxalsäure-Handregel)
-- _Strand & Watt (Nahrung)_ — Konzept 4.2, S. #refpage(<k-4-2>)  · _nur gekochte Knollen; Algen-Gift-Regel (W17)_; siehe auch Muscheln der Gezeiten; Krabben & Watt-Gäste
-- _Verwechslungs-Paare & Giftpflanzen_ — Konzept 2.2, S. #refpage(<k-2-2>) (Abb. 5.2)  · _warn-5 (W15): keine Mahlzeit ohne Namen + zweites Merkmal_; siehe auch Giftpflanzen; Herbstzeitlose (Colchicin); Bärlauch; Gift erkennen
+- _Strand & Watt (Nahrung)_ — Konzept 4.2, S. #refpage(<k-4-2>)  · _nur gekochte Knollen; Algen-Gift-Regel _; siehe auch Muscheln der Gezeiten; Krabben & Watt-Gäste
+- _Verwechslungs-Paare & Giftpflanzen_ — Konzept 2.2, S. #refpage(<k-2-2>) (Abb. 5.2)  · _warn-5 : keine Mahlzeit ohne Namen + zweites Merkmal_; siehe auch Giftpflanzen; Herbstzeitlose (Colchicin); Bärlauch; Gift erkennen
 - _Watt_ — siehe Strand & Watt (Konzept 4.2, S. #refpage(<k-4-2>)); Muscheln der Gezeiten (B6-8.1); Krabben & Watt-Gäste (B6-8.2)
 - _Weidenrinde (Salicyl, nicht \< 16 J)_ — Konzept 6.1, S. #refpage(<k-6-1>); B8-7.3  · _Reye: nicht < 16 J_; siehe auch Schmerzmittel aus der Natur (Weidenrinde); Reye-Syndrom
 - _Wildgarten_ — Konzept 8.2, S. #refpage(<k-8-2>)  · _gelb: nur mit Zustimmung; Fremdgrund/NSG/geschützte Arten_; siehe auch Handstrauß-Regel / Naturschutz; Saatgut-Keimprobe

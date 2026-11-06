@@ -91,7 +91,7 @@ _Querverweise:_ siehe Konzept 9.3, siehe Konzept B10-4.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -244,7 +244,7 @@ _Querverweise:_ siehe Konzept 1.1, siehe Konzept 1.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -402,7 +402,7 @@ _Querverweise:_ siehe Konzept B10-8.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -525,7 +525,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 2.1 Trittsiegel & Gangbilder <k-2-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 8 · Abb. 6.1]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-1.svg", width: 100%), caption: [Abb. 6.1 — Abb. 6.1: Trittsiegel & Gangbilder: Fuchs, Hund, Reh, Hase unterscheiden (Konzept 2.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-1.svg", width: 100%), caption: [Abb. 6.1 — Trittsiegel & Gangbilder: Fuchs, Hund, Reh, Hase unterscheiden (Konzept 2.1).])]]
 #table(
   columns: 2,
   table.header([Art], [Merkmal]),
@@ -563,7 +563,7 @@ _Querverweise:_ siehe Konzept 2.4.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -699,7 +699,7 @@ _Querverweise:_ siehe Konzept 2.1, siehe Konzept 2.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -808,7 +808,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 2.3 Bauten, Lager & Wechsel <k-2-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 6.2]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-2.svg", width: 100%), caption: [Abb. 6.2 — Abb. 6.2: Bauten, Lager & Wechsel: Fuchsbau, Dachsbau, Wildschweinlager, Reh-Lager (Konzept 2.3).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-2.svg", width: 100%), caption: [Abb. 6.2 — Bauten, Lager & Wechsel: Fuchsbau, Dachsbau, Wildschweinlager, Reh-Lager (Konzept 2.3).])]]
 Fuchsbau (mehrere Röhren), Dachs (groß, Erdhaufen), Wildschwein (Nest), Reh (Lager = flache Mulde). Wechsel = regelmäßig benutzte Pfade zwischen Äsung und Einstand.
 _Querverweise:_ siehe Konzept 2.1, siehe Konzept 3.1.
 #subhead[Fehler & Folgen (siehe Anhang B)]
@@ -837,7 +837,7 @@ _Querverweise:_ siehe Konzept 2.1, siehe Konzept 3.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -974,7 +974,7 @@ _Querverweise:_ siehe Konzept 2.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1094,7 +1094,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 3.1 Der Ansitz <k-3-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 6.3]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-3.svg", width: 100%), caption: [Abb. 6.3 — Abb. 6.3: Der Ansitz: Wind von hinten, volle Sicht, ruhiger Abzug (Konzept 3.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-3.svg", width: 100%), caption: [Abb. 6.3 — Der Ansitz: Wind von hinten, volle Sicht, ruhiger Abzug (Konzept 3.1).])]]
 + _Wind von hinten_ — nie mit dem Wind auf das Wild zu.
 + Volle Fenster-Spanne nutzen (Dämmerung, frühe Nacht).
 + Protokoll führen (Anhang A Band 6): Erfolg jede 8.–12. Ansitzstunde (Planungsrichtwert).
@@ -1136,7 +1136,7 @@ _Querverweise:_ siehe Anhang A, siehe Konzept 2.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1315,7 +1315,7 @@ _Querverweise:_ siehe Konzept 9.1 (`warn-6b`), siehe Konzept 1.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1451,7 +1451,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 4.1 Jagdbogen <k-4-1>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb (SME: rechtlich unzulässig als Jagdwaffe)_ · P 6 · M unbedenklich · V 7 · Abb. 6.4]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-4.svg", width: 100%), caption: [Abb. 6.4 — Abb. 6.4: Jagdbogen: sicherer Bereich 10–20 m – in DE/AT/CH nur Übungsgerät, jagdrechtlich unzulässig (Konzept 4.1, SME).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-4.svg", width: 100%), caption: [Abb. 6.4 — Jagdbogen: sicherer Bereich 10–20 m – in DE/AT/CH nur Übungsgerät, jagdrechtlich unzulässig (Konzept 4.1, SME).])]]
 #kasten([Rechtlicher Hinweis (Pflicht, 09 § 4.2):])[_Bogenjagd ist in DE/AT/CH jagdrechtlich unzulässig_ — nur Schusswaffen sind Jagdwaffen. Der Bogen ist hier _reines Übungsgerät_.]
 + Nur als Übungsgerät führen; nie zur Jagd einsetzen.
 + Sicherheitsabstand _10–20 m_; nie auf Personen richten.
@@ -1474,7 +1474,7 @@ _Querverweise:_ siehe Konzept 1.1 (Jagdschein-Pflicht), siehe Konzept B1-8.2.
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [10–20 m], [[ ] Sicherheitsabstand 10–20 m],
+  [10–20 m], [( ) Sicherheitsabstand 10–20 m],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -1502,7 +1502,7 @@ _Querverweise:_ siehe Konzept 1.1 (Jagdschein-Pflicht), siehe Konzept B1-8.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1652,7 +1652,7 @@ _Querverweise:_ siehe Konzept 4.1, siehe Konzept B9-3.3, Stiel/Wurfholz als Werk
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1776,12 +1776,12 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 5.1a Kastenfalle & Kleintierfallen (Ersatz für 5.1) <k-5-1a>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · Abb. 6.5]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-5.svg", width: 100%), caption: [Abb. 6.5 — Abb. 6.5: Kastenfalle (Ersatz für 5.1): amtlich zugelassene Lebendfang-Falle, tägliche Kontrolle, nie an Menschenpfaden (Konzept 5.1a).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-5.svg", width: 100%), caption: [Abb. 6.5 — Kastenfalle (Ersatz für 5.1): amtlich zugelassene Lebendfang-Falle, tägliche Kontrolle, nie an Menschenpfaden (Konzept 5.1a).])]]
 #kasten([Rechtlicher Hinweis (Pflicht):])[Nur _amtlich zugelassene Lebendfang-Kastenfallen_ verwenden (Zulassung je Bundesland prüfen). _Tägliche Kontrolle_ (morgens und abends). _Kleintierfallen im Haushalt_ (Mäuse, Ratten) sind vom BJagdG nicht erfasst. _Nie an Menschenpfaden_ aufstellen.]
 + Kastenfalle am Wechsel aufstellen (siehe Konzept 2.3), mit Draht an Baum sichern.
 + Köder: Apfel, Möhre, Ei (siehe Konzept 6.2).
 + Kontrollkarte führen (Anhang A Band 6): 2× täglich, Fang sofort entnehmen oder töten (sauberer Tod, siehe Konzept 1.1).
-+ Lebendfang: Tier unverteilt entnehmen — _sauberer Tod sofort:_ bei Kleintieren _Genickbruch_ ( kräftiger Zug/Drehung am Kopf, bis das Rückgrat durchtrennt ist) oder kräftiger Schlag auf den Kopf; nie quälen, nie leiden lassen. Danach nach Konzept 9.1 zerwirken.
++ Lebendfang: Tier unverteilt entnehmen — _sauberer Tod sofort:_ bei Kleintieren _Genickbruch_ (kräftiger Zug/Drehung am Kopf, bis das Rückgrat durchtrennt ist) oder kräftiger Schlag auf den Kopf; nie quälen, nie leiden lassen. Danach nach Konzept 9.1 zerwirken.
 - [ ] Amtlich zugelassen (Bundesland geprüft)
 - [ ] 2× täglich kontrolliert
 - [ ] Nie an Menschenpfaden
@@ -1796,7 +1796,7 @@ _Querverweise:_ siehe Konzept 2.3, siehe Konzept 6.2, siehe Konzept 9.1, siehe K
   [1], [Kastenfalle am Wechsel aufstellen (siehe Konzept 2.3), mit Draht an Baum sichern.], [[ ] erledigt  [ ] geprüft],
   [2], [Köder: Apfel, Möhre, Ei (siehe Konzept 6.2).], [[ ] erledigt  [ ] geprüft],
   [3], [Kontrollkarte führen (Anhang A Band 6): 2× täglich, Fang sofort entnehmen oder töten (sauberer Tod, siehe Konzept 1.1).], [[ ] erledigt  [ ] geprüft],
-  [4], [Lebendfang: Tier unverteilt entnehmen — _sauberer Tod sofort:_ bei Kleintieren _Genickbruch_ ( kräftiger Zug/Drehung am Kopf, bis das Rückgrat durchtrennt ist) oder kräftiger Schlag auf den Kopf; nie quälen, nie leiden lassen. Danach nach Konzept 9.1 zerwirken.], [[ ] erledigt  [ ] geprüft],
+  [4], [Lebendfang: Tier unverteilt entnehmen — _sauberer Tod sofort:_ bei Kleintieren _Genickbruch_ (kräftiger Zug/Drehung am Kopf, bis das Rückgrat durchtrennt ist) oder kräftiger Schlag auf den Kopf; nie quälen, nie leiden lassen. Danach nach Konzept 9.1 zerwirken.], [[ ] erledigt  [ ] geprüft],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -1824,7 +1824,7 @@ _Querverweise:_ siehe Konzept 2.3, siehe Konzept 6.2, siehe Konzept 9.1, siehe K
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1838,7 +1838,7 @@ _Querverweise:_ siehe Konzept 2.3, siehe Konzept 6.2, siehe Konzept 9.1, siehe K
 *Schritt 3:* Kontrollkarte führen (Anhang A Band 6): 2× täglich, Fang sofort entnehmen oder töten (sauberer Tod, siehe Konzept 1.1).
   - [ ] Kontrolle: Schritt vollständig ausgeführt  
   - [ ] Fehlerfolge beachtet (siehe „Fehler & Folgen“)  
-*Schritt 4:* Lebendfang: Tier unverteilt entnehmen — _sauberer Tod sofort:_ bei Kleintieren _Genickbruch_ ( kräftiger Zug/Drehung am Kopf, bis das Rückgrat durchtrennt ist) oder kräftiger Schlag auf den Kopf; nie quälen, nie leiden lassen. Danach nach Konzept 9.1 zerwirken.
+*Schritt 4:* Lebendfang: Tier unverteilt entnehmen — _sauberer Tod sofort:_ bei Kleintieren _Genickbruch_ (kräftiger Zug/Drehung am Kopf, bis das Rückgrat durchtrennt ist) oder kräftiger Schlag auf den Kopf; nie quälen, nie leiden lassen. Danach nach Konzept 9.1 zerwirken.
   - [ ] Kontrolle: Schritt vollständig ausgeführt  
   - [ ] Fehlerfolge beachtet (siehe „Fehler & Folgen“)  
 #subhead[Begriffe aus diesem Konzept]
@@ -1981,7 +1981,7 @@ _Querverweise:_ siehe Konzept 9.1 (Zerwirken/Durchgaren).
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2121,7 +2121,7 @@ _Querverweise:_ siehe Konzept B4-2.1, siehe Konzept 9.3 (Ganz-Verwertung).
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2241,7 +2241,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 6.1 Schnur, Haken, Pose <k-6-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 6.6]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-6.svg", width: 100%), caption: [Abb. 6.6 — Abb. 6.6: Angel: Schnur, Haken, Pose – Knoten vor jedem Einsatz prüfen (Konzept 6.1, konsistent B1 6.3, B9 5.2).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-6.svg", width: 100%), caption: [Abb. 6.6 — Angel: Schnur, Haken, Pose – Knoten vor jedem Einsatz prüfen (Konzept 6.1, konsistent B1 6.3, B9 5.2).])]]
 Konsistent mit Knoten (siehe Konzept B1-6.3) und Seil (siehe Konzept B9-5.2).
 + _Knoten-Prüfung vor jedem Einsatz:_ jeder Knoten belastet ziehen.
 + Haken an Schnur mit _Achterknoten_ (siehe Konzept B1-6.3).
@@ -2284,7 +2284,7 @@ _Querverweise:_ siehe Konzept B1-6.3, siehe Konzept B9-5.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2437,7 +2437,7 @@ _Querverweise:_ siehe Konzept 6.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2585,7 +2585,7 @@ _Querverweise:_ siehe Konzept 6.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2714,7 +2714,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 7.1 Netz <k-7-1>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb_ · P 8 · M prüfenswert · V 7 · Abb. 6.7]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-7.svg", width: 100%), caption: [Abb. 6.7 — Abb. 6.7: Netz: nie als Mauer ohne Öffnung – Maschenweite & Markierung je Bundesland, Genehmigung prüfen (Konzept 7.1, gelb).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-7.svg", width: 100%), caption: [Abb. 6.7 — Netz: nie als Mauer ohne Öffnung – Maschenweite & Markierung je Bundesland, Genehmigung prüfen (Konzept 7.1, gelb).])]]
 + _Nie als Mauer ohne Öffnung_ aufspannen — Ertrinkungsgefahr für Wild und Mensch.
 + #kasten([Rechtlich (Fischereirecht):])[Stellnetz/Kiemennetz _genehmigungspflichtig_, Maschenweite und Markierung je Bundesland; Fischereischein (DE) bzw. _rod licence (Irland)_ erforderlich.]
 - [ ] Öffnung im Netz
@@ -2754,7 +2754,7 @@ _Querverweise:_ siehe Konzept 7.2, siehe Konzept 1.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2870,7 +2870,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 7.2 Reuse, Fischwehr, Stellnetz <k-7-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 6.8]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-8.svg", width: 100%), caption: [Abb. 6.8 — Abb. 6.8: Reuse / Fischwehr / Stellnetz: Drei-Tage-Regel, täglich kontrollieren bei Wärme (Konzept 7.2).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-8.svg", width: 100%), caption: [Abb. 6.8 — Reuse / Fischwehr / Stellnetz: Drei-Tage-Regel, täglich kontrollieren bei Wärme (Konzept 7.2).])]]
 + _Drei-Tage-Regel:_ Reusen maximal 3 Tage unbeaufsichtigt, _täglich kontrollieren bei Wärme_.
 + Genehmigung/Markierung je Bundesland (siehe Konzept 7.1); Irland: rod licence.
 - [ ] Tägliche Kontrolle bei Wärme
@@ -2910,7 +2910,7 @@ _Querverweise:_ siehe Konzept 7.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3036,8 +3036,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 8.1 Muscheln der Gezeiten <k-8-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün + _WARNRAHMEN [warn-6]_ · P 9 · M unbedenklich · V 9 · Abb. 6.9]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-9.svg", width: 100%), caption: [Abb. 6.9 — Abb. 6.9: Muscheln der Gezeiten: nur amtlich überwachte Gewässer – PSP/DSP hitzestabil, Blaualgen meiden (Konzept 8.1, warn-6, W17).])]]
-#warnrahmen(id: "warn-6", title: [MUSCHEL-/ALGENGIFTE (W17, 09 Nr. 6):])[PSP (Saxitoxin), DSP, ASP sind _hitzestabil — kein Kochen rettet_. _Nur aus amtlich überwachten Gewässern_ ernten; nach Algenblüten/Stürmen _Sperre_ beachten. _Blaualgen (Microcystin) im Süßwasser:_ nicht trinken, nicht baden bei Massenvermehrung (siehe Konzept B2-5.1). Bank-Rast: nur frische, fest schließende Muscheln.]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-9.svg", width: 100%), caption: [Abb. 6.9 — Muscheln der Gezeiten: nur amtlich überwachte Gewässer – PSP/DSP hitzestabil, Blaualgen meiden (Konzept 8.1, warn-6).])]]
+#warnrahmen(id: "warn-6", title: [MUSCHEL-/ALGENGIFTE (09 Nr. 6):])[PSP (Saxitoxin), DSP, ASP sind _hitzestabil — kein Kochen rettet_. _Nur aus amtlich überwachten Gewässern_ ernten; nach Algenblüten/Stürmen _Sperre_ beachten. _Blaualgen (Microcystin) im Süßwasser:_ nicht trinken, nicht baden bei Massenvermehrung (siehe Konzept B2-5.1). Bank-Rast: nur frische, fest schließende Muscheln.]
 - [ ] Amtlich überwachtes Gewässer
 - [ ] Sperrzeiten beachtet
 - [ ] Frische geprüft (fest geschlossen)
@@ -3068,7 +3068,7 @@ _Querverweise:_ siehe Konzept B2-5.1, Blaualgen, siehe Konzept 9.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W17],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3217,7 +3217,7 @@ _Querverweise:_ siehe Konzept B1-7.4, siehe Konzept B8-7.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3341,8 +3341,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 9.1 Ausnehmen & Zerwirken <k-9-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün + _WARNRAHMEN [warn-6b]_ · P 9 · M unbedenklich · V 8 · Abb. 6.10]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-10.svg", width: 100%), caption: [Abb. 6.10 — Abb. 6.10: Ausnehmen & Zerwirken: Trichinen-Untersuchung + Kern ≥ 71 °C – kranke Tiere meiden, Fledermäuse nie mit bloßen Händen (Konzept 9.1, warn-6b, W18).])]]
-#warnrahmen(id: "warn-6b", title: [TRICHINEN / TOLLWUT / FLEDERMAUS-LYSSAVIREN (W18, 09 Nr. 7, verschärft):])[_Trichinen:_ amtliche Untersuchung (EU-VO 2075/2005) dringend empfohlen; sicher ist _Durchgaren auf ≥ 71 °C Kerntemperatur_ (besser 75 °C) — _Gefrieren bei Wild ist unzuverlässig_ (T. britovi kälteresistent). _Tollwut:_ DE/IR terrestrisch tollwutfrei, aber _Fledermaus-Lyssaviren (EBLV-1/-2)_ möglich — _Fledermaus nie mit bloßen Händen_, Biss/Kratzer → sofort postexpositionelle Prophylaxe (siehe Konzept B8-2.2). Verhaltensauffällige Tiere meiden, nicht anfassen.]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-10.svg", width: 100%), caption: [Abb. 6.10 — Ausnehmen & Zerwirken: Trichinen-Untersuchung + Kern ≥ 71 °C – kranke Tiere meiden, Fledermäuse nie mit bloßen Händen (Konzept 9.1, warn-6b).])]]
+#warnrahmen(id: "warn-6b", title: [TRICHINEN / TOLLWUT / FLEDERMAUS-LYSSAVIREN (09 Nr. 7, verschärft):])[_Trichinen:_ amtliche Untersuchung (EU-VO 2075/2005) dringend empfohlen; sicher ist _Durchgaren auf ≥ 71 °C Kerntemperatur_ (besser 75 °C) — _Gefrieren bei Wild ist unzuverlässig_ (T. britovi kälteresistent). _Tollwut:_ DE/IR terrestrisch tollwutfrei, aber _Fledermaus-Lyssaviren (EBLV-1/-2)_ möglich — _Fledermaus nie mit bloßen Händen_, Biss/Kratzer → sofort postexpositionelle Prophylaxe (siehe Konzept B8-2.2). Verhaltensauffällige Tiere meiden, nicht anfassen.]
 + Wild mit Handschuhen ausnehmen; kranke Tiere (Leber/Lunge verändert) meiden.
 + Fleisch kühl halten, bald verarbeiten (siehe Band 7).
 + Durchgaren ≥ 71 °C Kern vor Verzehr. _Messen:_ Fleischthermometer in der Sanitätsmappe (siehe B8-8.1) und in der Werkzeugkiste (siehe B9-8.1). _Ohne Thermometer (Ersatzkriterien):_ Fleisch ist innen grau-braun (nicht rosa), die Fasern lösen sich leicht, austretender Saft ist klar (nicht rosa); Fisch: Fleisch undurchsichtig weiß und löst sich von der Gräte; Kochzeit konservativ wählen.
@@ -3394,7 +3394,7 @@ _Querverweise:_ siehe Konzept B8-2.2, Tetanus/postexpositionell, siehe Konzept B
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W18],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3527,7 +3527,7 @@ _Querverweise:_ siehe Konzept 9.1 (`warn-6b`).
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [71 °C], [[ ] Wildbret ≥ 71 °C Kern (siehe Konzept 9.1)],
+  [71 °C], [( ) Wildbret ≥ 71 °C Kern (siehe Konzept 9.1)],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -3555,7 +3555,7 @@ _Querverweise:_ siehe Konzept 9.1 (`warn-6b`).
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3695,7 +3695,7 @@ _Querverweise:_ siehe Konzept 1.1, siehe Konzept B7-7.3, siehe Konzept B9-7.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3952,7 +3952,7 @@ Alle Konzepte dieses Bandes im Überblick — abhaken, wenn geübt/gelesen:
   table.header([*Warngrafik*], [*Thema*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [warn-6c], [VERLETZTES WILD 09 NR 12],
-  [warn-6], [MUSCHELALGENGIFTE W17 09 NR 6],
+  [warn-6], [MUSCHELALGENGIFTE 09 NR 6],
   [warn-6b], [TRICHINEN  TOLLWUT  FLEDERMAUSLYSSAVIREN],
 )
 #pagebreak(weak: true)
@@ -3981,6 +3981,16 @@ Alle Verweise aus diesem Band auf andere Bände (Schema B\<Band\>-X.Y):
   [9.3], [B7-7.3],
   [9.3], [B9-5.2],
   [9.3], [B9-7.2],
+)
+#pagebreak(weak: true)
+== Prüfprotokoll (interne Quellen-IDs) <pruefprotokoll>
+Interne Prüf-IDs aus dem Factcheck (dreifache Prüfung). Sie stehen nicht im Lesetext, sondern hier im Protokoll.
+#table(
+  columns: 3,
+  table.header([*ID*], [*Konzept*], [*Fundstelle (Kontext)*]),
+  table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [W17], [8.1], [_WARNRAHMEN (warn-6) — MUSCHEL-/ALGENGIFTE (09 Nr. 6):_ PSP (Saxitoxin), DSP, ASP sind],
+  [W18], [9.1], [TRICHINEN / TOLLWUT / FLEDERMAUS-LYSSAVIREN (09 Nr. 7, verschärft):_ _Trichinen:\*\* amt],
 )
 
 #pagebreak(weak: true)

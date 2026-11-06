@@ -28,15 +28,15 @@ Einträge zu Konzepten dieses Bandes mit Seitenzahl (S. …); Verweise auf ander
 - _Material-Kammer_ — B9-7.1  · _konsistent Konzept 8.1, S. #refpage(<k-8-1>)_; siehe auch Kammer (kalte Kammer, Zonen); Werkstatt-Ordnung
 - _Mykotoxine (Schimmelvergiftung)_ — Konzept 3.2, S. #refpage(<k-3-2>) (warn-7a); Konzept 8.2, S. #refpage(<k-8-2>)  · _Schimmel → ganz wegwerfen_; siehe auch Dörren (Dörrware); Verderb-Atlas (retten/essen/wegwerfen)
 - _pH-Wert (messen, Indikatorpapier)_ — Konzept 6.2k, S. #refpage(<k-6-2k>); B5-6.2; B8-3.3  · _Grenze pH 4,6; ohne Messung konservativ low-acid annehmen_; siehe auch Einkochen, Öl & Essig (Druckkocher); Dosierung & rote Liste (Heilpflanzen)
-- _Pökeln (Lake-Ei-Test)_ — Konzept 5.2, S. #refpage(<k-5-2>) (Abb. 7.5)  · _Lake-Ei-Test; Speck 7–10 d; Schinken ~1 d/cm + 2 d (W26)_; siehe auch Salz (Vorratshaltung); Wurst (Herstellung)
+- _Pökeln (Lake-Ei-Test)_ — Konzept 5.2, S. #refpage(<k-5-2>) (Abb. 7.5)  · _Lake-Ei-Test; Speck 7–10 d; Schinken ~1 d/cm + 2 d _; siehe auch Salz (Vorratshaltung); Wurst (Herstellung)
 - _Räucherholz & Rauch_ — Konzept 4.2, S. #refpage(<k-4-2>) (Abb. 7.4)  · _Nadelholz-Verbot (Terpentin); Torf nur gemischt_; siehe auch Brennstoffkunde; Torf / Dung (Brennstoff); Holzkohle-Meiler
 - _Räuchern (Räucher-Ofen)_ — Konzept 4.1, S. #refpage(<k-4-1>) (Abb. 7.3)  · _Kalt-/Warmgang; kaltgeräucherter Fisch allein nicht haltbar (Botulismus Typ E, siehe Konzept 6.2k, S. #refpage(<k-6-2k>))_; siehe auch Räucherholz & Rauch; Wurst (Herstellung); Botulismus (C. botulinum)
 - _Räucherofen_ — siehe Räuchern (Konzept 4.1, S. #refpage(<k-4-1>))
-- _Salz (Vorratshaltung)_ — Konzept 5.1, S. #refpage(<k-5-1>)  · _gelb + warn-7c: Streusalz/Regeneriersalz nie in die Küche (Ferrocyanid, WARN 2)_; siehe auch Pökeln (Lake-Ei-Test); Streusalz / Regeneriersalz
+- _Salz (Vorratshaltung)_ — Konzept 5.1, S. #refpage(<k-5-1>)  · _gelb + warn-7c: Streusalz/Regeneriersalz nie in die Küche (Ferrocyanid)_; siehe auch Pökeln (Lake-Ei-Test); Streusalz / Regeneriersalz
 - _Sauerkraut_ — siehe Sauerkraut / Kraut-Fass (Konzept 6.1, S. #refpage(<k-6-1>))
 - _Sauerkraut / Kraut-Fass (Milchsäuregärung)_ — Konzept 6.1, S. #refpage(<k-6-1>) (Abb. 7.6)  · _Milchsäure/Lake_; siehe auch Essig selbst gebraut; Einkochen, Öl & Essig (Druckkocher)
 - _Schmalz & Talg_ — Konzept 7.1, S. #refpage(<k-7-1>) (Abb. 7.8)  · _Ranz-Warnung_; siehe auch Seife aus Resten
-- _Seife aus Resten_ — Konzept 7.2, S. #refpage(<k-7-2>) (Abb. 7.9)  · _1:1; Lauge 0,5 l/Pfund; Reife 4–6 Wo (W27)_; siehe auch Asche-Ordnung (Lauge); Schmalz & Talg
+- _Seife aus Resten_ — Konzept 7.2, S. #refpage(<k-7-2>) (Abb. 7.9)  · _1:1; Lauge 0,5 l/Pfund; Reife 4–6 Wo _; siehe auch Asche-Ordnung (Lauge); Schmalz & Talg
 - _Streusalz / Regeneriersalz (nie in die Küche)_ — Konzept 5.1, S. #refpage(<k-5-1>) (warn-7c)  · _Ferrocyanid, Verunreinigungen; Herkunft prüfen_; siehe auch Salz (Vorratshaltung)
 - _Trocken-Halle_ — Konzept 3.1, S. #refpage(<k-3-1>)  · _Wind trocknet, nicht Hitze_; siehe auch Dörren (Dörrware); Getreide (Lagerung)
 - _Verderb-Atlas (retten/essen/wegwerfen)_ — Konzept 8.2, S. #refpage(<k-8-2>) (Abb. 7.11)  · _verschimmeltes Korn/Brot/Nüsse nie retten — Mykotoxine penetrieren_; siehe auch Mykotoxine (Schimmelvergiftung); Dörren (Dörrware)

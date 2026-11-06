@@ -101,7 +101,7 @@ _Querverweise:_ siehe Konzept 1.2, siehe Konzept 9.3, siehe Konzept B1-9.2, sieh
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -222,7 +222,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 1.2 Feuerplatz / Zonenplan <k-1-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 3.1]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-1.svg", width: 100%), caption: [Abb. 3.1 — Abb. 3.1: Feuerplatz-Zonenplan (Draufsicht): 30 cm entkernt, 2–3 m frei, Zelte 4–6 m entfernt (Konzept 1.2).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-1.svg", width: 100%), caption: [Abb. 3.1 — Feuerplatz-Zonenplan (Draufsicht): 30 cm entkernt, 2–3 m frei, Zelte 4–6 m entfernt (Konzept 1.2).])]]
 Maße (konsistent mit B4-1.2 und B10-7.1): _30 cm rundum entkernen_, _2–3 m frei_ (keine brennbaren Gegenstände), _4–6 m Abstand zu Zelten/Unterkünften_.
 + Platz auf festem, mineralischem Boden wählen.
 + 30 cm Radius von Bewuchs befreien; Steinkranz als Begrenzung.
@@ -279,7 +279,7 @@ _Querverweise:_ siehe Konzept B4-1.2, siehe Konzept B10-7.1, Zeughaus `warn-10b`
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -419,7 +419,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 2.1 Feuerdreieck & Zündkette <k-2-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 10 · Abb. 3.2]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-2.svg", width: 100%), caption: [Abb. 3.2 — Abb. 3.2: Feuerdreieck + Feuchte als vierter Faktor (Konzept 2.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-2.svg", width: 100%), caption: [Abb. 3.2 — Feuerdreieck + Feuchte als vierter Faktor (Konzept 2.1).])]]
 Feuer braucht _Brennstoff + Sauerstoff + Wärme_ — als vierter Faktor die _Feuchte_ (nasser Brennstoff brennt nicht).
 + Zündkette: Zündquelle → Zunder → Faschholz → Kleinholz → Scheit (siehe Konzept 4.1).
 + Feuchte vor dem Bau prüfen: nasses Holz trocknen oder spalten (trockenes Kernholz).
@@ -462,7 +462,7 @@ _Querverweise:_ siehe Konzept 4.1, siehe Konzept 2.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -583,8 +583,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 2.2 Brennstoffkunde <k-2-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 3.3]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-3.svg", width: 100%), caption: [Abb. 3.3 — Abb. 3.3: Brennstoffkunde: Hartholz für Glut, Birkenrinde zündet feucht – Nadelholz nur mit Abstand (Konzept 2.2, W24/W28).])]]
-Werte (W24/W28): _1 Ster ≈ 300–350 kg_ — das ist der konservative Wert für Fichte/Kiefer; _Buche/Eiche ≈ 400–500 kg pro Ster_. Rechne konservativ mit 300–350 kg. Winter-Feuer-Tag _25–35 kg_; 2–3 kg Hartholz pro Feuerstunde.
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-3.svg", width: 100%), caption: [Abb. 3.3 — Brennstoffkunde: Hartholz für Glut, Birkenrinde zündet feucht – Nadelholz nur mit Abstand (Konzept 2.2).])]]
+Werte : _1 Ster ≈ 300–350 kg_ — das ist der konservative Wert für Fichte/Kiefer; _Buche/Eiche ≈ 400–500 kg pro Ster_. Rechne konservativ mit 300–350 kg. Winter-Feuer-Tag _25–35 kg_; 2–3 kg Hartholz pro Feuerstunde.
 #table(
   columns: 2,
   table.header([Holz], [Eigenschaft]),
@@ -592,7 +592,7 @@ Werte (W24/W28): _1 Ster ≈ 300–350 kg_ — das ist der konservative Wert f�
   [Buche/Eiche], [lange Glut, hart],
   [Birke], [zündet auch feucht; Rinde als Zunder],
   [Nadelholz], [Funkenflug — nie offenes Feuer ohne Schutz; zum Räuchern verboten (siehe Konzept B7-4.2)],
-  [Trockenheit], [\~1 Jahr je Daumendicke (W28, siehe Konzept B9-3.2)],
+  [Trockenheit], [\~1 Jahr je Daumendicke (siehe Konzept B9-3.2)],
 )
 - [ ] Hartholz für Glut, Weichholz zum Anzünden
 - [ ] Trockenzeiten beachtet
@@ -602,7 +602,7 @@ _Querverweise:_ siehe Konzept 7.1, siehe Konzept B9-3.2, siehe Konzept B7-4.2.
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [300–350 kg], [Werte (W24/W28): _1 Ster ≈ 300–350 kg_ — das ist der konserva],
+  [300–350 kg], [Werte : _1 Ster ≈ 300–350 kg_ — das ist der konserva],
   [400–500 kg], [ichte/Kiefer; _Buche/Eiche ≈ 400–500 kg pro Ster_. Rechne konse],
   [25–35 kg], [00–350 kg. Winter-Feuer-Tag _25–35 kg_; 2–3 kg Hartholz pro F],
   [2–3 kg], [inter-Feuer-Tag _25–35 kg_; 2–3 kg Hartholz pro Feuerstunde],
@@ -633,7 +633,7 @@ _Querverweise:_ siehe Konzept 7.1, siehe Konzept B9-3.2, siehe Konzept B7-4.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W24, W28],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -800,7 +800,7 @@ _Querverweise:_ siehe Konzept B1-3.2, siehe Konzept 3.2 (Zundermulm), siehe Konz
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -923,7 +923,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 3.2 Feuerstahl & Zundermulm <k-3-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 3.4]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-4.svg", width: 100%), caption: [Abb. 3.4 — Abb. 3.4: Feuerstahl & Zundermulm: Funkenstrahl ins Nest – Nest vorher am Körper wärmen (Konzept 3.2).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-4.svg", width: 100%), caption: [Abb. 3.4 — Feuerstahl & Zundermulm: Funkenstrahl ins Nest – Nest vorher am Körper wärmen (Konzept 3.2).])]]
 + _Zundernest am Körper wärmen_ (Tasche) — kalter Zunder nimmt keine Funken.
 + Feuerstahl mit der scharfen Kante Funken in den Zunder schlagen, Richtung nach unten.
 + Nest zur Glut blasen (siehe Konzept 4.1).
@@ -965,7 +965,7 @@ _Querverweise:_ siehe Konzept 4.1, siehe Konzept 3.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1084,7 +1084,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 3.3 Reibfeuer <k-3-3>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb (Übungstechnik, P = 5)_ · P 5 · M unbedenklich · V 6 · Abb. 3.5]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-5.svg", width: 100%), caption: [Abb. 3.5 — Abb. 3.5: Reibfeuer (Bogenbohrer): Übungstechnik (P = 5), kein Alltagsplan (Konzept 3.3).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-5.svg", width: 100%), caption: [Abb. 3.5 — Reibfeuer (Bogenbohrer): Übungstechnik (P = 5), kein Alltagsplan (Konzept 3.3).])]]
 Reibfeuer ist eine _Übungstechnik, kein Alltagsplan_. V = 6 → Übungspflicht (siehe Konzept B1-8.2).
 + Bohrbrett mit Kerbe, Spindel aus trockenem Hartholz.
 + Rhythmisch bohren, bis Glutstaub in der Kerbe entsteht.
@@ -1130,7 +1130,7 @@ _Querverweise:_ siehe Konzept 3.1, siehe Konzept 3.2, siehe Konzept B1-8.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1254,7 +1254,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 3.4 Sonnenzündung <k-3-4>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb (Notbehelf, P = 4)_ · P 4 · M unbedenklich · V 8 · Abb. 3.6]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-6.svg", width: 100%), caption: [Abb. 3.6 — Abb. 3.6: Sonnenzündung mit Linse: Brennpunkt auf Zunder – Linse danach abdecken (Konzept 3.4, P = 4 Notbehelf).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-6.svg", width: 100%), caption: [Abb. 3.6 — Sonnenzündung mit Linse: Brennpunkt auf Zunder – Linse danach abdecken (Konzept 3.4, P = 4 Notbehelf).])]]
 + Linse oder poliertes Metall als Brennpunkt nutzen.
 + Zunder direkt im Brennpunkt halten, bewegen bis Glut.
 + _Linsen-Abdeckung Pflicht:_ Abgedeckte Linse nie in Sonne legen — Brandgefahr (siehe Konzept 9.1).
@@ -1297,7 +1297,7 @@ _Querverweise:_ siehe Konzept 3.2, siehe Konzept 9.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1459,7 +1459,7 @@ _Querverweise:_ siehe Konzept 9.3, siehe Konzept B10-1.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1591,7 +1591,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 4.1 Zunderkette <k-4-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 3.7]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-7.svg", width: 100%), caption: [Abb. 3.7 — Abb. 3.7: Zunderkette: Zunder → Faschholz → Scheit – das Feuer wächst mit (Konzept 4.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-7.svg", width: 100%), caption: [Abb. 3.7 — Zunderkette: Zunder → Faschholz → Scheit – das Feuer wächst mit (Konzept 4.1).])]]
 _Zunder → Faschholz → Scheit._ Nie Scheit direkt an die Flamme.
 + Zunder (Birkenrinde, trockenes Gras, Rohrkolbenflaum) zur Glut bringen.
 + Faschholz (dünne Späne) darauf, bis es brennt.
@@ -1633,7 +1633,7 @@ _Querverweise:_ siehe Konzept 4.2, siehe Konzept 3.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1753,7 +1753,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 4.2 Feuerbauten <k-4-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 3.8]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-8.svg", width: 100%), caption: [Abb. 3.8 — Abb. 3.8: Feuerbauten: Pyramide (schnell heiß), Stern (sparsam), Plattform (Dauerregen) (Konzept 4.2).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-8.svg", width: 100%), caption: [Abb. 3.8 — Feuerbauten: Pyramide (schnell heiß), Stern (sparsam), Plattform (Dauerregen) (Konzept 4.2).])]]
 #table(
   columns: 3,
   table.header([Bau], [Einsatz], [Verbrauch]),
@@ -1790,7 +1790,7 @@ _Querverweise:_ siehe Konzept 4.3, siehe Konzept 5.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1939,7 +1939,7 @@ _Querverweise:_ siehe Konzept 4.2, siehe Konzept 3.2, siehe Konzept B4-6.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2068,7 +2068,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 5.1 Kochfeuer & Glut <k-5-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 3.9]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-9.svg", width: 100%), caption: [Abb. 3.9 — Abb. 3.9: Kochfeuer: Topf auf der Glut, nicht in der Flamme – Deckel spart Brennstoff (Konzept 5.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-9.svg", width: 100%), caption: [Abb. 3.9 — Kochfeuer: Topf auf der Glut, nicht in der Flamme – Deckel spart Brennstoff (Konzept 5.1).])]]
 + Glut statt Flamme zum Kochen — gleichmäßige Hitze, weniger Brennstoff.
 + Topf auf Steine über der Glut stellen; Windschutz (siehe Konzept 5.2).
 + Wasser erst aufbereiten (siehe Konzept B2-6.2), dann kochen.
@@ -2110,7 +2110,7 @@ _Querverweise:_ siehe Konzept B2-6.2, siehe Konzept 5.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2229,7 +2229,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 5.2 Reflektor & Nacht <k-5-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 3.10]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-10.svg", width: 100%), caption: [Abb. 3.10 — Abb. 3.10: Reflektor & Nacht: Wärmeplatte hinter dem Feuer wirft die Hitze zum Sitzplatz (Konzept 5.2).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-10.svg", width: 100%), caption: [Abb. 3.10 — Reflektor & Nacht: Wärmeplatte hinter dem Feuer wirft die Hitze zum Sitzplatz (Konzept 5.2).])]]
 + Reflektor (Alufolie, poliertes Blech) hinter dem Feuer: Wärme in den Schlafbereich.
 + _Wache + Glut-Disziplin über Nacht_ — siehe Konzept 9.3.
 + _Nichts Glimmendes über Nacht im Schlafraum_ — siehe Konzept 6.3 (`warn-3`).
@@ -2272,7 +2272,7 @@ _Querverweise:_ siehe Konzept 9.3, siehe Konzept 6.3 (`warn-3`).
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2402,7 +2402,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 6.1 Wärmepaket (Schichten) <k-6-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 3.11]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-11.svg", width: 100%), caption: [Abb. 3.11 — Abb. 3.11: Wärmepaket (Schichtenprinzip): innen trocken – außen winddicht, Feuchte nach außen (Konzept 6.1, konsistent B4 2.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-11.svg", width: 100%), caption: [Abb. 3.11 — Wärmepaket (Schichtenprinzip): innen trocken – außen winddicht, Feuchte nach außen (Konzept 6.1, konsistent B4 2.1).])]]
 Konsistent mit Konzept B4-2.1: Schichtenprinzip — innen trocken, Mitte isolierend (Wolle, Daune, trockenes Gras), außen wetterfest.
 + Innenschicht: trocken halten.
 + Isolationsschicht: so dick wie möglich.
@@ -2445,7 +2445,7 @@ _Querverweise:_ siehe Konzept B4-2.1, siehe Konzept B4-6.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2564,7 +2564,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 6.2 Heiße Steine <k-6-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 9 · Abb. 3.12]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-12.svg", width: 100%), caption: [Abb. 3.12 — Abb. 3.12: Heiße Steine: dichte Steine in der Glut erhitzen, einwickeln, mit in den Schlafsack (Konzept 6.2).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-12.svg", width: 100%), caption: [Abb. 3.12 — Heiße Steine: dichte Steine in der Glut erhitzen, einwickeln, mit in den Schlafsack (Konzept 6.2).])]]
 + Dichte, trockene Steine (Granit, Basalt) im Feuer erhitzen.
 + Heiße Steine mit Zange/Stöcken in den Schlafbereich tragen, in Tuch gewickelt.
 + _Nie nasse Steine in die Flamme_ — sie platzen (WARN, siehe Konzept B9-3.1 zur Steinbruchgefahr allgemein).
@@ -2607,7 +2607,7 @@ _Querverweise:_ siehe Konzept B9-3.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2727,8 +2727,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 6.3 Ofenlose Not-Heizung <k-6-3>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb + WARNRAHMEN [warn-3]_ · P 6 · M unbedenklich · V 8 · Abb. 3.13]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-13.svg", width: 100%), caption: [Abb. 3.13 — Abb. 3.13: Ofenlose Not-Heizung: keine Verbrennung in geschlossenen Räumen – CO ist geruchlos und tödlich (Konzept 6.3, W14, warn-3).])]]
-#warnrahmen(id: "warn-3", title: [KOHLENMONOXID (CO), geruchlos, tödlich (W14, 09 Nr. 2, verschärft):])[_Keine Verbrennung in geschlossenen oder teilgeschlossenen Räumen_ — ein Zelt ist ein geschlossener Raum. Gilt für: Kohlegrill, Benzinkocher, Generator, Motorsäge, Auto. _Nie über Nacht im Schlafraum betreiben._ Zug prüfen (Kerzenflamme muss stehen). Kopfschmerz/Schwindel/Übelkeit bei _mehreren Personen gleichzeitig = Alarm_: sofort lüften, alle raus, Sperrung bis Zug geprüft. CO-Melder (Batterie) wenn vorhanden.]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-13.svg", width: 100%), caption: [Abb. 3.13 — Ofenlose Not-Heizung: keine Verbrennung in geschlossenen Räumen – CO ist geruchlos und tödlich (Konzept 6.3, , warn-3).])]]
+#warnrahmen(id: "warn-3", title: [KOHLENMONOXID (CO), geruchlos, tödlich (09 Nr. 2, verschärft):])[_Keine Verbrennung in geschlossenen oder teilgeschlossenen Räumen_ — ein Zelt ist ein geschlossener Raum. Gilt für: Kohlegrill, Benzinkocher, Generator, Motorsäge, Auto. _Nie über Nacht im Schlafraum betreiben._ Zug prüfen (Kerzenflamme muss stehen). Kopfschmerz/Schwindel/Übelkeit bei _mehreren Personen gleichzeitig = Alarm_: sofort lüften, alle raus, Sperrung bis Zug geprüft. CO-Melder (Batterie) wenn vorhanden.]
 + Behelfsheizung (Terrakotta-Topf über Kerze, Steinöfchen) nur im Freien oder am offenen Eingang mit Durchzug.
 + Brennstoff nur so viel wie nötig; nie zum Schlafen anlassen.
 + Symptome kennen: Kopfschmerz, Schwindel, Übelkeit, Benommenheit.
@@ -2776,7 +2776,7 @@ _Querverweise:_ siehe Konzept B4-6.3, Lüftung — Querverweis CO, siehe Konzept
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W14],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2916,8 +2916,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 7.1 Holzvorrat & Stock-Rechnung <k-7-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 3.14]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-14.svg", width: 100%), caption: [Abb. 3.14 — Abb. 3.14: Holzvorrat & Stock-Rechnung: 1 Ster ≈ 300–350 kg – Winter-Tag 25–35 kg (Konzept 7.1, W24).])]]
-Werte (W24): 1 Ster ≈ 300–350 kg; Winter-Tag 25–35 kg.
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-14.svg", width: 100%), caption: [Abb. 3.14 — Holzvorrat & Stock-Rechnung: 1 Ster ≈ 300–350 kg – Winter-Tag 25–35 kg (Konzept 7.1).])]]
+Werte : 1 Ster ≈ 300–350 kg; Winter-Tag 25–35 kg.
 + Vorrat = Tage × 25–35 kg (konservativ 35 kg).
 + 1 Ster = 1 m³ geschichtet; trocken lagern (siehe Konzept B9-3.2).
 + Anzündholz separat trocken lagern (siehe Konzept 3.1).
@@ -2938,7 +2938,7 @@ _Querverweise:_ siehe Konzept 2.2, siehe Konzept B9-3.2.
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [300–350 kg], [Werte (W24): 1 Ster ≈ 300–350 kg; Winter-Tag 25–35 kg.],
+  [300–350 kg], [Werte : 1 Ster ≈ 300–350 kg; Winter-Tag 25–35 kg.],
   [25–35 kg], [Ster ≈ 300–350 kg; Winter-Tag 25–35 kg.],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
@@ -2967,7 +2967,7 @@ _Querverweise:_ siehe Konzept 2.2, siehe Konzept B9-3.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W24],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3117,7 +3117,7 @@ _Querverweise:_ siehe Konzept B10-5.2, siehe Konzept B7-4.2, Torf nur gemischt b
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3240,7 +3240,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 8.1 Holzkohle-Meiler <k-8-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 8 · Abb. 3.15]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-15.svg", width: 100%), caption: [Abb. 3.15 — Abb. 3.15: Holzkohle-Meiler: Rauchfarbe ist die Uhr – weiß → grau → bläulich = fertig (Konzept 8.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-15.svg", width: 100%), caption: [Abb. 3.15 — Holzkohle-Meiler: Rauchfarbe ist die Uhr – weiß → grau → bläulich = fertig (Konzept 8.1).])]]
 + Grube 1 m Durchmesser, 50 cm tief; luftarme Abdeckung (Blech, feuchte Erde).
 + _Rauchfarben als Uhr:_ dichter weißer Rauch = Anfang; bläulicher Rauch = Ende — abdecken, ausglühen lassen.
 + Ausbeute: \~ 20–30 % des Holzvolumens.
@@ -3282,7 +3282,7 @@ _Querverweise:_ siehe Konzept B7-7.2, Holzkohle-Anwendung.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3401,7 +3401,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 8.2 Asche-Ordnung <k-8-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 3.16]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-16.svg", width: 100%), caption: [Abb. 3.16 — Abb. 3.16: Asche-Ordnung: 24 h ruhen lassen, dann Lauge – 2 Hände Asche auf 10 l Wasser (Konzept 8.2).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-16.svg", width: 100%), caption: [Abb. 3.16 — Asche-Ordnung: 24 h ruhen lassen, dann Lauge – 2 Hände Asche auf 10 l Wasser (Konzept 8.2).])]]
 + Asche _24 h auskühlen lassen_ vor der Entsorgung/Lagerung.
 + Lauge: _2 Hände Asche auf 10 l Wasser_ — Waschlauge (siehe Konzept B4-9.2 Grauwasser: Lauge nie an Haut/Wunden).
 + Torf-/Salzasche getrennt sammeln.
@@ -3444,7 +3444,7 @@ _Querverweise:_ siehe Konzept B2-9.2, siehe Konzept B7-7.2, Seife aus Asche/Laug
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3575,7 +3575,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 9.1 Brandbekämpfung (60-Sekunden-Regel) <k-9-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 3.17]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-17.svg", width: 100%), caption: [Abb. 3.17 — Abb. 3.17: Brandbekämpfung – 60-Sekunden-Regel: klein entdecken, klein löschen (Konzept 9.1, konsistent B1 2.1 STOPP).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-17.svg", width: 100%), caption: [Abb. 3.17 — Brandbekämpfung – 60-Sekunden-Regel: klein entdecken, klein löschen (Konzept 9.1, konsistent B1 2.1 STOPP).])]]
 Konsistent mit Konzept B1-2.1, STOPP.
 + _Innerhalb 60 Sekunden_ löschen oder Lage sichern — sonst Rückzug.
 + Wasser, Sand, Erde, nasse Decke — nie brennendes Fett mit Wasser (siehe Konzept B9-7.3: nie Öl in Wassereimer, Dampfexplosion).
@@ -3619,7 +3619,7 @@ _Querverweise:_ siehe Konzept B1-2.1, siehe Konzept 1.2, siehe Konzept B10-7.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3739,7 +3739,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 9.2 Signalfeuer (3 Feuer = Notzeichen) <k-9-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 9 · Abb. 3.18]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-18.svg", width: 100%), caption: [Abb. 3.18 — Abb. 3.18: Signalfeuer: drei Feuer im Dreieck = internationales Notzeichen (Konzept 9.2).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-18.svg", width: 100%), caption: [Abb. 3.18 — Signalfeuer: drei Feuer im Dreieck = internationales Notzeichen (Konzept 9.2).])]]
 Drei Feuer in Dreiecksanordnung = internationales Notzeichen (siehe Konzept B1-5.1). Nie als Dauerzustand — Brennstoff (siehe Konzept 7.1) und Brandgefahr (siehe Konzept 9.1).
 - [ ] Dreieck-Anordnung
 - [ ] Brennstoffvorrat für Signalfeuer eingeplant
@@ -3770,7 +3770,7 @@ _Querverweise:_ siehe Konzept B1-5.1, siehe Konzept 7.1, siehe Konzept 9.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3920,7 +3920,7 @@ _Querverweise:_ siehe Konzept B1-2.3, siehe Konzept 9.1, siehe Konzept 1.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -4161,7 +4161,7 @@ Alle Konzepte dieses Bandes im Überblick — abhaken, wenn geübt/gelesen:
   columns: 2,
   table.header([*Warngrafik*], [*Thema*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [warn-3], [KOHLENMONOXID CO GERUCHLOS TÖDLICH W14 0],
+  [warn-3], [KOHLENMONOXID CO GERUCHLOS TÖDLICH 09 NR],
 )
 #pagebreak(weak: true)
 == Querverweis-Register Band 3 <querverweis-register>
@@ -4201,6 +4201,18 @@ Alle Verweise aus diesem Band auf andere Bände (Schema B\<Band\>-X.Y):
   [9.1], [B10-7.1],
   [9.2], [B1-5.1],
   [9.3], [B1-2.3],
+)
+#pagebreak(weak: true)
+== Prüfprotokoll (interne Quellen-IDs) <pruefprotokoll>
+Interne Prüf-IDs aus dem Factcheck (dreifache Prüfung). Sie stehen nicht im Lesetext, sondern hier im Protokoll.
+#table(
+  columns: 3,
+  table.header([*ID*], [*Konzept*], [*Fundstelle (Kontext)*]),
+  table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [W24], [2.2], [Werte : _1 Ster ≈ 300–350 kg_ — das ist der],
+  [W28], [2.2], [Werte : _1 Ster ≈ 300–350 kg_ — das ist der kons],
+  [W14], [6.3], [3) — KOHLENMONOXID (CO), geruchlos, tödlich (09 Nr. 2, verschärft):_ _Keine Verbrennun],
+  [W24], [7.1], [Werte : 1 Ster ≈ 300–350 kg; Winter-Tag 25–35 kg.],
 )
 
 #pagebreak(weak: true)

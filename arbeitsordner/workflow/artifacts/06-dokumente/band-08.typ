@@ -90,7 +90,7 @@ _Querverweise:_ siehe Konzept 1.2, siehe Konzept 1.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -203,7 +203,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 1.2 Sanitäts-Kette <k-1-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 8.1]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-1.svg", width: 100%), caption: [Abb. 8.1 — Abb. 8.1: Sanitäts-Kette: Ruhe – Blick – Frage – Hand – Blatt (Konzept 1.2).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-1.svg", width: 100%), caption: [Abb. 8.1 — Sanitäts-Kette: Ruhe – Blick – Frage – Hand – Blatt (Konzept 1.2).])]]
 _Ruhe — Blick — Frage — Hand — Blatt:_
 + _Ruhe_ herstellen (siehe Konzept B1-2.1, STOPP).
 + _Blick:_ Gesamteindruck, Bewusstsein, Atmung (siehe Konzept 4.3).
@@ -252,7 +252,7 @@ _Querverweise:_ siehe Konzept 1.1, siehe Konzept 1.3, siehe Konzept B1-2.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -410,7 +410,7 @@ _Querverweise:_ siehe Konzept B1-5.2, siehe Konzept B10-1.3, Helfer-Netz im Dorf
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -531,7 +531,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 2.1 Blutung stillen (Druckverband 15 min) <k-2-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 8.2]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-2.svg", width: 100%), caption: [Abb. 8.2 — Abb. 8.2: Blutung stillen: Druckverband 15 Minuten – fest, hochlagern, nicht nachsehen (Konzept 2.1, ERC-konsistent).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-2.svg", width: 100%), caption: [Abb. 8.2 — Blutung stillen: Druckverband 15 Minuten – fest, hochlagern, nicht nachsehen (Konzept 2.1, ERC-konsistent).])]]
 ERC-konsistent:
 + Druck direkt auf die Wunde (Handschuh/Tuch).
 + _Druckverband 15 min_ ohne nachzusehen.
@@ -558,7 +558,7 @@ _Querverweise:_ siehe Konzept 2.2, siehe Konzept B4-2.1.
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [15 min], [[ ] 15 min Druckverband],
+  [15 min], [( ) 15 min Druckverband],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -586,7 +586,7 @@ _Querverweise:_ siehe Konzept 2.2, siehe Konzept B4-2.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -712,8 +712,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 2.2 Wunde reinigen & schließen <k-2-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün + _WARNRAHMEN [warn-8a]_ · P 8 · M unbedenklich · V 8 · Abb. 8.3]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-3.svg", width: 100%), caption: [Abb. 8.3 — Abb. 8.3: Wunde reinigen & schließen: spülen, Fremdkörper raus, offen halten – Tetanus-Booster-Regeln (Konzept 2.2, warn-8a, W12).])]]
-#warnrahmen(id: "warn-8a", title: [TETANUS (W12, 09 Nr. 3, verschärft):])[_Risikowunden_ = verschmutzt, tief, Stich, Biss, Quetschung, Verbrennung, Erfrierung, nekrotisches Gewebe. Maßnahmen: _ausgiebig mit sauberem (gesottenem) Wasser spülen_ (siehe Konzept B2-6.2), Fremdkörper entfernen, _offen halten_ — nicht luftdicht verschließen. _Booster-Regeln (STIKO):_ letzte Td-Auffrischung \> 10 Jahre oder unklar → Booster; bei Risikowunde und letzter Impfung \> 5 Jahre → Booster; bei unvollständigem Impfschutz postexpositionell _Tetanus-Immunglobulin (TIG), ärztlich_. Impfstoff ist _kühlkettenpflichtig 2–8 °C_ — ohne Kühlung nach Tagen nicht mehr verlässlich. _Kühlkette 2–8 °C ohne Strom:_ kühlsten Ort nutzen — Erdkeller/Tiefe \> 1,5 m (Land, 4–10 °C), kühler Treppenhaus-Keller oder Abstellraum (Stadt), Brunnenschacht (Land); im Winter Außentemperatur \< 8 °C mit isolierter Box (Styropor/Kiste + Decken); Verdunstungskühlung (feuchtes Tuch um den Behälter, Schatten, Luftzug) senkt um 5–10 °C unter Umgebungstemperatur — für Impfstoff nur als Übergang. Tägliche Temperatur mit Thermometer prüfen (siehe 8.1), Verfallsdatum notieren.]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-3.svg", width: 100%), caption: [Abb. 8.3 — Wunde reinigen & schließen: spülen, Fremdkörper raus, offen halten – Tetanus-Booster-Regeln (Konzept 2.2, warn-8a).])]]
+#warnrahmen(id: "warn-8a", title: [TETANUS (09 Nr. 3, verschärft):])[_Risikowunden_ = verschmutzt, tief, Stich, Biss, Quetschung, Verbrennung, Erfrierung, nekrotisches Gewebe. Maßnahmen: _ausgiebig mit sauberem (gesottenem) Wasser spülen_ (siehe Konzept B2-6.2), Fremdkörper entfernen, _offen halten_ — nicht luftdicht verschließen. _Booster-Regeln (STIKO):_ letzte Td-Auffrischung \> 10 Jahre oder unklar → Booster; bei Risikowunde und letzter Impfung \> 5 Jahre → Booster; bei unvollständigem Impfschutz postexpositionell _Tetanus-Immunglobulin (TIG), ärztlich_. Impfstoff ist _kühlkettenpflichtig 2–8 °C_ — ohne Kühlung nach Tagen nicht mehr verlässlich. _Kühlkette 2–8 °C ohne Strom:_ kühlsten Ort nutzen — Erdkeller/Tiefe \> 1,5 m (Land, 4–10 °C), kühler Treppenhaus-Keller oder Abstellraum (Stadt), Brunnenschacht (Land); im Winter Außentemperatur \< 8 °C mit isolierter Box (Styropor/Kiste + Decken); Verdunstungskühlung (feuchtes Tuch um den Behälter, Schatten, Luftzug) senkt um 5–10 °C unter Umgebungstemperatur — für Impfstoff nur als Übergang. Tägliche Temperatur mit Thermometer prüfen (siehe 8.1), Verfallsdatum notieren.]
 + Wunde mit _gesottenem Wasser_ spülen (siehe Konzept B2-6.2).
 + Fremdkörper mit sauberer Pinzette entfernen.
 + Risikowunde: offen lassen, lockerer Verband.
@@ -771,7 +771,7 @@ _Querverweise:_ siehe Konzept B2-6.2, siehe Konzept 2.3, siehe Konzept B6-6.1, `
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W12],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -900,7 +900,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 2.3 Die heilende Wunde <k-2-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 8.4]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-4.svg", width: 100%), caption: [Abb. 8.4 — Abb. 8.4: Die heilende Wunde: fünf Eiter-Zeichen erkennen – dann handeln (Konzept 2.3).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-4.svg", width: 100%), caption: [Abb. 8.4 — Die heilende Wunde: fünf Eiter-Zeichen erkennen – dann handeln (Konzept 2.3).])]]
 _Fünf Eiter-Zeichen_ (ärztliche Vorstellung): zunehmende Rötung, Schwellung, Schmerz, Wärme, Eiterabsonderung.
 #kasten([Naht-Regel (09 § 4.4):])[Naht nur bei _sauberer Schnittwunde \< 6–12 h_ durch erfahrene Person; sonst _offen sekundär heilen lassen_.]
 - [ ] Fünf Zeichen beobachtet
@@ -939,7 +939,7 @@ _Querverweise:_ siehe Konzept 2.2 (`warn-8a`).
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1063,7 +1063,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 #pagebreak(weak: true)
 === 3.1 Kräuter-Lese <k-3-1>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb_ · P 7 · M prüfenswert · V 7]
-_Zwei Zeugen je Pflanze_ (W15): eine zweite Person bestätigt die Bestimmung (siehe Konzept B5-2.2, `warn-5`).
+_Zwei Zeugen je Pflanze_ : eine zweite Person bestätigt die Bestimmung (siehe Konzept B5-2.2, `warn-5`).
 #kasten([Korrektur (09 § 4.4):])[_Beinwell nur äußerlich auf intakter Haut_ — siehe Konzept B5-6.1.]
 - [ ] Zwei Zeugen
 - [ ] Beinwell nur äußerlich
@@ -1094,7 +1094,7 @@ _Querverweise:_ siehe Konzept B5-2.2, `warn-5`, siehe Konzept B5-6.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W15],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1206,7 +1206,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 3.2 Aufgüsse / Absud / Kaltauszug <k-3-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 8.5]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-5.svg", width: 100%), caption: [Abb. 8.5 — Abb. 8.5: Kräuter-Zubereitungen: Aufguss 5–10 min, Absud 15 min, Kaltauszug 2–8 h – 1-Tag-Frist (Konzept 3.2).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-5.svg", width: 100%), caption: [Abb. 8.5 — Kräuter-Zubereitungen: Aufguss 5–10 min, Absud 15 min, Kaltauszug 2–8 h – 1-Tag-Frist (Konzept 3.2).])]]
 #table(
   columns: 3,
   table.header([Zubereitung], [Zeit], [Anwendung]),
@@ -1255,7 +1255,7 @@ _Querverweise:_ siehe Konzept B5-6.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1366,7 +1366,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 3.3 Tinkturen / Salben / Öle <k-3-3>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb_ · P 6 · M unbedenklich · V 7 · Abb. 8.6]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-6.svg", width: 100%), caption: [Abb. 8.6 — Abb. 8.6: Tinkturen, Salben, Öle: Öl-Auszug nur gesäuert (pH \< 4,6) oder vollständig getrocknet – Datum am Gefäß (Konzept 3.3, Botulismus-Verweis 09 §2.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-6.svg", width: 100%), caption: [Abb. 8.6 — Tinkturen, Salben, Öle: Öl-Auszug nur gesäuert (pH \< 4,6) oder vollständig getrocknet – Datum am Gefäß (Konzept 3.3, Botulismus-Verweis 09 §2.1).])]]
 #kasten([Botulismus-Falle (09 § 2.1):])[_Öl-Auszug nur gesäuert (pH \< 4,6, gemessen) oder vollständig getrocknet_ — siehe Konzept B7-6.2k, `warn-7b`. _Datum am Gefäß._]
 - [ ] Öl-Auszug nur gesäuert/getrocknet
 - [ ] Datum am Gefäß
@@ -1397,7 +1397,7 @@ _Querverweise:_ siehe Konzept B7-6.2k, `warn-7b`, siehe Konzept B5-6.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1507,7 +1507,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 #pagebreak(weak: true)
 === 3.4 Umschlag-Buch <k-3-4>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 8]
-Brei _lauwarm, nie heiß_ (Verbrühungsgrenze 55 °C, siehe Konzept B1-7.4, W22). Dampf-Umschlag mit Distanz (nicht direkt auf Haut).
+Brei _lauwarm, nie heiß_ (Verbrühungsgrenze 55 °C, siehe Konzept B1-7.4). Dampf-Umschlag mit Distanz (nicht direkt auf Haut).
 - [ ] Lauwarm, nie heiß
 _Querverweise:_ siehe Konzept B1-7.4, siehe Konzept 7.1.
 #subhead[Material & Maß (aus diesem Konzept)]
@@ -1515,7 +1515,7 @@ _Querverweise:_ siehe Konzept B1-7.4, siehe Konzept 7.1.
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [55 °C], [nie heiß\*\* (Verbrühungsgrenze 55 °C, siehe Konzept B1-7.4, W],
+  [55 °C], [nie heiß\*\* (Verbrühungsgrenze 55 °C, siehe Konzept B1-7.4).],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -1543,7 +1543,7 @@ _Querverweise:_ siehe Konzept B1-7.4, siehe Konzept 7.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W22],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1664,7 +1664,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 4.1 Fieber lesen <k-4-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 8.7]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-7.svg", width: 100%), caption: [Abb. 8.7 — Abb. 8.7: Fieber lesen: Anstieg – Höhe – Abfall; nie kalt gegen den Anstieg (Konzept 4.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-7.svg", width: 100%), caption: [Abb. 8.7 — Fieber lesen: Anstieg – Höhe – Abfall; nie kalt gegen den Anstieg (Konzept 4.1).])]]
 Verlauf beobachten: _Anstieg — Höhe — Abfall_. _Nie kalt gegen den Anstieg_ (Kälteschock).
 + Temperatur messen — _Fieberthermometer_ (in der Sanitätsmappe, siehe 8.1). _Ohne Thermometer:_ Fieber schätzen — Handrücken an Stirn und eigene Wange vergleichen (Fremdwahrnehmung), plus _Puls-Regel:_ Ruhepuls \> 100/min (zählen siehe B1-7.3) und Schüttelfrost = Fieber wahrscheinlich; Verlauf beobachten (Anstieg/Höhe/Abfall), nicht die Einzelzahl.
 + Fieber-Kurve führen (Anhang A Band 8).
@@ -1707,7 +1707,7 @@ _Querverweise:_ siehe Konzept 4.2, siehe Konzept B1-7.4.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1828,7 +1828,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 4.2 Wärme-Regie <k-4-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 8.8]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-8.svg", width: 100%), caption: [Abb. 8.8 — Abb. 8.8: Wärme-Regie: 2–4 l/Tag lauwarm + ORS-Rezept (Konzept 4.2).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-8.svg", width: 100%), caption: [Abb. 8.8 — Wärme-Regie: 2–4 l/Tag lauwarm + ORS-Rezept (Konzept 4.2).])]]
 _2–4 l/Tag lauwarm_ trinken (Wasserbedarf siehe Konzept B2-2.1).
 #kasten([ORS-Rezept (SME-Ergänzung, 09 § 4.4):])[_1 l abgekochtes Wasser + 6 gestrichene TL Zucker + ½ TL Salz_, schluckweise geben — bei Durchfall/Erbrechen.]
 - [ ] 2–4 l/Tag lauwarm
@@ -1868,7 +1868,7 @@ _Querverweise:_ siehe Konzept B2-2.1, siehe Konzept B2-6.2, abgekocht.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1979,8 +1979,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 4.3 Atem & Atem-Not <k-4-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 8.9]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-9.svg", width: 100%), caption: [Abb. 8.9 — Abb. 8.9: Atem & Atemnot: 12–20 Atemzüge/min normal – blaue Lippen = sofort handeln (Konzept 4.3, W23).])]]
-_12–20 Atemzüge/min_ (Erwachsene, W23). _Blaue Lippen = sofort handeln._
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-9.svg", width: 100%), caption: [Abb. 8.9 — Atem & Atemnot: 12–20 Atemzüge/min normal – blaue Lippen = sofort handeln (Konzept 4.3).])]]
+_12–20 Atemzüge/min_ (Erwachsene). _Blaue Lippen = sofort handeln._
 + Atemwege frei machen (Kopf überstrecken).
 + Fremdkörper entfernen.
 + Ruhe (siehe Konzept B1-2.1), frische Luft, Oberkörper hoch.
@@ -2025,7 +2025,7 @@ _Querverweise:_ siehe Konzept 1.2, siehe Konzept B3-6.3, CO-Verdacht `warn-3`.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W23],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2194,7 +2194,7 @@ _Querverweise:_ siehe Konzept B5-2.2, siehe Konzept B5-9.1, siehe Konzepte B6-8.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2303,7 +2303,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 5.2 Der vergiftete Leib <k-5-2>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb (Text präzisiert, 09 Nr. 11)_ · P 6 · M prüfenswert · V 7 · Abb. 8.10]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-10.svg", width: 100%), caption: [Abb. 8.10 — Abb. 8.10: Der vergiftete Leib: generell KEIN induziertes Erbrechen – Giftnotruf anrufen, Reste sichern (Konzept 5.2, 09 Nr. 11).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-10.svg", width: 100%), caption: [Abb. 8.10 — Der vergiftete Leib: generell KEIN induziertes Erbrechen – Giftnotruf anrufen, Reste sichern (Konzept 5.2, 09 Nr. 11).])]]
 #warnrahmen()[_Generell kein induziertes Erbrechen_ — auch nicht mit Salzwasser oder Finger. _Ausnahme nur nach telefonischer Rücksprache Giftnotruf: 116 123 (DE) / +353 1 809 2166 (IE) / 112 (EU)._ Aktivkohle nur nach Rücksprache mit dem Giftnotruf. _Reste sichern_ (Glas, Pflanze, Erbrochenes) für die Analyse.]
 + Giftnotruf wählen (Nummern oben).
 + Substanz, Menge, Zeitpunkt notieren.
@@ -2350,7 +2350,7 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept B5-2.2, siehe Konzept 4.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2506,7 +2506,7 @@ _Querverweise:_ siehe Konzept B4-6.1, siehe Konzept B1-9.2.
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [2–3 h], [[ ] Wache 2–3 h eingeteilt],
+  [2–3 h], [( ) Wache 2–3 h eingeteilt],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -2534,7 +2534,7 @@ _Querverweise:_ siehe Konzept B4-6.1, siehe Konzept B1-9.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2652,7 +2652,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 #pagebreak(weak: true)
 === 6.2 Wäsche & Schmutz <k-6-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9]
-Krankenwäsche _gesondert_ sammeln und _gesotten_ waschen (siehe Konzept B2-6.2). Ausscheidungen in Latrine (siehe Konzept B2-9.1, W7-Abstand).
+Krankenwäsche _gesondert_ sammeln und _gesotten_ waschen (siehe Konzept B2-6.2). Ausscheidungen in Latrine (siehe Konzept B2-9.1, -Abstand).
 _Querverweise:_ siehe Konzept B2-6.2, siehe Konzept B2-9.1.
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -2680,7 +2680,7 @@ _Querverweise:_ siehe Konzept B2-6.2, siehe Konzept B2-9.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W7],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2818,7 +2818,7 @@ _Querverweise:_ siehe Konzept B1-2.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2938,19 +2938,19 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 7.1 Brandwunde & Frostbeule <k-7-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 8.11]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-11.svg", width: 100%), caption: [Abb. 8.11 — Abb. 8.11: Brandwunde & Frostbeule: 10–20 min kühles fließendes Wasser – nie Fett, nie Eis (Konzept 7.1, W22: 55 °C-Grenze).])]]
-_10–20 min kühles fließendes Wasser_ (W22: ab 55 °C Verbrühung in Sekunden — siehe Konzept B1-7.4). _Nie Fett, nie Eis, nie Hausmittel_ auf frische Brandwunden. Blasen nicht aufstechen. Frostbeule: _langsam aufwärmen_ (lauwarmes Wasser), nie reiben, nie direkte Hitze.
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-11.svg", width: 100%), caption: [Abb. 8.11 — Brandwunde & Frostbeule: 10–20 min kühles fließendes Wasser – nie Fett, nie Eis (Konzept 7.1, 55 °C-Grenze).])]]
+_10–20 min kühles fließendes Wasser_ (ab 55 °C Verbrühung in Sekunden — siehe Konzept B1-7.4). _Nie Fett, nie Eis, nie Hausmittel_ auf frische Brandwunden. Blasen nicht aufstechen. Frostbeule: _langsam aufwärmen_ (lauwarmes Wasser), nie reiben, nie direkte Hitze.
 - [ ] 10–20 min kühles Wasser
 - [ ] Nie Fett/nie Eis
 #baustein[Kühlen ja, aber nie eisig. 55 °C verbrüht — alles darüber ist Feind.]
-_Querverweise:_ siehe Konzept B1-7.4, W22.
+_Querverweise:_ siehe Konzept B1-7.4,.
 #subhead[Material & Maß (aus diesem Konzept)]
 #table(
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [10–20 min], [\*\*10–20 min kühles fließendes Wasser],
-  [55 °C], [fließendes Wasser\*\* (W22: ab 55 °C Verbrühung in Sekunden —],
+  [55 °C], [ühles fließendes Wasser\*\* (ab 55 °C Verbrühung in Sekunden —],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -2978,7 +2978,7 @@ _Querverweise:_ siehe Konzept B1-7.4, W22.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W22],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3131,7 +3131,7 @@ _Querverweise:_ siehe Konzept 1.2, siehe Konzept B4-9.1, Behelfstrage.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3250,7 +3250,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 7.3 Schmerz-Küche <k-7-3>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb (SME: nicht \< 16 J)_ · P 6 · M unbedenklich · V 7 · Abb. 8.12]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-12.svg", width: 100%), caption: [Abb. 8.12 — Abb. 8.12: Schmerz-Küche: Weidenrinde (Salicyl) – nicht unter 16 Jahren (Reye-Syndrom) (Konzept 7.3, SME-Korrektur).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-12.svg", width: 100%), caption: [Abb. 8.12 — Schmerz-Küche: Weidenrinde (Salicyl) – nicht unter 16 Jahren (Reye-Syndrom) (Konzept 7.3, SME-Korrektur).])]]
 #kasten([SME-Korrektur (09 § 4.4):])[_Weidenrinde (Salicylate) nicht bei Kindern/Jugendlichen \< 16 Jahre_ — Reye-Syndrom (wie ASS). Dosierung beibehalten.]
 #table(
   columns: 3,
@@ -3296,7 +3296,7 @@ _Querverweise:_ siehe Konzept B5-6.1, Weidenrinde-Grenze konsistent.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3416,8 +3416,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 8.1 Sanitätsmappe (\< 3 kg) <k-8-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 8.13]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-13.svg", width: 100%), caption: [Abb. 8.13 — Abb. 8.13: Sanitätsmappe: \< 3 kg, Inventar geführt – Antibiotika nur bei klarer bakterieller Indikation, volle Kursdauer (Konzept 8.1, W20).])]]
-Konsistent mit Traglast (W20, siehe Konzept B1-6.5): _\< 3 kg_.
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-13.svg", width: 100%), caption: [Abb. 8.13 — Sanitätsmappe: \< 3 kg, Inventar geführt – Antibiotika nur bei klarer bakterieller Indikation, volle Kursdauer (Konzept 8.1).])]]
+Konsistent mit Traglast (siehe Konzept B1-6.5): _\< 3 kg_.
 #table(
   columns: 2,
   table.header([Inhalt], [Menge]),
@@ -3440,7 +3440,7 @@ _Querverweise:_ siehe Konzept B1-6.5, siehe Konzept 2.2 (`warn-8a`), siehe Konze
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [3 kg], [0, siehe Konzept B1-6.5): _\< 3 kg_.],
+  [3 kg], [t (siehe Konzept B1-6.5): _\< 3 kg_.],
   [2–8 °C], [mpfstoff (kühlkettenpflichtig 2–8 °C, siehe `warn-8a`; Kühlke],
   [71 °C], [r siehe 4.1, Kerntemperatur ≥ 71 °C siehe B6-9.1 und B7-3.2)],
   [16 J], [mittel (nicht-Salicylat für \< 16 J) | 1 Blister],
@@ -3471,7 +3471,7 @@ _Querverweise:_ siehe Konzept B1-6.5, siehe Konzept 2.2 (`warn-8a`), siehe Konze
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W20],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3631,7 +3631,7 @@ _Querverweise:_ siehe Konzept B10-9.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3787,7 +3787,7 @@ _Querverweise:_ siehe Konzept 1.2, siehe Konzept B2-9.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -4077,7 +4077,7 @@ Alle Konzepte dieses Bandes im Überblick — abhaken, wenn geübt/gelesen:
   columns: 2,
   table.header([*Warngrafik*], [*Thema*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [warn-8a], [TETANUS W12 09 NR 3 VERSCHÄRFT],
+  [warn-8a], [TETANUS 09 NR 3 VERSCHÄRFT],
 )
 #pagebreak(weak: true)
 == Querverweis-Register Band 8 <querverweis-register>
@@ -4128,6 +4128,21 @@ Alle Verweise aus diesem Band auf andere Bände (Schema B\<Band\>-X.Y):
   [9.1], [B10-9.1],
   [9.2], [B1-9.2],
   [9.2], [B2-9.1],
+)
+#pagebreak(weak: true)
+== Prüfprotokoll (interne Quellen-IDs) <pruefprotokoll>
+Interne Prüf-IDs aus dem Factcheck (dreifache Prüfung). Sie stehen nicht im Lesetext, sondern hier im Protokoll.
+#table(
+  columns: 3,
+  table.header([*ID*], [*Konzept*], [*Fundstelle (Kontext)*]),
+  table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [W12], [2.2], [\> _WARNRAHMEN (warn-8a) — TETANUS (09 Nr. 3, verschärft):_ _Risikowunden_ =],
+  [W15], [3.1], [_Zwei Zeugen je Pflanze_ : eine zweite Person bestätigt die Bestimmun],
+  [W22], [3.4], [rbrühungsgrenze 55 °C, siehe Konzept B1-7.4). Dampf-Umschlag mit Distanz (nicht direkt a],
+  [W23], [4.3], [_12–20 Atemzüge/min_ (Erwachsene). _Blaue Lippen = sofort handeln._],
+  [W7], [6.2], [cheidungen in Latrine (siehe Konzept B2-9.1, -Abstand).],
+  [W22], [7.1], [_10–20 min kühles fließendes Wasser_ (ab 55 °C Verbrühung in Sekunden — siehe Kon],
+  [W20], [8.1], [Konsistent mit Traglast (siehe Konzept B1-6.5): _\< 3 kg_.],
 )
 
 #pagebreak(weak: true)

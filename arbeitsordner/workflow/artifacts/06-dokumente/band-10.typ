@@ -90,7 +90,7 @@ _Querverweise:_ siehe Konzept 1.2, siehe Konzept 2.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -230,7 +230,7 @@ _Querverweise:_ siehe Konzept 2.3, siehe Anhang A.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -368,7 +368,7 @@ _Querverweise:_ siehe Konzept 5.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -489,7 +489,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 2.1 Der Wert <k-2-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 7 · Abb. 10.1]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-10-1.svg", width: 100%), caption: [Abb. 10.1 — Abb. 10.1: Der Wert: Korridor aus Stunde / Seltenheit / Not – alte Maße: Elle, Ruthe, Mandel = 15 = ein Zehnt (Konzept 2.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-10-1.svg", width: 100%), caption: [Abb. 10.1 — Der Wert: Korridor aus Stunde / Seltenheit / Not – alte Maße: Elle, Ruthe, Mandel = 15 = ein Zehnt (Konzept 2.1).])]]
 _Korridor: Stunde / Seltenheit / Not._ Elle, Ruthe und Mandel waren historische Hohlmaße (Elle ≈ 45 cm, siehe B1-7.1); „15/Zehnt“ heißt: 15 Teile Maß = ein Zehnt Aufschlag — historischer Vergleich, heute nicht mehr gebräuchlich.
 + Wert nach Arbeitszeit (Stunden-Tafel, siehe Konzept 3.2).
 + Seltenheit: was nicht verfügbar ist, steigt.
@@ -538,7 +538,7 @@ _Querverweise:_ siehe Konzept B1-7.1, siehe Konzept 2.2, siehe Konzept 2.4, sieh
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -658,7 +658,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 2.2 Ehrliche Waage <k-2-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 8 · Abb. 10.2]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-10-2.svg", width: 100%), caption: [Abb. 10.2 — Abb. 10.2: Ehrliche Waage: gestrichen messen, Bürger-Maß – wer betrügt, verliert das Vertrauen (Konzept 2.2).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-10-2.svg", width: 100%), caption: [Abb. 10.2 — Ehrliche Waage: gestrichen messen, Bürger-Maß – wer betrügt, verliert das Vertrauen (Konzept 2.2).])]]
 _Gestrichen messen_ (randvoll, nicht gehäuft); _Bürger-Maß_ (bekanntes Gefäß als Referenz). Waage balanciert prüfen.
 - [ ] Gestrichen gemessen
 - [ ] Referenzmaß geeicht
@@ -689,7 +689,7 @@ _Querverweise:_ siehe Konzept 2.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -829,7 +829,7 @@ _Querverweise:_ siehe Konzept B3-9.3, siehe Konzept B1-9.2, siehe Konzept 4.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -969,7 +969,7 @@ _Querverweise:_ siehe Konzept 2.1, siehe Konzept 1.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1120,7 +1120,7 @@ _Querverweise:_ siehe Konzept B7-2.2, siehe Konzept B7-6.2k, siehe Konzept B7-5.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1258,7 +1258,7 @@ _Querverweise:_ siehe Konzept 2.1, siehe Konzept B9-9.1, Weitergabe.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1379,7 +1379,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 4.1 Ämter des Dorfes <k-4-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 8 · Abb. 10.3]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-10-3.svg", width: 100%), caption: [Abb. 10.3 — Abb. 10.3: Ämter des Dorfes: das Amt geht an die Hand, nicht an das Blut – Rollen doppelt besetzt (Konzept 4.1, konsistent B1 9.2).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-10-3.svg", width: 100%), caption: [Abb. 10.3 — Ämter des Dorfes: das Amt geht an die Hand, nicht an das Blut – Rollen doppelt besetzt (Konzept 4.1, konsistent B1 9.2).])]]
 _Amt an die Hand, nicht an das Blut_ — Ämter rotieren, doppelt besetzt (siehe Konzept B1-9.2).
 _Stadt / Land:_ Land = Dorfgemeinschaft auf dem Land. _Stadt:_ dasselbe auf Nachbarschaft/Stockwerk — Rat der Nachbarn (siehe 4.2), Ämter rotieren pro Haushalt, Tauschplatz im Treppenhaus oder Hof (siehe 2.3), gemeinsamer Vorrat im kühlen Treppenhaus (siehe B7-8.1), Wachplan für das Haus (siehe B1-9.2).
 - [ ] Ämter vergeben und doppelt besetzt
@@ -1411,7 +1411,7 @@ _Querverweise:_ siehe Konzept B1-9.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1555,7 +1555,7 @@ _Querverweise:_ siehe Konzept 1.2, siehe Konzept 5.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1705,7 +1705,7 @@ _Querverweise:_ siehe Konzept B7-9.1, siehe Konzept 8.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1826,7 +1826,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 5.1 Weg-Kunde / Furt <k-5-1>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb + WARNRAHMEN [warn-10a]_ · P 7 · M prüfenswert · V 8 · Abb. 10.4]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-10-4.svg", width: 100%), caption: [Abb. 10.4 — Abb. 10.4: Furt: Stab an 3 Stellen prüfen – nie über Knie mit Last, nie im Dunkeln (Konzept 5.1, warn-10a).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-10-4.svg", width: 100%), caption: [Abb. 10.4 — Furt: Stab an 3 Stellen prüfen – nie über Knie mit Last, nie im Dunkeln (Konzept 5.1, warn-10a).])]]
 #warnrahmen(id: "warn-10a", title: [FURT:])[_Stab an 3 Stellen prüfen_ (Tiefe, Grund, Strömung), _nie über Kniehöhe mit Last_ durchwaten, _nie im Dunkeln_ (siehe Konzept B4-9.2, Restlicht-1-h). Umgehung suchen, wenn eine Stelle zweifelhaft ist.]
 - [ ] Stab-Prüfung an 3 Stellen
 - [ ] Nie über Knie mit Last
@@ -1859,7 +1859,7 @@ _Querverweise:_ siehe Konzept B4-9.2, siehe Konzept B2-2.3, Wasser lesen.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2017,7 +2017,7 @@ _Querverweise:_ siehe Konzept 4.2, siehe Konzept B4-8.1, siehe Konzept 1.1 (Gast
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2172,7 +2172,7 @@ _Querverweise:_ siehe Konzept B1-5.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2292,7 +2292,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 6.1 Feuerprobe (Ring der Reihe) <k-6-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 8 · Abb. 10.5]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-10-5.svg", width: 100%), caption: [Abb. 10.5 — Abb. 10.5: Feuerprobe des Kompendiums: der Ring der Reihe – Fragen zu jedem Band 1–9 (Konzept 6.1, konsistent B1 8.x).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-10-5.svg", width: 100%), caption: [Abb. 10.5 — Feuerprobe des Kompendiums: der Ring der Reihe – Fragen zu jedem Band 1–9 (Konzept 6.1, konsistent B1 8.x).])]]
 Die Feuerprobe prüft _alle Bände 1–9_ im Ring der Reihe (jedes Konzept wird abgefragt, siehe Anhang Feuerprobe). Konsistent mit Übungskultur (siehe Konzepte B1-8.1 und B1-8.2).
 + Jeder Band 1–9 wird mit seinem Fragenkatalog geprüft (Anhang Band 10).
 + Wer eine Frage nicht beantworten kann, übt nach (siehe Konzept B1-8.2, Verfalluhr 12 Monate).
@@ -2336,7 +2336,7 @@ _Querverweise:_ siehe Konzepte B1-8.1, B1-8.2, B1-9.1, Anhang Feuerprobe.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2485,7 +2485,7 @@ _Querverweise:_ siehe Konzept B9-9.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2605,7 +2605,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 7.1 Zeug-Haus <k-7-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün + _WARNRAHMEN [warn-10b]_ · P 9 · M unbedenklich · V 8 · Abb. 10.6]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-10-6.svg", width: 100%), caption: [Abb. 10.6 — Abb. 10.6: Zeughaus: kein offenes Licht, Ofen außen, Eimer am Eingang – Abstände wie B3 1.2 (Konzept 7.1, warn-10b).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-10-6.svg", width: 100%), caption: [Abb. 10.6 — Zeughaus: kein offenes Licht, Ofen außen, Eimer am Eingang – Abstände wie B3 1.2 (Konzept 7.1, warn-10b).])]]
 #warnrahmen(id: "warn-10b", title: [BRAND IM ZEUGHAUS:])[_Kein offenes Licht_ im Zeughaus (Lampe außen oder elektrisch nicht vorhanden — Kerze/Laterne nur am Eingang). _Ofen außen_, Eimer mit Wasser am Eingang (siehe Konzept B3-9.1). Abstände konsistent mit Konzept B3-1.2: 2–3 m frei, 4–6 m zu Unterkünften.]
 - [ ] Kein offenes Licht innen
 - [ ] Ofen außen
@@ -2646,7 +2646,7 @@ _Querverweise:_ siehe Konzept B3-1.2, siehe Konzept B3-9.1, siehe Konzept 5.2 (W
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2757,7 +2757,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 7.2 Abschreiben & Bewahren (vier Schichten) <k-7-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 9 · Abb. 10.7]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-10-7.svg", width: 100%), caption: [Abb. 10.7 — Abb. 10.7: Abschreiben & Bewahren: vier Schichten – Original, Abschrift, Siegel, Ort (Konzept 7.2).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-10-7.svg", width: 100%), caption: [Abb. 10.7 — Abschreiben & Bewahren: vier Schichten – Original, Abschrift, Siegel, Ort (Konzept 7.2).])]]
 Vier Schichten der Bewahrung: _1. geschriebene Kopie, 2. verlesene mündliche Überlieferung, 3. eingeübte Praxis (siehe Konzept B1-8.2), 4. Vermächtnis (siehe Konzept 9.1)_.
 - [ ] Vier Schichten vorhanden
 _Querverweise:_ siehe Konzept B1-8.2, siehe Konzept 9.1.
@@ -2787,7 +2787,7 @@ _Querverweise:_ siehe Konzept B1-8.2, siehe Konzept 9.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2907,7 +2907,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 8.1 Kalender des Dorfes <k-8-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 9 · Abb. 10.8]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-10-8.svg", width: 100%), caption: [Abb. 10.8 — Abb. 10.8: Kalender des Dorfes: 12 Monate – Feste, Rationen, Markt-Fristen, Übungstermine (Konzept 8.1, konsistent B1 8.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-10-8.svg", width: 100%), caption: [Abb. 10.8 — Kalender des Dorfes: 12 Monate – Feste, Rationen, Markt-Fristen, Übungstermine (Konzept 8.1, konsistent B1 8.1).])]]
 Konsistent mit Konzept B1-8.1, Jahres-Übungsplan und Konzept B5-9.2, Pflanzen-Kalender: Fest- und Arbeitstermine schriftlich (siehe Konzept B1-3.4, Papier statt Netz).
 _Querverweise:_ siehe Konzept B1-8.1, siehe Konzept B5-9.2.
 #subhead[Fehler & Folgen (siehe Anhang B)]
@@ -2936,7 +2936,7 @@ _Querverweise:_ siehe Konzept B1-8.1, siehe Konzept B5-9.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3072,7 +3072,7 @@ _Querverweise:_ siehe Konzept 9.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3217,7 +3217,7 @@ _Querverweise:_ siehe Konzept B7-9.1, siehe Konzept 4.2, siehe Konzept 4.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3377,7 +3377,7 @@ _Querverweise:_ siehe Konzept 7.2, siehe Konzept 8.2, siehe Konzept B9-9.2, Lehr
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3524,7 +3524,7 @@ _Querverweise:_ siehe Konzept 6.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3720,7 +3720,7 @@ Feuerprobe (6.1) halbjährlich über alle Bände 1–9; Tausch-Protokoll (1.2) �
 == Anhang Feuerprobe / Fragenkatalog (zu 6.1) — Ring der Reihe
 Pro Band Kernfragen (Stichprobe, erweiterbar):
 - _B1:_ Regel der Drei (3.1)? STOPP (2.1)? Traglast (6.5)? Verfalluhr (8.2)?
-- _B2:_ Abkochen 1 min / ab 2.000 m 3 min (6.2)? Latrine ≥ 30 m unterhalb (9.1, W7)? Chlor-Dosis, keine Kinder-Halbdosis (7.3, W5 + `warn-2`)?
+- _B2:_ Abkochen 1 min / ab 2.000 m 3 min (6.2)? Latrine ≥ 30 m unterhalb (9.1)? Chlor-Dosis, keine Kinder-Halbdosis (7.3, + `warn-2`)?
 - _B3:_ Feuer-Abstände 30 cm/2–3 m/4–6 m (1.2)? CO-Regel (6.3, `warn-3`)?
 - _B4:_ Lagerplatz-Regeln (1.2)? Bodenisolation unten zuerst (6.1)?
 - _B5:_ „Keine Mahlzeit ohne Namen + zweites Merkmal“ (2.2, `warn-5`)? Pilze nie roh (9.1, `warn-5b`)? Beinwell nur äußerlich (6.1)?
@@ -3831,6 +3831,16 @@ Alle Verweise aus diesem Band auf andere Bände (Schema B\<Band\>-X.Y):
   [8.1], [B1-3.4],
   [8.3], [B7-9.1],
   [9.1], [B9-9.2],
+)
+#pagebreak(weak: true)
+== Prüfprotokoll (interne Quellen-IDs) <pruefprotokoll>
+Interne Prüf-IDs aus dem Factcheck (dreifache Prüfung). Sie stehen nicht im Lesetext, sondern hier im Protokoll.
+#table(
+  columns: 3,
+  table.header([*ID*], [*Konzept*], [*Fundstelle (Kontext)*]),
+  table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [W7], [9.2], [3 min (6.2)? Latrine ≥ 30 m unterhalb (9.1)? Chlor-Dosis, keine Kinder-Halbdosis (7.3],
+  [W5], [9.2], [)? Chlor-Dosis, keine Kinder-Halbdosis (7.3, + `warn-2`)?],
 )
 
 #pagebreak(weak: true)

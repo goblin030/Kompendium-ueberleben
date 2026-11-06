@@ -92,7 +92,7 @@ _Querverweise:_ siehe Konzept 1.2, siehe Konzept 1.3, siehe Konzept 2.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -248,7 +248,7 @@ _Querverweise:_ siehe Konzept B10-5.2, siehe Konzept B10-5.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -384,7 +384,7 @@ _Querverweise:_ siehe Konzept 8.3.
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [10 %], [[ ] 10 % zurückgestreut],
+  [10 %], [( ) 10 % zurückgestreut],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -412,7 +412,7 @@ _Querverweise:_ siehe Konzept 8.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -540,7 +540,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 2.1 Merkmale & Familien (5 Merkmale) <k-2-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 5.1]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-1.svg", width: 100%), caption: [Abb. 5.1 — Abb. 5.1: Bestimmung: fünf Merkmale checken – Blatt, Blüte, Stängel, Wurzel, Standort & Geruch (Konzept 2.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-1.svg", width: 100%), caption: [Abb. 5.1 — Bestimmung: fünf Merkmale checken – Blatt, Blüte, Stängel, Wurzel, Standort & Geruch (Konzept 2.1).])]]
 Bestimme jede Pflanze über _fünf Merkmale_: Blattstellung, Blattform, Blattrand, Blütenstand, Geruch (beim Zerreiben).
 + Merkmale einzeln notieren (Bestimmungsblatt Anhang A).
 + Familie eingrenzen, dann Art.
@@ -584,7 +584,7 @@ _Querverweise:_ siehe Konzept 2.2, siehe Anhang A (Bestimmungsblatt).
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -705,8 +705,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 2.2 Verwechslungs-Paare & Giftpflanzen <k-2-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün + _WARNRAHMEN [warn-5]_ · P 9 · M unbedenklich · V 8 · Abb. 5.2]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-2.svg", width: 100%), caption: [Abb. 5.2 — Abb. 5.2: Verwechslungs-Paare: Bärlauch vs. Maiglöckchen/Aronstab, Wilde Karotte vs. Schierling – warn-5 (Konzept 2.2, W15).])]]
-#warnrahmen(id: "warn-5", title: [GIFTPFLANZEN (W15, 09 Nr. 4, verschärft):])[Tollkirsche, Schierling, Maiglöckchen, Aronstab, Fingerhut, Eisenhut, Hundspetersilie, Rhododendron — _kein Laien-Gegenmittel_. _Herbstzeitlose vs Bärlauch:_ Frühjahrsblätter täuschend ähnlich — Colchicin, tödlich; sicherstes Merkmal: _Knoblauchgeruch beim Zerreiben des Bärlauchs_. _Herkulesstaude (Riesenbärenklau):_ Saft + UV-Licht = phototoxische Verbrennungen 2. Grades — _nicht berühren_. Geschützte Arten sind kein Sammelgut (siehe Konzept 1.1). Giftnotruf: _116 123 (DE) / +353 1 809 2166 (IE) / 112 (EU)_; Reste sichern (siehe Konzept B8-5.2). _„Keine Mahlzeit ohne Namen + zweites Merkmal.“_]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-2.svg", width: 100%), caption: [Abb. 5.2 — Verwechslungs-Paare: Bärlauch vs. Maiglöckchen/Aronstab, Wilde Karotte vs. Schierling – warn-5 (Konzept 2.2).])]]
+#warnrahmen(id: "warn-5", title: [GIFTPFLANZEN (09 Nr. 4, verschärft):])[Tollkirsche, Schierling, Maiglöckchen, Aronstab, Fingerhut, Eisenhut, Hundspetersilie, Rhododendron — _kein Laien-Gegenmittel_. _Herbstzeitlose vs Bärlauch:_ Frühjahrsblätter täuschend ähnlich — Colchicin, tödlich; sicherstes Merkmal: _Knoblauchgeruch beim Zerreiben des Bärlauchs_. _Herkulesstaude (Riesenbärenklau):_ Saft + UV-Licht = phototoxische Verbrennungen 2. Grades — _nicht berühren_. Geschützte Arten sind kein Sammelgut (siehe Konzept 1.1). Giftnotruf: _116 123 (DE) / +353 1 809 2166 (IE) / 112 (EU)_; Reste sichern (siehe Konzept B8-5.2). _„Keine Mahlzeit ohne Namen + zweites Merkmal.“_]
 #table(
   columns: 3,
   table.header([Paar], [Merkmal des Doppelgängers], [Gefahr]),
@@ -748,7 +748,7 @@ _Querverweise:_ siehe Konzept B8-5.1, Gift erkennen, siehe Konzept B8-3.1, Kräu
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W15],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -901,7 +901,7 @@ _Querverweise:_ siehe Konzept B8-3.4, Umschlag-Buch.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1045,7 +1045,7 @@ _Querverweise:_ siehe Konzept 2.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1164,7 +1164,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 3.1 Das sichere Dutzend (12 Arten) <k-3-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 5.3]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-3.svg", width: 100%), caption: [Abb. 5.3 — Abb. 5.3: Das sichere Dutzend: 12 Arten, die ohne Spezialwerkzeug bestimmbar sind (Konzept 3.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-3.svg", width: 100%), caption: [Abb. 5.3 — Das sichere Dutzend: 12 Arten, die ohne Spezialwerkzeug bestimmbar sind (Konzept 3.1).])]]
 Zwölf Arten, die ohne Spezialwerkzeug bestimmbar sind und _keine geschützten Arten_ enthalten (Prüfung gegen BNatSchG Anlage 1, siehe Konzept 1.1): z. B. Brennnessel, Giersch, Löwenzahn, Wegerich, Schafgarbe, Gundermann, Vogelmiere, Ampfer (siehe 3.2), Bärlauch (nur mit Knoblauch-Merkmal, siehe 2.2), Holunder (Blüte), Huflattich, Hopfen (Triebe).
 + Jede Art mit Merkmal + Verwechslungsfalle (siehe Konzept 2.2) bestimmen.
 + Erst dann ernten.
@@ -1206,7 +1206,7 @@ _Querverweise:_ siehe Konzept 2.2, siehe Konzept 1.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1352,7 +1352,7 @@ _Querverweise:_ siehe Konzept 3.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1472,7 +1472,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 4.1 Grabstock-Kunde <k-4-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 5.4]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-4.svg", width: 100%), caption: [Abb. 5.4 — Abb. 5.4: Grabstock-Kunde: Drei-Stimmen-Regel, Hebel statt Reißen (Konzept 4.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-4.svg", width: 100%), caption: [Abb. 5.4 — Grabstock-Kunde: Drei-Stimmen-Regel, Hebel statt Reißen (Konzept 4.1).])]]
 _Drei-Stimmen-Regel:_ Wurzel nur ausgraben, wenn drei Merkmale stimmen (siehe Konzept 2.1). _Hebel statt Reißen_ — Grabstock als Hebel, nicht als Brechstange.
 + Pflanze bestimmen (siehe Konzept 2.1/2.2) — nie unbekannte Wurzeln graben.
 + Mit Hebel aushebeln, Wurzelstock prüfen.
@@ -1516,7 +1516,7 @@ _Querverweise:_ siehe Konzept 1.1, siehe Konzept 2.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1636,7 +1636,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 #pagebreak(weak: true)
 === 4.2 Strand & Watt <k-4-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 8]
-Strand-Knollen und Algen: _nur gekochte Knollen_ essen; _Algen-Gift-Regel (W17):_ nach Stürmen/Algenblüte Sperre — Muschel-/Algengifte hitzestabil (siehe Konzept B6-8.1, `warn-6`).
+Strand-Knollen und Algen: _nur gekochte Knollen_ essen; _Algen-Gift-Regel :_ nach Stürmen/Algenblüte Sperre — Muschel-/Algengifte hitzestabil (siehe Konzept B6-8.1, `warn-6`).
 - [ ] Knollen gekocht
 - [ ] Algen-Sperre beachtet
 _Querverweise:_ siehe Konzept B6-8.1, `warn-6`.
@@ -1666,7 +1666,7 @@ _Querverweise:_ siehe Konzept B6-8.1, `warn-6`.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W17],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1676,7 +1676,7 @@ _Querverweise:_ siehe Konzept B6-8.1, `warn-6`.
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [nur gekochte Knollen], [siehe Glossar, Anhang D Band 1],
-  [Algen-Gift-Regel (W17):], [siehe Glossar, Anhang D Band 1],
+  [Algen-Gift-Regel :], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -1816,7 +1816,7 @@ _Querverweise:_ siehe Konzept 2.2, siehe Konzept B7-6.1, Einkochen von Obst — 
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1926,7 +1926,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 5.2 Nüsse & Läuterung <k-5-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 8 · Abb. 5.5]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-5.svg", width: 100%), caption: [Abb. 5.5 — Abb. 5.5: Nüsse läutern: Eicheln/Kastanien – Schalen auf, Wasser 3–10 Tage wechseln (Konzept 5.2, Buchecker = Fagin).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-5.svg", width: 100%), caption: [Abb. 5.5 — Nüsse läutern: Eicheln/Kastanien – Schalen auf, Wasser 3–10 Tage wechseln (Konzept 5.2, Buchecker = Fagin).])]]
 Eicheln/Kastanien: _Läuterung mit Wasser über 3–10 Tage_ (Wechsel täglich), bis Bitterstoffe raus; _Bucheckern enthalten Fagin_ — immer läutern.
 + Nüsse sammeln, trocknen.
 + Schälen, mahlen.
@@ -1951,7 +1951,7 @@ _Querverweise:_ siehe Konzept 5.3.
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [3–10 T], [[ ] Läuterungszeit 3–10 T eingehalten],
+  [3–10 T], [( ) Läuterungszeit 3–10 T eingehalten],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -1979,7 +1979,7 @@ _Querverweise:_ siehe Konzept 5.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2132,7 +2132,7 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept 5.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2251,7 +2251,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 6.1 Die fünf Haus-Pflanzen <k-6-1>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb (SME)_ · P 7 · M unbedenklich · V 8 · Abb. 5.6]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-6.svg", width: 100%), caption: [Abb. 5.6 — Abb. 5.6: Fünf Haus-Pflanzen – mit Grenzen: Beinwell nur äußerlich auf intakter Haut, Weidenrinde nicht unter 16 J (Konzept 6.1, SME-Korrektur).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-6.svg", width: 100%), caption: [Abb. 5.6 — Fünf Haus-Pflanzen – mit Grenzen: Beinwell nur äußerlich auf intakter Haut, Weidenrinde nicht unter 16 J (Konzept 6.1, SME-Korrektur).])]]
 Wegerich, Nessel, Kamille, Beinwell, Weidenrinde — mit Grenzen:
 #kasten([SME-Korrektur (09 § 4.1):])[_Beinwell nur äußerlich auf intakter Haut_ — innerlich obsolet (Pyrrolizidinalkaloide, hepatotoxisch, EMA/HMPC). _Weidenrinde nicht bei Kindern/Jugendlichen \< 16 J_ (Reye-Syndrom, siehe Konzept B8-7.3).]
 #table(
@@ -2301,7 +2301,7 @@ _Querverweise:_ siehe Konzept B8-3.1, siehe Konzept B8-7.3, siehe Konzept 6.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2445,7 +2445,7 @@ _Querverweise:_ siehe Konzept B7-6.2k, `warn-7b`, siehe Konzepte B8-3.2 und B8-3
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2567,7 +2567,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 7.1 Faseraufschluss (Röste) <k-7-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 5.7]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-7.svg", width: 100%), caption: [Abb. 5.7 — Abb. 5.7: Faseraufschluss (Röste): Tau 1–5 Wochen oder Wasser 3–10 Tage – dann lösen sich die Fasern (Konzept 7.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-7.svg", width: 100%), caption: [Abb. 5.7 — Faseraufschluss (Röste): Tau 1–5 Wochen oder Wasser 3–10 Tage – dann lösen sich die Fasern (Konzept 7.1).])]]
 + _Tau-Röste: 1–5 Wochen_ im stehenden Gewässer.
 + _Wasser-Röste: 3–10 Tage_ in warmem Wasser.
 + Danach Fasern lösen, waschen, trocknen.
@@ -2611,7 +2611,7 @@ _Querverweise:_ siehe Konzept B4-7.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2761,7 +2761,7 @@ _Querverweise:_ siehe Konzept 1.1, siehe Konzept B9-5.2, Seil & Knoten.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2910,7 +2910,7 @@ _Querverweise:_ siehe Konzept 7.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3040,7 +3040,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 8.1 Ried / Stroh / Binse (Dachdeckung) <k-8-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 5.8]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-8.svg", width: 100%), caption: [Abb. 5.8 — Abb. 5.8: Dachdeck-Material: Ried, Stroh, Binse – gebündelt, mind. 45° Neigung (Konzept 8.1, konsistent B4 5.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-8.svg", width: 100%), caption: [Abb. 5.8 — Dachdeck-Material: Ried, Stroh, Binse – gebündelt, mind. 45° Neigung (Konzept 8.1, konsistent B4 5.1).])]]
 Konsistent mit Konzept B4-5.1, Dachdeckung & Neigung.
 - [ ] Dachneigung nach Material (siehe Konzept B4-5.1)
 _Querverweise:_ siehe Konzept B4-5.1.
@@ -3070,7 +3070,7 @@ _Querverweise:_ siehe Konzept B4-5.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3208,7 +3208,7 @@ _Querverweise:_ siehe Konzept 1.1, siehe Konzept B10-5.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3319,7 +3319,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 8.3 Saatgut-Keimprobe (50 Körner / 7–14 T) <k-8-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 5.9]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-9.svg", width: 100%), caption: [Abb. 5.9 — Abb. 5.9: Saatgut-Keimprobe: 50 Körner auf feuchtem Tuch, 7–14 Tage, zählen (Konzept 8.3).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-9.svg", width: 100%), caption: [Abb. 5.9 — Saatgut-Keimprobe: 50 Körner auf feuchtem Tuch, 7–14 Tage, zählen (Konzept 8.3).])]]
 + 50 Körner auf feuchtes Tuch, 7–14 Tage warm halten.
 + Keimlinge zählen: _\< 30 von 50 (60 %) → neue Saat_ (siehe Konzept B7-9.3).
 + Nie Saatgut essen (s. Konzept B7-9.3).
@@ -3340,8 +3340,8 @@ _Querverweise:_ siehe Konzept B7-9.3.
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [7–14 T], [[ ] 50 Körner, 7–14 T],
-  [60 %], [[ ] Schwelle 60 % beachtet],
+  [7–14 T], [( ) 50 Körner, 7–14 T],
+  [60 %], [( ) Schwelle 60 % beachtet],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -3369,7 +3369,7 @@ _Querverweise:_ siehe Konzept B7-9.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3498,8 +3498,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 9.1 Pilze <k-9-1>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb + WARNRAHMEN [warn-5b]_ · P 6 · M unbedenklich · V 7 · Abb. 5.10]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-10.svg", width: 100%), caption: [Abb. 5.10 — Abb. 5.10: Pilze: Knollenblätterpilz erkennen – Ring, Knolle (Volva), weiße Lamellen; Amatoxine hitzestabil, nie roh (Konzept 9.1, warn-5b, W16).])]]
-#warnrahmen(id: "warn-5b", title: [PILZE (W16, 09 Nr. 4):])[Knollenblätterpilz und Frühjahrslorchel — _Amatoxine sind hitzestabil: kein Kochen, kein Braten rettet_. _Keine Rettungsleine, nie roh probieren._ Giftnotruf 116 123 (DE) / +353 1 809 2166 (IE) / 112 (EU). _Drei Merkmale aus lebendiger Anleitung_ (Lehrmeister, siehe Konzept B9-9.2) vor dem Verzehr bestätigen.]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-10.svg", width: 100%), caption: [Abb. 5.10 — Pilze: Knollenblätterpilz erkennen – Ring, Knolle (Volva), weiße Lamellen; Amatoxine hitzestabil, nie roh (Konzept 9.1, warn-5b).])]]
+#warnrahmen(id: "warn-5b", title: [PILZE (09 Nr. 4):])[Knollenblätterpilz und Frühjahrslorchel — _Amatoxine sind hitzestabil: kein Kochen, kein Braten rettet_. _Keine Rettungsleine, nie roh probieren._ Giftnotruf 116 123 (DE) / +353 1 809 2166 (IE) / 112 (EU). _Drei Merkmale aus lebendiger Anleitung_ (Lehrmeister, siehe Konzept B9-9.2) vor dem Verzehr bestätigen.]
 + Nur Pilze mit drei bestätigten Merkmalen sammeln.
 + Nie roh — auch ein „Testbissen“ ist tödlich.
 + Unsichere Pilze ganz entsorgen, nicht „zur Sicherheit“ kochen.
@@ -3543,7 +3543,7 @@ _Querverweise:_ siehe Konzepte B8-5.1 und B8-5.2, siehe Konzept 2.2 (`warn-5`).
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W16],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3562,6 +3562,7 @@ _Querverweise:_ siehe Konzepte B8-5.1 und B8-5.2, siehe Konzept 2.2 (`warn-5`).
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [WARNRAHMEN [warn-5b] — PILZE (09 Nr. 4):], [siehe Glossar, Anhang D Band 1],
   [Keine Rettungsleine, nie roh probieren.], [siehe Glossar, Anhang D Band 1],
   [Drei Merkmale aus lebendiger Anleitung], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
@@ -3665,7 +3666,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 9.2 Pflanzen-Kalender (Monatsfenster ME/Irland) <k-9-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 5.11]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-11.svg", width: 100%), caption: [Abb. 5.11 — Abb. 5.11: Pflanzen-Kalender (Monatsfenster für ME/Irland): Ernte, wann was reif ist (Konzept 9.2).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-11.svg", width: 100%), caption: [Abb. 5.11 — Pflanzen-Kalender (Monatsfenster für ME/Irland): Ernte, wann was reif ist (Konzept 9.2).])]]
 Monatsfenster für Ernte/Saat in Mitteleuropa und Irland (lokal um ± 2 Wochen verschiebbar nach Höhenlage/Küste; Abb. 5.11 zeigt denselben Kalender grafisch):
 #table(
   columns: 3,
@@ -3712,7 +3713,7 @@ _Querverweise:_ siehe Konzept B10-8.1, siehe Konzept 1.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3967,8 +3968,8 @@ Alle Konzepte dieses Bandes im Überblick — abhaken, wenn geübt/gelesen:
   columns: 2,
   table.header([*Warngrafik*], [*Thema*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [warn-5], [GIFTPFLANZEN W15 09 NR 4 VERSCHÄRFT],
-  [warn-5b], [PILZE W16 09 NR 4],
+  [warn-5], [GIFTPFLANZEN 09 NR 4 VERSCHÄRFT],
+  [warn-5b], [PILZE 09 NR 4],
 )
 #pagebreak(weak: true)
 == Querverweis-Register Band 5 <querverweis-register>
@@ -4002,6 +4003,17 @@ Alle Verweise aus diesem Band auf andere Bände (Schema B\<Band\>-X.Y):
   [9.2], [B7-8.1],
   [9.2], [B7-9.1],
   [9.2], [B10-8.1],
+)
+#pagebreak(weak: true)
+== Prüfprotokoll (interne Quellen-IDs) <pruefprotokoll>
+Interne Prüf-IDs aus dem Factcheck (dreifache Prüfung). Sie stehen nicht im Lesetext, sondern hier im Protokoll.
+#table(
+  columns: 3,
+  table.header([*ID*], [*Konzept*], [*Fundstelle (Kontext)*]),
+  table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [W15], [2.2], [\> _WARNRAHMEN (warn-5) — GIFTPFLANZEN (09 Nr. 4, verschärft):_ Tollkirsche, Schie],
+  [W17], [4.2], [ekochte Knollen_ essen; _Algen-Gift-Regel :\*\* nach Stürmen/Algenblüte Sperre — Muschel],
+  [W16], [9.1], [\> _WARNRAHMEN (warn-5b) — PILZE (09 Nr. 4):_ Knollenblätterpilz und Frühjah],
 )
 
 #pagebreak(weak: true)

@@ -22,13 +22,13 @@ Einträge zu Konzepten dieses Bandes mit Seitenzahl (S. …); Verweise auf ander
 - _Heizung (Not)_ — siehe Ofenlose Not-Heizung (Konzept 6.3, S. #refpage(<k-6-3>))
 - _Holzkohle_ — siehe Holzkohle-Meiler (Konzept 8.1, S. #refpage(<k-8-1>)); Räucherholz & Rauch (B7-4.2)
 - _Holzkohle-Meiler_ — Konzept 8.1, S. #refpage(<k-8-1>) (Abb. 3.15)  · _Rauchfarben als Uhr_; siehe auch Asche-Ordnung (Lauge); Räucherholz & Rauch
-- _Holzvorrat & Stock-Rechnung_ — Konzept 7.1, S. #refpage(<k-7-1>) (Abb. 3.14)  · _1 Ster ≈ 300–350 kg; 25–35 kg/Tag (W24)_; siehe auch Brennstoffkunde; Winter-Rechnung (Vorrat)
+- _Holzvorrat & Stock-Rechnung_ — Konzept 7.1, S. #refpage(<k-7-1>) (Abb. 3.14)  · _1 Ster ≈ 300–350 kg; 25–35 kg/Tag _; siehe auch Brennstoffkunde; Winter-Rechnung (Vorrat)
 - _Kammer (kalte Kammer, Zonen)_ — B7-8.1 (Abb. 7.10)  · _Zonen konsistent B3-Abstände_; siehe auch Material-Kammer; Fünf Feinde des Vorrats
 - _Kochfeuer & Glut_ — Konzept 5.1, S. #refpage(<k-5-1>) (Abb. 3.9); siehe auch Reflektor & Nachtfeuer; Abkochen (gesottenes Wasser)
 - _Kohlenmonoxid (CO)_ — Konzept 6.3, S. #refpage(<k-6-3>) (warn-3); B4-6.3; B9-2.1  · _W14: keine Verbrennung in geschlossenen Räumen; Zelt = geschlossener Raum; nie über Nacht im Schlafraum; mehrere Betroffene = Alarm_; siehe auch Ofenlose Not-Heizung (CO); Feuchtebilanz & Lüftung (Unterkunft); Schmiede-Feuer
 - _Lauge (Seife)_ — siehe Asche-Ordnung (Konzept 8.2, S. #refpage(<k-8-2>)); Seife aus Resten (B7-7.2)
 - _Notbehelf (P \< 5)_ — B1 Anhang D  · _immer als solcher gekennzeichnet; gilt für die gelben Konzepte (z. B. B1-7.4, B2-3.5, B2-7.2, Konzept 3.4, S. #refpage(<k-3-4>))_
-- _Ofenlose Not-Heizung (CO)_ — Konzept 6.3, S. #refpage(<k-6-3>) (Abb. 3.13)  · _gelb + warn-3 (W14): keine Verbrennung in geschlossenen Räumen (Zelt = geschlossener Raum), nie über Nacht im Schlafraum_; siehe auch Kohlenmonoxid (CO); Feuchtebilanz & Lüftung (Unterkunft); Schmiede-Feuer
+- _Ofenlose Not-Heizung (CO)_ — Konzept 6.3, S. #refpage(<k-6-3>) (Abb. 3.13)  · _gelb + warn-3 : keine Verbrennung in geschlossenen Räumen (Zelt = geschlossener Raum), nie über Nacht im Schlafraum_; siehe auch Kohlenmonoxid (CO); Feuchtebilanz & Lüftung (Unterkunft); Schmiede-Feuer
 - _Reflektor & Nachtfeuer_ — Konzept 5.2, S. #refpage(<k-5-2>) (Abb. 3.10)  · _Wache, Glut-Disziplin_; siehe auch Kochfeuer & Glut; Feuerwache (Zwei-Personen-Regel)
 - _Reibfeuer_ — Konzept 3.3, S. #refpage(<k-3-3>) (Abb. 3.5)  · _gelb — Übungstechnik (P = 5), kein Alltagsplan; V = 6 → Übungspflicht_; siehe auch Sonnenzündung; Feuerstahl & Zundermulm
 - _Signale / Zeichengebung_ — siehe Notrufzeichen (B1-5.1); Signalfeuer (Konzept 9.2, S. #refpage(<k-9-2>))

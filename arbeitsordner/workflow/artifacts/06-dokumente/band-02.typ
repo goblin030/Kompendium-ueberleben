@@ -101,7 +101,7 @@ _Querverweise:_ siehe Konzept 2.1, siehe Konzept 2.2, siehe Konzept B10-1.1, Sch
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -219,10 +219,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 === 1.2 Zonenplan <k-1-2>
-#konzmeta(fill: rgb("#8a6d00"))[_gelb (W7)_ · P 9 · M unbedenklich · V 9 · Abb. 2.1]
+#konzmeta(fill: rgb("#8a6d00"))[_gelb _ · P 9 · M unbedenklich · V 9 · Abb. 2.1]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-1.svg", width: 100%), caption: [Abb. 2.1 — Abb. 2.1: Zonenplan Wasserlager: Quelle hangaufwärts, Latrine ≥ 30 m (besser 50 m) hangabwärts (Konzept 1.2, W7).])]]
-Der Zonenplan trennt Wasserentnahme, Grauwasser und Latrine im Gelände. _Korrektur W7:_ Latrine–Wasser _≥ 30 m (besser 50 m), stets unterhalb/hangabwärts_ der Entnahmestelle (Sphere/WHO; 20 m waren zu wenig).
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-1.svg", width: 100%), caption: [Abb. 2.1 — Zonenplan Wasserlager: Quelle hangaufwärts, Latrine ≥ 30 m (besser 50 m) hangabwärts (Konzept 1.2).])]]
+Der Zonenplan trennt Wasserentnahme, Grauwasser und Latrine im Gelände. _Korrektur _ Latrine–Wasser _≥ 30 m (besser 50 m), stets unterhalb/hangabwärts_ der Entnahmestelle (Sphere/WHO; 20 m waren zu wenig).
 + Entnahmestelle oben im Gelände wählen (siehe Konzept 3.3).
 + Latrine hangabwärts, windabwärts, ≥ 30 m (besser 50 m) entfernt anlegen (siehe Konzept 9.1).
 + Grauwasser-Zone zwischen beiden, nie oberhalb der Entnahme (siehe Konzept 9.2).
@@ -255,7 +255,7 @@ _Querverweise:_ siehe Konzept 9.1, siehe Konzept 3.3, siehe Glossar „Latrine�
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [30 m], [ktur W7:_ Latrine–Wasser _≥ 30 m (besser 50 m), stets unt],
+  [30 m], [rrektur _ Latrine–Wasser _≥ 30 m (besser 50 m), stets unt],
   [50 m], [trine–Wasser \*\*≥ 30 m (besser 50 m), stets unterhalb/hangab],
   [20 m], [r Entnahmestelle (Sphere/WHO; 20 m waren zu wenig).],
   [10 m], [Grauwasser | ≥ 10 m unterhalb | Waschen, Spü],
@@ -265,7 +265,7 @@ _Querverweise:_ siehe Konzept 9.1, siehe Konzept 3.3, siehe Glossar „Latrine�
   columns: 3,
   table.header([*Anfängerfehler*], [*Folge*], [*Korrektur*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Latrine 20 m von Quelle], [Keime im Trinkwasser], [W7: ≥ 30 m, besser 50 m, unterhalb (1.2/9.1)],
+  [Latrine 20 m von Quelle], [Keime im Trinkwasser], [≥ 30 m, besser 50 m, unterhalb (1.2/9.1)],
 )
 #subhead[Randbedingungen & Klima/Saison (vor Ort ausfüllen)]
 #table(
@@ -286,7 +286,7 @@ _Querverweise:_ siehe Konzept 9.1, siehe Konzept 3.3, siehe Glossar „Latrine�
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W7],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -308,7 +308,7 @@ _Querverweise:_ siehe Konzept 9.1, siehe Konzept 3.3, siehe Glossar „Latrine�
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Korrektur W7:], [siehe Glossar, Anhang D Band 1],
+  [Korrektur ], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -421,8 +421,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 2.1 Bedarfsrechnung <k-2-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 2.2]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-2.svg", width: 100%), caption: [Abb. 2.2 — Abb. 2.2: Bedarfsrechnung pro Person und Tag: Trinkminimum 2–3 l, Notfall 7,5–10 l, Haushalt 15–20 l (Konzept 2.1, W1/W2).])]]
-Werte (W1/W2/L8): Trinkminimum _2–3 l/Person/Tag_ (Kinder 1–1,5 l); Notfallstandard _7,5–10 l/Tag_ (Trinken+Kochen+Hygiene, WHO-Untergrenze); Haushaltsstandard _15–20 l/Tag_; bei Fieber/Leistung _4–6 l_ Trinkanteil.
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-2.svg", width: 100%), caption: [Abb. 2.2 — Bedarfsrechnung pro Person und Tag: Trinkminimum 2–3 l, Notfall 7,5–10 l, Haushalt 15–20 l (Konzept 2.1).])]]
+Werte : Trinkminimum _2–3 l/Person/Tag_ (Kinder 1–1,5 l); Notfallstandard _7,5–10 l/Tag_ (Trinken+Kochen+Hygiene, WHO-Untergrenze); Haushaltsstandard _15–20 l/Tag_; bei Fieber/Leistung _4–6 l_ Trinkanteil.
 + Personenanzahl × Tagesbedarf rechnen.
 + Haushaltsbedarf separat führen (Waschen, Kochen, Spülen).
 + Vorrat gegen Bedarf rechnen (siehe Konzept 8.1).
@@ -444,7 +444,7 @@ _Querverweise:_ siehe Konzept 2.2, siehe Konzept 2.3, siehe Konzept 8.1, siehe K
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [2–3 l], [te (W1/W2/L8): Trinkminimum _2–3 l/Person/Tag_ (Kinder 1–1],
+  [2–3 l], [Werte : Trinkminimum _2–3 l/Person/Tag_ (Kinder 1–1],
   [1–1,5 l], [_2–3 l/Person/Tag_ (Kinder 1–1,5 l); Notfallstandard \*\*7,5–],
   [7,5–10 l], [r 1–1,5 l); Notfallstandard _7,5–10 l/Tag_ (Trinken+Kochen+Hy],
   [15–20 l], [rgrenze); Haushaltsstandard _15–20 l/Tag_; bei Fieber/Leistu],
@@ -477,7 +477,7 @@ _Querverweise:_ siehe Konzept 2.2, siehe Konzept 2.3, siehe Konzept 8.1, siehe K
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W1, W2],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -647,7 +647,7 @@ _Querverweise:_ siehe Konzept 2.1, siehe Konzept B8-4.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -756,8 +756,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 2.3 Ertragsrechnung <k-2-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 2.3]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-3.svg", width: 100%), caption: [Abb. 2.3 — Abb. 2.3: Ertragsrechnung: 1 mm Niederschlag × 1 m² Auffangfläche = 1 l (Konzept 2.3, W8).])]]
-Regenformel (W8): _1 mm Niederschlag × 1 m² Fläche = 1 l_ (exakt, vor Verlusten).
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-3.svg", width: 100%), caption: [Abb. 2.3 — Ertragsrechnung: 1 mm Niederschlag × 1 m² Auffangfläche = 1 l (Konzept 2.3).])]]
+Regenformel : _1 mm Niederschlag × 1 m² Fläche = 1 l_ (exakt, vor Verlusten).
 + Auffangfläche messen (Dachhälfte: Länge × Breite).
 + Niederschlag mm × m² = Ertrag l.
 + Verluste (First-Abwurf, Verdunstung, Überlauf) mit 20–30 % abziehen.
@@ -779,8 +779,8 @@ _Querverweise:_ siehe Konzept 3.2 (Regen auffangen).
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [1 mm], [Regenformel (W8): \*\*1 mm Niederschlag × 1 m² Fläc],
-  [1 m], [l (W8): _1 mm Niederschlag × 1 m² Fläche = 1 l_ (exakt,],
+  [1 mm], [Regenformel : \*\*1 mm Niederschlag × 1 m² Fläc],
+  [1 m], [ormel : _1 mm Niederschlag × 1 m² Fläche = 1 l_ (exakt,],
   [1 l], [Niederschlag × 1 m² Fläche = 1 l\*\* (exakt, vor Verlusten)],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
@@ -809,7 +809,7 @@ _Querverweise:_ siehe Konzept 3.2 (Regen auffangen).
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W8],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -943,7 +943,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 #pagebreak(weak: true)
 === 3.1 Oberflächenwasser lesen <k-3-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9]
-Fließend vor stehend. Ölfilm oder Chemiegeruch = _verwerfen_ (W4: Abkochen tötet keine chemischen Gifte).
+Fließend vor stehend. Ölfilm oder Chemiegeruch = _verwerfen_ (Abkochen tötet keine chemischen Gifte).
 - [ ] Fließgewässer bevorzugt
 - [ ] Ölfilm/Chemie → Quelle verwerfen, siehe Konzept 5.1
 _Querverweise:_ siehe Konzept 5.1, siehe Konzept 6.2 (Abkochen tötet keine Gifte).
@@ -973,7 +973,7 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept 6.2 (Abkochen tötet keine Gift
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W4],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1083,7 +1083,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 3.2 Regen auffangen (First-Abwurf-Pflicht) <k-3-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 2.4]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-4.svg", width: 100%), caption: [Abb. 2.4 — Abb. 2.4: Regen auffangen mit First-Abwurf: die ersten Liter vom Dach verwerfen (Konzept 3.2).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-4.svg", width: 100%), caption: [Abb. 2.4 — Regen auffangen mit First-Abwurf: die ersten Liter vom Dach verwerfen (Konzept 3.2).])]]
 + Dachrinne/Auffangplane reinigen.
 + _First-Abwurf:_ erste 5–10 l pro 10 m² Dachfläche verwerfen (Staub, Vogelkot).
 + Danach in sauberen Behälter (siehe Konzept 4.1) leiten.
@@ -1138,7 +1138,7 @@ _Querverweise:_ siehe Konzept 2.3, siehe Konzept 4.1, siehe Konzept 8.2 (Wiederv
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1302,7 +1302,7 @@ _Querverweise:_ siehe Konzept 1.2, siehe Konzept 9.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1464,7 +1464,7 @@ _Querverweise:_ siehe Konzept 6.1, siehe Konzept 6.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1588,8 +1588,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 3.5 Solarstill <k-3-5>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb (Notbehelf, P = 4)_ · P 4 · M unbedenklich · V 8 · Abb. 2.5]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-5.svg", width: 100%), caption: [Abb. 2.5 — Abb. 2.5: Solarstill (Notbehelf, P = 4): Salzwasser verdunstet, Kondensat tropft – Ertrag 0,3–1,5 l/Tag (Konzept 3.5, W11).])]]
-Der Solarstill ist ein Notbehelf (W11): Ertrag konservativ _0,3–1,5 l/Tag_, nur als Klarwasser-Nachbehandlung.
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-5.svg", width: 100%), caption: [Abb. 2.5 — Solarstill (Notbehelf, P = 4): Salzwasser verdunstet, Kondensat tropft – Ertrag 0,3–1,5 l/Tag (Konzept 3.5).])]]
+Der Solarstill ist ein Notbehelf : Ertrag konservativ _0,3–1,5 l/Tag_, nur als Klarwasser-Nachbehandlung.
 + Grube 50 × 50 cm, 30 cm tief; frisches Grün/Blätter als Feuchtigkeitsspender hinein.
 + Auffanggefäß in die Mitte, Folie luftdicht darüber spannen, Stein in die Mitte der Folie (Trichter).
 + Sonne 1 Tag stehen lassen; Kondensat auffangen.
@@ -1613,7 +1613,7 @@ _Querverweise:_ siehe Konzept 6.2, siehe Konzept 7.2.
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [0,3–1,5 l], [f (W11): Ertrag konservativ _0,3–1,5 l/Tag_, nur als Klarwasse],
+  [0,3–1,5 l], [behelf : Ertrag konservativ _0,3–1,5 l/Tag_, nur als Klarwasse],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -1641,7 +1641,7 @@ _Querverweise:_ siehe Konzept 6.2, siehe Konzept 7.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W11],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1765,8 +1765,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 3.7 Winterwasser <k-3-7>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 9 · Abb. 2.6]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-6.svg", width: 100%), caption: [Abb. 2.6 — Abb. 2.6: Winterwasser: Schneeschmelze-Verhältnisse – Pulverschnee 10:1 bis Eis 9:10; Tausalz-Schnee verwerfen (Konzept 3.7, W9).])]]
-Schmelze statt Schnee essen (W9): Pulverschnee ≈ 1:10, Altschnee 2–3:10, Krusten 3–5:10, Eis ≈ 9:10.
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-6.svg", width: 100%), caption: [Abb. 2.6 — Winterwasser: Schneeschmelze-Verhältnisse – Pulverschnee 10:1 bis Eis 9:10; Tausalz-Schnee verwerfen (Konzept 3.7).])]]
+Schmelze statt Schnee essen : Pulverschnee ≈ 1:10, Altschnee 2–3:10, Krusten 3–5:10, Eis ≈ 9:10.
 + Schnee in Behälter schmelzen (Körperwärme oder Feuer, siehe Band 3).
 + _Tausalz-Schnee verwerfen_ — Streusalz ist nicht genießbar (siehe Konzept B7-5.1, `warn-7c`).
 + Geschmolzenes Wasser wie Oberflächenwasser behandeln (Kapitel 6/7).
@@ -1808,7 +1808,7 @@ _Querverweise:_ siehe Konzept B7-5.1, siehe Konzept 6.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W9],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1975,7 +1975,7 @@ _Querverweise:_ siehe Konzept 8.2 (Wiederverseuchung).
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2085,8 +2085,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 4.2 Transportkette (10 l einseitig) <k-4-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 2.7]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-7.svg", width: 100%), caption: [Abb. 2.7 — Abb. 2.7: Transportkette: 10-l-Kanister einseitig (10 kg), Zwischentank als Puffer (Konzept 4.2, W20).])]]
-Konsistent mit Traglast (W20, siehe Konzept B1-6.5): 10 l Wasser = 10 kg = eine Seite, ein Arm.
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-7.svg", width: 100%), caption: [Abb. 2.7 — Transportkette: 10-l-Kanister einseitig (10 kg), Zwischentank als Puffer (Konzept 4.2).])]]
+Konsistent mit Traglast (siehe Konzept B1-6.5): 10 l Wasser = 10 kg = eine Seite, ein Arm.
 + Max. 10 l pro Person pro Gang einseitig tragen.
 + Besser: Kanister mit Trageriemen auf dem Rücken (siehe Konzept B1-6.5).
 + Gruppe: Zwischentank am Ziel (siehe Konzept 4.3).
@@ -2107,7 +2107,7 @@ _Querverweise:_ siehe Konzept B1-6.5, siehe Konzept 4.3.
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [10 l], [(W20, siehe Konzept B1-6.5): 10 l Wasser = 10 kg = eine Se],
+  [10 l], [glast (siehe Konzept B1-6.5): 10 l Wasser = 10 kg = eine Se],
   [10 kg], [onzept B1-6.5): 10 l Wasser = 10 kg = eine Seite, ein Arm.],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
@@ -2136,7 +2136,7 @@ _Querverweise:_ siehe Konzept B1-6.5, siehe Konzept 4.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W20],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2295,7 +2295,7 @@ _Querverweise:_ siehe Konzept 8.2, siehe Konzept 2.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2427,7 +2427,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   table.header([Befund], [Bedeutung], [Maßnahme]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Trübung \> 5 NTU], [Partikel, evtl. Keime], [klären (6.1), dann aufbereiten],
-  [Ölfilm], [Chemie], [verwerfen (W4)],
+  [Ölfilm], [Chemie], [verwerfen],
   [Blaualgen (grün-blaue Schlieren, Massenvorkommen)], [Microcystin], [_nicht trinken, nicht baden_],
   [Geruch faulig], [organische Zersetzung], [verwerfen oder destillieren + nachkochen (7.2)],
   [Tote Tiere stromaufwärts], [Kontamination], [andere Quelle suchen (3.1)],
@@ -2481,7 +2481,7 @@ _Querverweise:_ siehe Konzept 3.1, siehe Konzept 6.1, siehe Konzept 6.2, siehe K
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W4],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2605,7 +2605,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 6.1 Klären / Vorfiltern <k-6-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 2.8]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-8.svg", width: 100%), caption: [Abb. 2.8 — Abb. 2.8: Klären / Vorfiltern in drei Stufen: absetzen lassen, Tuch/Sieb, Aktivkohle (Konzept 6.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-8.svg", width: 100%), caption: [Abb. 2.8 — Klären / Vorfiltern in drei Stufen: absetzen lassen, Tuch/Sieb, Aktivkohle (Konzept 6.1).])]]
 + Wasser 30 min absetzen lassen.
 + Vorsichtig dekantieren — Bodensatz bleibt zurück.
 + Durch Tuch (mehrfach gebügelt) oder Aktivkohle-Schicht (5 cm) filtern.
@@ -2656,7 +2656,7 @@ _Querverweise:_ siehe Konzept 6.3 (SODIS nur \< 30 NTU), siehe Konzept 7.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2778,14 +2778,14 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 6.2 Abkochen <k-6-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 10 · Abb. 2.9]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-9.svg", width: 100%), caption: [Abb. 2.9 — Abb. 2.9: Abkochen: 1 Minute sprudelnd kochen – ab 2.000 m Höhe 3 Minuten (Konzept 6.2, W3 CDC/WHO).])]]
-Wert (W3, CDC/WHO): _1 Minute sprudelnd kochen; ab 2.000 m Höhe 3 Minuten._
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-9.svg", width: 100%), caption: [Abb. 2.9 — Abkochen: 1 Minute sprudelnd kochen – ab 2.000 m Höhe 3 Minuten (Konzept 6.2, CDC/WHO).])]]
+Wert (CDC/WHO): _1 Minute sprudelnd kochen; ab 2.000 m Höhe 3 Minuten._
 + Wasser kräftig aufkochen (sprudelnd), 1 min halten.
 + Ab 2.000 m: 3 min halten.
 + Abkühlen lassen im geschlossenen, sauberen Gefäß (siehe Konzept 8.2).
-+ _Abkochen tötet keine chemischen Gifte, kein Salz, keine Algengifte_ (W4) — bei Chemie/Blaualgen andere Quelle oder Destillation (7.2) + Nachkochen.
++ _Abkochen tötet keine chemischen Gifte, kein Salz, keine Algengifte_ — bei Chemie/Blaualgen andere Quelle oder Destillation (7.2) + Nachkochen.
 - [ ] 1 min (ab 2.000 m: 3 min) sprudelnd
-- [ ] Gifte beachtet: Kochen entfernt keine Chemie (W4)
+- [ ] Gifte beachtet: Kochen entfernt keine Chemie
 #baustein[Sprudelnd kochen, eine Minute zählen — das ist das sicherste Verfahren überhaupt.]
 _Querverweise:_ siehe Konzept 5.1, siehe Konzept 7.2, siehe Glossar „gesottenes Wasser“ (Band 1 Anhang D); Querschnitt B7/B8 (kochen vor Konservieren/Wundspülen).
 #subhead[Ablauf mit Kontrollkästchen]
@@ -2796,7 +2796,7 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept 7.2, siehe Glossar „gesottene
   [1], [Wasser kräftig aufkochen (sprudelnd), 1 min halten.], [[ ] erledigt  [ ] geprüft],
   [2], [Ab 2.000 m: 3 min halten.], [[ ] erledigt  [ ] geprüft],
   [3], [Abkühlen lassen im geschlossenen, sauberen Gefäß (siehe Konzept 8.2).], [[ ] erledigt  [ ] geprüft],
-  [4], [_Abkochen tötet keine chemischen Gifte, kein Salz, keine Algengifte_ (W4) — bei Chemie/Blaualgen andere Quelle oder Destillation (7.2) + Nachkochen.], [[ ] erledigt  [ ] geprüft],
+  [4], [_Abkochen tötet keine chemischen Gifte, kein Salz, keine Algengifte_ — bei Chemie/Blaualgen andere Quelle oder Destillation (7.2) + Nachkochen.], [[ ] erledigt  [ ] geprüft],
 )
 #subhead[Material & Maß (aus diesem Konzept)]
 #table(
@@ -2804,15 +2804,15 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept 7.2, siehe Glossar „gesottene
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [2.000 m], [1 Minute sprudelnd kochen; ab 2.000 m Höhe 3 Minuten.\*\*],
-  [1 min], [[ ] 1 min (ab 2.000 m: 3 min) spru],
-  [3 min], [[ ] 1 min (ab 2.000 m: 3 min) sprudelnd],
+  [1 min], [( ) 1 min (ab 2.000 m: 3 min) spru],
+  [3 min], [( ) 1 min (ab 2.000 m: 3 min) sprudelnd],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
   columns: 3,
   table.header([*Anfängerfehler*], [*Folge*], [*Korrektur*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Chlor-Halbdosis für Kinder], [Unterdesinfektion], [W5: Dosis nie halbieren; im Zweifel kochen (6.2)],
+  [Chlor-Halbdosis für Kinder], [Unterdesinfektion], [Dosis nie halbieren; im Zweifel kochen (6.2)],
   [Destillat ohne Nachkochen], [Keime überlebt], [7.2 + 6.2],
 )
 #subhead[Randbedingungen & Klima/Saison (vor Ort ausfüllen)]
@@ -2834,7 +2834,7 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept 7.2, siehe Glossar „gesottene
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W3, W4],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2848,7 +2848,7 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept 7.2, siehe Glossar „gesottene
 *Schritt 3:* Abkühlen lassen im geschlossenen, sauberen Gefäß (siehe Konzept 8.2).
   - [ ] Kontrolle: Schritt vollständig ausgeführt  
   - [ ] Fehlerfolge beachtet (siehe „Fehler & Folgen“)  
-*Schritt 4:* _Abkochen tötet keine chemischen Gifte, kein Salz, keine Algengifte_ (W4) — bei Chemie/Blaualgen andere Quelle oder Destillation (7.2) + Nachkochen.
+*Schritt 4:* _Abkochen tötet keine chemischen Gifte, kein Salz, keine Algengifte_ — bei Chemie/Blaualgen andere Quelle oder Destillation (7.2) + Nachkochen.
   - [ ] Kontrolle: Schritt vollständig ausgeführt  
   - [ ] Fehlerfolge beachtet (siehe „Fehler & Folgen“)  
 #subhead[Begriffe aus diesem Konzept]
@@ -2957,8 +2957,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 6.3 SODIS <k-6-3>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb_ · P 6 · M unbedenklich · V 8 · Abb. 2.10]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-10.svg", width: 100%), caption: [Abb. 2.10 — Abb. 2.10: SODIS: PET-Flasche 1–2 l, klares Wasser \< 30 NTU, 6 h Sonne / 2 Tage bewölkt (Konzept 6.3, W6).])]]
-Nur bei _klarem Wasser — Sichttiefe \> 30 cm (≈ \< 10 NTU, Feldmethode siehe Konzept 5.1)_, PET-Flaschen _1–2 l_, _6 h volle Sonne / 2 Tage bewölkt_ (W6). _Im Zweifel kochen_ (siehe Konzept 6.2).
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-10.svg", width: 100%), caption: [Abb. 2.10 — SODIS: PET-Flasche 1–2 l, klares Wasser \< 30 NTU, 6 h Sonne / 2 Tage bewölkt (Konzept 6.3).])]]
+Nur bei _klarem Wasser — Sichttiefe \> 30 cm (≈ \< 10 NTU, Feldmethode siehe Konzept 5.1)_, PET-Flaschen _1–2 l_, _6 h volle Sonne / 2 Tage bewölkt_. _Im Zweifel kochen_ (siehe Konzept 6.2).
 + Wasser klären (siehe Konzept 6.1), sonst ungeeignet.
 + PET-Flasche randvoll füllen, schütteln (Sauerstoff), in volle Sonne legen.
 + 6 h Sonne oder 2 Tage bewölkt.
@@ -2987,7 +2987,7 @@ _Querverweise:_ siehe Konzept 6.1, siehe Konzept 6.2.
   [10 NTU], [ser — Sichttiefe \> 30 cm (≈ \< 10 NTU, Feldmethode siehe Konze],
   [1–2 l], [onzept 5.1)_, PET-Flaschen _1–2 l_, _6 h volle Sonne / 2],
   [6 h], [_, PET-Flaschen _1–2 l_, _6 h volle Sonne / 2 Tage bew],
-  [30 NTU], [[ ] Trübung \< 30 NTU geprüft],
+  [30 NTU], [( ) Trübung \< 30 NTU geprüft],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -3015,7 +3015,7 @@ _Querverweise:_ siehe Konzept 6.1, siehe Konzept 6.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W6],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3152,8 +3152,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 7.1 Langsamsandfilter <k-7-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 7 · Abb. 2.11]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-11.svg", width: 100%), caption: [Abb. 2.11 — Abb. 2.11: Langsamsandfilter: Sand 40–60 cm, Wasserstand ≥ 5 cm über Sand, Reife 1–2 Wochen, Filtrat nachkochen (Konzept 7.1, W10).])]]
-Maße (W10): _40–60 cm Sand_, Wasserstand nie unter _5 cm über Sand_, _Reife 1–2 Wochen_, danach _Filtrat noch abkochen_.
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-11.svg", width: 100%), caption: [Abb. 2.11 — Langsamsandfilter: Sand 40–60 cm, Wasserstand ≥ 5 cm über Sand, Reife 1–2 Wochen, Filtrat nachkochen (Konzept 7.1).])]]
+Maße : _40–60 cm Sand_, Wasserstand nie unter _5 cm über Sand_, _Reife 1–2 Wochen_, danach _Filtrat noch abkochen_.
 + Behälter mit 5 cm Kies unten, darüber 40–60 cm feiner Sand (0,2–0,5 mm).
 + Rohwasser oben aufgießen, Wasserstand über Sand halten.
 + 1–2 Wochen reifen lassen (Biohaut bildet sich).
@@ -3179,7 +3179,7 @@ _Querverweise:_ siehe Konzept 6.2.
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [40–60 cm], [Maße (W10): _40–60 cm Sand_, Wasserstand nie],
+  [40–60 cm], [Maße : _40–60 cm Sand_, Wasserstand nie],
   [5 cm], [nd_, Wasserstand nie unter _5 cm über Sand_, _Reife 1–2],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
@@ -3208,7 +3208,7 @@ _Querverweise:_ siehe Konzept 6.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W10],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3337,8 +3337,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 7.2 Destillation (Topf-Destille, Solarstill) <k-7-2>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb (Notbehelf-Grenze, P = 5)_ · P 5 · M unbedenklich · V 8 · Abb. 2.12]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-12.svg", width: 100%), caption: [Abb. 2.12 — Abb. 2.12: Destillation (Notbehelf, P = 5): Topf-Destille 0,5–1,5 l/h – Salz/Metalle bleiben, Keime erst nachkochen (Konzept 7.2, W11).])]]
-Ertrag konservativ (W11): Topf-Destille _0,5–1,5 l/h_, Solarstill 0,3–1,5 l/Tag. _Salz und Metalle gehen über, Keime erst durch Nachkochen_ (siehe Konzept 6.2).
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-12.svg", width: 100%), caption: [Abb. 2.12 — Destillation (Notbehelf, P = 5): Topf-Destille 0,5–1,5 l/h – Salz/Metalle bleiben, Keime erst nachkochen (Konzept 7.2).])]]
+Ertrag konservativ : Topf-Destille _0,5–1,5 l/h_, Solarstill 0,3–1,5 l/Tag. _Salz und Metalle gehen über, Keime erst durch Nachkochen_ (siehe Konzept 6.2).
 + Topf mit Salzwasser erhitzen, Deckel schräg stellen, Kondensat auffangen.
 + Oder Solarstill (siehe Konzept 3.5).
 + Destillat nachkochen (siehe Konzept 6.2).
@@ -3360,7 +3360,7 @@ _Querverweise:_ siehe Konzept 3.5, siehe Konzept 6.2.
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [0,5–1,5 l], [rvativ (W11): Topf-Destille _0,5–1,5 l/h_, Solarstill 0,3–1,5],
+  [0,5–1,5 l], [konservativ : Topf-Destille _0,5–1,5 l/h_, Solarstill 0,3–1,5],
   [0,3–1,5 l], [e _0,5–1,5 l/h_, Solarstill 0,3–1,5 l/Tag. \*\*Salz und Metalle],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
@@ -3389,7 +3389,7 @@ _Querverweise:_ siehe Konzept 3.5, siehe Konzept 6.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W11],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3510,8 +3510,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 7.3 Chemische Desinfektion (Chlor, Notstand) <k-7-3>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb_ · P 6 · M prüfenswert · V 7 · Abb. 2.13]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-13.svg", width: 100%), caption: [Abb. 2.13 — Abb. 2.13: Chemische Desinfektion mit Chlor (Notstand): Dosis verdoppeln bei trüb/kalt – Kinder-Dosis nicht halbieren (Konzept 7.3, W5).])]]
-Dosis (W5): _\~2 Tropfen 5–6 %ige Bleiche pro Liter_; trüb oder kalt: _doppelt (4 Tropfen)_, Wartezeit _30 min (kalt 60 min)_, dann Geruchsprobe.
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-13.svg", width: 100%), caption: [Abb. 2.13 — Chemische Desinfektion mit Chlor (Notstand): Dosis verdoppeln bei trüb/kalt – Kinder-Dosis nicht halbieren (Konzept 7.3).])]]
+Dosis : _\~2 Tropfen 5–6 %ige Bleiche pro Liter_; trüb oder kalt: _doppelt (4 Tropfen)_, Wartezeit _30 min (kalt 60 min)_, dann Geruchsprobe.
 _Konzentration umrechnen (% NaOCl ↔ °chl.):_ Haushaltsbleiche wird oft als „Javel 36° chl.“ (≈ 9,6 % NaOCl) verkauft. Umrechnung: °chl. × 0,266 ≈ % NaOCl — also _36° chl. ≈ 9,6 % → Dosis halbieren: ≈ 1 Tropfen pro Liter_ (trüb/kalt: 2 Tropfen).
 #table(
   columns: 4,
@@ -3521,7 +3521,7 @@ _Konzentration umrechnen (% NaOCl ↔ °chl.):_ Haushaltsbleiche wird oft als �
   [Javel 36° chl. (≈ 9,6 %)], [≈ 9,6 %], [1], [2],
 )
 #warnrahmen(id: "warn-2")[Nie Bleiche mit _Säure (Essig/Entkalker) oder Ammoniak_ mischen — Chlorgas/Chloramine, lebensgefährlich. Nur unparfümierte Haushaltsbleiche 5–6 % NaOCl, nur mit kaltem Wasser, gut lüften. Symptome (Husten, Atemnot, Augenbrennen): sofort Frischluft, ärztlich vorstellen.]
-_Korrektur W5:_ Die Kinder-Halbdosis ist _gestrichen_ — die Desinfektionsdosis wird nicht halbiert. _Im Zweifel abkochen_ (siehe Konzept 6.2).
+_Korrektur _ Die Kinder-Halbdosis ist _gestrichen_ — die Desinfektionsdosis wird nicht halbiert. _Im Zweifel abkochen_ (siehe Konzept 6.2).
 - [ ] Dosis 2 Tropfen/l (trüb/kalt 4)
 - [ ] Wartezeit 30–60 min
 - [ ] _Keine Halbierung bei Kindern_ — im Zweifel kochen
@@ -3533,14 +3533,14 @@ _Querverweise:_ siehe Konzept 6.2, siehe Konzept 6.3, Anhang A (Chlor-Dosis-Tabe
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [2 Tropfen], [Dosis (W5): \*\*\~2 Tropfen 5–6 %ige Bleiche pro Lit],
+  [2 Tropfen], [Dosis : \*\*\~2 Tropfen 5–6 %ige Bleiche pro Lit],
   [4 Tropfen], [_; trüb oder kalt: _doppelt (4 Tropfen)_, Wartezeit _\*30 min (],
   [30 min], [lt (4 Tropfen)_, Wartezeit _30 min (kalt 60 min)\*\*, dann Ge],
   [60 min], [)_, Wartezeit _30 min (kalt 60 min)\*\*, dann Geruchsprobe.],
-  [5–6 %], [Dosis (W5): _\~2 Tropfen 5–6 %ige Bleiche pro Liter_;],
+  [5–6 %], [Dosis : _\~2 Tropfen 5–6 %ige Bleiche pro Liter_;],
   [1 Tropfen], [≈ 9,6 % → Dosis halbieren: ≈ 1 Tropfen pro Liter\*\* (trüb/kalt:],
   [9,6 %], [d oft als „Javel 36° chl.“ (≈ 9,6 % NaOCl) verkauft. Umrechn],
-  [30–60 min], [[ ] Wartezeit 30–60 min],
+  [30–60 min], [( ) Wartezeit 30–60 min],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -3568,7 +3568,7 @@ _Querverweise:_ siehe Konzept 6.2, siehe Konzept 6.3, Anhang A (Chlor-Dosis-Tabe
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W5],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3582,7 +3582,7 @@ _Querverweise:_ siehe Konzept 6.2, siehe Konzept 6.3, Anhang A (Chlor-Dosis-Tabe
   [30 min (kalt 60 min)], [siehe Glossar, Anhang D Band 1],
   [WARNRAHMEN [warn-2]:], [siehe Glossar, Anhang D Band 1],
   [Säure (Essig/Entkalker) oder Ammoniak], [siehe Glossar, Anhang D Band 1],
-  [Korrektur W5:], [siehe Glossar, Anhang D Band 1],
+  [Korrektur ], [siehe Glossar, Anhang D Band 1],
   [gestrichen], [siehe Glossar, Anhang D Band 1],
   [Im Zweifel abkochen], [siehe Glossar, Anhang D Band 1],
   [Keine Halbierung bei Kindern], [siehe Glossar, Anhang D Band 1],
@@ -3696,8 +3696,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 8.1 Haushaltsvorrat (2 l × 14 T) <k-8-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 10 · Abb. 2.14]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-14.svg", width: 100%), caption: [Abb. 2.14 — Abb. 2.14: Haushaltsvorrat: 2 l pro Person und Tag × 14 Tage = 28 l pro Person (Konzept 8.1, W21/BBK).])]]
-BBK-Wert (W21): _2 l Trinkwasser pro Person × 14 Tage_. Konsistent mit Konzept B1-9.1 (Stundenprotokoll: Verbrauch dokumentieren).
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-14.svg", width: 100%), caption: [Abb. 2.14 — Haushaltsvorrat: 2 l pro Person und Tag × 14 Tage = 28 l pro Person (Konzept 8.1, /BBK).])]]
+BBK-Wert : _2 l Trinkwasser pro Person × 14 Tage_. Konsistent mit Konzept B1-9.1 (Stundenprotokoll: Verbrauch dokumentieren).
 + Vorrat = Personen × 2 l × 14 T.
 + In sauberen, lebensmittelechten Behältern (siehe Konzept 4.1), dunkel und kühl lagern.
 + Alle 6 Monate rotieren (neu auffüllen, alt verbrauchen).
@@ -3722,7 +3722,7 @@ _Querverweise:_ siehe Konzept 2.1, siehe Konzept 4.1, siehe Konzept B1-9.1.
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [2 l], [BBK-Wert (W21): \*\*2 l Trinkwasser pro Person ×],
+  [2 l], [BBK-Wert : \*\*2 l Trinkwasser pro Person ×],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -3750,7 +3750,7 @@ _Querverweise:_ siehe Konzept 2.1, siehe Konzept 4.1, siehe Konzept B1-9.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W21],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3917,7 +3917,7 @@ _Querverweise:_ siehe Konzept 4.1, siehe Konzept 4.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -4045,10 +4045,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 === 9.1 Latrine <k-9-1>
-#konzmeta(fill: rgb("#8a6d00"))[_gelb (W7)_ · P 9 · M unbedenklich · V 9 · Abb. 2.15]
+#konzmeta(fill: rgb("#8a6d00"))[_gelb _ · P 9 · M unbedenklich · V 9 · Abb. 2.15]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-15.svg", width: 100%), caption: [Abb. 2.15 — Abb. 2.15: Latrine: Grab 25–30 cm tief, abgedeckt – Abstand zur Wasserstelle ≥ 30 m, besser 50 m, hangabwärts (Konzept 9.1, W7).])]]
-_Korrektur W7:_ Abstand zur Wasserstelle _≥ 30 m (besser 50 m), unterhalb/hangabwärts_ — siehe Konzept 1.2.
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-15.svg", width: 100%), caption: [Abb. 2.15 — Latrine: Grab 25–30 cm tief, abgedeckt – Abstand zur Wasserstelle ≥ 30 m, besser 50 m, hangabwärts (Konzept 9.1).])]]
+_Korrektur _ Abstand zur Wasserstelle _≥ 30 m (besser 50 m), unterhalb/hangabwärts_ — siehe Konzept 1.2.
 + Stelle nach Konzept 1.2 wählen (≥ 30 m, besser 50 m, hangabwärts, windabwärts).
 + Grabtiefe _25–30 cm_ (Glossar Band 1 Anhang D: Tiefe ≠ Abstand).
 + Nach jedem Gebrauch mit Erde/Spänen abdecken.
@@ -4091,7 +4091,7 @@ _Querverweise:_ siehe Konzept 1.2, siehe Konzept 2.6.2, siehe Glossar „Latrine
   columns: 3,
   table.header([*Anfängerfehler*], [*Folge*], [*Korrektur*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Latrine 20 m von Quelle], [Keime im Trinkwasser], [W7: ≥ 30 m, besser 50 m, unterhalb (1.2/9.1)],
+  [Latrine 20 m von Quelle], [Keime im Trinkwasser], [≥ 30 m, besser 50 m, unterhalb (1.2/9.1)],
 )
 #subhead[Randbedingungen & Klima/Saison (vor Ort ausfüllen)]
 #table(
@@ -4112,7 +4112,7 @@ _Querverweise:_ siehe Konzept 1.2, siehe Konzept 2.6.2, siehe Glossar „Latrine
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W7],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -4134,7 +4134,7 @@ _Querverweise:_ siehe Konzept 1.2, siehe Konzept 2.6.2, siehe Glossar „Latrine
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Korrektur W7:], [siehe Glossar, Anhang D Band 1],
+  [Korrektur ], [siehe Glossar, Anhang D Band 1],
   [Stadt / Land:], [siehe Glossar, Anhang D Band 1],
   [Trocken-Trenn-Toilette], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
@@ -4238,7 +4238,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 9.2 Grauwasser-Kette <k-9-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 9 · Abb. 2.16]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-16.svg", width: 100%), caption: [Abb. 2.16 — Abb. 2.16: Grauwasser-Kette: Küche/Wäsche → Sieb → Beet/Versickerung – nie an Haut oder Wunden (Konzept 9.2).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-16.svg", width: 100%), caption: [Abb. 2.16 — Grauwasser-Kette: Küche/Wäsche → Sieb → Beet/Versickerung – nie an Haut oder Wunden (Konzept 9.2).])]]
 Kaskade: erst Waschen (Körper), dann Spülen (Geschirr), dann Boden wischen. _Lauge nie an Haut oder Wunden_ (siehe Konzept B8-2.2).
 + Grauwasser-Zone unterhalb der Entnahme (siehe Konzept 1.2).
 + Versickerungsgrube 30 cm tief, 50 cm breit, mit Steinen gefüllt.
@@ -4282,7 +4282,7 @@ _Querverweise:_ siehe Konzept 1.2, siehe Konzept B8-2.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -4423,7 +4423,7 @@ Kopiervorlage zu Konzept 8.1 — Personen × 2 l × 14 T = Soll; Ist-Spalte; V
   [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
 )
 #pagebreak(weak: true)
-=== A2 Chlor-Dosis-Tabelle (korrigiert W5) <anh-a2>
+=== A2 Chlor-Dosis-Tabelle (korrigiert) <anh-a2>
 Kopiervorlage zu Konzept 7.3 — 1 l klar = 2 Tropfen 5–6 % NaOCl (36° chl. ≈ 9,6 %: 1 Tropfen), 30 min; trüb/kalt = doppelt, 60 min; _keine Kinder-Halbdosis — im Zweifel abkochen (6.2)_; nie mit Säure/Ammoniak mischen (`warn-2`).
 #table(
   columns: 4,
@@ -4445,7 +4445,7 @@ Kopiervorlage zu Konzept 7.3 — 1 l klar = 2 Tropfen 5–6 % NaOCl (36° chl
   [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
 )
 #pagebreak(weak: true)
-=== A3 Latrinen-Check (korrigiert W7) <anh-a3>
+=== A3 Latrinen-Check (korrigiert) <anh-a3>
 Kopiervorlage zu Konzept 9.1 — Abstand ≥ 30 m (besser 50 m) unterhalb gemessen / Grabtiefe 25–30 cm / Abdeckung vorhanden.
 #table(
   columns: 4,
@@ -4472,8 +4472,8 @@ Kopiervorlage zu Konzept 9.1 — Abstand ≥ 30 m (besser 50 m) unterhalb geme
   columns: 3,
   table.header([Anfängerfehler], [Folge], [Korrektur]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Chlor-Halbdosis für Kinder], [Unterdesinfektion], [W5: Dosis nie halbieren; im Zweifel kochen (6.2)],
-  [Latrine 20 m von Quelle], [Keime im Trinkwasser], [W7: ≥ 30 m, besser 50 m, unterhalb (1.2/9.1)],
+  [Chlor-Halbdosis für Kinder], [Unterdesinfektion], [Dosis nie halbieren; im Zweifel kochen (6.2)],
+  [Latrine 20 m von Quelle], [Keime im Trinkwasser], [≥ 30 m, besser 50 m, unterhalb (1.2/9.1)],
   [Bleiche + Essig mischen], [Chlorgas, lebensgefährlich], [`warn-2` in 7.3],
   [Trübes Wasser mit SODIS], [wirkungslos], [6.1 klären; nur \< 30 NTU (6.3)],
   [Destillat ohne Nachkochen], [Keime überlebt], [7.2 + 6.2],
@@ -4482,7 +4482,7 @@ Kopiervorlage zu Konzept 9.1 — Abstand ≥ 30 m (besser 50 m) unterhalb geme
 )
 #pagebreak(weak: true)
 == Anhang C — Übungsplan (Band 2) <anh-C>
-Q2 siehe Konzept B1-8.1: Wasseraufbereitung üben — Abkochen (6.2), Sandfilter bauen (7.1), Chlor dosieren (7.3, korrigiert), Latrine anlegen (9.1, W7). Verfalluhr 12 Monate (siehe Konzept B1-8.2).
+Q2 siehe Konzept B1-8.1: Wasseraufbereitung üben — Abkochen (6.2), Sandfilter bauen (7.1), Chlor dosieren (7.3, korrigiert), Latrine anlegen (9.1). Verfalluhr 12 Monate (siehe Konzept B1-8.2).
 #pagebreak(weak: true)
 == Bandabschluss Band 2 — Bewertungsmatrix + Devise <abschluss>
 #table(
@@ -4490,7 +4490,7 @@ Q2 siehe Konzept B1-8.1: Wasseraufbereitung üben — Abkochen (6.2), Sandfilter
   table.header([Konzept], [P], [M], [V], [Ampel]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [1.1 Wassergerechtigkeit], [8], [unbedenklich], [10], [grün],
-  [1.2 Zonenplan], [9], [unbedenklich], [9], [_gelb (W7: ≥ 30/50 m)_],
+  [1.2 Zonenplan], [9], [unbedenklich], [9], [_gelb (≥ 30/50 m)_],
   [2.1 Bedarfsrechnung], [9], [unbedenklich], [9], [grün],
   [2.2 Bedarfsprofile], [9], [unbedenklich], [9], [grün],
   [2.3 Ertragsrechnung], [8], [unbedenklich], [8], [grün],
@@ -4509,10 +4509,10 @@ Q2 siehe Konzept B1-8.1: Wasseraufbereitung üben — Abkochen (6.2), Sandfilter
   [6.3 SODIS], [6], [unbedenklich], [8], [_gelb_],
   [7.1 Langsamsandfilter], [7], [unbedenklich], [7], [grün],
   [7.2 Destillation], [5], [unbedenklich], [8], [_gelb (Notbehelf-Grenze)_],
-  [7.3 Chlor], [6], [prüfenswert], [7], [_gelb (W5 + warn-2)_],
+  [7.3 Chlor], [6], [prüfenswert], [7], [_gelb (+ warn-2)_],
   [8.1 Haushaltsvorrat], [9], [unbedenklich], [10], [grün],
   [8.2 Wiederverseuchung], [8], [unbedenklich], [9], [grün],
-  [9.1 Latrine], [9], [unbedenklich], [9], [_gelb (W7)_],
+  [9.1 Latrine], [9], [unbedenklich], [9], [_gelb _],
   [9.2 Grauwasser], [7], [unbedenklich], [9], [grün],
 )
 #devise[„Finde das Wasser oben, halte die Latrine unten und fern — und koche im Zweifel immer ab.“]#pagebreak(weak: true)
@@ -4571,6 +4571,35 @@ Alle Verweise aus diesem Band auf andere Bände (Schema B\<Band\>-X.Y):
   [9.1], [B8-2.2],
   [9.1], [B4-1.2],
   [9.2], [B8-2.2],
+)
+#pagebreak(weak: true)
+== Prüfprotokoll (interne Quellen-IDs) <pruefprotokoll>
+Interne Prüf-IDs aus dem Factcheck (dreifache Prüfung). Sie stehen nicht im Lesetext, sondern hier im Protokoll.
+#table(
+  columns: 3,
+  table.header([*ID*], [*Konzept*], [*Fundstelle (Kontext)*]),
+  table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [W7], [Band], [Korrekturen umgesetzt: _\*_\* (Latrine–Wasser ≥ 30 m, besser 50 m, unter],
+  [W5], [Band], [m, unterhalb/hangabwärts) in 1.2 und 9.1; _\*_\* (keine Kinder-Halbdosis beim Chlor — im Zw],
+  [W7], [1.2], [\#\#\# 1.2 Zonenplan — _gelb _ · P 9 · M unbedenklich · V 9 · Abb. 2.1],
+  [W1], [2.1], [Werte : Trinkminimum _2–3 l/Person/Tag_ (K],
+  [W2], [2.1], [Werte : Trinkminimum _2–3 l/Person/Tag_ (Kind],
+  [W8], [2.3], [Regenformel : _1 mm Niederschlag × 1 m² Fläche = 1 l_],
+  [W4], [3.1], [d. Ölfilm oder Chemiegeruch = _verwerfen_ (Abkochen tötet keine chemischen Gifte).],
+  [W11], [3.5], [Der Solarstill ist ein Notbehelf : Ertrag konservativ _0,3–1,5 l/Tag_, nur],
+  [W9], [3.7], [Schmelze statt Schnee essen : Pulverschnee ≈ 1:10, Altschnee 2–3:10, Kru],
+  [W20], [4.2], [Konsistent mit Traglast (siehe Konzept B1-6.5): 10 l Wasser = 10 kg],
+  [W4], [5.1], [| Ölfilm | Chemie | verwerfen |],
+  [W3], [6.2], [Wert (CDC/WHO): \*\*1 Minute sprudelnd kochen; ab 2],
+  [W4], [6.2], [ischen Gifte, kein Salz, keine Algengifte\*\* — bei Chemie/Blaualgen andere Quelle oder D],
+  [W6], [6.3], [2 l_, _6 h volle Sonne / 2 Tage bewölkt_ . _Im Zweifel kochen\*\* (siehe Konzept 6.2).],
+  [W10], [7.1], [Maße : _40–60 cm Sand_, Wasserstand nie unter \*],
+  [W11], [7.2], [Ertrag konservativ : Topf-Destille _0,5–1,5 l/h_, Solarstill],
+  [W5], [7.3], [Dosis : _\~2 Tropfen 5–6 %ige Bleiche pro Liter_],
+  [W21], [8.1], [BBK-Wert : _2 l Trinkwasser pro Person × 14 Tage_.],
+  [W7], [9.1], [\#\#\# 9.1 Latrine — _gelb _ · P 9 · M unbedenklich · V 9 · Abb. 2.15],
+  [W5], [9.2], [- _A2 Chlor-Dosis-Tabelle (korrigiert)_ (zu 7.3): 1 l klar = 2 Tropfen 5–6 % NaOC],
+  [W7], [9.2], [- _A3 Latrinen-Check (korrigiert)_ (zu 9.1): Abstand ≥ 30 m (besser 50 m) un],
 )
 
 #pagebreak(weak: true)

@@ -88,7 +88,7 @@ _Querverweise:_ siehe Konzept 9.1, siehe Konzept B10-2.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -231,7 +231,7 @@ _Querverweise:_ siehe Konzept 9.1, siehe Konzept B2-8.1, Haushaltsvorrat.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -375,7 +375,7 @@ _Querverweise:_ siehe Konzept 8.1, siehe Konzept 8.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -525,7 +525,7 @@ _Wasser, Wärme, Luft, Licht, Gäste_ — gegen jeden ein Mittel (Kapitel 3–8)
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -634,8 +634,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 2.2 Die sechs Wege (Haltbarkeits-Tafeln) <k-2-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 7.1]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-1.svg", width: 100%), caption: [Abb. 7.1 — Abb. 7.1: Die sechs Wege der Haltbarkeit (Tafeln nach USDA, W25): Konzept 2.2.])]]
-Trocknen, Räuchern, Salzen/Pökeln, Säuern/Einlegen, Einkochen, Kühlen — Tafeln gegen USDA abgeglichen (W25).
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-1.svg", width: 100%), caption: [Abb. 7.1 — Die sechs Wege der Haltbarkeit (Tafeln nach USDA): Konzept 2.2.])]]
+Trocknen, Räuchern, Salzen/Pökeln, Säuern/Einlegen, Einkochen, Kühlen — Tafeln gegen USDA abgeglichen.
 #table(
   columns: 3,
   table.header([Verfahren], [Haltbarkeit (Richtwert)], [Gehalt]),
@@ -674,7 +674,7 @@ _Querverweise:_ siehe Konzept 6.2k (`warn-7b`).
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W25],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -811,7 +811,7 @@ _Querverweise:_ siehe Konzept 8.1, siehe Konzept 8.2 (Mykotoxine).
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -960,7 +960,7 @@ _Querverweise:_ siehe Konzept 3.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1070,9 +1070,9 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 3.2 Dörrware <k-3-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün + _WARNRAHMEN [warn-7a]_ · P 9 · M unbedenklich · V 9 · Abb. 7.2]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-2.svg", width: 100%), caption: [Abb. 7.2 — Abb. 7.2: Dörrware-Reduktion: Fleisch 3:1, Fisch 4:1, Obst 5:1, Kraut 10:1 – Preheat 71 °C, Brechprobe (Konzept 3.2, warn-7a, W25).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-2.svg", width: 100%), caption: [Abb. 7.2 — Dörrware-Reduktion: Fleisch 3:1, Fisch 4:1, Obst 5:1, Kraut 10:1 – Preheat 71 °C, Brechprobe (Konzept 3.2, warn-7a).])]]
 #warnrahmen(id: "warn-7a", title: [HALBTROCKENE DÖRRFALLE (09 Nr. 8, verschärft):])[_USDA-Preheat: Fleisch und Fisch vor dem Dörren auf 71 °C Kerntemperatur erhitzen_ (Trocknen allein tötet Keime nicht sicher; Kern messen mit Thermometer, siehe B8-8.1/B9-8.1, Ersatzkriterien siehe B6-9.1). Halbtrocken bedeutet: die Ware _biegt sich noch, statt spröde zu brechen_ (Wasseraktivität aw \> 0,85) — darauf wachsen S. aureus (Enterotoxin hitzestabil) und C. perfringens. Dörrware muss _spröde brechen (Brechprobe)_, Scheiben _fingerdünn_. _Schimmel auf Dörrware → ganz wegwerfen_ (Mykotoxine penetrieren, siehe Konzept 8.2).]
-Reduktionsverhältnisse (W25): Fleisch 3:1, Fisch 4:1, Obst 5:1, Kraut 10:1.
+Reduktionsverhältnisse : Fleisch 3:1, Fisch 4:1, Obst 5:1, Kraut 10:1.
 - [ ] Preheat 71 °C Kern vor dem Dörren
 - [ ] Brechprobe bestanden
 - [ ] Fingerdünn geschnitten
@@ -1113,7 +1113,7 @@ _Querverweise:_ siehe Konzept 8.2, siehe Konzept 3.1, siehe Konzept 6.2k (Kern-T
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W25],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1238,7 +1238,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 4.1 Räucher-Ofen (Kalt-/Warmgang) <k-4-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 7.3]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-3.svg", width: 100%), caption: [Abb. 7.3 — Abb. 7.3: Räucher-Ofen: Kaltgang (\< 30 °C) und Warmgang (60–80 °C) – kaltgeräucherter Fisch allein nicht haltbar (Konzept 4.1, Botulismus Typ E).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-3.svg", width: 100%), caption: [Abb. 7.3 — Räucher-Ofen: Kaltgang (\< 30 °C) und Warmgang (60–80 °C) – kaltgeräucherter Fisch allein nicht haltbar (Konzept 4.1, Botulismus Typ E).])]]
 + Warmgang: 60–80 °C, Kern durchgaren (siehe Konzept 4.3).
 + Kaltgang: \< 30 °C — _kaltgeräucherter Fisch allein ist nicht haltbar_ (Botulismus Typ E, siehe Konzept 6.2k `warn-7b`): zusätzlich salzen/pökeln (siehe Konzept 5.2) oder sofort verbrauchen.
 - [ ] Warmgang: Kern durchgegart
@@ -1278,7 +1278,7 @@ _Querverweise:_ siehe Konzept 6.2k (`warn-7b`), siehe Konzept 5.2, siehe Konzept
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1394,7 +1394,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 4.2 Holz & Rauch <k-4-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 9 · Abb. 7.4]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-4.svg", width: 100%), caption: [Abb. 7.4 — Abb. 7.4: Räucherholz: Hartholz ja – Nadelholz verboten (Terpentin), Torf nur gemischt (Konzept 4.2).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-4.svg", width: 100%), caption: [Abb. 7.4 — Räucherholz: Hartholz ja – Nadelholz verboten (Terpentin), Torf nur gemischt (Konzept 4.2).])]]
 _Nadelholz-Verbot_ (Terpentin, harzig, ungenießbarer Rauch). Torf nur gemischt (siehe Konzept B3-7.2). Hartholz (Buche, Eiche) bevorzugen.
 - [ ] Kein Nadelholz
 - [ ] Hartholz bevorzugt
@@ -1425,7 +1425,7 @@ _Querverweise:_ siehe Konzept B3-2.2, siehe Konzept B3-7.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1570,7 +1570,7 @@ _Querverweise:_ siehe Konzept 5.2, siehe Konzept 6.1, siehe Konzept 6.2k.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1690,7 +1690,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 #pagebreak(weak: true)
 === 5.1 Das Salz <k-5-1>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb + WARNRAHMEN [warn-7c]_ · P 7 · M prüfenswert · V 8]
-#warnrahmen(id: "warn-7c", title: [UNBEKANNTES SALZ (WARN 2, 09 § 4.3):])[_Streusalz und Regeneriersalz nie in die Küche_ — Ferrocyanid-Rieselhilfe und Verunreinigungen. Nur Salz _bekannter Herkunft_ (Meersalz, Siedesalz, Steinsalz aus kontrollierter Quelle). Herkunft prüfen, bevor du salzt.]
+#warnrahmen(id: "warn-7c", title: [UNBEKANNTES SALZ (09 § 4.3):])[_Streusalz und Regeneriersalz nie in die Küche_ — Ferrocyanid-Rieselhilfe und Verunreinigungen. Nur Salz _bekannter Herkunft_ (Meersalz, Siedesalz, Steinsalz aus kontrollierter Quelle). Herkunft prüfen, bevor du salzt.]
 - [ ] Herkunft des Salzes bekannt
 - [ ] Kein Streusalz/Regeneriersalz in Lebensmitteln (siehe auch Konzept B2-3.7, Tausalz-Schnee)
 #baustein[Salz aus der Winterstreuung ist für die Straße, nicht für den Topf.]
@@ -1721,7 +1721,7 @@ _Querverweise:_ siehe Konzept B2-3.7, siehe Konzept 5.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1832,8 +1832,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 5.2 Pökeln (Lake-Ei-Test) <k-5-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 7.5]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-5.svg", width: 100%), caption: [Abb. 7.5 — Abb. 7.5: Pökeln: Lake-Ei-Test (rohes Ei schwimmt = genug Salz) – Speck 7–10 Tage, Schinken \~1 Tag/cm + 2 Tage (Konzept 5.2, W26).])]]
-Werte (W26): _Lake-Ei-Test_ — ein _frisches rohes Ei_ (legt in Süßwasser auf den Grund) _schwimmt in der fertigen Lake_ (Salzgehalt ausreichend). Speck _7–10 Tage_, Schinken _\~1 Tag je cm Dicke + 2 Tage_ (konservativer als USDA).
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-5.svg", width: 100%), caption: [Abb. 7.5 — Pökeln: Lake-Ei-Test (rohes Ei schwimmt = genug Salz) – Speck 7–10 Tage, Schinken \~1 Tag/cm + 2 Tage (Konzept 5.2).])]]
+Werte : _Lake-Ei-Test_ — ein _frisches rohes Ei_ (legt in Süßwasser auf den Grund) _schwimmt in der fertigen Lake_ (Salzgehalt ausreichend). Speck _7–10 Tage_, Schinken _\~1 Tag je cm Dicke + 2 Tage_ (konservativer als USDA).
 + Lake ansetzen: Salzgehalt prüfen (Ei-Test).
 + Fleisch einlegen, kühl stellen (siehe Konzept 8.1).
 + Zeiten einhalten; danach wässern und trocknen/räuchern.
@@ -1854,7 +1854,7 @@ _Querverweise:_ siehe Konzept 5.1 (`warn-7c`), siehe Konzept 8.1, siehe Konzept 
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [7–10 T], [[ ] Zeiten eingehalten (Speck 7–10 T; Schinken 1 T/cm + 2 T)],
+  [7–10 T], [( ) Zeiten eingehalten (Speck 7–10 T; Schinken 1 T/cm + 2 T)],
   [1 T], [alten (Speck 7–10 T; Schinken 1 T/cm + 2 T)],
   [2 T], [eck 7–10 T; Schinken 1 T/cm + 2 T)],
 )
@@ -1884,7 +1884,7 @@ _Querverweise:_ siehe Konzept 5.1 (`warn-7c`), siehe Konzept 8.1, siehe Konzept 
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W26],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2019,7 +2019,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 6.1 Kraut-Fass (Milchsäure/Lake) <k-6-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 7.6]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-6.svg", width: 100%), caption: [Abb. 7.6 — Abb. 7.6: Kraut-Fass: Kraut einsalzen, Lake auffüllen, Gärrohr – Milchsäure konserviert (Konzept 6.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-6.svg", width: 100%), caption: [Abb. 7.6 — Kraut-Fass: Kraut einsalzen, Lake auffüllen, Gärrohr – Milchsäure konserviert (Konzept 6.1).])]]
 + Kraut hobeln, salzen (siehe Konzept 5.1), stampfen bis Lake austritt.
 + Luftdicht ins Fass drücken, beschweren (Stein), Deckel mit Wasserbund.
 + Milchsäuregärung bei 15–20 °C, 2–4 Wochen.
@@ -2061,7 +2061,7 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept 8.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2180,8 +2180,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 6.2k Einkochen, Öl & Essig <k-6-2k>
 #konzmeta(fill: rgb("#1a6b1a"))[_\*_ · grün + _WARNRAHMEN [warn-7b]_\* · P 7 · M prüfenswert · V 8 · Abb. 7.7]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-7.svg", width: 100%), caption: [Abb. 7.7 — Abb. 7.7: Einkochen korrigiert (warn-7b, W13): pH messen – Wasserbad nur pH ≤ 4,6, low-acid nur Druckkocher 116–121 °C (Konzept 6.2k, NCHFP).])]]
-#warnrahmen(id: "warn-7b", title: [BOTULISMUS (W13, 09 § 2.1):])[Sporen von _C. botulinum_ überleben stundenlanges Kochen; Wasserbad (max. 100 °C) tötet sie _nicht_. Low-acid food braucht den _Druckkocher 116–121 °C_. _Gewölbte Deckel, Schwall beim Öffnen, Fremdgeruch, Schimmel → Glas ungeöffnet wegwerfen — nie probieren, nicht an Tiere verfüttern_ (Vorkochen macht ein sporibelastetes Glas nicht sicher).]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-7.svg", width: 100%), caption: [Abb. 7.7 — Einkochen korrigiert (warn-7b): pH messen – Wasserbad nur pH ≤ 4,6, low-acid nur Druckkocher 116–121 °C (Konzept 6.2k, NCHFP).])]]
+#warnrahmen(id: "warn-7b", title: [BOTULISMUS (09 § 2.1):])[Sporen von _C. botulinum_ überleben stundenlanges Kochen; Wasserbad (max. 100 °C) tötet sie _nicht_. Low-acid food braucht den _Druckkocher 116–121 °C_. _Gewölbte Deckel, Schwall beim Öffnen, Fremdgeruch, Schimmel → Glas ungeöffnet wegwerfen — nie probieren, nicht an Tiere verfüttern_ (Vorkochen macht ein sporibelastetes Glas nicht sicher).]
 > „Einkochen von Fleisch, Geflügel, Fisch und Gemüse (pH \> 4,6) gelingt nur im _Druckkocher bei 116–121 °C_ (10 psi bis 300 m, darüber 15 psi) mit den Zeiten nach USDA/NCHFP (z. B. Fleisch: Pintsglas 75 min, Quartglas 90 min bei 10 psi). Ein Wasserbad (max. 100 °C) tötet die Sporen von _C. botulinum_ nicht — es ist nur für Obst und sauer Eingelegtes (pH ≤ 4,6, gemessen) zulässig. pH mit Indikatorpapier messen; ohne Messung konservativ Druckkocher wählen. Kräuter/Knoblauch in Öl nur mit Säuerung auf pH \< 4,6 oder vollständig getrocknet, kühl lagern, innerhalb weniger Tage verbrauchen. Gewölbte Deckel, Schwall oder Fremdgeruch: Glas ungeöffnet wegwerfen — nie probieren.“
 _Umrechnung:_ 1 psi ≈ 0,069 bar → _10 psi ≈ 0,7 bar_ (bis 300 m Höhe), _15 psi ≈ 1,0 bar_ (über 300 m). US-Pintsglas ≈ _0,5 l_, US-Quartglas ≈ _1 l_.
 _Einkoch-Zeiten inline (NCHFP-Richtwerte, low-acid pH \> 4,6, 10 psi ≈ 0,7 bar, bis 300 m):_
@@ -2278,7 +2278,7 @@ _Querverweise:_ siehe Konzept 4.1 (Räucherfisch), siehe Konzept 6.1, siehe Konz
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W13],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2454,7 +2454,7 @@ _Querverweise:_ siehe Konzept 6.2k.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2584,7 +2584,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 7.1 Schmalz & Talg <k-7-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 7.8]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-8.svg", width: 100%), caption: [Abb. 7.8 — Abb. 7.8: Schmalz & Talg: Fett auslassen, sieben, kühl stellen – Ranz-Warnung (Konzept 7.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-8.svg", width: 100%), caption: [Abb. 7.8 — Schmalz & Talg: Fett auslassen, sieben, kühl stellen – Ranz-Warnung (Konzept 7.1).])]]
 + Fett schmelzen bei niedriger Hitze, durchseihen.
 + In Gläser füllen, luftdicht, kühl und dunkel lagern (siehe Konzept 8.1).
 + _Ranz-Warnung:_ streng riechendes Fett wegwerfen.
@@ -2626,7 +2626,7 @@ _Querverweise:_ siehe Konzept 8.1, siehe Konzept 8.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2745,8 +2745,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 7.2 Seife aus Resten <k-7-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 6 · M unbedenklich · V 8 · Abb. 7.9]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-9.svg", width: 100%), caption: [Abb. 7.9 — Abb. 7.9: Seife aus Resten: 1 Pfund Fett → 1 Pfund Seife, Lauge 0,5 l/Pfund, Reife 4–6 Wochen (Konzept 7.2, W27).])]]
-Werte (W27): _\~1 Pfund (= 500 g) Fett → \~500 g Seife_; Lauge _0,5 l pro Pfund (500 g) Fett_; _Reife 4–6 Wochen_.
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-9.svg", width: 100%), caption: [Abb. 7.9 — Seife aus Resten: 1 Pfund Fett → 1 Pfund Seife, Lauge 0,5 l/Pfund, Reife 4–6 Wochen (Konzept 7.2).])]]
+Werte : _\~1 Pfund (= 500 g) Fett → \~500 g Seife_; Lauge _0,5 l pro Pfund (500 g) Fett_; _Reife 4–6 Wochen_.
 + Lauge aus Asche herstellen (siehe B3-8.2: 2 Hände Asche/10 l Wasser).
 + Fett erhitzen, Lauge zugeben, rühren bis _„Spur ziehen“_ — die Masse hinterlässt auf dem Löffel eine sichtbare dickflüssige Bahn.
 + In Form gießen, 4–6 Wochen reifen lassen.
@@ -2768,7 +2768,7 @@ _Querverweise:_ siehe Konzept B3-8.2, siehe Konzept 8.1.
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [500 g], [Werte (W27): _\~1 Pfund (= 500 g) Fett → \~500 g Seife_;],
+  [500 g], [Werte : _\~1 Pfund (= 500 g) Fett → \~500 g Seife_;],
   [0,5 l], [ett → \~500 g Seife_; Lauge _0,5 l pro Pfund (500 g) Fett\*\*],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
@@ -2797,7 +2797,7 @@ _Querverweise:_ siehe Konzept B3-8.2, siehe Konzept 8.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [W27],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2961,7 +2961,7 @@ _Querverweise:_ siehe Konzept B6-9.3, siehe Konzept 7.1, siehe Konzept B9-7.3, L
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3093,7 +3093,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 8.1 Die kalte Kammer (Zonen) <k-8-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 7.10]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-10.svg", width: 100%), caption: [Abb. 7.10 — Abb. 7.10: Die kalte Kammer: Zonen kühl (0–8 °C), trocken, dunkel, luftig – Abstände zum Feuer wie B3 (Konzept 8.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-10.svg", width: 100%), caption: [Abb. 7.10 — Die kalte Kammer: Zonen kühl (0–8 °C), trocken, dunkel, luftig – Abstände zum Feuer wie B3 (Konzept 8.1).])]]
 Zonen konsistent mit Feuer-Abständen Band 3 (siehe Konzept B3-1.2).
 #table(
   columns: 3,
@@ -3140,7 +3140,7 @@ _Querverweise:_ siehe Konzept B3-1.2, siehe Konzept 8.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3252,7 +3252,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 8.2 Gäste & Verderb-Atlas <k-8-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 7.11]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-11.svg", width: 100%), caption: [Abb. 7.11 — Abb. 7.11: Verderb-Atlas: retten / essen / wegwerfen – verschimmeltes Korn, Brot, Nüsse NIEMALS retten (Mykotoxine penetrieren) (Konzept 8.2).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-11.svg", width: 100%), caption: [Abb. 7.11 — Verderb-Atlas: retten / essen / wegwerfen – verschimmeltes Korn, Brot, Nüsse NIEMALS retten (Mykotoxine penetrieren) (Konzept 8.2).])]]
 Entscheidungstabelle: retten / essen / wegwerfen.
 #kasten([Mykotoxine (09 § 4.3):])[Verschimmeltes _Korn, Brot und Nüsse nie retten_ — Mykotoxine penetrieren das ganze Stück. Schimmel auf harter Ware (Käse, feste Wurst): Rand großzügig wegschneiden, Rest prüfen. Weichware mit Schimmel: ganz wegwerfen.]
 - [ ] Atlas bekannt
@@ -3284,7 +3284,7 @@ _Querverweise:_ siehe Konzept 3.2 (`warn-7a`), siehe Konzept 2.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3406,7 +3406,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 9.1 Winter-Rechnung <k-9-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 7.12]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-12.svg", width: 100%), caption: [Abb. 7.12 — Abb. 7.12: Winter-Rechnung: 100 stille Tage + 20–33 % Zugabe auf den Tagesbedarf (Konzept 9.1).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-12.svg", width: 100%), caption: [Abb. 7.12 — Winter-Rechnung: 100 stille Tage + 20–33 % Zugabe auf den Tagesbedarf (Konzept 9.1).])]]
 _100 stille Tage + 20–33 % Zugabe._
 + Tage × Personen × Tagesbedarf (siehe Konzept B2-2.1 für Wasser; Kalorien analog) rechnen.
 + 20–33 % Zugabe für Krankheit, Mehrverbrauch, Verluste.
@@ -3455,7 +3455,7 @@ _Querverweise:_ siehe Konzept B2-2.1, siehe Konzept 1.2, siehe Konzept 9.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3602,7 +3602,7 @@ _Querverweise:_ siehe Konzept B6-9.1, siehe Konzept 1.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3749,7 +3749,7 @@ _Querverweise:_ siehe Konzept B5-8.3, siehe Konzept 8.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [siehe W-Register im Text],
+  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -4013,8 +4013,8 @@ Alle Konzepte dieses Bandes im Überblick — abhaken, wenn geübt/gelesen:
   table.header([*Warngrafik*], [*Thema*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [warn-7a], [HALBTROCKENE DÖRRFALLE 09 NR 8 VERSCHÄRF],
-  [warn-7c], [UNBEKANNTES SALZ WARN 2 09  43],
-  [warn-7b], [BOTULISMUS W13 09  21],
+  [warn-7c], [UNBEKANNTES SALZ 09  43],
+  [warn-7b], [BOTULISMUS 09  21],
 )
 #pagebreak(weak: true)
 == Querverweis-Register Band 7 <querverweis-register>
@@ -4043,6 +4043,20 @@ Alle Verweise aus diesem Band auf andere Bände (Schema B\<Band\>-X.Y):
   [9.1], [B2-8.1],
   [9.2], [B6-9.1],
   [9.3], [B5-8.3],
+)
+#pagebreak(weak: true)
+== Prüfprotokoll (interne Quellen-IDs) <pruefprotokoll>
+Interne Prüf-IDs aus dem Factcheck (dreifache Prüfung). Sie stehen nicht im Lesetext, sondern hier im Protokoll.
+#table(
+  columns: 3,
+  table.header([*ID*], [*Konzept*], [*Fundstelle (Kontext)*]),
+  table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [W25], [2.2], [hen, Kühlen — Tafeln gegen USDA abgeglichen .],
+  [W25], [3.2], [Reduktionsverhältnisse : Fleisch 3:1, Fisch 4:1, Obst 5:1, Kraut 10],
+  [WARN 2], [5.1], [\> _WARNRAHMEN (warn-7c) — UNBEKANNTES SALZ (WARN 2, 09 § 4.3):_ \*\*Streusalz und Regeneri],
+  [W26], [5.2], [Werte : _Lake-Ei-Test_ — ein \*\*frisches rohes Ei],
+  [W13], [6.2k], [\> _WARNRAHMEN (warn-7b) — BOTULISMUS (09 § 2.1):_ Sporen von _C. botulinum_ über],
+  [W27], [7.2], [Werte : _\~1 Pfund (= 500 g) Fett → \~500 g Seife_],
 )
 
 #pagebreak(weak: true)

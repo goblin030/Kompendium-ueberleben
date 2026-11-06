@@ -66,7 +66,7 @@ def main(src_path: str, dst_path: str, title: str) -> None:
         page[NameObject("/BleedBox")] = RectangleObject([FloatObject(0), FloatObject(0), FloatObject(W), FloatObject(H)])
     writer.add_metadata({
         "/Title": title,
-        "/Author": "Das Ueberlebenbuch - prepress (Phase I)",
+        "/Author": "Das Ueberlebenbuch",
         "/Subject": "Druckdaten mit 3 mm Anschnitt und Schnittmarken",
         "/Creator": "bleed_marks.py (pypdf)",
     })
