@@ -15,12 +15,8 @@ Warnrahmen umgesetzt: 2.2 `[warn-8a]` Tetanus (verschärft nach 09 Nr. 3). SME-K
 
 Behandle nur, was du **können** (Übung), was die **Frist** erlaubt und was der **Zustand** des Patienten braucht. Sonst: Abgabe-Regel (siehe Konzept 1.2).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.1 „Grenze des Behandelns“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B8-01 (Checklisten-Anhang am Bandende) — „1.1 Grenze des Behandelns“.
 
-- [ ] Können ehrlich eingeschätzt
-- [ ] Frist bekannt
 
 > **BAUSTEIN:** Erst das Können, dann die Frist, dann die Tat.
 
@@ -41,12 +37,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 5. **Blatt:** Protokoll (Anhang A Band 8) — jede Maßnahme mit Uhrzeit (siehe Konzept B1-7.3).
 6. **Abgabe:** bei Grenze (siehe Konzept 1.1) — Helfer-Netz (siehe Konzept 1.3).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.2 „Sanitäts-Kette“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B8-02 (Checklisten-Anhang am Bandende) — „1.2 Sanitäts-Kette“.
 
-- [ ] Fünf Stationen durchlaufen
-- [ ] Protokoll geführt
 
 **Querverweise:** siehe Konzept 1.1, siehe Konzept 1.3, siehe Konzept B1-2.1.
 **Erklärung:**
@@ -58,12 +50,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 **Zwei Wissende, zwei Wege, ein Bote** (siehe Konzept B1-5.2): mind. zwei Personen mit Erster Hilfe, zwei Flucht-/Transportwege, ein Bote für Hilfe.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.3 „Helfer-Netz“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B8-03 (Checklisten-Anhang am Bandende) — „1.3 Helfer-Netz“.
 
-- [ ] Zwei Wissende benannt
-- [ ] Zwei Wege geplant
 
 **Querverweise:** siehe Konzept B1-5.2, siehe Konzept B10-1.3, Helfer-Netz im Dorf.
 
@@ -88,12 +76,8 @@ ERC-konsistent:
 4. Bei Durchblutung: zweiten Verband darüber, nie den ersten abnehmen.
 5. Schockzeichen (Blässe, Kaltschweiß, schneller Puls — siehe Konzept B1-7.3): Flachlagerung, Beine hoch, Wärme (siehe Konzept B4-2.1).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.1 „Blutung stillen (Druckverband 15 min)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B8-04 (Checklisten-Anhang am Bandende) — „2.1 Blutung stillen (Druckverband 15 min)“.
 
-- [ ] 15 min Druckverband
-- [ ] Nie zwischenzeitlich gelöst
 
 > **BAUSTEIN:** Druck, 15 Minuten, nicht nachsehen. Blut stoppt unter Druck.
 
@@ -112,14 +96,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 3. Risikowunde: offen lassen, lockerer Verband.
 4. Impfstatus erfragen; Booster-Regeln anwenden.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.2 „Wunde reinigen & schließen“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B8-05 (Checklisten-Anhang am Bandende) — „2.2 Wunde reinigen & schließen“.
 
-- [ ] Gesottenes Wasser verwendet (siehe Konzept B2-6.2)
-- [ ] Risikowunde offen gehalten
-- [ ] Booster-Regeln geprüft
-- [ ] Impfstoff kühl (2–8 °C) gelagert
 
 > **BAUSTEIN:** Schmutzige Wunde offen halten und impfen lassen — Wundstarrkrampf ist tödlich und vermeidbar.
 
@@ -135,12 +113,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 > **Naht-Regel (09 §4.4):** Naht nur bei **sauberer Schnittwunde < 6–12 h** durch erfahrene Person; sonst **offen sekundär heilen lassen**.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.3 „Die heilende Wunde“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B8-06 (Checklisten-Anhang am Bandende) — „2.3 Die heilende Wunde“.
 
-- [ ] Fünf Zeichen beobachtet
-- [ ] Naht nur < 6–12 h sauber
 
 **Querverweise:** siehe Konzept 2.2 (`warn-8a`).
 
@@ -161,12 +135,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 > **Korrektur (09 §4.4):** **Beinwell nur äußerlich auf intakter Haut** — siehe Konzept B5-6.1.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.1 „Kräuter-Lese“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B8-07 (Checklisten-Anhang am Bandende) — „3.1 Kräuter-Lese“.
 
-- [ ] Zwei Zeugen
-- [ ] Beinwell nur äußerlich
 
 **Querverweise:** siehe Konzept B5-2.2, `warn-5`, siehe Konzept B5-6.1.
 **Erklärung:**
@@ -184,13 +154,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 **1-Tag-Frist:** Zubereitungen halten 1 Tag (kühl). Frisch = 1,5× getrocknete Dosis, **nie doppelt**.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.2 „Aufgüsse / Absud / Kaltauszug“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B8-08 (Checklisten-Anhang am Bandende) — „3.2 Aufgüsse / Absud / Kaltauszug“.
 
-- [ ] Zeiten eingehalten
-- [ ] 1-Tag-Frist beachtet
-- [ ] Dosierung nicht verdoppelt
 
 **Querverweise:** siehe Konzept B5-6.2.
 **Erklärung:**
@@ -202,12 +167,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 > **Botulismus-Falle (09 §2.1):** **Öl-Auszug nur gesäuert (pH < 4,6, gemessen) oder vollständig getrocknet** — siehe Konzept B7-6.2k, `warn-7b`. **Datum am Gefäß.**
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.3 „Tinkturen / Salben / Öle“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B8-09 (Checklisten-Anhang am Bandende) — „3.3 Tinkturen / Salben / Öle“.
 
-- [ ] Öl-Auszug nur gesäuert/getrocknet
-- [ ] Datum am Gefäß
 
 **Querverweise:** siehe Konzept B7-6.2k, `warn-7b`, siehe Konzept B5-6.2.
 **Erklärung:**
@@ -219,11 +180,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 Brei **lauwarm, nie heiß** (Verbrühungsgrenze 55 °C, siehe Konzept B1-7.4, W22). Dampf-Umschlag mit Distanz (nicht direkt auf Haut).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.4 „Umschlag-Buch“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B8-10 (Checklisten-Anhang am Bandende) — „3.4 Umschlag-Buch“.
 
-- [ ] Lauwarm, nie heiß
 
 **Querverweise:** siehe Konzept B1-7.4, siehe Konzept 7.1.
 
@@ -246,12 +204,8 @@ Verlauf beobachten: **Anstieg – Höhe – Abfall**. **Nie kalt gegen den Ansti
 2. Fieber-Kurve führen (Anhang A Band 8).
 3. Ab geschätzten 39 °C (Puls-Regel/Schüttelfrost): siehe Konzept 4.2.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.1 „Fieber lesen“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B8-11 (Checklisten-Anhang am Bandende) — „4.1 Fieber lesen“.
 
-- [ ] Kurve geführt
-- [ ] Kein Kaltwasser gegen Anstieg
 
 **Querverweise:** siehe Konzept 4.2, siehe Konzept B1-7.4.
 **Erklärung:**
@@ -265,12 +219,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 > **ORS-Rezept (SME-Ergänzung, 09 §4.4):** **1 l abgekochtes Wasser + 6 gestrichene TL Zucker + ½ TL Salz**, schluckweise geben — bei Durchfall/Erbrechen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.2 „Wärme-Regie“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B8-12 (Checklisten-Anhang am Bandende) — „4.2 Wärme-Regie“.
 
-- [ ] 2–4 l/Tag lauwarm
-- [ ] ORS-Rezept bekannt
 
 **Querverweise:** siehe Konzept B2-2.1, siehe Konzept B2-6.2, abgekocht.
 **Erklärung:**
@@ -287,12 +237,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 3. Ruhe (siehe Konzept B1-2.1), frische Luft, Oberkörper hoch.
 4. Blaue Lippen/Zyanose: Notfall — siehe Konzept 1.2 (Abgabe).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.3 „Atem & Atem-Not“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B8-13 (Checklisten-Anhang am Bandende) — „4.3 Atem & Atem-Not“.
 
-- [ ] Frequenz gezählt
-- [ ] Blaue Lippen = Alarm
 
 > **BAUSTEIN:** Blaue Lippen sind kein Farbstift. Sofort handeln.
 
@@ -328,13 +274,8 @@ Pflanzen (siehe Konzept B5-2.2, `warn-5`), Pilze (siehe Konzept B5-9.1, `warn-5b
 3. Reste sichern.
 4. Patienten ruhig stellen (siehe Konzept B1-2.1), Vitalzeichen beobachten (siehe Konzept 4.3).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.2 „Der vergiftete Leib“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B8-14 (Checklisten-Anhang am Bandende) — „5.2 Der vergiftete Leib“.
 
-- [ ] Giftnotruf kontaktiert
-- [ ] **Kein Erbrechen induziert** (außer nach Giftnotruf-Anweisung)
-- [ ] Reste gesichert
 
 > **BAUSTEIN:** Bei Vergiftung rufst du zuerst an und induzierst nichts. Der Giftnotruf sagt dir, was geht.
 
@@ -357,11 +298,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. **Wache alle 2–3 h** (siehe Konzept B1-9.2, doppelt besetzt).
 3. Protokoll führen (siehe Konzept 1.2).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.1 „Krankenlager (Wache 2–3 h)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B8-15 (Checklisten-Anhang am Bandende) — „6.1 Krankenlager (Wache 2–3 h)“.
 
-- [ ] Wache 2–3 h eingeteilt
 
 **Querverweise:** siehe Konzept B4-6.1, siehe Konzept B1-9.2.
 **Erklärung:**
@@ -400,12 +338,8 @@ Schlaf und Ruhe sind die häufigste vergessene Medizin (siehe Konzept B1-2.3, Wa
 
 **10–20 min kühles fließendes Wasser** (W22: ab 55 °C Verbrühung in Sekunden — siehe Konzept B1-7.4). **Nie Fett, nie Eis, nie Hausmittel** auf frische Brandwunden. Blasen nicht aufstechen. Frostbeule: **langsam aufwärmen** (lauwarmes Wasser), nie reiben, nie direkte Hitze.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.1 „Brandwunde & Frostbeule“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B8-16 (Checklisten-Anhang am Bandende) — „7.1 Brandwunde & Frostbeule“.
 
-- [ ] 10–20 min kühles Wasser
-- [ ] Nie Fett/nie Eis
 
 > **BAUSTEIN:** Kühlen ja, aber nie eisig. 55 Grad verbrüht — alles darüber ist Feind.
 
@@ -421,12 +355,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. Schiene: stabil, gepolstert, Gelenke ober- und unterhalb fixieren.
 3. **Abgabe-Regel:** bei Nerv-/Durchblutungsstörung sofort (siehe Konzept 1.2).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.2 „Bruch & Verrenkung“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B8-17 (Checklisten-Anhang am Bandende) — „7.2 Bruch & Verrenkung“.
 
-- [ ] Nicht gerichtet ohne Wissen
-- [ ] Schiene angelegt
 
 **Querverweise:** siehe Konzept 1.2, siehe Konzept B4-9.1, Behelfstrage.
 **Erklärung:**
@@ -444,12 +374,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 | Kamille (siehe Konzept B5-6.1) | krampflösend, äußerlich | Allergie |
 | Ruhe, Wärme (siehe Konzept 6.3) | Muskelkater, Verspannung | — |
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.3 „Schmerz-Küche“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B8-18 (Checklisten-Anhang am Bandende) — „7.3 Schmerz-Küche“.
 
-- [ ] Weidenrinde nicht < 16 J
-- [ ] Dosierung eingehalten
 
 **Querverweise:** siehe Konzept B5-6.1, Weidenrinde-Grenze konsistent.
 
@@ -479,13 +405,8 @@ Konsistent mit Traglast (W20, siehe Konzept B1-6.5): **< 3 kg**.
 | Schmerzmittel (nicht-Salicylat für < 16 J) | 1 Blister |
 | Kohle (nur nach Giftnotruf-Rücksprache, siehe Konzept 5.2) | 1 Packung |
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.1 „Sanitätsmappe (< 3 kg)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B8-19 (Checklisten-Anhang am Bandende) — „8.1 Sanitätsmappe (< 3 kg)“.
 
-- [ ] < 3 kg gewogen (siehe Konzept B1-6.5)
-- [ ] Kühlkette 2–8 °C organisiert (`warn-8a`)
-- [ ] Antibiotika-Regel bekannt
 
 **Querverweise:** siehe Konzept B1-6.5, siehe Konzept 2.2 (`warn-8a`), siehe Konzept 5.2.
 
@@ -506,11 +427,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. Schmerzen lindern (siehe Konzept 7.3 — Grenzen beachten).
 3. Letzte Wünsche erfragen und notieren (siehe Konzept B10-9.1, Vermächtnis).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.1 „Sterben begleiten (Würde-Regeln)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B8-20 (Checklisten-Anhang am Bandende) — „9.1 Sterben begleiten (Würde-Regeln)“.
 
-- [ ] Würde gewahrt
 
 **Querverweise:** siehe Konzept B10-9.1.
 **Erklärung:**
@@ -522,12 +440,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 Protokoll bis zuletzt führen (siehe Konzept 1.2); Toten waschen, kleiden, Totenwache (siehe B1-9.2). **Bestattung:** Land = 60–80 cm tief, außerhalb des Lagers, Abstand ≥ 30 m zu Wasser (siehe B2-9.1), Stelle markieren. **Stadt:** Bestattungspflicht/Friedhof — Behörde informieren, sobald erreichbar; bis dahin kühler Raum (Treppenhaus/Keller), nicht in der Wohnung aufbewahren.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.2 „Abschied (Blatt bis zuletzt)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B8-21 (Checklisten-Anhang am Bandende) — „9.2 Abschied (Blatt bis zuletzt)“.
 
-- [ ] Blatt bis zuletzt geführt
-- [ ] Totenwache organisiert
 
 **Querverweise:** siehe Konzept 1.2, siehe Konzept B2-9.1.
 
@@ -577,6 +491,266 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 Verfalluhr: 12 Monate ohne Wiederholung = Fähigkeit verfallen (siehe B1-8.2).
 
 ---
+
+## Anhang D — Checklisten (Band 8)
+
+Alle Checklisten des Bandes, gesammelt am Bandende. Im Kapiteltext steht jeweils nur der Querverweis „siehe CL-B8-NN“. Aufbau pro Checkliste: Kennziffer + sprechende Bezeichnung + Begriffserläuterung (Mini-Glossar) + bestehende Ziel-Präambel (Zweck/Abnahme) + Punkte.
+
+### CL-B8-01 — 1.1 Grenze des Behandelns
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.1 „Grenze des Behandelns“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Können ehrlich eingeschätzt
+- [ ] Frist bekannt
+
+### CL-B8-02 — 1.2 Sanitäts-Kette
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.2 „Sanitäts-Kette“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Fünf Stationen durchlaufen
+- [ ] Protokoll geführt
+
+### CL-B8-03 — 1.3 Helfer-Netz
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.3 „Helfer-Netz“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Zwei Wissende benannt
+- [ ] Zwei Wege geplant
+
+### CL-B8-04 — 2.1 Blutung stillen (Druckverband 15 min)
+
+**Begriffe (Mini-Glossar):**
+- Druckverband = fester Verband bei Blutung; 15 min nicht lösen (B8-2.1)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.1 „Blutung stillen (Druckverband 15 min)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] 15 min Druckverband
+- [ ] Nie zwischenzeitlich gelöst
+
+### CL-B8-05 — 2.2 Wunde reinigen & schließen
+
+**Begriffe (Mini-Glossar):**
+- Booster = Auffrischimpfung; Tetanus alle 10 J, Risikowunde > 5 J (warn-8a)
+- Risikowunde = verschmutzt/tief/Stich/Biss/Quetschung; offen halten (warn-8a)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.2 „Wunde reinigen & schließen“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Gesottenes Wasser verwendet (siehe Konzept B2-6.2)
+- [ ] Risikowunde offen gehalten
+- [ ] Booster-Regeln geprüft
+- [ ] Impfstoff kühl (2–8 °C) gelagert
+
+### CL-B8-06 — 2.3 Die heilende Wunde
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.3 „Die heilende Wunde“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Fünf Zeichen beobachtet
+- [ ] Naht nur < 6–12 h sauber
+
+### CL-B8-07 — 3.1 Kräuter-Lese
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.1 „Kräuter-Lese“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Zwei Zeugen
+- [ ] Beinwell nur äußerlich
+
+### CL-B8-08 — 3.2 Aufgüsse / Absud / Kaltauszug
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.2 „Aufgüsse / Absud / Kaltauszug“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Zeiten eingehalten
+- [ ] 1-Tag-Frist beachtet
+- [ ] Dosierung nicht verdoppelt
+
+### CL-B8-09 — 3.3 Tinkturen / Salben / Öle
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.3 „Tinkturen / Salben / Öle“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Öl-Auszug nur gesäuert/getrocknet
+- [ ] Datum am Gefäß
+
+### CL-B8-10 — 3.4 Umschlag-Buch
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.4 „Umschlag-Buch“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Lauwarm, nie heiß
+
+### CL-B8-11 — 4.1 Fieber lesen
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.1 „Fieber lesen“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Kurve geführt
+- [ ] Kein Kaltwasser gegen Anstieg
+
+### CL-B8-12 — 4.2 Wärme-Regie
+
+**Begriffe (Mini-Glossar):**
+- ORS = 1 l abgekochtes Wasser + 6 gestrichene TL Zucker + ½ TL Salz (B8-4.2)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.2 „Wärme-Regie“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] 2–4 l/Tag lauwarm
+- [ ] ORS-Rezept bekannt
+
+### CL-B8-13 — 4.3 Atem & Atem-Not
+
+**Begriffe (Mini-Glossar):**
+- Zyanose = Sauerstoffmangel; blaue Lippen = sofort handeln (B8-4.3)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.3 „Atem & Atem-Not“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Frequenz gezählt
+- [ ] Blaue Lippen = Alarm
+
+### CL-B8-14 — 5.2 Der vergiftete Leib
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.2 „Der vergiftete Leib“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Giftnotruf kontaktiert
+- [ ] **Kein Erbrechen induziert** (außer nach Giftnotruf-Anweisung)
+- [ ] Reste gesichert
+
+### CL-B8-15 — 6.1 Krankenlager (Wache 2–3 h)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.1 „Krankenlager (Wache 2–3 h)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Wache 2–3 h eingeteilt
+
+### CL-B8-16 — 7.1 Brandwunde & Frostbeule
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.1 „Brandwunde & Frostbeule“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] 10–20 min kühles Wasser
+- [ ] Nie Fett/nie Eis
+
+### CL-B8-17 — 7.2 Bruch & Verrenkung
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.2 „Bruch & Verrenkung“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Nicht gerichtet ohne Wissen
+- [ ] Schiene angelegt
+
+### CL-B8-18 — 7.3 Schmerz-Küche
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.3 „Schmerz-Küche“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Weidenrinde nicht < 16 J
+- [ ] Dosierung eingehalten
+
+### CL-B8-19 — 8.1 Sanitätsmappe (< 3 kg)
+
+**Begriffe (Mini-Glossar):**
+- Kühlkette = ununterbrochene Kühlung 2–8 °C (Impfstoff); ohne Strom: kühlster Ort (B8-2.2)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.1 „Sanitätsmappe (< 3 kg)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] < 3 kg gewogen (siehe Konzept B1-6.5)
+- [ ] Kühlkette 2–8 °C organisiert (`warn-8a`)
+- [ ] Antibiotika-Regel bekannt
+
+### CL-B8-20 — 9.1 Sterben begleiten (Würde-Regeln)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.1 „Sterben begleiten (Würde-Regeln)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Würde gewahrt
+
+### CL-B8-21 — 9.2 Abschied (Blatt bis zuletzt)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.2 „Abschied (Blatt bis zuletzt)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Blatt bis zuletzt geführt
+- [ ] Totenwache organisiert
+
 
 ## Bandabschluss Band 8 — Bewertungsmatrix + Devise
 

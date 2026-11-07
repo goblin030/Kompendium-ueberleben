@@ -15,12 +15,8 @@ Querverweise konsistent mit Band 1 (6.5 Traglast, 7.3 Restlicht), Band 3 (1.2/9.
 
 Unterkunft wird dort gebaut, wo sie niemanden gefährdet und niemands Lebensgrundlage zerstört; Tausch und Zustimmung vor Beanspruchung (siehe Konzept B10-5.2).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.1 „Unterkunftsethik“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B4-01 (Checklisten-Anhang am Bandende) — „1.1 Unterkunftsethik“.
 
-- [ ] Eigentümer/Zustimmung geklärt (siehe Konzept B10-5.2)
-- [ ] Keine Felder/Gärten zerstört
 
 > **BAUSTEIN:** Frage vor dem Bauen, nicht danach.
 
@@ -40,15 +36,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 **Stadt / Land:** Land = Hanglage/Lee/Flutlinie wie beschrieben. **Stadt (Wohnung):** Du baust keinen Lagerplatz im Freien — die Wohnung ist der Lagerplatz. Wähle den **wärmsten Innenraum** (innen liegend, nicht über Keller/Feuchtigkeit), halte **Fluchtwege frei** (Treppenhaus, Wohnungstür), richte einen festen Lagerkern ein (siehe 9.x) und prüfe Fenster/Türen auf Dichtigkeit (siehe Kapitel 4, Stadt-Variante).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.2 „Lagerplatz“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B4-02 (Checklisten-Anhang am Bandende) — „1.2 Lagerplatz“.
 
-- [ ] Nicht im Kaltluftsee
-- [ ] ≥ 30 m zur Flutlinie
-- [ ] Lee-Seite
-- [ ] Feuer-Abstände (siehe Konzept B3-1.2)
-- [ ] Latrine (siehe Konzept B2-9.1)
 
 > **BAUSTEIN:** Hanglage statt Talgrund, Abstand zum Wasser, Lee statt Luv.
 
@@ -73,12 +62,8 @@ Konsistent mit Konzept B3-6.1, Wärmepaket: innen trocken, Mitte isolierend, au�
 2. Schicht 2 (Mitte): Wolle/Daune/trockenes Gras — Isolation.
 3. Schicht 3 (außen): winddicht, Feuchtigkeitsauslass offen (siehe Konzept 6.3).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.1 „Wärmehaushalt & Schichten“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B4-03 (Checklisten-Anhang am Bandende) — „2.1 Wärmehaushalt & Schichten“.
 
-- [ ] Innenschicht trocken
-- [ ] Isolation ausreichend
 
 **Querverweise:** siehe Konzept B3-6.1, siehe Konzept 6.3, siehe Konzept 7.1.
 **Erklärung:**
@@ -90,11 +75,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 Konsistent mit Konzept B1-4.4: Zwei-Zeichen-Regel.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.2 „Wetter-/Wolkenlesen“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B4-04 (Checklisten-Anhang am Bandende) — „2.2 Wetter-/Wolkenlesen“.
 
-- [ ] Zwei Zeichen vor jeder Entscheidung
 
 **Querverweise:** siehe Konzept B1-4.4.
 **Erklärung:**
@@ -128,12 +110,8 @@ Konsistent mit Band 9 (W28, Trocknung) und Band 5 (Ried/Stroh, siehe Konzept B5-
 2. **Zittern hört auf** = Alarm: sofort trockene Kleidung (siehe Konzept 2.1), Wärmepaket (siehe Konzept B3-6.1), warmes Getränk.
 3. Nie Alkohol gegen Kälte.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.4 „Kältegefahr erkennen“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B4-05 (Checklisten-Anhang am Bandende) — „2.4 Kältegefahr erkennen“.
 
-- [ ] Warnzeichen bekannt
-- [ ] Maßnahmen bei Umschlag vorbereitet
 
 > **BAUSTEIN:** Wer aufhört zu zittern, friert bereits. Das ist der gefährlichste Moment.
 
@@ -155,12 +133,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 1. Tote/stehende Bäume über dem Lagerplatz mit dem Messerklang prüfen: hohler Klang = morsches Holz = Windbruchgefahr.
 2. **Besetzter Bau bleibt besetzt:** solange jemand im Zelt ist, wird darunter nicht gearbeitet (siehe Konzept B9-3.1).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.1 „Windbruch (Klangprobe)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B4-06 (Checklisten-Anhang am Bandende) — „3.1 Windbruch (Klangprobe)“.
 
-- [ ] Klangprobe durchgeführt
-- [ ] Besetzter Bau bleibt besetzt
 
 **Querverweise:** siehe Konzept B9-3.1, `warn-9a`.
 **Erklärung:**
@@ -176,12 +150,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. Sparren in der gewählten Neigung auflegen, Abstand 50–60 cm.
 3. Deckung aufbringen (siehe Konzept 5.1).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.2 „Behelfsdach“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B4-07 (Checklisten-Anhang am Bandende) — „3.2 Behelfsdach“.
 
-- [ ] Neigung nach Wetter gewählt
-- [ ] Sparrenabstand 50–60 cm
 
 **Querverweise:** siehe Konzept 5.1, siehe Konzept B1-6.3.
 **Erklärung:**
@@ -198,14 +168,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 3. **Podest** innen erhöhen — Kälte sinkt nach unten, Liegefläche höher legen.
 4. Eingang klein halten, mit Schneeziegel verschließbar.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.3 „Winter-Unterkunft (Schneehöhle)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B4-08 (Checklisten-Anhang am Bandende) — „3.3 Winter-Unterkunft (Schneehöhle)“.
 
-- [ ] Kugelprobe bestanden
-- [ ] Zu zweit gebaut
-- [ ] Luftloch offen
-- [ ] Podest erhöht
 
 **Querverweise:** siehe Konzept 6.1, siehe Konzept 2.4.
 
@@ -230,12 +194,8 @@ Maße für 4 Personen: **2,5 × 2,5 m Grundfläche, Firsthöhe 1,20 m, Firstspan
 2. Eckpunkte mit Pfosten (siehe Konzept 4.2).
 3. Firstpfosten mittig, Firstbalken auflegen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.1 „Bauplan & Hüttenmaße“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B4-09 (Checklisten-Anhang am Bandende) — „4.1 Bauplan & Hüttenmaße“.
 
-- [ ] Maße eingehalten
-- [ ] Firstspanne ≤ 3,50 m
 
 **Querverweise:** siehe Konzept 4.2, siehe Konzept B1-7.1.
 **Erklärung:**
@@ -249,13 +209,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. **Sattelkerbe** für Firstbalken und Sparren — Formschluss statt Nagel.
 3. Verbindungen mit Seil verklemmen (siehe Konzept B1-6.3 und Konzept B9-5.2).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.2 „Pfosten / First / Verbindungen“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B4-10 (Checklisten-Anhang am Bandende) — „4.2 Pfosten / First / Verbindungen“.
 
-- [ ] 30 cm Tiefe
-- [ ] Steinkranz
-- [ ] Sattelkerbe sauber
 
 **Querverweise:** siehe Konzept B1-6.3, siehe Konzept B9-5.1, Zapfen/Keil, siehe Konzept B9-5.2.
 
@@ -280,11 +235,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 Konsistent mit Konzept B5-8.1, Materialquelle.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.1 „Dachdeckung & Neigung“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B4-11 (Checklisten-Anhang am Bandende) — „5.1 Dachdeckung & Neigung“.
 
-- [ ] Neigung nach Material
 
 **Querverweise:** siehe Konzept B5-8.1, siehe Konzept 3.2.
 **Erklärung:**
@@ -298,12 +250,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. **Ringgraben** um die Hütte, 30 cm breit, 20 cm tief — Wasser ableiten.
 3. Boden innen: 10 cm Sand/Späne, darauf Schlafplattform (siehe Konzept 6.1).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.2 „Wand / Boden / Sockel“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B4-12 (Checklisten-Anhang am Bandende) — „5.2 Wand / Boden / Sockel“.
 
-- [ ] Sockel 20 cm
-- [ ] Ringgraben gezogen
 
 **Querverweise:** siehe Konzept 6.1, siehe Konzept B2-9.2, Grauwasser.
 **Erklärung:**
@@ -318,11 +266,8 @@ Checkliste (Kopiervorlage Anhang A): Dach dicht? Sockel trocken? Ringgraben frei
 1. Sechs Schwachstellen wöchentlich prüfen.
 2. **Wartung = fortgesetzte Abnahme** — Mängel sofort beheben.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.3 „Hüttendiagnose (sechs Schwachstellen)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B4-13 (Checklisten-Anhang am Bandende) — „5.3 Hüttendiagnose (sechs Schwachstellen)“.
 
-- [ ] Sechs Punkte geprüft
 
 **Querverweise:** siehe Anhang A, siehe Konzept 5.1, siehe Konzept 5.2.
 
@@ -345,12 +290,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. Darüber luftdichte Schicht (Plane), dann Schlafunterlage.
 3. Nie direkt auf nacktem Boden schlafen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.1 „Schlafplatz & Bodenisolierung“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B4-14 (Checklisten-Anhang am Bandende) — „6.1 Schlafplatz & Bodenisolierung“.
 
-- [ ] 12–18 Armvoll Füllung
-- [ ] Unten-zuerst-Regel
 
 > **BAUSTEIN:** Der Boden stiehlt die Wärme zuerst. Isolier ihn zuerst.
 
@@ -367,11 +308,8 @@ Konsistent mit Konzept B1-2.3, Wachenplan.
 1. Deckenbilanz: pro Person 1 Decke + 1 Wärmeflasche/heißer Stein (siehe Konzept B3-6.2).
 2. Vor dem Schlafen lüften (Stoßlüftung, siehe Konzept 6.3), dann schließen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.2 „Nachtwärme & Deckenbilanz“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B4-15 (Checklisten-Anhang am Bandende) — „6.2 Nachtwärme & Deckenbilanz“.
 
-- [ ] Pro Person Decke + Wärmequelle
 
 **Querverweise:** siehe Konzept B1-2.3, siehe Konzept B3-6.2, siehe Konzept 6.3.
 **Erklärung:**
@@ -385,13 +323,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 > **Querverweis CO:** Bei Beheizung im Raum siehe Konzept B3-6.3, `warn-3`: keine Verbrennung im geschlossenen Raum, nie über Nacht.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.3 „Feuchtebilanz & Lüftung“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B4-16 (Checklisten-Anhang am Bandende) — „6.3 Feuchtebilanz & Lüftung“.
 
-- [ ] ½ l/Nacht einkalkuliert (Material zum Auffangen/Ableiten)
-- [ ] Stoßlüftung 2× täglich
-- [ ] CO-Regel beachtet (siehe Konzept B3-6.3)
 
 **Querverweise:** siehe Konzept B3-6.3, `warn-3`, siehe Konzept 2.4.
 
@@ -417,11 +350,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 1. Wolle bei Nässe auswringen, nicht rubbeln.
 2. Synthetik nie ans Feuer (siehe Konzept 8.3).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.1 „Faserkunde & Pflege“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B4-17 (Checklisten-Anhang am Bandende) — „7.1 Faserkunde & Pflege“.
 
-- [ ] Fasereigenschaften bekannt
 
 **Querverweise:** siehe Konzept 8.3, siehe Konzept B3-2.2, siehe Konzept B5-7.1, Fasergewinnung.
 **Erklärung:**
@@ -436,11 +366,8 @@ Soll: **2 Nadeln, 10–15 m Zwirn** (konsistent mit Faserertrag, siehe Konzept B
 1. Zwirn aus Pflanzenfasern selbst drehen (siehe Konzept B5-7.1) oder Faden aus alter Kleidung.
 2. Nadel an Faden binden, Ende anknoten.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.2 „Nadel & Faden“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B4-18 (Checklisten-Anhang am Bandende) — „7.2 Nadel & Faden“.
 
-- [ ] 2 Nadeln + 10–15 m Zwirn im Nähset
 
 **Querverweise:** siehe Konzept B5-7.1, siehe Konzept B9-6.2, Flicken.
 
@@ -461,12 +388,8 @@ Jeder führt einen vollständigen Satz: Unterwäsche, Socken, Hose, Pullover, Ja
 
 > **Juristisch (siehe Konzept B10-5.2):** Entnahme fremder Kleidung im Notstand ist nach **§§ 34/35 StGB** bei Lebensgefahr gerechtfertigt/entschuldigt — aber: Deeskalation und Tausch vor Verteidigung; nie Gewalt gegen Personen (Notwehr nur § 32 StGB, siehe Konzept B10-4.2).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.1 „Kleidungssatz & Eigentum“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B4-19 (Checklisten-Anhang am Bandende) — „8.1 Kleidungssatz & Eigentum“.
 
-- [ ] Kompletter Satz pro Person
-- [ ] Eigentumsfragen nach Band 10 gelöst
 
 **Querverweise:** siehe Konzept B10-5.2, siehe Konzept B10-4.2.
 **Erklärung:**
@@ -478,11 +401,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 Jeder Behelf (z. B. Poncho aus Müllsack, Gamaschen aus Dosenblech) bekommt ein **Verfallsdatum** — bei Erreichen prüfen/ersetzen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.2 „Wettergrenzen improvisiert (Verfallsdatum)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B4-20 (Checklisten-Anhang am Bandende) — „8.2 Wettergrenzen improvisiert (Verfallsdatum)“.
 
-- [ ] Verfallsdatum auf jedem Behelf notiert
 
 **Querverweise:** siehe Konzept 8.1, siehe Konzept B9-6.2, Flicken als Methode.
 **Erklärung:**
@@ -498,12 +418,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. Trocknen bei Raumtemperatur, Zeitung als Einlage.
 3. Nie direkt am Feuer trocknen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.3 „Schuhwerk“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B4-21 (Checklisten-Anhang am Bandende) — „8.3 Schuhwerk“.
 
-- [ ] Wechselrhythmus eingehalten
-- [ ] Nie ans Feuer
 
 **Querverweise:** siehe Konzept 7.1, siehe Konzept B3-6.2.
 
@@ -526,12 +442,8 @@ Konsistent mit Trage-Regeln Band 8 (siehe Konzept B8-6.1) und Traglast (siehe Ko
 2. Max. 30 % Körpergewicht kurz (siehe Konzept B1-6.5).
 3. Zwei Träger, Ablösung alle 30 min.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.1 „Behelfstrage“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B4-22 (Checklisten-Anhang am Bandende) — „9.1 Behelfstrage“.
 
-- [ ] Traglast-Regel (siehe Konzept B1-6.5)
-- [ ] Zwei Träger
 
 **Querverweise:** siehe Konzept B1-6.5, siehe Konzept B8-6.1, siehe Konzept B9-3.3.
 **Erklärung:**
@@ -547,12 +459,8 @@ Konsistent mit Konzept B1-7.3: eine Stunde vor Dunkelheit alle Arbeiten einstell
 2. Lagerpfade mit Steinen/Leuchtmarkern markieren.
 3. Feuerwache bei Dunkelheit doppelt (siehe Konzept B3-9.3).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.2 „Lager bei Dunkelheit (Restlicht-1-h)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B4-23 (Checklisten-Anhang am Bandende) — „9.2 Lager bei Dunkelheit (Restlicht-1-h)“.
 
-- [ ] Restlicht-1-h eingehalten
-- [ ] Pfade markiert
 
 **Querverweise:** siehe Konzept B1-7.3, siehe Konzept B3-9.3.
 
@@ -597,6 +505,287 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 Verfalluhr: 12 Monate ohne Wiederholung = Fähigkeit verfallen (siehe B1-8.2).
 
 ---
+
+## Anhang D — Checklisten (Band 4)
+
+Alle Checklisten des Bandes, gesammelt am Bandende. Im Kapiteltext steht jeweils nur der Querverweis „siehe CL-B4-NN“. Aufbau pro Checkliste: Kennziffer + sprechende Bezeichnung + Begriffserläuterung (Mini-Glossar) + bestehende Ziel-Präambel (Zweck/Abnahme) + Punkte.
+
+### CL-B4-01 — 1.1 Unterkunftsethik
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.1 „Unterkunftsethik“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Eigentümer/Zustimmung geklärt (siehe Konzept B10-5.2)
+- [ ] Keine Felder/Gärten zerstört
+
+### CL-B4-02 — 1.2 Lagerplatz
+
+**Begriffe (Mini-Glossar):**
+- Latrine = Abortgrube; ≥ 30 m unterhalb der Wasserentnahme, 25–30 cm tief (W7)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.2 „Lagerplatz“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Nicht im Kaltluftsee
+- [ ] ≥ 30 m zur Flutlinie
+- [ ] Lee-Seite
+- [ ] Feuer-Abstände (siehe Konzept B3-1.2)
+- [ ] Latrine (siehe Konzept B2-9.1)
+
+### CL-B4-03 — 2.1 Wärmehaushalt & Schichten
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.1 „Wärmehaushalt & Schichten“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Innenschicht trocken
+- [ ] Isolation ausreichend
+
+### CL-B4-04 — 2.2 Wetter-/Wolkenlesen
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.2 „Wetter-/Wolkenlesen“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Zwei Zeichen vor jeder Entscheidung
+
+### CL-B4-05 — 2.4 Kältegefahr erkennen
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.4 „Kältegefahr erkennen“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Warnzeichen bekannt
+- [ ] Maßnahmen bei Umschlag vorbereitet
+
+### CL-B4-06 — 3.1 Windbruch (Klangprobe)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.1 „Windbruch (Klangprobe)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Klangprobe durchgeführt
+- [ ] Besetzter Bau bleibt besetzt
+
+### CL-B4-07 — 3.2 Behelfsdach
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.2 „Behelfsdach“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Neigung nach Wetter gewählt
+- [ ] Sparrenabstand 50–60 cm
+
+### CL-B4-08 — 3.3 Winter-Unterkunft (Schneehöhle)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.3 „Winter-Unterkunft (Schneehöhle)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Kugelprobe bestanden
+- [ ] Zu zweit gebaut
+- [ ] Luftloch offen
+- [ ] Podest erhöht
+
+### CL-B4-09 — 4.1 Bauplan & Hüttenmaße
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.1 „Bauplan & Hüttenmaße“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Maße eingehalten
+- [ ] Firstspanne ≤ 3,50 m
+
+### CL-B4-10 — 4.2 Pfosten / First / Verbindungen
+
+**Begriffe (Mini-Glossar):**
+- Sattelkerbe = formschlüssige Balkenverbindung (B4-4.2)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.2 „Pfosten / First / Verbindungen“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] 30 cm Tiefe
+- [ ] Steinkranz
+- [ ] Sattelkerbe sauber
+
+### CL-B4-11 — 5.1 Dachdeckung & Neigung
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.1 „Dachdeckung & Neigung“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Neigung nach Material
+
+### CL-B4-12 — 5.2 Wand / Boden / Sockel
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.2 „Wand / Boden / Sockel“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Sockel 20 cm
+- [ ] Ringgraben gezogen
+
+### CL-B4-13 — 5.3 Hüttendiagnose (sechs Schwachstellen)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.3 „Hüttendiagnose (sechs Schwachstellen)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Sechs Punkte geprüft
+
+### CL-B4-14 — 6.1 Schlafplatz & Bodenisolierung
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.1 „Schlafplatz & Bodenisolierung“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] 12–18 Armvoll Füllung
+- [ ] Unten-zuerst-Regel
+
+### CL-B4-15 — 6.2 Nachtwärme & Deckenbilanz
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.2 „Nachtwärme & Deckenbilanz“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Pro Person Decke + Wärmequelle
+
+### CL-B4-16 — 6.3 Feuchtebilanz & Lüftung
+
+**Begriffe (Mini-Glossar):**
+- CO = Kohlenmonoxid, geruchlos, tödlich; warn-3 (B3-6.3)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.3 „Feuchtebilanz & Lüftung“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] ½ l/Nacht einkalkuliert (Material zum Auffangen/Ableiten)
+- [ ] Stoßlüftung 2× täglich
+- [ ] CO-Regel beachtet (siehe Konzept B3-6.3)
+
+### CL-B4-17 — 7.1 Faserkunde & Pflege
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.1 „Faserkunde & Pflege“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Fasereigenschaften bekannt
+
+### CL-B4-18 — 7.2 Nadel & Faden
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.2 „Nadel & Faden“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] 2 Nadeln + 10–15 m Zwirn im Nähset
+
+### CL-B4-19 — 8.1 Kleidungssatz & Eigentum
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.1 „Kleidungssatz & Eigentum“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Kompletter Satz pro Person
+- [ ] Eigentumsfragen nach Band 10 gelöst
+
+### CL-B4-20 — 8.2 Wettergrenzen improvisiert (Verfallsdatum)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.2 „Wettergrenzen improvisiert (Verfallsdatum)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Verfallsdatum auf jedem Behelf notiert
+
+### CL-B4-21 — 8.3 Schuhwerk
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.3 „Schuhwerk“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Wechselrhythmus eingehalten
+- [ ] Nie ans Feuer
+
+### CL-B4-22 — 9.1 Behelfstrage
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.1 „Behelfstrage“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Traglast-Regel (siehe Konzept B1-6.5)
+- [ ] Zwei Träger
+
+### CL-B4-23 — 9.2 Lager bei Dunkelheit (Restlicht-1-h)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.2 „Lager bei Dunkelheit (Restlicht-1-h)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Restlicht-1-h eingehalten
+- [ ] Pfade markiert
+
 
 ## Bandabschluss Band 4 — Bewertungsmatrix + Devise
 

@@ -77,10 +77,7 @@ In der ersten Minute nach einem Schock handelst du falsch, wenn du sofort loslä
 + _O_ — Observe: Blick rundum. Geräusche, Gerüche, Bewegungen.
 + _P_ — Plan: Entscheide die nächsten drei Handlungen.
 + _P_ — Proceed: Führe die erste Handlung aus.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.1 „STOPP-Protokoll“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Stopp genommen, bevor etwas bewegt wurde
-- [ ] Drei Gefahren benannt
-- [ ] Drei nächste Handlungen notiert (siehe Konzept 9.1)
+_Checkliste:_ siehe CL-B1-01, Anhang S. #refpage(<cl-b1-01>) (Checklisten-Anhang am Bandende) — „2.1 STOPP-Protokoll“.
 #baustein[Vier Sekunden Stopp retten vier Stunden Irrweg.]
 _Querverweise:_ siehe Konzept 9.1 (Stundenprotokoll), siehe Konzept 3.1 (Priorisierung), siehe Konzept B2-8.1 (Haushaltsvorrat/Wasserinventur, Band 2).
 _Erklärung:_
@@ -149,26 +146,10 @@ _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -290,9 +271,7 @@ Panikatmung erhöht den Verbrauch und verschlechtert Entscheidungen. Das 4–6-P
 + Luft anhalten — 6 Sekunden.
 + Ausatmen durch den Mund — 6 Sekunden.
 + Wiederholen: 5 Zyklen.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.2 „Atemprotokoll 4–6“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] 5 volle Zyklen gemacht
-- [ ] Schulter und Kiefer bewusst gelöst
+_Checkliste:_ siehe CL-B1-02, Anhang S. #refpage(<cl-b1-02>) (Checklisten-Anhang am Bandende) — „2.2 Atemprotokoll 4–6“.
 Variante bei Krankheit (Asthma, Herz): nur verlängertes Ausatmen, kein Luftanhalten.
 #baustein[Ausatmen ist das Steuer. Verlängere das Ausatmen, nie das Einatmen.]
 _Querverweise:_ siehe Konzept 2.1 (STOPP), siehe Konzept 8.2 (Übungsprotokoll — Atemübung trainieren).
@@ -358,26 +337,10 @@ _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -582,22 +545,6 @@ _Erklärung:_
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -719,10 +666,7 @@ Unstrukturierte Gespräche eskalieren in der Krise. Die 15-min-Box begrenzt Rede
 + Jedes Gruppenmitglied bekommt 15 Minuten Redezeit, unterbrechungsfrei.
 + Danach Entscheidung oder Vertagung — siehe Konzept B10-4.2 (Rat & Streit, Band 10).
 + Protokollführer schreibt mit (siehe Konzept 9.1).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.4 „Gesprächsordnung (15-min-Box)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Thema vorab angesagt
-- [ ] Redezeiten eingehalten
-- [ ] Entscheidung oder neuer Termin im Protokoll
+_Checkliste:_ siehe CL-B1-03, Anhang S. #refpage(<cl-b1-03>) (Checklisten-Anhang am Bandende) — „2.4 Gesprächsordnung (15-min-Box)“.
 #baustein[Wer das Wort hat, hat die Uhr. 15 Minuten, dann ist Schluss.]
 _Querverweise:_ siehe Konzept 9.1, siehe Konzept B10-4.2.
 #subhead[Ablauf mit Kontrollkästchen]
@@ -783,26 +727,10 @@ _Querverweise:_ siehe Konzept 9.1, siehe Konzept B10-4.2.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -1017,22 +945,6 @@ _Erklärung:_
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -1162,10 +1074,7 @@ Der Rucksack trägt 72 Stunden autarkes Handeln. Prüfkriterium: _unter 12 kg_.
   [1], [Karte, Kompass (siehe Konzept 4.3)],
   [1], [Notrufmittel (siehe Konzept 5.1)],
 )
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.2 „Notfallrucksack (72 h)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Gesamtgewicht gewogen: \< 12 kg
-- [ ] Wasser auffüllbar eingepackt (Flaschen leer mitnehmen möglich)
-- [ ] Inhalt alle 6 Monate geprüft (siehe Konzept 8.2)
+_Checkliste:_ siehe CL-B1-04, Anhang S. #refpage(<cl-b1-04>) (Checklisten-Anhang am Bandende) — „3.2 Notfallrucksack (72 h)“.
 #baustein[Was du nicht tragen kannst, trägst du nicht. 12 kg sind das harte Limit.]
 _Querverweise:_ siehe Konzept 3.3 (Profile), siehe Konzept 6.5 (Traglast), siehe Konzept B2-8.1.
 _Erklärung:_
@@ -1181,7 +1090,7 @@ _Erklärung:_
   [6 l], [6 l | Wasser (2 l/Person/Tag],
   [2 l], [6 l | Wasser (2 l/Person/Tag × 3 Tage, sie],
   [6.000–9.000 kcal], [6.000–9.000 kcal | Nahrung (konserviert,],
-  [72 h], [Konzept 3.2 „Notfallrucksack (72 h)“ kein Prüfpunkt vergess],
+  [72 h], [ende) — „3.2 Notfallrucksack (72 h)“.],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -1219,26 +1128,10 @@ _Erklärung:_
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [unter 12 kg], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -1359,9 +1252,7 @@ Profile passen den Rucksack an die Tragkraft an (Kinder/Senioren 10–15 % Kör
 - Kind: 10–15 % Körpergewicht, eigener kleiner Rucksack, Lieblingsobjekt, Wasserflasche mit Auslauf.
 - Senior: Medikamente doppelt, Brille Ersatz, Gehhilfe falls nötig.
 - Haustier: Futter für 3 Tage, Leine, Transportbox.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.3 „Rucksack-Profile (Kinder/Senioren/Haustiere)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Jedem sein Gewicht zugewiesen und gewogen
-- [ ] Medikamente des Seniors doppelt eingepackt
+_Checkliste:_ siehe CL-B1-05, Anhang S. #refpage(<cl-b1-05>) (Checklisten-Anhang am Bandende) — „3.3 Rucksack-Profile (Kinder/Senioren/Haustiere)“.
 _Querverweise:_ siehe Konzept 6.5, siehe Konzept 3.2.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Tragkraft skaliert mit dem Körpergewicht (Kinder/Senioren 10–15 %); Medikamente und Ersatzbrille sind medizinisch nicht ersetzbar.
@@ -1409,25 +1300,9 @@ _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -1549,10 +1424,7 @@ Netzausfall bedeutet: keine digitale Absprache. Der Treffpunkt-Plan ist schriftl
 + Abholliste schreiben: Wer holt wen ab, in welcher Reihenfolge.
 + Plan jedem Mitglied schriftlich geben; Kopie im Rucksack (siehe Konzept 3.2).
 + Ohne Lebenszeichen nach +60 Minuten: siehe Konzept 5.2 (Botenregeln).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.4 „Treffpunkt-Plan (A/B + Abholliste)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] A und B schriftlich notiert
-- [ ] Abholliste vollständig
-- [ ] +60-min-Regel allen bekannt
+_Checkliste:_ siehe CL-B1-06, Anhang S. #refpage(<cl-b1-06>) (Checklisten-Anhang am Bandende) — „3.4 Treffpunkt-Plan (A/B + Abholliste)“.
 #baustein[Papier hält länger als Akku. Schreibe jeden Plan zweimal.]
 _Querverweise:_ siehe Konzept 5.2, siehe Konzept 3.2.
 #subhead[Ablauf mit Kontrollkästchen]
@@ -1613,26 +1485,10 @@ _Querverweise:_ siehe Konzept 5.2, siehe Konzept 3.2.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -1826,22 +1682,6 @@ _Querverweise:_ siehe B2-8.1 (Wasservorrat 2 l/Pers/Tag × 14 T), siehe B7-9.1
   [14 Tage], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -1970,19 +1810,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 + _Toilette ohne Wasser:_ kein Wasser für die Toilette verschwenden; Eimer + Plastiksack / Trenntoilette / Campingtoilette (Stadt), Loch an wechselnder Stelle (Land) — siehe B2-9.1 (Abstand ≥ 30 m zum Wasser).
 + _Kochen/Heizen ohne Strom:_ Campingkocher nur mit Lüften und CO-Melder; _nie in der Wohnung grillen oder heizen_ — Erstickungsgefahr (`warn-3`, siehe B3-6.3 und B3-5.1).
 + _Notstromaggregat nur außerhalb des Hauses_ betreiben, nur bei Bedarf (CO, siehe B3-6.3).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass in den ersten 60 Minuten eines Blackouts kein kritischer Schritt vergessen wird (Wasser, Licht, Information, Medikamente, CO-Schutz). Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium für den Blackout-Start; ohne vollständige Liste fehlt im Ernstfall Wasser, Licht oder Information. Fehlt ein Punkt, ist die Ausgangslage gefährdet — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Geräte ausgesteckt, eine Lampe an
-- [ ] Familie informiert, Treffpunkt steht (B1-3.4)
-- [ ] Wasser aufgefüllt (Badewanne/Becken/Gefäße) — Ziel: 2 l/Pers/Tag × 14 T erreichbar (B2-8.1)
-- [ ] Licht/Wärme an festem Ort bereit, Kerzen-Regel klar
-- [ ] Handy im Flugmodus
-- [ ] Stolperfallen entfernt, Aufzüge geprüft
-- [ ] UKW-Radio läuft (Fallback zu NINA)
-- [ ] Ein Raum als Aufenthaltsraum gewählt, Lüftung klar (B4-2.1, warn-3)
-- [ ] Kühlschrank-Strategie klar (Kühlschrank 4 h / TK 24–48 h)
-- [ ] Medikamente 14 Tage + Insulin kühl + Impfpass (B8-8.1)
-- [ ] Toilette ohne Wasser organisiert (B2-9.1)
-- [ ] Koch-/Heizlösung ohne Wohnungs-Grill (B3-5.1, warn-3)
+_Checkliste:_ siehe CL-B1-07, Anhang S. #refpage(<cl-b1-07>) (Checklisten-Anhang am Bandende) — „3a.2 Sofortmaßnahmen“.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ In den ersten 60 Minuten sind Leitungen noch unter Druck bzw. Vorräte noch greifbar; Geräte-Ausstecken schützt vor Spannungsspitzen bei Wiederkehr; Wasser auffüllen nutzt den letzten Pumpendruck; UKW-Radio ist das einzige garantiert funktionierende Informationsmedium (Sender haben Notstrom und gesetzliche Informationspflicht).
 - _Situationsvarianten (wann welche):_ Stadt/Hochhaus (kein Wasserdruck ab 3. Stock, Aufzug fällt aus, dichtere Nachbarschaft — siehe B10-4.1) vs. Land (eigene Pumpe/Heizung fällt aus, Garten für Toilette). Winter: Heizungsausfall sofort kritisch (siehe B4-2.4). Sommer: Müll trocken/kühl lagern (Seuchengefahr).
@@ -2006,16 +1834,6 @@ _Querverweise:_ siehe B2-8.1, siehe B2-9.1, siehe B3-5.1, siehe B3-6.3 (`warn-3`
   [11], [_Toilette ohne Wasser:_ kein Wasser für die Toilette verschwenden; Eimer + Plastiksack / Trenntoilette / Campingtoilette (Stadt), Loch an wechselnder Stelle (Land) — siehe B2-9.1 (Abstand ≥ 30 m zum Wasser).], [[ ] erledigt  [ ] geprüft],
   [12], [_Kochen/Heizen ohne Strom:_ Campingkocher nur mit Lüften und CO-Melder; _nie in der Wohnung grillen oder heizen_ — Erstickungsgefahr (`warn-3`, siehe B3-6.3 und B3-5.1).], [[ ] erledigt  [ ] geprüft],
   [13], [_Notstromaggregat nur außerhalb des Hauses_ betreiben, nur bei Bedarf (CO, siehe B3-6.3).], [[ ] erledigt  [ ] geprüft],
-)
-#subhead[Material & Maß (aus diesem Konzept)]
-#table(
-  columns: 2,
-  table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
-  table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [2 l], [ewanne/Becken/Gefäße) — Ziel: 2 l/Pers/Tag × 14 T erreichb],
-  [14 T], [efäße) — Ziel: 2 l/Pers/Tag × 14 T erreichbar (B2-8.1)],
-  [4 h], [k-Strategie klar (Kühlschrank 4 h / TK 24–48 h)],
-  [24–48 h], [ie klar (Kühlschrank 4 h / TK 24–48 h)],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -2092,25 +1910,9 @@ _Querverweise:_ siehe B2-8.1, siehe B2-9.1, siehe B3-5.1, siehe B3-6.3 (`warn-3`
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -2226,18 +2028,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 === 3a.3 Grundausstattung Blackout (BBK-Kategorien) <k-3a-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9]
-_Checkliste — Zweck und Abnahme:_ Diese Liste ist die Blackout-Grundausstattung (BBK-Checkliste, 14-Tage-Horizont). Erfüllt ist sie, wenn jedes Kästchen abgehakt _und_ der Vorrat eingelagert/verifiziert ist (Gewicht, Verfallsdaten, Funktionstest Radio/CO-Melder) — das ist das Abnahmekriterium. Fehlt ein Punkt, ist die Autonomie in der Kategorie nicht gegeben — Folge siehe „Erklärung → Typische Fehler“ des Kapitels 3a.2 bzw. des jeweiligen Querverweis-Bands. Nicht verifizierte Detailangaben (Beträge, Gerätegrößen) bleiben unberücksichtigt.
-- [ ] _Wasser:_ 2 l Trinkwasser/Pers/Tag × 14 Tage, kühl-dunkel gelagert (grün, siehe B2-8.1); getrennter Gesamtbedarf (Kochen/Hygiene 7,5–10 l) klären
-- [ ] _Nahrung:_ haltbare, kalt verzehrbare Lebensmittel × 14 Tage (Konserven, Zwieback, H-Milch, Nüsse, Trockenobst) + Campingkocher + Brennstoff (BBK; siehe B7-2.2/B7-9.1; 10 vs. 14 Tage)
-- [ ] _Licht:_ Taschenlampe + Ersatzbatterien, Stirnlampe, Kerzen + Feuerzeug/Streichhölzer (nie unbeaufsichtigt, B3-9.1); genaue Lumen/Zahl
-- [ ] _Wärme:_ warme Kleidung, Decken, Schlafsack; netzunabhängige Heizung (Gasheizer/Petroleumofen) nur mit Zündsicherung + _CO-Melder_ (`warn-3`, ; siehe B3-6.3, B4-2.1)
-- [ ] _Kommunikation:_ Kurbelradio oder batteriebetriebenes UKW-Radio (Fallback zu NINA), Notfallkontakte/Telefonnummern _auf Papier_ (laminiert, siehe B1-3.4), Powerbank (Größe)
-- [ ] _Finanzen:_ Bargeld-Reserve in kleinen Scheinen (Geldautomat/EC fällt aus; Betrag)
-- [ ] _Dokumente:_ Kopien (Ausweis, Versicherung, Impfpass, Medikamentenliste) wasserdicht gelagert (B8-8.1)
-- [ ] _Medizin:_ Hausapotheke + Dauermedikation _14 Tage_ (Kompendium-Wert), Insulin kühl (B8-2.2), Thermometer (B8-8.1)
-- [ ] _Hygiene:_ Feuchttücher, Müllsäcke, Toilettenpapier, Desinfektionsmittel, Campingtoilette/Eimer+Säcke (B2-9.1)
-- [ ] _Sicherheit:_ Rauchmelder, Feuerlöscher, _CO-Melder_ (Pflicht bei alternativer Heizung, `warn-3`), FFP2
-- [ ] _Haustiere:_ Futter + Wasser × 14 Tage
+_Checkliste:_ siehe CL-B1-08, Anhang S. #refpage(<cl-b1-08>) (Checklisten-Anhang am Bandende) — „3a.3 Grundausstattung Blackout (BBK-Kategorien)“.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Die Kategorien folgen der Ausfallkaskade: Wasser (Pumpe), Strom (alles Elektrische), Kommunikation (Mobilfunk-Notstrom begrenzt, konservativ 4–8 h), Finanzen (keine Automaten), Information (nur UKW garantiert). Mit 14 Tagen Vorrat überbrückst du Phase 1–2 (siehe 3a.1).
 - _Situationsvarianten (wann welche):_ Stadt/Hochhaus: Wasservorrat doppelt gewichten (kein Druck ab 3. Stock), Trenntoilette statt Grube, dichteres Nachbarschaftsnetz (B10-4.1). Land: Heizöl-/Wasserpumpe fällt aus — eigener Brunnen + Ofen priorisieren; Garten für Toilette (B2-9.1).
@@ -2248,8 +2039,6 @@ _Querverweise:_ siehe B2-8.1, siehe B2-9.1, siehe B3-6.3 (`warn-3`), siehe B3-5.
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [2 l], [( ) _Wasser:_ 2 l Trinkwasser/Pers/Tag × 1],
-  [7,5–10 l], [Gesamtbedarf (Kochen/Hygiene 7,5–10 l) klären],
   [4–8 h], [otstrom begrenzt, konservativ 4–8 h), Finanzen (keine Automa],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
@@ -2287,40 +2076,9 @@ _Querverweise:_ siehe B2-8.1, siehe B2-9.1, siehe B3-6.3 (`warn-3`), siehe B3-5.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
-  [und], [siehe Glossar, Anhang D Band 1],
-  [Wasser:], [siehe Glossar, Anhang D Band 1],
-  [Nahrung:], [siehe Glossar, Anhang D Band 1],
-  [Licht:], [siehe Glossar, Anhang D Band 1],
-  [Wärme:], [siehe Glossar, Anhang D Band 1],
-  [CO-Melder], [siehe Glossar, Anhang D Band 1],
-  [Kommunikation:], [siehe Glossar, Anhang D Band 1],
-  [auf Papier], [siehe Glossar, Anhang D Band 1],
-  [Finanzen:], [siehe Glossar, Anhang D Band 1],
-  [Dokumente:], [siehe Glossar, Anhang D Band 1],
-  [Medizin:], [siehe Glossar, Anhang D Band 1],
-  [14 Tage], [siehe Glossar, Anhang D Band 1],
-  [Hygiene:], [siehe Glossar, Anhang D Band 1],
-  [Sicherheit:], [siehe Glossar, Anhang D Band 1],
-  [Haustiere:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -2521,22 +2279,6 @@ _Querverweise:_ siehe 3a.2, siehe B3-6.3 (`warn-3`), siehe B2-8.1, siehe B8-8.1,
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -2677,9 +2419,7 @@ Ein senkrechter Stab wirft einen Schatten, dessen Spitze sich bewegt. Daraus bes
 + Linie Punkt 1 → Punkt 2 ist West–Ost (Punkt 1 = Westen).
 + Senkrecht dazu steht Norden.
 + Uhr-Methode klassisch: _Stundenzeiger der Uhr auf die Sonne richten_ — Süden liegt auf der halben Strecke zwischen Stundenzeiger und 12 Uhr (Winterzeit). _Sommerzeit-Korrektur:_ eine Stunde zurückrechnen (MEZ = Sommerzeit − 1 h). Beispiel: 15 Uhr Sommerzeit = 14 Uhr MEZ; halbe Strecke zwischen 14 und 12 = Richtung 13 Uhr = Süden. Gegenprobe mit Konzept 4.2 (Polarstern).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.1 „Schattenstab & Uhr-Methode“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Mindestens 15 Minuten zwischen den Markierungen
-- [ ] Sommerzeit-Korrektur beachtet
+_Checkliste:_ siehe CL-B1-09, Anhang S. #refpage(<cl-b1-09>) (Checklisten-Anhang am Bandende) — „4.1 Schattenstab & Uhr-Methode“.
 #baustein[Der Schatten wandert nach Osten. Punkt 1 ist Westen, Punkt 2 ist Osten.]
 _Querverweise:_ siehe Konzept 4.2 (Polarstern als Gegenprobe), siehe Konzept 4.3 (Karte).
 _Erklärung:_
@@ -2761,26 +2501,10 @@ _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -2902,9 +2626,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 + Abstand Merak–Dubhe fünfmal nach oben abtragen — dort steht der Polarstern.
 + Gegenprobe: Cassiopeia (W) steht gegenüber, jenseits des Polarsterns.
 + Lot vom Polarstern zum Horizont = Norden.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.2 „Polarstern (Fünffach-Verlängerung, Cassiopeia)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Fünffach-Verlängerung geprüft
-- [ ] Cassiopeia als Gegenprobe gesichtet
+_Checkliste:_ siehe CL-B1-10, Anhang S. #refpage(<cl-b1-10>) (Checklisten-Anhang am Bandende) — „4.2 Polarstern (Fünffach-Verlängerung, Cassiopeia)“.
 #baustein[Der Polarstern bewegt sich nicht. Alles andere dreht sich um ihn.]
 _Querverweise:_ siehe Konzept 4.1, siehe Konzept 4.3.
 _Erklärung:_
@@ -2973,26 +2695,10 @@ _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -3113,10 +2819,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 + Maßstab lesen: 1:25.000 = 1 cm auf Karte = 250 m; 1:50.000 = 1 cm = 500 m.
 + Eigenen Stand eintragen; Richtung mit Kompass nehmen.
 + Marschziel bestimmen. Zwischenziele alle 500 m setzen. Genauigkeit: 1 cm auf der Karte = 250 m (1:25.000) bzw. 500 m (1:50.000); Ablesefehler ± 1 cm = ± 250–500 m — deshalb Zwischenziele und nicht das Endziel allein anpeilen.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.3 „Karte lesen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Nordausrichtung vor dem Lesen
-- [ ] Maßstab notiert
-- [ ] Zwischenziele gesetzt
+_Checkliste:_ siehe CL-B1-11, Anhang S. #refpage(<cl-b1-11>) (Checklisten-Anhang am Bandende) — „4.3 Karte lesen“.
 _Querverweise:_ siehe Konzept 4.1, siehe Konzept 4.2, siehe Konzept 4.4.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Der Maßstab ist ein Verhältnis: 1:25.000 heißt 1 cm Karte = 250 m Gelände. Eingenordete Karte (Norden oben) synchronisiert Karte und Gelände — die Hauptfehlerquelle ist die Spiegelverkehrung.
@@ -3189,25 +2892,9 @@ _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -3401,22 +3088,6 @@ _Querverweise:_ siehe Konzept B4-2.2, Wetter-/Wolkenlesen konsistent, siehe Konz
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -3551,9 +3222,7 @@ _Erklärung:_
 + Drei Signale (Pfeife, Licht, Ruf, Schläge auf Metall) = Notzeichen, international konsistent.
 + Pause, dann wieder drei Signale. Nie Dauerfeuer als Notzeichen (siehe Konzept B3-9.2: drei Feuer = Notzeichen).
 + Antwort erwartet: zwei Signale = „Verstanden“, ein Signal = „Nein“.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.1 „Notrufzeichen & Pfeife (3 Signale/min)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Drei-Signal-Rhythmus geübt (siehe Konzept 8.2)
-- [ ] Zeichen tags und nachts unterscheidbar
+_Checkliste:_ siehe CL-B1-12, Anhang S. #refpage(<cl-b1-12>) (Checklisten-Anhang am Bandende) — „5.1 Notrufzeichen & Pfeife (3 Signale/min)“.
 #baustein[Drei, Pause, drei. Jedes andere Muster ist kein Notruf.]
 _Querverweise:_ siehe Konzept B3-9.2, Signalfeuer, siehe Konzept 5.2.
 _Erklärung:_
@@ -3614,26 +3283,10 @@ _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -3754,10 +3407,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 + Bote nie allein senden — siehe Konzept B10-5.3, Trupp: einer vorn, einer hinten.
 + _+60-min-Regel:_ Bleibt ein Bote 60 Minuten überfällig, gilt er als vermisst; Suchtrupp nach Konzept 5.1 Zeichengebung.
 + Übergabe schriftlich (Netzausfall).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.2 „Treffpunkte & Botenregeln (+60-min-Regel)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Bote doppelt besetzt
-- [ ] +60-min-Frist notiert
-- [ ] Übergabezettel vorbereitet
+_Checkliste:_ siehe CL-B1-13, Anhang S. #refpage(<cl-b1-13>) (Checklisten-Anhang am Bandende) — „5.2 Treffpunkte & Botenregeln (+60-min-Regel)“.
 #baustein[Ein Bote ist keiner. Zwei Boten oder keiner.]
 _Querverweise:_ siehe Konzept 3.4, siehe Konzept B10-5.3, siehe Konzept 9.2.
 #subhead[Ablauf mit Kontrollkästchen]
@@ -3818,26 +3468,10 @@ _Querverweise:_ siehe Konzept 3.4, siehe Konzept B10-5.3, siehe Konzept 9.2.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -3976,9 +3610,7 @@ _Erklärung:_
 + Werkstück sichern (Knie, Schraubstock, Unterlage) — nie in der freien Hand halten.
 + Klinge nach Gebrauch reinigen, trocknen, ölen (siehe Konzept B9-7.3).
 + Schärfe prüfen: Papier sauber durchtrennen.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.1 „Messer“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Schnittrichtung weg vom Körper
-- [ ] Klinge gepflegt (siehe Konzept B9-4.2)
+_Checkliste:_ siehe CL-B1-14, Anhang S. #refpage(<cl-b1-14>) (Checklisten-Anhang am Bandende) — „6.1 Messer“.
 #baustein[Das Messer schneidet in eine Richtung: weg von dir.]
 _Querverweise:_ siehe Konzept B9-4.1, Schliff, siehe Konzept B9-4.2.
 _Erklärung:_
@@ -4043,26 +3675,10 @@ _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -4183,10 +3799,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 + _Zwei Fluchtwege_ in 45° zur Schwingrichtung frei halten.
 + Nie hangabwärts unterhalb einer arbeitenden Person stehen — siehe Konzept B9-3.1, tödliche Minute, `warn-9a`.
 + Axt nach Gebrauch mit Schneidenschutz versehen.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.2 „Säge & Axt“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Sperrzone markiert
-- [ ] Zwei Fluchtwege 45° frei
-- [ ] Niemals hangabwärts darunter
+_Checkliste:_ siehe CL-B1-15, Anhang S. #refpage(<cl-b1-15>) (Checklisten-Anhang am Bandende) — „6.2 Säge & Axt“.
 #baustein[Wo die Axt schwingt, steht niemand. 2 Stiellängen, 2 Fluchtwege, 45°.]
 _Querverweise:_ siehe Konzept B9-3.1, `warn-9a`.
 _Erklärung:_
@@ -4258,26 +3871,10 @@ _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -4412,9 +4009,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 + Jeden Knoten am wertlosen Übungsstück üben (siehe Konzept B9-1.3), bis er blind sitzt.
 + Knoten nach Belastung kontrollieren und nachziehen.
 + Lastendes Seil nie mit dem Messer durchtrennen — auslaufen lassen (siehe Konzept B9-5.2).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.3 „Fünf Serienknoten“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Alle fünf Knoten blind machbar
-- [ ] Nach Belastung kontrolliert
+_Checkliste:_ siehe CL-B1-16, Anhang S. #refpage(<cl-b1-16>) (Checklisten-Anhang am Bandende) — „6.3 Fünf Serienknoten“.
 #baustein[Ein Knoten, der nicht hält, ist kein Knoten. Zieh ihn fest und prüfe ihn zweimal.]
 _Querverweise:_ siehe Konzept 6.1 (B6, Schnur/Haken/Pose), siehe Konzept 5.2 (B9, Seil & Knoten).
 _Erklärung:_
@@ -4475,26 +4070,10 @@ _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -4615,9 +4194,7 @@ Als _Behelf_ deklariert: Funktion eingeschränkt, Grenzen ehrlich benennen.
 - Sägedraht (Drahtsäge): nur Weichholz _unter 5 cm_ Durchmesser.
 - Glasscherbe als Schneide: Griff mit Stoff umwickeln.
 - Dosenblech als Schaufel/Spatel.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.4 „Behelfswerkzeug“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Behelf als Behelf gekennzeichnet
-- [ ] Grenzen (z. B. \< 5 cm) eingehalten
+_Checkliste:_ siehe CL-B1-17, Anhang S. #refpage(<cl-b1-17>) (Checklisten-Anhang am Bandende) — „6.4 Behelfswerkzeug“.
 #baustein[Ein Behelf rettet die Situation, nicht den Komfort. Kenne seine Grenze.]
 _Querverweise:_ siehe Konzept 6.1, siehe Konzept B9-8.1, Werkzeug-Kiste.
 _Erklärung:_
@@ -4668,26 +4245,10 @@ _Erklärung:_
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Behelf], [siehe Glossar, Anhang D Band 1],
   [unter 5 cm], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -4813,9 +4374,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [Kinder/Ältere], [10–15 %],
 )
 Konsistenz : 10-l-Wasserkanister = 10 kg = eine Seite tragen (siehe Konzept B2-4.2); Sanitätsmappe \< 3 kg (siehe Konzept B8-8.1); Werkzeugkiste ≤ ¼ Körpergewicht (siehe Konzept B9-8.1).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.5 „Traglast (15–20 % / 30 % / Kinder 10–15 %)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Last gewogen oder geschätzt und gegen Tabelle geprüft
-- [ ] Schwere Last auf den Rücken, nicht in der Hand
+_Checkliste:_ siehe CL-B1-18, Anhang S. #refpage(<cl-b1-18>) (Checklisten-Anhang am Bandende) — „6.5 Traglast (15–20 % / 30 % / Kinder 10–15 %)“.
 #baustein[20 Prozent auf Dauer, 30 Prozent nur kurz, Kinder 15. Rechne konservativ.]
 _Querverweise:_ siehe Konzept B2-4.2, siehe Konzept B8-8.1, siehe Konzept B9-8.1.
 #subhead[Material & Maß (aus diesem Konzept)]
@@ -4866,26 +4425,10 @@ _Querverweise:_ siehe Konzept B2-4.2, siehe Konzept B8-8.1, siehe Konzept B9-8.1
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -5022,9 +4565,7 @@ _Erklärung:_
 + Eichungspflicht: Körpermaße einmal messen und notieren.
 + Maße: Daumenbreite ≈ 2,5 cm; Handspanne ≈ 20 cm; Elle (Handgelenk–Mittelfingerspitze) ≈ 45 cm; Schritt ≈ 75 cm.
 + Schrittfehler \< 10 % durch Eichung an bekannter Strecke (100 m) prüfen.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.1 „Körpermaß-System“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Eichkarte angelegt
-- [ ] Schritt an 100 m geeicht
+_Checkliste:_ siehe CL-B1-19, Anhang S. #refpage(<cl-b1-19>) (Checklisten-Anhang am Bandende) — „7.1 Körpermaß-System“.
 #baustein[Dein Körper ist das Lineal. Eich ihn einmal, dann trau ihm.]
 _Querverweise:_ siehe Konzept 7.2, siehe Konzept B10-2.1, Elle/Ruthe als Wertmaß.
 _Erklärung:_
@@ -5045,10 +4586,10 @@ _Erklärung:_
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [100 m], [( ) Schritt an 100 m geeicht],
   [45 cm], [duell nahezu konstant (Elle ≈ 45 cm, Handspanne ≈ 20 cm, Sch],
   [20 cm], [t (Elle ≈ 45 cm, Handspanne ≈ 20 cm, Schritt ≈ 75 cm). Die E],
   [75 cm], [Handspanne ≈ 20 cm, Schritt ≈ 75 cm). Die Eichung an einer b],
+  [100 m], [iner bekannten Strecke (z. B. 100 m) eliminiert den systemat],
   [10 %], [systematischer Maßfehler bis 10 %; alle abgeleiteten Maße],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
@@ -5096,26 +4637,10 @@ _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -5241,9 +4766,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [20 Tropfen Wasser], [≈ 1 ml],
 )
 _kg ≠ l_ — Masse ist nicht Volumen. 1 l Wasser = 1 kg; Öl, Mehl, Reis weichen ab.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.2 „Mengen & Referenzmaße“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Referenzlöffel markiert
-- [ ] kg/l-Trennung beachtet
+_Checkliste:_ siehe CL-B1-20, Anhang S. #refpage(<cl-b1-20>) (Checklisten-Anhang am Bandende) — „7.2 Mengen & Referenzmaße“.
 _Querverweise:_ siehe Konzept 7.1, siehe Konzept B2-2.1, Liter-Bedarf.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Das metrische System ist dezimal: 1 EL ≈ 15 ml, 1 TL ≈ 5 ml, 20 Tropfen Wasser ≈ 1 ml. Masse und Volumen sind verschiedene Größen (Dichte): 1 l Wasser = 1 kg, Öl/Mehl nicht.
@@ -5299,25 +4822,9 @@ _Erklärung:_
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [kg ≠ l], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -5437,9 +4944,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 + Puls zählen: 15 Sekunden zählen, × 4 = Schläge/min. Ruhepuls ≈ 60 → 1 Sekunde pro Schlag.
 + Zeit-Sprechen: Zähle gleichmäßig „einundzwanzig, zweiundzwanzig, dreiundzwanzig …“ — jedes „…undzwanzig“ ist etwa _1 Sekunde_. An deinem Puls geeicht (siehe oben).
 + Restlicht-1-h: Vor Einbruch der Dunkelheit alle Arbeiten einstellen, die Licht brauchen (s. Konzept B4-9.2).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.3 „Zeit ohne Uhr (± 30 min)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Puls als Sekundentakt geeicht
-- [ ] Restlicht-1-h-Regel bekannt
+_Checkliste:_ siehe CL-B1-21, Anhang S. #refpage(<cl-b1-21>) (Checklisten-Anhang am Bandende) — „7.3 Zeit ohne Uhr (± 30 min)“.
 #baustein[Dein Puls ist die Uhr. Zähle 15 Sekunden, multipliziere mit 4.]
 _Querverweise:_ siehe Konzept B4-9.2, siehe Konzept 7.1.
 _Erklärung:_
@@ -5460,7 +4965,7 @@ _Erklärung:_
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [30 min], [Konzept 7.3 „Zeit ohne Uhr (± 30 min)“ kein Prüfpunkt vergess],
+  [30 min], [ende) — „7.3 Zeit ohne Uhr (± 30 min)“.],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -5507,26 +5012,10 @@ _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -5647,9 +5136,7 @@ Die Ellbogenprobe ist _ungenau_ — sie ist ein Notbehelf, kein Messgerät. _Üb
 + Wasser mit dem Ellbogen prüfen: lauwarm ≈ 35–40 °C.
 + Konservative Verbrühungsgrenze _55 °C_ : ab 55 °C verbrüht die Haut in Sekunden — nie heißer als handwarm zum Baden/Wunden spülen.
 + Im Zweifel kühler annehmen.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.4 „Temperatur-Feinmessung (Ellbogenprobe)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Ellbogenprobe geübt (siehe Konzept 8.1/8.2)
-- [ ] 55-°C-Grenze eingehalten
+_Checkliste:_ siehe CL-B1-22, Anhang S. #refpage(<cl-b1-22>) (Checklisten-Anhang am Bandende) — „7.4 Temperatur-Feinmessung (Ellbogenprobe)“.
 #baustein[Was der Ellbogen als angenehm empfindet, ist sicher. Alles Heißere ist Risiko.]
 _Querverweise:_ siehe Konzept B8-7.1, Brandwunde — 55 °C, siehe Konzept 8.2.
 #subhead[Ablauf mit Kontrollkästchen]
@@ -5715,26 +5202,10 @@ _Querverweise:_ siehe Konzept B8-7.1, Brandwunde — 55 °C, siehe Konzept 8.2.
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [ungenau], [siehe Glossar, Anhang D Band 1],
   [Übungspflicht], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -5876,9 +5347,7 @@ _Übungsablauf:_ 5 Wdh. an Wasser bekannter Temperatur (10/30/50/55 °C, Thermo
   [Q3], [Orientierung (4.1–4.3), Nachtübung (2.3)],
   [Q4], [Werkzeug (6.1–6.5), Knoten (6.3), Rucksack (3.2)],
 )
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.1 „Jahres-Übungsplan“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Pro Quartal ein Wochenende eingeplant
-- [ ] Pro Übung ein Protokoll (siehe Konzept 8.2)
+_Checkliste:_ siehe CL-B1-23, Anhang S. #refpage(<cl-b1-23>) (Checklisten-Anhang am Bandende) — „8.1 Jahres-Übungsplan“.
 #baustein[Einmal im Quartal üben, was du einmal im Jahr brauchst.]
 _Querverweise:_ siehe Konzept 8.2, siehe Konzept B10-6.1, Feuerprobe, siehe Konzept B10-8.1, Kalender des Dorfes.
 _Erklärung:_
@@ -5928,27 +5397,11 @@ _Übungsablauf:_ Pro Quartal 1 Wochenende (siehe Tabelle); je Übung 45–90 mi
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
   [Übungsablauf:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -6068,10 +5521,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 + Jede Übung protokollieren: Datum, Konzept-Nummer, Dauer, Fehler, Bewertung V.
 + _Verfalluhr 12 Monate:_ Nach 12 Monaten ohne Wiederholung gilt die Fähigkeit als verfallen.
 + _V \< 6 → Übungspflicht_ sofort einplanen (z. B. 7.4 Ellbogenprobe, 3.3.3 Band 3 Reibfeuer, 9.2.4 Band 9 Feuerschweißen).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.2 „Übungsprotokoll (Verfalluhr 12 Monate)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Protokoll geführt
-- [ ] Verfalldatum (Datum + 12 Monate) notiert
-- [ ] Übungspflicht bei V \< 6 ausgelöst
+_Checkliste:_ siehe CL-B1-24, Anhang S. #refpage(<cl-b1-24>) (Checklisten-Anhang am Bandende) — „8.2 Übungsprotokoll (Verfalluhr 12 Monate)“.
 #baustein[Was 12 Monate nicht geübt wurde, ist nicht mehr da.]
 _Querverweise:_ siehe Konzept 8.1, siehe Konzept B10-6.1.
 #subhead[Ablauf mit Kontrollkästchen]
@@ -6128,26 +5578,10 @@ _Querverweise:_ siehe Konzept 8.1, siehe Konzept B10-6.1.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -6283,9 +5717,7 @@ _Übungsablauf:_ Nach jeder Übung sofort protokollieren (Datum, Konzept-Nr., Wd
 + Alle 24 h das Protokoll abschließen: Was wurde getan, gegessen, getrunken, entschieden?
 + Konsistent mit Wasser-Inventur (siehe Konzept B2-8.1).
 + Kopiervorlage: Anhang A Band 1.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.1 „Stundenprotokoll 24 h“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Protokoll alle 24 h geführt
-- [ ] Wasserverbrauch gegen Inventur geprüft (siehe Konzept B2-8.1)
+_Checkliste:_ siehe CL-B1-25, Anhang S. #refpage(<cl-b1-25>) (Checklisten-Anhang am Bandende) — „9.1 Stundenprotokoll 24 h“.
 #baustein[Schreibe auf, solange du denkst. Papier vergisst nicht.]
 _Querverweise:_ siehe Konzept B2-8.1, siehe Konzept 2.1, Anhang A.
 _Erklärung:_
@@ -6306,7 +5738,7 @@ _Erklärung:_
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [24 h], [Konzept 9.1 „Stundenprotokoll 24 h“ kein Prüfpunkt vergesse],
+  [24 h], [ende) — „9.1 Stundenprotokoll 24 h“.],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -6353,26 +5785,10 @@ _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -6492,9 +5908,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 + Rollen: Wache, Wasser, Feuer, Kochen, Instandhaltung, Protokoll.
 + Jede Rolle _doppelt besetzen_ — Krankheit oder Verletzung einer Person darf die Rolle nicht ausfallen lassen.
 + Konsistent mit Ämtern des Dorfes (siehe Konzept B10-4.1).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.2 „Wochenrollenplan (doppelt besetzt)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Jede Rolle doppelt besetzt
-- [ ] Wochenplan schriftlich ausgehängt
+_Checkliste:_ siehe CL-B1-26, Anhang S. #refpage(<cl-b1-26>) (Checklisten-Anhang am Bandende) — „9.2 Wochenrollenplan (doppelt besetzt)“.
 #baustein[Jede Rolle zweimal — eine Rolle ist keine Rolle.]
 _Querverweise:_ siehe Konzept B10-4.1, siehe Konzept 2.3.
 #subhead[Ablauf mit Kontrollkästchen]
@@ -6551,26 +5965,10 @@ _Querverweise:_ siehe Konzept B10-4.1, siehe Konzept 2.3.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -6685,7 +6083,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
 #pagebreak(weak: true)
-== Anhang A — Kopiervorlagen (Band 1) <anh-A>
+== Anhang A — Kopiervorlagen (Band 1) <anh-a>
 #pagebreak(weak: true)
 === A1 24-h-Stundenprotokoll <anh-a1>
 Kopiervorlage zu Konzept 9.1 — 24 Zeilen (Stunden), Spalten: Tätigkeit / Wasser getrunken / Entscheidung / Unterschrift.
@@ -6790,7 +6188,7 @@ Kopiervorlage zu Konzept 8.2 — Datum / Konzept-Nr. / Dauer / Fehler / V-Bewert
   [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
 )
 #pagebreak(weak: true)
-== Anhang B — Fehler-Tabelle (Band 1) <anh-B>
+== Anhang B — Fehler-Tabelle (Band 1) <anh-b>
 #table(
   columns: 3,
   table.header([Anfängerfehler], [Folge], [Korrektur]),
@@ -6803,7 +6201,7 @@ Kopiervorlage zu Konzept 8.2 — Datum / Konzept-Nr. / Dauer / Fehler / V-Bewert
   [Alle schlafen gleichzeitig], [keine Wache], [Konzept 2.3 Wachenplan],
 )
 #pagebreak(weak: true)
-== Anhang C — Übungsplan (Band 1) <anh-C>
+== Anhang C — Übungsplan (Band 1) <anh-c>
 _Übungsablauf (verbindlich für jede Übung in diesem Band):_
 + _Vorbereitung (10 min):_ Material und Protokollbogen (Anhang A4 / B1-8.2) bereitlegen; Warnrahmen des Konzepts durchlesen; bei Outdoor-Übung Wetter prüfen (B1-4.4).
 + _Durchführung:_ die nummerierten Schritte des Konzepts exakt in der dortigen Reihenfolge ausführen — keine Abkürzungen.
@@ -6821,79 +6219,263 @@ _Band-spezifische Übungen (Vorrang, mit Erfolgskontrolle):_
 - Blackout-Drill (3a.4): 2× jährlich, 2–4 h, Erfolg: 13 Punkte aus 3a.2 abgehakt, Wasser ≥ 2 l/Pers/Tag messbar, UKW-Radio empfängt, CO-Melder-Test bestanden; Abbruch bei echtem Ereignis/CO-Alarm
 Verfalluhr: 12 Monate ohne Wiederholung = Fähigkeit verfallen (siehe B1-8.2).
 #pagebreak(weak: true)
-== Anhang D — Glossar (zentral für alle 10 Bände) <anh-D>
+== Anhang D — Glossar (zentral für alle 10 Bände) <anh-d>
 #table(
   columns: 2,
   table.header([Begriff], [Bedeutung]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Heuristik], [Faustregel mit bekannter Schwankungsbreite, keine exakte Gesetzesangabe (z. B. Regel der Drei, siehe Konzept 3.1)],
-  [Notbehelf], [Lösung mit P \< 5; nur wenn nichts Besseres verfügbar; immer als solcher gekennzeichnet],
-  [Latrine], [Grabtiefe 25–30 cm _und_ Abstand zur Wasserstelle ≥ 30 m (besser 50 m) — verschiedene Größen, siehe Konzepte B2-1.2 und B2-9.1],
-  [Gesottenes Wasser], [Abgekochtes Wasser: 1 min sprudelnd, ab 2.000 m 3 min (siehe Konzept B2-6.2)],
-  [Traglast], [15–20 % Körpergewicht (Marsch), 30 % (kurz), 10–15 % (Kinder/Ältere), siehe Konzept 6.5],
-  [Verfalluhr], [12 Monate ohne Übung = Fähigkeit verfallen, siehe Konzept 8.2],
-  [WARNRAHMEN], [Markierter Kasten zu warnpflichtigem Risiko (Botulismus, CO, Tetanus, Giftpflanzen u. a.), immer mit Warngrafik `warn-N.svg`],
-  [Notwehr], [§ 32 StGB: nur bei gegenwärtigem rechtswidrigem Angriff, verhältnismäßig (siehe Konzept B10-4.2)],
-  [Notstand], [§§ 34/35 StGB: Eingriff in fremdes Eigentum bei Lebensgefahr gerechtfertigt/entschuldigt (siehe Konzept B10-5.2)],
-  [Ampel], [grün = freigegeben; gelb = mit Auflage; rot = ausgeschlossen bis korrigiert],
-  [P / M / V], [Bewertung praktisch 1–10 (\< 5 = Notbehelf), moralisch 4-stufig, Verständlichkeit 1–10 (\< 6 = Übungspflicht)],
-  [Abb. N.M], [Abbildung N.M im Band N; Warngrafik `warn-N.svg`],
-  [Querverweis-Schema], [innerhalb eines Bandes: „Konzept X.Y“; zwischen Bänden: „Konzept B\<Band\>-X.Y“ (z. B. B3-6.3 = Band 3, Kapitel 6, Konzept 3). Nie „weiter oben“],
-  [§ 32 StGB], [Notwehr: nur bei gegenwärtigem rechtswidrigem Angriff, verhältnismäßig; keine Rache, keine Präventivgewalt],
-  [§§ 34/35 StGB], [Notstand: Eingriff in fremdes Eigentum bei Gefahr für Leib/Leben ist gerechtfertigt (34) bzw. entschuldigt (35)],
-  [§ 123 StGB], [Hausrecht: Eindringen in Wohnungen ist verboten; Abwehr des Eindringlings erlaubt],
-  [§ 291 StGB / § 138 Abs. 2 BGB], [Wucher: Ausbeutung der Zwangslage + krasses Missverhältnis ist strafbar / der Vertrag nichtig],
-  [§ 292 StGB], [Wilderei: Jagd ohne Jagdschein/Befugnis ist strafbar],
-  [§ 19 Abs. 1 BJagdG], [Schlingen und Totschlagfallen sind verboten; nur amtlich zugelassene Lebendfang-Kastenfallen erlaubt],
-  [§ 22 / § 38 BJagdG], [Schonzeiten; Zuwiderhandlung ist strafbar],
-  [§§ 23/39/44 BNatSchG], [Naturschutz: in NSG Sammeln verboten (23); Handstrauß nur für nicht geschützte Arten (39); geschützte Arten entnehmen verboten (44)],
-  [WaffG], [Waffenrecht: Schusswaffen nur mit Erlaubnis (Waffenschein) führen],
-  [Blackout / Brownout], [Blackout = unkontrollierter großflächiger Stromkollaps (Tage); Brownout = kontrollierte Spannungsschwankungen; Stromausfall = lokal, Minuten–Stunden. Phasenmodell siehe B1-3a.1],
-  [STOPP], [Stopp–Think–Observe–Plan–Proceed, siehe Konzept 2.1],
 )
 #pagebreak(weak: true)
-== Bandabschluss Band 1 — Bewertungsmatrix + Devise <abschluss>
+== Anhang D — Checklisten (Band 1) <anh-d-2>
+Alle Checklisten des Bandes, gesammelt am Bandende. Im Kapiteltext steht jeweils nur der Querverweis „siehe CL-B1-NN“. Aufbau pro Checkliste: Kennziffer + sprechende Bezeichnung + Begriffserläuterung (Mini-Glossar) + bestehende Ziel-Präambel (Zweck/Abnahme) + Punkte.
+#subhead[Kapitel-Übersicht]
 #table(
-  columns: 5,
-  table.header([Konzept], [P], [M], [V], [Ampel]),
+  columns: 7,
+  table.header([*Nr.*], [*Konzept*], [*P*], [*M*], [*V*], [*Ampel*], [*Abb.*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [2.1 STOPP], [10], [unbedenklich], [9], [grün],
-  [2.2 Atem 4–6], [9], [unbedenklich], [10], [grün],
-  [2.3 Schlaf/Wachenplan], [8], [unbedenklich], [9], [grün],
-  [2.4 Gesprächsordnung], [7], [unbedenklich], [9], [grün],
-  [3.1 Regel der Drei], [9], [unbedenklich], [10], [grün],
-  [3.2 Notfallrucksack], [9], [unbedenklich], [9], [grün],
-  [3.3 Rucksack-Profile], [8], [unbedenklich], [9], [grün],
-  [3.4 Treffpunkt-Plan], [9], [unbedenklich], [9], [grün],
-  [4.1 Schattenstab], [8], [unbedenklich], [9], [grün],
-  [4.2 Polarstern], [8], [unbedenklich], [9], [grün],
-  [4.3 Karte lesen], [9], [unbedenklich], [8], [grün],
-  [4.4 Wetter lesen], [7], [unbedenklich], [8], [grün],
-  [5.1 Notrufzeichen], [9], [unbedenklich], [10], [grün],
-  [5.2 Botenregeln], [8], [unbedenklich], [9], [grün],
-  [6.1 Messer], [9], [unbedenklich], [9], [grün],
-  [6.2 Säge & Axt], [8], [unbedenklich], [8], [grün],
-  [6.3 Fünf Knoten], [9], [unbedenklich], [9], [grün],
-  [6.4 Behelfswerkzeug], [6], [unbedenklich], [8], [grün],
-  [6.5 Traglast], [8], [unbedenklich], [9], [grün],
-  [7.1 Körpermaß], [8], [unbedenklich], [10], [grün],
-  [7.2 Mengen], [8], [unbedenklich], [9], [grün],
-  [7.3 Zeit ohne Uhr], [7], [unbedenklich], [9], [grün],
-  [7.4 Temperatur (Ellbogen)], [5], [unbedenklich], [9], [_gelb (Notbehelf)_],
-  [8.1 Jahres-Übungsplan], [9], [unbedenklich], [9], [grün],
-  [8.2 Übungsprotokoll], [8], [unbedenklich], [9], [grün],
-  [9.1 Stundenprotokoll], [9], [unbedenklich], [8], [grün],
-  [9.2 Wochenrollenplan], [8], [unbedenklich], [9], [grün],
-  [3a.1 Phasenmodell (Saurugg)], [8], [unbedenklich], [9], [grün (Zeithorizonte:)],
-  [3a.2 Sofortmaßnahmen 60 min], [9], [unbedenklich], [9], [grün (Einzelwerte festgelegt: 14 Tage/Ziel 4 Wochen, 4–8 h, 4 h/24–48 h)],
-  [3a.3 Grundausstattung Blackout], [9], [unbedenklich], [9], [grün (BBK; 10 Tage Mindeststandard / 14 Tage Empfehlung)],
-  [3a.4 Blackout-Drill], [8], [unbedenklich], [9], [grün],
+  [CL-B1-01], [— 2.1 STOPP-Protokoll], [], [], [], [grün], [–],
+  [CL-B1-02], [— 2.2 Atemprotokoll 4–6], [], [], [], [grün], [–],
+  [CL-B1-03], [— 2.4 Gesprächsordnung (15-min-Box)], [], [], [], [grün], [–],
+  [CL-B1-04], [— 3.2 Notfallrucksack (72 h)], [], [], [], [grün], [–],
+  [CL-B1-05], [— 3.3 Rucksack-Profile (Kinder/Senioren/Haustiere)], [], [], [], [grün], [–],
+  [CL-B1-06], [— 3.4 Treffpunkt-Plan (A/B + Abholliste)], [], [], [], [grün], [–],
+  [CL-B1-07], [— 3a.2 Sofortmaßnahmen], [], [], [], [grün], [–],
+  [CL-B1-08], [— 3a.3 Grundausstattung Blackout (BBK-Kategorien)], [], [], [], [grün], [–],
+  [CL-B1-09], [— 4.1 Schattenstab & Uhr-Methode], [], [], [], [grün], [–],
+  [CL-B1-10], [— 4.2 Polarstern (Fünffach-Verlängerung, Cassiopeia)], [], [], [], [grün], [–],
+  [CL-B1-11], [— 4.3 Karte lesen], [], [], [], [grün], [–],
+  [CL-B1-12], [— 5.1 Notrufzeichen & Pfeife (3 Signale/min)], [], [], [], [grün], [–],
+  [CL-B1-13], [— 5.2 Treffpunkte & Botenregeln (+60-min-Regel)], [], [], [], [grün], [–],
+  [CL-B1-14], [— 6.1 Messer], [], [], [], [grün], [–],
+  [CL-B1-15], [— 6.2 Säge & Axt], [], [], [], [grün], [–],
+  [CL-B1-16], [— 6.3 Fünf Serienknoten], [], [], [], [grün], [–],
+  [CL-B1-17], [— 6.4 Behelfswerkzeug], [], [], [], [grün], [–],
+  [CL-B1-18], [— 6.5 Traglast (15–20 % / 30 % / Kinder 10–15 %)], [], [], [], [grün], [–],
+  [CL-B1-19], [— 7.1 Körpermaß-System], [], [], [], [grün], [–],
+  [CL-B1-20], [— 7.2 Mengen & Referenzmaße], [], [], [], [grün], [–],
+  [CL-B1-21], [— 7.3 Zeit ohne Uhr (± 30 min)], [], [], [], [grün], [–],
+  [CL-B1-22], [— 7.4 Temperatur-Feinmessung (Ellbogenprobe)], [], [], [], [grün], [–],
+  [CL-B1-23], [— 8.1 Jahres-Übungsplan], [], [], [], [grün], [–],
+  [CL-B1-24], [— 8.2 Übungsprotokoll (Verfalluhr 12 Monate)], [], [], [], [grün], [–],
+  [CL-B1-25], [— 9.1 Stundenprotokoll 24 h], [], [], [], [grün], [–],
+  [CL-B1-26], [— 9.2 Wochenrollenplan (doppelt besetzt)], [], [], [], [grün], [–],
 )
-#devise[„Halte inne, atme, handle in der Reihenfolge Luft–Wärme–Wasser–Nahrung — und übe, was du können musst, bevor du es brauchst.“]
-_Erklärung:_
-- _Prinzip (warum das funktioniert):_ Doppelte Besetzung jeder Rolle absorbiert Ausfälle (Krankheit, Verletzung); Rotation verhindert Überlastung Einzelner. Ämter an die Hand, nicht an die Person (B10-4.1).
-- _Situationsvarianten (wann welche):_ Kleine Gruppe (\< 4): Rollen kombinieren, aber Wache nie allein. Stadt: Rollen auf Haushalte der Nachbarschaft verteilen.
-- _Typische Fehler (warum + Folge):_ Rollen einfach besetzen. Folge: Bei Ausfall einer Person bricht die Rolle aus — z. B. keine Feuerwache (warn-3).
+=== CL-B1-01 — 2.1 STOPP-Protokoll <cl-b1-01>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.1 „STOPP-Protokoll“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Stopp genommen, bevor etwas bewegt wurde
+- [ ] Drei Gefahren benannt
+- [ ] Drei nächste Handlungen notiert (siehe Konzept 9.1)
+=== CL-B1-02 — 2.2 Atemprotokoll 4–6 <cl-b1-02>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.2 „Atemprotokoll 4–6“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] 5 volle Zyklen gemacht
+- [ ] Schulter und Kiefer bewusst gelöst
+=== CL-B1-03 — 2.4 Gesprächsordnung (15-min-Box) <cl-b1-03>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.4 „Gesprächsordnung (15-min-Box)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Thema vorab angesagt
+- [ ] Redezeiten eingehalten
+- [ ] Entscheidung oder neuer Termin im Protokoll
+=== CL-B1-04 — 3.2 Notfallrucksack (72 h) <cl-b1-04>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.2 „Notfallrucksack (72 h)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Gesamtgewicht gewogen: \< 12 kg
+- [ ] Wasser auffüllbar eingepackt (Flaschen leer mitnehmen möglich)
+- [ ] Inhalt alle 6 Monate geprüft (siehe Konzept 8.2)
+=== CL-B1-05 — 3.3 Rucksack-Profile (Kinder/Senioren/Haustiere) <cl-b1-05>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.3 „Rucksack-Profile (Kinder/Senioren/Haustiere)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Jedem sein Gewicht zugewiesen und gewogen
+- [ ] Medikamente des Seniors doppelt eingepackt
+=== CL-B1-06 — 3.4 Treffpunkt-Plan (A/B + Abholliste) <cl-b1-06>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.4 „Treffpunkt-Plan (A/B + Abholliste)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] A und B schriftlich notiert
+- [ ] Abholliste vollständig
+- [ ] +60-min-Regel allen bekannt
+=== CL-B1-07 — 3a.2 Sofortmaßnahmen <cl-b1-07>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- CO = Kohlenmonoxid, geruchlos, tödlich; warn-3 (B3-6.3)
+- UKW = Radioband; funktioniert im Blackout garantiert (Notstrom der Sender)
+- NINA = Warn-App des Bundes; braucht mobiles Internet, UKW-Fallback
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass in den ersten 60 Minuten eines Blackouts kein kritischer Schritt vergessen wird (Wasser, Licht, Information, Medikamente, CO-Schutz). Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium für den Blackout-Start; ohne vollständige Liste fehlt im Ernstfall Wasser, Licht oder Information. Fehlt ein Punkt, ist die Ausgangslage gefährdet — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Geräte ausgesteckt, eine Lampe an
+- [ ] Familie informiert, Treffpunkt steht (B1-3.4)
+- [ ] Wasser aufgefüllt (Badewanne/Becken/Gefäße) — Ziel: 2 l/Pers/Tag × 14 T erreichbar (B2-8.1)
+- [ ] Licht/Wärme an festem Ort bereit, Kerzen-Regel klar
+- [ ] Handy im Flugmodus
+- [ ] Stolperfallen entfernt, Aufzüge geprüft
+- [ ] UKW-Radio läuft (Fallback zu NINA)
+- [ ] Ein Raum als Aufenthaltsraum gewählt, Lüftung klar (B4-2.1, warn-3)
+- [ ] Kühlschrank-Strategie klar (Kühlschrank 4 h / TK 24–48 h)
+- [ ] Medikamente 14 Tage + Insulin kühl + Impfpass (B8-8.1)
+- [ ] Toilette ohne Wasser organisiert (B2-9.1)
+- [ ] Koch-/Heizlösung ohne Wohnungs-Grill (B3-5.1, warn-3)
+=== CL-B1-08 — 3a.3 Grundausstattung Blackout (BBK-Kategorien) <cl-b1-08>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- CO = Kohlenmonoxid, geruchlos, tödlich; warn-3 (B3-6.3)
+- FFP2 = Atemschutzmaske gegen Aerosole
+- BBK = Bundesamt für Bevölkerungsschutz; 72-h-Konzept, 2 l/Pers/Tag
+- UKW = Radioband; funktioniert im Blackout garantiert (Notstrom der Sender)
+- NINA = Warn-App des Bundes; braucht mobiles Internet, UKW-Fallback
+- CO-Melder = Warngerät für Kohlenmonoxid; Pflicht bei Notheizung (warn-3)
+_Checkliste — Zweck und Abnahme:_ Diese Liste ist die Blackout-Grundausstattung (BBK-Checkliste, 14-Tage-Horizont). Erfüllt ist sie, wenn jedes Kästchen abgehakt _und_ der Vorrat eingelagert/verifiziert ist (Gewicht, Verfallsdaten, Funktionstest Radio/CO-Melder) — das ist das Abnahmekriterium. Fehlt ein Punkt, ist die Autonomie in der Kategorie nicht gegeben — Folge siehe „Erklärung → Typische Fehler“ des Kapitels 3a.2 bzw. des jeweiligen Querverweis-Bands. Nicht verifizierte Detailangaben (Beträge, Gerätegrößen) bleiben unberücksichtigt.
+- [ ] _Wasser:_ 2 l Trinkwasser/Pers/Tag × 14 Tage, kühl-dunkel gelagert (grün, siehe B2-8.1); getrennter Gesamtbedarf (Kochen/Hygiene 7,5–10 l) klären
+- [ ] _Nahrung:_ haltbare, kalt verzehrbare Lebensmittel × 14 Tage (Konserven, Zwieback, H-Milch, Nüsse, Trockenobst) + Campingkocher + Brennstoff (BBK; siehe B7-2.2/B7-9.1; 10 vs. 14 Tage)
+- [ ] _Licht:_ Taschenlampe + Ersatzbatterien, Stirnlampe, Kerzen + Feuerzeug/Streichhölzer (nie unbeaufsichtigt, B3-9.1); genaue Lumen/Zahl
+- [ ] _Wärme:_ warme Kleidung, Decken, Schlafsack; netzunabhängige Heizung (Gasheizer/Petroleumofen) nur mit Zündsicherung + _CO-Melder_ (`warn-3`, ; siehe B3-6.3, B4-2.1)
+- [ ] _Kommunikation:_ Kurbelradio oder batteriebetriebenes UKW-Radio (Fallback zu NINA), Notfallkontakte/Telefonnummern _auf Papier_ (laminiert, siehe B1-3.4), Powerbank (Größe)
+- [ ] _Finanzen:_ Bargeld-Reserve in kleinen Scheinen (Geldautomat/EC fällt aus; Betrag)
+- [ ] _Dokumente:_ Kopien (Ausweis, Versicherung, Impfpass, Medikamentenliste) wasserdicht gelagert (B8-8.1)
+- [ ] _Medizin:_ Hausapotheke + Dauermedikation _14 Tage_ (Kompendium-Wert), Insulin kühl (B8-2.2), Thermometer (B8-8.1)
+- [ ] _Hygiene:_ Feuchttücher, Müllsäcke, Toilettenpapier, Desinfektionsmittel, Campingtoilette/Eimer+Säcke (B2-9.1)
+- [ ] _Sicherheit:_ Rauchmelder, Feuerlöscher, _CO-Melder_ (Pflicht bei alternativer Heizung, `warn-3`), FFP2
+- [ ] _Haustiere:_ Futter + Wasser × 14 Tage
+=== CL-B1-09 — 4.1 Schattenstab & Uhr-Methode <cl-b1-09>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.1 „Schattenstab & Uhr-Methode“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Mindestens 15 Minuten zwischen den Markierungen
+- [ ] Sommerzeit-Korrektur beachtet
+=== CL-B1-10 — 4.2 Polarstern (Fünffach-Verlängerung, Cassiopeia) <cl-b1-10>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.2 „Polarstern (Fünffach-Verlängerung, Cassiopeia)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Fünffach-Verlängerung geprüft
+- [ ] Cassiopeia als Gegenprobe gesichtet
+=== CL-B1-11 — 4.3 Karte lesen <cl-b1-11>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.3 „Karte lesen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Nordausrichtung vor dem Lesen
+- [ ] Maßstab notiert
+- [ ] Zwischenziele gesetzt
+=== CL-B1-12 — 5.1 Notrufzeichen & Pfeife (3 Signale/min) <cl-b1-12>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.1 „Notrufzeichen & Pfeife (3 Signale/min)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Drei-Signal-Rhythmus geübt (siehe Konzept 8.2)
+- [ ] Zeichen tags und nachts unterscheidbar
+=== CL-B1-13 — 5.2 Treffpunkte & Botenregeln (+60-min-Regel) <cl-b1-13>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.2 „Treffpunkte & Botenregeln (+60-min-Regel)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Bote doppelt besetzt
+- [ ] +60-min-Frist notiert
+- [ ] Übergabezettel vorbereitet
+=== CL-B1-14 — 6.1 Messer <cl-b1-14>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.1 „Messer“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Schnittrichtung weg vom Körper
+- [ ] Klinge gepflegt (siehe Konzept B9-4.2)
+=== CL-B1-15 — 6.2 Säge & Axt <cl-b1-15>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- Sperrzone = 2 Stiellängen um schwingendes Werkzeug (B1-6.2, warn-9a)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.2 „Säge & Axt“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Sperrzone markiert
+- [ ] Zwei Fluchtwege 45° frei
+- [ ] Niemals hangabwärts darunter
+=== CL-B1-16 — 6.3 Fünf Serienknoten <cl-b1-16>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.3 „Fünf Serienknoten“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Alle fünf Knoten blind machbar
+- [ ] Nach Belastung kontrolliert
+=== CL-B1-17 — 6.4 Behelfswerkzeug <cl-b1-17>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.4 „Behelfswerkzeug“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Behelf als Behelf gekennzeichnet
+- [ ] Grenzen (z. B. \< 5 cm) eingehalten
+=== CL-B1-18 — 6.5 Traglast (15–20 % / 30 % / Kinder 10–15 %) <cl-b1-18>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.5 „Traglast (15–20 % / 30 % / Kinder 10–15 %)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Last gewogen oder geschätzt und gegen Tabelle geprüft
+- [ ] Schwere Last auf den Rücken, nicht in der Hand
+=== CL-B1-19 — 7.1 Körpermaß-System <cl-b1-19>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.1 „Körpermaß-System“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Eichkarte angelegt
+- [ ] Schritt an 100 m geeicht
+=== CL-B1-20 — 7.2 Mengen & Referenzmaße <cl-b1-20>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.2 „Mengen & Referenzmaße“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Referenzlöffel markiert
+- [ ] kg/l-Trennung beachtet
+=== CL-B1-21 — 7.3 Zeit ohne Uhr (± 30 min) <cl-b1-21>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.3 „Zeit ohne Uhr (± 30 min)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Puls als Sekundentakt geeicht
+- [ ] Restlicht-1-h-Regel bekannt
+=== CL-B1-22 — 7.4 Temperatur-Feinmessung (Ellbogenprobe) <cl-b1-22>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.4 „Temperatur-Feinmessung (Ellbogenprobe)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Ellbogenprobe geübt (siehe Konzept 8.1/8.2)
+- [ ] 55-°C-Grenze eingehalten
+=== CL-B1-23 — 8.1 Jahres-Übungsplan <cl-b1-23>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.1 „Jahres-Übungsplan“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Pro Quartal ein Wochenende eingeplant
+- [ ] Pro Übung ein Protokoll (siehe Konzept 8.2)
+=== CL-B1-24 — 8.2 Übungsprotokoll (Verfalluhr 12 Monate) <cl-b1-24>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- Verfalluhr = 12 Monate ohne Übung → verfallen (B1-8.2)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.2 „Übungsprotokoll (Verfalluhr 12 Monate)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Protokoll geführt
+- [ ] Verfalldatum (Datum + 12 Monate) notiert
+- [ ] Übungspflicht bei V \< 6 ausgelöst
+=== CL-B1-25 — 9.1 Stundenprotokoll 24 h <cl-b1-25>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.1 „Stundenprotokoll 24 h“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Protokoll alle 24 h geführt
+- [ ] Wasserverbrauch gegen Inventur geprüft (siehe Konzept B2-8.1)
+=== CL-B1-26 — 9.2 Wochenrollenplan (doppelt besetzt) <cl-b1-26>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.2 „Wochenrollenplan (doppelt besetzt)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Jede Rolle doppelt besetzt
+- [ ] Wochenplan schriftlich ausgehängt
 #pagebreak(weak: true)
 == Situative Detail-Skizzen <skizzen>
 Situative Skizzen zu Varianten und Situationen — mit Maßen und Situationskontext.
@@ -6935,6 +6517,32 @@ Alle Konzepte dieses Bandes im Überblick — abhaken, wenn geübt/gelesen:
 - [ ] 8.2 Übungsprotokoll (Verfalluhr 12 Monate)
 - [ ] 9.1 Stundenprotokoll 24 h
 - [ ] 9.2 Wochenrollenplan (doppelt besetzt)
+- [ ] CL-B1-01 — 2.1 STOPP-Protokoll
+- [ ] CL-B1-02 — 2.2 Atemprotokoll 4–6
+- [ ] CL-B1-03 — 2.4 Gesprächsordnung (15-min-Box)
+- [ ] CL-B1-04 — 3.2 Notfallrucksack (72 h)
+- [ ] CL-B1-05 — 3.3 Rucksack-Profile (Kinder/Senioren/Haustiere)
+- [ ] CL-B1-06 — 3.4 Treffpunkt-Plan (A/B + Abholliste)
+- [ ] CL-B1-07 — 3a.2 Sofortmaßnahmen
+- [ ] CL-B1-08 — 3a.3 Grundausstattung Blackout (BBK-Kategorien)
+- [ ] CL-B1-09 — 4.1 Schattenstab & Uhr-Methode
+- [ ] CL-B1-10 — 4.2 Polarstern (Fünffach-Verlängerung, Cassiopeia)
+- [ ] CL-B1-11 — 4.3 Karte lesen
+- [ ] CL-B1-12 — 5.1 Notrufzeichen & Pfeife (3 Signale/min)
+- [ ] CL-B1-13 — 5.2 Treffpunkte & Botenregeln (+60-min-Regel)
+- [ ] CL-B1-14 — 6.1 Messer
+- [ ] CL-B1-15 — 6.2 Säge & Axt
+- [ ] CL-B1-16 — 6.3 Fünf Serienknoten
+- [ ] CL-B1-17 — 6.4 Behelfswerkzeug
+- [ ] CL-B1-18 — 6.5 Traglast (15–20 % / 30 % / Kinder 10–15 %)
+- [ ] CL-B1-19 — 7.1 Körpermaß-System
+- [ ] CL-B1-20 — 7.2 Mengen & Referenzmaße
+- [ ] CL-B1-21 — 7.3 Zeit ohne Uhr (± 30 min)
+- [ ] CL-B1-22 — 7.4 Temperatur-Feinmessung (Ellbogenprobe)
+- [ ] CL-B1-23 — 8.1 Jahres-Übungsplan
+- [ ] CL-B1-24 — 8.2 Übungsprotokoll (Verfalluhr 12 Monate)
+- [ ] CL-B1-25 — 9.1 Stundenprotokoll 24 h
+- [ ] CL-B1-26 — 9.2 Wochenrollenplan (doppelt besetzt)
 #pagebreak(weak: true)
 == Querverweis-Register Band 1 <querverweis-register>
 Alle Verweise aus diesem Band auf andere Bände (Schema B\<Band\>-X.Y):
@@ -6972,18 +6580,14 @@ Alle Verweise aus diesem Band auf andere Bände (Schema B\<Band\>-X.Y):
   [3a.2], [B3-5.1],
   [3a.2], [B10-4.1],
   [3a.2], [B4-2.4],
-  [3a.3], [B2-8.1],
-  [3a.3], [B7-2.2],
-  [3a.3], [B7-9.1],
-  [3a.3], [B3-9.1],
-  [3a.3], [B3-6.3],
-  [3a.3], [B4-2.1],
-  [3a.3], [B1-3.4],
-  [3a.3], [B8-8.1],
-  [3a.3], [B8-2.2],
-  [3a.3], [B2-9.1],
   [3a.3], [B10-4.1],
+  [3a.3], [B2-9.1],
+  [3a.3], [B2-8.1],
+  [3a.3], [B3-6.3],
   [3a.3], [B3-5.1],
+  [3a.3], [B4-2.1],
+  [3a.3], [B7-9.1],
+  [3a.3], [B8-8.1],
   [3a.4], [B1-8.2],
   [3a.4], [B3-6.3],
   [3a.4], [B4-2.4],
@@ -6994,8 +6598,8 @@ Alle Verweise aus diesem Band auf andere Bände (Schema B\<Band\>-X.Y):
   [5.1], [B3-9.2],
   [5.2], [B10-5.3],
   [6.1], [B9-7.3],
-  [6.1], [B9-4.2],
   [6.1], [B9-4.1],
+  [6.1], [B9-4.2],
   [6.1], [B8-2.1],
   [6.2], [B9-3.1],
   [6.3], [B9-1.3],

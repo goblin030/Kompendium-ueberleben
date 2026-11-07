@@ -17,13 +17,8 @@ Jagd nur im **Notstand** (Lebenserhalt), sauberer Tod, **Ganz-Verwertung** (sieh
 
 > **Rechtlich Pflicht:** **Jagdschein + Befugnis** — ohne Beides ist Jagd Wilderei (§ 292 StGB, strafbar). Das Buch leitet keine strafbaren Handlungen an.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.1 „Grenze des Jagens“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B6-01 (Checklisten-Anhang am Bandende) — „1.1 Grenze des Jagens“.
 
-- [ ] Notstand-Bindung gegeben
-- [ ] Jagdschein + Befugnis vorhanden
-- [ ] Ganz-Verwertung geplant (siehe Konzept 9.3)
 
 **Querverweise:** siehe Konzept 9.3, siehe Konzept B10-4.2.
 **Erklärung:**
@@ -37,12 +32,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. Kreis 2 (mittel): Ruhezonen einrichten — Wild braucht Rückzugsorte.
 3. Kreis 3 (fern): nur mit Lizenz/Befugnis.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.2 „Jagd-Kreise & Ruhe-Zonen“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B6-02 (Checklisten-Anhang am Bandende) — „1.2 Jagd-Kreise & Ruhe-Zonen“.
 
-- [ ] Kreise festgelegt
-- [ ] Ruhe-Zonen markiert
 
 **Querverweise:** siehe Konzept 1.1, siehe Konzept 1.3.
 **Erklärung:**
@@ -64,11 +55,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 | Fische (Laichzeit, z. B. Forelle) | Oktober–Januar | Laichzeit |
 | Vögel allgemein | ganzjährig | Eier/Nester entnehmen verboten (§ 44 BNatSchG, siehe 5.2) |
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.3 „Jagd-Kalender“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B6-03 (Checklisten-Anhang am Bandende) — „1.3 Jagd-Kalender“.
 
-- [ ] Schonzeiten im Kalender (siehe Konzept B10-8.1)
 
 **Querverweise:** siehe Konzept B10-8.1.
 
@@ -92,11 +80,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 | Reh | herzförmig, gespalten |
 | Hase | hintere Abdrücke lang, paarweise neben Vorderläufen |
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.1 „Trittsiegel & Gangbilder“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B6-04 (Checklisten-Anhang am Bandende) — „2.1 Trittsiegel & Gangbilder“.
 
-- [ ] Trittsiegel fotografiert/notiert (siehe Konzept B1-9.1)
 
 **Querverweise:** siehe Konzept 2.4.
 **Erklärung:**
@@ -128,11 +113,8 @@ Fuchsbau (mehrere Röhren), Dachs (groß, Erdhaufen), Wildschwein (Nest), Reh (L
 
 **Neuschnee datiert die Spur:** frische Spur heute, alte gestern. Schneedrift täuscht — Spur in geschützter Zone lesen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.4 „Winter-Spur“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B6-05 (Checklisten-Anhang am Bandende) — „2.4 Winter-Spur“.
 
-- [ ] Neuschnee-Schichtdicke beurteilt
 
 **Querverweise:** siehe Konzept 2.1.
 
@@ -153,12 +135,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. Volle Fenster-Spanne nutzen (Dämmerung, frühe Nacht).
 3. Protokoll führen (Anhang A Band 6): Erfolg jede 8.–12. Ansitzstunde (Planungsrichtwert).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.1 „Der Ansitz“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B6-06 (Checklisten-Anhang am Bandende) — „3.1 Der Ansitz“.
 
-- [ ] Windrichtung geprüft
-- [ ] Ansitz-Protokoll geführt
 
 **Querverweise:** siehe Anhang A, siehe Konzept 2.3.
 **Erklärung:**
@@ -181,13 +159,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. Nach dem Schuss: Wartefrist, dann Nachsuche.
 3. Wildbret-Untersuchung und Durchgaren: siehe Konzept 9.1 (`warn-6b`).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.2 „Pirsch & sauberer Schuss“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B6-07 (Checklisten-Anhang am Bandende) — „3.2 Pirsch & sauberer Schuss“.
 
-- [ ] Wartefrist eingehalten
-- [ ] Nachsuche organisiert
-- [ ] Waffenerlaubnis vorhanden (WaffG)
 
 > **BAUSTEIN:** Ein verletztes Tier ist kein Jagdglück, es ist eine Gefahr. Warte, suche, finde.
 
@@ -212,13 +185,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. Sicherheitsabstand **10–20 m**; nie auf Personen richten.
 3. **100 Probeschüsse Pflicht** vor jedem Einsatz (siehe Konzept B1-8.2, Übungsprotokoll).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.1 „Jagdbogen“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B6-08 (Checklisten-Anhang am Bandende) — „4.1 Jagdbogen“.
 
-- [ ] Als Übungsgerät deklariert
-- [ ] 100 Probeschüsse dokumentiert
-- [ ] Sicherheitsabstand 10–20 m
 
 **Querverweise:** siehe Konzept 1.1 (Jagdschein-Pflicht), siehe Konzept B1-8.2.
 **Erklärung:**
@@ -232,12 +200,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 > **Rechtlicher Hinweis (Pflicht):** **Speer als Jagdwaffe unzulässig**; Wurfholz nur als **Werkzeug** (siehe Konzept B9-9.x). **Keine Gifte** an Pfeil/Speer (ethische Leitlinie, siehe Konzept B10-4.2).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.2 „Pfeil, Speer, Wurfholz“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B6-09 (Checklisten-Anhang am Bandende) — „4.2 Pfeil, Speer, Wurfholz“.
 
-- [ ] Speer nicht zur Jagd
-- [ ] Keine Gifte
 
 **Querverweise:** siehe Konzept 4.1, siehe Konzept B9-3.3, Stiel/Wurfholz als Werkzeug.
 
@@ -265,14 +229,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 3. Kontrollkarte führen (Anhang A Band 6): 2× täglich, Fang sofort entnehmen oder töten (sauberer Tod, siehe Konzept 1.1).
 4. Lebendfang: Tier unverteilt entnehmen — **sauberer Tod sofort:** bei Kleintieren **Genickbruch** ( kräftiger Zug/Drehung am Kopf, bis das Rückgrat durchtrennt ist) oder kräftiger Schlag auf den Kopf; nie quälen, nie leiden lassen. Danach nach Konzept 9.1 zerwirken.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.1a „Kastenfalle & Kleintierfallen (Ersatz für 5.1)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B6-10 (Checklisten-Anhang am Bandende) — „5.1a Kastenfalle & Kleintierfallen (Ersatz für 5.1)“.
 
-- [ ] Amtlich zugelassen (Bundesland geprüft)
-- [ ] 2× täglich kontrolliert
-- [ ] Nie an Menschenpfaden
-- [ ] Kontrollkarte geführt
 
 > **BAUSTEIN:** Die Falle kontrollierst du zweimal am Tag — alles andere ist Tierquälerei und strafbar.
 
@@ -286,13 +244,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 > **Rechtlich:** Entnahme/Zerstörung von **Vogeleiern und -nestern ist verboten** (§ 44 BNatSchG). **Nie das letzte Gelege** eines Nests nehmen; Eier **nie roh** essen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.2 „Vögel, Eier, Kleintier“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B6-11 (Checklisten-Anhang am Bandende) — „5.2 Vögel, Eier, Kleintier“.
 
-- [ ] § 44 BNatSchG beachtet
-- [ ] Nie letztes Gelege
-- [ ] Eier gekocht
 
 **Querverweise:** siehe Konzept 9.1 (Zerwirken/Durchgaren).
 **Erklärung:**
@@ -325,12 +278,8 @@ Konsistent mit Knoten (siehe Konzept B1-6.3) und Seil (siehe Konzept B9-5.2).
 2. Haken an Schnur mit **Achterknoten** (siehe Konzept B1-6.3).
 3. Pose (Schwimmer) aus Kork/Holz selbst schnitzen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.1 „Schnur, Haken, Pose“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B6-12 (Checklisten-Anhang am Bandende) — „6.1 Schnur, Haken, Pose“.
 
-- [ ] Knoten geprüft
-- [ ] Haken fest
 
 **Querverweise:** siehe Konzept B1-6.3, siehe Konzept B9-5.2.
 **Erklärung:**
@@ -358,11 +307,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. Würmer einsetzen, dunkel und kühl stellen.
 3. Füttern mit Gemüseresten; Erde feucht halten.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.3 „Köder-Zucht (Wurm-Kiste)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B6-13 (Checklisten-Anhang am Bandende) — „6.3 Köder-Zucht (Wurm-Kiste)“.
 
-- [ ] Wurm-Kiste angelegt
 
 **Querverweise:** siehe Konzept 6.2.
 
@@ -382,12 +328,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 1. **Nie als Mauer ohne Öffnung** aufspannen — Ertrinkungsgefahr für Wild und Mensch.
 2. > **Rechtlich (Fischereirecht):** Stellnetz/Kiemennetz **genehmigungspflichtig**, Maschenweite und Markierung je Bundesland; Fischereischein (DE) bzw. **rod licence (Irland)** erforderlich.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.1 „Netz“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B6-14 (Checklisten-Anhang am Bandende) — „7.1 Netz“.
 
-- [ ] Öffnung im Netz
-- [ ] Genehmigung/Markierung geklärt (je Bundesland)
 
 **Querverweise:** siehe Konzept 7.2, siehe Konzept 1.1.
 **Erklärung:**
@@ -400,12 +342,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 1. **Drei-Tage-Regel:** Reusen maximal 3 Tage unbeaufsichtigt, **täglich kontrollieren bei Wärme**.
 2. Genehmigung/Markierung je Bundesland (siehe Konzept 7.1); Irland: rod licence.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.2 „Reuse, Fischwehr, Stellnetz“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B6-15 (Checklisten-Anhang am Bandende) — „7.2 Reuse, Fischwehr, Stellnetz“.
 
-- [ ] Tägliche Kontrolle bei Wärme
-- [ ] Drei-Tage-Regel
 
 **Querverweise:** siehe Konzept 7.1.
 
@@ -424,13 +362,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 > **WARNRAHMEN [warn-6] — MUSCHEL-/ALGENGIFTE (W17, 09 Nr. 6):** PSP (Saxitoxin), DSP, ASP sind **hitzestabil — kein Kochen rettet**. **Nur aus amtlich überwachten Gewässern** ernten; nach Algenblüten/Stürmen **Sperre** beachten. **Blaualgen (Microcystin) im Süßwasser:** nicht trinken, nicht baden bei Massenvermehrung (siehe Konzept B2-5.1). Bank-Rast: nur frische, fest schließende Muscheln.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.1 „Muscheln der Gezeiten“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B6-16 (Checklisten-Anhang am Bandende) — „8.1 Muscheln der Gezeiten“.
 
-- [ ] Amtlich überwachtes Gewässer
-- [ ] Sperrzeiten beachtet
-- [ ] Frische geprüft (fest geschlossen)
 
 **Querverweise:** siehe Konzept B2-5.1, Blaualgen, siehe Konzept 9.2.
 **Erklärung:**
@@ -442,11 +375,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 **Petermännchen** und **Löwenmähnen-Qualle:** beim Stich **heißes Wasser 40–45 °C** auf die Stelle — so heiß wie möglich, **ohne zu verbrühen** (Verbrühungsgrenze 55 °C, siehe B1-7.4). 40–45 °C sind die wirksame Temperatur; „so heiß wie ertragbar“ meint nicht 55 °C.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.2 „Krabben & Watt-Gäste“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B6-17 (Checklisten-Anhang am Bandende) — „8.2 Krabben & Watt-Gäste“.
 
-- [ ] Heißwasser-Behandlung bekannt
 
 **Querverweise:** siehe Konzept B1-7.4, siehe Konzept B8-7.1.
 
@@ -469,13 +399,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. Fleisch kühl halten, bald verarbeiten (siehe Band 7).
 3. Durchgaren ≥ 71 °C Kern vor Verzehr. **Messen:** Fleischthermometer in der Sanitätsmappe (siehe B8-8.1) und in der Werkzeugkiste (siehe B9-8.1). **Ohne Thermometer (Ersatzkriterien):** Fleisch ist innen grau-braun (nicht rosa), die Fasern lösen sich leicht, austretender Saft ist klar (nicht rosa); Fisch: Fleisch undurchsichtig weiß und löst sich von der Gräte; Kochzeit konservativ wählen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.1 „Ausnehmen & Zerwirken“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B6-18 (Checklisten-Anhang am Bandende) — „9.1 Ausnehmen & Zerwirken“.
 
-- [ ] ≥ 71 °C Kerntemperatur gemessen
-- [ ] Keine Fledermaus mit bloßen Händen
-- [ ] Kranke Tiere gemieden
 
 **Querverweise:** siehe Konzept B8-2.2, Tetanus/postexpositionell, siehe Konzept B7-9.2, Schwelle/Vorrat.
 **Erklärung:**
@@ -487,12 +412,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 > **Text-Warnung:** **Aal nie roh** — Aalblut ist giftig, aber **hitzelabil** (durch Garen ungiftig).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.2 „Wild-Küche“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B6-19 (Checklisten-Anhang am Bandende) — „9.2 Wild-Küche“.
 
-- [ ] Aal durchgegart
-- [ ] Wildbret ≥ 71 °C Kern (siehe Konzept 9.1)
 
 **Querverweise:** siehe Konzept 9.1 (`warn-6b`).
 **Erklärung:**
@@ -504,11 +425,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 Konsistent mit Konzept 1.1 (Ganz-Verwertung): Fell gerben (siehe Konzept B7-7.3), Sehnen als Faden/Schnur (siehe Konzept B9-5.2), Knochen zu Leim/Werkzeug (siehe Konzept B9-7.2).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.3 „Fell, Sehne, Knochen (Ganz-Verwertung)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B6-20 (Checklisten-Anhang am Bandende) — „9.3 Fell, Sehne, Knochen (Ganz-Verwertung)“.
 
-- [ ] Nichts wegwerfen, was verwertbar ist
 
 **Querverweise:** siehe Konzept 1.1, siehe Konzept B7-7.3, siehe Konzept B9-7.2.
 
@@ -557,6 +475,253 @@ Verfalluhr: 12 Monate ohne Wiederholung = Fähigkeit verfallen (siehe B1-8.2).
 Zerwirk-Protokoll (9.1). Verfalluhr 12 Monate (siehe Konzept B1-8.2). Bogen 4.1: 100 Probeschüsse als Übungspflicht.
 
 ---
+
+## Anhang D — Checklisten (Band 6)
+
+Alle Checklisten des Bandes, gesammelt am Bandende. Im Kapiteltext steht jeweils nur der Querverweis „siehe CL-B6-NN“. Aufbau pro Checkliste: Kennziffer + sprechende Bezeichnung + Begriffserläuterung (Mini-Glossar) + bestehende Ziel-Präambel (Zweck/Abnahme) + Punkte.
+
+### CL-B6-01 — 1.1 Grenze des Jagens
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.1 „Grenze des Jagens“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Notstand-Bindung gegeben
+- [ ] Jagdschein + Befugnis vorhanden
+- [ ] Ganz-Verwertung geplant (siehe Konzept 9.3)
+
+### CL-B6-02 — 1.2 Jagd-Kreise & Ruhe-Zonen
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.2 „Jagd-Kreise & Ruhe-Zonen“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Kreise festgelegt
+- [ ] Ruhe-Zonen markiert
+
+### CL-B6-03 — 1.3 Jagd-Kalender
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.3 „Jagd-Kalender“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Schonzeiten im Kalender (siehe Konzept B10-8.1)
+
+### CL-B6-04 — 2.1 Trittsiegel & Gangbilder
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.1 „Trittsiegel & Gangbilder“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Trittsiegel fotografiert/notiert (siehe Konzept B1-9.1)
+
+### CL-B6-05 — 2.4 Winter-Spur
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.4 „Winter-Spur“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Neuschnee-Schichtdicke beurteilt
+
+### CL-B6-06 — 3.1 Der Ansitz
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.1 „Der Ansitz“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Windrichtung geprüft
+- [ ] Ansitz-Protokoll geführt
+
+### CL-B6-07 — 3.2 Pirsch & sauberer Schuss
+
+**Begriffe (Mini-Glossar):**
+- Waffengesetz; Schusswaffen nur mit Waffenschein
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.2 „Pirsch & sauberer Schuss“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Wartefrist eingehalten
+- [ ] Nachsuche organisiert
+- [ ] Waffenerlaubnis vorhanden (WaffG)
+
+### CL-B6-08 — 4.1 Jagdbogen
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.1 „Jagdbogen“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Als Übungsgerät deklariert
+- [ ] 100 Probeschüsse dokumentiert
+- [ ] Sicherheitsabstand 10–20 m
+
+### CL-B6-09 — 4.2 Pfeil, Speer, Wurfholz
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.2 „Pfeil, Speer, Wurfholz“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Speer nicht zur Jagd
+- [ ] Keine Gifte
+
+### CL-B6-10 — 5.1a Kastenfalle & Kleintierfallen (Ersatz für 5.1)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.1a „Kastenfalle & Kleintierfallen (Ersatz für 5.1)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Amtlich zugelassen (Bundesland geprüft)
+- [ ] 2× täglich kontrolliert
+- [ ] Nie an Menschenpfaden
+- [ ] Kontrollkarte geführt
+
+### CL-B6-11 — 5.2 Vögel, Eier, Kleintier
+
+**Begriffe (Mini-Glossar):**
+- Bundesnaturschutzgesetz; §§ 23/39/44 (NSG/Handstrauß/geschützte Arten)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.2 „Vögel, Eier, Kleintier“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] § 44 BNatSchG beachtet
+- [ ] Nie letztes Gelege
+- [ ] Eier gekocht
+
+### CL-B6-12 — 6.1 Schnur, Haken, Pose
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.1 „Schnur, Haken, Pose“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Knoten geprüft
+- [ ] Haken fest
+
+### CL-B6-13 — 6.3 Köder-Zucht (Wurm-Kiste)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.3 „Köder-Zucht (Wurm-Kiste)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Wurm-Kiste angelegt
+
+### CL-B6-14 — 7.1 Netz
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.1 „Netz“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Öffnung im Netz
+- [ ] Genehmigung/Markierung geklärt (je Bundesland)
+
+### CL-B6-15 — 7.2 Reuse, Fischwehr, Stellnetz
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.2 „Reuse, Fischwehr, Stellnetz“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Tägliche Kontrolle bei Wärme
+- [ ] Drei-Tage-Regel
+
+### CL-B6-16 — 8.1 Muscheln der Gezeiten
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.1 „Muscheln der Gezeiten“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Amtlich überwachtes Gewässer
+- [ ] Sperrzeiten beachtet
+- [ ] Frische geprüft (fest geschlossen)
+
+### CL-B6-17 — 8.2 Krabben & Watt-Gäste
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.2 „Krabben & Watt-Gäste“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Heißwasser-Behandlung bekannt
+
+### CL-B6-18 — 9.1 Ausnehmen & Zerwirken
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.1 „Ausnehmen & Zerwirken“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] ≥ 71 °C Kerntemperatur gemessen
+- [ ] Keine Fledermaus mit bloßen Händen
+- [ ] Kranke Tiere gemieden
+
+### CL-B6-19 — 9.2 Wild-Küche
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.2 „Wild-Küche“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Aal durchgegart
+- [ ] Wildbret ≥ 71 °C Kern (siehe Konzept 9.1)
+
+### CL-B6-20 — 9.3 Fell, Sehne, Knochen (Ganz-Verwertung)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.3 „Fell, Sehne, Knochen (Ganz-Verwertung)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Nichts wegwerfen, was verwertbar ist
+
 
 ## Bandabschluss Band 6 — Bewertungsmatrix + Devise
 

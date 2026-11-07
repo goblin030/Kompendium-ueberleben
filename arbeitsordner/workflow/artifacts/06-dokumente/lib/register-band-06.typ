@@ -19,7 +19,7 @@ Einträge zu Konzepten dieses Bandes mit Seitenzahl (S. …); Verweise auf ander
 - _Jagd (Grenze, Jagdschein, Wilderei)_ — Konzept 1.1, S. #refpage(<k-1-1>) · _Notstand-Bindung, sauberer Tod, Ganz-Verwertung_; siehe auch Jagdschein & Befugnis; Wilderei (§ 292 StGB); Fell, Sehne, Knochen (Ganz-Verwertung)
 - _Jagd-Kalender (Schonzeiten)_ — Konzept 1.3, S. #refpage(<k-1-3>) · _Setz-/Brut-/Laich-Fenster; § 22 BJagdG, Zuwiderhandlung § 38 strafbar_; siehe auch Schonzeiten (§ 22 BJagdG); Pflanzen-Kalender
 - _Jagd-Kreise & Ruhe-Zonen_ — Konzept 1.2, S. #refpage(<k-1-2>) · _Kreis 1/2/3_; siehe auch Ansitz; Lagerplatz
-- _Jagdbogen (Übungsgerät)_ — Konzept 4.1, S. #refpage(<k-4-1>) (Abb. 6.4) · _gelb (SME): Bogenjagd in DE/AT/CH jagdrechtlich unzulässig — nur Übungsgerät mit rechtlichem Hinweis; 10–20 m sicher, 100 Probeschüsse Pflicht_; siehe auch Pfeil, Speer, Wurfholz
+- _Jagdbogen (Übungsgerät)_ — Konzept 4.1, S. #refpage(<k-4-1>) (Abb. 6.4) · _gelb (Expertenprüfung): Bogenjagd in DE/AT/CH jagdrechtlich unzulässig — nur Übungsgerät mit rechtlichem Hinweis; 10–20 m sicher, 100 Probeschüsse Pflicht_; siehe auch Pfeil, Speer, Wurfholz
 - _Jagdschein & Befugnis_ — Konzept 1.1, S. #refpage(<k-1-1>) · _Pflicht_; siehe auch Jagd (Grenze, Jagdschein, Wilderei); Wilderei (§ 292 StGB)
 - _Kastenfalle & Kleintierfallen_ — Konzept 5.1a, S. #refpage(<k-5-1a>) (Abb. 6.5) · _Ersatz für 5.1 ; grün nach; amtlich zugelassen, tägliche Kontrolle (2×), nie an Menschenpfaden_; siehe auch Verletzungsfallen / Schlinge & Totfang (verboten); Bauten, Lager & Wechsel (Wild); Köder-Kunde
 - _Köder-Kunde_ — Konzept 6.2, S. #refpage(<k-6-2>) · _Wurm/Nymphe/Kleinfisch, saisonal_; siehe auch Köder-Zucht (Wurm-Kiste); Kastenfalle & Kleintierfallen
@@ -30,7 +30,7 @@ Einträge zu Konzepten dieses Bandes mit Seitenzahl (S. …); Verweise auf ander
 - _Muschel-/Algengifte (PSP/DSP/ASP, Blaualgen/Microcystin)_ — Konzept 8.1, S. #refpage(<k-8-1>) (warn-6); B2-5.1 · _hitzestabil ; nur amtlich überwachte Gewässer_; siehe auch Muscheln der Gezeiten; Wasser beurteilen (Befund-Tabelle, Blaualgen)
 - _Muscheln der Gezeiten_ — Konzept 8.1, S. #refpage(<k-8-1>) (Abb. 6.9) · _warn-6 : PSP/DSP/ASP hitzestabil; nur amtlich überwachte Gewässer; Sperre nach Algenblüten; Blaualgen (Microcystin) nicht trinken/baden_; siehe auch Muschel-/Algengifte (PSP/DSP/ASP); Strand & Watt (Nahrung)
 - _Netz (Fischerei)_ — Konzept 7.1, S. #refpage(<k-7-1>) (Abb. 6.7) · _gelb: nie als Mauer ohne Öffnung; Stellnetz/Kiemennetz genehmigungspflichtig, Maschenweite/Markierung je Bundesland_; siehe auch Reuse, Fischwehr, Stellnetz; Fischereirecht
-- _Pfeil, Speer, Wurfholz_ — Konzept 4.2, S. #refpage(<k-4-2>) · _gelb (SME): Speer als Jagdwaffe unzulässig; Wurfholz nur Werkzeug; keine Gifte_; siehe auch Jagdbogen (Übungsgerät)
+- _Pfeil, Speer, Wurfholz_ — Konzept 4.2, S. #refpage(<k-4-2>) · _gelb (Expertenprüfung): Speer als Jagdwaffe unzulässig; Wurfholz nur Werkzeug; keine Gifte_; siehe auch Jagdbogen (Übungsgerät)
 - _Pirsch & sauberer Schuss_ — Konzept 3.2, S. #refpage(<k-3-2>) · _warn-6c: verletztes Wild = größte Gefahr; Wartefrist + Nachsuche; Schusswaffen nur mit Erlaubnis (WaffG)_; siehe auch Ansitz; Verletztes Wild (Wartefrist + Nachsuche)
 - _Reuse, Fischwehr, Stellnetz_ — Konzept 7.2, S. #refpage(<k-7-2>) (Abb. 6.8) · _Drei-Tage-Regel, tägliche Kontrolle warm; IR: rod licence_; siehe auch Netz (Fischerei); Fischereirecht
 - _Schonzeiten (§ 22 BJagdG)_ — Konzept 1.3, S. #refpage(<k-1-3>) · _Zuwiderhandlung § 38 BJagdG strafbar_; siehe auch Jagd-Kalender (Schonzeiten)

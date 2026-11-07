@@ -8,21 +8,21 @@ Einträge zu Konzepten dieses Bandes mit Seitenzahl (S. …); Verweise auf ander
 - _55-°C-Verbrühungsgrenze_ — Konzept 7.4, S. #refpage(<k-7-4>); B8-7.1 · _ab 55 °C verbrüht die Haut in Sekunden_; siehe auch Temperatur-Feinmessung (Ellbogenprobe); Brandwunde & Frostbeule
 - _+60-min-Regel (Bote vermisst)_ — Konzept 5.2, S. #refpage(<k-5-2>); siehe auch Botenregeln (+60-min-Regel)
 - _72-Stunden-Rucksack_ — siehe Notfallrucksack (Konzept 3.2, S. #refpage(<k-3-2>))
-- _Abb. N.M (Abbildung)_ — Anhang D, S. #refpage(<anh-D>) · \_Konvention: Datei `abb-N-M.svg`, deutsch beschriftet, graustufentauglich\_
+- _Abb. N.M (Abbildung)_ — Anhang D, S. #refpage(<anh-d>) · _Konvention: Datei abb-N-M.svg, deutsch beschriftet, graustufentauglich_
 - _Achterknoten_ — siehe Knoten (Konzept 6.3, S. #refpage(<k-6-3>), Abb. 1.17)
-- _Ampel (grün/gelb/rot)_ — Anhang D, S. #refpage(<anh-D>); siehe auch P / M / V (Bewertung); Notbehelf (P \< 5)
-- _Anhänge (A Kopiervorlagen, B Fehler-Tabelle, C Übungsplan)_ — Bände 1–10 Anhang A–C; Glossar Anhang D, S. #refpage(<anh-D>); Feuerprobe/Fragenkatalog B10 Anhang · _pro Band; zählen zum Seitenziel_
+- _Ampel (grün/gelb/rot)_ — Anhang D, S. #refpage(<anh-d>); siehe auch P / M / V (Bewertung); Notbehelf (P \< 5)
+- _Anhänge (A Kopiervorlagen, B Fehler-Tabelle, C Übungsplan)_ — Bände 1–10 Anhang A–C; Glossar Anhang D, S. #refpage(<anh-d>); Feuerprobe/Fragenkatalog B10 Anhang · _pro Band; zählen zum Seitenziel_
 - _Atemprotokoll 4–6_ — Konzept 2.2, S. #refpage(<k-2-2>) (Abb. 1.2); siehe auch STOPP-Protokoll; Übungsprotokoll (Verfalluhr 12 Monate)
 - _Axt & Säge_ — Konzept 6.2, S. #refpage(<k-6-2>) (Abb. 1.16) · _Sperrzone 2 Stiellängen, zwei Fluchtwege 45°, nie hangabwärts; siehe warn-9a_; siehe auch Fällen (tödliche Minute)
 - _Behelfswerkzeug_ — Konzept 6.4, S. #refpage(<k-6-4>) (Abb. 1.22) · _als Behelf deklariert (Sägedraht < 5 cm)_; siehe auch Messer; Werkzeug-Kiste
 - _Botenregeln (+60-min-Regel)_ — Konzept 5.2, S. #refpage(<k-5-2>) (Abb. 1.14) · _Bote nie allein; +60 min = vermisst_; siehe auch Treffpunkt-Plan; Trupp (einer vorn, einer hinten)
 - _EL / TL / Tropfen_ — siehe Mengen & Referenzmaße (Konzept 7.2, S. #refpage(<k-7-2>))
 - _Elle / Ruthe (Wertmaß)_ — siehe Körpermaß-System (Konzept 7.1, S. #refpage(<k-7-1>)); Der Wert (B10-2.1)
-- _Gesottenes Wasser_ — Anhang D, S. #refpage(<anh-D>); B2-6.2 · _1 min sprudelnd, ab 2.000 m 3 min_; siehe auch Abkochen (gesottenes Wasser)
+- _Gesottenes Wasser_ — Anhang D, S. #refpage(<anh-d>); B2-6.2 · _1 min sprudelnd, ab 2.000 m 3 min_; siehe auch Abkochen (gesottenes Wasser)
 - _Gesprächsordnung (15-min-Box)_ — Konzept 2.4, S. #refpage(<k-2-4>) (Abb. 1.4); siehe auch Rat & Streit; Stundenprotokoll 24 h
-- _Glossar (zentral)_ — Anhang D, S. #refpage(<anh-D>) · _Fachbegriffe der 10 Bände; alle Bände Bände 1–10 verweisen darauf_
+- _Glossar (zentral)_ — Anhang D, S. #refpage(<anh-d>) · _Fachbegriffe der 10 Bände; alle Bände Bände 1–10 verweisen darauf_
 - _Großer Wagen / Cassiopeia_ — siehe Polarstern (Konzept 4.2, S. #refpage(<k-4-2>))
-- _Heuristik_ — Anhang D, S. #refpage(<anh-D>); Konzept 3.1, S. #refpage(<k-3-1>) · _Faustregel mit bekannter Schwankungsbreite_; siehe auch Regel der Drei
+- _Heuristik_ — Anhang D, S. #refpage(<anh-d>); Konzept 3.1, S. #refpage(<k-3-1>) · _Faustregel mit bekannter Schwankungsbreite_; siehe auch Regel der Drei
 - _Holzfällen_ — siehe Fällen (B9-3.1); Axt & Säge (Konzept 6.2, S. #refpage(<k-6-2>))
 - _Jahres-Übungsplan_ — Konzept 8.1, S. #refpage(<k-8-1>) (Abb. 1.28); siehe auch Übungsprotokoll (Verfalluhr 12 Monate); Feuerprobe des Kompendiums; Kalender des Dorfes
 - _Karte lesen_ — Konzept 4.3, S. #refpage(<k-4-3>) (Abb. 1.11) · _Maßstab 1:25.000 / 1:50.000_; siehe auch Schattenstab & Uhr-Methode; Polarstern; Wetter lesen (Zwei-Zeichen-Regel)
@@ -32,13 +32,13 @@ Einträge zu Konzepten dieses Bandes mit Seitenzahl (S. …); Verweise auf ander
 - _Mastwurf_ — siehe Knoten (Konzept 6.3, S. #refpage(<k-6-3>), Abb. 1.21)
 - _Mengen & Referenzmaße (EL/TL/Tropfen)_ — Konzept 7.2, S. #refpage(<k-7-2>) (Abb. 1.25) · _EL ≈ 15 ml, TL ≈ 5 ml, 20 Tropfen ≈ 1 ml ; kg ≠ l_; siehe auch Körpermaß-System; Wasserbedarf (Bedarfsrechnung)
 - _Messer_ — Konzept 6.1, S. #refpage(<k-6-1>) (Abb. 1.15) · _Schnitt immer weg vom Körper_; siehe auch Schliff (Klinge); Schneide halten (Wetz-Takt); Behelfswerkzeug
-- _Notbehelf (P \< 5)_ — Anhang D, S. #refpage(<anh-D>) · _immer als solcher gekennzeichnet; gilt für die gelben Konzepte (z. B. Konzept 7.4, S. #refpage(<k-7-4>), B2-3.5, B2-7.2, B3-3.4)_
+- _Notbehelf (P \< 5)_ — Anhang D, S. #refpage(<anh-d>) · _immer als solcher gekennzeichnet; gilt für die gelben Konzepte (z. B. Konzept 7.4, S. #refpage(<k-7-4>), B2-3.5, B2-7.2, B3-3.4)_
 - _Notfallrucksack (72 h)_ — Konzept 3.2, S. #refpage(<k-3-2>) (Abb. 1.6) · _Prüfkriterium < 12 kg _; siehe auch Rucksack-Profile; Traglast; Haushaltsvorrat (Wasser)
 - _Notrufzeichen (3 Signale/min)_ — Konzept 5.1, S. #refpage(<k-5-1>) (Abb. 1.13); siehe auch Signalfeuer (3 Feuer = Notzeichen); Botenregeln (+60-min-Regel)
-- _Notstand (§§ 34/35 StGB)_ — Anhang D, S. #refpage(<anh-D>); B10-5.2; B4-8.1 · _Eigentumseingriff bei Lebensgefahr gerechtfertigt/entschuldigt_; siehe auch Gast & Fremder; Kleidungssatz & Eigentum; Wucher
-- _Notwehr (§ 32 StGB)_ — Anhang D, S. #refpage(<anh-D>); B10-4.2 · _nur bei gegenwärtigem rechtswidrigem Angriff, verhältnismäßig_; siehe auch Rat & Streit; Selbstjustiz (verboten)
+- _Notstand (§§ 34/35 StGB)_ — Anhang D, S. #refpage(<anh-d>); B10-5.2; B4-8.1 · _Eigentumseingriff bei Lebensgefahr gerechtfertigt/entschuldigt_; siehe auch Gast & Fremder; Kleidungssatz & Eigentum; Wucher
+- _Notwehr (§ 32 StGB)_ — Anhang D, S. #refpage(<anh-d>); B10-4.2 · _nur bei gegenwärtigem rechtswidrigem Angriff, verhältnismäßig_; siehe auch Rat & Streit; Selbstjustiz (verboten)
 - _Orientierung_ — siehe Band 1 Kap. 4: Schattenstab (Konzept 4.1, S. #refpage(<k-4-1>)), Polarstern (Konzept 4.2, S. #refpage(<k-4-2>)), Karte (Konzept 4.3, S. #refpage(<k-4-3>))
-- _P / M / V (Bewertung)_ — Anhang D, S. #refpage(<anh-D>) · _P praktisch 1–10 (< 5 = Notbehelf), M moralisch 4-stufig, V 1–10 (< 6 = Übungspflicht)_; siehe auch Ampel (grün/gelb/rot); Notbehelf (P \< 5)
+- _P / M / V (Bewertung)_ — Anhang D, S. #refpage(<anh-d>) · _P praktisch 1–10 (< 5 = Notbehelf), M moralisch 4-stufig, V 1–10 (< 6 = Übungspflicht)_; siehe auch Ampel (grün/gelb/rot); Notbehelf (P \< 5)
 - _Polarstern_ — Konzept 4.2, S. #refpage(<k-4-2>) (Abb. 1.10) · _Fünffach-Verlängerung Merak–Dubhe; Gegenprobe Cassiopeia_; siehe auch Schattenstab & Uhr-Methode; Karte lesen
 - _Protokoll (führen)_ — siehe Stundenprotokoll 24 h (Konzept 9.1, S. #refpage(<k-9-1>)); Übungsprotokoll (Konzept 8.2, S. #refpage(<k-8-2>))
 - _Regel der Drei_ — Konzept 3.1, S. #refpage(<k-3-1>) (Abb. 1.5) · _Heuristik : 3 min Luft, 3 h Wärme, 3 d Wasser, 3 Wo Nahrung_; siehe auch Heuristik; Wasserbedarf (Bedarfsrechnung); Wärmehaushalt (Schichtprinzip)
@@ -55,12 +55,12 @@ Einträge zu Konzepten dieses Bandes mit Seitenzahl (S. …); Verweise auf ander
 - _Stundenprotokoll 24 h_ — Konzept 9.1, S. #refpage(<k-9-1>) (Abb. 1.30); siehe auch Haushaltsvorrat (Wasser); STOPP-Protokoll; Gesprächsordnung (15-min-Box)
 - _Temperatur-Feinmessung (Ellbogenprobe)_ — Konzept 7.4, S. #refpage(<k-7-4>) (Abb. 1.27) · _gelb — Notbehelf (P = 5), Übungspflicht _; siehe auch Brandwunde & Frostbeule; 55-°C-Verbrühungsgrenze
 - _Tödliche Minute (Fällen)_ — B9-3.1 (warn-9a); Konzept 6.2, S. #refpage(<k-6-2>) · _Flucht 45° schräg, nie hangabwärts darunter _; siehe auch Fällen (tödliche Minute); Axt & Säge
-- _Traglast_ — Konzept 6.5, S. #refpage(<k-6-5>) (Abb. 1.23) · _15–20 % Marsch / 30 % kurz / Kinder 10–15 % ; Glossar Anhang D, S. #refpage(<anh-D>)_; siehe auch Wassertransport (Transportkette); Sanitätsmappe; Werkzeug-Kiste; Rucksack-Profile
+- _Traglast_ — Konzept 6.5, S. #refpage(<k-6-5>) (Abb. 1.23) · _15–20 % Marsch / 30 % kurz / Kinder 10–15 % ; Glossar Anhang D, S. #refpage(<anh-d>)_; siehe auch Wassertransport (Transportkette); Sanitätsmappe; Werkzeug-Kiste; Rucksack-Profile
 - _Treffpunkt-Plan_ — Konzept 3.4, S. #refpage(<k-3-4>) (Abb. 1.8) · _schriftlich (Netzausfall), A/B + Abholliste_; siehe auch Botenregeln (+60-min-Regel); Notrufzeichen (3 Signale/min)
 - _Üben / Training_ — siehe Jahres-Übungsplan (Konzept 8.1, S. #refpage(<k-8-1>)); Übungsprotokoll (Konzept 8.2, S. #refpage(<k-8-2>))
 - _Übungsprotokoll (Verfalluhr 12 Monate)_ — Konzept 8.2, S. #refpage(<k-8-2>) (Abb. 1.29) · _V < 6 → Übungspflicht_; siehe auch Jahres-Übungsplan; Verfalluhr (12 Monate)
-- _Verfalluhr (12 Monate)_ — Anhang D, S. #refpage(<anh-D>); Konzept 8.2, S. #refpage(<k-8-2>); siehe auch Übungsprotokoll (Verfalluhr 12 Monate)
-- _Warnrahmen / Warngrafik (warn-N.svg)_ — Anhang D, S. #refpage(<anh-D>) · _15 Warngrafiken + 2 text-only — Liste in Warnrahmen-Pflichtliste_; siehe auch Botulismus (C. botulinum); Kohlenmonoxid (CO); Tetanus
+- _Verfalluhr (12 Monate)_ — Anhang D, S. #refpage(<anh-d>); Konzept 8.2, S. #refpage(<k-8-2>); siehe auch Übungsprotokoll (Verfalluhr 12 Monate)
+- _Warnrahmen / Warngrafik (warn-N.svg)_ — Anhang D, S. #refpage(<anh-d>) · _15 Warngrafiken + 2 text-only — Liste in Warnrahmen-Pflichtliste_; siehe auch Botulismus (C. botulinum); Kohlenmonoxid (CO); Tetanus
 - _Webleinstek_ — siehe Knoten (Konzept 6.3, S. #refpage(<k-6-3>), Abb. 1.20)
 - _Wetter lesen (Zwei-Zeichen-Regel)_ — Konzept 4.4, S. #refpage(<k-4-4>) (Abb. 1.12); siehe auch Wetter-/Wolkenlesen (Unterkunft); Brandbekämpfung (60-Sekunden-Regel)
 - _Wochenrollenplan_ — Konzept 9.2, S. #refpage(<k-9-2>) (Abb. 1.31) · _jede Rolle doppelt besetzt_; siehe auch Ämter des Dorfes; Schlaf (Wachenplan, erste Nacht)

@@ -34,7 +34,7 @@ Jede Band-Datei folgt dem gleichen Schema: Kapitelüberschrift → Konzeptübers
 4. **Querverweise immer über Nummern** — einheitliches Schema (B-5, Feedback 10-testleser): innerhalb eines Bandes „Konzept X.Y“; **zwischen Bänden „Konzept B<Band>-X.Y“** (z. B. B3-6.3 = Band 3, Kapitel 6, Konzept 3). Nie „weiter oben", nie „siehe Seite". Kaputte Verweise sind verboten (Register §3 wird gegen die Band-Dateien abgeglichen).
 5. **Formate:**
    - Kapitelziel: jeder `## Kapitel`-Abschnitt beginnt mit `**Ziel des Kapitels:** …` (Ziel/Wann-es-gilt-Erklärung)
-   - Checklisten-Präambel: jede Checkliste (`- [ ] …`) wird **vor** der Liste eingeleitet mit `**Checkliste — Zweck und Abnahme:**` (Wozu dient sie? Wann erfüllt = alle [x]? Was fehlt → Folge siehe Erklärung/Warnrahmen)
+   - Checklisten: liegen **gesammelt im Checklisten-Anhang am Bandende** (Band 1: Anhang E, Bände 2–10: Anhang D) mit Kennziffer `CL-B<Band>-NN` + sprechender Bezeichnung + Mini-Glossar (Fachbegriffe, 1 Zeile) + Ziel-Präambel (Zweck/Abnahme); im Kapiteltext steht nur `**Checkliste:** siehe CL-B<Band>-NN (Checklisten-Anhang am Bandende) — „Titel“.`
    - Baustein-Kasten (Faustregel): `> **BAUSTEIN:** …`
    - Warnrahmen: `> **WARNRAHMEN [warn-N]:** …` — immer mit Warngrafik-Datei `warn-N.svg` (siehe §4)
    - Checkliste: `- [ ] …`
@@ -233,6 +233,20 @@ Befunde 1+2 (Layout/Boxen) sind an doc-builder (`lib/stil.typ`) geroutet, nicht 
 | Dokumentation | dieser Abschnitt; Band-1-Matrix um 3a.1–3a.4 ergänzt; Anhang C um Blackout-Drill ergänzt; Glossar um „Blackout/Brownout“ ergänzt; Register §3 um B1-3a ergänzt |
 
 Nächster Schritt: fact-checker ergänzt `02-factcheck.md` um BL1–BL10 (dreifache Prüfung der ROHWERTE), dann doc-builder Rebuild.
+
+---
+
+## 12. Review-Feedback v5 — Checklisten-Umbau (Turn 7, Quelle: `review-v5/FEEDBACK.md`)
+
+| Anforderung (Review v5) | Umsetzung editor | Nachweis |
+|---|---|---|
+| Alle Checklisten ans Bandende verschieben (neuer Anhang nach A/B/C) | 223 Checklisten-Blöcke aus den Kapiteln in neuen Anhang verschoben: Band 1 → **Anhang E — Checklisten** (D ist Glossar), Bände 2–10 → **Anhang D — Checklisten**, jeweils vor dem Bandabschluss | 10/10 Anhänge vorhanden; 0 `- [ ]`-Zeilen außerhalb des Anhangs |
+| Kennziffer CL-B<Band>-NN + sprechende Bezeichnung | `### CL-B1-01 — <Konzepttitel>` … fortlaufend pro Band (B1: 26, B2: 25, B3: 24, B4: 23, B5: 24, B6: 20, B7: 19, B8: 21, B9: 20, B10: 21 = 223) | 223 `### CL-`-Überschriften; Duplikat-Prüfung pro Band: keine |
+| Im Kapiteltext nur noch Querverweis | `**Checkliste:** siehe CL-B<Band>-NN (Checklisten-Anhang am Bandende) — „Titel“.` | 233 `siehe CL-B…`-Verweise (223 Kapitel + 10 Anhang-Header) |
+| Begriffserläuterung pro Checkliste (Mini-Glossar, 1 Zeile pro nicht-selbst erklärendem Fachbegriff) | `**Begriffe (Mini-Glossar):**` direkt unter der CL-Überschrift; erkannte Fachbegriffe (NTU, Secchi, CO, psi, pH, SODIS, ORS, BJagdG/StGB/BGB/BNatSchG/WaffG, TIG, EBLV, Reye, Amatoxine, Colchicin, Mykotoxine, PSP/DSP/ASP, Trichinen, Ster, HDPE/PET, UKW/NINA, Latrine, Booster, Risikowunde, Kühlkette, Druckverband, …) mit 1-Zeilen-Erklärung aus Wörterbuch; max. 6 Begriffe | 223/223 Mini-Glossare |
+| Ziel-Präambel (Zweck/Abnahme) bleibt erhalten | Präambel unverändert in den Anhang übernommen | 223/223 Präambeln |
+
+Checklisten-Register (CL-ID → Band/Konzept) geht an index-builder (Phase G, Turn 2 laut Routing). Schreib-Limit 64 KB pro write_file beachtet (Band 1 chunked geschrieben, verifiziert markerfrei).
 
 ---
 *Ende 04-redaktion.md — nächster Schritt laut WORKFLOW.md: Phase F testleser (Input: dieses Artefakt + Teil-Dateien), parallel illustrator (abb-*.svg).*

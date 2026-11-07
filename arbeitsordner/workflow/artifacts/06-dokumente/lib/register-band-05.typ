@@ -17,7 +17,7 @@ Einträge zu Konzepten dieses Bandes mit Seitenzahl (S. …); Verweise auf ander
 - _Gehölze: Saft / Rinde / Harz_ — Konzept 2.3, S. #refpage(<k-2-3>) · _Saft-Fenster 2–3 Wo Frühjahr, Pflock statt Ring_; siehe auch Winter-Bestimmung (Gehölze)
 - _Giftpflanzen (Tollkirsche, Schierling, Maiglöckchen, Aronstab, Fingerhut, Eisenhut)_ — Konzept 2.2, S. #refpage(<k-2-2>) (warn-5); siehe auch Verwechslungs-Paare & Giftpflanzen; Herbstzeitlose (Colchicin); Herkulesstaude; Gift erkennen
 - _Grabstock-Kunde_ — Konzept 4.1, S. #refpage(<k-4-1>) (Abb. 5.4) · _Drei-Stimmen-Regel, Hebel statt Reißen_; siehe auch Strand & Watt (Nahrung)
-- _Grüne Hausapotheke (fünf Haus-Pflanzen)_ — Konzept 6.1, S. #refpage(<k-6-1>) (Abb. 5.6) · _gelb (SME): Beinwell nur äußerlich auf intakter Haut; Weidenrinde nicht < 16 J (Reye, siehe B8-7.3); Wegerich/Nessel/Kamille/Beinwell/Weidenrinde_; siehe auch Kräuter-Lese (zwei Zeugen); Tinktur / Salbe / Öl-Auszug; Beinwell; Weidenrinde
+- _Grüne Hausapotheke (fünf Haus-Pflanzen)_ — Konzept 6.1, S. #refpage(<k-6-1>) (Abb. 5.6) · _gelb (Expertenprüfung): Beinwell nur äußerlich auf intakter Haut; Weidenrinde nicht < 16 J (Reye, siehe B8-7.3); Wegerich/Nessel/Kamille/Beinwell/Weidenrinde_; siehe auch Kräuter-Lese (zwei Zeugen); Tinktur / Salbe / Öl-Auszug; Beinwell; Weidenrinde
 - _Handstrauß-Regel / Naturschutz (§ 39, § 23 BNatSchG, NSG, Anlage 1)_ — Konzept 1.1, S. #refpage(<k-1-1>); Konzept 8.2, S. #refpage(<k-8-2>) · _geschützte Arten meiden_; siehe auch Sammel-Ethik; Wildgarten
 - _Heilpflanzen / Hausapotheke_ — siehe Grüne Hausapotheke (Konzept 6.1, S. #refpage(<k-6-1>)); Band 8 Kap. 3 (Kräuter-Lese B8-3.1, Aufgüsse B8-3.2, Tinkturen B8-3.3)
 - _Herbstzeitlose (Colchicin, vs. Bärlauch)_ — Konzept 2.2, S. #refpage(<k-2-2>) (warn-5) · _Merkmal: Knoblauchgeruch beim Zerreiben = Bärlauch_; siehe auch Bärlauch (vs. Herbstzeitlose); Giftpflanzen
@@ -35,7 +35,7 @@ Einträge zu Konzepten dieses Bandes mit Seitenzahl (S. …); Verweise auf ander
 - _Samen-Bank_ — Konzept 1.3, S. #refpage(<k-1-3>) · _10 % Streu-Rückgabe_; siehe auch Saatgut-Keimprobe; Die Saat (Saatgut-Lagerung)
 - _Sammel-Ethik_ — Konzept 1.1, S. #refpage(<k-1-1>) · _Ein-Drittel-Regel, Wurzelrückgabe; § 39 BNatSchG, NSG § 23, geschützte Arten (Anlage 1)_; siehe auch Handstrauß-Regel / Naturschutz; Wildgarten
 - _Sammelgang (Kreise)_ — Konzept 1.2, S. #refpage(<k-1-2>) · _500 m / 2–5 km_; siehe auch Sammel-Ethik; Sicheres Dutzend (12 Arten)
-- _Schmerzmittel aus der Natur (Weidenrinde)_ — B8-7.3 (Abb. 8.12) · _gelb (SME): nicht < 16 J (Reye-Syndrom, siehe Konzept 6.1, S. #refpage(<k-6-1>))_; siehe auch Weidenrinde (Salicyl); Grüne Hausapotheke (fünf Haus-Pflanzen); Reye-Syndrom
+- _Schmerzmittel aus der Natur (Weidenrinde)_ — B8-7.3 (Abb. 8.12) · _gelb (Expertenprüfung): nicht < 16 J (Reye-Syndrom, siehe Konzept 6.1, S. #refpage(<k-6-1>))_; siehe auch Weidenrinde (Salicyl); Grüne Hausapotheke (fünf Haus-Pflanzen); Reye-Syndrom
 - _Sicheres Dutzend (12 Arten)_ — Konzept 3.1, S. #refpage(<k-3-1>) (Abb. 5.3); siehe auch Sammelgang (Kreise); Duldungsgrenzen (Oxalsäure-Handregel)
 - _Strand & Watt (Nahrung)_ — Konzept 4.2, S. #refpage(<k-4-2>) · _nur gekochte Knollen; Algen-Gift-Regel _; siehe auch Muscheln der Gezeiten; Krabben & Watt-Gäste
 - _Verwechslungs-Paare & Giftpflanzen_ — Konzept 2.2, S. #refpage(<k-2-2>) (Abb. 5.2) · _warn-5 : keine Mahlzeit ohne Namen + zweites Merkmal_; siehe auch Giftpflanzen; Herbstzeitlose (Colchicin); Bärlauch; Gift erkennen

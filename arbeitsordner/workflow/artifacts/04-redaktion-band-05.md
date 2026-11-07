@@ -17,13 +17,8 @@ Warnrahmen umgesetzt: 2.2 `[warn-5]` Giftpflanzen (mit Herbstzeitlose/Herkulesst
 
 Rechtliche Ergänzung (BNatSchG): **Handstrauß-Regel** (§ 39 Abs. 1 Nr. 3 BNatSchG) gilt nur für nicht geschützte Arten und geringen Eigenbedarf; in **Naturschutzgebieten ist Sammeln verboten** (§ 23 BNatSchG); **geschützte Arten** (Anlage 1, z. B. Arnika, Enzian, Fingerhut, Eibe, Herbstzeitlose) **meiden** — Entnahme verboten (§ 44 BNatSchG).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.1 „Sammel-Ethik“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B5-01 (Checklisten-Anhang am Bandende) — „1.1 Sammel-Ethik“.
 
-- [ ] Ein-Drittel-Regel eingehalten
-- [ ] Keine geschützten Arten gesammelt
-- [ ] Kein NSG betreten zum Sammeln
 
 > **BAUSTEIN:** Nimm ein Drittel, gib die Wurzel zurück, meide die geschützten Arten.
 
@@ -39,12 +34,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. Kreis 2: 2–5 km — Tagesmarsch mit Anlass (Wasser, Spuren, Wetter; siehe Konzepte Band 1 Kapitel 4/5).
 3. Trupp-Regel: einer vorn, einer hinten (siehe Konzept B10-5.3).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.2 „Sammelgang (Kreise: 500 m / 2–5 km)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B5-02 (Checklisten-Anhang am Bandende) — „1.2 Sammelgang (Kreise: 500 m / 2–5 km)“.
 
-- [ ] Kreisgrenzen vereinbart
-- [ ] Trupp-Regel eingehalten
 
 **Querverweise:** siehe Konzept B10-5.2, siehe Konzept B10-5.3.
 **Erklärung:**
@@ -57,12 +48,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 1. Beim Sammeln 10 % der Samen zurückstreuen.
 2. Samen trocken lagern, Keimprobe vor Aussaat (siehe Konzept 8.3).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.3 „Samen-Bank (10 % Streu-Rückgabe)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B5-03 (Checklisten-Anhang am Bandende) — „1.3 Samen-Bank (10 % Streu-Rückgabe)“.
 
-- [ ] 10 % zurückgestreut
-- [ ] Keimprobe geplant
 
 **Querverweise:** siehe Konzept 8.3.
 
@@ -85,12 +72,8 @@ Bestimme jede Pflanze über **fünf Merkmale**: Blattstellung, Blattform, Blattr
 2. Familie eingrenzen, dann Art.
 3. Ein Merkmal allein genügt nie.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.1 „Merkmale & Familien (5 Merkmale)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B5-04 (Checklisten-Anhang am Bandende) — „2.1 Merkmale & Familien (5 Merkmale)“.
 
-- [ ] Fünf Merkmale notiert
-- [ ] Familie eingegrenzt
 
 > **BAUSTEIN:** Fünf Merkmale, ein Name. Fehlt eines, fehlt die Sicherheit.
 
@@ -112,12 +95,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 | Kresse / Wasserschierling | Wasserschierling: Sumpfstandort, dreifach gefiedert | Cicutoxin, tödlich |
 | Heidelbeere / Eibe | Eibe: rote Arillusbeere um schwarzen Samen | Taxine, tödlich |
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.2 „Verwechslungs-Paare & Giftpflanzen“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B5-05 (Checklisten-Anhang am Bandende) — „2.2 Verwechslungs-Paare & Giftpflanzen“.
 
-- [ ] Name + zweites Merkmal vor jeder Mahlzeit
-- [ ] Giftpflanzen-Liste bekannt
 
 > **BAUSTEIN:** Keine Mahlzeit ohne Namen und zweites Merkmal. Im Zweifel weglassen.
 
@@ -132,12 +111,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 1. **Saft-Fenster: 2–3 Wochen im Frühjahr** (Ahorn, Birke); **Pflock statt Ring** — nie rundum ringeln (Baum stirbt).
 2. Rinde und Harz als Wundauflage/Kit (siehe Konzept B8-3.x).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.3 „Gehölze: Saft / Rinde / Harz“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B5-06 (Checklisten-Anhang am Bandende) — „2.3 Gehölze: Saft / Rinde / Harz“.
 
-- [ ] Saft-Fenster beachtet
-- [ ] Pflock statt Ring
 
 **Querverweise:** siehe Konzept B8-3.4, Umschlag-Buch.
 **Erklärung:**
@@ -149,11 +124,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 Ohne Blätter: Knospenstellung, Rindenbild, Standort, Wuchsform bestimmen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.4 „Winter-Bestimmung (Knospe/Rinde/Stand)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B5-07 (Checklisten-Anhang am Bandende) — „2.4 Winter-Bestimmung (Knospe/Rinde/Stand)“.
 
-- [ ] Knospe + Rinde + Stand geprüft
 
 **Querverweise:** siehe Konzept 2.1.
 
@@ -175,12 +147,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 1. Jede Art mit Merkmal + Verwechslungsfalle (siehe Konzept 2.2) bestimmen.
 2. Erst dann ernten.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.1 „Das sichere Dutzend (12 Arten)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B5-08 (Checklisten-Anhang am Bandende) — „3.1 Das sichere Dutzend (12 Arten)“.
 
-- [ ] 12 Arten mit Merkmalen beherrscht
-- [ ] Keine geschützte Art in der Liste
 
 > **BAUSTEIN:** Zwölf Arten, die du wirklich kennst, schlagen zwanzig, die du nur vermutest.
 
@@ -194,11 +162,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 Oxalsäurehaltige Wildpflanzen (Ampfer, Sauerampfer): roh nur in **Handvoll-Mengen** (Handregel), gekocht weniger problematisch — trotzdem maßhalten.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.2 „Duldungsgrenzen (Oxalsäure-Handregel)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B5-09 (Checklisten-Anhang am Bandende) — „3.2 Duldungsgrenzen (Oxalsäure-Handregel)“.
 
-- [ ] Handregel bei Oxalsäure-Pflanzen
 
 **Querverweise:** siehe Konzept 3.1.
 
@@ -221,13 +186,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. Mit Hebel aushebeln, Wurzelstock prüfen.
 3. Wurzelrückgabe nach Konzept 1.1.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.1 „Grabstock-Kunde“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B5-10 (Checklisten-Anhang am Bandende) — „4.1 Grabstock-Kunde“.
 
-- [ ] Drei Merkmale stimmen
-- [ ] Hebeltechnik
-- [ ] Wurzelrückgabe
 
 **Querverweise:** siehe Konzept 1.1, siehe Konzept 2.2.
 **Erklärung:**
@@ -239,12 +199,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 Strand-Knollen und Algen: **nur gekochte Knollen** essen; **Algen-Gift-Regel (W17):** nach Stürmen/Algenblüte Sperre — Muschel-/Algengifte hitzestabil (siehe Konzept B6-8.1, `warn-6`).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.2 „Strand & Watt“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B5-11 (Checklisten-Anhang am Bandende) — „4.2 Strand & Watt“.
 
-- [ ] Knollen gekocht
-- [ ] Algen-Sperre beachtet
 
 **Querverweise:** siehe Konzept B6-8.1, `warn-6`.
 
@@ -263,11 +219,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 **Holunder, Vogelbeere, Schlehe: roh giftig/unbekömmlich** — Sambunigrin u. a. werden durch **Kochen zerstört**.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.1 „Beeren“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B5-12 (Checklisten-Anhang am Bandende) — „5.1 Beeren“.
 
-- [ ] Holunder/Vogelbeere/Schlehe gekocht vor dem Verzehr
 
 **Querverweise:** siehe Konzept 2.2, siehe Konzept B7-6.1, Einkochen von Obst — Wasserbad zulässig bei pH ≤ 4,6.
 **Erklärung:**
@@ -284,12 +237,8 @@ Eicheln/Kastanien: **Läuterung mit Wasser über 3–10 Tage** (Wechsel täglich
 3. 3–10 Tage wässern, Wasser täglich wechseln.
 4. Dann rösten/mahlen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.2 „Nüsse & Läuterung“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B5-13 (Checklisten-Anhang am Bandende) — „5.2 Nüsse & Läuterung“.
 
-- [ ] Läuterungszeit 3–10 T eingehalten
-- [ ] Wasser täglich gewechselt
 
 > **BAUSTEIN:** Bitterstoffe raus, Nährstoffe bleiben. Eicheln ohne Läutern sind kein Essen.
 
@@ -303,11 +252,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 Frost/Gefriertruhe vor Rohverzehr: Wildobst (z. B. Schlehe, Hagebutte) nach Frost süßer und bekömmlicher; mehrfach gefrieren-auftauen verbessert Geschmack.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.3 „Wildobst-Küche“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B5-14 (Checklisten-Anhang am Bandende) — „5.3 Wildobst-Küche“.
 
-- [ ] Frost abgewartet oder Gefriertruhe genutzt
 
 **Querverweise:** siehe Konzept 5.1, siehe Konzept 5.2.
 
@@ -336,12 +282,8 @@ Wegerich, Nessel, Kamille, Beinwell, Weidenrinde — mit Grenzen:
 | Beinwell | **nur äußerlich, intakte Haut** (Bluterguss, Prellung) | nie innerlich; nicht auf offene Wunden |
 | Weidenrinde | Schmerz/Fieber (Salicylat) | **nicht < 16 J** |
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.1 „Die fünf Haus-Pflanzen“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B5-15 (Checklisten-Anhang am Bandende) — „6.1 Die fünf Haus-Pflanzen“.
 
-- [ ] Beinwell nur äußerlich
-- [ ] Weidenrinde nicht < 16 J
 
 **Querverweise:** siehe Konzept B8-3.1, siehe Konzept B8-7.3, siehe Konzept 6.2.
 **Erklärung:**
@@ -355,12 +297,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 > **WARNRAHMEN (Botulismus-Verweis, 09 §2.1):** **Öl-Auszüge nur gesäuert (pH < 4,6, gemessen) oder aus vollständig getrockneten Pflanzen** — siehe Konzept B7-6.2k, `warn-7b` und Konzept B8-3.3. Datum am Gefäß.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.2 „Dosierung & rote Liste“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B5-16 (Checklisten-Anhang am Bandende) — „6.2 Dosierung & rote Liste“.
 
-- [ ] Frische Dosis = 1,5× getrocknete, nie doppelt (siehe Konzept B8-3.2)
-- [ ] Öl-Auszug nur gesäuert/getrocknet
 
 > **BAUSTEIN:** Erst die Grenze, dann die Gabe. Wer die Grenze nicht kennt, gibt nichts.
 
@@ -384,12 +322,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 3. Danach Fasern lösen, waschen, trocknen.
 4. Konsistent mit Nadel & Faden (siehe Konzept B4-7.2).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.1 „Faseraufschluss (Röste)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B5-17 (Checklisten-Anhang am Bandende) — „7.1 Faseraufschluss (Röste)“.
 
-- [ ] Röste-Frist eingehalten
-- [ ] Fasern sauber gelöst
 
 **Querverweise:** siehe Konzept B4-7.2.
 **Erklärung:**
@@ -401,11 +335,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 **Lindenbast nur vom Totholz** nehmen (lebende Linde schädigen = verboten/schädlich, siehe Konzept 1.1).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.2 „Binden / Körbe / Bast“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B5-18 (Checklisten-Anhang am Bandende) — „7.2 Binden / Körbe / Bast“.
 
-- [ ] Bast nur von Totholz
 
 **Querverweise:** siehe Konzept 1.1, siehe Konzept B9-5.2, Seil & Knoten.
 **Erklärung:**
@@ -419,11 +350,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. Faser mit Beize vorbehandeln (Alaun, Eisen).
 3. Im Sud ziehen lassen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.3 „Färbe-Pflanzen (Beize)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B5-19 (Checklisten-Anhang am Bandende) — „7.3 Färbe-Pflanzen (Beize)“.
 
-- [ ] Beize verwendet
 
 **Querverweise:** siehe Konzept 7.1.
 
@@ -442,11 +370,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 Konsistent mit Konzept B4-5.1, Dachdeckung & Neigung.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.1 „Ried / Stroh / Binse (Dachdeckung)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B5-20 (Checklisten-Anhang am Bandende) — „8.1 Ried / Stroh / Binse (Dachdeckung)“.
 
-- [ ] Dachneigung nach Material (siehe Konzept B4-5.1)
 
 **Querverweise:** siehe Konzept B4-5.1.
 **Erklärung:**
@@ -458,12 +383,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 Nur **mit Zustimmung** des Eigentümers (siehe Konzept B10-5.2); **Fremdgrund, NSG und geschützte Arten** sind tabu (Naturschutzrecht, siehe Konzept 1.1).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.2 „Wildgarten“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B5-21 (Checklisten-Anhang am Bandende) — „8.2 Wildgarten“.
 
-- [ ] Zustimmung eingeholt
-- [ ] Kein NSG, keine geschützten Arten
 
 **Querverweise:** siehe Konzept 1.1, siehe Konzept B10-5.2.
 **Erklärung:**
@@ -477,12 +398,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. Keimlinge zählen: **< 30 von 50 (60 %) → neue Saat** (siehe Konzept B7-9.3).
 3. Nie Saatgut essen (s. Konzept B7-9.3).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.3 „Saatgut-Keimprobe (50 Körner / 7–14 T)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B5-22 (Checklisten-Anhang am Bandende) — „8.3 Saatgut-Keimprobe (50 Körner / 7–14 T)“.
 
-- [ ] 50 Körner, 7–14 T
-- [ ] Schwelle 60 % beachtet
 
 **Querverweise:** siehe Konzept B7-9.3.
 
@@ -505,13 +422,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. Nie roh — auch „Testbissen“ ist tödlich.
 3. Unsichere Pilze ganz entsorgen, nicht „zur Sicherheit“ kochen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.1 „Pilze“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B5-23 (Checklisten-Anhang am Bandende) — „9.1 Pilze“.
 
-- [ ] Drei Merkmale bestätigt
-- [ ] Nie roh
-- [ ] Amatoxin-Verdacht → Giftnotruf, siehe Konzept B8-5.2
 
 > **BAUSTEIN:** Beim Pilz gibt es keine zweite Chance. Ein Merkmal zu wenig, und du isst Gift.
 
@@ -540,11 +452,8 @@ Monatsfenster für Ernte/Saat in Mitteleuropa und Irland (lokal um ± 2 Wochen v
 | November | — (Lager kontrollieren, siehe B7-8.1) | — |
 | Dezember | — (Vorrat, siehe B7-9.1) | — |
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.2 „Pflanzen-Kalender (Monatsfenster ME/Irland)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B5-24 (Checklisten-Anhang am Bandende) — „9.2 Pflanzen-Kalender (Monatsfenster ME/Irland)“.
 
-- [ ] Kalender des Lagers geführt (siehe Konzept B10-8.1)
 
 **Querverweise:** siehe Konzept B10-8.1, siehe Konzept 1.3.
 
@@ -590,6 +499,294 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 Verfalluhr: 12 Monate ohne Wiederholung = Fähigkeit verfallen (siehe B1-8.2).
 
 ---
+
+## Anhang D — Checklisten (Band 5)
+
+Alle Checklisten des Bandes, gesammelt am Bandende. Im Kapiteltext steht jeweils nur der Querverweis „siehe CL-B5-NN“. Aufbau pro Checkliste: Kennziffer + sprechende Bezeichnung + Begriffserläuterung (Mini-Glossar) + bestehende Ziel-Präambel (Zweck/Abnahme) + Punkte.
+
+### CL-B5-01 — 1.1 Sammel-Ethik
+
+**Begriffe (Mini-Glossar):**
+- NSG = Naturschutzgebiet; Sammeln verboten (§ 23 BNatSchG)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.1 „Sammel-Ethik“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Ein-Drittel-Regel eingehalten
+- [ ] Keine geschützten Arten gesammelt
+- [ ] Kein NSG betreten zum Sammeln
+
+### CL-B5-02 — 1.2 Sammelgang (Kreise: 500 m / 2–5 km)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.2 „Sammelgang (Kreise: 500 m / 2–5 km)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Kreisgrenzen vereinbart
+- [ ] Trupp-Regel eingehalten
+
+### CL-B5-03 — 1.3 Samen-Bank (10 % Streu-Rückgabe)
+
+**Begriffe (Mini-Glossar):**
+- Keimprobe = 50 Körner, Schwelle 30/50 (B5-8.3/B7-9.3)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.3 „Samen-Bank (10 % Streu-Rückgabe)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] 10 % zurückgestreut
+- [ ] Keimprobe geplant
+
+### CL-B5-04 — 2.1 Merkmale & Familien (5 Merkmale)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.1 „Merkmale & Familien (5 Merkmale)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Fünf Merkmale notiert
+- [ ] Familie eingegrenzt
+
+### CL-B5-05 — 2.2 Verwechslungs-Paare & Giftpflanzen
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.2 „Verwechslungs-Paare & Giftpflanzen“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Name + zweites Merkmal vor jeder Mahlzeit
+- [ ] Giftpflanzen-Liste bekannt
+
+### CL-B5-06 — 2.3 Gehölze: Saft / Rinde / Harz
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.3 „Gehölze: Saft / Rinde / Harz“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Saft-Fenster beachtet
+- [ ] Pflock statt Ring
+
+### CL-B5-07 — 2.4 Winter-Bestimmung (Knospe/Rinde/Stand)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.4 „Winter-Bestimmung (Knospe/Rinde/Stand)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Knospe + Rinde + Stand geprüft
+
+### CL-B5-08 — 3.1 Das sichere Dutzend (12 Arten)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.1 „Das sichere Dutzend (12 Arten)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] 12 Arten mit Merkmalen beherrscht
+- [ ] Keine geschützte Art in der Liste
+
+### CL-B5-09 — 3.2 Duldungsgrenzen (Oxalsäure-Handregel)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.2 „Duldungsgrenzen (Oxalsäure-Handregel)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Handregel bei Oxalsäure-Pflanzen
+
+### CL-B5-10 — 4.1 Grabstock-Kunde
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.1 „Grabstock-Kunde“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Drei Merkmale stimmen
+- [ ] Hebeltechnik
+- [ ] Wurzelrückgabe
+
+### CL-B5-11 — 4.2 Strand & Watt
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.2 „Strand & Watt“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Knollen gekocht
+- [ ] Algen-Sperre beachtet
+
+### CL-B5-12 — 5.1 Beeren
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.1 „Beeren“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Holunder/Vogelbeere/Schlehe gekocht vor dem Verzehr
+
+### CL-B5-13 — 5.2 Nüsse & Läuterung
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.2 „Nüsse & Läuterung“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Läuterungszeit 3–10 T eingehalten
+- [ ] Wasser täglich gewechselt
+
+### CL-B5-14 — 5.3 Wildobst-Küche
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.3 „Wildobst-Küche“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Frost abgewartet oder Gefriertruhe genutzt
+
+### CL-B5-15 — 6.1 Die fünf Haus-Pflanzen
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.1 „Die fünf Haus-Pflanzen“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Beinwell nur äußerlich
+- [ ] Weidenrinde nicht < 16 J
+
+### CL-B5-16 — 6.2 Dosierung & rote Liste
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.2 „Dosierung & rote Liste“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Frische Dosis = 1,5× getrocknete, nie doppelt (siehe Konzept B8-3.2)
+- [ ] Öl-Auszug nur gesäuert/getrocknet
+
+### CL-B5-17 — 7.1 Faseraufschluss (Röste)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.1 „Faseraufschluss (Röste)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Röste-Frist eingehalten
+- [ ] Fasern sauber gelöst
+
+### CL-B5-18 — 7.2 Binden / Körbe / Bast
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.2 „Binden / Körbe / Bast“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Bast nur von Totholz
+
+### CL-B5-19 — 7.3 Färbe-Pflanzen (Beize)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.3 „Färbe-Pflanzen (Beize)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Beize verwendet
+
+### CL-B5-20 — 8.1 Ried / Stroh / Binse (Dachdeckung)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.1 „Ried / Stroh / Binse (Dachdeckung)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Dachneigung nach Material (siehe Konzept B4-5.1)
+
+### CL-B5-21 — 8.2 Wildgarten
+
+**Begriffe (Mini-Glossar):**
+- NSG = Naturschutzgebiet; Sammeln verboten (§ 23 BNatSchG)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.2 „Wildgarten“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Zustimmung eingeholt
+- [ ] Kein NSG, keine geschützten Arten
+
+### CL-B5-22 — 8.3 Saatgut-Keimprobe (50 Körner / 7–14 T)
+
+**Begriffe (Mini-Glossar):**
+- Keimprobe = 50 Körner, Schwelle 30/50 (B5-8.3/B7-9.3)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.3 „Saatgut-Keimprobe (50 Körner / 7–14 T)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] 50 Körner, 7–14 T
+- [ ] Schwelle 60 % beachtet
+
+### CL-B5-23 — 9.1 Pilze
+
+**Begriffe (Mini-Glossar):**
+- Amatoxine = hitzestabiles Pilzgift; Kochen rettet nicht (warn-5b)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.1 „Pilze“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Drei Merkmale bestätigt
+- [ ] Nie roh
+- [ ] Amatoxin-Verdacht → Giftnotruf, siehe Konzept B8-5.2
+
+### CL-B5-24 — 9.2 Pflanzen-Kalender (Monatsfenster ME/Irland)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.2 „Pflanzen-Kalender (Monatsfenster ME/Irland)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Kalender des Lagers geführt (siehe Konzept B10-8.1)
+
 
 ## Bandabschluss Band 5 — Bewertungsmatrix + Devise
 

@@ -62,9 +62,7 @@ Wasser wird nach Bedarf verteilt, nicht nach Status oder Stärke.
 + Bedarf erfassen: siehe Konzept 2.1.
 + Zuteilung nach Bedarfsprofil (siehe Konzept 2.2): Kinder, Fieber, Leistung.
 + Nie Wasser als Druckmittel einsetzen.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.1 „Wassergerechtigkeit“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Bedarfsliste aktuell
-- [ ] Zuteilung dokumentiert (s. Konzept B1-9.1)
+_Checkliste:_ siehe CL-B2-01, Anhang S. #refpage(<cl-b2-01>) (Checklisten-Anhang am Bandende) — „1.1 Wassergerechtigkeit“.
 #baustein[Wer mehr schwitzt, trinkt mehr. Bedarf vor Gerechtigkeit der Gleichheit.]
 _Querverweise:_ siehe Konzept 2.1, siehe Konzept 2.2, siehe Konzept B10-1.1, Schuld & Geschenk.
 _Erklärung:_
@@ -125,26 +123,10 @@ _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -274,10 +256,7 @@ Der Zonenplan trennt Wasserentnahme, Grauwasser und Latrine im Gelände. _Korrek
   [Grauwasser], [≥ 10 m unterhalb], [Waschen, Spülen (siehe Konzept 9.2)],
   [Latrine], [≥ 30 m, besser 50 m, unterhalb/hangabwärts], [Toilette (siehe Konzept 9.1)],
 )
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.2 „Zonenplan“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Latrine ≥ 30 m unterhalb gemessen
-- [ ] Hangrichtung geprüft
-- [ ] Zonen markiert
+_Checkliste:_ siehe CL-B2-02, Anhang S. #refpage(<cl-b2-02>) (Checklisten-Anhang am Bandende) — „1.2 Zonenplan“.
 #baustein[Hangabwärts ist sicherheitswärts. Was unten liegt, vergiftet nicht das Wasser oben.]
 _Querverweise:_ siehe Konzept 9.1, siehe Konzept 3.3, siehe Glossar „Latrine“ (Band 1 Anhang D: Grabtiefe ≠ Abstand).
 #subhead[Ablauf mit Kontrollkästchen]
@@ -349,26 +328,10 @@ _Querverweise:_ siehe Konzept 9.1, siehe Konzept 3.3, siehe Glossar „Latrine�
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Korrektur ], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -505,9 +468,7 @@ Werte : Trinkminimum _2–3 l/Person/Tag_ (Kinder 1–1,5 l); Notfallstandard 
 + Personenanzahl × Tagesbedarf rechnen.
 + Haushaltsbedarf separat führen (Waschen, Kochen, Spülen).
 + Vorrat gegen Bedarf rechnen (siehe Konzept 8.1).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.1 „Bedarfsrechnung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Trink- und Gesamtbedarf getrennt notiert
-- [ ] Kinder- und Fieberprofil eingerechnet
+_Checkliste:_ siehe CL-B2-03, Anhang S. #refpage(<cl-b2-03>) (Checklisten-Anhang am Bandende) — „2.1 Bedarfsrechnung“.
 #baustein[2 Liter retten, 15 Liter leben. Rechne beides, bevor du schöpfst.]
 _Querverweise:_ siehe Konzept 2.2, siehe Konzept 2.3, siehe Konzept 8.1, siehe Konzept B8-4.2, Wärme-Regie 2–4 l/Tag.
 _Erklärung:_
@@ -585,26 +546,10 @@ _Erklärung:_
   [7,5–10 l/Tag], [siehe Glossar, Anhang D Band 1],
   [15–20 l/Tag], [siehe Glossar, Anhang D Band 1],
   [4–6 l], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -729,8 +674,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [Schwere Arbeit], [4–6 l/Tag],
   [Schwangerschaft/Stillen], [+ 1 l/Tag],
 )
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.2 „Bedarfsprofile“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Profile der Gruppe erfasst
+_Checkliste:_ siehe CL-B2-04, Anhang S. #refpage(<cl-b2-04>) (Checklisten-Anhang am Bandende) — „2.2 Bedarfsprofile“.
 _Querverweise:_ siehe Konzept 2.1, siehe Konzept B8-4.2.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Personengruppen haben systematisch unterschiedlichen Bedarf; Profile machen den Bedarf planbar statt schätzbar.
@@ -781,25 +725,9 @@ _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -920,9 +848,7 @@ Regenformel : _1 mm Niederschlag × 1 m² Fläche = 1 l_ (exakt, vor Verluste
 + Auffangfläche messen (Dachhälfte: Länge × Breite).
 + Niederschlag mm × m² = Ertrag l.
 + Verluste (First-Abwurf, Verdunstung, Überlauf) mit 20–30 % abziehen.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.3 „Ertragsrechnung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Fläche gemessen
-- [ ] Verluste abgezogen
+_Checkliste:_ siehe CL-B2-05, Anhang S. #refpage(<cl-b2-05>) (Checklisten-Anhang am Bandende) — „2.3 Ertragsrechnung“.
 #baustein[Ein Millimeter auf einen Quadratmeter ist ein Liter. Rechne das Dach vor dem Regen.]
 _Querverweise:_ siehe Konzept 3.2 (Regen auffangen).
 #subhead[Ablauf mit Kontrollkästchen]
@@ -989,26 +915,10 @@ _Querverweise:_ siehe Konzept 3.2 (Regen auffangen).
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [1 mm Niederschlag × 1 m² Fläche = 1 l], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -1144,9 +1054,7 @@ _Erklärung:_
 === 3.1 Oberflächenwasser lesen <k-3-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9]
 Fließend vor stehend. Ölfilm oder Chemiegeruch = _verwerfen_ (Abkochen tötet keine chemischen Gifte).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.1 „Oberflächenwasser lesen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Fließgewässer bevorzugt
-- [ ] Ölfilm/Chemie → Quelle verwerfen, siehe Konzept 5.1
+_Checkliste:_ siehe CL-B2-06, Anhang S. #refpage(<cl-b2-06>) (Checklisten-Anhang am Bandende) — „3.1 Oberflächenwasser lesen“.
 _Querverweise:_ siehe Konzept 5.1, siehe Konzept 6.2 (Abkochen tötet keine Gifte).
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Fließendes Wasser erneuert und verdünnt Kontamination; stehendes Wasser konzentriert Keime. Ölfilm/Chemie sind durch Kochen nicht entfernbar.
@@ -1188,25 +1096,9 @@ _Erklärung:_
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [verwerfen], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -1337,9 +1229,7 @@ _Stadt / Land:_
   [Ertrag], [voll (siehe Konzept 2.3)], [deutlich kleiner — mehr Behälter, öfter sammeln],
   [Kontrolle], [First-Abwurf am Fallrohr], [Plane nach jedem Regen reinigen; Vogelkot meiden],
 )
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.2 „Regen auffangen (First-Abwurf-Pflicht)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] First-Abwurf durchgeführt
-- [ ] Behälter sauber und lebensmittelecht (HDPE)
+_Checkliste:_ siehe CL-B2-07, Anhang S. #refpage(<cl-b2-07>) (Checklisten-Anhang am Bandende) — „3.2 Regen auffangen (First-Abwurf-Pflicht)“.
 #baustein[Der erste Regen wäscht das Dach. Erst der zweite Regen füllt den Tank.]
 _Querverweise:_ siehe Konzept 2.3, siehe Konzept 4.1, siehe Konzept 8.2 (Wiederverseuchung).
 _Erklärung:_
@@ -1405,26 +1295,10 @@ _Erklärung:_
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Stadt / Land:], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -1543,9 +1417,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 + Oberhalb der Quelle prüfen: Vieh, Latrine, Müll innerhalb 50 m hangaufwärts?
 + Liegt eine Quelle oberhalb des Lagers, ist sie verdächtig — siehe Konzept 1.2 (Zonenplan).
 + Austrittsstelle frei von Algen und Schlamm.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.3 „Quellen & Brunnen (Oberhalb-Check)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Oberhalb-Check gemacht
-- [ ] Austritt klar
+_Checkliste:_ siehe CL-B2-08, Anhang S. #refpage(<cl-b2-08>) (Checklisten-Anhang am Bandende) — „3.3 Quellen & Brunnen (Oberhalb-Check)“.
 _Querverweise:_ siehe Konzept 1.2, siehe Konzept 9.1.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Quellen entstehen, wo Grundwasser austritt; oberhalb liegende Nutzungen (Vieh, Latrine, Müll) kontaminieren sie hangaufwärts (siehe 1.2).
@@ -1605,25 +1477,9 @@ _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -1744,9 +1600,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 + _Erstwasser verwerfen_ (aufgewirbelter Schlamm), dann schöpfen.
 + Absetzen lassen und klären (siehe Konzept 6.1), dann aufbereiten (Kapitel 6/7).
 _Stadt / Land:_ Nur auf dem Land mit eigenem Grundstück sinnvoll. _In der Stadt:_ keine Sickergrube graben (Keller, Leitungen, Nachbarn) — Regen auffangen (siehe B2-3.2 Stadt), Leitungsreste sammeln, Wasser aus dem Hausanschluss wenn Druck noch da ist, dann aufbereiten.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.4 „Sickergrube / Behelfsbrunnen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Erstwasser verworfen
-- [ ] Wasser geklärt vor der Aufbereitung
+_Checkliste:_ siehe CL-B2-09, Anhang S. #refpage(<cl-b2-09>) (Checklisten-Anhang am Bandende) — „3.4 Sickergrube / Behelfsbrunnen“.
 _Querverweise:_ siehe Konzept 6.1, siehe Konzept 6.2.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Sickerwasser sammelt sich in Senken; die oberste Schicht ist aufgewirbelter Schlamm — Erstwasser verwerfen, das Nachsickernde ist klarer.
@@ -1812,25 +1666,9 @@ _Erklärung:_
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Stadt / Land:], [siehe Glossar, Anhang D Band 1],
   [In der Stadt:], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -1952,9 +1790,7 @@ Der Solarstill ist ein Notbehelf : Ertrag konservativ _0,3–1,5 l/Tag_, nur al
 + Auffanggefäß in die Mitte, Folie luftdicht darüber spannen, Stein in die Mitte der Folie (Trichter).
 + Sonne 1 Tag stehen lassen; Kondensat auffangen.
 + Ergebnis anschließend nachbehandeln: abkochen (siehe Konzept 6.2).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.5 „Solarstill“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Nur Klarwasser-Nachbehandlung
-- [ ] Nachgekocht vor dem Trinken
+_Checkliste:_ siehe CL-B2-10, Anhang S. #refpage(<cl-b2-10>) (Checklisten-Anhang am Bandende) — „3.5 Solarstill“.
 #baustein[Der Solarstill ist der letzte Ausweg, nicht der erste Griff. Im Zweifel kochen (siehe Konzept 6.2).]
 _Querverweise:_ siehe Konzept 6.2, siehe Konzept 7.2.
 _Erklärung:_
@@ -2027,26 +1863,10 @@ _Erklärung:_
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [0,3–1,5 l/Tag], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -2167,9 +1987,7 @@ Schmelze statt Schnee essen : Pulverschnee ≈ 1:10, Altschnee 2–3:10, Krusten
 + Schnee in Behälter schmelzen (Körperwärme oder Feuer, siehe Band 3).
 + _Tausalz-Schnee verwerfen_ — Streusalz ist nicht genießbar (siehe Konzept B7-5.1, `warn-7c`).
 + Geschmolzenes Wasser wie Oberflächenwasser behandeln (Kapitel 6/7).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.7 „Winterwasser“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Schmelzverhältnis beachtet
-- [ ] Tausalz-Schnee ausgeschlossen
+_Checkliste:_ siehe CL-B2-11, Anhang S. #refpage(<cl-b2-11>) (Checklisten-Anhang am Bandende) — „3.7 Winterwasser“.
 _Querverweise:_ siehe Konzept B7-5.1, siehe Konzept 6.2.
 #subhead[Ablauf mit Kontrollkästchen]
 #table(
@@ -2225,25 +2043,9 @@ _Querverweise:_ siehe Konzept B7-5.1, siehe Konzept 6.2.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -2384,9 +2186,7 @@ _Erklärung:_
   [Zink/Verzinkt], [_nur Nutzwasser_], [nicht für Trinkwasser],
   [Unbekannte Fässer], [nein], [Inhalt unklar],
 )
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.1 „Behälterkunde“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Behälter gekennzeichnet (Trinkwasser/Nutzwasser)
-- [ ] Deckel dicht
+_Checkliste:_ siehe CL-B2-12, Anhang S. #refpage(<cl-b2-12>) (Checklisten-Anhang am Bandende) — „4.1 Behälterkunde“.
 _Querverweise:_ siehe Konzept 8.2 (Wiederverseuchung).
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Nur lebensmittelechte Materialien (HDPE, Edelstahl) sind trinkwassersicher; Zink löst Metallionen (nur Nutzwasser); unbekannte Fässer können Chemie-/Ölreste enthalten.
@@ -2428,25 +2228,9 @@ _Erklärung:_
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [nur Nutzwasser], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -2567,9 +2351,7 @@ Konsistent mit Traglast (siehe Konzept B1-6.5): 10 l Wasser = 10 kg = eine Sei
 + Max. 10 l pro Person pro Gang einseitig tragen.
 + Besser: Kanister mit Trageriemen auf dem Rücken (siehe Konzept B1-6.5).
 + Gruppe: Zwischentank am Ziel (siehe Konzept 4.3).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.2 „Transportkette (10 l einseitig)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] ≤ 10 l einseitig
-- [ ] Traglast-Regel (siehe Konzept B1-6.5) eingehalten
+_Checkliste:_ siehe CL-B2-13, Anhang S. #refpage(<cl-b2-13>) (Checklisten-Anhang am Bandende) — „4.2 Transportkette (10 l einseitig)“.
 _Querverweise:_ siehe Konzept B1-6.5, siehe Konzept 4.3.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ 10 l Wasser = 10 kg — einseitig belastet das die Wirbelsäule asymmetrisch; auf dem Rücken (Trageriemen) geht die Last auf das Becken. Konsistent mit B1-6.5.
@@ -2637,25 +2419,9 @@ _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -2774,9 +2540,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 + Zwischentank am Ziel aufstellen (sauber, siehe Konzept 4.1).
 + Jede Person füllt ihren Tagesbedarf daraus (siehe Konzept 2.1).
 + Entnahme nur mit sauberem Schöpfer — siehe Konzept 8.2 (Wiederverseuchung).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.3 „Gruppenkette (Zwischentank)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Zwischentank sauber
-- [ ] Entnahmedisziplin (Ausgießbehälter) eingehalten
+_Checkliste:_ siehe CL-B2-14, Anhang S. #refpage(<cl-b2-14>) (Checklisten-Anhang am Bandende) — „4.3 Gruppenkette (Zwischentank)“.
 _Querverweise:_ siehe Konzept 8.2, siehe Konzept 2.1.
 #subhead[Ablauf mit Kontrollkästchen]
 #table(
@@ -2832,25 +2596,9 @@ _Querverweise:_ siehe Konzept 8.2, siehe Konzept 2.1.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -2990,9 +2738,7 @@ _Erklärung:_
   [Geruch faulig], [organische Zersetzung], [verwerfen oder destillieren + nachkochen (7.2)],
   [Tote Tiere stromaufwärts], [Kontamination], [andere Quelle suchen (3.1)],
 )
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.1 „Wasser beurteilen (Befund-Tabelle, Blaualgen)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Befund-Tabelle abgearbeitet
-- [ ] Blaualgen-Vorkommen ausgeschlossen
+_Checkliste:_ siehe CL-B2-15, Anhang S. #refpage(<cl-b2-15>) (Checklisten-Anhang am Bandende) — „5.1 Wasser beurteilen (Befund-Tabelle, Blaualgen)“.
 _Trübung messen ohne Gerät (Feldmethode, ersetzt NTU-Messgerät):_ weiße Scheibe/Teller (DIY-Secchi) an eine Schnur binden, ins Wasser lassen, Sichttiefe ablesen (bei der der Teller gerade noch/verschwimmt). Richtwerte:
 #table(
   columns: 3,
@@ -3050,28 +2796,12 @@ _Querverweise:_ siehe Konzept 3.1, siehe Konzept 6.1, siehe Konzept 6.2, siehe K
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [nicht trinken, nicht baden], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [doppelt], [siehe Glossar, Anhang D Band 1],
   [SODIS ungeeignet], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -3208,9 +2938,7 @@ _Erklärung:_
 + Vorsichtig dekantieren — Bodensatz bleibt zurück.
 + Durch Tuch (mehrfach gebügelt) oder Aktivkohle-Schicht (5 cm) filtern.
 + Trübung messen: Ziel _Sichttiefe \> 10 cm (≈ \< 30 NTU)_ vor SODIS/Chlor — Feldmethode siehe Konzept 5.1 (Secchi-Teller). Bei \< 10 cm Sichttiefe: erst absetzen + doppelt filtern, sonst abkochen (siehe 6.2).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.1 „Klären / Vorfiltern“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Absetzzeit eingehalten
-- [ ] Trübung nach Filterung geprüft
+_Checkliste:_ siehe CL-B2-16, Anhang S. #refpage(<cl-b2-16>) (Checklisten-Anhang am Bandende) — „6.1 Klären / Vorfiltern“.
 _Querverweise:_ siehe Konzept 6.3 (SODIS nur \< 30 NTU), siehe Konzept 7.3.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Absetzen nutzt die Schwerkraft (Partikel sinken); Tuch/Aktivkohle halten feinere Partikel zurück. Ziel: Sichttiefe \> 10 cm vor chemischer Aufbereitung.
@@ -3283,25 +3011,9 @@ _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -3423,9 +3135,7 @@ Wert (CDC/WHO): _1 Minute sprudelnd kochen; ab 2.000 m Höhe 3 Minuten._
 + Ab 2.000 m: 3 min halten.
 + Abkühlen lassen im geschlossenen, sauberen Gefäß (siehe Konzept 8.2).
 + _Abkochen tötet keine chemischen Gifte, kein Salz, keine Algengifte_ — bei Chemie/Blaualgen andere Quelle oder Destillation (7.2) + Nachkochen.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.2 „Abkochen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] 1 min (ab 2.000 m: 3 min) sprudelnd
-- [ ] Gifte beachtet: Kochen entfernt keine Chemie
+_Checkliste:_ siehe CL-B2-17, Anhang S. #refpage(<cl-b2-17>) (Checklisten-Anhang am Bandende) — „6.2 Abkochen“.
 #baustein[Sprudelnd kochen, eine Minute zählen — das ist das sicherste Verfahren überhaupt.]
 _Querverweise:_ siehe Konzept 5.1, siehe Konzept 7.2, siehe Glossar „gesottenes Wasser“ (Band 1 Anhang D); Querschnitt B7/B8 (kochen vor Konservieren/Wundspülen).
 _Erklärung:_
@@ -3448,9 +3158,9 @@ _Erklärung:_
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [2.000 m], [1 Minute sprudelnd kochen; ab 2.000 m Höhe 3 Minuten.\*\*],
-  [1 min], [( ) 1 min (ab 2.000 m: 3 min) spru],
-  [3 min], [( ) 1 min (ab 2.000 m: 3 min) sprudelnd],
   [100 °C], [nktioniert):\*\* Am Siedepunkt (100 °C, ab 2.000 m niedriger) s],
+  [1 min], [nen Keime/Viren/Parasiten ab; 1 min sprudelnd reicht, ab 2.0],
+  [3 min], [sprudelnd reicht, ab 2.000 m 3 min. Chemische Gifte entfern],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -3501,26 +3211,10 @@ _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -3642,10 +3336,7 @@ Nur bei _klarem Wasser — Sichttiefe \> 30 cm (≈ \< 10 NTU, Feldmethode sie
 + PET-Flasche randvoll füllen, schütteln (Sauerstoff), in volle Sonne legen.
 + 6 h Sonne oder 2 Tage bewölkt.
 + Bei Unsicherheit zusätzlich abkochen (siehe Konzept 6.2).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.3 „SODIS“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Trübung \< 30 NTU geprüft
-- [ ] Flaschengröße 1–2 l
-- [ ] Sonne/Wolken-Zeit eingehalten
+_Checkliste:_ siehe CL-B2-18, Anhang S. #refpage(<cl-b2-18>) (Checklisten-Anhang am Bandende) — „6.3 SODIS“.
 #baustein[SODIS ist der Notbehelf fürs klare Wasser. Im Zweifel kochst du.]
 _Querverweise:_ siehe Konzept 6.1, siehe Konzept 6.2.
 #subhead[Ablauf mit Kontrollkästchen]
@@ -3667,7 +3358,6 @@ _Querverweise:_ siehe Konzept 6.1, siehe Konzept 6.2.
   [10 NTU], [ser — Sichttiefe \> 30 cm (≈ \< 10 NTU, Feldmethode siehe Konze],
   [1–2 l], [onzept 5.1)_, PET-Flaschen _1–2 l_, _6 h volle Sonne / 2],
   [6 h], [_, PET-Flaschen _1–2 l_, _6 h volle Sonne / 2 Tage bew],
-  [30 NTU], [( ) Trübung \< 30 NTU geprüft],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -3720,26 +3410,10 @@ _Querverweise:_ siehe Konzept 6.1, siehe Konzept 6.2.
   [, PET-Flaschen ], [siehe Glossar, Anhang D Band 1],
   [6 h volle Sonne / 2 Tage bewölkt], [siehe Glossar, Anhang D Band 1],
   [Im Zweifel kochen], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -3878,10 +3552,7 @@ Maße : _40–60 cm Sand_, Wasserstand nie unter _5 cm über Sand_, _Reife 1�
 + 1–2 Wochen reifen lassen (Biohaut bildet sich).
 + Filtrat _immer nachkochen_ (siehe Konzept 6.2).
 + Wartung: oberste 0,5–1 cm Sand abschaben, wenn Durchfluss sinkt.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.1 „Langsamsandfilter“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Sandhöhe 40–60 cm
-- [ ] Wasserstand ≥ 5 cm über Sand
-- [ ] Nachkochen trotz Filter
+_Checkliste:_ siehe CL-B2-19, Anhang S. #refpage(<cl-b2-19>) (Checklisten-Anhang am Bandende) — „7.1 Langsamsandfilter“.
 _Querverweise:_ siehe Konzept 6.2.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Der Langsamsandfilter wirkt biologisch: die oberste Sandschicht bildet eine Biohaut, die Keime abbaut; 40–60 cm Sand und stehender Wasserstand (≥ 5 cm) sind nötig. Reife 1–2 Wochen; Filtrat trotzdem nachkochen.
@@ -3962,25 +3633,9 @@ _Erklärung:_
   [5 cm über Sand], [siehe Glossar, Anhang D Band 1],
   [Reife 1–2 Wochen], [siehe Glossar, Anhang D Band 1],
   [Filtrat noch abkochen], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -4101,9 +3756,7 @@ Ertrag konservativ : Topf-Destille _0,5–1,5 l/h_, Solarstill 0,3–1,5 l/Tag
 + Topf mit Salzwasser erhitzen, Deckel schräg stellen, Kondensat auffangen.
 + Oder Solarstill (siehe Konzept 3.5).
 + Destillat nachkochen (siehe Konzept 6.2).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.2 „Destillation (Topf-Destille, Solarstill)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Nachkochen nach Destillation
-- [ ] Als Notbehelf gekennzeichnet
+_Checkliste:_ siehe CL-B2-20, Anhang S. #refpage(<cl-b2-20>) (Checklisten-Anhang am Bandende) — „7.2 Destillation (Topf-Destille, Solarstill)“.
 #baustein[Destillieren entfernt Salz, nicht Keime. Danach immer kochen.]
 _Querverweise:_ siehe Konzept 3.5, siehe Konzept 6.2.
 _Erklärung:_
@@ -4173,26 +3826,10 @@ _Erklärung:_
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [0,5–1,5 l/h], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -4320,11 +3957,7 @@ _Konzentration umrechnen (% NaOCl ↔ °chl.):_ Haushaltsbleiche wird oft als �
 )
 #warnrahmen(id: "warn-2")[Nie Bleiche mit _Säure (Essig/Entkalker) oder Ammoniak_ mischen — Chlorgas/Chloramine, lebensgefährlich. Nur unparfümierte Haushaltsbleiche 5–6 % NaOCl, nur mit kaltem Wasser, gut lüften. Symptome (Husten, Atemnot, Augenbrennen): sofort Frischluft, ärztlich vorstellen.]
 _Korrektur _ Die Kinder-Halbdosis ist _gestrichen_ — die Desinfektionsdosis wird nicht halbiert. _Im Zweifel abkochen_ (siehe Konzept 6.2).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.3 „Chemische Desinfektion (Chlor, Notstand)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Dosis 2 Tropfen/l (trüb/kalt 4)
-- [ ] Wartezeit 30–60 min
-- [ ] _Keine Halbierung bei Kindern_ — im Zweifel kochen
-- [ ] Nie mit Säure oder Ammoniak gemischt
+_Checkliste:_ siehe CL-B2-21, Anhang S. #refpage(<cl-b2-21>) (Checklisten-Anhang am Bandende) — „7.3 Chemische Desinfektion (Chlor, Notstand)“.
 #baustein[Chlor ist der Notstand, nicht der Alltag. Im Zweifel kochst du (siehe Konzept 6.2).]
 _Querverweise:_ siehe Konzept 6.2, siehe Konzept 6.3, Anhang A (Chlor-Dosis-Tabelle, korrigiert).
 #subhead[Material & Maß (aus diesem Konzept)]
@@ -4339,7 +3972,6 @@ _Querverweise:_ siehe Konzept 6.2, siehe Konzept 6.3, Anhang A (Chlor-Dosis-Tabe
   [5–6 %], [Dosis : _\~2 Tropfen 5–6 %ige Bleiche pro Liter_;],
   [1 Tropfen], [≈ 9,6 % → Dosis halbieren: ≈ 1 Tropfen pro Liter\*\* (trüb/kalt:],
   [9,6 %], [d oft als „Javel 36° chl.“ (≈ 9,6 % NaOCl) verkauft. Umrechn],
-  [30–60 min], [( ) Wartezeit 30–60 min],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -4384,27 +4016,10 @@ _Querverweise:_ siehe Konzept 6.2, siehe Konzept 6.3, Anhang A (Chlor-Dosis-Tabe
   [Korrektur ], [siehe Glossar, Anhang D Band 1],
   [gestrichen], [siehe Glossar, Anhang D Band 1],
   [Im Zweifel abkochen], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
-  [Keine Halbierung bei Kindern], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -4542,9 +4157,7 @@ BBK-Wert : _2 l Trinkwasser pro Person × 14 Tage_. Konsistent mit Konzept B1-9
 + Alle 6 Monate rotieren (neu auffüllen, alt verbrauchen).
 + Verbrauch im Stundenprotokoll erfassen (siehe Konzept B1-9.1).
 _Stadt / Land:_ Land = kühler Keller/erdberührter Raum. _Stadt (Wohnung):_ kühlerster Schrank/Abstellraum am Treppenhaus, nie über der Heizung, nie in der Sonne; Temperatur regelmäßig prüfen (siehe B1-7.4); Behälter kennzeichnen (siehe 4.1).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.1 „Haushaltsvorrat (2 l × 14 T)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Vorrat gerechnet und eingelagert
-- [ ] Rotationstermin notiert
+_Checkliste:_ siehe CL-B2-22, Anhang S. #refpage(<cl-b2-22>) (Checklisten-Anhang am Bandende) — „8.1 Haushaltsvorrat (2 l × 14 T)“.
 #baustein[Zwei Liter am Tag, vierzehn Tage lang — das ist der Boden, auf dem du stehst.]
 _Querverweise:_ siehe Konzept 2.1, siehe Konzept 4.1, siehe Konzept B1-9.1.
 _Erklärung:_
@@ -4567,7 +4180,7 @@ _Erklärung:_
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [2 l], [BBK-Wert : \*\*2 l Trinkwasser pro Person ×],
-  [14 T], [t 8.1 „Haushaltsvorrat (2 l × 14 T)“ kein Prüfpunkt vergess],
+  [14 T], [— „8.1 Haushaltsvorrat (2 l × 14 T)“.],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -4620,26 +4233,10 @@ _Erklärung:_
   [2 l Trinkwasser pro Person × 14 Tage], [siehe Glossar, Anhang D Band 1],
   [Stadt / Land:], [siehe Glossar, Anhang D Band 1],
   [Stadt (Wohnung):], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -4759,9 +4356,7 @@ Sauberes Wasser wird am Behälter wieder dreckig. Dagegen: _Ausgießbehälter_.
 + Entnahme nur über Ausgießhahn/-becher — nie eintauchen, nie mit schmutzigem Gefäß schöpfen.
 + Deckel nach jeder Entnahme schließen.
 + Behälter regelmäßig reinigen (siehe Konzept 4.1).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.2 „Wiederverseuchung (Ausgießbehälter)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Ausgießbehälter vorhanden
-- [ ] Entnahmedisziplin eingehalten
+_Checkliste:_ siehe CL-B2-23, Anhang S. #refpage(<cl-b2-23>) (Checklisten-Anhang am Bandende) — „8.2 Wiederverseuchung (Ausgießbehälter)“.
 _Querverweise:_ siehe Konzept 4.1, siehe Konzept 4.3.
 #subhead[Ablauf mit Kontrollkästchen]
 #table(
@@ -4818,25 +4413,9 @@ _Querverweise:_ siehe Konzept 4.1, siehe Konzept 4.3.
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Ausgießbehälter], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -4982,10 +4561,7 @@ _Stadt / Land:_
   [Entsorgung], [Abdecken, neue Stelle nach 4–6 Wochen], [Beutel luftdicht verschließen, über kommunale Entsorgung (wenn vorhanden) oder weit außerhalb des Wohngebiets; nie in Hausmülltonne offen],
   [Hygiene], [Hände waschen mit gesottenem Wasser (siehe B8-2.2)], [Hände desinfizieren (Chlor-Lösung siehe 7.3 oder Spiritus), Wasser sparen],
 )
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.1 „Latrine“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Abstand ≥ 30 m (besser 50 m) gemessen
-- [ ] Grabtiefe 25–30 cm
-- [ ] Abdeckung bereit
+_Checkliste:_ siehe CL-B2-24, Anhang S. #refpage(<cl-b2-24>) (Checklisten-Anhang am Bandende) — „9.1 Latrine“.
 #baustein[Tiefer graben (25–30 cm), weiter weg legen (≥ 30 m). Beides zählt.]
 _Querverweise:_ siehe Konzept 1.2, siehe Konzept 2.6.2, siehe Glossar „Latrine“ (Band 1 Anhang D), siehe Konzept B4-1.2.
 _Erklärung:_
@@ -5062,26 +4638,10 @@ _Erklärung:_
   [Korrektur ], [siehe Glossar, Anhang D Band 1],
   [Stadt / Land:], [siehe Glossar, Anhang D Band 1],
   [Trocken-Trenn-Toilette], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -5202,10 +4762,7 @@ Kaskade: erst Waschen (Körper), dann Spülen (Geschirr), dann Boden wischen. _L
 + Grauwasser-Zone unterhalb der Entnahme (siehe Konzept 1.2).
 + Versickerungsgrube 30 cm tief, 50 cm breit, mit Steinen gefüllt.
 + Nie Grauwasser in Entnahme-Zone gelangen lassen.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.2 „Grauwasser-Kette“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Kaskade eingehalten
-- [ ] Lauge nicht an Haut/Wunden
-- [ ] Versickerung unterhalb der Entnahme
+_Checkliste:_ siehe CL-B2-25, Anhang S. #refpage(<cl-b2-25>) (Checklisten-Anhang am Bandende) — „9.2 Grauwasser-Kette“.
 _Querverweise:_ siehe Konzept 1.2, siehe Konzept B8-2.2.
 #subhead[Ablauf mit Kontrollkästchen]
 #table(
@@ -5262,25 +4819,9 @@ _Querverweise:_ siehe Konzept 1.2, siehe Konzept B8-2.2.
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Lauge nie an Haut oder Wunden], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -5395,7 +4936,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
 #pagebreak(weak: true)
-== Anhang A — Kopiervorlagen (Band 2) <anh-A>
+== Anhang A — Kopiervorlagen (Band 2) <anh-a>
 #pagebreak(weak: true)
 === A1 Wasserinventur <anh-a1>
 Kopiervorlage zu Konzept 8.1 — Personen × 2 l × 14 T = Soll; Ist-Spalte; Verbrauch pro Tag (mit Konzept B1-9.1).
@@ -5481,7 +5022,7 @@ Kopiervorlage zu Konzept 9.1 — Abstand ≥ 30 m (besser 50 m) unterhalb geme
   [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
 )
 #pagebreak(weak: true)
-== Anhang B — Fehler-Tabelle (Band 2) <anh-B>
+== Anhang B — Fehler-Tabelle (Band 2) <anh-b>
 #table(
   columns: 3,
   table.header([Anfängerfehler], [Folge], [Korrektur]),
@@ -5495,7 +5036,7 @@ Kopiervorlage zu Konzept 9.1 — Abstand ≥ 30 m (besser 50 m) unterhalb geme
   [Tausalz-Schnee geschmolzen], [Salzvergiftung], [3.7 verwerfen; `warn-7c` (B7-5.1)],
 )
 #pagebreak(weak: true)
-== Anhang C — Übungsplan (Band 2) <anh-C>
+== Anhang C — Übungsplan (Band 2) <anh-c>
 _Übungsablauf (verbindlich für jede Übung in diesem Band):_
 + _Vorbereitung (10 min):_ Material und Protokollbogen (Anhang A4 / B1-8.2) bereitlegen; Warnrahmen des Konzepts durchlesen; bei Outdoor-Übung Wetter prüfen (B1-4.4).
 + _Durchführung:_ die nummerierten Schritte des Konzepts exakt in der dortigen Reihenfolge ausführen — keine Abkürzungen.
@@ -5511,6 +5052,222 @@ _Band-spezifische Übungen (Vorrang, mit Erfolgskontrolle):_
 - Latrine anlegen (9.1): 1×, Erfolg: ≥ 30 m (besser 50 m) unterhalb gemessen, Grabtiefe 25–30 cm
 - Secchi-Feldmessung (5.1): 3× an verschieden trübem Wasser, Erfolg: NTU-Schwelle korrekt zugeordnet
 Verfalluhr: 12 Monate ohne Wiederholung = Fähigkeit verfallen (siehe B1-8.2).
+#pagebreak(weak: true)
+== Anhang D — Checklisten (Band 2) <anh-d>
+Alle Checklisten des Bandes, gesammelt am Bandende. Im Kapiteltext steht jeweils nur der Querverweis „siehe CL-B2-NN“. Aufbau pro Checkliste: Kennziffer + sprechende Bezeichnung + Begriffserläuterung (Mini-Glossar) + bestehende Ziel-Präambel (Zweck/Abnahme) + Punkte.
+#subhead[Kapitel-Übersicht]
+#table(
+  columns: 7,
+  table.header([*Nr.*], [*Konzept*], [*P*], [*M*], [*V*], [*Ampel*], [*Abb.*]),
+  table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [CL-B2-01], [— 1.1 Wassergerechtigkeit], [], [], [], [grün], [–],
+  [CL-B2-02], [— 1.2 Zonenplan], [], [], [], [grün], [–],
+  [CL-B2-03], [— 2.1 Bedarfsrechnung], [], [], [], [grün], [–],
+  [CL-B2-04], [— 2.2 Bedarfsprofile], [], [], [], [grün], [–],
+  [CL-B2-05], [— 2.3 Ertragsrechnung], [], [], [], [grün], [–],
+  [CL-B2-06], [— 3.1 Oberflächenwasser lesen], [], [], [], [grün], [–],
+  [CL-B2-07], [— 3.2 Regen auffangen (First-Abwurf-Pflicht)], [], [], [], [grün], [–],
+  [CL-B2-08], [— 3.3 Quellen & Brunnen (Oberhalb-Check)], [], [], [], [grün], [–],
+  [CL-B2-09], [— 3.4 Sickergrube / Behelfsbrunnen], [], [], [], [grün], [–],
+  [CL-B2-10], [— 3.5 Solarstill], [], [], [], [grün], [–],
+  [CL-B2-11], [— 3.7 Winterwasser], [], [], [], [grün], [–],
+  [CL-B2-12], [— 4.1 Behälterkunde], [], [], [], [grün], [–],
+  [CL-B2-13], [— 4.2 Transportkette (10 l einseitig)], [], [], [], [grün], [–],
+  [CL-B2-14], [— 4.3 Gruppenkette (Zwischentank)], [], [], [], [grün], [–],
+  [CL-B2-15], [— 5.1 Wasser beurteilen (Befund-Tabelle, Blaualgen)], [], [], [], [grün], [–],
+  [CL-B2-16], [— 6.1 Klären / Vorfiltern], [], [], [], [grün], [–],
+  [CL-B2-17], [— 6.2 Abkochen], [], [], [], [grün], [–],
+  [CL-B2-18], [— 6.3 SODIS], [], [], [], [grün], [–],
+  [CL-B2-19], [— 7.1 Langsamsandfilter], [], [], [], [grün], [–],
+  [CL-B2-20], [— 7.2 Destillation (Topf-Destille, Solarstill)], [], [], [], [grün], [–],
+  [CL-B2-21], [— 7.3 Chemische Desinfektion (Chlor, Notstand)], [], [], [], [grün], [–],
+  [CL-B2-22], [— 8.1 Haushaltsvorrat (2 l × 14 T)], [], [], [], [grün], [–],
+  [CL-B2-23], [— 8.2 Wiederverseuchung (Ausgießbehälter)], [], [], [], [grün], [–],
+  [CL-B2-24], [— 9.1 Latrine], [], [], [], [grün], [–],
+  [CL-B2-25], [— 9.2 Grauwasser-Kette], [], [], [], [grün], [–],
+)
+=== CL-B2-01 — 1.1 Wassergerechtigkeit <cl-b2-01>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.1 „Wassergerechtigkeit“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Bedarfsliste aktuell
+- [ ] Zuteilung dokumentiert (s. Konzept B1-9.1)
+=== CL-B2-02 — 1.2 Zonenplan <cl-b2-02>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- Latrine = Abortgrube; ≥ 30 m unterhalb der Wasserentnahme, 25–30 cm tief
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.2 „Zonenplan“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Latrine ≥ 30 m unterhalb gemessen
+- [ ] Hangrichtung geprüft
+- [ ] Zonen markiert
+=== CL-B2-03 — 2.1 Bedarfsrechnung <cl-b2-03>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.1 „Bedarfsrechnung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Trink- und Gesamtbedarf getrennt notiert
+- [ ] Kinder- und Fieberprofil eingerechnet
+=== CL-B2-04 — 2.2 Bedarfsprofile <cl-b2-04>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.2 „Bedarfsprofile“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Profile der Gruppe erfasst
+=== CL-B2-05 — 2.3 Ertragsrechnung <cl-b2-05>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.3 „Ertragsrechnung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Fläche gemessen
+- [ ] Verluste abgezogen
+=== CL-B2-06 — 3.1 Oberflächenwasser lesen <cl-b2-06>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.1 „Oberflächenwasser lesen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Fließgewässer bevorzugt
+- [ ] Ölfilm/Chemie → Quelle verwerfen, siehe Konzept 5.1
+=== CL-B2-07 — 3.2 Regen auffangen (First-Abwurf-Pflicht) <cl-b2-07>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- HDPE = lebensmittelechter Kunststoff für Trinkwasserbehälter (B2-4.1)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.2 „Regen auffangen (First-Abwurf-Pflicht)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] First-Abwurf durchgeführt
+- [ ] Behälter sauber und lebensmittelecht (HDPE)
+=== CL-B2-08 — 3.3 Quellen & Brunnen (Oberhalb-Check) <cl-b2-08>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.3 „Quellen & Brunnen (Oberhalb-Check)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Oberhalb-Check gemacht
+- [ ] Austritt klar
+=== CL-B2-09 — 3.4 Sickergrube / Behelfsbrunnen <cl-b2-09>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.4 „Sickergrube / Behelfsbrunnen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Erstwasser verworfen
+- [ ] Wasser geklärt vor der Aufbereitung
+=== CL-B2-10 — 3.5 Solarstill <cl-b2-10>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.5 „Solarstill“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Nur Klarwasser-Nachbehandlung
+- [ ] Nachgekocht vor dem Trinken
+=== CL-B2-11 — 3.7 Winterwasser <cl-b2-11>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.7 „Winterwasser“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Schmelzverhältnis beachtet
+- [ ] Tausalz-Schnee ausgeschlossen
+=== CL-B2-12 — 4.1 Behälterkunde <cl-b2-12>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.1 „Behälterkunde“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Behälter gekennzeichnet (Trinkwasser/Nutzwasser)
+- [ ] Deckel dicht
+=== CL-B2-13 — 4.2 Transportkette (10 l einseitig) <cl-b2-13>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.2 „Transportkette (10 l einseitig)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] ≤ 10 l einseitig
+- [ ] Traglast-Regel (siehe Konzept B1-6.5) eingehalten
+=== CL-B2-14 — 4.3 Gruppenkette (Zwischentank) <cl-b2-14>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.3 „Gruppenkette (Zwischentank)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Zwischentank sauber
+- [ ] Entnahmedisziplin (Ausgießbehälter) eingehalten
+=== CL-B2-15 — 5.1 Wasser beurteilen (Befund-Tabelle, Blaualgen) <cl-b2-15>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- Blaualgen/Microcystin im Süßwasser: nicht trinken/baden (B2-5.1)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.1 „Wasser beurteilen (Befund-Tabelle, Blaualgen)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Befund-Tabelle abgearbeitet
+- [ ] Blaualgen-Vorkommen ausgeschlossen
+=== CL-B2-16 — 6.1 Klären / Vorfiltern <cl-b2-16>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.1 „Klären / Vorfiltern“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Absetzzeit eingehalten
+- [ ] Trübung nach Filterung geprüft
+=== CL-B2-17 — 6.2 Abkochen <cl-b2-17>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.2 „Abkochen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] 1 min (ab 2.000 m: 3 min) sprudelnd
+- [ ] Gifte beachtet: Kochen entfernt keine Chemie
+=== CL-B2-18 — 6.3 SODIS <cl-b2-18>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- NTU = Trübungseinheit; Feldmessung über Sichttiefe/Secchi (B2-5.1)
+- SODIS = Solar Water Disinfection; PET 1–2 l, 6 h Sonne, nur klares Wasser (B2-6.3)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.3 „SODIS“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Trübung \< 30 NTU geprüft
+- [ ] Flaschengröße 1–2 l
+- [ ] Sonne/Wolken-Zeit eingehalten
+=== CL-B2-19 — 7.1 Langsamsandfilter <cl-b2-19>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.1 „Langsamsandfilter“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Sandhöhe 40–60 cm
+- [ ] Wasserstand ≥ 5 cm über Sand
+- [ ] Nachkochen trotz Filter
+=== CL-B2-20 — 7.2 Destillation (Topf-Destille, Solarstill) <cl-b2-20>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.2 „Destillation (Topf-Destille, Solarstill)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Nachkochen nach Destillation
+- [ ] Als Notbehelf gekennzeichnet
+=== CL-B2-21 — 7.3 Chemische Desinfektion (Chlor, Notstand) <cl-b2-21>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.3 „Chemische Desinfektion (Chlor, Notstand)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Dosis 2 Tropfen/l (trüb/kalt 4)
+- [ ] Wartezeit 30–60 min
+- [ ] _Keine Halbierung bei Kindern_ — im Zweifel kochen
+- [ ] Nie mit Säure oder Ammoniak gemischt
+=== CL-B2-22 — 8.1 Haushaltsvorrat (2 l × 14 T) <cl-b2-22>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.1 „Haushaltsvorrat (2 l × 14 T)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Vorrat gerechnet und eingelagert
+- [ ] Rotationstermin notiert
+=== CL-B2-23 — 8.2 Wiederverseuchung (Ausgießbehälter) <cl-b2-23>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.2 „Wiederverseuchung (Ausgießbehälter)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Ausgießbehälter vorhanden
+- [ ] Entnahmedisziplin eingehalten
+=== CL-B2-24 — 9.1 Latrine <cl-b2-24>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- Latrine = Abortgrube; ≥ 30 m unterhalb der Wasserentnahme, 25–30 cm tief
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.1 „Latrine“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Abstand ≥ 30 m (besser 50 m) gemessen
+- [ ] Grabtiefe 25–30 cm
+- [ ] Abdeckung bereit
+=== CL-B2-25 — 9.2 Grauwasser-Kette <cl-b2-25>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.2 „Grauwasser-Kette“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Kaskade eingehalten
+- [ ] Lauge nicht an Haut/Wunden
+- [ ] Versickerung unterhalb der Entnahme
 #pagebreak(weak: true)
 == Bandabschluss Band 2 — Bewertungsmatrix + Devise <abschluss>
 #table(
@@ -5583,6 +5340,31 @@ Alle Konzepte dieses Bandes im Überblick — abhaken, wenn geübt/gelesen:
 - [ ] 8.2 Wiederverseuchung (Ausgießbehälter)
 - [ ] 9.1 Latrine
 - [ ] 9.2 Grauwasser-Kette
+- [ ] CL-B2-01 — 1.1 Wassergerechtigkeit
+- [ ] CL-B2-02 — 1.2 Zonenplan
+- [ ] CL-B2-03 — 2.1 Bedarfsrechnung
+- [ ] CL-B2-04 — 2.2 Bedarfsprofile
+- [ ] CL-B2-05 — 2.3 Ertragsrechnung
+- [ ] CL-B2-06 — 3.1 Oberflächenwasser lesen
+- [ ] CL-B2-07 — 3.2 Regen auffangen (First-Abwurf-Pflicht)
+- [ ] CL-B2-08 — 3.3 Quellen & Brunnen (Oberhalb-Check)
+- [ ] CL-B2-09 — 3.4 Sickergrube / Behelfsbrunnen
+- [ ] CL-B2-10 — 3.5 Solarstill
+- [ ] CL-B2-11 — 3.7 Winterwasser
+- [ ] CL-B2-12 — 4.1 Behälterkunde
+- [ ] CL-B2-13 — 4.2 Transportkette (10 l einseitig)
+- [ ] CL-B2-14 — 4.3 Gruppenkette (Zwischentank)
+- [ ] CL-B2-15 — 5.1 Wasser beurteilen (Befund-Tabelle, Blaualgen)
+- [ ] CL-B2-16 — 6.1 Klären / Vorfiltern
+- [ ] CL-B2-17 — 6.2 Abkochen
+- [ ] CL-B2-18 — 6.3 SODIS
+- [ ] CL-B2-19 — 7.1 Langsamsandfilter
+- [ ] CL-B2-20 — 7.2 Destillation (Topf-Destille, Solarstill)
+- [ ] CL-B2-21 — 7.3 Chemische Desinfektion (Chlor, Notstand)
+- [ ] CL-B2-22 — 8.1 Haushaltsvorrat (2 l × 14 T)
+- [ ] CL-B2-23 — 8.2 Wiederverseuchung (Ausgießbehälter)
+- [ ] CL-B2-24 — 9.1 Latrine
+- [ ] CL-B2-25 — 9.2 Grauwasser-Kette
 #pagebreak(weak: true)
 == Warnübersicht Band 2 <warn-uebersicht>
 #table(
@@ -5598,7 +5380,6 @@ Alle Verweise aus diesem Band auf andere Bände (Schema B\<Band\>-X.Y):
   columns: 2,
   table.header([*Von (dieser Band)*], [*Ziel*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [1.1], [B1-9.1],
   [1.1], [B10-1.1],
   [1.2], [B1-9.1],
   [2.1], [B8-4.2],

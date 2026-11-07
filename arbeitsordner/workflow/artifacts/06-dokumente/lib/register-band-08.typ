@@ -23,7 +23,7 @@ Einträge zu Konzepten dieses Bandes mit Seitenzahl (S. …); Verweise auf ander
 - _Fieber lesen_ — Konzept 4.1, S. #refpage(<k-4-1>) (Abb. 8.7) · _Anstieg/Höhe/Abfall; nie kalt gegen Anstieg_; siehe auch Wärme-Regie & ORS; Atemnot
 - _Gift erkennen_ — Konzept 5.1, S. #refpage(<k-5-1>); siehe auch Vergiftung (Erstmaßnahme); Verwechslungs-Paare & Giftpflanzen; Pilze (Bestimmung, Amatoxine)
 - _Giftnotruf_ — Konzept 5.2, S. #refpage(<k-5-2>) · _116 123 (DE), +353 1 809 2166 (IE), 112 (EU)_; siehe auch Vergiftung (Erstmaßnahme, kein induziertes Erbrechen)
-- _Grüne Hausapotheke (fünf Haus-Pflanzen)_ — B5-6.1 (Abb. 5.6) · _gelb (SME): Beinwell nur äußerlich auf intakter Haut; Weidenrinde nicht < 16 J (Reye, siehe Konzept 7.3, S. #refpage(<k-7-3>)); Wegerich/Nessel/Kamille/Beinwell/Weidenrinde_; siehe auch Kräuter-Lese (zwei Zeugen); Tinktur / Salbe / Öl-Auszug; Beinwell; Weidenrinde
+- _Grüne Hausapotheke (fünf Haus-Pflanzen)_ — B5-6.1 (Abb. 5.6) · _gelb (Expertenprüfung): Beinwell nur äußerlich auf intakter Haut; Weidenrinde nicht < 16 J (Reye, siehe Konzept 7.3, S. #refpage(<k-7-3>)); Wegerich/Nessel/Kamille/Beinwell/Weidenrinde_; siehe auch Kräuter-Lese (zwei Zeugen); Tinktur / Salbe / Öl-Auszug; Beinwell; Weidenrinde
 - _Heilkunde (Grenze des Behandelns)_ — Konzept 1.1, S. #refpage(<k-1-1>) · _Können/Frist/Zustand_; siehe auch Sanitäts-Kette; Helfer-Netz
 - _Heilpflanzen / Hausapotheke_ — siehe Grüne Hausapotheke (B5-6.1); Band 8 Kap. 3 (Kräuter-Lese Konzept 3.1, S. #refpage(<k-3-1>), Aufgüsse Konzept 3.2, S. #refpage(<k-3-2>), Tinkturen Konzept 3.3, S. #refpage(<k-3-3>))
 - _Helfer-Netz_ — Konzept 1.3, S. #refpage(<k-1-3>) · _zwei Wissende, zwei Wege, Bote_; siehe auch Sanitäts-Kette; Botenregeln (+60-min-Regel)
@@ -36,7 +36,7 @@ Einträge zu Konzepten dieses Bandes mit Seitenzahl (S. …); Verweise auf ander
 - _Ruhe als Arznei_ — Konzept 6.3, S. #refpage(<k-6-3>); siehe auch Krankenlager
 - _Sanitäts-Kette_ — Konzept 1.2, S. #refpage(<k-1-2>) (Abb. 8.1) · _Ruhe–Blick–Frage–Hand–Blatt_; siehe auch Helfer-Netz; Krankenlager
 - _Sanitätsmappe_ — Konzept 8.1, S. #refpage(<k-8-1>) (Abb. 8.13) · _< 3 kg ; Antibiotika nur bei klarer bakterieller Indikation, volle Kursdauer, Allergie beachten_; siehe auch Notfallrucksack (72 h); Traglast
-- _Schmerzmittel aus der Natur (Weidenrinde)_ — Konzept 7.3, S. #refpage(<k-7-3>) (Abb. 8.12) · _gelb (SME): nicht < 16 J (Reye-Syndrom, siehe B5-6.1)_; siehe auch Weidenrinde (Salicyl); Grüne Hausapotheke (fünf Haus-Pflanzen); Reye-Syndrom
+- _Schmerzmittel aus der Natur (Weidenrinde)_ — Konzept 7.3, S. #refpage(<k-7-3>) (Abb. 8.12) · _gelb (Expertenprüfung): nicht < 16 J (Reye-Syndrom, siehe B5-6.1)_; siehe auch Weidenrinde (Salicyl); Grüne Hausapotheke (fünf Haus-Pflanzen); Reye-Syndrom
 - _Sterbebegleitung_ — Konzept 9.1, S. #refpage(<k-9-1>); siehe auch Abschied (Sterben, Blatt bis zuletzt)
 - _Tetanus_ — Konzept 2.2, S. #refpage(<k-2-2>) (warn-8a) · _; Risikowunden offen halten; Booster-Regeln_; siehe auch Wunde reinigen & schließen (Tetanus); Tetanus-Impfstoff (Kühlkette 2–8 °C)
 - _Tetanus-Impfstoff (Kühlkette 2–8 °C)_ — Konzept 2.2, S. #refpage(<k-2-2>) · _kühlkettenpflichtig_; siehe auch Konzept 8.1, S. #refpage(<k-8-1>) (Sanitätsmappe)

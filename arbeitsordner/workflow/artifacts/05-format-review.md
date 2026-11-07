@@ -189,3 +189,30 @@ Hinweis zu Band 6: Gate G-1 (legal) ist laut abschlussbericht §3 noch offen —
 ## Gesamturteil Turn 5: **NACHBESSERN** (einziger offener Punkt: T5-1, proof Rev. 4)
 
 0 blocker; 1 major offen (T5-1, reine Nachweis-Aktualisierung — die Druckdateien selbst bestehen alle Checks). Alles andere grün: Satzspiegel 72,3 %, Boxen unteilbar, 3a.1–3a.4 vollständig gerendert, 10/10 fehlerfrei kompiliert, 3.618 S. alle ≥ 300, PDF/A-2b, PDF/X-4 + 3 mm Anschnitt + Schnittmarken intakt, 0 Meta-Leaks, keine Regressionen. Gate G-1 (legal, Band 6) weiterhin offen — nicht Format, Owner legal/Phase K.
+
+---
+
+# Nachtrag — Re-Review Turn 6 (2026-11-07, ~17:45 MEZ, nach doc-builder Turn 10 + visual-qa Turn 2)
+
+**Anlass:** visual-qa-Gate `artifacts/20-visual-qa.md` Turn 2 = **FREIGEGEBEN (gelb)**; 06-dokumente/ nach Turn 10 neu gebaut (3.589 S.). Diesmal mit echten Prepress-Tools verifiziert (poppler/qpdf aus /tmp/gsenv: pdfinfo, pdffonts, pdfimages, pdftotext, qpdf --qdf) plus frischem typst-Build.
+
+## Ergebnis
+
+| Prüfpunkt | Status | Nachweis |
+|---|---|---|
+| visual-qa-Gate: 0 Kollisionen, 0 Meta-IDs | **bestätigt** | visual-qa Turn 2: 0 Kollisionen in 3.589/3.589 Seiten (Koord.+Pixel), Caption-Lücke überall 4,6 pt. Eigene unabhängige Kontrolle via `pdftotext` aller 10 PDFs: 0 interne IDs (W-/L-/BL-IDs, ROT-, Gate, WARN n, Phase, Review vN, Befund N, Prüfprotokoll, Artefakt-Pfade, „NN §/Nr.“, TODO/LÜCKE/ROHWERT) — M1/M2 aus visual-qa Turn 1 behoben. Einzig residual: Wortlaut „SME“/„Fachlektorat“/„fachlektorische Korrektur“ (s. T6-1). |
+| Quellenverzeichnis statt Prüfprotokoll in allen Bänden | **JA** | `Quellenverzeichnis` 25–32× pro Band in allen 10; „Prüfprotokoll“ 0×; W-IDs in `lib/register-band-*.typ` = 0. |
+| Alle .typ kompilieren + ≥ 300 S./Band | **JA** | 10/10 `typst compile --pdf-standard a-2b` fehlerfrei (rc=0, keine Warnungen), frischer Build seitenzahl-identisch: **475/382/361/351/337/333/341/346/338/325 = Σ 3.589 S.**, alle ≥ 300; PDF/A-2b + `dc:title` in allen 10. |
+| Druckdaten PDF/X-4 + Marken + proof aktuell | **JA (T5-1 behoben)** | Alle 10 `band-NN-druck.pdf` mit pdfinfo/pdffonts/qpdf/pdfimages verifiziert: Pages = proof (475/382/…/325), MediaBox 612,28×858,90 pt = 216×303 mm, TrimBox+BleedBox gesetzt, **0 RGB-Ops** (qdf), **Schnittmarken: Registration Black `1 1 1 1 K` + `0.3 w` genau 1× pro Seite** (regK = Seitenzahl), PDF/X-4 in XMP+Info, OutputIntent `/S /GTS_PDFX`, 0 Annots, 0 Rasterbilder, alle Fonts embedded. `proof.json` mtime (17:24) neuer als alle Druck-PDFs (17:20), Werte matchen (pages, crop_marks_ok=true). |
+| Regressionen F1–F7 / T3 / R1–R2 / T5-1 | **keine** | F1 Marken OK, F2 0 undefined/NaN in 189 SVGs (alle wohlgeformt), F4 0 doppelte Captions, F5 0 „Phase I“ im Druck-XMP, F7 dc:title gesetzt, R1 ok, Abb. 174 refs = Dateien, 15 warn-Grafiken an geplanten Stellen, ZIP 243 Einträge/189 SVGs integer. |
+
+## Restbefunde Turn 6 (minor, nicht blockierend)
+
+| # | Schwere | Befund | Korrektur |
+|---|---|---|---|
+| T6-1 | minor | Rollen-Wortlaut aus dem Workflow im Lesertext: „SME“ / „gelb (SME)“ / „Fachlektorat“ / „fachlektorische Korrektur“ / „SME-Korrektur“ / „SME-Ergänzung“ — 28× in band-05/06/08 (+ Register 05/06/08/10) und 12× in 4 SVGs (abb-5-6, abb-6-4, abb-6-7, abb-8-12). Keine IDs/Gate-Texte, aber interne Rollen-Namen (visual-qa Turn 2 hat sie als False Positives uebersehen; Kriterium listet Agent-Namen als Leak). | Durch „fachlich geprüft“ / „rechtlich geprüft“ ersetzen (oder Ampel-Erklärung in B1-Konventionen ergänzen); 3 Bände + 4 SVGs anfassen, neu kompilieren. |
+| T6-2 | minor | `proof-bericht.md` textlich veraltet (mtime 14:54, nennt noch Turn-7-Zahl 479; `proof.json` ist aktuell mit 475/3.589). | Bericht als Rev. 4 mit Turn-10-Zahlen aktualisieren (json ist maschinenlesbar korrekt). |
+
+## Gesamturteil Turn 6: **FREIGEGEBEN** (Imprimatur bestätigt; visual-qa-Gate gelb bestanden)
+
+0 blocker, 0 major, 2 minor (T6-1 Rollen-Wortlaut, T6-2 bericht-Kosmetik). Druckfreigabe für `06-dokumente/`: 10 × PDF/A-2b (3.589 S., alle ≥ 300), 10 × PDF/X-4 Druckdaten (3 mm Anschnitt + Schnittmarken 1×/Seite, CMYK-only, Fonts eingebettet, aktueller proof), 189 sanitized SVGs, Quellenverzeichnisse in allen Bänden, 0 Meta-Leaks (abgesehen vom minor-Wortlaut T6-1). **Nicht-Format-Hinweis Phase K:** Gate G-1 (legal-Freigabe Band 6) weiterhin offen — Owner legal/fachlektor.

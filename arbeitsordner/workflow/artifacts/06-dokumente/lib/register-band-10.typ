@@ -13,7 +13,7 @@ Alle Einträge des Gesamtregisters; Verweise auf Konzepte dieses Bandes mit Seit
 - _71-°C-Kerntemperatur (Durchgaren)_ — B6-9.1; B7-3.2 · _USDA-Preheat vor dem Dörren; Trichinen ≥ 71 °C Kern_; siehe auch Trichinen; Dörren (Dörrware); Ausnehmen & Zerwirken
 - _72-Stunden-Rucksack_ — siehe Notfallrucksack (B1-3.2)
 - _Aal (Blut roh giftig, hitzelabil)_ — B6-9.2 · _text-only-Warnung_; siehe auch Wild-Küche
-- _Abb. N.M (Abbildung)_ — B1 Anhang D · \_Konvention: Datei `abb-N-M.svg`, deutsch beschriftet, graustufentauglich\_
+- _Abb. N.M (Abbildung)_ — B1 Anhang D · _Konvention: Datei abb-N-M.svg, deutsch beschriftet, graustufentauglich_
 - _Abkochen (gesottenes Wasser)_ — B2-6.2 (Abb. 2.9) · _1 min sprudelnd, ab 2.000 m 3 min (CDC/WHO)_; siehe auch SODIS; Chemische Desinfektion (Chlor); Gesottenes Wasser; Wunde reinigen & schließen (Tetanus)
 - _Abschied (Sterben, Blatt bis zuletzt)_ — B8-9.2; siehe auch Sterbebegleitung; Vermächtnis
 - _Abschreiben & Bewahren_ — Konzept 7.2, S. #refpage(<k-7-2>) (Abb. 10.7) · _vier Schichten_; siehe auch Vermächtnis; Material-Kammer
@@ -124,7 +124,7 @@ Alle Einträge des Gesamtregisters; Verweise auf Konzepte dieses Bandes mit Seit
 - _Grabstock-Kunde_ — B5-4.1 (Abb. 5.4) · _Drei-Stimmen-Regel, Hebel statt Reißen_; siehe auch Strand & Watt (Nahrung)
 - _Grauwasser-Kette_ — B2-9.2 (Abb. 2.16) · _Lauge nie an Haut/Wunden_; siehe auch Latrine
 - _Großer Wagen / Cassiopeia_ — siehe Polarstern (B1-4.2)
-- _Grüne Hausapotheke (fünf Haus-Pflanzen)_ — B5-6.1 (Abb. 5.6) · _gelb (SME): Beinwell nur äußerlich auf intakter Haut; Weidenrinde nicht < 16 J (Reye, siehe B8-7.3); Wegerich/Nessel/Kamille/Beinwell/Weidenrinde_; siehe auch Kräuter-Lese (zwei Zeugen); Tinktur / Salbe / Öl-Auszug; Beinwell; Weidenrinde
+- _Grüne Hausapotheke (fünf Haus-Pflanzen)_ — B5-6.1 (Abb. 5.6) · _gelb (Expertenprüfung): Beinwell nur äußerlich auf intakter Haut; Weidenrinde nicht < 16 J (Reye, siehe B8-7.3); Wegerich/Nessel/Kamille/Beinwell/Weidenrinde_; siehe auch Kräuter-Lese (zwei Zeugen); Tinktur / Salbe / Öl-Auszug; Beinwell; Weidenrinde
 - _Gruppenkette (Zwischentank)_ — B2-4.3; siehe auch Wassertransport (Transportkette)
 - _Haltbarkeits-Tafeln (sechs Wege)_ — B7-2.2 (Abb. 7.1) · _(USDA)_; siehe auch Fünf Feinde des Vorrats; Konservieren / Haltbarmachen
 - _Handstrauß-Regel / Naturschutz (§ 39, § 23 BNatSchG, NSG, Anlage 1)_ — B5-1.1; B5-8.2 · _geschützte Arten meiden_; siehe auch Sammel-Ethik; Wildgarten
@@ -150,7 +150,7 @@ Alle Einträge des Gesamtregisters; Verweise auf Konzepte dieses Bandes mit Seit
 - _Jagd (Grenze, Jagdschein, Wilderei)_ — B6-1.1 · _Notstand-Bindung, sauberer Tod, Ganz-Verwertung_; siehe auch Jagdschein & Befugnis; Wilderei (§ 292 StGB); Fell, Sehne, Knochen (Ganz-Verwertung)
 - _Jagd-Kalender (Schonzeiten)_ — B6-1.3 · _Setz-/Brut-/Laich-Fenster; § 22 BJagdG, Zuwiderhandlung § 38 strafbar_; siehe auch Schonzeiten (§ 22 BJagdG); Pflanzen-Kalender
 - _Jagd-Kreise & Ruhe-Zonen_ — B6-1.2 · _Kreis 1/2/3_; siehe auch Ansitz; Lagerplatz
-- _Jagdbogen (Übungsgerät)_ — B6-4.1 (Abb. 6.4) · _gelb (SME): Bogenjagd in DE/AT/CH jagdrechtlich unzulässig — nur Übungsgerät mit rechtlichem Hinweis; 10–20 m sicher, 100 Probeschüsse Pflicht_; siehe auch Pfeil, Speer, Wurfholz
+- _Jagdbogen (Übungsgerät)_ — B6-4.1 (Abb. 6.4) · _gelb (Expertenprüfung): Bogenjagd in DE/AT/CH jagdrechtlich unzulässig — nur Übungsgerät mit rechtlichem Hinweis; 10–20 m sicher, 100 Probeschüsse Pflicht_; siehe auch Pfeil, Speer, Wurfholz
 - _Jagdschein & Befugnis_ — B6-1.1 · _Pflicht_; siehe auch Jagd (Grenze, Jagdschein, Wilderei); Wilderei (§ 292 StGB)
 - _Jahres-Übungsplan_ — B1-8.1 (Abb. 1.28); siehe auch Übungsprotokoll (Verfalluhr 12 Monate); Feuerprobe des Kompendiums; Kalender des Dorfes
 - _Kalender des Dorfes_ — Konzept 8.1, S. #refpage(<k-8-1>) (Abb. 10.8); siehe auch Jahres-Übungsplan; Pflanzen-Kalender; Jagd-Kalender (Schonzeiten)
@@ -207,7 +207,7 @@ Alle Einträge des Gesamtregisters; Verweise auf Konzepte dieses Bandes mit Seit
 - _Orientierung_ — siehe Band 1 Kap. 4: Schattenstab (B1-4.1), Polarstern (B1-4.2), Karte (B1-4.3)
 - _ORS (orale Rehydratationslösung)_ — B8-4.2 · _1 l abgekochtes Wasser + 6 gestrichene TL Zucker + ½ TL Salz, schluckweise_; siehe auch Wärme-Regie & ORS; Wasserbedarf (Bedarfsrechnung)
 - _P / M / V (Bewertung)_ — B1 Anhang D · _P praktisch 1–10 (< 5 = Notbehelf), M moralisch 4-stufig, V 1–10 (< 6 = Übungspflicht)_; siehe auch Ampel (grün/gelb/rot); Notbehelf (P \< 5)
-- _Pfeil, Speer, Wurfholz_ — B6-4.2 · _gelb (SME): Speer als Jagdwaffe unzulässig; Wurfholz nur Werkzeug; keine Gifte_; siehe auch Jagdbogen (Übungsgerät)
+- _Pfeil, Speer, Wurfholz_ — B6-4.2 · _gelb (Expertenprüfung): Speer als Jagdwaffe unzulässig; Wurfholz nur Werkzeug; keine Gifte_; siehe auch Jagdbogen (Übungsgerät)
 - _Pflanzen-Kalender_ — B5-9.2 (Abb. 5.11) · _Monatsfenster ME/Irland_; siehe auch Sammelgang (Kreise); Jagd-Kalender (Schonzeiten); Kalender des Dorfes
 - _Pfosten / First / Verbindungen (Hütte)_ — B4-4.2 (Abb. 4.7) · _Steinkranz, 30 cm Tiefe, Sattelkerbe_; siehe auch Bauplan & Hüttenmaße; Zapfen / Loch / Keil (Holzverbindung)
 - _pH-Wert (messen, Indikatorpapier)_ — B7-6.2k; B5-6.2; B8-3.3 · _Grenze pH 4,6; ohne Messung konservativ low-acid annehmen_; siehe auch Einkochen, Öl & Essig (Druckkocher); Dosierung & rote Liste (Heilpflanzen)
@@ -253,7 +253,7 @@ Alle Einträge des Gesamtregisters; Verweise auf Konzepte dieses Bandes mit Seit
 - _Schliff (Klinge)_ — B9-4.1 (Abb. 9.5) · _Grob/Fein/Glatt, Winkel konstant_; siehe auch Schneide halten (Wetz-Takt); Messer; Geschmiedete Klinge
 - _Schluss der Reihe_ — Konzept 9.2, S. #refpage(<k-9-2>) · _Haus-Metapher_; siehe auch Feuerprobe des Kompendiums
 - _Schmalz & Talg_ — B7-7.1 (Abb. 7.8) · _Ranz-Warnung_; siehe auch Seife aus Resten
-- _Schmerzmittel aus der Natur (Weidenrinde)_ — B8-7.3 (Abb. 8.12) · _gelb (SME): nicht < 16 J (Reye-Syndrom, siehe B5-6.1)_; siehe auch Weidenrinde (Salicyl); Grüne Hausapotheke (fünf Haus-Pflanzen); Reye-Syndrom
+- _Schmerzmittel aus der Natur (Weidenrinde)_ — B8-7.3 (Abb. 8.12) · _gelb (Expertenprüfung): nicht < 16 J (Reye-Syndrom, siehe B5-6.1)_; siehe auch Weidenrinde (Salicyl); Grüne Hausapotheke (fünf Haus-Pflanzen); Reye-Syndrom
 - _Schmiede-Feuer_ — B9-2.1 (Abb. 9.1) · _gelb: CO/Brandgefahr, Augenschutz IR/UV_; siehe auch Härten & Anlassen; Kohlenmonoxid (CO)
 - _Schmieden_ — siehe Schmiede-Feuer (B9-2.1); Geschmiedete Klinge (B9-2.3)
 - _Schneehöhle_ — siehe Winter-Unterkunft (B4-3.3)

@@ -15,11 +15,8 @@
 
 Vorrat dient dem Überleben der Gruppe, nicht dem Horten. Tausch vor Behalten (siehe Konzept B10-2.3).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.1 „Grenze des Vorrats“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B7-01 (Checklisten-Anhang am Bandende) — „1.1 Grenze des Vorrats“.
 
-- [ ] Vorratsziel nach Bedarf (siehe Konzept 9.1), nicht nach Angst
 
 **Querverweise:** siehe Konzept 9.1, siehe Konzept B10-2.3.
 **Erklärung:**
@@ -45,11 +42,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 1. Erfassen → 2. Sortieren → 3. Konservieren (Kapitel 3–7) → 4. Lagern (Kapitel 8) → 5. Kontrollieren (siehe Konzept 8.2) → 6. Rotieren.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.3 „Vorrats-Fahrplan (sechs Stationen)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B7-02 (Checklisten-Anhang am Bandende) — „1.3 Vorrats-Fahrplan (sechs Stationen)“.
 
-- [ ] Sechs Stationen im Plan
 
 **Querverweise:** siehe Konzept 8.1, siehe Konzept 8.2.
 
@@ -112,12 +106,8 @@ Trocknen, Räuchern, Salzen/Pökeln, Säuern/Einlegen, Einkochen, Kühlen — Ta
 
 **Wind trocknet, nicht Hitze.** Hallen mit Durchzug, Ware dünn und luftig aufhängen/legen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.1 „Trocken-Halle“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B7-03 (Checklisten-Anhang am Bandende) — „3.1 Trocken-Halle“.
 
-- [ ] Durchzug vorhanden
-- [ ] Ware nicht gehäuft
 
 **Querverweise:** siehe Konzept 3.2.
 **Erklärung:**
@@ -131,14 +121,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 Reduktionsverhältnisse (W25): Fleisch 3:1, Fisch 4:1, Obst 5:1, Kraut 10:1.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.2 „Dörrware“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B7-04 (Checklisten-Anhang am Bandende) — „3.2 Dörrware“.
 
-- [ ] Preheat 71 °C Kern vor dem Dörren
-- [ ] Brechprobe bestanden
-- [ ] Fingerdünn geschnitten
-- [ ] Schimmel → ganz wegwerfen
 
 > **BAUSTEIN:** Dörrware bricht, sie biegt sich nicht. Und was schimmelt, fliegt ganz raus.
 
@@ -160,12 +144,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 1. Warmgang: 60–80 °C, Kern durchgaren (siehe Konzept 4.3).
 2. Kaltgang: < 30 °C — **kaltgeräucherter Fisch allein ist nicht haltbar** (Botulismus Typ E, siehe Konzept 6.2k `warn-7b`): zusätzlich salzen/pökeln (siehe Konzept 5.2) oder sofort verbrauchen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.1 „Räucher-Ofen (Kalt-/Warmgang)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B7-05 (Checklisten-Anhang am Bandende) — „4.1 Räucher-Ofen (Kalt-/Warmgang)“.
 
-- [ ] Warmgang: Kern durchgegart
-- [ ] Kaltgeräuchertes zusätzlich gesalzen oder sofort verbraucht
 
 **Querverweise:** siehe Konzept 6.2k (`warn-7b`), siehe Konzept 5.2, siehe Konzept 4.3.
 **Erklärung:**
@@ -177,12 +157,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 **Nadelholz-Verbot** (Terpentin, harzig, ungenießbarer Rauch). Torf nur gemischt (siehe Konzept B3-7.2). Hartholz (Buche, Eiche) bevorzugen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.2 „Holz & Rauch“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B7-06 (Checklisten-Anhang am Bandende) — „4.2 Holz & Rauch“.
 
-- [ ] Kein Nadelholz
-- [ ] Hartholz bevorzugt
 
 **Querverweise:** siehe Konzept B3-2.2, siehe Konzept B3-7.2.
 **Erklärung:**
@@ -194,11 +170,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 **Kern durchgaren** (Brühwurst: ≥ 71 °C Kern). Rohwurst-Haltbarkeit nur über **Salz + pH** (siehe Konzept 5.2/6.1) — ohne Messung konservativ behandeln.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.3 „Wurst“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B7-07 (Checklisten-Anhang am Bandende) — „4.3 Wurst“.
 
-- [ ] Kern ≥ 71 °C bei Brühwurst
 
 **Querverweise:** siehe Konzept 5.2, siehe Konzept 6.1, siehe Konzept 6.2k.
 
@@ -217,12 +190,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 > **WARNRAHMEN [warn-7c] — UNBEKANNTES SALZ (WARN 2, 09 §4.3):** **Streusalz und Regeneriersalz nie in die Küche** — Ferrocyanid-Rieselhilfe und Verunreinigungen. Nur Salz **bekannter Herkunft** (Meersalz, Siedesalz, Steinsalz aus kontrollierter Quelle). Herkunft prüfen, bevor du salzt.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.1 „Das Salz“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B7-08 (Checklisten-Anhang am Bandende) — „5.1 Das Salz“.
 
-- [ ] Herkunft des Salzes bekannt
-- [ ] Kein Streusalz/Regeneriersalz in Lebensmitteln (siehe auch Konzept B2-3.7, Tausalz-Schnee)
 
 > **BAUSTEIN:** Salz aus der Winterstreuung ist für die Straße, nicht für den Topf.
 
@@ -240,12 +209,8 @@ Werte (W26): **Lake-Ei-Test** — ein **frisches rohes Ei** (legt in Süßwasser
 2. Fleisch einlegen, kühl stellen (siehe Konzept 8.1).
 3. Zeiten einhalten; danach wässern und trocknen/räuchern.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.2 „Pökeln (Lake-Ei-Test)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B7-09 (Checklisten-Anhang am Bandende) — „5.2 Pökeln (Lake-Ei-Test)“.
 
-- [ ] Ei-Test bestanden
-- [ ] Zeiten eingehalten (Speck 7–10 T; Schinken 1 T/cm + 2 T)
 
 **Querverweise:** siehe Konzept 5.1 (`warn-7c`), siehe Konzept 8.1, siehe Konzept 4.1.
 
@@ -266,12 +231,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. Luftdicht ins Fass drücken, beschweren (Stein), Deckel mit Wasserbund.
 3. Milchsäuregärung bei 15–20 °C, 2–4 Wochen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.1 „Kraut-Fass (Milchsäure/Lake)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B7-10 (Checklisten-Anhang am Bandende) — „6.1 Kraut-Fass (Milchsäure/Lake)“.
 
-- [ ] Luftdicht vergoren
-- [ ] 2–4 Wochen gereift
 
 **Querverweise:** siehe Konzept 5.1, siehe Konzept 8.1.
 **Erklärung:**
@@ -310,15 +271,8 @@ Umsetzung als Schritte:
 5. Kaltgeräucherter Fisch: allein nicht haltbar (Typ E) — siehe Konzept 4.1.
 6. Gläser kontrollieren: gewölbter Deckel/Schwall/Fremdgeruch/Schimmel → **ungeöffnet wegwerfen**.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.2k „Einkochen, Öl & Essig“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B7-11 (Checklisten-Anhang am Bandende) — „6.2k Einkochen, Öl & Essig“.
 
-- [ ] pH gemessen (Indikatorpapier) oder konservativ Druckkocher
-- [ ] Druckkocher 116–121 °C, psi nach Höhenlage, NCHFP-Zeiten
-- [ ] Wasserbad nur pH ≤ 4,6
-- [ ] Öl nur gesäuert/getrocknet, kühl, Frist in Tagen
-- [ ] Gewölbte Deckel ungeöffnet weggeworfen
 
 > **BAUSTEIN:** Was sauer ist, darf ins Wasserbad. Was nicht sauer ist, braucht den Druckkocher. Alles andere ist Russisch Roulette mit Gläsern.
 
@@ -334,11 +288,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. 2–4 Wochen stehen lassen, täglich umrühren.
 3. Abseihen, in Flaschen füllen — pH messen (siehe Konzept 6.2k, Ziel < 4,6 für Einlagen).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.3 „Essig selbst gebraut“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B7-12 (Checklisten-Anhang am Bandende) — „6.3 Essig selbst gebraut“.
 
-- [ ] pH des fertigen Essigs gemessen (< 4,6)
 
 **Querverweise:** siehe Konzept 6.2k.
 
@@ -359,12 +310,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. In Gläser füllen, luftdicht, kühl und dunkel lagern (siehe Konzept 8.1).
 3. **Ranz-Warnung:** streng riechendes Fett wegwerfen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.1 „Schmalz & Talg“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B7-13 (Checklisten-Anhang am Bandende) — „7.1 Schmalz & Talg“.
 
-- [ ] Luftdicht, kühl, dunkel
-- [ ] Ranz-Geruch → wegwerfen
 
 **Querverweise:** siehe Konzept 8.1, siehe Konzept 8.2.
 **Erklärung:**
@@ -380,12 +327,8 @@ Werte (W27): **~1 Pfund (= 500 g) Fett → ~500 g Seife**; Lauge **0,5 l pro Pfu
 2. Fett erhitzen, Lauge zugeben, rühren bis **„Spur ziehen“** — die Masse hinterlässt auf dem Löffel eine sichtbare dickflüssige Bahn.
 3. In Form gießen, 4–6 Wochen reifen lassen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.2 „Seife aus Resten“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B7-14 (Checklisten-Anhang am Bandende) — „7.2 Seife aus Resten“.
 
-- [ ] Verhältnis 1:1, Lauge 0,5 l/Pfund
-- [ ] Reife 4–6 Wochen
 
 > **BAUSTEIN:** Seife braucht sechs Wochen Geduld und kein Parfüm.
 
@@ -402,11 +345,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 3. Fell 1–2 Wochen in der Brühe bewegen.
 4. **Schnittprobe: braun = durchgegerbt.** Dann fetten (siehe Konzept 7.1) und weichklopfen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.3 „Gerben (Lohe/Eichenrinde)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B7-15 (Checklisten-Anhang am Bandende) — „7.3 Gerben (Lohe/Eichenrinde)“.
 
-- [ ] Schnittprobe braun
 
 **Querverweise:** siehe Konzept B6-9.3, siehe Konzept 7.1, siehe Konzept B9-7.3, Lederpflege/Fett.
 
@@ -433,12 +373,8 @@ Zonen konsistent mit Feuer-Abständen Band 3 (siehe Konzept B3-1.2).
 
 **Stadt / Land:** Land = erdberührter Keller/Grube. **Stadt (Wohnung):** kühlster Schrank oder Abstellraum am Treppenhaus, **nie über der Heizung**, nie in der Sonne; Temperatur mit Thermometer prüfen (Ziel < 10 °C in der Kühlzone, siehe B8-8.1); bei Stromausfall in der Wohnung bleibt der Treppenhaus-Schrank der kühlste Ort.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.1 „Die kalte Kammer (Zonen)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B7-16 (Checklisten-Anhang am Bandende) — „8.1 Die kalte Kammer (Zonen)“.
 
-- [ ] Zonen klar getrennt
-- [ ] Temperatur regelmäßig geprüft (siehe Konzept B1-7.4)
 
 **Querverweise:** siehe Konzept B3-1.2, siehe Konzept 8.2.
 **Erklärung:**
@@ -452,12 +388,8 @@ Entscheidungstabelle: retten / essen / wegwerfen.
 
 > **Mykotoxine (09 §4.3):** Verschimmeltes **Korn, Brot und Nüsse nie retten** — Mykotoxine penetrieren das ganze Stück. Schimmel auf harter Ware (Käse, feste Wurst): Rand großzügig wegschneiden, Rest prüfen. Weichware mit Schimmel: ganz wegwerfen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.2 „Gäste & Verderb-Atlas“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B7-17 (Checklisten-Anhang am Bandende) — „8.2 Gäste & Verderb-Atlas“.
 
-- [ ] Atlas bekannt
-- [ ] Schimmel-Regel: Korn/Brot/Nüsse ganz weg
 
 **Querverweise:** siehe Konzept 3.2 (`warn-7a`), siehe Konzept 2.3.
 
@@ -480,11 +412,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. 20–33 % Zugabe für Krankheit, Mehrverbrauch, Verluste.
 3. Gegen Vorrat rechnen (siehe Konzept B2-8.1).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.1 „Winter-Rechnung“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B7-18 (Checklisten-Anhang am Bandende) — „9.1 Winter-Rechnung“.
 
-- [ ] 100 Tage + Zugabe gerechnet
 
 **Querverweise:** siehe Konzept B2-2.1, siehe Konzept 1.2, siehe Konzept 9.2.
 **Erklärung:**
@@ -507,12 +436,8 @@ Konsistent mit Konzept B6-9.x (Band 6): Der Fang/Wildertrag geht zuerst in die S
 1. Keimprobe (siehe Konzept B5-8.3): **< 30 von 50 gekeimt (60 %) → neue Saat**.
 2. **Nie Saatgut essen** — auch nicht in der Not.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.3 „Die Saat“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B7-19 (Checklisten-Anhang am Bandende) — „9.3 Die Saat“.
 
-- [ ] Keimprobe bestanden (≥ 12/20)
-- [ ] Saat getrennt gelagert, nie verzehrt
 
 **Querverweise:** siehe Konzept B5-8.3, siehe Konzept 8.1.
 
@@ -561,6 +486,241 @@ Verfalluhr: 12 Monate ohne Wiederholung = Fähigkeit verfallen (siehe B1-8.2).
 Zeiten) üben; Pökeln mit Ei-Test (5.2); Kammer-Inventur (8.1). Verfalluhr 12 Monate (siehe Konzept B1-8.2).
 
 ---
+
+## Anhang D — Checklisten (Band 7)
+
+Alle Checklisten des Bandes, gesammelt am Bandende. Im Kapiteltext steht jeweils nur der Querverweis „siehe CL-B7-NN“. Aufbau pro Checkliste: Kennziffer + sprechende Bezeichnung + Begriffserläuterung (Mini-Glossar) + bestehende Ziel-Präambel (Zweck/Abnahme) + Punkte.
+
+### CL-B7-01 — 1.1 Grenze des Vorrats
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.1 „Grenze des Vorrats“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Vorratsziel nach Bedarf (siehe Konzept 9.1), nicht nach Angst
+
+### CL-B7-02 — 1.3 Vorrats-Fahrplan (sechs Stationen)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.3 „Vorrats-Fahrplan (sechs Stationen)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Sechs Stationen im Plan
+
+### CL-B7-03 — 3.1 Trocken-Halle
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.1 „Trocken-Halle“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Durchzug vorhanden
+- [ ] Ware nicht gehäuft
+
+### CL-B7-04 — 3.2 Dörrware
+
+**Begriffe (Mini-Glossar):**
+- Preheat = 71 °C Kern vor dem Dörren (warn-7a)
+- Brechprobe = Dörrware bricht spröde (warn-7a)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.2 „Dörrware“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Preheat 71 °C Kern vor dem Dörren
+- [ ] Brechprobe bestanden
+- [ ] Fingerdünn geschnitten
+- [ ] Schimmel → ganz wegwerfen
+
+### CL-B7-05 — 4.1 Räucher-Ofen (Kalt-/Warmgang)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.1 „Räucher-Ofen (Kalt-/Warmgang)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Warmgang: Kern durchgegart
+- [ ] Kaltgeräuchertes zusätzlich gesalzen oder sofort verbraucht
+
+### CL-B7-06 — 4.2 Holz & Rauch
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.2 „Holz & Rauch“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Kein Nadelholz
+- [ ] Hartholz bevorzugt
+
+### CL-B7-07 — 4.3 Wurst
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.3 „Wurst“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Kern ≥ 71 °C bei Brühwurst
+
+### CL-B7-08 — 5.1 Das Salz
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.1 „Das Salz“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Herkunft des Salzes bekannt
+- [ ] Kein Streusalz/Regeneriersalz in Lebensmitteln (siehe auch Konzept B2-3.7, Tausalz-Schnee)
+
+### CL-B7-09 — 5.2 Pökeln (Lake-Ei-Test)
+
+**Begriffe (Mini-Glossar):**
+- Lake-Ei-Test = frisches Ei schwimmt in Pökellake (B7-5.2)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.2 „Pökeln (Lake-Ei-Test)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Ei-Test bestanden
+- [ ] Zeiten eingehalten (Speck 7–10 T; Schinken 1 T/cm + 2 T)
+
+### CL-B7-10 — 6.1 Kraut-Fass (Milchsäure/Lake)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.1 „Kraut-Fass (Milchsäure/Lake)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Luftdicht vergoren
+- [ ] 2–4 Wochen gereift
+
+### CL-B7-11 — 6.2k Einkochen, Öl & Essig
+
+**Begriffe (Mini-Glossar):**
+- psi = Druckeinheit; 10 psi ≈ 0,7 bar, 15 psi ≈ 1,0 bar (B7-6.2k)
+- NCHFP = US-Behörde für Heimkonservierung; Einkoch-Zeiten (B7-6.2k)
+- pH = Säuregrad; > 4,6 = low-acid → Druckkocher-Pflicht (B7-6.2k)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.2k „Einkochen, Öl & Essig“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] pH gemessen (Indikatorpapier) oder konservativ Druckkocher
+- [ ] Druckkocher 116–121 °C, psi nach Höhenlage, NCHFP-Zeiten
+- [ ] Wasserbad nur pH ≤ 4,6
+- [ ] Öl nur gesäuert/getrocknet, kühl, Frist in Tagen
+- [ ] Gewölbte Deckel ungeöffnet weggeworfen
+
+### CL-B7-12 — 6.3 Essig selbst gebraut
+
+**Begriffe (Mini-Glossar):**
+- pH = Säuregrad; > 4,6 = low-acid → Druckkocher-Pflicht (B7-6.2k)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.3 „Essig selbst gebraut“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] pH des fertigen Essigs gemessen (< 4,6)
+
+### CL-B7-13 — 7.1 Schmalz & Talg
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.1 „Schmalz & Talg“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Luftdicht, kühl, dunkel
+- [ ] Ranz-Geruch → wegwerfen
+
+### CL-B7-14 — 7.2 Seife aus Resten
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.2 „Seife aus Resten“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Verhältnis 1:1, Lauge 0,5 l/Pfund
+- [ ] Reife 4–6 Wochen
+
+### CL-B7-15 — 7.3 Gerben (Lohe/Eichenrinde)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.3 „Gerben (Lohe/Eichenrinde)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Schnittprobe braun
+
+### CL-B7-16 — 8.1 Die kalte Kammer (Zonen)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.1 „Die kalte Kammer (Zonen)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Zonen klar getrennt
+- [ ] Temperatur regelmäßig geprüft (siehe Konzept B1-7.4)
+
+### CL-B7-17 — 8.2 Gäste & Verderb-Atlas
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.2 „Gäste & Verderb-Atlas“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Atlas bekannt
+- [ ] Schimmel-Regel: Korn/Brot/Nüsse ganz weg
+
+### CL-B7-18 — 9.1 Winter-Rechnung
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.1 „Winter-Rechnung“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] 100 Tage + Zugabe gerechnet
+
+### CL-B7-19 — 9.3 Die Saat
+
+**Begriffe (Mini-Glossar):**
+- Keimprobe = 50 Körner, Schwelle 30/50 (B5-8.3/B7-9.3)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.3 „Die Saat“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Keimprobe bestanden (≥ 12/20)
+- [ ] Saat getrennt gelagert, nie verzehrt
+
 
 ## Bandabschluss Band 7 — Bewertungsmatrix + Devise
 

@@ -15,11 +15,8 @@ Warnungen umgesetzt: 3.1 `warn-9a` (tödliche Minute beim Fällen), 7.3 `warn-9b
 
 Mache nur, was du **kannst**, wofür **Material** da ist und wofür **Zeit** ist. Sonst: lassen oder üben (siehe Konzept 1.3).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.1 „Grenze des Machens“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B9-01 (Checklisten-Anhang am Bandende) — „1.1 Grenze des Machens“.
 
-- [ ] Können/Material/Zeit vor Arbeitsbeginn geklärt
 
 > **BAUSTEIN:** Erst können, dann Material, dann Zeit — fehlt eines, bleibt die Arbeit liegen.
 
@@ -38,11 +35,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 3. **Halten:** fester Griff, Finger weg vom Schlag/Schnitt.
 4. **Führen:** kurze, kontrollierte Bewegungen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.2 „Werkzeug-Kette“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B9-02 (Checklisten-Anhang am Bandende) — „1.2 Werkzeug-Kette“.
 
-- [ ] Vier Schritte bewusst durchlaufen
 
 **Querverweise:** siehe Konzept 6.2, siehe Konzept B1-6.1.
 **Erklärung:**
@@ -54,11 +48,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 Übe am **Wertlosen**: kaputtes Brett, weiches Holz, alter Nagel. Erst wenn es dort sitzt, am Guten.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.3 „Übestück“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B9-03 (Checklisten-Anhang am Bandende) — „1.3 Übestück“.
 
-- [ ] Übestück vorhanden
 
 **Querverweise:** siehe Konzept 1.1, siehe Konzept 9.2 (Lehrling, Proben).
 
@@ -79,12 +70,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. **CO/Brandgefahr:** nur im Freien oder mit Abzug — siehe Konzept B3-6.3, `warn-3`: keine Verbrennung in geschlossenen Räumen.
 3. **Augenschutz gegen IR/UV:** Schweißschild/Schutzbrille — nie ohne in die Glut sehen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.1 „Schmied-Feuer“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B9-04 (Checklisten-Anhang am Bandende) — „2.1 Schmied-Feuer“.
 
-- [ ] Im Freien/Abzug
-- [ ] Augenschutz getragen
 
 **Querverweise:** siehe Konzept B3-6.3, `warn-3`.
 **Erklärung:**
@@ -98,13 +85,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. Abschrecken: **Öl = milder, weniger Rissgefahr; Wasser = härter, spröder.**
 3. **Anlassen zwingend** (sonst Glasbruch): Anlassfarben als Kontrolle (W29): **Hellstrohgelb ≈ 200 °C (hart) bis Hellblau ≈ 300 °C (weich)** — je nach Werkzeug wählen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.2 „Härten & Anlassen“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B9-05 (Checklisten-Anhang am Bandende) — „2.2 Härten & Anlassen“.
 
-- [ ] Abschreckmedium gewählt (Öl milder / Wasser härter)
-- [ ] Anlassen nicht vergessen (Glasbruch!)
-- [ ] Anlassfarbe kontrolliert
 
 > **BAUSTEIN:** Härten ohne Anlassen ist Glas. Immer anlassen, Farbe lesen.
 
@@ -130,13 +112,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. **UV-Augenschutz** Pflicht (siehe Konzept 2.1).
 3. **Stromschlaggefahr bei Nässe** (elektrisches Schweißen): trockene Handschuhe, isolierende Unterlage.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.4 „Feuerschweißen“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B9-06 (Checklisten-Anhang am Bandende) — „2.4 Feuerschweißen“.
 
-- [ ] Zunder als Flussmittel
-- [ ] UV-Schutz
-- [ ] Übungspflicht erfüllt (s. Konzept B1-8.2)
 
 **Querverweise:** siehe Konzept 2.1, siehe Konzept B1-8.2.
 
@@ -162,13 +139,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 3. Keil einsetzen, Baum kontrolliert kippen lassen.
 4. Sofort auf den Fluchtweg (45° schräg), nie hangabwärts.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.1 „Fällen“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B9-07 (Checklisten-Anhang am Bandende) — „3.1 Fällen“.
 
-- [ ] Untere Kerbe 1/3
-- [ ] Flucht 45° schräg, nie hangabwärts
-- [ ] Sperrzone 2 Stiellängen (siehe Konzept B1-6.2)
 
 > **BAUSTEIN:** Die letzte Minute gehört dem Baum. Steh nie darunter, geh immer seitlich weg.
 
@@ -184,12 +156,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. Keile entlang der Faser einschlagen (siehe Konzept 5.1), Brett abspalten.
 3. **Trocknung: ~1 Jahr je Daumen Dicke** (W28; Fichte 1 J, Buche/Eiche 2 J), luftig stapeln.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.2 „Block → Brett“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B9-08 (Checklisten-Anhang am Bandende) — „3.2 Block → Brett“.
 
-- [ ] Maserung gelesen
-- [ ] Trocknungszeit eingeplant
 
 **Querverweise:** siehe Konzept 5.1, siehe Konzept B3-2.2.
 **Erklärung:**
@@ -222,12 +190,8 @@ Esche und Ahorn: zäh, biegsam, ideal für Stiele (Axt, Hammer, Spaten). Rundlin
 2. Fein: Wetzstein mit Wasser/Öl.
 3. Glatt: Lederriemen abziehen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.1 „Schliff“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B9-09 (Checklisten-Anhang am Bandende) — „4.1 Schliff“.
 
-- [ ] Winkel konstant
-- [ ] Drei Stufen durchlaufen
 
 **Querverweise:** siehe Konzept 4.2, siehe Konzept B1-6.1.
 **Erklärung:**
@@ -239,11 +203,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 Konsistent mit Konzept B1-6.1: nach jedem Gebrauch kurz wetzen — nie stumpf werden lassen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.2 „Schneide halten (Wetz-Takt)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B9-10 (Checklisten-Anhang am Bandende) — „4.2 Schneide halten (Wetz-Takt)“.
 
-- [ ] Wetz-Takt eingehalten
 
 **Querverweise:** siehe Konzept B1-6.1, siehe Konzept 4.1.
 
@@ -262,11 +223,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 **Der Keil folgt der Faser.** 1. Zapfenloch stemmen (Stemmeisen). 2. Zapfen passend sägen. 3. Keil aus Hartholz eintreiben, bündig absägen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.1 „Zapfen / Loch / Keil“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B9-11 (Checklisten-Anhang am Bandende) — „5.1 Zapfen / Loch / Keil“.
 
-- [ ] Keil entlang der Faser
 
 **Querverweise:** siehe Konzept B4-4.2, Sattelkerbe.
 **Erklärung:**
@@ -280,12 +238,8 @@ Konsistent mit Konzept B1-6.3, fünf Serienknoten.
 
 > **WARNUNG (lastendes Seil):** Ein belastetes Seil nie mit dem Messer durchtrennen — es **schlägt zurück**. Seil auslaufen lassen, dann trennen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.2 „Seil & Knoten“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B9-12 (Checklisten-Anhang am Bandende) — „5.2 Seil & Knoten“.
 
-- [ ] Knoten aus Konzept B1-6.3
-- [ ] Lastendes Seil nie durchschnitten
 
 **Querverweise:** siehe Konzept B1-6.3, siehe Konzept B5-7.2, Bastseil.
 **Erklärung:**
@@ -315,11 +269,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 **Fester Ort für jedes Ding.** Nach Gebrauch zurück — sonst suchen alle.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.1 „Werkstatt-Ordnung“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B9-13 (Checklisten-Anhang am Bandende) — „6.1 Werkstatt-Ordnung“.
 
-- [ ] Werkzeugwand/-kiste beschriftet
 
 **Querverweise:** siehe Konzept 8.1, siehe Konzept 6.2.
 **Erklärung:**
@@ -331,11 +282,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 **Schaden lesen, dann flicken:** erst die Ursache finden (Riss, Abrieb, Naht), dann passende Reparatur (Flicken, Stopfen, neue Naht — siehe Konzept B4-7.2, Nadel & Faden).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.2 „Flicken als Methode“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B9-14 (Checklisten-Anhang am Bandende) — „6.2 Flicken als Methode“.
 
-- [ ] Ursache gelesen vor dem Flicken
 
 **Querverweise:** siehe Konzept B4-7.2, siehe Konzept B4-8.2, Verfallsdatum.
 
@@ -354,11 +302,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 Konsistent mit Konzept B7-8.1, kalte Kammer: Zonen, trocken, dunkel, gelüftet, Gäste fern (Mäuse — Fallen siehe Konzept 6.5.1a Band 6).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.1 „Kammer“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B9-15 (Checklisten-Anhang am Bandende) — „7.1 Kammer“.
 
-- [ ] Zonen eingehalten
 
 **Querverweise:** siehe Konzept B7-8.1, siehe Konzept B6-5.1a.
 **Erklärung:**
@@ -372,12 +317,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. Durchseihen, in Form gießen.
 3. Haltbarkeit **~1 Woche** — frisch ansetzen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.2 „Selbst gemachter Leim“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B9-16 (Checklisten-Anhang am Bandende) — „7.2 Selbst gemachter Leim“.
 
-- [ ] Nie sieden
-- [ ] Haltbarkeit ~1 Wo beachtet
 
 **Querverweise:** siehe Konzept B6-9.3, Knochen, siehe Konzept 5.1.
 **Erklärung:**
@@ -393,12 +334,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. Werkzeuge ölen (siehe Konzept B1-6.1).
 3. Ölige Lappen nach warn-9b behandeln.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.3 „Riemen / Fett / Öl“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B9-17 (Checklisten-Anhang am Bandende) — „7.3 Riemen / Fett / Öl“.
 
-- [ ] Lappen ausgebreitet getrocknet oder im Metallbehälter mit Wasser
-- [ ] Nie Öl in Wassereimer
 
 > **BAUSTEIN:** Leinöl wärmt von allein. Zerknüllt im Eimer wird der Eimer zur Bombe.
 
@@ -425,12 +362,8 @@ Konsistent mit Traglast (W20, siehe Konzept B1-6.5): **≤ ¼ Körpergewicht**.
 | 2 (Mitte) | Messer, Hobel, Bohrer, Zange |
 | 3 (oben, leicht) | Nägel, Schrauben, Seil, Schleifstein, **Fleischthermometer** (Kerntemperatur ≥ 71 °C, siehe B6-9.1/B7-3.2) |
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.1 „Die Kiste (3 Schichten, ≤ ¼ Körpergewicht)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B9-18 (Checklisten-Anhang am Bandende) — „8.1 Die Kiste (3 Schichten, ≤ ¼ Körpergewicht)“.
 
-- [ ] ≤ ¼ Körpergewicht gewogen (siehe Konzept B1-6.5)
-- [ ] Drei Schichten gepackt
 
 **Querverweise:** siehe Konzept B1-6.5, siehe Konzept B1-3.2, Rucksack.
 **Erklärung:**
@@ -461,11 +394,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 1. **Zeigen**, 2. **Tun lassen** (unter Aufsicht), 3. **Zeile ziehen** (Kontrolle/Schnittprobe).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.1 „Weitergabe am Werkstück (dreifach gesichert)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B9-19 (Checklisten-Anhang am Bandende) — „9.1 Weitergabe am Werkstück (dreifach gesichert)“.
 
-- [ ] Drei Stufen durchlaufen
 
 **Querverweise:** siehe Konzept 9.2, siehe Konzept 1.3.
 **Erklärung:**
@@ -477,11 +407,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 1. **Hand:** sauber arbeiten. 2. **Ordnung:** Werkzeug zurück (siehe Konzept 6.1). 3. **Geduld:** Übestück-Prinzip (siehe Konzept 1.3). 4. **Wahrheit:** Fehler melden, nicht vertuschen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.2 „Lehrling (4 Proben: Hand/Ordnung/Geduld/Wahrheit)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B9-20 (Checklisten-Anhang am Bandende) — „9.2 Lehrling (4 Proben: Hand/Ordnung/Geduld/Wahrheit)“.
 
-- [ ] Vier Proben bestanden
 
 **Querverweise:** siehe Konzept 1.3, siehe Konzept 6.1, siehe Konzept B10-9.1, Vermächtnis/Weitergabe.
 
@@ -528,6 +455,244 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 Verfalluhr: 12 Monate ohne Wiederholung = Fähigkeit verfallen (siehe B1-8.2).
 
 ---
+
+## Anhang D — Checklisten (Band 9)
+
+Alle Checklisten des Bandes, gesammelt am Bandende. Im Kapiteltext steht jeweils nur der Querverweis „siehe CL-B9-NN“. Aufbau pro Checkliste: Kennziffer + sprechende Bezeichnung + Begriffserläuterung (Mini-Glossar) + bestehende Ziel-Präambel (Zweck/Abnahme) + Punkte.
+
+### CL-B9-01 — 1.1 Grenze des Machens
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.1 „Grenze des Machens“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Können/Material/Zeit vor Arbeitsbeginn geklärt
+
+### CL-B9-02 — 1.2 Werkzeug-Kette
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.2 „Werkzeug-Kette“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Vier Schritte bewusst durchlaufen
+
+### CL-B9-03 — 1.3 Übestück
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.3 „Übestück“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Übestück vorhanden
+
+### CL-B9-04 — 2.1 Schmied-Feuer
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.1 „Schmied-Feuer“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Im Freien/Abzug
+- [ ] Augenschutz getragen
+
+### CL-B9-05 — 2.2 Härten & Anlassen
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.2 „Härten & Anlassen“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Abschreckmedium gewählt (Öl milder / Wasser härter)
+- [ ] Anlassen nicht vergessen (Glasbruch!)
+- [ ] Anlassfarbe kontrolliert
+
+### CL-B9-06 — 2.4 Feuerschweißen
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.4 „Feuerschweißen“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Zunder als Flussmittel
+- [ ] UV-Schutz
+- [ ] Übungspflicht erfüllt (s. Konzept B1-8.2)
+
+### CL-B9-07 — 3.1 Fällen
+
+**Begriffe (Mini-Glossar):**
+- Sperrzone = 2 Stiellängen um schwingendes Werkzeug (B1-6.2, warn-9a)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.1 „Fällen“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Untere Kerbe 1/3
+- [ ] Flucht 45° schräg, nie hangabwärts
+- [ ] Sperrzone 2 Stiellängen (siehe Konzept B1-6.2)
+
+### CL-B9-08 — 3.2 Block → Brett
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.2 „Block → Brett“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Maserung gelesen
+- [ ] Trocknungszeit eingeplant
+
+### CL-B9-09 — 4.1 Schliff
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.1 „Schliff“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Winkel konstant
+- [ ] Drei Stufen durchlaufen
+
+### CL-B9-10 — 4.2 Schneide halten (Wetz-Takt)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.2 „Schneide halten (Wetz-Takt)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Wetz-Takt eingehalten
+
+### CL-B9-11 — 5.1 Zapfen / Loch / Keil
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.1 „Zapfen / Loch / Keil“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Keil entlang der Faser
+
+### CL-B9-12 — 5.2 Seil & Knoten
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.2 „Seil & Knoten“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Knoten aus Konzept B1-6.3
+- [ ] Lastendes Seil nie durchschnitten
+
+### CL-B9-13 — 6.1 Werkstatt-Ordnung
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.1 „Werkstatt-Ordnung“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Werkzeugwand/-kiste beschriftet
+
+### CL-B9-14 — 6.2 Flicken als Methode
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.2 „Flicken als Methode“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Ursache gelesen vor dem Flicken
+
+### CL-B9-15 — 7.1 Kammer
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.1 „Kammer“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Zonen eingehalten
+
+### CL-B9-16 — 7.2 Selbst gemachter Leim
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.2 „Selbst gemachter Leim“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Nie sieden
+- [ ] Haltbarkeit ~1 Wo beachtet
+
+### CL-B9-17 — 7.3 Riemen / Fett / Öl
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.3 „Riemen / Fett / Öl“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Lappen ausgebreitet getrocknet oder im Metallbehälter mit Wasser
+- [ ] Nie Öl in Wassereimer
+
+### CL-B9-18 — 8.1 Die Kiste (3 Schichten, ≤ ¼ Körpergewicht)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.1 „Die Kiste (3 Schichten, ≤ ¼ Körpergewicht)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] ≤ ¼ Körpergewicht gewogen (siehe Konzept B1-6.5)
+- [ ] Drei Schichten gepackt
+
+### CL-B9-19 — 9.1 Weitergabe am Werkstück (dreifach gesichert)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.1 „Weitergabe am Werkstück (dreifach gesichert)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Drei Stufen durchlaufen
+
+### CL-B9-20 — 9.2 Lehrling (4 Proben: Hand/Ordnung/Geduld/Wahrheit)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.2 „Lehrling (4 Proben: Hand/Ordnung/Geduld/Wahrheit)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Vier Proben bestanden
+
 
 ## Bandabschluss Band 9 — Bewertungsmatrix + Devise
 

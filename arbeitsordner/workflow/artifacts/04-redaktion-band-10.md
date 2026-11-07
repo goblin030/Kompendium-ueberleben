@@ -15,12 +15,8 @@ Warnungen umgesetzt: 5.1 `warn-10a` (Furt), 7.1 `warn-10b` (Brand im Zeughaus). 
 
 **Gabe nie mahnen** — eine Gabe bleibt Gabe. Schuld mit Frist am Blatt (siehe Konzept 1.2).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.1 „Schuld & Geschenk“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B10-01 (Checklisten-Anhang am Bandende) — „1.1 Schuld & Geschenk“.
 
-- [ ] Gaben nicht eingefordert
-- [ ] Schulden mit Frist schriftlich
 
 > **BAUSTEIN:** Ein Geschenk, das gemahnt wird, ist eine Rechnung. Nur eine davon bleibt freiwillig.
 
@@ -34,12 +30,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 **Zwei Zeugen + Frist** — mündlich gilt, schriftlich hält. Protokoll: Anhang A Band 10 (Tausch-Protokoll mit Zeugen).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.2 „Wort & Vertrag“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B10-02 (Checklisten-Anhang am Bandende) — „1.2 Wort & Vertrag“.
 
-- [ ] Zwei Zeugen dabei
-- [ ] Frist notiert
 
 **Querverweise:** siehe Konzept 2.3, siehe Anhang A.
 **Erklärung:**
@@ -51,11 +43,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 Gäste sitzen auf dem Ehrenplatz (wärmster/sicherster Platz, beste Portion). Gastgeber isst zuletzt.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.3 „Das Mahl (Ehren-Platz-Regel)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B10-03 (Checklisten-Anhang am Bandende) — „1.3 Das Mahl (Ehren-Platz-Regel)“.
 
-- [ ] Ehrenplatz-Regel bekannt
 
 **Querverweise:** siehe Konzept 5.2.
 
@@ -78,11 +67,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. Seltenheit: was nicht verfügbar ist, steigt.
 3. Not: in der Not zählt der Bedarf, nicht der Preis (siehe Konzept 2.4).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.1 „Der Wert“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B10-04 (Checklisten-Anhang am Bandende) — „2.1 Der Wert“.
 
-- [ ] Korridor angewendet
 
 **Querverweise:** siehe Konzept B1-7.1, siehe Konzept 2.2, siehe Konzept 2.4, siehe Konzept 3.2.
 **Erklärung:**
@@ -94,12 +80,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 **Gestriche n messen** (randvoll, nicht gehäuft); **Bürger-Maß** (bekanntes Gefäß als Referenz). Waage balanciert prüfen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.2 „Ehrliche Waage“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B10-05 (Checklisten-Anhang am Bandende) — „2.2 Ehrliche Waage“.
 
-- [ ] Gestrichen gemessen
-- [ ] Referenzmaß geeicht
 
 **Querverweise:** siehe Konzept 2.1.
 **Erklärung:**
@@ -111,12 +93,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 Markt mit **Fristen** (Anfang/Ende angesagt); Ordnung aufrechterhalten (Wachen, siehe Konzept B3-9.3 und Konzept B1-9.2).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.3 „Tausch-Platz“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B10-06 (Checklisten-Anhang am Bandende) — „2.3 Tausch-Platz“.
 
-- [ ] Markt-Fristen angesagt
-- [ ] Ordnungsposten besetzt
 
 **Querverweise:** siehe Konzept B3-9.3, siehe Konzept B1-9.2, siehe Konzept 4.1.
 **Erklärung:**
@@ -130,12 +108,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 > **Rechtlich:** **§ 291 StGB** (Wucher strafbar bei Ausbeutung der Zwangslage + krassem Missverhältnis), **§ 138 Abs. 2 BGB** (Sittenwidrigkeit → Nichtigkeit). Leitlinie: Tausch vor Behalten, faire Korridore (siehe Konzept 2.1).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.4 „Wucher“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B10-07 (Checklisten-Anhang am Bandende) — „2.4 Wucher“.
 
-- [ ] Not-Preis nur nach der Not
-- [ ] §§ 291 StGB / 138 Abs. 2 BGB bekannt
 
 **Querverweise:** siehe Konzept 2.1, siehe Konzept 1.1.
 
@@ -154,11 +128,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 Nur **haltbare Ware** handeln (siehe Band 7, sechs Wege, Konzept B7-2.2): Dörrware, Gesalzenes, Eingekochtes (siehe Konzept B7-6.2k), Getreide, Salz (Herkunft bekannt, siehe Konzept B7-5.1 `warn-7c`).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.1 „Ware des Hauses“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B10-08 (Checklisten-Anhang am Bandende) — „3.1 Ware des Hauses“.
 
-- [ ] Nur haltbare Ware
 
 **Querverweise:** siehe Konzept B7-2.2, siehe Konzept B7-6.2k, siehe Konzept B7-5.1.
 **Erklärung:**
@@ -170,11 +141,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 **Stunden-Tafel 1:1** — eine Stunde Arbeit gegen eine Stunde Ware (siehe Konzept 2.1).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.2 „Ware der Hand“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B10-09 (Checklisten-Anhang am Bandende) — „3.2 Ware der Hand“.
 
-- [ ] Stunden-Tafel geführt
 
 **Querverweise:** siehe Konzept 2.1, siehe Konzept B9-9.1, Weitergabe.
 
@@ -195,12 +163,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 **Stadt / Land:** Land = Dorfgemeinschaft auf dem Land. **Stadt:** dasselbe auf Nachbarschaft/Stockwerk — Rat der Nachbarn (siehe 4.2), Ämter rotieren pro Haushalt, Tauschplatz im Treppenhaus oder Hof (siehe 2.3), gemeinsamer Vorrat im kühlen Treppenhaus (siehe B7-8.1), Wachplan für das Haus (siehe B1-9.2).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.1 „Ämter des Dorfes“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B10-10 (Checklisten-Anhang am Bandende) — „4.1 Ämter des Dorfes“.
 
-- [ ] Ämter vergeben und doppelt besetzt
-- [ ] Rotation geplant
 
 **Querverweise:** siehe Konzept B1-9.2.
 **Erklärung:**
@@ -214,13 +178,8 @@ Streit nach **Klage und Zeugen** (siehe Konzept 1.2), **nie Rache**.
 
 > **Rechtlich (09 §4.6):** **Notwehr nur § 32 StGB** — bei gegenwärtigem rechtswidrigem Angriff und verhältnismäßig. **Selbstjustiz strafbar.** Keine Präventivgewalt, keine Rachegewalt.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.2 „Rat & Streit“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B10-11 (Checklisten-Anhang am Bandende) — „4.2 Rat & Streit“.
 
-- [ ] Klage + Zeugen vor Entscheidung
-- [ ] Nie Rache
-- [ ] § 32 StGB bekannt
 
 > **BAUSTEIN:** Der Rat spricht nach Klage und Zeugen. Wer allein richtet, begeht Selbstjustiz.
 
@@ -234,11 +193,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 **Aus voller Kammer, nie aus der Not** — der Zehnte (10 %) der Erträge geht in die Reserve (siehe Konzept B7-9.1, Winter-Rechnung).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.3 „Reserve: der Zehnte“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B10-12 (Checklisten-Anhang am Bandende) — „4.3 Reserve: der Zehnte“.
 
-- [ ] Zehnte aus voller Kammer
 
 **Querverweise:** siehe Konzept B7-9.1, siehe Konzept 8.3.
 
@@ -257,13 +213,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 > **WARNRAHMEN [warn-10a] — FURT:** **Stab an 3 Stellen prüfen** (Tiefe, Grund, Strömung), **nie über Kniehöhe mit Last** durchwaten, **nie im Dunkeln** (siehe Konzept B4-9.2, Restlicht-1-h). Umgehung suchen, wenn eine Stelle zweifelhaft ist.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.1 „Weg-Kunde / Furt“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B10-13 (Checklisten-Anhang am Bandende) — „5.1 Weg-Kunde / Furt“.
 
-- [ ] Stab-Prüfung an 3 Stellen
-- [ ] Nie über Knie mit Last
-- [ ] Nie im Dunkeln
 
 > **BAUSTEIN:** Die Furt prüfst du mit dem Stab dreimal — und im Dunkeln gar nicht.
 
@@ -282,13 +233,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 > **Rechtlich (09 §4.6):** **Notstand §§ 34/35 StGB** — Eigentumseingriff bei Lebensgefahr ist gerechtfertigt/entschuldigt (siehe Konzept B4-8.1). **Hausrecht § 123 StGB** — Eindringen in Wohnungen verboten, Abwehr erlaubt. **Keine Präventivgewalt.** Deeskalation zuerst (siehe Konzept 4.2).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.2 „Gast & Fremder“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B10-14 (Checklisten-Anhang am Bandende) — „5.2 Gast & Fremder“.
 
-- [ ] Nie allein empfangen
-- [ ] Mitgebrachtes geprüft
-- [ ] §§ 34/35/123 StGB bekannt
 
 **Querverweise:** siehe Konzept 4.2, siehe Konzept B4-8.1, siehe Konzept 1.1 (Gast-Ethik).
 **Erklärung:**
@@ -300,12 +246,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 **Einer vorn, einer hinten** — nie allein los (siehe Konzept B1-5.2, +60-min-Regel).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.3 „Trupp“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B10-15 (Checklisten-Anhang am Bandende) — „5.3 Trupp“.
 
-- [ ] Trupp doppelt besetzt
-- [ ] +60-min-Regel aktiv (siehe Konzept B1-5.2)
 
 **Querverweise:** siehe Konzept B1-5.2.
 
@@ -328,12 +270,8 @@ Die Feuerprobe prüft **alle Bände 1–9** im Ring der Reihe (jedes Konzept wir
 2. Wer eine Frage nicht beantworten kann, übt nach (siehe Konzept B1-8.2, Verfalluhr 12 Monate).
 3. Ergebnis im Protokoll (siehe Konzept B1-9.1).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.1 „Feuerprobe (Ring der Reihe)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B10-16 (Checklisten-Anhang am Bandende) — „6.1 Feuerprobe (Ring der Reihe)“.
 
-- [ ] Alle 9 Bände durchgeprüft
-- [ ] Lücken als Übungspflicht notiert (siehe Konzept B1-8.2)
 
 > **BAUSTEIN:** Was die Feuerprobe nicht besteht, fliegt aus dem Kopf — bis du es wieder übst.
 
@@ -347,11 +285,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 **Zwei Nachbarn zeugen** die Werkstatt-Prüfung (siehe Konzept B9-9.1, Weitergabe dreifach gesichert).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.2 „Prüfung der Werkstatt“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B10-17 (Checklisten-Anhang am Bandende) — „6.2 Prüfung der Werkstatt“.
 
-- [ ] Zwei Zeugen anwesend
 
 **Querverweise:** siehe Konzept B9-9.1.
 
@@ -370,14 +305,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 > **WARNRAHMEN [warn-10b] — BRAND IM ZEUGHAUS:** **Kein offenes Licht** im Zeughaus (Lampe außen oder elektrisch nicht vorhanden — Kerze/Laterne nur am Eingang). **Ofen außen**, Eimer mit Wasser am Eingang (siehe Konzept B3-9.1). Abstände konsistent mit Konzept B3-1.2: 2–3 m frei, 4–6 m zu Unterkünften.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.1 „Zeug-Haus“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B10-18 (Checklisten-Anhang am Bandende) — „7.1 Zeug-Haus“.
 
-- [ ] Kein offenes Licht innen
-- [ ] Ofen außen
-- [ ] Eimer am Eingang
-- [ ] Abstände (siehe Konzept B3-1.2)
 
 **Querverweise:** siehe Konzept B3-1.2, siehe Konzept B3-9.1, siehe Konzept 5.2 (Waffen ablegen).
 **Erklärung:**
@@ -389,11 +318,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 Vier Schichten der Bewahrung: **1. geschriebene Kopie, 2. verlesene mündliche Überlieferung, 3. eingeübte Praxis (siehe Konzept B1-8.2), 4. Vermächtnis (siehe Konzept 9.1)**.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.2 „Abschreiben & Bewahren (vier Schichten)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B10-19 (Checklisten-Anhang am Bandende) — „7.2 Abschreiben & Bewahren (vier Schichten)“.
 
-- [ ] Vier Schichten vorhanden
 
 **Querverweise:** siehe Konzept B1-8.2, siehe Konzept 9.1.
 
@@ -432,11 +358,8 @@ Vermächtnis wird **verlesen** (siehe Konzept 9.1) — mündlich und schriftlich
 
 **Ration im Herbst gesetzt** (siehe Konzept B7-9.1, Winter-Rechnung 100 Tage + 20–33 %). Entscheidung im Rat (siehe Konzept 4.2), nicht allein.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.3 „Die harte Zeit“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B10-20 (Checklisten-Anhang am Bandende) — „8.3 Die harte Zeit“.
 
-- [ ] Ration im Herbst beschlossen
 
 **Querverweise:** siehe Konzept B7-9.1, siehe Konzept 4.2, siehe Konzept 4.3.
 
@@ -457,12 +380,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. **Verlesen** vor der Gruppe (siehe Konzept 8.2).
 3. Kopie in die vier Schichten (siehe Konzept 7.2).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.1 „Vermächtnis (geschrieben + verlesen)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B10-21 (Checklisten-Anhang am Bandende) — „9.1 Vermächtnis (geschrieben + verlesen)“.
 
-- [ ] Vermächtnis-Blatt geführt
-- [ ] Verlesen protokolliert
 
 **Querverweise:** siehe Konzept 7.2, siehe Konzept 8.2, siehe Konzept B9-9.2, Lehrling.
 **Erklärung:**
@@ -534,6 +453,261 @@ Pro Band Kernfragen (Stichprobe, erweiterbar):
 - **B9:** Flucht 45°, nie hangabwärts (3.1, `warn-9a`)? Anlassen nach dem Härten (2.2)? Leinöl-Lappen-Regel (7.3, `warn-9b`)?
 
 ---
+
+## Anhang D — Checklisten (Band 10)
+
+Alle Checklisten des Bandes, gesammelt am Bandende. Im Kapiteltext steht jeweils nur der Querverweis „siehe CL-B10-NN“. Aufbau pro Checkliste: Kennziffer + sprechende Bezeichnung + Begriffserläuterung (Mini-Glossar) + bestehende Ziel-Präambel (Zweck/Abnahme) + Punkte.
+
+### CL-B10-01 — 1.1 Schuld & Geschenk
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.1 „Schuld & Geschenk“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Gaben nicht eingefordert
+- [ ] Schulden mit Frist schriftlich
+
+### CL-B10-02 — 1.2 Wort & Vertrag
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.2 „Wort & Vertrag“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Zwei Zeugen dabei
+- [ ] Frist notiert
+
+### CL-B10-03 — 1.3 Das Mahl (Ehren-Platz-Regel)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.3 „Das Mahl (Ehren-Platz-Regel)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Ehrenplatz-Regel bekannt
+
+### CL-B10-04 — 2.1 Der Wert
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.1 „Der Wert“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Korridor angewendet
+
+### CL-B10-05 — 2.2 Ehrliche Waage
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.2 „Ehrliche Waage“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Gestrichen gemessen
+- [ ] Referenzmaß geeicht
+
+### CL-B10-06 — 2.3 Tausch-Platz
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.3 „Tausch-Platz“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Markt-Fristen angesagt
+- [ ] Ordnungsposten besetzt
+
+### CL-B10-07 — 2.4 Wucher
+
+**Begriffe (Mini-Glossar):**
+- Strafgesetzbuch; § 32 Notwehr, §§ 34/35 Notstand, § 123 Hausrecht, § 291 Wucher
+- Bürgerliches Gesetzbuch; § 138 Abs. 2 Nichtigkeit
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.4 „Wucher“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Not-Preis nur nach der Not
+- [ ] §§ 291 StGB / 138 Abs. 2 BGB bekannt
+
+### CL-B10-08 — 3.1 Ware des Hauses
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.1 „Ware des Hauses“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Nur haltbare Ware
+
+### CL-B10-09 — 3.2 Ware der Hand
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.2 „Ware der Hand“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Stunden-Tafel geführt
+
+### CL-B10-10 — 4.1 Ämter des Dorfes
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.1 „Ämter des Dorfes“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Ämter vergeben und doppelt besetzt
+- [ ] Rotation geplant
+
+### CL-B10-11 — 4.2 Rat & Streit
+
+**Begriffe (Mini-Glossar):**
+- Strafgesetzbuch; § 32 Notwehr, §§ 34/35 Notstand, § 123 Hausrecht, § 291 Wucher
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.2 „Rat & Streit“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Klage + Zeugen vor Entscheidung
+- [ ] Nie Rache
+- [ ] § 32 StGB bekannt
+
+### CL-B10-12 — 4.3 Reserve: der Zehnte
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.3 „Reserve: der Zehnte“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Zehnte aus voller Kammer
+
+### CL-B10-13 — 5.1 Weg-Kunde / Furt
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.1 „Weg-Kunde / Furt“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Stab-Prüfung an 3 Stellen
+- [ ] Nie über Knie mit Last
+- [ ] Nie im Dunkeln
+
+### CL-B10-14 — 5.2 Gast & Fremder
+
+**Begriffe (Mini-Glossar):**
+- Strafgesetzbuch; § 32 Notwehr, §§ 34/35 Notstand, § 123 Hausrecht, § 291 Wucher
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.2 „Gast & Fremder“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Nie allein empfangen
+- [ ] Mitgebrachtes geprüft
+- [ ] §§ 34/35/123 StGB bekannt
+
+### CL-B10-15 — 5.3 Trupp
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.3 „Trupp“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Trupp doppelt besetzt
+- [ ] +60-min-Regel aktiv (siehe Konzept B1-5.2)
+
+### CL-B10-16 — 6.1 Feuerprobe (Ring der Reihe)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.1 „Feuerprobe (Ring der Reihe)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Alle 9 Bände durchgeprüft
+- [ ] Lücken als Übungspflicht notiert (siehe Konzept B1-8.2)
+
+### CL-B10-17 — 6.2 Prüfung der Werkstatt
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.2 „Prüfung der Werkstatt“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Zwei Zeugen anwesend
+
+### CL-B10-18 — 7.1 Zeug-Haus
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.1 „Zeug-Haus“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Kein offenes Licht innen
+- [ ] Ofen außen
+- [ ] Eimer am Eingang
+- [ ] Abstände (siehe Konzept B3-1.2)
+
+### CL-B10-19 — 7.2 Abschreiben & Bewahren (vier Schichten)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.2 „Abschreiben & Bewahren (vier Schichten)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Vier Schichten vorhanden
+
+### CL-B10-20 — 8.3 Die harte Zeit
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.3 „Die harte Zeit“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Ration im Herbst beschlossen
+
+### CL-B10-21 — 9.1 Vermächtnis (geschrieben + verlesen)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.1 „Vermächtnis (geschrieben + verlesen)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Vermächtnis-Blatt geführt
+- [ ] Verlesen protokolliert
+
 
 ## Bandabschluss Band 10 — Bewertungsmatrix + Devise
 

@@ -62,9 +62,7 @@ _Nie ohne Wache._ Ein unbeaufsichtigtes Feuer ist eine Brandquelle, keine Wärme
 + Feuer nur an freigegebenem Feuerplatz (siehe Konzept 1.2).
 + Feuerwache immer doppelt besetzt — siehe Konzept 9.3 und Konzept B1-9.2.
 + Glut-Botschaft wird angeboten, nie verlangt (siehe Konzept 3.5).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.1 „Feuerethik“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Wache eingeteilt
-- [ ] Feuerplatz freigegeben
+_Checkliste:_ siehe CL-B3-01, Anhang S. #refpage(<cl-b3-01>) (Checklisten-Anhang am Bandende) — „1.1 Feuerethik“.
 #baustein[Feuer ohne Wache ist Feind. Wache ohne Feuer ist nur kalt.]
 _Querverweise:_ siehe Konzept 1.2, siehe Konzept 9.3, siehe Konzept B1-9.2, siehe Konzept 3.5. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Ohne Wache breitet sich ein kleines Feuer in Minuten zu einem Flächenbrand aus (Funkenflug, umfallende Glut). Die Zwei-Personen-Regel (9.3) sichert, dass immer jemand löschen kann.
@@ -125,26 +123,10 @@ _Querverweise:_ siehe Konzept 1.2, siehe Konzept 9.3, siehe Konzept B1-9.2, sieh
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Nie ohne Wache.], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -267,10 +249,7 @@ Maße (konsistent mit B4-1.2 und B10-7.1): _30 cm rundum entkernen_, _2–3 m 
 + Freihaltezone 2–3 m markieren.
 + Zelte/Hütten erst in 4–6 m Entfernung aufschlagen (siehe Konzept B4-1.2).
 _Stadt / Land:_ Land = Außenplatz nach diesen Maßen. _Stadt (Wohnung):_ _kein offenes Feuer in der Wohnung_ — CO-Vergiftung (`warn-3`, siehe 6.3). Erlaubt: Balkon nur nach Hausordnung und nur mit Holzkohle-Eimer auf nichtbrennbarem Untergrund, nie unbeaufsichtigt; in der Wohnung nur Spiritus-/Gaskocher mit _Fenster offen_ (Durchzug) und nie über Nacht — siehe 6.3.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.2 „Feuerplatz / Zonenplan“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] 30 cm entkernt
-- [ ] 2–3 m frei
-- [ ] 4–6 m zu Zelten
+_Checkliste:_ siehe CL-B3-02, Anhang S. #refpage(<cl-b3-02>) (Checklisten-Anhang am Bandende) — „1.2 Feuerplatz / Zonenplan“.
 #baustein[Stein unter dem Feuer, Freiraum um das Feuer, Abstand zum Zelt.]
 _Querverweise:_ siehe Konzept B4-1.2, siehe Konzept B10-7.1, Zeughaus `warn-10b`.
 #subhead[Ablauf mit Kontrollkästchen]
@@ -347,26 +326,10 @@ _Querverweise:_ siehe Konzept B4-1.2, siehe Konzept B10-7.1, Zeughaus `warn-10b`
   [Stadt (Wohnung):], [siehe Glossar, Anhang D Band 1],
   [kein offenes Feuer in der Wohnung], [siehe Glossar, Anhang D Band 1],
   [Fenster offen], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -502,9 +465,7 @@ Feuer braucht _Brennstoff + Sauerstoff + Wärme_ — als vierter Faktor die _Feu
 + Zündkette: Zündquelle → Zunder → Faschholz → Kleinholz → Scheit (siehe Konzept 4.1).
 + Feuchte vor dem Bau prüfen: nasses Holz trocknen oder spalten (trockenes Kernholz).
 + Ein fehlendes Dreieck-Element = kein Feuer.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.1 „Feuerdreieck & Zündkette“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Alle drei Elemente vorhanden
-- [ ] Feuchte des Brennstoffs geprüft
+_Checkliste:_ siehe CL-B3-03, Anhang S. #refpage(<cl-b3-03>) (Checklisten-Anhang am Bandende) — „2.1 Feuerdreieck & Zündkette“.
 _Querverweise:_ siehe Konzept 4.1, siehe Konzept 2.2. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Feuer braucht Brennstoff + Sauerstoff + Wärme; die Zündkette vergrößert die Oberfläche schrittweise (Zunder → Faschholz → Scheit), damit die Glut nicht erstickt. Feuchte ist der vierte, oft vergessene Faktor.
 - _Situationsvarianten (wann welche):_ Trockenes Holz: direkte Kette. Feuchtes Holz: Kernholz spalten, trocknen. Winter: Zunder trocken am Körper (3.2).
@@ -565,25 +526,9 @@ _Querverweise:_ siehe Konzept 4.1, siehe Konzept 2.2. _Erklärung:_
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Brennstoff + Sauerstoff + Wärme], [siehe Glossar, Anhang D Band 1],
   [Feuchte], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -710,9 +655,7 @@ Werte : _1 Ster ≈ 300–350 kg_ — das ist der konservative Wert für Fichte
   [Nadelholz], [Funkenflug — nie offenes Feuer ohne Schutz; zum Räuchern verboten (siehe Konzept B7-4.2)],
   [Trockenheit], [\~1 Jahr je Daumendicke (siehe Konzept B9-3.2)],
 )
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.2 „Brennstoffkunde“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Hartholz für Glut, Weichholz zum Anzünden
-- [ ] Trockenzeiten beachtet
+_Checkliste:_ siehe CL-B3-04, Anhang S. #refpage(<cl-b3-04>) (Checklisten-Anhang am Bandende) — „2.2 Brennstoffkunde“.
 _Querverweise:_ siehe Konzept 7.1, siehe Konzept B9-3.2, siehe Konzept B7-4.2.
 #subhead[Material & Maß (aus diesem Konzept)]
 #table(
@@ -762,25 +705,9 @@ _Querverweise:_ siehe Konzept 7.1, siehe Konzept B9-3.2, siehe Konzept B7-4.2.
   [1 Ster ≈ 300–350 kg], [siehe Glossar, Anhang D Band 1],
   [Buche/Eiche ≈ 400–500 kg pro Ster], [siehe Glossar, Anhang D Band 1],
   [25–35 kg], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -918,9 +845,7 @@ Drei Sets an drei Orten: _am Körper_ (Tasche), _im Rucksack_ (siehe Konzept B1-
 + Set = Feuerzeug + Feuerstahl + wasserdichte Dose mit Zunder.
 + _Monatsprobe:_ jedes Set einmal im Monat testen.
 + Nie alle Zündquellen an einem Ort.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.1 „Zündquellen-Inventar (3 Sets + Monatsprobe)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] 3 Sets verteilt
-- [ ] Monatsprobe im Protokoll (siehe Konzept B1-8.2)
+_Checkliste:_ siehe CL-B3-05, Anhang S. #refpage(<cl-b3-05>) (Checklisten-Anhang am Bandende) — „3.1 Zündquellen-Inventar (3 Sets + Monatsprobe)“.
 #baustein[Drei Sets, drei Orte, monatlich geprüft.]
 _Querverweise:_ siehe Konzept B1-3.2, siehe Konzept 3.2 (Zundermulm), siehe Konzept B1-8.2. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Mehrere redundante Zündquellen an getrennten Orten überleben Wasser, Verlust, Defekt einzeln. Die Monatsprobe stellt sicher, dass jedes Set funktioniert, bevor es gebraucht wird.
@@ -983,26 +908,10 @@ _Querverweise:_ siehe Konzept B1-3.2, siehe Konzept 3.2 (Zundermulm), siehe Konz
   [am Körper], [siehe Glossar, Anhang D Band 1],
   [im Rucksack], [siehe Glossar, Anhang D Band 1],
   [am Lager], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -1122,9 +1031,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 + _Zundernest am Körper wärmen_ (Tasche) — kalter Zunder nimmt keine Funken.
 + Feuerstahl mit der scharfen Kante Funken in den Zunder schlagen, Richtung nach unten.
 + Nest zur Glut blasen (siehe Konzept 4.1).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.2 „Feuerstahl & Zundermulm“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Zunder trocken und warm
-- [ ] Funkenrichtung in den Zunder
+_Checkliste:_ siehe CL-B3-06, Anhang S. #refpage(<cl-b3-06>) (Checklisten-Anhang am Bandende) — „3.2 Feuerstahl & Zundermulm“.
 _Querverweise:_ siehe Konzept 4.1, siehe Konzept 3.1. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Der Feuerstahl schleift mikroskopisch Metall ab; die heißen Späne (ca. 1.000 °C) entzünden den Zunder. Kalter, feuchter Zunder nimmt keine Funken — deshalb am Körper wärmen.
 - _Situationsvarianten (wann welche):_ Zunder: Birkenrinde, Rohrkolbenflaum, trockenes Gras. Zu nass: gegen trockene Kleidung am Körper trocknen.
@@ -1190,25 +1097,9 @@ _Querverweise:_ siehe Konzept 4.1, siehe Konzept 3.1. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -1330,9 +1221,7 @@ Reibfeuer ist eine _Übungstechnik, kein Alltagsplan_. V = 6 → Übungspflicht 
 + Rhythmisch bohren, bis Glutstaub in der Kerbe entsteht.
 + Glutstaub in Zundernest (siehe Konzept 3.2) übertragen, zur Glut blasen.
 + Plan B immer parat: Zündquellen-Set (siehe Konzept 3.1).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.3 „Reibfeuer“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Als Übungstechnik deklariert
-- [ ] Plan B (3.1) vorhanden
+_Checkliste:_ siehe CL-B3-07, Anhang S. #refpage(<cl-b3-07>) (Checklisten-Anhang am Bandende) — „3.3 Reibfeuer“.
 #baustein[Reibfeuer ist die Schule, nicht die Lösung. Übe es, verlass dich nicht drauf.]
 _Querverweise:_ siehe Konzept 3.1, siehe Konzept 3.2, siehe Konzept B1-8.2. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Reibfeuer erzeugt durch Reibung Hitze, die Holzstaub in der Kerbe zur Glut bringt; es braucht trockenes Holz, konstanten Druck und Rhythmus. Als Übungstechnik sinnvoll, als Alltagsplan zu fehleranfällig (P = 5).
@@ -1405,27 +1294,11 @@ _Übungsablauf (Reibfeuer, V = 6):_ 5 Wdh. an trockenem Hartholz; Zeitansatz 20�
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Übungstechnik, kein Alltagsplan], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
   [Übungsablauf (Reibfeuer, V = 6):], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -1545,9 +1418,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 + Linse oder poliertes Metall als Brennpunkt nutzen.
 + Zunder direkt im Brennpunkt halten, bewegen bis Glut.
 + _Linsen-Abdeckung Pflicht:_ Abgedeckte Linse nie in Sonne legen — Brandgefahr (siehe Konzept 9.1).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.4 „Sonnenzündung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Nur als Notbehelf
-- [ ] Linse abgedeckt bei Nichtgebrauch
+_Checkliste:_ siehe CL-B3-08, Anhang S. #refpage(<cl-b3-08>) (Checklisten-Anhang am Bandende) — „3.4 Sonnenzündung“.
 #baustein[Die Sonne zündet nur mit Linse und Zunder. Ohne Abdeckung wird die Linse selbst zur Gefahr.]
 _Querverweise:_ siehe Konzept 3.2, siehe Konzept 9.1. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Eine Linse bündelt Sonnenlicht auf einen Punkt (Brennpunkt) — dort entstehen Temperaturen über 200 °C, genug für Zunder. Ohne Abdeckung kann die Linse selbst Feuer fangen (Brennglas-Effekt).
@@ -1614,26 +1485,10 @@ _Querverweise:_ siehe Konzept 3.2, siehe Konzept 9.1. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -1753,9 +1608,7 @@ Glut wird _angeboten, nie verlangt_ — das ist Tausch vor Konflikt (ethische Le
 + Glut aus der eigenen Glutpfanne in einen tragbaren Behälter (mit Asche bedeckt) geben.
 + Nie die eigene Feuerstelle dafür aufgeben.
 + Empfangende Gruppe stellt eigene Wache (siehe Konzept 9.3).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.5 „Glut-Botschaft“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Angebot freiwillig
-- [ ] Transport mit Asche bedeckt
+_Checkliste:_ siehe CL-B3-09, Anhang S. #refpage(<cl-b3-09>) (Checklisten-Anhang am Bandende) — „3.5 Glut-Botschaft“.
 #baustein[Glut teilen heißt Nachbarn retten. Verlange nichts dafür.]
 _Querverweise:_ siehe Konzept 9.3, siehe Konzept B10-1.1.
 #subhead[Ablauf mit Kontrollkästchen]
@@ -1813,26 +1666,10 @@ _Querverweise:_ siehe Konzept 9.3, siehe Konzept B10-1.1.
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [angeboten, nie verlangt], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -1969,8 +1806,7 @@ _Zunder → Faschholz → Scheit._ Nie Scheit direkt an die Flamme.
 + Zunder (Birkenrinde, trockenes Gras, Rohrkolbenflaum) zur Glut bringen.
 + Faschholz (dünne Späne) darauf, bis es brennt.
 + Erst dann Kleinholz, dann Scheit (siehe Konzept 4.2).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.1 „Zunderkette“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Reihenfolge eingehalten
+_Checkliste:_ siehe CL-B3-10, Anhang S. #refpage(<cl-b3-10>) (Checklisten-Anhang am Bandende) — „4.1 Zunderkette“.
 _Querverweise:_ siehe Konzept 4.2, siehe Konzept 3.2. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Die Zunderkette vergrößert die brennende Oberfläche schrittweise: Zunder (niedrige Zündtemperatur) → Faschholz → Kleinholz → Scheit. So erstickt die Glut nicht und das Feuer baut kontrolliert auf.
 - _Situationsvarianten (wann welche):_ Trocken: 3 Stufen. Feucht: zwischen den Stufen am Körper trocknen. Wind: Windschatten aufbauen.
@@ -2030,25 +1866,9 @@ _Querverweise:_ siehe Konzept 4.2, siehe Konzept 3.2. _Erklärung:_
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Zunder → Faschholz → Scheit.], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -2173,8 +1993,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [Sternfeuer], [sparsam, lange Nacht], [niedrig — Scheite von außen nachschieben],
   [Plattform], [bei Nässe/Dauerregen (siehe 4.3)], [mittel],
 )
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.2 „Feuerbauten“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Bau nach Zweck gewählt
+_Checkliste:_ siehe CL-B3-11, Anhang S. #refpage(<cl-b3-11>) (Checklisten-Anhang am Bandende) — „4.2 Feuerbauten“.
 _Querverweise:_ siehe Konzept 4.3, siehe Konzept 5.1. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Jeder Feuerbau ist ein Kompromiss aus Verbrauch, Stabilität und Wärmeabgabe: Pyramide brennt schnell und hell (gut zum Anfachen), Sternfeuer spart Holz (lange Nacht, Scheite von außen nachschieben), Plattform hebt das Feuer vom nassen Boden (Dauerregen).
 - _Situationsvarianten (wann welche):_ Wind: Plattform + Windschutz (5.2). Nässe: siehe 4.3. Kochen: flache Glut (5.1). Viel Wärme für viele Personen: Pyramide.
@@ -2214,25 +2033,9 @@ _Querverweise:_ siehe Konzept 4.3, siehe Konzept 5.1. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -2351,9 +2154,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 + Plattform aus trockenem Unterholz bauen (siehe Konzept 4.2).
 + Trockene Zunderkette aus dem Körper-Päck nehmen (Innenseite der Kleidung trocken halten, siehe Konzept B4-6.1).
 + Unter Dach/Überstand arbeiten.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.3 „Feuer im Dauerregen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Plattform gebaut
-- [ ] Trockene Kette aus dem Körper-Päck
+_Checkliste:_ siehe CL-B3-12, Anhang S. #refpage(<cl-b3-12>) (Checklisten-Anhang am Bandende) — „4.3 Feuer im Dauerregen“.
 _Querverweise:_ siehe Konzept 4.2, siehe Konzept 3.2, siehe Konzept B4-6.1.
 #subhead[Ablauf mit Kontrollkästchen]
 #table(
@@ -2409,25 +2210,9 @@ _Querverweise:_ siehe Konzept 4.2, siehe Konzept 3.2, siehe Konzept B4-6.1.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -2562,9 +2347,7 @@ _Erklärung:_
 + Glut statt Flamme zum Kochen — gleichmäßige Hitze, weniger Brennstoff.
 + Topf auf Steine über der Glut stellen; Windschutz (siehe Konzept 5.2).
 + Wasser erst aufbereiten (siehe Konzept B2-6.2), dann kochen.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.1 „Kochfeuer & Glut“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Wasser gesotten (siehe Konzept B2-6.2)
-- [ ] Glutkochen bevorzugt
+_Checkliste:_ siehe CL-B3-13, Anhang S. #refpage(<cl-b3-13>) (Checklisten-Anhang am Bandende) — „5.1 Kochfeuer & Glut“.
 _Querverweise:_ siehe Konzept B2-6.2, siehe Konzept 5.2. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Glut gibt gleichmäßige, regelbare Hitze ab (weniger Brennstoff, weniger Funkenflug als Flamme). Wasser vorher aufbereiten (B2-6.2), dann kochen.
 - _Situationsvarianten (wann welche):_ Topf auf Steine über der Glut; Deckel spart Brennstoff. Windschutz (5.2) erhöht den Wirkungsgrad.
@@ -2623,25 +2406,9 @@ _Querverweise:_ siehe Konzept B2-6.2, siehe Konzept 5.2. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -2761,10 +2528,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 + Reflektor (Alufolie, poliertes Blech) hinter dem Feuer: Wärme in den Schlafbereich.
 + _Wache + Glut-Disziplin über Nacht_ — siehe Konzept 9.3.
 + _Nichts Glimmendes über Nacht im Schlafraum_ — siehe Konzept 6.3 (`warn-3`).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.2 „Reflektor & Nacht“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Reflektor gerichtet
-- [ ] Wache eingeteilt
-- [ ] CO-Regel (6.3) beachtet
+_Checkliste:_ siehe CL-B3-14, Anhang S. #refpage(<cl-b3-14>) (Checklisten-Anhang am Bandende) — „5.2 Reflektor & Nacht“.
 _Querverweise:_ siehe Konzept 9.3, siehe Konzept 6.3 (`warn-3`).
 #subhead[Ablauf mit Kontrollkästchen]
 #table(
@@ -2820,25 +2584,9 @@ _Querverweise:_ siehe Konzept 9.3, siehe Konzept 6.3 (`warn-3`).
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -2975,9 +2723,7 @@ Konsistent mit Konzept B4-2.1: Schichtenprinzip — innen trocken, Mitte isolier
 + Innenschicht: trocken halten.
 + Isolationsschicht: so dick wie möglich.
 + Außenschicht: winddicht, nicht dampfdicht (Feuchtigkeit muss raus, siehe Konzept B4-6.3).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.1 „Wärmepaket (Schichten)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Innen trocken
-- [ ] Isolation ausreichend
+_Checkliste:_ siehe CL-B3-15, Anhang S. #refpage(<cl-b3-15>) (Checklisten-Anhang am Bandende) — „6.1 Wärmepaket (Schichten)“.
 _Querverweise:_ siehe Konzept B4-2.1, siehe Konzept B4-6.3. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Der Körper verliert Wärme über Leitung (Boden), Strahlung, Konvektion (Wind) und Verdunstung (Schweiß). Schichten adressieren das: Isolation speichert Luft (schlechter Wärmeleiter), Außenschicht blockt Wind, Innenschicht hält trocken (Wasser leitet 25× besser als Luft).
 - _Situationsvarianten (wann welche):_ Kalt/trocken: Wolle + Daune. Feucht: Synthetik außen (trocknet schneller). Stadt: Wohnung heizen nicht möglich — Schichten + Kerze mit Abstand (nie unbeaufsichtigt, 6.3).
@@ -3036,25 +2782,9 @@ _Querverweise:_ siehe Konzept B4-2.1, siehe Konzept B4-6.3. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -3174,9 +2904,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 + Dichte, trockene Steine (Granit, Basalt) im Feuer erhitzen.
 + Heiße Steine mit Zange/Stöcken in den Schlafbereich tragen, in Tuch gewickelt.
 + _Nie nasse Steine in die Flamme_ — sie platzen (WARN, siehe Konzept B9-3.1 zur Steinbruchgefahr allgemein).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.2 „Heiße Steine“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Steine trocken
-- [ ] Nie nass in Flamme
+_Checkliste:_ siehe CL-B3-16, Anhang S. #refpage(<cl-b3-16>) (Checklisten-Anhang am Bandende) — „6.2 Heiße Steine“.
 #baustein[Trockener Stein gibt Wärme ab. Nasser Stein explodiert.]
 _Querverweise:_ siehe Konzept B9-3.1. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Stein speichert Wärme (hohe Wärmekapazität) und gibt sie langsam ab — ein Stein im Feuer wird zur Wärmeflasche. Nasse Steine enthalten Wasser; beim Erhitzen verdampft es explosionsartig (Dampfdruck) — der Stein platzt.
@@ -3236,26 +2964,10 @@ _Querverweise:_ siehe Konzept B9-3.1. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -3378,11 +3090,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 + Symptome kennen: Kopfschmerz, Schwindel, Übelkeit, Benommenheit.
 + Bei Verdacht: Frischluft, ärztliche Vorstellung (siehe Konzept B8-4.3, Atem-Not).
 _Stadt / Land:_ Land = Hütte/Zelt mit Ofen außen oder offenem Eingang. _Stadt (Wohnung):_ die Wohnung ist ein _geschlossener Raum_ — dort verbrennst du _nichts_, auch keine Kerze über Nacht unbeaufsichtigt. Wärme in der Stadt: Wärmepaket (siehe 6.1), Schichten (siehe B4-2.1), heiße Steine nur _draußen_ am Balkon/ Hof erwärmt und herein getragen (siehe 6.2), Kerze nur mit Abstand zu brennbaren Dingen und nie allein gelassen.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.3 „Ofenlose Not-Heizung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Keine Verbrennung im geschlossenen Raum
-- [ ] Nie über Nacht im Schlafraum
-- [ ] Zug geprüft
-- [ ] Mehrere Betroffene = Alarm (sofort lüften)
+_Checkliste:_ siehe CL-B3-17, Anhang S. #refpage(<cl-b3-17>) (Checklisten-Anhang am Bandende) — „6.3 Ofenlose Not-Heizung“.
 #baustein[Was du nicht riechst, kann dich töten. CO hat keinen Geruch — nur der Zug schützt dich.]
 _Querverweise:_ siehe Konzept B4-6.3, Lüftung — Querverweis CO, siehe Konzept B8-4.3, siehe Konzept 9.3.
 #subhead[Ablauf mit Kontrollkästchen]
@@ -3450,26 +3158,10 @@ _Querverweise:_ siehe Konzept B4-6.3, Lüftung — Querverweis CO, siehe Konzept
   [geschlossener Raum], [siehe Glossar, Anhang D Band 1],
   [nichts], [siehe Glossar, Anhang D Band 1],
   [draußen], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -3605,9 +3297,7 @@ Werte : 1 Ster ≈ 300–350 kg; Winter-Tag 25–35 kg.
 + Vorrat = Tage × 25–35 kg (konservativ 35 kg).
 + 1 Ster = 1 m³ geschichtet; trocken lagern (siehe Konzept B9-3.2).
 + Anzündholz separat trocken lagern (siehe Konzept 3.1).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.1 „Holzvorrat & Stock-Rechnung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Vorrat gerechnet
-- [ ] Trockenlager vorhanden
+_Checkliste:_ siehe CL-B3-18, Anhang S. #refpage(<cl-b3-18>) (Checklisten-Anhang am Bandende) — „7.1 Holzvorrat & Stock-Rechnung“.
 _Querverweise:_ siehe Konzept 2.2, siehe Konzept B9-3.2. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Der Verbrauch ist berechenbar: 25–35 kg/Tag im Winter. 1 Ster ≈ 300–350 kg (Fichte/Kiefer; Buche/Eiche schwerer) — Vorrat = Tage × 35 kg konservativ. Trockenes Holz brennt heißer (Wasser verdampft sonst Energie).
 - _Situationsvarianten (wann welche):_ Trockenlager überdacht, luftumspült. Anzündholz separat trocken. Stadt: kleiner Vorrat im Keller/Treppenhaus, dafür öfter holen.
@@ -3675,25 +3365,9 @@ _Querverweise:_ siehe Konzept 2.2, siehe Konzept B9-3.2. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -3811,10 +3485,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 #konzmeta(fill: rgb("#8a6d00"))[_gelb_ · P 6 · M prüfenswert · V 8]
 Nur im _Notstand_, nur _oberflächlich_ abtaken, nur _nach Vereinbarung_ mit dem Grundstückseigentümer (siehe Konzept B10-5.2).
 #warnrahmen()[Moor-Schwelbrand-Gefahr — Torf glimmt unter der Oberfläche tagelang weiter.]
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.2 „Torf / Dung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Nur Notstand
-- [ ] Nur oberflächlich
-- [ ] Vereinbarung getroffen
+_Checkliste:_ siehe CL-B3-19, Anhang S. #refpage(<cl-b3-19>) (Checklisten-Anhang am Bandende) — „7.2 Torf / Dung“.
 _Querverweise:_ siehe Konzept B10-5.2, siehe Konzept B7-4.2, Torf nur gemischt beim Räuchern.
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -3855,25 +3526,9 @@ _Querverweise:_ siehe Konzept B10-5.2, siehe Konzept B7-4.2, Torf nur gemischt b
   [oberflächlich], [siehe Glossar, Anhang D Band 1],
   [nach Vereinbarung], [siehe Glossar, Anhang D Band 1],
   [WARNUNG:], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -4008,9 +3663,7 @@ _Erklärung:_
 + Grube 1 m Durchmesser, 50 cm tief; luftarme Abdeckung (Blech, feuchte Erde).
 + _Rauchfarben als Uhr:_ dichter weißer Rauch = Anfang; bläulicher Rauch = Ende — abdecken, ausglühen lassen.
 + Ausbeute: \~ 20–30 % des Holzvolumens.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.1 „Holzkohle-Meiler“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Rauchfarbe beobachtet
-- [ ] Luftabschluss am Ende
+_Checkliste:_ siehe CL-B3-20, Anhang S. #refpage(<cl-b3-20>) (Checklisten-Anhang am Bandende) — „8.1 Holzkohle-Meiler“.
 _Querverweise:_ siehe Konzept B7-7.2, Holzkohle-Anwendung. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Holzkohle entsteht durch luftarme Erhitzung (Pyrolyse): flüchtige Bestandteile verbrennen als Rauch, Kohlenstoff bleibt. Rauchfarbe zeigt die Phase: weiß = Anfang (Wasser), blau = Ende.
 - _Situationsvarianten (wann welche):_ Grube luftdicht abdecken (Blech + feuchte Erde), 1–2 h ausglühen lassen. Ausbeute \~ 20–30 %.
@@ -4077,25 +3730,9 @@ _Querverweise:_ siehe Konzept B7-7.2, Holzkohle-Anwendung. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -4215,9 +3852,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 + Asche _24 h auskühlen lassen_ vor der Entsorgung/Lagerung.
 + Lauge: _2 Hände Asche auf 10 l Wasser_ — Waschlauge (siehe Konzept B4-9.2 Grauwasser: Lauge nie an Haut/Wunden).
 + Torf-/Salzasche getrennt sammeln.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.2 „Asche-Ordnung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] 24-h-Ruhen eingehalten
-- [ ] Laugenverhältnis 2:10
+_Checkliste:_ siehe CL-B3-21, Anhang S. #refpage(<cl-b3-21>) (Checklisten-Anhang am Bandende) — „8.2 Asche-Ordnung“.
 #baustein[Heiße Asche täuscht. 24 Stunden warten, dann erst anfassen.]
 _Querverweise:_ siehe Konzept B2-9.2, siehe Konzept B7-7.2, Seife aus Asche/Lauge.
 #subhead[Ablauf mit Kontrollkästchen]
@@ -4274,26 +3909,10 @@ _Querverweise:_ siehe Konzept B2-9.2, siehe Konzept B7-7.2, Seife aus Asche/Laug
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -4430,9 +4049,7 @@ Konsistent mit Konzept B1-2.1, STOPP.
 + _Innerhalb 60 Sekunden_ löschen oder Lage sichern — sonst Rückzug.
 + Wasser, Sand, Erde, nasse Decke — nie brennendes Fett mit Wasser (siehe Konzept B9-7.3: nie Öl in Wassereimer, Dampfexplosion).
 + Fluchtweg immer frei halten (siehe Konzept B1-6.2).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.1 „Brandbekämpfung (60-Sekunden-Regel)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] 60-Sekunden-Regel bekannt
-- [ ] Löschmittel bereit (Eimer am Eingang, siehe Konzept B10-7.1)
+_Checkliste:_ siehe CL-B3-22, Anhang S. #refpage(<cl-b3-22>) (Checklisten-Anhang am Bandende) — „9.1 Brandbekämpfung (60-Sekunden-Regel)“.
 #baustein[Eine Minute entscheidet. Was in 60 Sekunden nicht löscht, bekämpfst du nicht mehr allein.]
 _Querverweise:_ siehe Konzept B1-2.1, siehe Konzept 1.2, siehe Konzept B10-7.1. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Kleine Brände sind in den ersten 60 s mit Wasser/Sand/Decke beherrschbar; danach wächst die Brandfläche exponentiell. Brennenendes Fett nie mit Wasser (Fettexplosion).
@@ -4499,26 +4116,10 @@ _Querverweise:_ siehe Konzept B1-2.1, siehe Konzept 1.2, siehe Konzept B10-7.1. 
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -4636,9 +4237,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 9 · Abb. 3.18]
 #align(center)[#block(width: 10.5cm)[#figure(image("illustrationen/abb-3-18.svg", width: 100%), caption: [Abb. 3.18 — Signalfeuer: drei Feuer im Dreieck = internationales Notzeichen (Konzept 9.2).])]]
 Drei Feuer in Dreiecksanordnung = internationales Notzeichen (siehe Konzept B1-5.1). Nie als Dauerzustand — Brennstoff (siehe Konzept 7.1) und Brandgefahr (siehe Konzept 9.1).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.2 „Signalfeuer (3 Feuer = Notzeichen)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Dreieck-Anordnung
-- [ ] Brennstoffvorrat für Signalfeuer eingeplant
+_Checkliste:_ siehe CL-B3-23, Anhang S. #refpage(<cl-b3-23>) (Checklisten-Anhang am Bandende) — „9.2 Signalfeuer (3 Feuer = Notzeichen)“.
 _Querverweise:_ siehe Konzept B1-5.1, siehe Konzept 7.1, siehe Konzept 9.1. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Drei Feuer im Dreieck sind das internationale Notsignal (analog zu 3 Signalen, B1-5.1). Brennstoff vorher einplanen (7.1).
 - _Situationsvarianten (wann welche):_ Nur wenn freie Sicht zur Gegenstelle; nie im Wald ohne Freifläche (Waldbrand).
@@ -4678,25 +4277,9 @@ _Querverweise:_ siehe Konzept B1-5.1, siehe Konzept 7.1, siehe Konzept 9.1. _Erk
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -4816,9 +4399,7 @@ Konsistent mit Band 10: Feuer wird nie von einer Person allein bewacht.
 + Zwei Personen pro Wache, Ablösung nach Plan (siehe Konzept B1-2.3).
 + Wache hat Löschmittel griffbereit (siehe Konzept 9.1).
 + Protokoll: Anhang A Band 3.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.3 „Feuerwache (Zwei-Personen-Regel)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Zwei-Personen-Regel eingehalten
-- [ ] Ablöse im Plan
+_Checkliste:_ siehe CL-B3-24, Anhang S. #refpage(<cl-b3-24>) (Checklisten-Anhang am Bandende) — „9.3 Feuerwache (Zwei-Personen-Regel)“.
 _Querverweise:_ siehe Konzept B1-2.3, siehe Konzept 9.1, siehe Konzept 1.1.
 #subhead[Ablauf mit Kontrollkästchen]
 #table(
@@ -4874,25 +4455,9 @@ _Querverweise:_ siehe Konzept B1-2.3, siehe Konzept 9.1, siehe Konzept 1.1.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
-- [ ] Warnrahmen gelesen (falls vorhanden)
-- [ ] Notfallkontakte auf Papier (Konzept 3.4)
-- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
-- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
-- [ ] Dokumentenkopien wasserdicht verstaut
-- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
-- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -5007,7 +4572,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
 #pagebreak(weak: true)
-== Anhang A — Kopiervorlagen (Band 3) <anh-A>
+== Anhang A — Kopiervorlagen (Band 3) <anh-a>
 #pagebreak(weak: true)
 === A1 Feuerwache-Protokoll <anh-a1>
 Kopiervorlage zu Konzept 9.3 — Datum / Wache 1 / Wache 2 / Glut-Zustand / Vorkommnisse.
@@ -5065,7 +4630,7 @@ Kopiervorlage zu Konzept 7.1 — Tage × 35 kg = Soll in kg und Ster.
   [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
 )
 #pagebreak(weak: true)
-== Anhang B — Fehler-Tabelle (Band 3) <anh-B>
+== Anhang B — Fehler-Tabelle (Band 3) <anh-b>
 #table(
   columns: 3,
   table.header([Anfängerfehler], [Folge], [Korrektur]),
@@ -5078,7 +4643,7 @@ Kopiervorlage zu Konzept 7.1 — Tage × 35 kg = Soll in kg und Ster.
   [Zu nah am Zelt gefeuert], [Zeltbrand], [1.2: 4–6 m Abstand],
 )
 #pagebreak(weak: true)
-== Anhang C — Übungsplan (Band 3) <anh-C>
+== Anhang C — Übungsplan (Band 3) <anh-c>
 _Übungsablauf (verbindlich für jede Übung in diesem Band):_
 + _Vorbereitung (10 min):_ Material und Protokollbogen (Anhang A4 / B1-8.2) bereitlegen; Warnrahmen des Konzepts durchlesen; bei Outdoor-Übung Wetter prüfen (B1-4.4).
 + _Durchführung:_ die nummerierten Schritte des Konzepts exakt in der dortigen Reihenfolge ausführen — keine Abkürzungen.
@@ -5094,6 +4659,210 @@ _Band-spezifische Übungen (Vorrang, mit Erfolgskontrolle):_
 - Feuerbauten vergleichen (4.2): Pyramide/Stern/Plattform je 1×, Erfolg: Brennzeit gemessen, Verbrauch notiert
 - 60-Sekunden-Löschübung (9.1): 3× mit Eimer/Wasser, Erfolg: Übungsfeuer in \< 60 s gelöscht
 Verfalluhr: 12 Monate ohne Wiederholung = Fähigkeit verfallen (siehe B1-8.2). Zündquellen-Inventar (3.1), Feuerstahl (3.2), Reibfeuer als Übungstechnik (3.3, V = 6 → Übungspflicht), Feuerbauten (4.2), 60-Sekunden-Regel (9.1). Verfalluhr 12 Monate (siehe Konzept B1-8.2).
+#pagebreak(weak: true)
+== Anhang D — Checklisten (Band 3) <anh-d>
+Alle Checklisten des Bandes, gesammelt am Bandende. Im Kapiteltext steht jeweils nur der Querverweis „siehe CL-B3-NN“. Aufbau pro Checkliste: Kennziffer + sprechende Bezeichnung + Begriffserläuterung (Mini-Glossar) + bestehende Ziel-Präambel (Zweck/Abnahme) + Punkte.
+#subhead[Kapitel-Übersicht]
+#table(
+  columns: 7,
+  table.header([*Nr.*], [*Konzept*], [*P*], [*M*], [*V*], [*Ampel*], [*Abb.*]),
+  table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [CL-B3-01], [— 1.1 Feuerethik], [], [], [], [grün], [–],
+  [CL-B3-02], [— 1.2 Feuerplatz / Zonenplan], [], [], [], [grün], [–],
+  [CL-B3-03], [— 2.1 Feuerdreieck & Zündkette], [], [], [], [grün], [–],
+  [CL-B3-04], [— 2.2 Brennstoffkunde], [], [], [], [grün], [–],
+  [CL-B3-05], [— 3.1 Zündquellen-Inventar (3 Sets + Monatsprobe)], [], [], [], [grün], [–],
+  [CL-B3-06], [— 3.2 Feuerstahl & Zundermulm], [], [], [], [grün], [–],
+  [CL-B3-07], [— 3.3 Reibfeuer], [], [], [], [grün], [–],
+  [CL-B3-08], [— 3.4 Sonnenzündung], [], [], [], [grün], [–],
+  [CL-B3-09], [— 3.5 Glut-Botschaft], [], [], [], [grün], [–],
+  [CL-B3-10], [— 4.1 Zunderkette], [], [], [], [grün], [–],
+  [CL-B3-11], [— 4.2 Feuerbauten], [], [], [], [grün], [–],
+  [CL-B3-12], [— 4.3 Feuer im Dauerregen], [], [], [], [grün], [–],
+  [CL-B3-13], [— 5.1 Kochfeuer & Glut], [], [], [], [grün], [–],
+  [CL-B3-14], [— 5.2 Reflektor & Nacht], [], [], [], [grün], [–],
+  [CL-B3-15], [— 6.1 Wärmepaket (Schichten)], [], [], [], [grün], [–],
+  [CL-B3-16], [— 6.2 Heiße Steine], [], [], [], [grün], [–],
+  [CL-B3-17], [— 6.3 Ofenlose Not-Heizung], [], [], [], [grün], [–],
+  [CL-B3-18], [— 7.1 Holzvorrat & Stock-Rechnung], [], [], [], [grün], [–],
+  [CL-B3-19], [— 7.2 Torf / Dung], [], [], [], [grün], [–],
+  [CL-B3-20], [— 8.1 Holzkohle-Meiler], [], [], [], [grün], [–],
+  [CL-B3-21], [— 8.2 Asche-Ordnung], [], [], [], [grün], [–],
+  [CL-B3-22], [— 9.1 Brandbekämpfung (60-Sekunden-Regel)], [], [], [], [grün], [–],
+  [CL-B3-23], [— 9.2 Signalfeuer (3 Feuer = Notzeichen)], [], [], [], [grün], [–],
+  [CL-B3-24], [— 9.3 Feuerwache (Zwei-Personen-Regel)], [], [], [], [grün], [–],
+)
+=== CL-B3-01 — 1.1 Feuerethik <cl-b3-01>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.1 „Feuerethik“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Wache eingeteilt
+- [ ] Feuerplatz freigegeben
+=== CL-B3-02 — 1.2 Feuerplatz / Zonenplan <cl-b3-02>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.2 „Feuerplatz / Zonenplan“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] 30 cm entkernt
+- [ ] 2–3 m frei
+- [ ] 4–6 m zu Zelten
+=== CL-B3-03 — 2.1 Feuerdreieck & Zündkette <cl-b3-03>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.1 „Feuerdreieck & Zündkette“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Alle drei Elemente vorhanden
+- [ ] Feuchte des Brennstoffs geprüft
+=== CL-B3-04 — 2.2 Brennstoffkunde <cl-b3-04>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.2 „Brennstoffkunde“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Hartholz für Glut, Weichholz zum Anzünden
+- [ ] Trockenzeiten beachtet
+=== CL-B3-05 — 3.1 Zündquellen-Inventar (3 Sets + Monatsprobe) <cl-b3-05>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.1 „Zündquellen-Inventar (3 Sets + Monatsprobe)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] 3 Sets verteilt
+- [ ] Monatsprobe im Protokoll (siehe Konzept B1-8.2)
+=== CL-B3-06 — 3.2 Feuerstahl & Zundermulm <cl-b3-06>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.2 „Feuerstahl & Zundermulm“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Zunder trocken und warm
+- [ ] Funkenrichtung in den Zunder
+=== CL-B3-07 — 3.3 Reibfeuer <cl-b3-07>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.3 „Reibfeuer“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Als Übungstechnik deklariert
+- [ ] Plan B (3.1) vorhanden
+=== CL-B3-08 — 3.4 Sonnenzündung <cl-b3-08>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.4 „Sonnenzündung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Nur als Notbehelf
+- [ ] Linse abgedeckt bei Nichtgebrauch
+=== CL-B3-09 — 3.5 Glut-Botschaft <cl-b3-09>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.5 „Glut-Botschaft“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Angebot freiwillig
+- [ ] Transport mit Asche bedeckt
+=== CL-B3-10 — 4.1 Zunderkette <cl-b3-10>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.1 „Zunderkette“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Reihenfolge eingehalten
+=== CL-B3-11 — 4.2 Feuerbauten <cl-b3-11>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.2 „Feuerbauten“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Bau nach Zweck gewählt
+=== CL-B3-12 — 4.3 Feuer im Dauerregen <cl-b3-12>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.3 „Feuer im Dauerregen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Plattform gebaut
+- [ ] Trockene Kette aus dem Körper-Päck
+=== CL-B3-13 — 5.1 Kochfeuer & Glut <cl-b3-13>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.1 „Kochfeuer & Glut“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Wasser gesotten (siehe Konzept B2-6.2)
+- [ ] Glutkochen bevorzugt
+=== CL-B3-14 — 5.2 Reflektor & Nacht <cl-b3-14>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- CO = Kohlenmonoxid, geruchlos, tödlich; warn-3 (B3-6.3)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.2 „Reflektor & Nacht“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Reflektor gerichtet
+- [ ] Wache eingeteilt
+- [ ] CO-Regel (6.3) beachtet
+=== CL-B3-15 — 6.1 Wärmepaket (Schichten) <cl-b3-15>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.1 „Wärmepaket (Schichten)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Innen trocken
+- [ ] Isolation ausreichend
+=== CL-B3-16 — 6.2 Heiße Steine <cl-b3-16>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.2 „Heiße Steine“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Steine trocken
+- [ ] Nie nass in Flamme
+=== CL-B3-17 — 6.3 Ofenlose Not-Heizung <cl-b3-17>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.3 „Ofenlose Not-Heizung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Keine Verbrennung im geschlossenen Raum
+- [ ] Nie über Nacht im Schlafraum
+- [ ] Zug geprüft
+- [ ] Mehrere Betroffene = Alarm (sofort lüften)
+=== CL-B3-18 — 7.1 Holzvorrat & Stock-Rechnung <cl-b3-18>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.1 „Holzvorrat & Stock-Rechnung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Vorrat gerechnet
+- [ ] Trockenlager vorhanden
+=== CL-B3-19 — 7.2 Torf / Dung <cl-b3-19>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.2 „Torf / Dung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Nur Notstand
+- [ ] Nur oberflächlich
+- [ ] Vereinbarung getroffen
+=== CL-B3-20 — 8.1 Holzkohle-Meiler <cl-b3-20>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.1 „Holzkohle-Meiler“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Rauchfarbe beobachtet
+- [ ] Luftabschluss am Ende
+=== CL-B3-21 — 8.2 Asche-Ordnung <cl-b3-21>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.2 „Asche-Ordnung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] 24-h-Ruhen eingehalten
+- [ ] Laugenverhältnis 2:10
+=== CL-B3-22 — 9.1 Brandbekämpfung (60-Sekunden-Regel) <cl-b3-22>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.1 „Brandbekämpfung (60-Sekunden-Regel)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] 60-Sekunden-Regel bekannt
+- [ ] Löschmittel bereit (Eimer am Eingang, siehe Konzept B10-7.1)
+=== CL-B3-23 — 9.2 Signalfeuer (3 Feuer = Notzeichen) <cl-b3-23>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- 3 Signale/3 Feuer = internationales Notzeichen (B1-5.1, B3-9.2)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.2 „Signalfeuer (3 Feuer = Notzeichen)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Dreieck-Anordnung
+- [ ] Brennstoffvorrat für Signalfeuer eingeplant
+=== CL-B3-24 — 9.3 Feuerwache (Zwei-Personen-Regel) <cl-b3-24>
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.3 „Feuerwache (Zwei-Personen-Regel)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Zwei-Personen-Regel eingehalten
+- [ ] Ablöse im Plan
 #pagebreak(weak: true)
 == Bandabschluss Band 3 — Bewertungsmatrix + Devise <abschluss>
 #table(
@@ -5166,6 +4935,30 @@ Alle Konzepte dieses Bandes im Überblick — abhaken, wenn geübt/gelesen:
 - [ ] 9.1 Brandbekämpfung (60-Sekunden-Regel)
 - [ ] 9.2 Signalfeuer (3 Feuer = Notzeichen)
 - [ ] 9.3 Feuerwache (Zwei-Personen-Regel)
+- [ ] CL-B3-01 — 1.1 Feuerethik
+- [ ] CL-B3-02 — 1.2 Feuerplatz / Zonenplan
+- [ ] CL-B3-03 — 2.1 Feuerdreieck & Zündkette
+- [ ] CL-B3-04 — 2.2 Brennstoffkunde
+- [ ] CL-B3-05 — 3.1 Zündquellen-Inventar (3 Sets + Monatsprobe)
+- [ ] CL-B3-06 — 3.2 Feuerstahl & Zundermulm
+- [ ] CL-B3-07 — 3.3 Reibfeuer
+- [ ] CL-B3-08 — 3.4 Sonnenzündung
+- [ ] CL-B3-09 — 3.5 Glut-Botschaft
+- [ ] CL-B3-10 — 4.1 Zunderkette
+- [ ] CL-B3-11 — 4.2 Feuerbauten
+- [ ] CL-B3-12 — 4.3 Feuer im Dauerregen
+- [ ] CL-B3-13 — 5.1 Kochfeuer & Glut
+- [ ] CL-B3-14 — 5.2 Reflektor & Nacht
+- [ ] CL-B3-15 — 6.1 Wärmepaket (Schichten)
+- [ ] CL-B3-16 — 6.2 Heiße Steine
+- [ ] CL-B3-17 — 6.3 Ofenlose Not-Heizung
+- [ ] CL-B3-18 — 7.1 Holzvorrat & Stock-Rechnung
+- [ ] CL-B3-19 — 7.2 Torf / Dung
+- [ ] CL-B3-20 — 8.1 Holzkohle-Meiler
+- [ ] CL-B3-21 — 8.2 Asche-Ordnung
+- [ ] CL-B3-22 — 9.1 Brandbekämpfung (60-Sekunden-Regel)
+- [ ] CL-B3-23 — 9.2 Signalfeuer (3 Feuer = Notzeichen)
+- [ ] CL-B3-24 — 9.3 Feuerwache (Zwei-Personen-Regel)
 #pagebreak(weak: true)
 == Warnübersicht Band 3 <warn-uebersicht>
 #table(

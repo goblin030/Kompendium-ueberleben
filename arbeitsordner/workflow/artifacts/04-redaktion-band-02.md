@@ -19,12 +19,8 @@ Wasser wird nach Bedarf verteilt, nicht nach Status oder Stärke.
 2. Zuteilung nach Bedarfsprofil (siehe Konzept 2.2): Kinder, Fieber, Leistung.
 3. Nie Wasser als Druckmittel einsetzen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.1 „Wassergerechtigkeit“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B2-01 (Checklisten-Anhang am Bandende) — „1.1 Wassergerechtigkeit“.
 
-- [ ] Bedarfsliste aktuell
-- [ ] Zuteilung dokumentiert (s. Konzept B1-9.1)
 
 > **BAUSTEIN:** Wer mehr schwitzt, trinkt mehr. Bedarf vor Gerechtigkeit der Gleichheit.
 
@@ -50,13 +46,8 @@ Der Zonenplan trennt Wasserentnahme, Grauwasser und Latrine im Gelände. **Korre
 | Grauwasser | ≥ 10 m unterhalb | Waschen, Spülen (siehe Konzept 9.2) |
 | Latrine | ≥ 30 m, besser 50 m, unterhalb/hangabwärts | Toilette (siehe Konzept 9.1) |
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.2 „Zonenplan“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B2-02 (Checklisten-Anhang am Bandende) — „1.2 Zonenplan“.
 
-- [ ] Latrine ≥ 30 m unterhalb gemessen
-- [ ] Hangrichtung geprüft
-- [ ] Zonen markiert
 
 > **BAUSTEIN:** Hangabwärts ist sicherheitswärts. Was unten liegt, vergiftet nicht das Wasser oben.
 
@@ -82,12 +73,8 @@ Werte (W1/W2/L8): Trinkminimum **2–3 l/Person/Tag** (Kinder 1–1,5 l); Notfal
 2. Haushaltsbedarf separat führen (Waschen, Kochen, Spülen).
 3. Vorrat gegen Bedarf rechnen (siehe Konzept 8.1).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.1 „Bedarfsrechnung“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B2-03 (Checklisten-Anhang am Bandende) — „2.1 Bedarfsrechnung“.
 
-- [ ] Trink- und Gesamtbedarf getrennt notiert
-- [ ] Kinder- und Fieberprofil eingerechnet
 
 > **BAUSTEIN:** 2 Liter retten, 15 Liter leben. Rechne beides, bevor du schöpfst.
 
@@ -107,11 +94,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 | Schwere Arbeit | 4–6 l/Tag |
 | Schwangerschaft/Stillen | + 1 l/Tag |
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.2 „Bedarfsprofile“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B2-04 (Checklisten-Anhang am Bandende) — „2.2 Bedarfsprofile“.
 
-- [ ] Profile der Gruppe erfasst
 
 **Querverweise:** siehe Konzept 2.1, siehe Konzept B8-4.2.
 
@@ -128,12 +112,8 @@ Regenformel (W8): **1 mm Niederschlag × 1 m² Fläche = 1 l** (exakt, vor Verlu
 2. Niederschlag mm × m² = Ertrag l.
 3. Verluste (First-Abwurf, Verdunstung, Überlauf) mit 20–30 % abziehen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.3 „Ertragsrechnung“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B2-05 (Checklisten-Anhang am Bandende) — „2.3 Ertragsrechnung“.
 
-- [ ] Fläche gemessen
-- [ ] Verluste abgezogen
 
 > **BAUSTEIN:** Ein Millimeter auf ein Quadratmeter ist ein Liter. Rechne das Dach vor dem Regen.
 
@@ -155,12 +135,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 Fließend vor stehend. Ölfilm oder Chemiegeruch = **verwerfen** (W4: Abkochen tötet keine chemischen Gifte).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.1 „Oberflächenwasser lesen“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B2-06 (Checklisten-Anhang am Bandende) — „3.1 Oberflächenwasser lesen“.
 
-- [ ] Fließgewässer bevorzugt
-- [ ] Ölfilm/Chemie → Quelle verwerfen, siehe Konzept 5.1
 
 **Querverweise:** siehe Konzept 5.1, siehe Konzept 6.2 (Abkochen tötet keine Gifte).
 
@@ -185,12 +161,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 | Ertrag | voll (siehe Konzept 2.3) | deutlich kleiner — mehr Behälter, öfter sammeln |
 | Kontrolle | First-Abwurf am Fallrohr | Plane nach jedem Regen reinigen; Vogelkot meiden |
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.2 „Regen auffangen (First-Abwurf-Pflicht)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B2-07 (Checklisten-Anhang am Bandende) — „3.2 Regen auffangen (First-Abwurf-Pflicht)“.
 
-- [ ] First-Abwurf durchgeführt
-- [ ] Behälter sauber und lebensmittelecht (HDPE)
 
 > **BAUSTEIN:** Der erste Regen wäscht das Dach. Erst der zweite Regen füllt den Tank.
 
@@ -207,12 +179,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. Liegt eine Quelle oberhalb des Lagers, ist sie verdächtig — siehe Konzept 1.2 (Zonenplan).
 3. Austrittsstelle frei von Algen und Schlamm.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.3 „Quellen & Brunnen (Oberhalb-Check)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B2-08 (Checklisten-Anhang am Bandende) — „3.3 Quellen & Brunnen (Oberhalb-Check)“.
 
-- [ ] Oberhalb-Check gemacht
-- [ ] Austritt klar
 
 **Querverweise:** siehe Konzept 1.2, siehe Konzept 9.1.
 
@@ -230,12 +198,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 **Stadt / Land:** Nur auf dem Land mit eigenem Grundstück sinnvoll. **In der Stadt:** keine Sickergrube graben (Keller, Leitungen, Nachbarn) — Regen auffangen (siehe B2-3.2 Stadt), Leitungsreste sammeln, Wasser aus dem Hausanschluss wenn Druck noch da ist, dann aufbereiten.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.4 „Sickergrube / Behelfsbrunnen“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B2-09 (Checklisten-Anhang am Bandende) — „3.4 Sickergrube / Behelfsbrunnen“.
 
-- [ ] Erstwasser verworfen
-- [ ] Wasser geklärt vor der Aufbereitung
 
 **Querverweise:** siehe Konzept 6.1, siehe Konzept 6.2.
 
@@ -253,12 +217,8 @@ Der Solarstill ist ein Notbehelf (W11): Ertrag konservativ **0,3–1,5 l/Tag**, 
 3. Sonne 1 Tag stehen lassen; Kondensat auffangen.
 4. Ergebnis anschließend nachbehandeln: abkochen (siehe Konzept 6.2).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.5 „Solarstill“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B2-10 (Checklisten-Anhang am Bandende) — „3.5 Solarstill“.
 
-- [ ] Nur Klarwasser-Nachbehandlung
-- [ ] Nachgekocht vor dem Trinken
 
 > **BAUSTEIN:** Der Solarstill ist der letzte Ausweg, nicht der erste Griff. Im Zweifel kochen (siehe Konzept 6.2).
 
@@ -279,12 +239,8 @@ Schmelze statt Schnee essen (W9): Pulverschnee ≈ 1:10, Altschnee 2–3:10, Kru
 2. **Tausalz-Schnee verwerfen** — Streusalz ist nicht genießbar (siehe Konzept B7-5.1, `warn-7c`).
 3. Geschmolzenes Wasser wie Oberflächenwasser behandeln (Kapitel 6/7).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.7 „Winterwasser“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B2-11 (Checklisten-Anhang am Bandende) — „3.7 Winterwasser“.
 
-- [ ] Schmelzverhältnis beachtet
-- [ ] Tausalz-Schnee ausgeschlossen
 
 **Querverweise:** siehe Konzept B7-5.1, siehe Konzept 6.2.
 
@@ -309,12 +265,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 | Zink/Verzinkt | **nur Nutzwasser** | nicht für Trinkwasser |
 | Unbekannte Fässer | nein | Inhalt unklar |
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.1 „Behälterkunde“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B2-12 (Checklisten-Anhang am Bandende) — „4.1 Behälterkunde“.
 
-- [ ] Behälter gekennzeichnet (Trinkwasser/Nutzwasser)
-- [ ] Deckel dicht
 
 **Querverweise:** siehe Konzept 8.2 (Wiederverseuchung).
 
@@ -331,12 +283,8 @@ Konsistent mit Traglast (W20, siehe Konzept B1-6.5): 10 l Wasser = 10 kg = eine 
 2. Besser: Kanister mit Trageriemen auf dem Rücken (siehe Konzept B1-6.5).
 3. Gruppe: Zwischentank am Ziel (siehe Konzept 4.3).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.2 „Transportkette (10 l einseitig)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B2-13 (Checklisten-Anhang am Bandende) — „4.2 Transportkette (10 l einseitig)“.
 
-- [ ] ≤ 10 l einseitig
-- [ ] Traglast-Regel (siehe Konzept B1-6.5) eingehalten
 
 **Querverweise:** siehe Konzept B1-6.5, siehe Konzept 4.3.
 
@@ -351,12 +299,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. Jede Person füllt ihren Tagesbedarf daraus (siehe Konzept 2.1).
 3. Entnahme nur mit sauberem Schöpfer — siehe Konzept 8.2 (Wiederverseuchung).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.3 „Gruppenkette (Zwischentank)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B2-14 (Checklisten-Anhang am Bandende) — „4.3 Gruppenkette (Zwischentank)“.
 
-- [ ] Zwischentank sauber
-- [ ] Entnahmedisziplin (Ausgießbehälter) eingehalten
 
 **Querverweise:** siehe Konzept 8.2, siehe Konzept 2.1.
 
@@ -382,12 +326,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 | Geruch faulig | organische Zersetzung | verwerfen oder destillieren + nachkochen (7.2) |
 | Tote Tiere stromaufwärts | Kontamination | andere Quelle suchen (3.1) |
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.1 „Wasser beurteilen (Befund-Tabelle, Blaualgen)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B2-15 (Checklisten-Anhang am Bandende) — „5.1 Wasser beurteilen (Befund-Tabelle, Blaualgen)“.
 
-- [ ] Befund-Tabelle abgearbeitet
-- [ ] Blaualgen-Vorkommen ausgeschlossen
 
 **Trübung messen ohne Gerät (Feldmethode, ersetzt NTU-Messgerät):** weiße Scheibe/Teller (DIY-Secchi) an eine Schnur binden, ins Wasser lassen, Sichttiefe ablesen (bei der das Teller gerade noch/verschwimmt). Richtwerte:
 
@@ -420,12 +360,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 3. Durch Tuch (mehrfach gebügelt) oder Aktivkohle-Schicht (5 cm) filtern.
 4. Trübung messen: Ziel **Sichttiefe > 10 cm (≈ < 30 NTU)** vor SODIS/Chlor — Feldmethode siehe Konzept 5.1 (Secchi-Teller). Bei < 10 cm Sichttiefe: erst absetzen + doppelt filtern, sonst abkochen (siehe 6.2).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.1 „Klären / Vorfiltern“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B2-16 (Checklisten-Anhang am Bandende) — „6.1 Klären / Vorfiltern“.
 
-- [ ] Absetzzeit eingehalten
-- [ ] Trübung nach Filterung geprüft
 
 **Querverweise:** siehe Konzept 6.3 (SODIS nur < 30 NTU), siehe Konzept 7.3.
 
@@ -443,12 +379,8 @@ Wert (W3, CDC/WHO): **1 Minute sprudelnd kochen; ab 2.000 m Höhe 3 Minuten.**
 3. Abkühlen lassen im geschlossenen, sauberen Gefäß (siehe Konzept 8.2).
 4. **Abkochen tötet keine chemischen Gifte, kein Salz, keine Algengifte** (W4) — bei Chemie/Blaualgen andere Quelle oder Destillation (7.2) + Nachkochen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.2 „Abkochen“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B2-17 (Checklisten-Anhang am Bandende) — „6.2 Abkochen“.
 
-- [ ] 1 min (ab 2.000 m: 3 min) sprudelnd
-- [ ] Gifte beachtet: Kochen entfernt keine Chemie (W4)
 
 > **BAUSTEIN:** Sprudelnd kochen, eine Minute zählen — das ist das sicherste Verfahren überhaupt.
 
@@ -468,13 +400,8 @@ Nur bei **klarem Wasser — Sichttiefe > 30 cm (≈ < 10 NTU, Feldmethode siehe 
 3. 6 h Sonne oder 2 Tage bewölkt.
 4. Bei Unsicherheit zusätzlich abkochen (siehe Konzept 6.2).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.3 „SODIS“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B2-18 (Checklisten-Anhang am Bandende) — „6.3 SODIS“.
 
-- [ ] Trübung < 30 NTU geprüft
-- [ ] Flaschengröße 1–2 l
-- [ ] Sonne/Wolken-Zeit eingehalten
 
 > **BAUSTEIN:** SODIS ist der Notbehelf fürs klare Wasser. Im Zweifel kochst du.
 
@@ -502,13 +429,8 @@ Maße (W10): **40–60 cm Sand**, Wasserstand nie unter **5 cm über Sand**, **R
 4. Filtrat **immer nachkochen** (siehe Konzept 6.2).
 5. Wartung: oberste 0,5–1 cm Sand abschaben, wenn Durchfluss sinkt.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.1 „Langsamsandfilter“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B2-19 (Checklisten-Anhang am Bandende) — „7.1 Langsamsandfilter“.
 
-- [ ] Sandhöhe 40–60 cm
-- [ ] Wasserstand ≥ 5 cm über Sand
-- [ ] Nachkochen trotz Filter
 
 **Querverweise:** siehe Konzept 6.2.
 
@@ -525,12 +447,8 @@ Ertrag konservativ (W11): Topf-Destille **0,5–1,5 l/h**, Solarstill 0,3–1,5 
 2. Oder Solarstill (siehe Konzept 3.5).
 3. Destillat nachkochen (siehe Konzept 6.2).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.2 „Destillation (Topf-Destille, Solarstill)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B2-20 (Checklisten-Anhang am Bandende) — „7.2 Destillation (Topf-Destille, Solarstill)“.
 
-- [ ] Nachkochen nach Destillation
-- [ ] Als Notbehelf gekennzeichnet
 
 > **BAUSTEIN:** Destillieren entfernt Salz, nicht Keime. Danach immer kochen.
 
@@ -556,14 +474,8 @@ Dosis (W5): **~2 Tropfen 5–6%ige Bleiche pro Liter**; trüb oder kalt: **doppe
 
 **Korrektur W5:** Die Kinder-Halbdosis ist **gestrichen** — die Desinfektionsdosis wird nicht halbiert. **Im Zweifel abkochen** (siehe Konzept 6.2).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.3 „Chemische Desinfektion (Chlor, Notstand)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B2-21 (Checklisten-Anhang am Bandende) — „7.3 Chemische Desinfektion (Chlor, Notstand)“.
 
-- [ ] Dosis 2 Tropfen/l (trüb/kalt 4)
-- [ ] Wartezeit 30–60 min
-- [ ] **Keine Halbierung bei Kindern** — im Zweifel kochen
-- [ ] Nie mit Säure oder Ammoniak gemischt
 
 > **BAUSTEIN:** Chlor ist der Notstand, nicht der Alltag. Im Zweifel kochst du (siehe Konzept 6.2).
 
@@ -592,12 +504,8 @@ BBK-Wert (W21): **2 l Trinkwasser pro Person × 14 Tage**. Konsistent mit Konzep
 
 **Stadt / Land:** Land = kühler Keller/erdberührter Raum. **Stadt (Wohnung):** kühlerster Schrank/Abstellraum am Treppenhaus, nie über der Heizung, nie in der Sonne; Temperatur regelmäßig prüfen (siehe B1-7.4); Behälter kennzeichnen (siehe 4.1).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.1 „Haushaltsvorrat (2 l × 14 T)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B2-22 (Checklisten-Anhang am Bandende) — „8.1 Haushaltsvorrat (2 l × 14 T)“.
 
-- [ ] Vorrat gerechnet und eingelagert
-- [ ] Rotationstermin notiert
 
 > **BAUSTEIN:** Zwei Liter am Tag, vierzehn Tage lang — das ist der Boden, auf dem du stehst.
 
@@ -616,12 +524,8 @@ Sauberes Wasser wird am Behälter wieder dreckig. Dagegen: **Ausgießbehälter**
 2. Deckel nach jeder Entnahme schließen.
 3. Behälter regelmäßig reinigen (siehe Konzept 4.1).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.2 „Wiederverseuchung (Ausgießbehälter)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B2-23 (Checklisten-Anhang am Bandende) — „8.2 Wiederverseuchung (Ausgießbehälter)“.
 
-- [ ] Ausgießbehälter vorhanden
-- [ ] Entnahmedisziplin eingehalten
 
 **Querverweise:** siehe Konzept 4.1, siehe Konzept 4.3.
 
@@ -654,13 +558,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 | Entsorgung | Abdecken, neue Stelle nach 4–6 Wochen | Beutel luftdicht verschließen, über kommunale Entsorgung (wenn vorhanden) oder weit außerhalb des Wohngebiets; nie in Hausmülltonne offen |
 | Hygiene | Hände waschen mit gesottenem Wasser (siehe B8-2.2) | Hände desinfizieren (Chlor-Lösung siehe 7.3 oder Spiritus), Wasser sparen |
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.1 „Latrine“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B2-24 (Checklisten-Anhang am Bandende) — „9.1 Latrine“.
 
-- [ ] Abstand ≥ 30 m (besser 50 m) gemessen
-- [ ] Grabtiefe 25–30 cm
-- [ ] Abdeckung bereit
 
 > **BAUSTEIN:** Tiefer graben (25–30 cm), weiter weg legen (≥ 30 m). Beides zählt.
 
@@ -679,13 +578,8 @@ Kaskade: erst Waschen (Körper), dann Spülen (Geschirr), dann Boden wischen. **
 2. Versickerungsgrube 30 cm tief, 50 cm breit, mit Steinen gefüllt.
 3. Nie Grauwasser in Entnahme-Zone gelangen lassen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.2 „Grauwasser-Kette“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B2-25 (Checklisten-Anhang am Bandende) — „9.2 Grauwasser-Kette“.
 
-- [ ] Kaskade eingehalten
-- [ ] Lauge nicht an Haut/Wunden
-- [ ] Versickerung unterhalb der Entnahme
 
 **Querverweise:** siehe Konzept 1.2, siehe Konzept B8-2.2.
 
@@ -732,6 +626,318 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 Verfalluhr: 12 Monate ohne Wiederholung = Fähigkeit verfallen (siehe B1-8.2).
 
 ---
+
+## Anhang D — Checklisten (Band 2)
+
+Alle Checklisten des Bandes, gesammelt am Bandende. Im Kapiteltext steht jeweils nur der Querverweis „siehe CL-B2-NN“. Aufbau pro Checkliste: Kennziffer + sprechende Bezeichnung + Begriffserläuterung (Mini-Glossar) + bestehende Ziel-Präambel (Zweck/Abnahme) + Punkte.
+
+### CL-B2-01 — 1.1 Wassergerechtigkeit
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.1 „Wassergerechtigkeit“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Bedarfsliste aktuell
+- [ ] Zuteilung dokumentiert (s. Konzept B1-9.1)
+
+### CL-B2-02 — 1.2 Zonenplan
+
+**Begriffe (Mini-Glossar):**
+- Latrine = Abortgrube; ≥ 30 m unterhalb der Wasserentnahme, 25–30 cm tief (W7)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.2 „Zonenplan“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Latrine ≥ 30 m unterhalb gemessen
+- [ ] Hangrichtung geprüft
+- [ ] Zonen markiert
+
+### CL-B2-03 — 2.1 Bedarfsrechnung
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.1 „Bedarfsrechnung“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Trink- und Gesamtbedarf getrennt notiert
+- [ ] Kinder- und Fieberprofil eingerechnet
+
+### CL-B2-04 — 2.2 Bedarfsprofile
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.2 „Bedarfsprofile“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Profile der Gruppe erfasst
+
+### CL-B2-05 — 2.3 Ertragsrechnung
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.3 „Ertragsrechnung“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Fläche gemessen
+- [ ] Verluste abgezogen
+
+### CL-B2-06 — 3.1 Oberflächenwasser lesen
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.1 „Oberflächenwasser lesen“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Fließgewässer bevorzugt
+- [ ] Ölfilm/Chemie → Quelle verwerfen, siehe Konzept 5.1
+
+### CL-B2-07 — 3.2 Regen auffangen (First-Abwurf-Pflicht)
+
+**Begriffe (Mini-Glossar):**
+- HDPE = lebensmittelechter Kunststoff für Trinkwasserbehälter (B2-4.1)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.2 „Regen auffangen (First-Abwurf-Pflicht)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] First-Abwurf durchgeführt
+- [ ] Behälter sauber und lebensmittelecht (HDPE)
+
+### CL-B2-08 — 3.3 Quellen & Brunnen (Oberhalb-Check)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.3 „Quellen & Brunnen (Oberhalb-Check)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Oberhalb-Check gemacht
+- [ ] Austritt klar
+
+### CL-B2-09 — 3.4 Sickergrube / Behelfsbrunnen
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.4 „Sickergrube / Behelfsbrunnen“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Erstwasser verworfen
+- [ ] Wasser geklärt vor der Aufbereitung
+
+### CL-B2-10 — 3.5 Solarstill
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.5 „Solarstill“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Nur Klarwasser-Nachbehandlung
+- [ ] Nachgekocht vor dem Trinken
+
+### CL-B2-11 — 3.7 Winterwasser
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.7 „Winterwasser“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Schmelzverhältnis beachtet
+- [ ] Tausalz-Schnee ausgeschlossen
+
+### CL-B2-12 — 4.1 Behälterkunde
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.1 „Behälterkunde“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Behälter gekennzeichnet (Trinkwasser/Nutzwasser)
+- [ ] Deckel dicht
+
+### CL-B2-13 — 4.2 Transportkette (10 l einseitig)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.2 „Transportkette (10 l einseitig)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] ≤ 10 l einseitig
+- [ ] Traglast-Regel (siehe Konzept B1-6.5) eingehalten
+
+### CL-B2-14 — 4.3 Gruppenkette (Zwischentank)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.3 „Gruppenkette (Zwischentank)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Zwischentank sauber
+- [ ] Entnahmedisziplin (Ausgießbehälter) eingehalten
+
+### CL-B2-15 — 5.1 Wasser beurteilen (Befund-Tabelle, Blaualgen)
+
+**Begriffe (Mini-Glossar):**
+- Blaualgen/Microcystin im Süßwasser: nicht trinken/baden (B2-5.1)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.1 „Wasser beurteilen (Befund-Tabelle, Blaualgen)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Befund-Tabelle abgearbeitet
+- [ ] Blaualgen-Vorkommen ausgeschlossen
+
+### CL-B2-16 — 6.1 Klären / Vorfiltern
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.1 „Klären / Vorfiltern“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Absetzzeit eingehalten
+- [ ] Trübung nach Filterung geprüft
+
+### CL-B2-17 — 6.2 Abkochen
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.2 „Abkochen“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] 1 min (ab 2.000 m: 3 min) sprudelnd
+- [ ] Gifte beachtet: Kochen entfernt keine Chemie (W4)
+
+### CL-B2-18 — 6.3 SODIS
+
+**Begriffe (Mini-Glossar):**
+- NTU = Trübungseinheit; Feldmessung über Sichttiefe/Secchi (B2-5.1)
+- SODIS = Solar Water Disinfection; PET 1–2 l, 6 h Sonne, nur klares Wasser (B2-6.3)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.3 „SODIS“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Trübung < 30 NTU geprüft
+- [ ] Flaschengröße 1–2 l
+- [ ] Sonne/Wolken-Zeit eingehalten
+
+### CL-B2-19 — 7.1 Langsamsandfilter
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.1 „Langsamsandfilter“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Sandhöhe 40–60 cm
+- [ ] Wasserstand ≥ 5 cm über Sand
+- [ ] Nachkochen trotz Filter
+
+### CL-B2-20 — 7.2 Destillation (Topf-Destille, Solarstill)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.2 „Destillation (Topf-Destille, Solarstill)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Nachkochen nach Destillation
+- [ ] Als Notbehelf gekennzeichnet
+
+### CL-B2-21 — 7.3 Chemische Desinfektion (Chlor, Notstand)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.3 „Chemische Desinfektion (Chlor, Notstand)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Dosis 2 Tropfen/l (trüb/kalt 4)
+- [ ] Wartezeit 30–60 min
+- [ ] **Keine Halbierung bei Kindern** — im Zweifel kochen
+- [ ] Nie mit Säure oder Ammoniak gemischt
+
+### CL-B2-22 — 8.1 Haushaltsvorrat (2 l × 14 T)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.1 „Haushaltsvorrat (2 l × 14 T)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Vorrat gerechnet und eingelagert
+- [ ] Rotationstermin notiert
+
+### CL-B2-23 — 8.2 Wiederverseuchung (Ausgießbehälter)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.2 „Wiederverseuchung (Ausgießbehälter)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Ausgießbehälter vorhanden
+- [ ] Entnahmedisziplin eingehalten
+
+### CL-B2-24 — 9.1 Latrine
+
+**Begriffe (Mini-Glossar):**
+- Latrine = Abortgrube; ≥ 30 m unterhalb der Wasserentnahme, 25–30 cm tief (W7)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.1 „Latrine“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Abstand ≥ 30 m (besser 50 m) gemessen
+- [ ] Grabtiefe 25–30 cm
+- [ ] Abdeckung bereit
+
+### CL-B2-25 — 9.2 Grauwasser-Kette
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.2 „Grauwasser-Kette“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Kaskade eingehalten
+- [ ] Lauge nicht an Haut/Wunden
+- [ ] Versickerung unterhalb der Entnahme
+
 
 ## Bandabschluss Band 2 — Bewertungsmatrix + Devise
 

@@ -38,13 +38,8 @@ In der ersten Minute nach einem Schock handelst du falsch, wenn du sofort loslä
 4. **P** — Plan: Entscheide die nächsten drei Handlungen.
 5. **P** — Proceed: Führe die erste Handlung aus.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.1 „STOPP-Protokoll“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B1-01 (Checklisten-Anhang am Bandende) — „2.1 STOPP-Protokoll“.
 
-- [ ] Stopp genommen, bevor etwas bewegt wurde
-- [ ] Drei Gefahren benannt
-- [ ] Drei nächste Handlungen notiert (siehe Konzept 9.1)
 
 > **BAUSTEIN:** Vier Sekunden Stopp retten vier Stunden Irrweg.
 
@@ -64,12 +59,8 @@ PanikAtmung erhöht den Verbrauch und verschlechtert Entscheidungen. Das 4–6-P
 3. Ausatmen durch den Mund — 6 Sekunden.
 4. Wiederholen: 5 Zyklen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.2 „Atemprotokoll 4–6“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B1-02 (Checklisten-Anhang am Bandende) — „2.2 Atemprotokoll 4–6“.
 
-- [ ] 5 volle Zyklen gemacht
-- [ ] Schulter und Kiefer bewusst gelöst
 
 Variante bei Krankheit (Asthma, Herz): nur verlängertes Ausatmen, kein Luftanhalten.
 
@@ -115,13 +106,8 @@ Unstrukturierte Gespräche eskalieren in der Krise. Die 15-min-Box begrenzt Rede
 3. Danach Entscheidung oder Vertagung — siehe Konzept B10-4.2 (Rat & Streit, Band 10).
 4. Protokollführer schreibt mit (siehe Konzept 9.1).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.4 „Gesprächsordnung (15-min-Box)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B1-03 (Checklisten-Anhang am Bandende) — „2.4 Gesprächsordnung (15-min-Box)“.
 
-- [ ] Thema vorab angesagt
-- [ ] Redezeiten eingehalten
-- [ ] Entscheidung oder neuer Termin im Protokoll
 
 > **BAUSTEIN:** Wer das Wort hat, hat die Uhr. 15 Minuten, dann ist Schluss.
 
@@ -171,13 +157,8 @@ Der Rucksack trägt 72 Stunden autarkes Handeln. Prüfkriterium: **unter 12 kg**
 | 1 | Karte, Kompass (siehe Konzept 4.3) |
 | 1 | Notrufmittel (siehe Konzept 5.1) |
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.2 „Notfallrucksack (72 h)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B1-04 (Checklisten-Anhang am Bandende) — „3.2 Notfallrucksack (72 h)“.
 
-- [ ] Gesamtgewicht gewogen: < 12 kg
-- [ ] Wasser auffüllbar eingepackt (Flaschen leer mitnehmen möglich)
-- [ ] Inhalt alle 6 Monate geprüft (siehe Konzept 8.2)
 
 > **BAUSTEIN:** Was du nicht tragen kannst, trägst du nicht. 12 kg sind das harte Limit.
 
@@ -196,12 +177,8 @@ Profile passen den Rucksack an die Tragkraft an (Kinder/Senioren 10–15 % Körp
 - Senior: Medikamente doppelt, Brille Ersatz, Gehhilfe falls nötig.
 - Haustier: Futter für 3 Tage, Leine, Transportbox.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.3 „Rucksack-Profile (Kinder/Senioren/Haustiere)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B1-05 (Checklisten-Anhang am Bandende) — „3.3 Rucksack-Profile (Kinder/Senioren/Haustiere)“.
 
-- [ ] Jedem sein Gewicht zugewiesen und gewogen
-- [ ] Medikamente des Seniors doppelt eingepackt
 
 **Querverweise:** siehe Konzept 6.5, siehe Konzept 3.2.
 
@@ -219,13 +196,8 @@ Netzausfall bedeutet: keine digitale Absprache. Der Treffpunkt-Plan ist schriftl
 3. Plan jedem Mitglied schriftlich geben; Kopie im Rucksack (siehe Konzept 3.2).
 4. Ohne Lebenszeichen nach +60 Minuten: siehe Konzept 5.2 (Botenregeln).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.4 „Treffpunkt-Plan (A/B + Abholliste)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B1-06 (Checklisten-Anhang am Bandende) — „3.4 Treffpunkt-Plan (A/B + Abholliste)“.
 
-- [ ] A und B schriftlich notiert
-- [ ] Abholliste vollständig
-- [ ] +60-min-Regel allen bekannt
 
 > **BAUSTEIN:** Papier hält länger als Akku. Schreibe jeden Plan zweimal.
 
@@ -271,22 +243,8 @@ Planungsgrundsatz (grün, W21/BBK): **72 Stunden komplett autark** planen (kein 
 12. **Kochen/Heizen ohne Strom:** Campingkocher nur mit Lüften und CO-Melder; **nie in der Wohnung grillen oder heizen** — Erstickungsgefahr (`warn-3`, siehe B3-6.3 und B3-5.1).
 13. **Notstromaggregat nur außerhalb des Hauses** betreiben, nur bei Bedarf (CO, siehe B3-6.3).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass in den ersten 60 Minuten eines Blackouts kein kritischer Schritt vergessen wird (Wasser, Licht, Information, Medikamente, CO-Schutz).
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium für den Blackout-Start; ohne vollständige Liste fehlt im Ernstfall Wasser, Licht oder Information.
-Fehlt ein Punkt, ist die Ausgangslage gefährdet — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B1-07 (Checklisten-Anhang am Bandende) — „3a.2 Sofortmaßnahmen“.
 
-- [ ] Geräte ausgesteckt, eine Lampe an
-- [ ] Familie informiert, Treffpunkt steht (B1-3.4)
-- [ ] Wasser aufgefüllt (Badewanne/Becken/Gefäße) — Ziel: 2 l/Pers/Tag × 14 T erreichbar (B2-8.1)
-- [ ] Licht/Wärme an festem Ort bereit, Kerzen-Regel klar
-- [ ] Handy im Flugmodus
-- [ ] Stolperfallen entfernt, Aufzüge geprüft
-- [ ] UKW-Radio läuft (Fallback zu NINA, BL8)
-- [ ] Ein Raum als Aufenthaltsraum gewählt, Lüftung klar (B4-2.1, warn-3)
-- [ ] Kühlschrank-Strategie klar (BL6 konservativ)
-- [ ] Medikamente 14 Tage + Insulin kühl + Impfpass (B8-8.1, BL2)
-- [ ] Toilette ohne Wasser organisiert (B2-9.1)
-- [ ] Koch-/Heizlösung ohne Wohnungs-Grill (B3-5.1, warn-3)
 
 **Erklärung:**
 
@@ -298,20 +256,8 @@ Fehlt ein Punkt, ist die Ausgangslage gefährdet — die Folge ist unter „Erkl
 
 ### 3a.3 Grundausstattung Blackout (BBK-Kategorien) — grün · P 9 · M unbedenklich · V 9
 
-**Checkliste — Zweck und Abnahme:** Diese Liste ist die Blackout-Grundausstattung (BBK-Checkliste, 14-Tage-Horizont). Erfüllt ist sie, wenn jedes Kästchen abgehakt **und** der Vorrat eingelagert/verifiziert ist (Gewicht, Verfallsdaten, Funktionstest Radio/CO-Melder) — das ist das Abnahmekriterium.
-Fehlt ein Punkt, ist die Autonomie in der Kategorie nicht gegeben — Folge siehe „Erklärung → Typische Fehler“ des Kapitels 3a.2 bzw. des jeweiligen Querverweis-Bands. ROHWERT-Angaben (Beträge, Gerätegrößen) sind `LÜCKE BL6 (ungeprüft)` und als solche markiert.
+**Checkliste:** siehe CL-B1-08 (Checklisten-Anhang am Bandende) — „3a.3 Grundausstattung Blackout (BBK-Kategorien)“.
 
-- [ ] **Wasser:** 2 l Trinkwasser/Pers/Tag × 14 Tage, kühl-dunkel gelagert (grün, W1/W21; siehe B2-8.1); getrennter Gesamtbedarf (Kochen/Hygiene 7,5–10 l, W2) klären (`LÜCKE BL3`)
-- [ ] **Nahrung:** haltbare, kalt verzehrbare Lebensmittel × 14 Tage (Konserven, Zwieback, H-Milch, Nüsse, Trockenobst) + Campingkocher + Brennstoff (BBK; siehe B7-2.2/B7-9.1; `LÜCKE BL10` 10 vs. 14 Tage)
-- [ ] **Licht:** Taschenlampe + Ersatzbatterien, Stirnlampe, Kerzen + Feuerzeug/Streichhölzer (nie unbeaufsichtigt, B3-9.1); genaue Lumen/Zahl `LÜCKE BL6 (ROHWERT)`
-- [ ] **Wärme:** warme Kleidung, Decken, Schlafsack; netzunabhängige Heizung (Gasheizer/Petroleumofen) nur mit Zündsicherung + **CO-Melder** (`warn-3`, W14; siehe B3-6.3, B4-2.1)
-- [ ] **Kommunikation:** Kurbelradio oder batteriebetriebenes UKW-Radio (Fallback zu NINA, `LÜCKE BL8`), Notfallkontakte/Telefonnummern **auf Papier** (laminiert, siehe B1-3.4), Powerbank (Größe `LÜCKE BL6`)
-- [ ] **Finanzen:** Bargeld-Reserve in kleinen Scheinen (Geldautomat/EC fällt aus; Betrag `LÜCKE BL6, ROHWERT 200–500 €`)
-- [ ] **Dokumente:** Kopien (Ausweis, Versicherung, Impfpass, Medikamentenliste) wasserdicht gelagert (B8-8.1)
-- [ ] **Medizin:** Hausapotheke + Dauermedikation **14 Tage** (Kompendium-Wert; `LÜCKE BL2`), Insulin kühl (B8-2.2), Thermometer (B8-8.1)
-- [ ] **Hygiene:** Feuchttücher, Müllsäcke, Toilettenpapier, Desinfektionsmittel, Campingtoilette/Eimer+Säcke (B2-9.1)
-- [ ] **Sicherheit:** Rauchmelder, Feuerlöscher, **CO-Melder** (Pflicht bei alternativer Heizung, `warn-3`), FFP2
-- [ ] **Haustiere:** Futter + Wasser × 14 Tage
 
 **Erklärung:**
 
@@ -364,12 +310,8 @@ Ein senkrechter Stab wirft einen Schatten, dessen Spitze sich bewegt. Daraus bes
 5. Senkrecht dazu steht Norden.
 6. Uhr-Methode klassisch: **Stundenzeiger der Uhr auf die Sonne richten** — Süden liegt auf der halben Strecke zwischen Stundenzeiger und 12 Uhr (Winterzeit). **Sommerzeit-Korrektur:** eine Stunde zurückrechnen (MEZ = Sommerzeit − 1 h). Beispiel: 15 Uhr Sommerzeit = 14 Uhr MEZ; halbe Strecke zwischen 14 und 12 = Richtung 13 Uhr = Süden. Gegenprobe mit Konzept 4.2 (Polarstern).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.1 „Schattenstab & Uhr-Methode“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B1-09 (Checklisten-Anhang am Bandende) — „4.1 Schattenstab & Uhr-Methode“.
 
-- [ ] Mindestens 15 Minuten zwischen den Markierungen
-- [ ] Sommerzeit-Korrektur beachtet
 
 > **BAUSTEIN:** Der Schatten wandert nach Osten. Punkt 1 ist Westen, Punkt 2 ist Osten.
 
@@ -388,12 +330,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 4. Gegenprobe: Cassiopeia (W) steht gegenüber, jenseits des Polarsterns.
 5. Lot vom Polarstern zum Horizont = Norden.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.2 „Polarstern (Fünffach-Verlängerung, Cassiopeia)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B1-10 (Checklisten-Anhang am Bandende) — „4.2 Polarstern (Fünffach-Verlängerung, Cassiopeia)“.
 
-- [ ] Fünffach-Verlängerung geprüft
-- [ ] Cassiopeia als Gegenprobe gesichtet
 
 > **BAUSTEIN:** Der Polarstern bewegt sich nicht. Alles andere dreht sich um ihn.
 
@@ -411,13 +349,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 3. Eigenen Stand eintragen; Richtung mit Kompass nehmen.
 4. Marschziel bestimmen. Zwischenziele alle 500 m setzen. Genauigkeit: 1 cm auf der Karte = 250 m (1:25.000) bzw. 500 m (1:50.000); Ablesefehler ± 1 cm = ± 250–500 m — deshalb Zwischenziele und nicht das Endziel allein anpeilen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.3 „Karte lesen“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B1-11 (Checklisten-Anhang am Bandende) — „4.3 Karte lesen“.
 
-- [ ] Nordausrichtung vor dem Lesen
-- [ ] Maßstab notiert
-- [ ] Zwischenziele gesetzt
 
 **Querverweise:** siehe Konzept 4.1, siehe Konzept 4.2, siehe Konzept 4.4.
 
@@ -460,12 +393,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. Pause, dann wieder drei Signale. Nie Dauerfeuer als Notzeichen (siehe Konzept B3-9.2: drei Feuer = Notzeichen).
 3. Antwort erwartet: zwei Signale = „Verstanden", ein Signal = „Nein“.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.1 „Notrufzeichen & Pfeife (3 Signale/min)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B1-12 (Checklisten-Anhang am Bandende) — „5.1 Notrufzeichen & Pfeife (3 Signale/min)“.
 
-- [ ] Drei-Signal-Rhythmus geübt (siehe Konzept 8.2)
-- [ ] Zeichen tags und nachts unterscheidbar
 
 > **BAUSTEIN:** Drei, Pause, drei. Jedes andere Muster ist kein Notruf.
 
@@ -483,13 +412,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 3. **+60-min-Regel:** Bleibt ein Bote 60 Minuten überfällig, gilt er als vermisst; Suchtrupp nach Konzept 5.1 Zeichengebung.
 4. Übergabe schriftlich (Netzausfall).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.2 „Treffpunkte & Botenregeln (+60-min-Regel)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B1-13 (Checklisten-Anhang am Bandende) — „5.2 Treffpunkte & Botenregeln (+60-min-Regel)“.
 
-- [ ] Bote doppelt besetzt
-- [ ] +60-min-Frist notiert
-- [ ] Übergabezettel vorbereitet
 
 > **BAUSTEIN:** Ein Bote ist keiner. Zwei Boten oder keiner.
 
@@ -514,12 +438,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 3. Klinge nach Gebrauch reinigen, trocknen, ölen (siehe Konzept B9-7.3).
 4. Schärfe prüfen: Papier sauber durchtrennen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.1 „Messer“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B1-14 (Checklisten-Anhang am Bandende) — „6.1 Messer“.
 
-- [ ] Schnittrichtung weg vom Körper
-- [ ] Klinge gepflegt (siehe Konzept B9-4.2)
 
 > **BAUSTEIN:** Das Messer schneidet in eine Richtung: weg von dir.
 
@@ -537,13 +457,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 3. Nie hangabwärts unterhalb einer arbeitenden Person stehen — siehe Konzept B9-3.1, tödliche Minute, `warn-9a`.
 4. Axt nach Gebrauch mit Schneidenschutz versehen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.2 „Säge & Axt“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B1-15 (Checklisten-Anhang am Bandende) — „6.2 Säge & Axt“.
 
-- [ ] Sperrzone markiert
-- [ ] Zwei Fluchtwege 45° frei
-- [ ] Niemals hangabwärts darunter
 
 > **BAUSTEIN:** Wo die Axt schwingt, steht niemand. 2 Stiellängen, 2 Fluchtwege, 45°.
 
@@ -568,12 +483,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. Knoten nach Belastung kontrollieren und nachziehen.
 3. Lastendes Seil nie mit dem Messer durchtrennen — auslaufen lassen (siehe Konzept B9-5.2).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.3 „Fünf Serienknoten“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B1-16 (Checklisten-Anhang am Bandende) — „6.3 Fünf Serienknoten“.
 
-- [ ] Alle fünf Knoten blind machbar
-- [ ] Nach Belastung kontrolliert
 
 > **BAUSTEIN:** Ein Knoten, der nicht hält, ist kein Knoten. Zieh ihn fest und prüfe ihn zweimal.
 
@@ -592,12 +503,8 @@ Als **Behelf** deklariert: Funktion eingeschränkt, Grenzen ehrlich benennen.
 - Glasscherbe als Schneide: Griff mit Stoff umwickeln.
 - Dosenblech als Schaufel/Spatel.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.4 „Behelfswerkzeug“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B1-17 (Checklisten-Anhang am Bandende) — „6.4 Behelfswerkzeug“.
 
-- [ ] Behelf als Behelf gekennzeichnet
-- [ ] Grenzen (z. B. < 5 cm) eingehalten
 
 > **BAUSTEIN:** Ein Behelf rettet die Situation, nicht den Komfort. Kenne seine Grenze.
 
@@ -618,12 +525,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 Konsistenz (W20): 10-l-Wasserkanister = 10 kg = eine Seite tragen (siehe Konzept B2-4.2); Sanitätsmappe < 3 kg (siehe Konzept B8-8.1); Werkzeugkiste ≤ ¼ Körpergewicht (siehe Konzept B9-8.1).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.5 „Traglast (15–20 % / 30 % / Kinder 10–15 %)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B1-18 (Checklisten-Anhang am Bandende) — „6.5 Traglast (15–20 % / 30 % / Kinder 10–15 %)“.
 
-- [ ] Last gewogen oder geschätzt und gegen Tabelle geprüft
-- [ ] Schwere Last auf den Rücken, nicht in der Hand
 
 > **BAUSTEIN:** 20 Prozent auf Dauer, 30 Prozent nur kurz, Kinder 15. Rechne konservativ.
 
@@ -647,12 +550,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. Maße: Daumenbreite ≈ 2,5 cm; Handspanne ≈ 20 cm; Elle (Handgelenk–Mittelfingerspitze) ≈ 45 cm; Schritt ≈ 75 cm.
 3. Schrittfehler < 10 % durch Eichung an bekannter Strecke (100 m) prüfen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.1 „Körpermaß-System“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B1-19 (Checklisten-Anhang am Bandende) — „7.1 Körpermaß-System“.
 
-- [ ] Eichkarte angelegt
-- [ ] Schritt an 100 m geeicht
 
 > **BAUSTEIN:** Dein Körper ist das Lineal. Eich ihn einmal, dann trau ihm.
 
@@ -673,12 +572,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 
 **kg ≠ l** — Masse ist nicht Volumen. 1 l Wasser = 1 kg; Öl, Mehl, Reis weichen ab.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.2 „Mengen & Referenzmaße“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B1-20 (Checklisten-Anhang am Bandende) — „7.2 Mengen & Referenzmaße“.
 
-- [ ] Referenzlöffel markiert
-- [ ] kg/l-Trennung beachtet
 
 **Querverweise:** siehe Konzept 7.1, siehe Konzept B2-2.1, Liter-Bedarf.
 
@@ -693,12 +588,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. Zeit-Sprechen: Zähle gleichmäßig „einundzwanzig, zweiundzwanzig, dreiundzwanzig …“ — jedes „…undzwanzig“ ist etwa **1 Sekunde**. An deinem Puls geeicht (siehe oben).
 3. Restlicht-1-h: Vor Einbruch der Dunkelheit alle Arbeiten einstellen, die Licht brauchen (s. Konzept B4-9.2).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.3 „Zeit ohne Uhr (± 30 min)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B1-21 (Checklisten-Anhang am Bandende) — „7.3 Zeit ohne Uhr (± 30 min)“.
 
-- [ ] Puls als Sekundentakt geeicht
-- [ ] Restlicht-1-h-Regel bekannt
 
 > **BAUSTEIN:** Dein Puls ist die Uhr. Zähle 15 Sekunden, multipliziere mit 4.
 
@@ -717,12 +608,8 @@ Die Ellbogenprobe ist **ungenau** — sie ist ein Notbehelf, kein Messgerät. **
 2. Konservative Verbrühungsgrenze **55 °C** (W22): ab 55 °C verbrüht die Haut in Sekunden — nie heißer als handwarm zum Baden/Wunden spülen.
 3. Im Zweifel kühler annehmen.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.4 „Temperatur-Feinmessung (Ellbogenprobe)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B1-22 (Checklisten-Anhang am Bandende) — „7.4 Temperatur-Feinmessung (Ellbogenprobe)“.
 
-- [ ] Ellbogenprobe geübt (siehe Konzept 8.1/8.2)
-- [ ] 55-°C-Grenze eingehalten
 
 > **BAUSTEIN:** Was der Ellbogen als angenehm empfindet, ist sicher. Alles Heißere ist Risiko.
 
@@ -751,12 +638,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 | Q3 | Orientierung (4.1–4.3), Nachtübung (2.3) |
 | Q4 | Werkzeug (6.1–6.5), Knoten (6.3), Rucksack (3.2) |
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.1 „Jahres-Übungsplan“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B1-23 (Checklisten-Anhang am Bandende) — „8.1 Jahres-Übungsplan“.
 
-- [ ] Pro Quartal ein Wochenende eingeplant
-- [ ] Pro Übung ein Protokoll (siehe Konzept 8.2)
 
 > **BAUSTEIN:** Einmal im Quartal üben, was du einmal im Jahr brauchst.
 
@@ -775,13 +658,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. **Verfalluhr 12 Monate:** Nach 12 Monaten ohne Wiederholung gilt die Fähigkeit als verfallen.
 3. **V < 6 → Übungspflicht** sofort einplanen (z. B. 7.4 Ellbogenprobe, 3.3.3 Band 3 Reibfeuer, 9.2.4 Band 9 Feuerschweißen).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.2 „Übungsprotokoll (Verfalluhr 12 Monate)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B1-24 (Checklisten-Anhang am Bandende) — „8.2 Übungsprotokoll (Verfalluhr 12 Monate)“.
 
-- [ ] Protokoll geführt
-- [ ] Verfalldatum (Datum + 12 Monate) notiert
-- [ ] Übungspflicht bei V < 6 ausgelöst
 
 > **BAUSTEIN:** Was 12 Monate nicht geübt wurde, ist nicht mehr da.
 
@@ -807,12 +685,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. Konsistent mit Wasser-Inventur (siehe Konzept B2-8.1).
 3. Kopiervorlage: Anhang A Band 1.
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.1 „Stundenprotokoll 24 h“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B1-25 (Checklisten-Anhang am Bandende) — „9.1 Stundenprotokoll 24 h“.
 
-- [ ] Protokoll alle 24 h geführt
-- [ ] Wasserverbrauch gegen Inventur geprüft (siehe Konzept B2-8.1)
 
 > **BAUSTEIN:** Schreibe auf, solange du denkst. Papier vergisst nicht.
 
@@ -829,12 +703,8 @@ Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „
 2. Jede Rolle **doppelt besetzen** — Krankheit oder Verletzung einer Person darf die Rolle nicht ausfallen lassen.
 3. Konsistent mit Ämtern des Dorfes (siehe Konzept B10-4.1).
 
-**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.2 „Wochenrollenplan (doppelt besetzt)“ kein Prüfpunkt vergessen wird.
-Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
-Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+**Checkliste:** siehe CL-B1-26 (Checklisten-Anhang am Bandende) — „9.2 Wochenrollenplan (doppelt besetzt)“.
 
-- [ ] Jede Rolle doppelt besetzt
-- [ ] Wochenplan schriftlich ausgehängt
 
 > **BAUSTEIN:** Jede Rolle zweimal — eine Rolle ist keine Rolle.
 
@@ -887,73 +757,355 @@ Verfalluhr: 12 Monate ohne Wiederholung = Fähigkeit verfallen (siehe B1-8.2).
 
 | Begriff | Bedeutung |
 |---|---|
-| Heuristik | Faustregel mit bekannter Schwankungsbreite, keine exakte Gesetzesangabe (z. B. Regel der Drei, siehe Konzept 3.1) |
-| Notbehelf | Lösung mit P < 5; nur wenn nichts Besseres verfügbar; immer als solcher gekennzeichnet |
-| Latrine | Grabtiefe 25–30 cm **und** Abstand zur Wasserstelle ≥ 30 m (besser 50 m) — verschiedene Größen, siehe Konzepte B2-1.2 und B2-9.1 |
-| Gesottenes Wasser | Abgekochtes Wasser: 1 min sprudelnd, ab 2.000 m 3 min (siehe Konzept B2-6.2) |
-| Traglast | 15–20 % Körpergewicht (Marsch), 30 % (kurz), 10–15 % (Kinder/Ältere), siehe Konzept 6.5 |
-| Verfalluhr | 12 Monate ohne Übung = Fähigkeit verfallen, siehe Konzept 8.2 |
-| WARNRAHMEN | Markierter Kasten zu warnpflichtigem Risiko (Botulismus, CO, Tetanus, Giftpflanzen u. a.), immer mit Warngrafik `warn-N.svg` |
-| Notwehr | § 32 StGB: nur bei gegenwärtigem rechtswidrigem Angriff, verhältnismäßig (siehe Konzept B10-4.2) |
-| Notstand | §§ 34/35 StGB: Eingriff in fremdes Eigentum bei Lebensgefahr gerechtfertigt/entschuldigt (siehe Konzept B10-5.2) |
-| Ampel | grün = freigegeben; gelb = mit Auflage; rot = ausgeschlossen bis korrigiert |
-| P / M / V | Bewertung praktisch 1–10 (< 5 = Notbehelf), moralisch 4-stufig, Verständlichkeit 1–10 (< 6 = Übungspflicht) |
-| Abb. N.M | Abbildung N.M im Band N; Warngrafik `warn-N.svg` |
-| Querverweis-Schema | innerhalb eines Bandes: „Konzept X.Y“; zwischen Bänden: „Konzept B<Band>-X.Y“ (z. B. B3-6.3 = Band 3, Kapitel 6, Konzept 3). Nie „weiter oben“ |
-| § 32 StGB | Notwehr: nur bei gegenwärtigem rechtswidrigem Angriff, verhältnismäßig; keine Rache, keine Präventivgewalt |
-| §§ 34/35 StGB | Notstand: Eingriff in fremdes Eigentum bei Gefahr für Leib/Leben ist gerechtfertigt (34) bzw. entschuldigt (35) |
-| § 123 StGB | Hausrecht: Eindringen in Wohnungen ist verboten; Abwehr des Eindringlings erlaubt |
-| § 291 StGB / § 138 Abs. 2 BGB | Wucher: Ausbeutung der Zwangslage + krasses Missverhältnis ist strafbar / der Vertrag nichtig |
-| § 292 StGB | Wilderei: Jagd ohne Jagdschein/Befugnis ist strafbar |
-| § 19 Abs. 1 BJagdG | Schlingen und Totschlagfallen sind verboten; nur amtlich zugelassene Lebendfang-Kastenfallen erlaubt |
-| § 22 / § 38 BJagdG | Schonzeiten; Zuwiderhandlung ist strafbar |
-| §§ 23/39/44 BNatSchG | Naturschutz: in NSG Sammeln verboten (23); Handstrauß nur für nicht geschützte Arten (39); geschützte Arten entnehmen verboten (44) |
-| WaffG | Waffenrecht: Schusswaffen nur mit Erlaubnis (Waffenschein) führen |
-| Blackout / Brownout | Blackout = unkontrollierter großflächiger Stromkollaps (Tage); Brownout = kontrollierte Spannungsschwankungen; Stromausfall = lokal, Minuten–Stunden. Phasenmodell siehe B1-3a.1 |
-| STOPP | Stopp–Think–Observe–Plan–Proceed, siehe Konzept 2.1 |
 
----
 
-## Bandabschluss Band 1 — Bewertungsmatrix + Devise
+## Anhang D — Checklisten (Band 1)
 
-| Konzept | P | M | V | Ampel |
-|---|---|---|---|---|
-| 2.1 STOPP | 10 | unbedenklich | 9 | grün |
-| 2.2 Atem 4–6 | 9 | unbedenklich | 10 | grün |
-| 2.3 Schlaf/Wachenplan | 8 | unbedenklich | 9 | grün |
-| 2.4 Gesprächsordnung | 7 | unbedenklich | 9 | grün |
-| 3.1 Regel der Drei | 9 | unbedenklich | 10 | grün |
-| 3.2 Notfallrucksack | 9 | unbedenklich | 9 | grün |
-| 3.3 Rucksack-Profile | 8 | unbedenklich | 9 | grün |
-| 3.4 Treffpunkt-Plan | 9 | unbedenklich | 9 | grün |
-| 4.1 Schattenstab | 8 | unbedenklich | 9 | grün |
-| 4.2 Polarstern | 8 | unbedenklich | 9 | grün |
-| 4.3 Karte lesen | 9 | unbedenklich | 8 | grün |
-| 4.4 Wetter lesen | 7 | unbedenklich | 8 | grün |
-| 5.1 Notrufzeichen | 9 | unbedenklich | 10 | grün |
-| 5.2 Botenregeln | 8 | unbedenklich | 9 | grün |
-| 6.1 Messer | 9 | unbedenklich | 9 | grün |
-| 6.2 Säge & Axt | 8 | unbedenklich | 8 | grün |
-| 6.3 Fünf Knoten | 9 | unbedenklich | 9 | grün |
-| 6.4 Behelfswerkzeug | 6 | unbedenklich | 8 | grün |
-| 6.5 Traglast | 8 | unbedenklich | 9 | grün |
-| 7.1 Körpermaß | 8 | unbedenklich | 10 | grün |
-| 7.2 Mengen | 8 | unbedenklich | 9 | grün |
-| 7.3 Zeit ohne Uhr | 7 | unbedenklich | 9 | grün |
-| 7.4 Temperatur (Ellbogen) | 5 | unbedenklich | 9 | **gelb (Notbehelf)** |
-| 8.1 Jahres-Übungsplan | 9 | unbedenklich | 9 | grün |
-| 8.2 Übungsprotokoll | 8 | unbedenklich | 9 | grün |
-| 9.1 Stundenprotokoll | 9 | unbedenklich | 8 | grün |
-| 9.2 Wochenrollenplan | 8 | unbedenklich | 9 | grün |
-| 3a.1 Phasenmodell (Saurugg) | 8 | unbedenklich | 9 | grün (Zeithorizonte: LÜCKE BL6) |
-| 3a.2 Sofortmaßnahmen 60 min | 9 | unbedenklich | 9 | grün (Einzelwerte tlw. BL2/BL4/BL6/BL8) |
-| 3a.3 Grundausstattung Blackout | 9 | unbedenklich | 9 | grün (BBK; Beträge/Größen BL6/BL10) |
-| 3a.4 Blackout-Drill | 8 | unbedenklich | 9 | grün |
+Alle Checklisten des Bandes, gesammelt am Bandende. Im Kapiteltext steht jeweils nur der Querverweis „siehe CL-B1-NN“. Aufbau pro Checkliste: Kennziffer + sprechende Bezeichnung + Begriffserläuterung (Mini-Glossar) + bestehende Ziel-Präambel (Zweck/Abnahme) + Punkte.
 
-> **Devise Band 1:** „Halte inne, atme, handle in der Reihenfolge Luft–Wärme–Wasser–Nahrung — und übe, was du können musst, bevor du es brauchst.“
+### CL-B1-01 — 2.1 STOPP-Protokoll
 
-**Erklärung:**
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 
-- **Prinzip (warum das funktioniert):** Doppelte Besetzung jeder Rolle absorbiert Ausfälle (Krankheit, Verletzung); Rotation verhindert Überlastung Einzelner. Ämter an die Hand, nicht an die Person (B10-4.1).
-- **Situationsvarianten (wann welche):** Kleine Gruppe (< 4): Rollen kombinieren, aber Wache nie allein. Stadt: Rollen auf Haushalte der Nachbarschaft verteilen.
-- **Typische Fehler (warum + Folge):** Rollen einfach besetzen. Folge: Bei Ausfall einer Person bricht die Rolle aus — z. B. keine Feuerwache (warn-3).
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.1 „STOPP-Protokoll“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Stopp genommen, bevor etwas bewegt wurde
+- [ ] Drei Gefahren benannt
+- [ ] Drei nächste Handlungen notiert (siehe Konzept 9.1)
+
+### CL-B1-02 — 2.2 Atemprotokoll 4–6
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.2 „Atemprotokoll 4–6“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] 5 volle Zyklen gemacht
+- [ ] Schulter und Kiefer bewusst gelöst
+
+### CL-B1-03 — 2.4 Gesprächsordnung (15-min-Box)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.4 „Gesprächsordnung (15-min-Box)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Thema vorab angesagt
+- [ ] Redezeiten eingehalten
+- [ ] Entscheidung oder neuer Termin im Protokoll
+
+### CL-B1-04 — 3.2 Notfallrucksack (72 h)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.2 „Notfallrucksack (72 h)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Gesamtgewicht gewogen: < 12 kg
+- [ ] Wasser auffüllbar eingepackt (Flaschen leer mitnehmen möglich)
+- [ ] Inhalt alle 6 Monate geprüft (siehe Konzept 8.2)
+
+### CL-B1-05 — 3.3 Rucksack-Profile (Kinder/Senioren/Haustiere)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.3 „Rucksack-Profile (Kinder/Senioren/Haustiere)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Jedem sein Gewicht zugewiesen und gewogen
+- [ ] Medikamente des Seniors doppelt eingepackt
+
+### CL-B1-06 — 3.4 Treffpunkt-Plan (A/B + Abholliste)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.4 „Treffpunkt-Plan (A/B + Abholliste)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] A und B schriftlich notiert
+- [ ] Abholliste vollständig
+- [ ] +60-min-Regel allen bekannt
+
+### CL-B1-07 — 3a.2 Sofortmaßnahmen
+
+**Begriffe (Mini-Glossar):**
+- CO = Kohlenmonoxid, geruchlos, tödlich; warn-3 (B3-6.3)
+- UKW = Radioband; funktioniert im Blackout garantiert (Notstrom der Sender)
+- NINA = Warn-App des Bundes; braucht mobiles Internet, UKW-Fallback (BL8)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass in den ersten 60 Minuten eines Blackouts kein kritischer Schritt vergessen wird (Wasser, Licht, Information, Medikamente, CO-Schutz).
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium für den Blackout-Start; ohne vollständige Liste fehlt im Ernstfall Wasser, Licht oder Information.
+Fehlt ein Punkt, ist die Ausgangslage gefährdet — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Geräte ausgesteckt, eine Lampe an
+- [ ] Familie informiert, Treffpunkt steht (B1-3.4)
+- [ ] Wasser aufgefüllt (Badewanne/Becken/Gefäße) — Ziel: 2 l/Pers/Tag × 14 T erreichbar (B2-8.1)
+- [ ] Licht/Wärme an festem Ort bereit, Kerzen-Regel klar
+- [ ] Handy im Flugmodus
+- [ ] Stolperfallen entfernt, Aufzüge geprüft
+- [ ] UKW-Radio läuft (Fallback zu NINA, BL8)
+- [ ] Ein Raum als Aufenthaltsraum gewählt, Lüftung klar (B4-2.1, warn-3)
+- [ ] Kühlschrank-Strategie klar (BL6 konservativ)
+- [ ] Medikamente 14 Tage + Insulin kühl + Impfpass (B8-8.1, BL2)
+- [ ] Toilette ohne Wasser organisiert (B2-9.1)
+- [ ] Koch-/Heizlösung ohne Wohnungs-Grill (B3-5.1, warn-3)
+
+### CL-B1-08 — 3a.3 Grundausstattung Blackout (BBK-Kategorien)
+
+**Begriffe (Mini-Glossar):**
+- CO = Kohlenmonoxid, geruchlos, tödlich; warn-3 (B3-6.3)
+- FFP2 = Atemschutzmaske gegen Aerosole
+- BBK = Bundesamt für Bevölkerungsschutz; 72-h-Konzept, 2 l/Pers/Tag
+- UKW = Radioband; funktioniert im Blackout garantiert (Notstrom der Sender)
+- NINA = Warn-App des Bundes; braucht mobiles Internet, UKW-Fallback (BL8)
+- CO-Melder = Warngerät für Kohlenmonoxid; Pflicht bei Notheizung (warn-3)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste ist die Blackout-Grundausstattung (BBK-Checkliste, 14-Tage-Horizont). Erfüllt ist sie, wenn jedes Kästchen abgehakt **und** der Vorrat eingelagert/verifiziert ist (Gewicht, Verfallsdaten, Funktionstest Radio/CO-Melder) — das ist das Abnahmekriterium.
+Fehlt ein Punkt, ist die Autonomie in der Kategorie nicht gegeben — Folge siehe „Erklärung → Typische Fehler“ des Kapitels 3a.2 bzw. des jeweiligen Querverweis-Bands. ROHWERT-Angaben (Beträge, Gerätegrößen) sind `LÜCKE BL6 (ungeprüft)` und als solche markiert.
+
+
+- [ ] **Wasser:** 2 l Trinkwasser/Pers/Tag × 14 Tage, kühl-dunkel gelagert (grün, W1/W21; siehe B2-8.1); getrennter Gesamtbedarf (Kochen/Hygiene 7,5–10 l, W2) klären (`LÜCKE BL3`)
+- [ ] **Nahrung:** haltbare, kalt verzehrbare Lebensmittel × 14 Tage (Konserven, Zwieback, H-Milch, Nüsse, Trockenobst) + Campingkocher + Brennstoff (BBK; siehe B7-2.2/B7-9.1; `LÜCKE BL10` 10 vs. 14 Tage)
+- [ ] **Licht:** Taschenlampe + Ersatzbatterien, Stirnlampe, Kerzen + Feuerzeug/Streichhölzer (nie unbeaufsichtigt, B3-9.1); genaue Lumen/Zahl `LÜCKE BL6 (ROHWERT)`
+- [ ] **Wärme:** warme Kleidung, Decken, Schlafsack; netzunabhängige Heizung (Gasheizer/Petroleumofen) nur mit Zündsicherung + **CO-Melder** (`warn-3`, W14; siehe B3-6.3, B4-2.1)
+- [ ] **Kommunikation:** Kurbelradio oder batteriebetriebenes UKW-Radio (Fallback zu NINA, `LÜCKE BL8`), Notfallkontakte/Telefonnummern **auf Papier** (laminiert, siehe B1-3.4), Powerbank (Größe `LÜCKE BL6`)
+- [ ] **Finanzen:** Bargeld-Reserve in kleinen Scheinen (Geldautomat/EC fällt aus; Betrag `LÜCKE BL6, ROHWERT 200–500 €`)
+- [ ] **Dokumente:** Kopien (Ausweis, Versicherung, Impfpass, Medikamentenliste) wasserdicht gelagert (B8-8.1)
+- [ ] **Medizin:** Hausapotheke + Dauermedikation **14 Tage** (Kompendium-Wert; `LÜCKE BL2`), Insulin kühl (B8-2.2), Thermometer (B8-8.1)
+- [ ] **Hygiene:** Feuchttücher, Müllsäcke, Toilettenpapier, Desinfektionsmittel, Campingtoilette/Eimer+Säcke (B2-9.1)
+- [ ] **Sicherheit:** Rauchmelder, Feuerlöscher, **CO-Melder** (Pflicht bei alternativer Heizung, `warn-3`), FFP2
+- [ ] **Haustiere:** Futter + Wasser × 14 Tage
+
+### CL-B1-09 — 4.1 Schattenstab & Uhr-Methode
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.1 „Schattenstab & Uhr-Methode“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Mindestens 15 Minuten zwischen den Markierungen
+- [ ] Sommerzeit-Korrektur beachtet
+
+### CL-B1-10 — 4.2 Polarstern (Fünffach-Verlängerung, Cassiopeia)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.2 „Polarstern (Fünffach-Verlängerung, Cassiopeia)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Fünffach-Verlängerung geprüft
+- [ ] Cassiopeia als Gegenprobe gesichtet
+
+### CL-B1-11 — 4.3 Karte lesen
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.3 „Karte lesen“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Nordausrichtung vor dem Lesen
+- [ ] Maßstab notiert
+- [ ] Zwischenziele gesetzt
+
+### CL-B1-12 — 5.1 Notrufzeichen & Pfeife (3 Signale/min)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.1 „Notrufzeichen & Pfeife (3 Signale/min)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Drei-Signal-Rhythmus geübt (siehe Konzept 8.2)
+- [ ] Zeichen tags und nachts unterscheidbar
+
+### CL-B1-13 — 5.2 Treffpunkte & Botenregeln (+60-min-Regel)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.2 „Treffpunkte & Botenregeln (+60-min-Regel)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Bote doppelt besetzt
+- [ ] +60-min-Frist notiert
+- [ ] Übergabezettel vorbereitet
+
+### CL-B1-14 — 6.1 Messer
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.1 „Messer“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Schnittrichtung weg vom Körper
+- [ ] Klinge gepflegt (siehe Konzept B9-4.2)
+
+### CL-B1-15 — 6.2 Säge & Axt
+
+**Begriffe (Mini-Glossar):**
+- Sperrzone = 2 Stiellängen um schwingendes Werkzeug (B1-6.2, warn-9a)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.2 „Säge & Axt“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Sperrzone markiert
+- [ ] Zwei Fluchtwege 45° frei
+- [ ] Niemals hangabwärts darunter
+
+### CL-B1-16 — 6.3 Fünf Serienknoten
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.3 „Fünf Serienknoten“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Alle fünf Knoten blind machbar
+- [ ] Nach Belastung kontrolliert
+
+### CL-B1-17 — 6.4 Behelfswerkzeug
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.4 „Behelfswerkzeug“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Behelf als Behelf gekennzeichnet
+- [ ] Grenzen (z. B. < 5 cm) eingehalten
+
+### CL-B1-18 — 6.5 Traglast (15–20 % / 30 % / Kinder 10–15 %)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.5 „Traglast (15–20 % / 30 % / Kinder 10–15 %)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Last gewogen oder geschätzt und gegen Tabelle geprüft
+- [ ] Schwere Last auf den Rücken, nicht in der Hand
+
+### CL-B1-19 — 7.1 Körpermaß-System
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.1 „Körpermaß-System“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Eichkarte angelegt
+- [ ] Schritt an 100 m geeicht
+
+### CL-B1-20 — 7.2 Mengen & Referenzmaße
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.2 „Mengen & Referenzmaße“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Referenzlöffel markiert
+- [ ] kg/l-Trennung beachtet
+
+### CL-B1-21 — 7.3 Zeit ohne Uhr (± 30 min)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.3 „Zeit ohne Uhr (± 30 min)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Puls als Sekundentakt geeicht
+- [ ] Restlicht-1-h-Regel bekannt
+
+### CL-B1-22 — 7.4 Temperatur-Feinmessung (Ellbogenprobe)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.4 „Temperatur-Feinmessung (Ellbogenprobe)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Ellbogenprobe geübt (siehe Konzept 8.1/8.2)
+- [ ] 55-°C-Grenze eingehalten
+
+### CL-B1-23 — 8.1 Jahres-Übungsplan
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.1 „Jahres-Übungsplan“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Pro Quartal ein Wochenende eingeplant
+- [ ] Pro Übung ein Protokoll (siehe Konzept 8.2)
+
+### CL-B1-24 — 8.2 Übungsprotokoll (Verfalluhr 12 Monate)
+
+**Begriffe (Mini-Glossar):**
+- Verfalluhr = 12 Monate ohne Übung → verfallen (B1-8.2)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.2 „Übungsprotokoll (Verfalluhr 12 Monate)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Protokoll geführt
+- [ ] Verfalldatum (Datum + 12 Monate) notiert
+- [ ] Übungspflicht bei V < 6 ausgelöst
+
+### CL-B1-25 — 9.1 Stundenprotokoll 24 h
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.1 „Stundenprotokoll 24 h“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Protokoll alle 24 h geführt
+- [ ] Wasserverbrauch gegen Inventur geprüft (siehe Konzept B2-8.1)
+
+### CL-B1-26 — 9.2 Wochenrollenplan (doppelt besetzt)
+
+**Begriffe (Mini-Glossar):**
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.2 „Wochenrollenplan (doppelt besetzt)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Jede Rolle doppelt besetzt
+- [ ] Wochenplan schriftlich ausgehängt
+

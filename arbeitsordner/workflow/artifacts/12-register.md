@@ -1,8 +1,9 @@
 # 12-register.md — Alphabetisches Gesamtregister über alle 10 Bände (Phase G)
 
 **Agent:** index-builder (Phase G, parallel zu korrektor) · **Erstellt:** 2026-11-06 · **Definition:** `workflow/agents/13-index-builder.md`
-**Inputs:** `artifacts/03-planung.md` (Konzept-Nummern X.Y, Ampeln, Auflagen, Querverweis-Kette §3.4), `artifacts/04-redaktion.md` (Querverweis-Register §3, Warnrahmen-Pflicht §4), `artifacts/04-redaktion-band-01.md` … `04-redaktion-band-10.md` (finale Texte; **Glossar zentral in Band 1, Anhang D**)
+**Inputs:** `artifacts/03-planung.md` (Konzept-Nummern X.Y, Ampeln, Auflagen, Querverweis-Kette §3.4), `artifacts/04-redaktion.md` (Querverweis-Register §3, Warnrahmen-Pflicht §4, Checklisten-Konvention §1/Anhang), `artifacts/04-redaktion-band-01.md` … `04-redaktion-band-10.md` (finale Texte; **Glossar zentral in Band 1, Anhang D**; Checklisten gesammelt im Checklisten-Anhang am Bandende)
 **Output:** dieses Artefakt — fließt in den doc-builder (Phase H) ein.
+**Turn 2 (2026-11-06):** erweitert um **Checklisten-Register §3** nach editor Turn 7 — alle Checklisten stehen am Bandende mit Kennziffern `CL-B<Band>-NN` (223 Stück; Band 1: Anhang E, Bände 2–10: Anhang D; Quelle: `### CL-…`-Überschriften in den Band-Dateien).
 **Dokumentierte Annahme (keine Rückfrage laut WORKFLOW.md):** `11-korrektur.md` liegt zum Erstellungszeitpunkt noch nicht vor (korrektor läuft parallel in Phase G); das Register baut auf den Redaktionsständen `04-redaktion*.md` + `03-planung.md` auf und kann bei Bedarf gegen `11-korrektur.md` nachgezogen werden.
 
 ---
@@ -10,20 +11,22 @@
 ## 0. Konventionen (verbindlich für doc-builder, Phase H)
 
 1. **Verweisschema:** `B{n} X.Y` = Band n, Konzept X.Y (X = Kapitelnummer, Y = Konzept im Kapitel; Nummern fix aus `03-planung.md` §2). Beispiele: `B2 6.2` = Band 2, Kap. 6, Konzept 2 (Abkochen); `B6 5.1a` und `B7 6.2k` = Ersatz- bzw. korrigierte Fassung der rot gestrichenen Konzepte.
-2. **Nie Seitenzahlen allein.** Seiten verschieben sich beim Satz — das Register enthält daher **ausschließlich** Band-/Konzept-/Abschnittsverweise. Der **doc-builder trägt beim Satz (Phase H) hinter jede Referenz die Seitenzahl ein** (Format: `B2 6.2, S. 87`). Diese Seitenverweise sind im Register nicht enthalten und werden ausschließlich im Satz ergänzt (Markierung im Satz: `S. …`).
+2. **Nie Seitenzahlen allein.** Seiten verschieben sich beim Satz — das Register enthält daher **ausschließlich** Band-/Konzept-/Abschnittsverweise. Der **doc-builder trägt beim Satz (Phase H) hinter jede Referenz die Seitenzahl ein** (Format: `B2 6.2, S. 87`; beim Checklisten-Register: `Band n, Checklisten-Anhang, S. n`). Diese Seitenverweise sind im Register nicht enthalten und werden ausschließlich im Satz ergänzt (Markierung im Satz: `S. …`).
 3. **Abschnittsverweise** sind stabil und hier aufgenommen: Abbildungen `Abb. N.M` (Datei `abb-N-M.svg`), Warngrafiken `warn-N.svg`, Anhänge (z. B. `B1 Anhang D` = Glossar), Kapitelbereiche (z. B. `B7 Kap. 2–6`).
-4. **Sortierung:** DIN 5007-1 (ä = a, ö = o, ü = u, ß = ss); Zahlen (0–9) stehen vor den Buchstaben. Synonym-/Verweis-Einträge („siehe …“) stehen am selben Buchstaben wie ihr Ziel.
-5. **Keine Dubletten:** jeder Begriff genau einmal; alle Verweise eines Begriffs sind in seinem Eintrag gesammelt. „siehe auch“-Verknüpfungen sind zusätzlich inline bei jedem Eintrag gesetzt.
+4. **Sortierung:** DIN 5007-1 (ä = a, ö = o, ü = u, ß = ss); Zahlen (0–9) stehen vor den Buchstaben. Synonym-/Verweis-Einträge („siehe …“) stehen am selben Buchstaben wie ihr Ziel. Das Checklisten-Register (§3) ist nach Kennziffer sortiert (`CL-B1-01` … `CL-B10-21`).
+5. **Keine Dubletten:** jeder Begriff genau einmal; alle Verweise eines Begriffs sind in seinem Eintrag gesammelt. „siehe auch“-Verknüpfungen sind zusätzlich inline bei jedem Eintrag gesetzt. Gilt auch für die CL-Kennziffern: jede genau einmal.
 6. **Einheitliche Stichwort-Form:** Glossar-Begriffe (B1 Anhang D) bevorzugt; Konzept-Titel aus den Redaktionsständen `04-redaktion-band-*.md`.
 7. **ROT-Konzepte** (B6 5.1 „Schlinge & Totfang“; B7 6.2 alt „Einkochen Wasserbad“) tauchen nicht im Text auf und sind daher **keine** eigenen Stichwörter, sondern als Verweis auf den Ersatz geführt: B6 5.1a bzw. B7 6.2k (Gate G-2).
+8. **Checklisten-Kennziffern** `CL-Bn-NN` (editor Turn 7) sind stabil; sie verweisen auf den Checklisten-Anhang am Bandende (Band 1: **Anhang E**, Bände 2–10: **Anhang D** — maßgeblich ist die Konvention in `04-redaktion.md`; in `04-redaktion-band-01.md` ist der Checklisten-Anhang derzeit doppelt als „Anhang D“ überschrieben, gemeint ist Anhang E). Verweisformat im Register: `Band n, Checklisten-Anhang (Anhang D/E), S. n` — die Seite `S. n` trägt der doc-builder beim Satz ein (§0.2).
 
 ## 1. Statistik / Abdeckung
 
-- **363 Register-Einträge** gesamt: 298 Haupt-Einträge (mit eigenen Referenzen) + 65 Synonym-/Verweis-Einträge („siehe …“)
-- **244/244 Konzepte** über alle 10 Bände referenziert (inkl. B6 5.1a, B7 6.2k; B2 3.6 unbesetzt, B6 5.1 / B7 6.2 rot → Ersatz; Abdeckungs-Nachweis siehe §3)
+- **363 Register-Einträge** gesamt (§2): 298 Haupt-Einträge (mit eigenen Referenzen) + 65 Synonym-/Verweis-Einträge („siehe …“)
+- **244/244 Konzepte** über alle 10 Bände referenziert (inkl. B6 5.1a, B7 6.2k; B2 3.6 unbesetzt, B6 5.1 / B7 6.2 rot → Ersatz; Abdeckungs-Nachweis siehe §4)
+- **223 Checklisten-Kennziffern** `CL-B1-01` … `CL-B10-21` im Checklisten-Register §3 (B1: 26, B2: 25, B3: 24, B4: 23, B5: 24, B6: 20, B7: 19, B8: 21, B9: 20, B10: 21); alle 223 Text-Verweise `siehe CL-B…` lösen auf eine definierte Kennziffer auf
 - 15 Warngrafiken (`warn-*.svg`) + 2 text-only-Warnungen (Erbrechen, Aalblut) als eigene Sach-Einträge mit `warn-N`-Verweis
 - Rechtsbegriffe (Notwehr, Notstand, Hausrecht, Wucher, Wilderei, Schonzeiten, Naturschutz, Fischereirecht) mit Paragraphen
-- Dubletten-Prüfung beim Build: **0** doppelte Stichwörter / Sortierschlüssel; Sortierung und Vollständigkeit per Script geprüft
+- Dubletten-Prüfung beim Build: **0** doppelte Stichwörter / Sortierschlüssel / CL-Kennziffern; Sortierung und Vollständigkeit per Script geprüft
 
 ## 2. Gesamtregister (0–9, A–Z)
 
@@ -44,7 +47,7 @@
 ### A
 
 - **Aal (Blut roh giftig, hitzelabil)** — B6 9.2  · _text-only-Warnung_; siehe auch Wild-Küche
-- **Abb. N.M (Abbildung)** — B1 Anhang D  · _Konvention: Datei `abb-N-M.svg`, deutsch beschriftet, graustufentauglich_
+- **Abb. N.M (Abbildung)** — B1 Anhang D  · _Konvention: Datei abb-N-M.svg, deutsch beschriftet, graustufentauglich_
 - **Abkochen (gesottenes Wasser)** — B2 6.2 (Abb. 2.9)  · _1 min sprudelnd, ab 2.000 m 3 min (W3, CDC/WHO)_; siehe auch SODIS; Chemische Desinfektion (Chlor); Gesottenes Wasser; Wunde reinigen & schließen (Tetanus)
 - **Abschied (Sterben, Blatt bis zuletzt)** — B8 9.2; siehe auch Sterbebegleitung; Vermächtnis
 - **Abschreiben & Bewahren** — B10 7.2 (Abb. 10.7)  · _vier Schichten_; siehe auch Vermächtnis; Material-Kammer
@@ -463,9 +466,270 @@
 - **Zunder** — siehe Zunderkette (B3 4.1); Feuerstahl & Zundermulm (B3 3.2)
 - **Zunderkette (Zunder → Faschholz → Scheit)** — B3 4.1 (Abb. 3.7); siehe auch Feuerstahl & Zundermulm; Feuerbauten
 - **Zündquellen-Inventar** — B3 3.1  · _3 Sets + Monatsprobe_; siehe auch Feuerstahl & Zundermulm; Notfallrucksack (72 h)
+## 3. Checklisten-Register (Kennziffern `CL-Bn-NN`, alphabetisch nach Kennziffer)
+
+Editor Turn 7: Alle Checklisten stehen gesammelt im **Checklisten-Anhang am Bandende** (Band 1: Anhang E, Bände 2–10: Anhang D) und tragen eine Kennziffer `CL-B<Band>-NN` + sprechende Bezeichnung. Im Kapiteltext steht nur noch der Querverweis `**Checkliste:** siehe CL-Bn-NN …` — **alle 223 Text-Verweise lösen auf eine hier registrierte Kennziffer auf** (Script-Check gegen die `### CL-…`-Überschriften in `04-redaktion-band-01..10.md`; Bezeichnungen identisch).
+
+**Verweisformat je Eintrag:** `Band n, Checklisten-Anhang (Anhang D/E), S. n` — die **Seitenzahl `S. n` ist ein Platzhalter und trägt der doc-builder beim Satz ein (Phase H)**, siehe §0.2. Sortierung: nach Kennziffer (`CL-B1-01` … `CL-B1-26`, …, `CL-B10-21`); jede Kennziffer genau einmal (**0 Dubletten**). Beginnt die Bezeichnung mit einer Konzept-Nummer `X.Y`, ist zusätzlich `siehe auch Konzept B{n} X.Y` gesetzt (Verknüpfung in §2).
+
+---
+### CL-B1 — Band 1 Grundlagen (26 Checklisten)
+
+- **CL-B1-01** — 2.1 STOPP-Protokoll — Band 1, Checklisten-Anhang (Anhang E), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B1 2.1
+- **CL-B1-02** — 2.2 Atemprotokoll 4–6 — Band 1, Checklisten-Anhang (Anhang E), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B1 2.2
+- **CL-B1-03** — 2.4 Gesprächsordnung (15-min-Box) — Band 1, Checklisten-Anhang (Anhang E), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B1 2.4
+- **CL-B1-04** — 3.2 Notfallrucksack (72 h) — Band 1, Checklisten-Anhang (Anhang E), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B1 3.2
+- **CL-B1-05** — 3.3 Rucksack-Profile (Kinder/Senioren/Haustiere) — Band 1, Checklisten-Anhang (Anhang E), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B1 3.3
+- **CL-B1-06** — 3.4 Treffpunkt-Plan (A/B + Abholliste) — Band 1, Checklisten-Anhang (Anhang E), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B1 3.4
+- **CL-B1-07** — 3a.2 Sofortmaßnahmen — Band 1, Checklisten-Anhang (Anhang E), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_
+- **CL-B1-08** — 3a.3 Grundausstattung Blackout (BBK-Kategorien) — Band 1, Checklisten-Anhang (Anhang E), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_
+- **CL-B1-09** — 4.1 Schattenstab & Uhr-Methode — Band 1, Checklisten-Anhang (Anhang E), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B1 4.1
+- **CL-B1-10** — 4.2 Polarstern (Fünffach-Verlängerung, Cassiopeia) — Band 1, Checklisten-Anhang (Anhang E), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B1 4.2
+- **CL-B1-11** — 4.3 Karte lesen — Band 1, Checklisten-Anhang (Anhang E), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B1 4.3
+- **CL-B1-12** — 5.1 Notrufzeichen & Pfeife (3 Signale/min) — Band 1, Checklisten-Anhang (Anhang E), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B1 5.1
+- **CL-B1-13** — 5.2 Treffpunkte & Botenregeln (+60-min-Regel) — Band 1, Checklisten-Anhang (Anhang E), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B1 5.2
+- **CL-B1-14** — 6.1 Messer — Band 1, Checklisten-Anhang (Anhang E), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B1 6.1
+- **CL-B1-15** — 6.2 Säge & Axt — Band 1, Checklisten-Anhang (Anhang E), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B1 6.2
+- **CL-B1-16** — 6.3 Fünf Serienknoten — Band 1, Checklisten-Anhang (Anhang E), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B1 6.3
+- **CL-B1-17** — 6.4 Behelfswerkzeug — Band 1, Checklisten-Anhang (Anhang E), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B1 6.4
+- **CL-B1-18** — 6.5 Traglast (15–20 % / 30 % / Kinder 10–15 %) — Band 1, Checklisten-Anhang (Anhang E), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B1 6.5
+- **CL-B1-19** — 7.1 Körpermaß-System — Band 1, Checklisten-Anhang (Anhang E), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B1 7.1
+- **CL-B1-20** — 7.2 Mengen & Referenzmaße — Band 1, Checklisten-Anhang (Anhang E), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B1 7.2
+- **CL-B1-21** — 7.3 Zeit ohne Uhr (± 30 min) — Band 1, Checklisten-Anhang (Anhang E), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B1 7.3
+- **CL-B1-22** — 7.4 Temperatur-Feinmessung (Ellbogenprobe) — Band 1, Checklisten-Anhang (Anhang E), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B1 7.4
+- **CL-B1-23** — 8.1 Jahres-Übungsplan — Band 1, Checklisten-Anhang (Anhang E), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B1 8.1
+- **CL-B1-24** — 8.2 Übungsprotokoll (Verfalluhr 12 Monate) — Band 1, Checklisten-Anhang (Anhang E), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B1 8.2
+- **CL-B1-25** — 9.1 Stundenprotokoll 24 h — Band 1, Checklisten-Anhang (Anhang E), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B1 9.1
+- **CL-B1-26** — 9.2 Wochenrollenplan (doppelt besetzt) — Band 1, Checklisten-Anhang (Anhang E), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B1 9.2
+
+### CL-B2 — Band 2 Wasser (25 Checklisten)
+
+- **CL-B2-01** — 1.1 Wassergerechtigkeit — Band 2, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B2 1.1
+- **CL-B2-02** — 1.2 Zonenplan — Band 2, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B2 1.2
+- **CL-B2-03** — 2.1 Bedarfsrechnung — Band 2, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B2 2.1
+- **CL-B2-04** — 2.2 Bedarfsprofile — Band 2, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B2 2.2
+- **CL-B2-05** — 2.3 Ertragsrechnung — Band 2, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B2 2.3
+- **CL-B2-06** — 3.1 Oberflächenwasser lesen — Band 2, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B2 3.1
+- **CL-B2-07** — 3.2 Regen auffangen (First-Abwurf-Pflicht) — Band 2, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B2 3.2
+- **CL-B2-08** — 3.3 Quellen & Brunnen (Oberhalb-Check) — Band 2, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B2 3.3
+- **CL-B2-09** — 3.4 Sickergrube / Behelfsbrunnen — Band 2, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B2 3.4
+- **CL-B2-10** — 3.5 Solarstill — Band 2, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B2 3.5
+- **CL-B2-11** — 3.7 Winterwasser — Band 2, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B2 3.7
+- **CL-B2-12** — 4.1 Behälterkunde — Band 2, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B2 4.1
+- **CL-B2-13** — 4.2 Transportkette (10 l einseitig) — Band 2, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B2 4.2
+- **CL-B2-14** — 4.3 Gruppenkette (Zwischentank) — Band 2, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B2 4.3
+- **CL-B2-15** — 5.1 Wasser beurteilen (Befund-Tabelle, Blaualgen) — Band 2, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B2 5.1
+- **CL-B2-16** — 6.1 Klären / Vorfiltern — Band 2, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B2 6.1
+- **CL-B2-17** — 6.2 Abkochen — Band 2, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B2 6.2
+- **CL-B2-18** — 6.3 SODIS — Band 2, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B2 6.3
+- **CL-B2-19** — 7.1 Langsamsandfilter — Band 2, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B2 7.1
+- **CL-B2-20** — 7.2 Destillation (Topf-Destille, Solarstill) — Band 2, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B2 7.2
+- **CL-B2-21** — 7.3 Chemische Desinfektion (Chlor, Notstand) — Band 2, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B2 7.3
+- **CL-B2-22** — 8.1 Haushaltsvorrat (2 l × 14 T) — Band 2, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B2 8.1
+- **CL-B2-23** — 8.2 Wiederverseuchung (Ausgießbehälter) — Band 2, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B2 8.2
+- **CL-B2-24** — 9.1 Latrine — Band 2, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B2 9.1
+- **CL-B2-25** — 9.2 Grauwasser-Kette — Band 2, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B2 9.2
+
+### CL-B3 — Band 3 Feuer & Wärme (24 Checklisten)
+
+- **CL-B3-01** — 1.1 Feuerethik — Band 3, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B3 1.1
+- **CL-B3-02** — 1.2 Feuerplatz / Zonenplan — Band 3, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B3 1.2
+- **CL-B3-03** — 2.1 Feuerdreieck & Zündkette — Band 3, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B3 2.1
+- **CL-B3-04** — 2.2 Brennstoffkunde — Band 3, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B3 2.2
+- **CL-B3-05** — 3.1 Zündquellen-Inventar (3 Sets + Monatsprobe) — Band 3, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B3 3.1
+- **CL-B3-06** — 3.2 Feuerstahl & Zundermulm — Band 3, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B3 3.2
+- **CL-B3-07** — 3.3 Reibfeuer — Band 3, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B3 3.3
+- **CL-B3-08** — 3.4 Sonnenzündung — Band 3, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B3 3.4
+- **CL-B3-09** — 3.5 Glut-Botschaft — Band 3, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B3 3.5
+- **CL-B3-10** — 4.1 Zunderkette — Band 3, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B3 4.1
+- **CL-B3-11** — 4.2 Feuerbauten — Band 3, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B3 4.2
+- **CL-B3-12** — 4.3 Feuer im Dauerregen — Band 3, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B3 4.3
+- **CL-B3-13** — 5.1 Kochfeuer & Glut — Band 3, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B3 5.1
+- **CL-B3-14** — 5.2 Reflektor & Nacht — Band 3, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B3 5.2
+- **CL-B3-15** — 6.1 Wärmepaket (Schichten) — Band 3, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B3 6.1
+- **CL-B3-16** — 6.2 Heiße Steine — Band 3, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B3 6.2
+- **CL-B3-17** — 6.3 Ofenlose Not-Heizung — Band 3, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B3 6.3
+- **CL-B3-18** — 7.1 Holzvorrat & Stock-Rechnung — Band 3, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B3 7.1
+- **CL-B3-19** — 7.2 Torf / Dung — Band 3, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B3 7.2
+- **CL-B3-20** — 8.1 Holzkohle-Meiler — Band 3, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B3 8.1
+- **CL-B3-21** — 8.2 Asche-Ordnung — Band 3, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B3 8.2
+- **CL-B3-22** — 9.1 Brandbekämpfung (60-Sekunden-Regel) — Band 3, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B3 9.1
+- **CL-B3-23** — 9.2 Signalfeuer (3 Feuer = Notzeichen) — Band 3, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B3 9.2
+- **CL-B3-24** — 9.3 Feuerwache (Zwei-Personen-Regel) — Band 3, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B3 9.3
+
+### CL-B4 — Band 4 Unterkunft & Kleidung (23 Checklisten)
+
+- **CL-B4-01** — 1.1 Unterkunftsethik — Band 4, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B4 1.1
+- **CL-B4-02** — 1.2 Lagerplatz — Band 4, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B4 1.2
+- **CL-B4-03** — 2.1 Wärmehaushalt & Schichten — Band 4, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B4 2.1
+- **CL-B4-04** — 2.2 Wetter-/Wolkenlesen — Band 4, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B4 2.2
+- **CL-B4-05** — 2.4 Kältegefahr erkennen — Band 4, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B4 2.4
+- **CL-B4-06** — 3.1 Windbruch (Klangprobe) — Band 4, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B4 3.1
+- **CL-B4-07** — 3.2 Behelfsdach — Band 4, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B4 3.2
+- **CL-B4-08** — 3.3 Winter-Unterkunft (Schneehöhle) — Band 4, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B4 3.3
+- **CL-B4-09** — 4.1 Bauplan & Hüttenmaße — Band 4, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B4 4.1
+- **CL-B4-10** — 4.2 Pfosten / First / Verbindungen — Band 4, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B4 4.2
+- **CL-B4-11** — 5.1 Dachdeckung & Neigung — Band 4, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B4 5.1
+- **CL-B4-12** — 5.2 Wand / Boden / Sockel — Band 4, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B4 5.2
+- **CL-B4-13** — 5.3 Hüttendiagnose (sechs Schwachstellen) — Band 4, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B4 5.3
+- **CL-B4-14** — 6.1 Schlafplatz & Bodenisolierung — Band 4, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B4 6.1
+- **CL-B4-15** — 6.2 Nachtwärme & Deckenbilanz — Band 4, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B4 6.2
+- **CL-B4-16** — 6.3 Feuchtebilanz & Lüftung — Band 4, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B4 6.3
+- **CL-B4-17** — 7.1 Faserkunde & Pflege — Band 4, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B4 7.1
+- **CL-B4-18** — 7.2 Nadel & Faden — Band 4, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B4 7.2
+- **CL-B4-19** — 8.1 Kleidungssatz & Eigentum — Band 4, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B4 8.1
+- **CL-B4-20** — 8.2 Wettergrenzen improvisiert (Verfallsdatum) — Band 4, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B4 8.2
+- **CL-B4-21** — 8.3 Schuhwerk — Band 4, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B4 8.3
+- **CL-B4-22** — 9.1 Behelfstrage — Band 4, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B4 9.1
+- **CL-B4-23** — 9.2 Lager bei Dunkelheit (Restlicht-1-h) — Band 4, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B4 9.2
+
+### CL-B5 — Band 5 Botanik (24 Checklisten)
+
+- **CL-B5-01** — 1.1 Sammel-Ethik — Band 5, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B5 1.1
+- **CL-B5-02** — 1.2 Sammelgang (Kreise: 500 m / 2–5 km) — Band 5, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B5 1.2
+- **CL-B5-03** — 1.3 Samen-Bank (10 % Streu-Rückgabe) — Band 5, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B5 1.3
+- **CL-B5-04** — 2.1 Merkmale & Familien (5 Merkmale) — Band 5, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B5 2.1
+- **CL-B5-05** — 2.2 Verwechslungs-Paare & Giftpflanzen — Band 5, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B5 2.2
+- **CL-B5-06** — 2.3 Gehölze: Saft / Rinde / Harz — Band 5, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B5 2.3
+- **CL-B5-07** — 2.4 Winter-Bestimmung (Knospe/Rinde/Stand) — Band 5, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B5 2.4
+- **CL-B5-08** — 3.1 Das sichere Dutzend (12 Arten) — Band 5, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B5 3.1
+- **CL-B5-09** — 3.2 Duldungsgrenzen (Oxalsäure-Handregel) — Band 5, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B5 3.2
+- **CL-B5-10** — 4.1 Grabstock-Kunde — Band 5, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B5 4.1
+- **CL-B5-11** — 4.2 Strand & Watt — Band 5, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B5 4.2
+- **CL-B5-12** — 5.1 Beeren — Band 5, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B5 5.1
+- **CL-B5-13** — 5.2 Nüsse & Läuterung — Band 5, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B5 5.2
+- **CL-B5-14** — 5.3 Wildobst-Küche — Band 5, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B5 5.3
+- **CL-B5-15** — 6.1 Die fünf Haus-Pflanzen — Band 5, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B5 6.1
+- **CL-B5-16** — 6.2 Dosierung & rote Liste — Band 5, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B5 6.2
+- **CL-B5-17** — 7.1 Faseraufschluss (Röste) — Band 5, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B5 7.1
+- **CL-B5-18** — 7.2 Binden / Körbe / Bast — Band 5, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B5 7.2
+- **CL-B5-19** — 7.3 Färbe-Pflanzen (Beize) — Band 5, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B5 7.3
+- **CL-B5-20** — 8.1 Ried / Stroh / Binse (Dachdeckung) — Band 5, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B5 8.1
+- **CL-B5-21** — 8.2 Wildgarten — Band 5, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B5 8.2
+- **CL-B5-22** — 8.3 Saatgut-Keimprobe (50 Körner / 7–14 T) — Band 5, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B5 8.3
+- **CL-B5-23** — 9.1 Pilze — Band 5, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B5 9.1
+- **CL-B5-24** — 9.2 Pflanzen-Kalender (Monatsfenster ME/Irland) — Band 5, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B5 9.2
+
+### CL-B6 — Band 6 Jagd und Fischfang (20 Checklisten)
+
+- **CL-B6-01** — 1.1 Grenze des Jagens — Band 6, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B6 1.1
+- **CL-B6-02** — 1.2 Jagd-Kreise & Ruhe-Zonen — Band 6, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B6 1.2
+- **CL-B6-03** — 1.3 Jagd-Kalender — Band 6, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B6 1.3
+- **CL-B6-04** — 2.1 Trittsiegel & Gangbilder — Band 6, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B6 2.1
+- **CL-B6-05** — 2.4 Winter-Spur — Band 6, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B6 2.4
+- **CL-B6-06** — 3.1 Der Ansitz — Band 6, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B6 3.1
+- **CL-B6-07** — 3.2 Pirsch & sauberer Schuss — Band 6, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B6 3.2
+- **CL-B6-08** — 4.1 Jagdbogen — Band 6, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B6 4.1
+- **CL-B6-09** — 4.2 Pfeil, Speer, Wurfholz — Band 6, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B6 4.2
+- **CL-B6-10** — 5.1a Kastenfalle & Kleintierfallen (Ersatz für 5.1) — Band 6, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B6 5.1a
+- **CL-B6-11** — 5.2 Vögel, Eier, Kleintier — Band 6, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B6 5.2
+- **CL-B6-12** — 6.1 Schnur, Haken, Pose — Band 6, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B6 6.1
+- **CL-B6-13** — 6.3 Köder-Zucht (Wurm-Kiste) — Band 6, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B6 6.3
+- **CL-B6-14** — 7.1 Netz — Band 6, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B6 7.1
+- **CL-B6-15** — 7.2 Reuse, Fischwehr, Stellnetz — Band 6, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B6 7.2
+- **CL-B6-16** — 8.1 Muscheln der Gezeiten — Band 6, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B6 8.1
+- **CL-B6-17** — 8.2 Krabben & Watt-Gäste — Band 6, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B6 8.2
+- **CL-B6-18** — 9.1 Ausnehmen & Zerwirken — Band 6, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B6 9.1
+- **CL-B6-19** — 9.2 Wild-Küche — Band 6, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B6 9.2
+- **CL-B6-20** — 9.3 Fell, Sehne, Knochen (Ganz-Verwertung) — Band 6, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B6 9.3
+
+### CL-B7 — Band 7 Vorrat und Konservierung (19 Checklisten)
+
+- **CL-B7-01** — 1.1 Grenze des Vorrats — Band 7, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B7 1.1
+- **CL-B7-02** — 1.3 Vorrats-Fahrplan (sechs Stationen) — Band 7, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B7 1.3
+- **CL-B7-03** — 3.1 Trocken-Halle — Band 7, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B7 3.1
+- **CL-B7-04** — 3.2 Dörrware — Band 7, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B7 3.2
+- **CL-B7-05** — 4.1 Räucher-Ofen (Kalt-/Warmgang) — Band 7, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B7 4.1
+- **CL-B7-06** — 4.2 Holz & Rauch — Band 7, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B7 4.2
+- **CL-B7-07** — 4.3 Wurst — Band 7, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B7 4.3
+- **CL-B7-08** — 5.1 Das Salz — Band 7, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B7 5.1
+- **CL-B7-09** — 5.2 Pökeln (Lake-Ei-Test) — Band 7, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B7 5.2
+- **CL-B7-10** — 6.1 Kraut-Fass (Milchsäure/Lake) — Band 7, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B7 6.1
+- **CL-B7-11** — 6.2k Einkochen, Öl & Essig — Band 7, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B7 6.2k
+- **CL-B7-12** — 6.3 Essig selbst gebraut — Band 7, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B7 6.3
+- **CL-B7-13** — 7.1 Schmalz & Talg — Band 7, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B7 7.1
+- **CL-B7-14** — 7.2 Seife aus Resten — Band 7, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B7 7.2
+- **CL-B7-15** — 7.3 Gerben (Lohe/Eichenrinde) — Band 7, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B7 7.3
+- **CL-B7-16** — 8.1 Die kalte Kammer (Zonen) — Band 7, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B7 8.1
+- **CL-B7-17** — 8.2 Gäste & Verderb-Atlas — Band 7, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B7 8.2
+- **CL-B7-18** — 9.1 Winter-Rechnung — Band 7, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B7 9.1
+- **CL-B7-19** — 9.3 Die Saat — Band 7, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B7 9.3
+
+### CL-B8 — Band 8 Heilkunde (21 Checklisten)
+
+- **CL-B8-01** — 1.1 Grenze des Behandelns — Band 8, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B8 1.1
+- **CL-B8-02** — 1.2 Sanitäts-Kette — Band 8, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B8 1.2
+- **CL-B8-03** — 1.3 Helfer-Netz — Band 8, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B8 1.3
+- **CL-B8-04** — 2.1 Blutung stillen (Druckverband 15 min) — Band 8, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B8 2.1
+- **CL-B8-05** — 2.2 Wunde reinigen & schließen — Band 8, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B8 2.2
+- **CL-B8-06** — 2.3 Die heilende Wunde — Band 8, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B8 2.3
+- **CL-B8-07** — 3.1 Kräuter-Lese — Band 8, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B8 3.1
+- **CL-B8-08** — 3.2 Aufgüsse / Absud / Kaltauszug — Band 8, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B8 3.2
+- **CL-B8-09** — 3.3 Tinkturen / Salben / Öle — Band 8, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B8 3.3
+- **CL-B8-10** — 3.4 Umschlag-Buch — Band 8, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B8 3.4
+- **CL-B8-11** — 4.1 Fieber lesen — Band 8, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B8 4.1
+- **CL-B8-12** — 4.2 Wärme-Regie — Band 8, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B8 4.2
+- **CL-B8-13** — 4.3 Atem & Atem-Not — Band 8, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B8 4.3
+- **CL-B8-14** — 5.2 Der vergiftete Leib — Band 8, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B8 5.2
+- **CL-B8-15** — 6.1 Krankenlager (Wache 2–3 h) — Band 8, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B8 6.1
+- **CL-B8-16** — 7.1 Brandwunde & Frostbeule — Band 8, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B8 7.1
+- **CL-B8-17** — 7.2 Bruch & Verrenkung — Band 8, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B8 7.2
+- **CL-B8-18** — 7.3 Schmerz-Küche — Band 8, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B8 7.3
+- **CL-B8-19** — 8.1 Sanitätsmappe (< 3 kg) — Band 8, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B8 8.1
+- **CL-B8-20** — 9.1 Sterben begleiten (Würde-Regeln) — Band 8, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B8 9.1
+- **CL-B8-21** — 9.2 Abschied (Blatt bis zuletzt) — Band 8, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B8 9.2
+
+### CL-B9 — Band 9 Werkzeug und Handwerk (20 Checklisten)
+
+- **CL-B9-01** — 1.1 Grenze des Machens — Band 9, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B9 1.1
+- **CL-B9-02** — 1.2 Werkzeug-Kette — Band 9, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B9 1.2
+- **CL-B9-03** — 1.3 Übestück — Band 9, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B9 1.3
+- **CL-B9-04** — 2.1 Schmied-Feuer — Band 9, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B9 2.1
+- **CL-B9-05** — 2.2 Härten & Anlassen — Band 9, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B9 2.2
+- **CL-B9-06** — 2.4 Feuerschweißen — Band 9, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B9 2.4
+- **CL-B9-07** — 3.1 Fällen — Band 9, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B9 3.1
+- **CL-B9-08** — 3.2 Block → Brett — Band 9, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B9 3.2
+- **CL-B9-09** — 4.1 Schliff — Band 9, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B9 4.1
+- **CL-B9-10** — 4.2 Schneide halten (Wetz-Takt) — Band 9, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B9 4.2
+- **CL-B9-11** — 5.1 Zapfen / Loch / Keil — Band 9, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B9 5.1
+- **CL-B9-12** — 5.2 Seil & Knoten — Band 9, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B9 5.2
+- **CL-B9-13** — 6.1 Werkstatt-Ordnung — Band 9, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B9 6.1
+- **CL-B9-14** — 6.2 Flicken als Methode — Band 9, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B9 6.2
+- **CL-B9-15** — 7.1 Kammer — Band 9, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B9 7.1
+- **CL-B9-16** — 7.2 Selbst gemachter Leim — Band 9, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B9 7.2
+- **CL-B9-17** — 7.3 Riemen / Fett / Öl — Band 9, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B9 7.3
+- **CL-B9-18** — 8.1 Die Kiste (3 Schichten, ≤ ¼ Körpergewicht) — Band 9, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B9 8.1
+- **CL-B9-19** — 9.1 Weitergabe am Werkstück (dreifach gesichert) — Band 9, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B9 9.1
+- **CL-B9-20** — 9.2 Lehrling (4 Proben: Hand/Ordnung/Geduld/Wahrheit) — Band 9, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B9 9.2
+
+### CL-B10 — Band 10 Tausch, Dorf und das Behalten (21 Checklisten)
+
+- **CL-B10-01** — 1.1 Schuld & Geschenk — Band 10, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B10 1.1
+- **CL-B10-02** — 1.2 Wort & Vertrag — Band 10, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B10 1.2
+- **CL-B10-03** — 1.3 Das Mahl (Ehren-Platz-Regel) — Band 10, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B10 1.3
+- **CL-B10-04** — 2.1 Der Wert — Band 10, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B10 2.1
+- **CL-B10-05** — 2.2 Ehrliche Waage — Band 10, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B10 2.2
+- **CL-B10-06** — 2.3 Tausch-Platz — Band 10, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B10 2.3
+- **CL-B10-07** — 2.4 Wucher — Band 10, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B10 2.4
+- **CL-B10-08** — 3.1 Ware des Hauses — Band 10, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B10 3.1
+- **CL-B10-09** — 3.2 Ware der Hand — Band 10, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B10 3.2
+- **CL-B10-10** — 4.1 Ämter des Dorfes — Band 10, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B10 4.1
+- **CL-B10-11** — 4.2 Rat & Streit — Band 10, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B10 4.2
+- **CL-B10-12** — 4.3 Reserve: der Zehnte — Band 10, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B10 4.3
+- **CL-B10-13** — 5.1 Weg-Kunde / Furt — Band 10, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B10 5.1
+- **CL-B10-14** — 5.2 Gast & Fremder — Band 10, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B10 5.2
+- **CL-B10-15** — 5.3 Trupp — Band 10, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B10 5.3
+- **CL-B10-16** — 6.1 Feuerprobe (Ring der Reihe) — Band 10, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B10 6.1
+- **CL-B10-17** — 6.2 Prüfung der Werkstatt — Band 10, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B10 6.2
+- **CL-B10-18** — 7.1 Zeug-Haus — Band 10, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B10 7.1
+- **CL-B10-19** — 7.2 Abschreiben & Bewahren (vier Schichten) — Band 10, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B10 7.2
+- **CL-B10-20** — 8.3 Die harte Zeit — Band 10, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B10 8.3
+- **CL-B10-21** — 9.1 Vermächtnis (geschrieben + verlesen) — Band 10, Checklisten-Anhang (Anhang D), S. n  · _S. n trägt der doc-builder beim Satz ein (Phase H)_; siehe auch Konzept B10 9.1
 ---
 
-## 3. Abdeckungs-Nachweis (Konzept-Nummern pro Band)
+## 4. Abdeckungs-Nachweis
+
+### 4.1 Konzept-Nummern pro Band (§2)
 
 | Band | Titel | Konzepte laut `03-planung.md` §2 | im Register referenziert | Status |
 |---|---|---|---|---|
@@ -483,13 +747,32 @@
 
 Prüfung: alle 244 Konzept-Referenzen (`B{n} X.Y`, inkl. `5.1a`, `6.2k`) kommen im Register vor; keine Referenz auf ein nicht geplantes Konzept; 0 Dubletten; Alphabet DIN 5007-1.
 
-## 4. Akzeptanzkriterien (Selbstcheck, aus `agents/13-index-builder.md`)
+### 4.2 Checklisten-Kennziffern pro Band (§3, editor Turn 7)
+
+| Band | Checklisten laut `04-redaktion-band-*.md` (Anhang D/E) | im Register §3 | Status |
+|---|---|---|---|
+| B1 (Anhang E) | 26 | 26 | vollständig |
+| B2 (Anhang D) | 25 | 25 | vollständig |
+| B3 (Anhang D) | 24 | 24 | vollständig |
+| B4 (Anhang D) | 23 | 23 | vollständig |
+| B5 (Anhang D) | 24 | 24 | vollständig |
+| B6 (Anhang D) | 20 | 20 | vollständig |
+| B7 (Anhang D) | 19 | 19 | vollständig |
+| B8 (Anhang D) | 21 | 21 | vollständig |
+| B9 (Anhang D) | 20 | 20 | vollständig |
+| B10 (Anhang D) | 21 | 21 | vollständig |
+| **Σ** | **223** | **223** | **vollständig** |
+
+Prüfung: alle 223 Kennziffern `CL-Bn-NN` aus den `### CL-…`-Überschriften der Band-Dateien sind in §3 genau einmal eingetragen; 0 Dubletten; alle 223 `siehe CL-B…`-Verweise im Kapiteltext lösen auf; Sortierung nach Kennziffer (numerisch Band, dann NN) geprüft; Seiten-Platzhalter `S. n` beim doc-builder (§0.2).
+
+## 5. Akzeptanzkriterien (Selbstcheck, aus `agents/13-index-builder.md` + Turn 2)
 
 - [x] Alphabetisches Register über alle Bände (0–9, A–Z; DIN 5007-1)
 - [x] Verweise über Konzept-Nummern konsistent (`B{n} X.Y`), nie Seitenzahlen allein — Seiten trägt der doc-builder beim Satz ein (§0.2)
 - [x] „Siehe auch“-Verknüpfungen gesetzt (inline je Eintrag + 65 „siehe …“-Synonym-Einträge)
 - [x] Keine Dubletten — jeder Begriff einmal mit allen Verweisen (Script-Check: 0 doppelte Sortierschlüssel)
 - [x] Einheitliche Stichwort-Form — Glossar-Begriffe (B1 Anhang D) bevorzugt
+- [x] Checklisten-Register §3: alle 223 Kennziffern `CL-Bn-NN` mit Bezeichnung + Verweis `Band n, Checklisten-Anhang, S. n` (Seite: doc-builder, Phase H); alphabetisch nach Kennziffer; 0 Dubletten; Text-Querverweise `siehe CL-…` bleiben gültig
 
 ---
-*Ende 12-register.md — erstellt von Agent index-builder, Phase G, 2026-11-06. Inputs: `03-planung.md`, `04-redaktion.md`, `04-redaktion-band-01..10.md` (Glossar in Band 1 Anhang D). Nächster Schritt laut WORKFLOW.md: Phase H doc-builder — übernimmt dieses Register und trägt beim Satz die Seitenzahlen (`S. …`) nach.*
+*Ende 12-register.md — erstellt von Agent index-builder, Phase G, 2026-11-06; erweitert Turn 2 um das Checklisten-Register (§3). Inputs: `03-planung.md`, `04-redaktion.md`, `04-redaktion-band-01..10.md` (Glossar in Band 1 Anhang D; Checklisten-Anhänge D/E). Nächster Schritt laut WORKFLOW.md: Phase H doc-builder — übernimmt dieses Register und trägt beim Satz die Seitenzahlen (`S. …`) nach.*
