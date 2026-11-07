@@ -6,7 +6,7 @@
 #let seite(band, titel) = {
   set page(
     paper: "a4",
-    margin: (top: 3.6cm, bottom: 3.4cm, left: 3.2cm, right: 3.2cm),
+    margin: (top: 2.2cm, bottom: 2.0cm, left: 2.0cm, right: 2.0cm),
     header: context {
       let hp = here().page()
       let ks = query(heading.where(level: 2)).filter(k => k.location.page() <= hp)
@@ -28,12 +28,12 @@
 #let init-doc(band: 1, titel: "", body) = {
   set document(title: "Das Überlebenbuch — Band " + str(band) + ": " + titel, author: "Das Überlebenbuch")
   seite(band, titel)
-  set text(lang: "de", size: 16pt, font: "Libertinus Serif", hyphenate: true)
-  set par(justify: true, leading: 1.5em, spacing: 2.1em)
-  set list(spacing: 1.4em, indent: 1.2em)
-  set enum(spacing: 1.4em, indent: 1.2em)
+  set text(lang: "de", size: 10.5pt, font: "Libertinus Serif", hyphenate: true)
+  set par(justify: true, leading: 0.62em, spacing: 0.85em)
+  set list(spacing: 0.5em, indent: 1.2em)
+  set enum(spacing: 0.5em, indent: 1.2em)
   set figure(numbering: none)
-  set table(stroke: 0.4pt + rgb("#8c8c8c"), inset: 6pt)
+  set table(stroke: 0.4pt + rgb("#8c8c8c"), inset: 3pt)
   show heading.where(level: 1): it => block(above: 0pt, below: 0pt, text(size: 30pt, weight: "bold", fill: rgb("#1a1a1a"))[#it.body])
   show heading.where(level: 2): it => block(above: 0pt, below: 14pt, text(size: 18pt, weight: "bold", fill: rgb("#1a1a1a"))[#it.body])
   show heading.where(level: 3): it => block(above: 10pt, below: 8pt, text(size: 13.5pt, weight: "bold", fill: rgb("#1a1a1a"))[#it.body])
@@ -66,19 +66,19 @@
 #let warn-alts = (
   "warn-10a.svg": "Warngrafik warn-10a.svg: Furt: Gewässerübergang – B10 5.1: Stab an 3 Stellen, nie über Knie mit Last, nie im Dunkeln (Abb. 10.4).",
   "warn-10b.svg": "Warngrafik warn-10b.svg: Brand im Zeughaus – B10 7.1: kein offenes Licht, Ofen außen, Eimer am Eingang (Abb. 10.6).",
-  "warn-2.svg": "Warngrafik warn-2.svg: Chlorgas: Bleiche + Säure oder Ammoniak – B2 7.3: Chlorgas nie mischen – tödlich (W5).",
-  "warn-3.svg": "Warngrafik warn-3.svg: Kohlenmonoxid (CO): geruchlos, tödlich – B3 6.3: keine Verbrennung in geschlossenen Räumen, nie über Nacht (W14).",
-  "warn-5.svg": "Warngrafik warn-5.svg: Giftpflanzen: erkennen vor dem Essen – B5 2.2: keine Mahlzeit ohne Namen + zweites Merkmal (W15).",
-  "warn-5b.svg": "Warngrafik warn-5b.svg: Pilzvergiftung: Amatoxine hitzestabil – B5 9.1: keine Rettungsleine, nie roh, drei Merkmale lernen (W16).",
-  "warn-6.svg": "Warngrafik warn-6.svg: Muschel- & Algengifte (PSP/DSP/ASP, Blaualgen) – B6 8.1: Gifte hitzestabil, nur amtlich überwachte Gewässer (W17).",
-  "warn-6b.svg": "Warngrafik warn-6b.svg: Wildbret: Trichinen, Tollwut, Fledermaus-Lyssaviren – B6 9.1: Durchgaren ≥ 71 °C Kern, kranke Tiere meiden (W18).",
+  "warn-2.svg": "Warngrafik warn-2.svg: Chlorgas: Bleiche + Säure oder Ammoniak – B2 7.3: Chlorgas nie mischen – tödlich.",
+  "warn-3.svg": "Warngrafik warn-3.svg: Kohlenmonoxid (CO): geruchlos, tödlich – B3 6.3: keine Verbrennung in geschlossenen Räumen, nie über Nacht.",
+  "warn-5.svg": "Warngrafik warn-5.svg: Giftpflanzen: erkennen vor dem Essen – B5 2.2: keine Mahlzeit ohne Namen + zweites Merkmal.",
+  "warn-5b.svg": "Warngrafik warn-5b.svg: Pilzvergiftung: Amatoxine hitzestabil – B5 9.1: keine Rettungsleine, nie roh, drei Merkmale lernen.",
+  "warn-6.svg": "Warngrafik warn-6.svg: Muschel- & Algengifte (PSP/DSP/ASP, Blaualgen) – B6 8.1: Gifte hitzestabil, nur amtlich überwachte Gewässer.",
+  "warn-6b.svg": "Warngrafik warn-6b.svg: Wildbret: Trichinen, Tollwut, Fledermaus-Lyssaviren – B6 9.1: Durchgaren ≥ 71 °C Kern, kranke Tiere meiden.",
   "warn-6c.svg": "Warngrafik warn-6c.svg: Verletztes Wild ist die größte Gefahr – B6 3.2: Wartefrist + Nachsuche, Schusswaffen nur mit Erlaubnis (WaffG).",
-  "warn-7a.svg": "Warngrafik warn-7a.svg: Halbtrockene Dörrfalle: Mykotoxine – B7 3.2: Preheat 71 °C, Brechprobe, Schimmel wegwerfen (W25).",
-  "warn-7b.svg": "Warngrafik warn-7b.svg: Botulismus: Sporen überleben 100 °C! – B7 6.2k (ROT-1, Gate G-2, W13, 09 §2.1): Druckkocher-Pflicht für low-acid.",
-  "warn-7c.svg": "Warngrafik warn-7c.svg: Unbekanntes Salz: Streusalz/Regeneriersalz – B7 5.1: Streusalz nie in die Küche (WARN 2, Ferrocyanid).",
-  "warn-8a.svg": "Warngrafik warn-8a.svg: Tetanus (Wundstarrkrampf) – B8 2.2: Risikowunden offen halten, Booster-Regeln, Impfstoff 2–8 °C (W12, 09 Nr. 3).",
-  "warn-9a.svg": "Warngrafik warn-9a.svg: Die tödliche Minute beim Fällen – B9 3.1 (WARN 2): nie hangabwärts stehen, Flucht 45° (Abb. 9.3).",
-  "warn-9b.svg": "Warngrafik warn-9b.svg: Leinöl-Lappen: Selbstentzündung – B9 7.3: nie zerknüllt wegwerfen (W30, 09 Nr. 10).",
+  "warn-7a.svg": "Warngrafik warn-7a.svg: Halbtrockene Dörrfalle: Mykotoxine – B7 3.2: Preheat 71 °C, Brechprobe, Schimmel wegwerfen.",
+  "warn-7b.svg": "Warngrafik warn-7b.svg: Botulismus: Sporen überleben 100 °C! – B7 6.2k: Druckkocher-Pflicht für low-acid.",
+  "warn-7c.svg": "Warngrafik warn-7c.svg: Unbekanntes Salz: Streusalz/Regeneriersalz – B7 5.1: Streusalz nie in die Küche (Warnung, Ferrocyanid).",
+  "warn-8a.svg": "Warngrafik warn-8a.svg: Tetanus (Wundstarrkrampf) – B8 2.2: Risikowunden offen halten, Booster-Regeln, Impfstoff 2–8 °C.",
+  "warn-9a.svg": "Warngrafik warn-9a.svg: Die tödliche Minute beim Fällen – B9 3.1 (Warnung): nie hangabwärts stehen, Flucht 45° (Abb. 9.3).",
+  "warn-9b.svg": "Warngrafik warn-9b.svg: Leinöl-Lappen: Selbstentzündung – B9 7.3: nie zerknüllt wegwerfen.",
 )
 
 #let warnrahmen(id: none, title: [], body) = block(width: 100%, inset: (x: 9pt, y: 8pt),
@@ -103,6 +103,6 @@
   #text(size: 9.5pt, fill: fill)[#body]
 ]
 
-#let subhead(body) = { pagebreak(weak: true); block(above: 0pt, below: 6pt)[#text(size: 12.5pt, weight: "bold")[#body]] }
+#let subhead(body) = { pagebreak(weak: true); block(above: 0pt, below: 5pt)[#text(size: 11.5pt, weight: "bold")[#body]] }
 
 #let refpage(l) = context [#counter(page).at(l).first()]

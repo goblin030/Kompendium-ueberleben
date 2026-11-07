@@ -65,7 +65,10 @@ Jagd nur im _Notstand_ (Lebenserhalt), sauberer Tod, _Ganz-Verwertung_ (siehe Ko
 - [ ] Notstand-Bindung gegeben
 - [ ] Jagdschein + Befugnis vorhanden
 - [ ] Ganz-Verwertung geplant (siehe Konzept 9.3)
-_Querverweise:_ siehe Konzept 9.3, siehe Konzept B10-4.2.
+_Querverweise:_ siehe Konzept 9.3, siehe Konzept B10-4.2. _Erklärung:_
+- _Prinzip (warum das funktioniert):_ Jagd im Notstand ist Lebenserhalt, nicht Sport: sauberer Tod (schneller Bewusstseinsverlust), Ganz-Verwertung (B6-9.3) und Schonung des Bestands sichern das ökologische und ethische Gleichgewicht. Jagdschein + Befugnis sind Pflicht (Wilderei § 292 StGB).
+- _Situationsvarianten (wann welche):_ Ohne Jagdschein: Fallen (5.1a), Angel (Kap. 6/7), Sammeln (Band 5). Stadt: keine Jagd; Angel an Stadtgewässern mit Schein.
+- _Typische Fehler (warum + Folge):_ Ohne Schein jagen. Folge: strafbar (§ 292 StGB), Wildbret nicht verkehrsfähig (Trichinen-Untersuchung, 9.1).
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
   columns: 3,
@@ -137,6 +140,13 @@ _Querverweise:_ siehe Konzept 9.3, siehe Konzept B10-4.2.
   [10], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [11], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [12], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [13], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [14], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [15], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [16], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [17], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [18], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [19], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
 )
 #subhead[Übungsvarianten (ankreuzen und eintragen)]
 #table(
@@ -200,6 +210,20 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [28], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [29], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [30], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [31], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [32], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [33], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [34], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [35], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [36], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [37], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [38], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [39], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [40], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [41], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [42], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
 #pagebreak(weak: true)
 === 1.2 Jagd-Kreise & Ruhe-Zonen <k-1-2>
@@ -209,7 +233,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 + Kreis 3 (fern): nur mit Lizenz/Befugnis.
 - [ ] Kreise festgelegt
 - [ ] Ruhe-Zonen markiert
-_Querverweise:_ siehe Konzept 1.1, siehe Konzept 1.3.
+_Querverweise:_ siehe Konzept 1.1, siehe Konzept 1.3. _Erklärung:_
+- _Prinzip (warum das funktioniert):_ Die Jagd-Kreise rotieren: Kreis 1 (nah) wird gewechselt, nicht dauerbesetzt; Ruhezonen geben dem Wild Rückzug — so bleibt der Bestand nutzbar statt ausgerottet.
+- _Situationsvarianten (wann welche):_ Waldrevier: Wechsel kennen (2.3). Feldrevier: Äsungsflächen. Stadt: nicht anwendbar.
+- _Typische Fehler (warum + Folge):_ Dauerbesetzen eines Einstands. Folge: Wild meidet das Revier — Ertrag sinkt gegen null.
 #subhead[Ablauf mit Kontrollkästchen]
 #table(
   columns: 3,
@@ -296,6 +323,13 @@ _Querverweise:_ siehe Konzept 1.1, siehe Konzept 1.3.
   [10], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [11], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [12], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [13], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [14], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [15], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [16], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [17], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [18], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [19], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
 )
 #subhead[Übungsvarianten (ankreuzen und eintragen)]
 #table(
@@ -359,6 +393,20 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [28], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [29], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [30], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [31], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [32], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [33], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [34], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [35], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [36], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [37], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [38], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [39], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [40], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [41], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [42], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
 #pagebreak(weak: true)
 === 1.3 Jagd-Kalender <k-1-3>
@@ -446,6 +494,13 @@ _Querverweise:_ siehe Konzept B10-8.1.
   [10], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [11], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [12], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [13], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [14], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [15], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [16], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [17], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [18], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [19], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
 )
 #subhead[Übungsvarianten (ankreuzen und eintragen)]
 #table(
@@ -509,9 +564,27 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [28], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [29], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [30], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [31], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [32], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [33], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [34], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [35], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [36], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [37], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [38], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [39], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [40], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [41], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [42], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
 #pagebreak(weak: true)
 == Kapitel 2 — Spuren lesen <kap-2>
+_Erklärung:_
+- _Prinzip (warum das funktioniert):_ Schon-/Setz-/Brut-/Laich-Fenster schützen die Vermehrung; die Tabelle gibt konservative DE-Fenster (je Bundesland strenger). Zuwiderhandlung ist strafbar (§ 38 BJagdG).
+- _Situationsvarianten (wann welche):_ Reh: Mai–Juni meiden. Hase: Okt–Jan. Brutzeit Vögel: März–Juli (Eier ohnehin verboten, 5.2). Fischlaich: Okt–Jan.
+- _Typische Fehler (warum + Folge):_ Im Mai auf Rehkitz schießen. Folge: strafbar, Wildbestand kollabiert, ethischer Verstoß.
 #subhead[Kapitel-Übersicht]
 #table(
   columns: 7,
@@ -537,7 +610,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [Hase], [hintere Abdrücke lang, paarweise neben Vorderläufen],
 )
 - [ ] Trittsiegel fotografiert/notiert (siehe Konzept B1-9.1)
-_Querverweise:_ siehe Konzept 2.4.
+_Querverweise:_ siehe Konzept 2.4. _Erklärung:_
+- _Prinzip (warum das funktioniert):_ Trittsiegel entstehen durch Gewicht und Gangart: Reh herzförmig gespalten, Fuchs oval mit Krallen, Hase lange Hinterläufe paarweise. Gangbilder zeigen Tempo/Richtung.
+- _Situationsvarianten (wann welche):_ Frischer Schnee (2.4) zeigt Spuren klar. Matsch: Abdrücke verlaufen — Rand lesen.
+- _Typische Fehler (warum + Folge):_ Hund mit Fuchs verwechseln. Folge: falsche Fährte, Zeitverlust bei der Suche.
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
   columns: 3,
@@ -605,6 +681,13 @@ _Querverweise:_ siehe Konzept 2.4.
   [10], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [11], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [12], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [13], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [14], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [15], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [16], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [17], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [18], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [19], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
 )
 #subhead[Übungsvarianten (ankreuzen und eintragen)]
 #table(
@@ -668,12 +751,29 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [28], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [29], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [30], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [31], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [32], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [33], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [34], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [35], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [36], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [37], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [38], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [39], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [40], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [41], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [42], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
 #pagebreak(weak: true)
 === 2.2 Losung, Äsung & Riss <k-2-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 8]
 Verbiss-Kanten lesen: Reh = sauber gebissen, Hase = schräg abgenagt. Rissbild: Beutegreifer vs Aasfresser.
-_Querverweise:_ siehe Konzept 2.1, siehe Konzept 2.3.
+_Querverweise:_ siehe Konzept 2.1, siehe Konzept 2.3. _Erklärung:_
+- _Prinzip (warum das funktioniert):_ Losung zeigt Art und Frische (innen hell = frisch); Verbisskanten zeigen Art (Reh sauber gebissen, Hase schräg). Rissbild: Beutegreifer reißen, Aasfresser nagen.
+- _Situationsvarianten (wann welche):_ Morgens nach Tau: Spuren frisch. Mittags: verwischt.
+- _Typische Fehler (warum + Folge):_ Alte Losung als frisch lesen. Folge: falsche Einschätzung, wo das Wild steht.
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
   columns: 3,
@@ -741,6 +841,13 @@ _Querverweise:_ siehe Konzept 2.1, siehe Konzept 2.3.
   [10], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [11], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [12], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [13], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [14], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [15], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [16], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [17], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [18], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [19], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
 )
 #subhead[Übungsvarianten (ankreuzen und eintragen)]
 #table(
@@ -804,6 +911,20 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [28], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [29], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [30], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [31], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [32], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [33], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [34], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [35], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [36], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [37], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [38], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [39], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [40], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [41], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [42], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
 #pagebreak(weak: true)
 === 2.3 Bauten, Lager & Wechsel <k-2-3>
@@ -811,7 +932,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 #pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-2.svg", width: 100%, alt: "Abb. 6.2: Bauten, Lager & Wechsel: Fuchsbau, Dachsbau, Wildschweinlager, Reh-Lager (Konzept 2.3)."), caption: [Abb. 6.2 — Bauten, Lager & Wechsel: Fuchsbau, Dachsbau, Wildschweinlager, Reh-Lager (Konzept 2.3).])]]
 Fuchsbau (mehrere Röhren), Dachs (groß, Erdhaufen), Wildschwein (Nest), Reh (Lager = flache Mulde). Wechsel = regelmäßig benutzte Pfade zwischen Äsung und Einstand.
-_Querverweise:_ siehe Konzept 2.1, siehe Konzept 3.1.
+_Querverweise:_ siehe Konzept 2.1, siehe Konzept 3.1. _Erklärung:_
+- _Prinzip (warum das funktioniert):_ Bauten und Wechsel sind feste Strukturen: Fuchsbau (mehrere Röhren), Wildschwein-Nest, Reh-Lager (flache Mulde). Wechsel verbinden Äsung und Einstand — dort sitzt das Wild zu festen Zeiten.
+- _Situationsvarianten (wann welche):_ Dämmerung: am Wechsel. Wind von hinten (3.1).
+- _Typische Fehler (warum + Folge):_ Am Bau direkt warten. Folge: Wind bekommt dich — Wild zieht ab ohne Sicht.
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
   columns: 3,
@@ -879,6 +1003,13 @@ _Querverweise:_ siehe Konzept 2.1, siehe Konzept 3.1.
   [10], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [11], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [12], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [13], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [14], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [15], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [16], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [17], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [18], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [19], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
 )
 #subhead[Übungsvarianten (ankreuzen und eintragen)]
 #table(
@@ -942,6 +1073,20 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [28], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [29], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [30], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [31], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [32], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [33], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [34], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [35], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [36], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [37], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [38], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [39], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [40], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [41], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [42], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
 #pagebreak(weak: true)
 === 2.4 Winter-Spur <k-2-4>
@@ -1017,6 +1162,13 @@ _Querverweise:_ siehe Konzept 2.1.
   [10], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [11], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [12], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [13], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [14], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [15], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [16], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [17], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [18], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [19], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
 )
 #subhead[Übungsvarianten (ankreuzen und eintragen)]
 #table(
@@ -1080,9 +1232,27 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [28], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [29], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [30], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [31], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [32], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [33], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [34], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [35], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [36], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [37], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [38], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [39], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [40], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [41], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [42], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
 #pagebreak(weak: true)
 == Kapitel 3 — Ansitz & Pirsch <kap-3>
+_Erklärung:_
+- _Prinzip (warum das funktioniert):_ Neuschnee konserviert Spuren wie eine Fotoplatte: frische Spur = heute. Schneedrift täuscht — in windgeschützten Zonen lesen.
+- _Situationsvarianten (wann welche):_ Nach Schneefall: sofort lesen. Älterer Schnee: oberflächlich abkratzen.
+- _Typische Fehler (warum + Folge):_ Alte Spur als frisch werten. Folge: falsches Zeitfenster, vergebliche Ansitze.
 #subhead[Kapitel-Übersicht]
 #table(
   columns: 7,
@@ -1101,7 +1271,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 + Protokoll führen (Anhang A Band 6): Erfolg jede 8.–12. Ansitzstunde (Planungsrichtwert).
 - [ ] Windrichtung geprüft
 - [ ] Ansitz-Protokoll geführt
-_Querverweise:_ siehe Anhang A, siehe Konzept 2.3.
+_Querverweise:_ siehe Anhang A, siehe Konzept 2.3. _Erklärung:_
+- _Prinzip (warum das funktioniert):_ Der Wind trägt Geruch und Geräusch zum Wild — der Ansitz steht mit Wind von hinten (Wild riecht dich nicht). Volle Fenster (Dämmerung) nutzen; Protokoll zeigt Ertrag (jede 8.–12. Stunde).
+- _Situationsvarianten (wann welche):_ Waldkante, Feldrain, Gewässer. Stadt: nicht anwendbar. Höhe: Hochsitz improvisieren (Sicherheit!).
+- _Typische Fehler (warum + Folge):_ Gegen den Wind sitzen. Folge: Wild windet dich und zieht ab — keine Chance.
 #subhead[Ablauf mit Kontrollkästchen]
 #table(
   columns: 3,
@@ -1188,6 +1361,13 @@ _Querverweise:_ siehe Anhang A, siehe Konzept 2.3.
   [10], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [11], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [12], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [13], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [14], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [15], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [16], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [17], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [18], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [19], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
 )
 #subhead[Übungsvarianten (ankreuzen und eintragen)]
 #table(
@@ -1251,11 +1431,25 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [28], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [29], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [30], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [31], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [32], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [33], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [34], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [35], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [36], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [37], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [38], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [39], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [40], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [41], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [42], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
 #pagebreak(weak: true)
 === 3.2 Pirsch & sauberer Schuss <k-3-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün + _WARNRAHMEN [warn-6c]_ · P 7 · M unbedenklich · V 8]
-#warnrahmen(id: "warn-6c", title: [VERLETZTES WILD (09 Nr. 12):])[Verletztes Wild ist die _größte Gefahr für den Jäger_. _Wartefrist_ nach dem Schuss einhalten (Reh/Wildschwein: 10–15 min), dann _Nachsuche_ mit Hund oder systematisch (siehe Konzept 2.x). _Schusswaffen nur mit Erlaubnis (WaffG)_ — ohne Waffenschein keine Schusswaffe führen.]
+#warnrahmen(id: "warn-6c", title: [VERLETZTES WILD :])[Verletztes Wild ist die _größte Gefahr für den Jäger_. _Wartefrist_ nach dem Schuss einhalten (Reh/Wildschwein: 10–15 min), dann _Nachsuche_ mit Hund oder systematisch (siehe Konzept 2.x). _Schusswaffen nur mit Erlaubnis (WaffG)_ — ohne Waffenschein keine Schusswaffe führen.]
 + Schuss nur bei sicherer Gelegenheit — Entscheidungstabelle:
 #table(
   columns: 4,
@@ -1335,7 +1529,8 @@ _Querverweise:_ siehe Konzept 9.1 (`warn-6b`), siehe Konzept 1.1.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [ Verletztes Wild ist die ], [siehe Glossar, Anhang D Band 1],
+  [WARNRAHMEN [warn-6c] — VERLETZTES WILD :], [siehe Glossar, Anhang D Band 1],
+  [größte Gefahr für den Jäger], [siehe Glossar, Anhang D Band 1],
   [Wartefrist], [siehe Glossar, Anhang D Band 1],
   [Nachsuche], [siehe Glossar, Anhang D Band 1],
   [Schusswaffen nur mit Erlaubnis (WaffG)], [siehe Glossar, Anhang D Band 1],
@@ -1374,6 +1569,13 @@ _Querverweise:_ siehe Konzept 9.1 (`warn-6b`), siehe Konzept 1.1.
   [10], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [11], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [12], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [13], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [14], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [15], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [16], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [17], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [18], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [19], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
 )
 #subhead[Übungsvarianten (ankreuzen und eintragen)]
 #table(
@@ -1437,9 +1639,27 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [28], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [29], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [30], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [31], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [32], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [33], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [34], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [35], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [36], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [37], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [38], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [39], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [40], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [41], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [42], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
 #pagebreak(weak: true)
 == Kapitel 4 — Fernwaffen des Sammlers <kap-4>
+_Erklärung:_
+- _Prinzip (warum das funktioniert):_ Verletztes Wild ist aggressiv und gefährlich (Eber, angeschossenes Reh). Wartefrist (10–15 min) lässt es verenden/legen; dann Nachsuche systematisch. Schuss nur mit Waffenschein (WaffG) — Tabelle im Text (warn-6c).
+- _Situationsvarianten (wann welche):_ Mit Hund: Schweißhund. Ohne Hund: Pirschspur in Kreisen lesen (2.x). Stadt: nicht anwendbar.
+- _Typische Fehler (warum + Folge):_ Sofort nachlaufen. Folge: Angriff des verletzten Tiers — schwere Verletzungen.
 #subhead[Kapitel-Übersicht]
 #table(
   columns: 7,
@@ -1452,15 +1672,18 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 4.1 Jagdbogen <k-4-1>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb (SME: rechtlich unzulässig als Jagdwaffe)_ · P 6 · M unbedenklich · V 7 · Abb. 6.4]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-4.svg", width: 100%, alt: "Abb. 6.4: Jagdbogen: sicherer Bereich 10–20 m – in DE/AT/CH nur Übungsgerät, jagdrechtlich unzulässig (Konzept 4.1, SME)."), caption: [Abb. 6.4 — Jagdbogen: sicherer Bereich 10–20 m – in DE/AT/CH nur Übungsgerät, jagdrechtlich unzulässig (Konzept 4.1, SME).])]]
-#kasten([Rechtlicher Hinweis (Pflicht, 09 § 4.2):])[_Bogenjagd ist in DE/AT/CH jagdrechtlich unzulässig_ — nur Schusswaffen sind Jagdwaffen. Der Bogen ist hier _reines Übungsgerät_.]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-4.svg", width: 100%, alt: "Abb. 6.4: Jagdbogen: sicherer Bereich 10–20 m – in DE/AT/CH nur Übungsgerät, jagdrechtlich unzulässig (Konzept 4.1, Fachlektorat)."), caption: [Abb. 6.4 — Jagdbogen: sicherer Bereich 10–20 m – in DE/AT/CH nur Übungsgerät, jagdrechtlich unzulässig (Konzept 4.1, SME).])]]
+#kasten([Rechtlicher Hinweis (Pflicht):])[_Bogenjagd ist in DE/AT/CH jagdrechtlich unzulässig_ — nur Schusswaffen sind Jagdwaffen. Der Bogen ist hier _reines Übungsgerät_.]
 + Nur als Übungsgerät führen; nie zur Jagd einsetzen.
 + Sicherheitsabstand _10–20 m_; nie auf Personen richten.
 + _100 Probeschüsse Pflicht_ vor jedem Einsatz (siehe Konzept B1-8.2, Übungsprotokoll).
 - [ ] Als Übungsgerät deklariert
 - [ ] 100 Probeschüsse dokumentiert
 - [ ] Sicherheitsabstand 10–20 m
-_Querverweise:_ siehe Konzept 1.1 (Jagdschein-Pflicht), siehe Konzept B1-8.2.
+_Querverweise:_ siehe Konzept 1.1 (Jagdschein-Pflicht), siehe Konzept B1-8.2. _Erklärung:_
+- _Prinzip (warum das funktioniert):_ Der Bogen ist ein präzises Übungsgerät (10–20 m), aber in DE/AT/CH jagdrechtlich keine Jagdwaffe — nur Schusswaffen sind Jagdwaffen. 100 Probeschüsse dokumentieren die Treffsicherheit (B1-8.2).
+- _Situationsvarianten (wann welche):_ Übung: Parcours, Scheiben. Niemals zur Jagd einsetzen.
+- _Typische Fehler (warum + Folge):_ Mit Bogen jagen. Folge: strafbar (Waffengesetz/Jagdrecht), Wild unnötig verletzt.
 #subhead[Ablauf mit Kontrollkästchen]
 #table(
   columns: 3,
@@ -1522,7 +1745,7 @@ _Querverweise:_ siehe Konzept 1.1 (Jagdschein-Pflicht), siehe Konzept B1-8.2.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Rechtlicher Hinweis (Pflicht, 09 § 4.2):], [siehe Glossar, Anhang D Band 1],
+  [Rechtlicher Hinweis (Pflicht):], [siehe Glossar, Anhang D Band 1],
   [reines Übungsgerät], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -1556,6 +1779,13 @@ _Querverweise:_ siehe Konzept 1.1 (Jagdschein-Pflicht), siehe Konzept B1-8.2.
   [10], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [11], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [12], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [13], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [14], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [15], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [16], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [17], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [18], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [19], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
 )
 #subhead[Übungsvarianten (ankreuzen und eintragen)]
 #table(
@@ -1619,6 +1849,20 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [28], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [29], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [30], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [31], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [32], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [33], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [34], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [35], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [36], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [37], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [38], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [39], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [40], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [41], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [42], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
 #pagebreak(weak: true)
 === 4.2 Pfeil, Speer, Wurfholz <k-4-2>
@@ -1698,6 +1942,13 @@ _Querverweise:_ siehe Konzept 4.1, siehe Konzept B9-3.3, Stiel/Wurfholz als Werk
   [10], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [11], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [12], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [13], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [14], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [15], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [16], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [17], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [18], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [19], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
 )
 #subhead[Übungsvarianten (ankreuzen und eintragen)]
 #table(
@@ -1761,9 +2012,27 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [28], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [29], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [30], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [31], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [32], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [33], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [34], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [35], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [36], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [37], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [38], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [39], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [40], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [41], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [42], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
 #pagebreak(weak: true)
 == Kapitel 5 — Fallen & Kleintiere <kap-5>
+_Erklärung:_
+- _Prinzip (warum das funktioniert):_ Speer und Wurfholz sind Werkzeuge (z. B. für Fischwehr, Unterstände), keine Jagdwaffen; Gifte an Waffen sind verboten (Leitlinie, B10-4.2).
+- _Situationsvarianten (wann welche):_ Wurfholz \< 10 m als Werkzeug/Fanghilfe. Speer: nicht zur Jagd.
+- _Typische Fehler (warum + Folge):_ Speer als Jagdwaffe einsetzen. Folge: unzulässig, Wild qualvoll verletzt.
 #subhead[Kapitel-Übersicht]
 #table(
   columns: 7,
@@ -1777,7 +2046,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 5.1a Kastenfalle & Kleintierfallen (Ersatz für 5.1) <k-5-1a>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · Abb. 6.5]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-5.svg", width: 100%, alt: "Abb. 6.5: Kastenfalle (Ersatz für 5.1, ROT-2): amtlich zugelassene Lebendfang-Falle, tägliche Kontrolle, nie an Menschenpfaden (Konzept 5.1a)."), caption: [Abb. 6.5 — Kastenfalle (Ersatz für 5.1): amtlich zugelassene Lebendfang-Falle, tägliche Kontrolle, nie an Menschenpfaden (Konzept 5.1a).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-5.svg", width: 100%, alt: "Abb. 6.5: Kastenfalle (Ersatz für 5.1): amtlich zugelassene Lebendfang-Falle, tägliche Kontrolle, nie an Menschenpfaden (Konzept 5.1a)."), caption: [Abb. 6.5 — Kastenfalle (Ersatz für 5.1): amtlich zugelassene Lebendfang-Falle, tägliche Kontrolle, nie an Menschenpfaden (Konzept 5.1a).])]]
 #kasten([Rechtlicher Hinweis (Pflicht):])[Nur _amtlich zugelassene Lebendfang-Kastenfallen_ verwenden (Zulassung je Bundesland prüfen). _Tägliche Kontrolle_ (morgens und abends). _Kleintierfallen im Haushalt_ (Mäuse, Ratten) sind vom BJagdG nicht erfasst. _Nie an Menschenpfaden_ aufstellen.]
 + Kastenfalle am Wechsel aufstellen (siehe Konzept 2.3), mit Draht an Baum sichern.
 + Köder: Apfel, Möhre, Ei (siehe Konzept 6.2).
@@ -1788,7 +2057,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 - [ ] Nie an Menschenpfaden
 - [ ] Kontrollkarte geführt
 #baustein[Die Falle kontrollierst du zweimal am Tag — alles andere ist Tierquälerei und strafbar.]
-_Querverweise:_ siehe Konzept 2.3, siehe Konzept 6.2, siehe Konzept 9.1, siehe Konzept 1.1.
+_Querverweise:_ siehe Konzept 2.3, siehe Konzept 6.2, siehe Konzept 9.1, siehe Konzept 1.1. _Erklärung:_
+- _Prinzip (warum das funktioniert):_ Nur amtlich zugelassene Lebendfang-Kastenfallen (je Bundesland) sind erlaubt; tägliche Kontrolle (morgens/abends) ist Pflicht; nie an Menschenpfaden (§ 19 Abs. 1 BJagdG verbietet Schlingen/Totschlagfallen — gestrichen). Kleintierfallen im Haushalt (Maus/Ratte) sind vom BJagdG nicht erfasst. Sauberer Tod sofort: Genickbruch (kräftiger Zug/Drehung am Kopf) oder kräftiger Kopfschlag.
+- _Situationsvarianten (wann welche):_ Am Wechsel (2.3) aufstellen, mit Draht sichern. Köder: Apfel, Möhre, Ei (6.2). Kontrollkarte Anhang A2.
+- _Typische Fehler (warum + Folge):_ Falle tagelang unbe kontrolliert lassen. Folge: Tierquälerei, strafbar; oder Schlinge gesetzt — Fremdgefährdung.
 #subhead[Ablauf mit Kontrollkästchen]
 #table(
   columns: 3,
@@ -1884,6 +2156,13 @@ _Querverweise:_ siehe Konzept 2.3, siehe Konzept 6.2, siehe Konzept 9.1, siehe K
   [10], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [11], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [12], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [13], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [14], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [15], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [16], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [17], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [18], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [19], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
 )
 #subhead[Übungsvarianten (ankreuzen und eintragen)]
 #table(
@@ -1947,6 +2226,20 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [28], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [29], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [30], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [31], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [32], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [33], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [34], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [35], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [36], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [37], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [38], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [39], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [40], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [41], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [42], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
 #pagebreak(weak: true)
 === 5.2 Vögel, Eier, Kleintier <k-5-2>
@@ -1955,7 +2248,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 - [ ] § 44 BNatSchG beachtet
 - [ ] Nie letztes Gelege
 - [ ] Eier gekocht
-_Querverweise:_ siehe Konzept 9.1 (Zerwirken/Durchgaren).
+_Querverweise:_ siehe Konzept 9.1 (Zerwirken/Durchgaren). _Erklärung:_
+- _Prinzip (warum das funktioniert):_ Vogeleier/-nester entnehmen ist verboten (§ 44 BNatSchG); nie das letzte Gelege; Eier immer kochen (Salmonellen). Kleintiere (Kaninchen) mit Kastenfalle (5.1a).
+- _Situationsvarianten (wann welche):_ Brutzeit März–Juli meiden. Nie Nester zerstören.
+- _Typische Fehler (warum + Folge):_ „Nur ein Ei“. Folge: strafbar; Bestand kollabiert.
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
   columns: 3,
@@ -2027,6 +2323,13 @@ _Querverweise:_ siehe Konzept 9.1 (Zerwirken/Durchgaren).
   [10], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [11], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [12], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [13], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [14], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [15], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [16], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [17], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [18], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [19], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
 )
 #subhead[Übungsvarianten (ankreuzen und eintragen)]
 #table(
@@ -2090,6 +2393,20 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [28], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [29], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [30], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [31], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [32], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [33], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [34], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [35], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [36], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [37], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [38], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [39], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [40], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [41], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [42], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
 #pagebreak(weak: true)
 === 5.3 Feder-Kunde <k-5-3>
@@ -2163,6 +2480,13 @@ _Querverweise:_ siehe Konzept B4-2.1, siehe Konzept 9.3 (Ganz-Verwertung).
   [10], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [11], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [12], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [13], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [14], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [15], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [16], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [17], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [18], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [19], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
 )
 #subhead[Übungsvarianten (ankreuzen und eintragen)]
 #table(
@@ -2226,9 +2550,27 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [28], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [29], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [30], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [31], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [32], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [33], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [34], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [35], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [36], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [37], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [38], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [39], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [40], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [41], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [42], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
 #pagebreak(weak: true)
 == Kapitel 6 — Angel & Köder <kap-6>
+_Erklärung:_
+- _Prinzip (warum das funktioniert):_ Schwungfedern (steife Achse) eignen sich zum Schreiben/Schneiden; Daunen (weiche Verästelung) isolieren (B4-2.1). Trocknen, mit Talkum gegen Verkleben lagern.
+- _Situationsvarianten (wann welche):_ Ganz-Verwertung (1.1): Federkiele vom erlegten Vogel nutzen.
+- _Typische Fehler (warum + Folge):_ Nasse Federn lagern. Folge: Schimmel, Geruch, Daune verklumpt — keine Isolation mehr.
 #subhead[Kapitel-Übersicht]
 #table(
   columns: 7,
@@ -2249,7 +2591,10 @@ Konsistent mit Knoten (siehe Konzept B1-6.3) und Seil (siehe Konzept B9-5.2).
 + Pose (Schwimmer) aus Kork/Holz selbst schnitzen.
 - [ ] Knoten geprüft
 - [ ] Haken fest
-_Querverweise:_ siehe Konzept B1-6.3, siehe Konzept B9-5.2.
+_Querverweise:_ siehe Konzept B1-6.3, siehe Konzept B9-5.2. _Erklärung:_
+- _Prinzip (warum das funktioniert):_ Die Angelschnur muss Knoten halten: Achterknoten (B1-6.3) ist selbsthemmend und nach Belastung lösbar. Haken-Knoten seguridad: Zugprobe vor jedem Wurf.
+- _Situationsvarianten (wann welche):_ Stadt: Angelsteg/Gewässer mit Schein. Land: Bach/Teich. Starkströmung: schwerer Köder.
+- _Typische Fehler (warum + Folge):_ Knoten nicht prüfen. Folge: Fisch mit Haken verloren; Haken im Finger (siehe B8-2.1/B8-2.2).
 #subhead[Ablauf mit Kontrollkästchen]
 #table(
   columns: 3,
@@ -2336,6 +2681,13 @@ _Querverweise:_ siehe Konzept B1-6.3, siehe Konzept B9-5.2.
   [10], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [11], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [12], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [13], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [14], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [15], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [16], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [17], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [18], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [19], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
 )
 #subhead[Übungsvarianten (ankreuzen und eintragen)]
 #table(
@@ -2399,6 +2751,20 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [28], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [29], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [30], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [31], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [32], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [33], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [34], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [35], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [36], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [37], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [38], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [39], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [40], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [41], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [42], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
 #pagebreak(weak: true)
 === 6.2 Köder-Kunde <k-6-2>
@@ -2411,7 +2777,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [Nymphe], [Frühjahr–Sommer], [Forelle, Äsche],
   [Kleinfisch], [Sommer–Herbst], [Raubfisch],
 )
-_Querverweise:_ siehe Konzept 6.3.
+_Querverweise:_ siehe Konzept 6.3. _Erklärung:_
+- _Prinzip (warum das funktioniert):_ Köderwahl folgt der Saison und der Zielfischart (Tabelle): Wurm universell, Nymphe Frühjahr/Sommer, Kleinfisch für Raubfisch.
+- _Situationsvarianten (wann welche):_ Klares Wasser: dezenter Köder. Trübes Wasser: auffälliger.
+- _Typische Fehler (warum + Folge):_ Immer derselbe Köder. Folge: Beißhemmung — kein Fang.
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
   columns: 3,
@@ -2479,6 +2848,13 @@ _Querverweise:_ siehe Konzept 6.3.
   [10], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [11], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [12], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [13], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [14], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [15], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [16], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [17], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [18], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [19], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
 )
 #subhead[Übungsvarianten (ankreuzen und eintragen)]
 #table(
@@ -2542,6 +2918,20 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [28], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [29], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [30], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [31], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [32], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [33], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [34], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [35], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [36], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [37], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [38], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [39], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [40], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [41], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [42], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
 #pagebreak(weak: true)
 === 6.3 Köder-Zucht (Wurm-Kiste) <k-6-3>
@@ -2637,6 +3027,13 @@ _Querverweise:_ siehe Konzept 6.2.
   [10], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [11], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [12], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [13], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [14], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [15], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [16], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [17], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [18], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [19], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
 )
 #subhead[Übungsvarianten (ankreuzen und eintragen)]
 #table(
@@ -2700,9 +3097,27 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [28], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [29], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [30], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [31], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [32], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [33], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [34], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [35], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [36], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [37], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [38], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [39], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [40], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [41], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [42], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
 #pagebreak(weak: true)
 == Kapitel 7 — Netze & Reusen <kap-7>
+_Erklärung:_
+- _Prinzip (warum das funktioniert):_ Die Wurm-Kiste (feuchte Erde + Laub/Kaffeesatz, dunkel/kühl) züchtet Köder vor Ort — spart Transport und hält frisch.
+- _Situationsvarianten (wann welche):_ Füttern mit Gemüseresten; Erde feucht halten, nicht nass.
+- _Typische Fehler (warum + Folge):_ Kiste austrocknen lassen. Folge: Würmer sterben — keine Köder im Ernstfall.
 #subhead[Kapitel-Übersicht]
 #table(
   columns: 7,
@@ -2720,7 +3135,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 + #kasten([Rechtlich (Fischereirecht):])[Stellnetz/Kiemennetz _genehmigungspflichtig_, Maschenweite und Markierung je Bundesland; Fischereischein (DE) bzw. _rod licence (Irland)_ erforderlich.]
 - [ ] Öffnung im Netz
 - [ ] Genehmigung/Markierung geklärt (je Bundesland)
-_Querverweise:_ siehe Konzept 7.2, siehe Konzept 1.1.
+_Querverweise:_ siehe Konzept 7.2, siehe Konzept 1.1. _Erklärung:_
+- _Prinzip (warum das funktioniert):_ Ein Netz ohne Öffnung wird zur Todesfalle (Wild ertrinkt darin, Mensch verheddert sich). Fischereirecht: Stellnetz/Kiemennetz genehmigungspflichtig, Maschenweite/Markierung je Bundesland; Fischereischein (DE) bzw. rod licence (IR).
+- _Situationsvarianten (wann welche):_ Stehendes Gewässer: Stellnetz mit Boje markieren. Fluss: Reuse (7.2).
+- _Typische Fehler (warum + Folge):_ Netz unbeaufsichtigt ohne Öffnung. Folge: Ertrinken von Tieren/Menschen; strafbar ohne Genehmigung.
 #subhead[Ablauf mit Kontrollkästchen]
 #table(
   columns: 3,
@@ -2803,6 +3221,13 @@ _Querverweise:_ siehe Konzept 7.2, siehe Konzept 1.1.
   [10], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [11], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [12], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [13], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [14], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [15], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [16], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [17], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [18], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [19], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
 )
 #subhead[Übungsvarianten (ankreuzen und eintragen)]
 #table(
@@ -2866,6 +3291,20 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [28], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [29], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [30], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [31], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [32], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [33], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [34], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [35], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [36], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [37], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [38], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [39], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [40], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [41], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [42], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
 #pagebreak(weak: true)
 === 7.2 Reuse, Fischwehr, Stellnetz <k-7-2>
@@ -2959,6 +3398,13 @@ _Querverweise:_ siehe Konzept 7.1.
   [10], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [11], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [12], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [13], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [14], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [15], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [16], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [17], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [18], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [19], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
 )
 #subhead[Übungsvarianten (ankreuzen und eintragen)]
 #table(
@@ -3022,9 +3468,27 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [28], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [29], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [30], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [31], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [32], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [33], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [34], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [35], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [36], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [37], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [38], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [39], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [40], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [41], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [42], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
 #pagebreak(weak: true)
 == Kapitel 8 — Watt & Gezeiten <kap-8>
+_Erklärung:_
+- _Prinzip (warum das funktioniert):_ Reusen/Fischwehr fangen passiv; die Drei-Tage-Regel begrenzt Standzeit, tägliche Kontrolle bei Wärme verhindert Verderb (Fäulnis lockt Aasfresser, verwest den Fang). Genehmigung/Markierung je Bundesland (siehe 7.1).
+- _Situationsvarianten (wann welche):_ Strömung: Reuse gegen die Strömung stellen. Warm: täglich kontrollieren.
+- _Typische Fehler (warum + Folge):_ Reuse wochenlang stehen lassen. Folge: Fang verwest, strafbar (Verstoß gegen Beschränkungen).
 #subhead[Kapitel-Übersicht]
 #table(
   columns: 7,
@@ -3037,12 +3501,15 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 8.1 Muscheln der Gezeiten <k-8-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün + _WARNRAHMEN [warn-6]_ · P 9 · M unbedenklich · V 9 · Abb. 6.9]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-9.svg", width: 100%, alt: "Abb. 6.9: Muscheln der Gezeiten: nur amtlich überwachte Gewässer – PSP/DSP hitzestabil, Blaualgen meiden (Konzept 8.1, warn-6, W17)."), caption: [Abb. 6.9 — Muscheln der Gezeiten: nur amtlich überwachte Gewässer – PSP/DSP hitzestabil, Blaualgen meiden (Konzept 8.1, warn-6).])]]
-#warnrahmen(id: "warn-6", title: [MUSCHEL-/ALGENGIFTE (09 Nr. 6):])[PSP (Saxitoxin), DSP, ASP sind _hitzestabil — kein Kochen rettet_. _Nur aus amtlich überwachten Gewässern_ ernten; nach Algenblüten/Stürmen _Sperre_ beachten. _Blaualgen (Microcystin) im Süßwasser:_ nicht trinken, nicht baden bei Massenvermehrung (siehe Konzept B2-5.1). Bank-Rast: nur frische, fest schließende Muscheln.]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-9.svg", width: 100%, alt: "Abb. 6.9: Muscheln der Gezeiten: nur amtlich überwachte Gewässer – PSP/DSP hitzestabil, Blaualgen meiden (Konzept 8.1, warn-6)."), caption: [Abb. 6.9 — Muscheln der Gezeiten: nur amtlich überwachte Gewässer – PSP/DSP hitzestabil, Blaualgen meiden (Konzept 8.1, warn-6).])]]
+#warnrahmen(id: "warn-6", title: [MUSCHEL-/ALGENGIFTE :])[PSP (Saxitoxin), DSP, ASP sind _hitzestabil — kein Kochen rettet_. _Nur aus amtlich überwachten Gewässern_ ernten; nach Algenblüten/Stürmen _Sperre_ beachten. _Blaualgen (Microcystin) im Süßwasser:_ nicht trinken, nicht baden bei Massenvermehrung (siehe Konzept B2-5.1). Bank-Rast: nur frische, fest schließende Muscheln.]
 - [ ] Amtlich überwachtes Gewässer
 - [ ] Sperrzeiten beachtet
 - [ ] Frische geprüft (fest geschlossen)
-_Querverweise:_ siehe Konzept B2-5.1, Blaualgen, siehe Konzept 9.2.
+_Querverweise:_ siehe Konzept B2-5.1, Blaualgen, siehe Konzept 9.2. _Erklärung:_
+- _Prinzip (warum das funktioniert):_ Muscheltoxine (PSP/DSP/ASP, z. B. Saxitoxin) sind hitzestabil — Kochen rettet nicht. Nur amtlich überwachte Gewässer, Sperrzeiten nach Algenblüte beachten; Blaualgen (Microcystin) im Süßwasser: nicht trinken/baden (warn-6). Bank-Rast: nur frische, fest schließende Muscheln.
+- _Situationsvarianten (wann welche):_ Nordsee/Ostsee: behördliche Freigaben prüfen. Mittelmeer/Irland: lokale Warnungen. Stadt: Supermarkt-Muscheln (kontrolliert) bevorzugen.
+- _Typische Fehler (warum + Folge):_ Bei Algenblüte sammeln. Folge: PSP — Lähmung, Atemlähmung, tödlich.
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
   columns: 3,
@@ -3114,6 +3581,13 @@ _Querverweise:_ siehe Konzept B2-5.1, Blaualgen, siehe Konzept 9.2.
   [10], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [11], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [12], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [13], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [14], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [15], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [16], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [17], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [18], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [19], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
 )
 #subhead[Übungsvarianten (ankreuzen und eintragen)]
 #table(
@@ -3177,6 +3651,20 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [28], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [29], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [30], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [31], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [32], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [33], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [34], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [35], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [36], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [37], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [38], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [39], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [40], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [41], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [42], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
 #pagebreak(weak: true)
 === 8.2 Krabben & Watt-Gäste <k-8-2>
@@ -3263,6 +3751,13 @@ _Querverweise:_ siehe Konzept B1-7.4, siehe Konzept B8-7.1.
   [10], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [11], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [12], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [13], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [14], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [15], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [16], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [17], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [18], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [19], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
 )
 #subhead[Übungsvarianten (ankreuzen und eintragen)]
 #table(
@@ -3326,9 +3821,27 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [28], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [29], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [30], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [31], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [32], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [33], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [34], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [35], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [36], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [37], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [38], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [39], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [40], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [41], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [42], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
 #pagebreak(weak: true)
 == Kapitel 9 — Vom Fang zur Schwelle <kap-9>
+_Erklärung:_
+- _Prinzip (warum das funktioniert):_ Petermännchen (Stich mit Giftstachel) und Löwenmähnen-Qualle: Heißwasser 40–45 °C denaturiert das Toxin — wirksamer als Kühlen. 55 °C ist die Verbrühungsgrenze (B1-7.4).
+- _Situationsvarianten (wann welche):_ Wattwandern: feste Schuhe. Nordsee/Ostsee: Badesaison.
+- _Typische Fehler (warum + Folge):_ Kaltwasser oder „ertragbar heiß“ über 45 °C. Folge: Schmerzen verlängert; bei \> 55 °C Verbrühung obendrauf.
 #subhead[Kapitel-Übersicht]
 #table(
   columns: 7,
@@ -3342,15 +3855,18 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 9.1 Ausnehmen & Zerwirken <k-9-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün + _WARNRAHMEN [warn-6b]_ · P 9 · M unbedenklich · V 8 · Abb. 6.10]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-10.svg", width: 100%, alt: "Abb. 6.10: Ausnehmen & Zerwirken: Trichinen-Untersuchung + Kern ≥ 71 °C – kranke Tiere meiden, Fledermäuse nie mit bloßen Händen (Konzept 9.1, warn-6b, W18)."), caption: [Abb. 6.10 — Ausnehmen & Zerwirken: Trichinen-Untersuchung + Kern ≥ 71 °C – kranke Tiere meiden, Fledermäuse nie mit bloßen Händen (Konzept 9.1, warn-6b).])]]
-#warnrahmen(id: "warn-6b", title: [TRICHINEN / TOLLWUT / FLEDERMAUS-LYSSAVIREN (09 Nr. 7, verschärft):])[_Trichinen:_ amtliche Untersuchung (EU-VO 2075/2005) dringend empfohlen; sicher ist _Durchgaren auf ≥ 71 °C Kerntemperatur_ (besser 75 °C) — _Gefrieren bei Wild ist unzuverlässig_ (T. britovi kälteresistent). _Tollwut:_ DE/IR terrestrisch tollwutfrei, aber _Fledermaus-Lyssaviren (EBLV-1/-2)_ möglich — _Fledermaus nie mit bloßen Händen_, Biss/Kratzer → sofort postexpositionelle Prophylaxe (siehe Konzept B8-2.2). Verhaltensauffällige Tiere meiden, nicht anfassen.]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-10.svg", width: 100%, alt: "Abb. 6.10: Ausnehmen & Zerwirken: Trichinen-Untersuchung + Kern ≥ 71 °C – kranke Tiere meiden, Fledermäuse nie mit bloßen Händen (Konzept 9.1, warn-6b)."), caption: [Abb. 6.10 — Ausnehmen & Zerwirken: Trichinen-Untersuchung + Kern ≥ 71 °C – kranke Tiere meiden, Fledermäuse nie mit bloßen Händen (Konzept 9.1, warn-6b).])]]
+#warnrahmen(id: "warn-6b", title: [TRICHINEN / TOLLWUT / FLEDERMAUS-LYSSAVIREN (verschärft):])[_Trichinen:_ amtliche Untersuchung (EU-VO 2075/2005) dringend empfohlen; sicher ist _Durchgaren auf ≥ 71 °C Kerntemperatur_ (besser 75 °C) — _Gefrieren bei Wild ist unzuverlässig_ (T. britovi kälteresistent). _Tollwut:_ DE/IR terrestrisch tollwutfrei, aber _Fledermaus-Lyssaviren (EBLV-1/-2)_ möglich — _Fledermaus nie mit bloßen Händen_, Biss/Kratzer → sofort postexpositionelle Prophylaxe (siehe Konzept B8-2.2). Verhaltensauffällige Tiere meiden, nicht anfassen.]
 + Wild mit Handschuhen ausnehmen; kranke Tiere (Leber/Lunge verändert) meiden.
 + Fleisch kühl halten, bald verarbeiten (siehe Band 7).
 + Durchgaren ≥ 71 °C Kern vor Verzehr. _Messen:_ Fleischthermometer in der Sanitätsmappe (siehe B8-8.1) und in der Werkzeugkiste (siehe B9-8.1). _Ohne Thermometer (Ersatzkriterien):_ Fleisch ist innen grau-braun (nicht rosa), die Fasern lösen sich leicht, austretender Saft ist klar (nicht rosa); Fisch: Fleisch undurchsichtig weiß und löst sich von der Gräte; Kochzeit konservativ wählen.
 - [ ] ≥ 71 °C Kerntemperatur gemessen
 - [ ] Keine Fledermaus mit bloßen Händen
 - [ ] Kranke Tiere gemieden
-_Querverweise:_ siehe Konzept B8-2.2, Tetanus/postexpositionell, siehe Konzept B7-9.2, Schwelle/Vorrat.
+_Querverweise:_ siehe Konzept B8-2.2, Tetanus/postexpositionell, siehe Konzept B7-9.2, Schwelle/Vorrat. _Erklärung:_
+- _Prinzip (warum das funktioniert):_ Wildbret trägt Trichinen (Wildschwein), Tollwutviren (terrestrisch DE/IR frei, aber Fledermaus-Lyssaviren EBLV möglich — nie mit bloßen Händen) und Bakterien. Durchgaren ≥ 71 °C Kern (besser 75 °C) ist die sichere Abtötung; Gefrieren bei Wild unzuverlässig (warn-6b,, EU-VO 2075/2005). Messbar mit Thermometer (B8-8.1/B9-8.1); Ersatzkriterien siehe Text.
+- _Situationsvarianten (wann welche):_ Kranke Tiere (Leber/Lunge verändert, Verhalten auffällig) meiden, nicht anfassen. EU-Untersuchung bei Inverkehrbringen.
+- _Typische Fehler (warum + Folge):_ Roh oder rosa essen. Folge: Trichinose (Muskelschmerzen, tödlich möglich); Fledermauskontakt: Tollwut — tödlich ohne sofortige Prophylaxe.
 #subhead[Ablauf mit Kontrollkästchen]
 #table(
   columns: 3,
@@ -3452,6 +3968,13 @@ _Querverweise:_ siehe Konzept B8-2.2, Tetanus/postexpositionell, siehe Konzept B
   [10], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [11], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [12], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [13], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [14], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [15], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [16], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [17], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [18], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [19], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
 )
 #subhead[Übungsvarianten (ankreuzen und eintragen)]
 #table(
@@ -3515,6 +4038,20 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [28], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [29], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [30], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [31], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [32], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [33], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [34], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [35], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [36], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [37], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [38], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [39], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [40], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [41], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [42], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
 #pagebreak(weak: true)
 === 9.2 Wild-Küche <k-9-2>
@@ -3522,7 +4059,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 #warnrahmen()[_Aal nie roh_ — Aalblut ist giftig, aber _hitzelabil_ (durch Garen ungiftig).]
 - [ ] Aal durchgegart
 - [ ] Wildbret ≥ 71 °C Kern (siehe Konzept 9.1)
-_Querverweise:_ siehe Konzept 9.1 (`warn-6b`).
+_Querverweise:_ siehe Konzept 9.1 (`warn-6b`). _Erklärung:_
+- _Prinzip (warum das funktioniert):_ Aalblut enthält Ichthyotoxin (Anguillin), das hitzelabil ist — durchgegart ist Aal genießbar, roh giftig. Allgemein: Wild/Fisch immer durchgaren (9.1).
+- _Situationsvarianten (wann welche):_ Aal räuchern/braten — nie roh. Andere Fische: siehe 9.1.
+- _Typische Fehler (warum + Folge):_ Aal roh (Sushi). Folge: Vergiftung (Erbrechen, Durchfall, Kreislauf).
 #subhead[Material & Maß (aus diesem Konzept)]
 #table(
   columns: 2,
@@ -3600,6 +4140,13 @@ _Querverweise:_ siehe Konzept 9.1 (`warn-6b`).
   [10], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [11], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [12], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [13], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [14], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [15], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [16], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [17], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [18], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [19], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
 )
 #subhead[Übungsvarianten (ankreuzen und eintragen)]
 #table(
@@ -3663,6 +4210,20 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [28], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [29], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [30], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [31], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [32], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [33], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [34], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [35], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [36], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [37], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [38], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [39], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [40], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [41], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [42], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
 #pagebreak(weak: true)
 === 9.3 Fell, Sehne, Knochen (Ganz-Verwertung) <k-9-3>
@@ -3737,6 +4298,13 @@ _Querverweise:_ siehe Konzept 1.1, siehe Konzept B7-7.3, siehe Konzept B9-7.2.
   [10], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [11], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
   [12], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [13], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [14], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [15], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [16], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [17], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [18], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
+  [19], [[ ]  #v(2pt)], [\_\_\_\_\_  #v(2pt)], [\_\_\_  #v(2pt)], [\_\_\_\_\_  #v(2pt)],
 )
 #subhead[Übungsvarianten (ankreuzen und eintragen)]
 #table(
@@ -3800,6 +4368,20 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [28], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [29], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [30], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [31], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [32], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [33], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [34], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [35], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [36], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [37], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [38], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [39], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [40], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [41], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [42], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
+  [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
 #pagebreak(weak: true)
 == Anhang A — Kopiervorlagen (Band 6) <anh-A>
@@ -3810,20 +4392,26 @@ Kopiervorlage zu Konzept 3.1 — Datum / Wind / Sitz / Sicht / Schuss / Ergebnis
   columns: 4,
   table.header([Spalte 1], [Spalte 2], [Spalte 3], [Spalte 4]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
 )
 #pagebreak(weak: true)
 === A2 Fallen-Kontrollkarte <anh-a2>
@@ -3832,20 +4420,26 @@ Kopiervorlage zu Konzept 5.1a — Datum / Falle-Nr. / morgendliche Kontrolle / a
   columns: 4,
   table.header([Spalte 1], [Spalte 2], [Spalte 3], [Spalte 4]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
 )
 #pagebreak(weak: true)
 === A3 Zerwirk-Protokoll <anh-a3>
@@ -3854,20 +4448,26 @@ Kopiervorlage zu Konzept 9.1 — Tier / Datum / Untersuchung / Kern-Temperatur /
   columns: 4,
   table.header([Spalte 1], [Spalte 2], [Spalte 3], [Spalte 4]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
-  [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ], [ #v(3pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
+  [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
 )
 #pagebreak(weak: true)
 == Anhang B — Fehler-Tabelle (Band 6) <anh-B>
@@ -3919,7 +4519,19 @@ Spurenlesen (2.1–2.4) monatlich im Gelände; Kastenfalle 5.1a aufstellen + kon
   [9.2 Wild-Küche], [9], [unbedenklich], [9], [grün (Aal nie roh)],
   [9.3 Fell/Sehne/Knochen], [8], [unbedenklich], [8], [grün],
 )
-#devise[„Jagd ist Notstand, nicht Sport: mit Schein und Befugnis, in der Schonzeit nie, mit Kastenfalle statt Schlinge — und das Wild wird ganz verwertet, durchgegart auf 71 °C.“]#pagebreak(weak: true)
+#devise[„Jagd ist Notstand, nicht Sport: mit Schein und Befugnis, in der Schonzeit nie, mit Kastenfalle statt Schlinge — und das Wild wird ganz verwertet, durchgegart auf 71 °C.“]
+_Erklärung:_
+- _Prinzip (warum das funktioniert):_ Ganz-Verwertung (1.1): Fell gerben (B7-7.3), Sehnen als Faden/Schnur (B9-5.2), Knochen zu Leim/Werkzeug (B9-7.2). Nichts Wegwerfbares wegwerfen — Ressourcen sind knapp.
+- _Situationsvarianten (wann welche):_ Sofort häuten/ausnehmen (9.1), kühlen (B7-8.1), dann verarbeiten.
+- _Typische Fehler (warum + Folge):_ Nur das Fleisch nehmen, Rest liegen lassen. Folge: Ressource verloren, Aasfresser angelockt, Geruch.
+#pagebreak(weak: true)
+== Situative Detail-Skizzen (Review v1) <skizzen-v1>
+Situative Skizzen zu Varianten und Situationen (mit Maßen und Kontext) — ergänzt nach Review v1, Befund 3.
+#grid(columns: (1fr, 1fr), column-gutter: 8pt, row-gutter: 8pt,
+  figure(image("illustrationen/abb-6-11.svg", width: 100%, alt: "Abb. 6.11: Ansitz situativ: Hochsitz / Bodensitz / Pirsch – Wahl nach Wind, Deckung, Gelände (Ergänzung zu Abb. 6.3). *(situativ, Review v1)*"), caption: [Abb. 6.11 — Ansitz situativ: Hochsitz / Bodensitz / Pirsch – Wahl nach Wind, Deckung, Gelände (Ergänzung zu Abb. 6.3, Review v1).]),
+  figure(image("illustrationen/abb-6-12.svg", width: 100%, alt: "Abb. 6.12: Kastenfalle im Gelände situativ: Tarnung, Kontrollweg, nie an Menschenpfaden (Ergänzung zu Abb. 6.5). *(situativ, Review v1)*"), caption: [Abb. 6.12 — Kastenfalle im Gelände situativ: Tarnung, Kontrollweg, nie an Menschenpfaden (Ergänzung zu Abb. 6.5, Review v1).]),
+  figure(image("illustrationen/abb-6-13.svg", width: 100%, alt: "Abb. 6.13: Angel situativ: stehendes vs. fließendes Gewässer – Pose, Gewicht, Position (Ergänzung zu Abb. 6.6). *(situativ, Review v1)*"), caption: [Abb. 6.13 — Angel situativ: stehendes vs. fließendes Gewässer – Pose, Gewicht, Position (Ergänzung zu Abb. 6.6, Review v1).]))
+#pagebreak(weak: true)
 == Gesamt-Checkliste Band 6 <gesamt-checkliste>
 Alle Konzepte dieses Bandes im Überblick — abhaken, wenn geübt/gelesen:
 - [ ] 1.1 Grenze des Jagens
@@ -3952,8 +4564,8 @@ Alle Konzepte dieses Bandes im Überblick — abhaken, wenn geübt/gelesen:
   columns: 2,
   table.header([*Warngrafik*], [*Thema*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [warn-6c], [VERLETZTES WILD 09 NR 12],
-  [warn-6], [MUSCHELALGENGIFTE 09 NR 6],
+  [warn-6c], [VERLETZTES WILD ],
+  [warn-6], [MUSCHELALGENGIFTE ],
   [warn-6b], [TRICHINEN  TOLLWUT  FLEDERMAUSLYSSAVIREN],
 )
 #pagebreak(weak: true)
@@ -3964,6 +4576,7 @@ Alle Verweise aus diesem Band auf andere Bände (Schema B\<Band\>-X.Y):
   table.header([*Von (dieser Band)*], [*Ziel*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [1.1], [B10-4.2],
+  [1.1], [B6-9.3],
   [1.3], [B10-8.1],
   [2.1], [B1-9.1],
   [4.1], [B1-8.2],
@@ -3972,6 +4585,8 @@ Alle Verweise aus diesem Band auf andere Bände (Schema B\<Band\>-X.Y):
   [5.3], [B4-2.1],
   [6.1], [B1-6.3],
   [6.1], [B9-5.2],
+  [6.1], [B8-2.1],
+  [6.1], [B8-2.2],
   [8.1], [B2-5.1],
   [8.2], [B1-7.4],
   [8.2], [B8-7.1],
