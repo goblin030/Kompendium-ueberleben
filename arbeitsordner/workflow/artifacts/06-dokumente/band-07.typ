@@ -731,7 +731,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 2.2 Die sechs Wege (Haltbarkeits-Tafeln) <k-2-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 7.1]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-1.svg", width: 100%), caption: [Abb. 7.1 — Die sechs Wege der Haltbarkeit (Tafeln nach USDA, W25): Konzept 2.2.])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-1.svg", width: 100%), caption: [Abb. 7.1 — Die sechs Wege der Haltbarkeit (Tafeln nach USDA): Konzept 2.2.])]]
 Trocknen, Räuchern, Salzen/Pökeln, Säuern/Einlegen, Einkochen, Kühlen — Tafeln gegen USDA abgeglichen.
 #table(
   columns: 3,
@@ -1240,8 +1240,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 3.2 Dörrware <k-3-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün + _WARNRAHMEN [warn-7a]_ · P 9 · M unbedenklich · V 9 · Abb. 7.2]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-2.svg", width: 100%), caption: [Abb. 7.2 — Dörrware-Reduktion: Fleisch 3:1, Fisch 4:1, Obst 5:1, Kraut 10:1 – Preheat 71 °C, Brechprobe (Konzept 3.2, warn-7a, W25).])]]
-#warnrahmen(id: "warn-7a", title: [HALBTROCKENE DÖRRFALLE (09 Nr. 8, verschärft):])[_USDA-Preheat: Fleisch und Fisch vor dem Dörren auf 71 °C Kerntemperatur erhitzen_ (Trocknen allein tötet Keime nicht sicher; Kern messen mit Thermometer, siehe B8-8.1/B9-8.1, Ersatzkriterien siehe B6-9.1). Halbtrocken bedeutet: die Ware _biegt sich noch, statt spröde zu brechen_ (Wasseraktivität aw \> 0,85) — darauf wachsen S. aureus (Enterotoxin hitzestabil) und C. perfringens. Dörrware muss _spröde brechen (Brechprobe)_, Scheiben _fingerdünn_. _Schimmel auf Dörrware → ganz wegwerfen_ (Mykotoxine penetrieren, siehe Konzept 8.2).]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-2.svg", width: 100%), caption: [Abb. 7.2 — Dörrware-Reduktion: Fleisch 3:1, Fisch 4:1, Obst 5:1, Kraut 10:1 – Preheat 71 °C, Brechprobe (Konzept 3.2, warn-7a).])]]
+#warnrahmen(id: "warn-7a", title: [HALBTROCKENE DÖRRFALLE (verschärft):])[_USDA-Preheat: Fleisch und Fisch vor dem Dörren auf 71 °C Kerntemperatur erhitzen_ (Trocknen allein tötet Keime nicht sicher; Kern messen mit Thermometer, siehe B8-8.1/B9-8.1, Ersatzkriterien siehe B6-9.1). Halbtrocken bedeutet: die Ware _biegt sich noch, statt spröde zu brechen_ (Wasseraktivität aw \> 0,85) — darauf wachsen S. aureus (Enterotoxin hitzestabil) und C. perfringens. Dörrware muss _spröde brechen (Brechprobe)_, Scheiben _fingerdünn_. _Schimmel auf Dörrware → ganz wegwerfen_ (Mykotoxine penetrieren, siehe Konzept 8.2).]
 Reduktionsverhältnisse : Fleisch 3:1, Fisch 4:1, Obst 5:1, Kraut 10:1.
 - [ ] Preheat 71 °C Kern vor dem Dörren
 - [ ] Brechprobe bestanden
@@ -1966,7 +1966,7 @@ _Erklärung:_
 #pagebreak(weak: true)
 === 5.1 Das Salz <k-5-1>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb + WARNRAHMEN [warn-7c]_ · P 7 · M prüfenswert · V 8]
-#warnrahmen(id: "warn-7c", title: [UNBEKANNTES SALZ (09 § 4.3):])[_Streusalz und Regeneriersalz nie in die Küche_ — Ferrocyanid-Rieselhilfe und Verunreinigungen. Nur Salz _bekannter Herkunft_ (Meersalz, Siedesalz, Steinsalz aus kontrollierter Quelle). Herkunft prüfen, bevor du salzt.]
+#warnrahmen(id: "warn-7c", title: [UNBEKANNTES SALZ :])[_Streusalz und Regeneriersalz nie in die Küche_ — Ferrocyanid-Rieselhilfe und Verunreinigungen. Nur Salz _bekannter Herkunft_ (Meersalz, Siedesalz, Steinsalz aus kontrollierter Quelle). Herkunft prüfen, bevor du salzt.]
 - [ ] Herkunft des Salzes bekannt
 - [ ] Kein Streusalz/Regeneriersalz in Lebensmitteln (siehe auch Konzept B2-3.7, Tausalz-Schnee)
 #baustein[Salz aus der Winterstreuung ist für die Straße, nicht für den Topf.]
@@ -2132,7 +2132,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 5.2 Pökeln (Lake-Ei-Test) <k-5-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 7.5]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-5.svg", width: 100%), caption: [Abb. 7.5 — Pökeln: Lake-Ei-Test (rohes Ei schwimmt = genug Salz) – Speck 7–10 Tage, Schinken \~1 Tag/cm + 2 Tage (Konzept 5.2, W26).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-5.svg", width: 100%), caption: [Abb. 7.5 — Pökeln: Lake-Ei-Test (rohes Ei schwimmt = genug Salz) – Speck 7–10 Tage, Schinken \~1 Tag/cm + 2 Tage (Konzept 5.2).])]]
 Werte : _Lake-Ei-Test_ — ein _frisches rohes Ei_ (legt in Süßwasser auf den Grund) _schwimmt in der fertigen Lake_ (Salzgehalt ausreichend). Speck _7–10 Tage_, Schinken _\~1 Tag je cm Dicke + 2 Tage_ (konservativer als USDA).
 + Lake ansetzen: Salzgehalt prüfen (Ei-Test).
 + Fleisch einlegen, kühl stellen (siehe Konzept 8.1).
@@ -2537,7 +2537,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 #konzmeta(fill: rgb("#1a6b1a"))[_\*_ · grün + _WARNRAHMEN [warn-7b]_\* · P 7 · M prüfenswert · V 8 · Abb. 7.7]
 #pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-7.svg", width: 100%), caption: [Abb. 7.7 — Einkochen korrigiert : pH messen – Wasserbad nur pH ≤ 4,6, low-acid nur Druckkocher 116–121 °C (Konzept 6.2k, NCHFP).])]]
-#warnrahmen(id: "warn-7b", title: [BOTULISMUS (09 § 2.1):])[Sporen von _C. botulinum_ überleben stundenlanges Kochen; Wasserbad (max. 100 °C) tötet sie _nicht_. Low-acid food braucht den _Druckkocher 116–121 °C_. _Gewölbte Deckel, Schwall beim Öffnen, Fremdgeruch, Schimmel → Glas ungeöffnet wegwerfen — nie probieren, nicht an Tiere verfüttern_ (Vorkochen macht ein sporibelastetes Glas nicht sicher).]
+#warnrahmen(id: "warn-7b", title: [BOTULISMUS :])[Sporen von _C. botulinum_ überleben stundenlanges Kochen; Wasserbad (max. 100 °C) tötet sie _nicht_. Low-acid food braucht den _Druckkocher 116–121 °C_. _Gewölbte Deckel, Schwall beim Öffnen, Fremdgeruch, Schimmel → Glas ungeöffnet wegwerfen — nie probieren, nicht an Tiere verfüttern_ (Vorkochen macht ein sporibelastetes Glas nicht sicher).]
 > „Einkochen von Fleisch, Geflügel, Fisch und Gemüse (pH \> 4,6) gelingt nur im _Druckkocher bei 116–121 °C_ (10 psi bis 300 m, darüber 15 psi) mit den Zeiten nach USDA/NCHFP (z. B. Fleisch: Pintsglas 75 min, Quartglas 90 min bei 10 psi). Ein Wasserbad (max. 100 °C) tötet die Sporen von _C. botulinum_ nicht — es ist nur für Obst und sauer Eingelegtes (pH ≤ 4,6, gemessen) zulässig. pH mit Indikatorpapier messen; ohne Messung konservativ Druckkocher wählen. Kräuter/Knoblauch in Öl nur mit Säuerung auf pH \< 4,6 oder vollständig getrocknet, kühl lagern, innerhalb weniger Tage verbrauchen. Gewölbte Deckel, Schwall oder Fremdgeruch: Glas ungeöffnet wegwerfen — nie probieren.“
 _Umrechnung:_ 1 psi ≈ 0,069 bar → _10 psi ≈ 0,7 bar_ (bis 300 m Höhe), _15 psi ≈ 1,0 bar_ (über 300 m). US-Pintsglas ≈ _0,5 l_, US-Quartglas ≈ _1 l_.
 _Einkoch-Zeiten inline (NCHFP-Richtwerte, low-acid pH \> 4,6, 10 psi ≈ 0,7 bar, bis 300 m):_
@@ -2567,7 +2567,7 @@ Umsetzung als Schritte:
 - [ ] Gewölbte Deckel ungeöffnet weggeworfen
 #baustein[Was sauer ist, darf ins Wasserbad. Was nicht sauer ist, braucht den Druckkocher. Alles andere ist Russisch Roulette mit Gläsern.]
 _Querverweise:_ siehe Konzept 4.1 (Räucherfisch), siehe Konzept 6.1, siehe Konzept 6.3, siehe Konzept B8-3.3, Öl-Auszüge nur gesäuert, siehe Konzept B5-6.2, `warn-5`-Kontext, Anhang A (Einkoch-Protokoll Druckkocher, NCHFP-Zeiten). _Erklärung:_
-- _Prinzip (warum das funktioniert):_ C. botulinum-Sporen überleben 100 °C stundenlang (D₁₂₁ ≈ 0,1–0,25 min; „botulinum cook“ F₀ ≈ 2,5–3 min bei 121,1 °C). Low-acid (pH \> 4,6) braucht deshalb den Druckkocher bei 116–121 °C (10 psi ≈ 0,7 bar bis 300 m, 15 psi ≈ 1,0 bar darüber), Zeiten inline in der Tabelle (NCHFP). Wasserbad nur für high-acid (pH ≤ 4,6, gemessen). Öl-Einlagen (Knoblauch/Kräuter) nur gesäuert pH \< 4,6 oder getrocknet, kühl, Frist in Tagen. Kaltgeräucherter Fisch: Typ E. Gewölbter Deckel/Schwall/Fremdgeruch: Glas ungeöffnet wegwerfen — Toxin hitzelabil, Sporen nicht; Vorkochen macht es nicht sicher (warn-7b,, 09 § 2.1).
+- _Prinzip (warum das funktioniert):_ C. botulinum-Sporen überleben 100 °C stundenlang (D₁₂₁ ≈ 0,1–0,25 min; „botulinum cook“ F₀ ≈ 2,5–3 min bei 121,1 °C). Low-acid (pH \> 4,6) braucht deshalb den Druckkocher bei 116–121 °C (10 psi ≈ 0,7 bar bis 300 m, 15 psi ≈ 1,0 bar darüber), Zeiten inline in der Tabelle (NCHFP). Wasserbad nur für high-acid (pH ≤ 4,6, gemessen). Öl-Einlagen (Knoblauch/Kräuter) nur gesäuert pH \< 4,6 oder getrocknet, kühl, Frist in Tagen. Kaltgeräucherter Fisch: Typ E. Gewölbter Deckel/Schwall/Fremdgeruch: Glas ungeöffnet wegwerfen — Toxin hitzelabil, Sporen nicht; Vorkochen macht es nicht sicher (warn-7b).
 - _Situationsvarianten (wann welche):_ pH mit Indikatorpapier messen; ohne Messung konservativ Druckkocher. Höhenlage von der Karte. Im Zweifel längere Zeit (10-psi-Werte). Stadt: 0,5-l/1-l-Gläser (Pint/Quart) sind die üblichen Größen.
 - _Typische Fehler (warum + Folge):_ Fleisch 1,5 h im Wasserbad. Folge: tödliche Botulismus-Vergiftung — das war, gestrichen.
 #subhead[Ablauf mit Kontrollkästchen]
@@ -2665,6 +2665,7 @@ _Querverweise:_ siehe Konzept 4.1 (Räucherfisch), siehe Konzept 6.1, siehe Konz
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [WARNRAHMEN [warn-7b] — BOTULISMUS :], [siehe Glossar, Anhang D Band 1],
   [nicht], [siehe Glossar, Anhang D Band 1],
   [Druckkocher 116–121 °C], [siehe Glossar, Anhang D Band 1],
   [Druckkocher bei 116–121 °C], [siehe Glossar, Anhang D Band 1],
@@ -3176,7 +3177,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 7.2 Seife aus Resten <k-7-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 6 · M unbedenklich · V 8 · Abb. 7.9]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-9.svg", width: 100%), caption: [Abb. 7.9 — Seife aus Resten: 1 Pfund Fett → 1 Pfund Seife, Lauge 0,5 l/Pfund, Reife 4–6 Wochen (Konzept 7.2, W27).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-9.svg", width: 100%), caption: [Abb. 7.9 — Seife aus Resten: 1 Pfund Fett → 1 Pfund Seife, Lauge 0,5 l/Pfund, Reife 4–6 Wochen (Konzept 7.2).])]]
 Werte : _\~1 Pfund (= 500 g) Fett → \~500 g Seife_; Lauge _0,5 l pro Pfund (500 g) Fett_; _Reife 4–6 Wochen_.
 + Lauge aus Asche herstellen (siehe B3-8.2: 2 Hände Asche/10 l Wasser).
 + Fett erhitzen, Lauge zugeben, rühren bis _„Spur ziehen“_ — die Masse hinterlässt auf dem Löffel eine sichtbare dickflüssige Bahn.
@@ -3758,7 +3759,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 #pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-11.svg", width: 100%), caption: [Abb. 7.11 — Verderb-Atlas: retten / essen / wegwerfen – verschimmeltes Korn, Brot, Nüsse NIEMALS retten (Mykotoxine penetrieren) (Konzept 8.2).])]]
 Entscheidungstabelle: retten / essen / wegwerfen.
-#kasten([Mykotoxine (09 § 4.3):])[Verschimmeltes _Korn, Brot und Nüsse nie retten_ — Mykotoxine penetrieren das ganze Stück. Schimmel auf harter Ware (Käse, feste Wurst): Rand großzügig wegschneiden, Rest prüfen. Weichware mit Schimmel: ganz wegwerfen.]
+#kasten([Mykotoxine :])[Verschimmeltes _Korn, Brot und Nüsse nie retten_ — Mykotoxine penetrieren das ganze Stück. Schimmel auf harter Ware (Käse, feste Wurst): Rand großzügig wegschneiden, Rest prüfen. Weichware mit Schimmel: ganz wegwerfen.]
 - [ ] Atlas bekannt
 - [ ] Schimmel-Regel: Korn/Brot/Nüsse ganz weg
 _Querverweise:_ siehe Konzept 3.2 (`warn-7a`), siehe Konzept 2.3.
@@ -3797,7 +3798,7 @@ _Querverweise:_ siehe Konzept 3.2 (`warn-7a`), siehe Konzept 2.3.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Mykotoxine (09 § 4.3):], [siehe Glossar, Anhang D Band 1],
+  [Mykotoxine :], [siehe Glossar, Anhang D Band 1],
   [Korn, Brot und Nüsse nie retten], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -3919,7 +3920,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 #pagebreak(weak: true)
 == Kapitel 9 — Winter-Speicher <kap-9>
 _Erklärung:_
-- _Prinzip (warum das funktioniert):_ Verderb-Atlas: retten (festes, nur Rand betroffen) / essen (sofort) / wegwerfen. Mykotoxine (Schimmelpilzgifte) penetrieren das ganze Lebensmittel — verschimmeltes Korn/Brot/Nüsse nie retten (09 § 4.3). Weichware mit Schimmel: ganz weg.
+- _Prinzip (warum das funktioniert):_ Verderb-Atlas: retten (festes, nur Rand betroffen) / essen (sofort) / wegwerfen. Mykotoxine (Schimmelpilzgifte) penetrieren das ganze Lebensmittel — verschimmeltes Korn/Brot/Nüsse nie retten. Weichware mit Schimmel: ganz weg.
 - _Situationsvarianten (wann welche):_ Harte Ware (Käse, feste Wurst): Rand großzügig (2 cm) wegschneiden, Rest ok. Weich: weg.
 - _Typische Fehler (warum + Folge):_ Schimmel „abschneiden“ bei Brot/Nüssen. Folge: Mykotoxin-Vergiftung (Leber, krebserregend).
 #subhead[Kapitel-Übersicht]
@@ -4640,9 +4641,9 @@ Alle Konzepte dieses Bandes im Überblick — abhaken, wenn geübt/gelesen:
   columns: 2,
   table.header([*Warngrafik*], [*Thema*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [warn-7a], [HALBTROCKENE DÖRRFALLE 09 NR 8 VERSCHÄRF],
-  [warn-7c], [UNBEKANNTES SALZ 09  43],
-  [warn-7b], [BOTULISMUS 09  21],
+  [warn-7a], [HALBTROCKENE DÖRRFALLE VERSCHÄRFT],
+  [warn-7c], [UNBEKANNTES SALZ ],
+  [warn-7b], [BOTULISMUS ],
 )
 #pagebreak(weak: true)
 == Querverweis-Register Band 7 <querverweis-register>

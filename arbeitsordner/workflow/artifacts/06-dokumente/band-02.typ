@@ -246,7 +246,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 1.2 Zonenplan <k-1-2>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb _ · P 9 · M unbedenklich · V 9 · Abb. 2.1]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-1.svg", width: 100%), caption: [Abb. 2.1 — Zonenplan Wasserlager: Quelle hangaufwärts, Latrine ≥ 30 m (besser 50 m) hangabwärts (Konzept 1.2, W7).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-1.svg", width: 100%), caption: [Abb. 2.1 — Zonenplan Wasserlager: Quelle hangaufwärts, Latrine ≥ 30 m (besser 50 m) hangabwärts (Konzept 1.2).])]]
 Der Zonenplan trennt Wasserentnahme, Grauwasser und Latrine im Gelände. _Korrektur _ Latrine–Wasser _≥ 30 m (besser 50 m), stets unterhalb/hangabwärts_ der Entnahmestelle (Sphere/WHO; 20 m waren zu wenig).
 + Entnahmestelle oben im Gelände wählen (siehe Konzept 3.3).
 + Latrine hangabwärts, windabwärts, ≥ 30 m (besser 50 m) entfernt anlegen (siehe Konzept 9.1).
@@ -471,7 +471,7 @@ _Erklärung:_
 === 2.1 Bedarfsrechnung <k-2-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 2.2]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-2.svg", width: 100%), caption: [Abb. 2.2 — Bedarfsrechnung pro Person und Tag: Trinkminimum 2–3 l, Notfall 7,5–10 l, Haushalt 15–20 l (Konzept 2.1, W1/W2).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-2.svg", width: 100%), caption: [Abb. 2.2 — Bedarfsrechnung pro Person und Tag: Trinkminimum 2–3 l, Notfall 7,5–10 l, Haushalt 15–20 l (Konzept 2.1).])]]
 Werte : Trinkminimum _2–3 l/Person/Tag_ (Kinder 1–1,5 l); Notfallstandard _7,5–10 l/Tag_ (Trinken+Kochen+Hygiene, WHO-Untergrenze); Haushaltsstandard _15–20 l/Tag_; bei Fieber/Leistung _4–6 l_ Trinkanteil.
 + Personenanzahl × Tagesbedarf rechnen.
 + Haushaltsbedarf separat führen (Waschen, Kochen, Spülen).
@@ -857,7 +857,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 2.3 Ertragsrechnung <k-2-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 2.3]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-3.svg", width: 100%), caption: [Abb. 2.3 — Ertragsrechnung: 1 mm Niederschlag × 1 m² Auffangfläche = 1 l (Konzept 2.3, W8).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-3.svg", width: 100%), caption: [Abb. 2.3 — Ertragsrechnung: 1 mm Niederschlag × 1 m² Auffangfläche = 1 l (Konzept 2.3).])]]
 Regenformel : _1 mm Niederschlag × 1 m² Fläche = 1 l_ (exakt, vor Verlusten).
 + Auffangfläche messen (Dachhälfte: Länge × Breite).
 + Niederschlag mm × m² = Ertrag l.
@@ -1814,7 +1814,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 3.5 Solarstill <k-3-5>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb (Notbehelf, P = 4)_ · P 4 · M unbedenklich · V 8 · Abb. 2.5]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-5.svg", width: 100%), caption: [Abb. 2.5 — Solarstill (Notbehelf, P = 4): Salzwasser verdunstet, Kondensat tropft – Ertrag 0,3–1,5 l/Tag (Konzept 3.5, W11).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-5.svg", width: 100%), caption: [Abb. 2.5 — Solarstill (Notbehelf, P = 4): Salzwasser verdunstet, Kondensat tropft – Ertrag 0,3–1,5 l/Tag (Konzept 3.5).])]]
 Der Solarstill ist ein Notbehelf : Ertrag konservativ _0,3–1,5 l/Tag_, nur als Klarwasser-Nachbehandlung.
 + Grube 50 × 50 cm, 30 cm tief; frisches Grün/Blätter als Feuchtigkeitsspender hinein.
 + Auffanggefäß in die Mitte, Folie luftdicht darüber spannen, Stein in die Mitte der Folie (Trichter).
@@ -2016,7 +2016,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 3.7 Winterwasser <k-3-7>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 9 · Abb. 2.6]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-6.svg", width: 100%), caption: [Abb. 2.6 — Winterwasser: Schneeschmelze-Verhältnisse – Pulverschnee 10:1 bis Eis 9:10; Tausalz-Schnee verwerfen (Konzept 3.7, W9).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-6.svg", width: 100%), caption: [Abb. 2.6 — Winterwasser: Schneeschmelze-Verhältnisse – Pulverschnee 10:1 bis Eis 9:10; Tausalz-Schnee verwerfen (Konzept 3.7).])]]
 Schmelze statt Schnee essen : Pulverschnee ≈ 1:10, Altschnee 2–3:10, Krusten 3–5:10, Eis ≈ 9:10.
 + Schnee in Behälter schmelzen (Körperwärme oder Feuer, siehe Band 3).
 + _Tausalz-Schnee verwerfen_ — Streusalz ist nicht genießbar (siehe Konzept B7-5.1, `warn-7c`).
@@ -2386,7 +2386,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 4.2 Transportkette (10 l einseitig) <k-4-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 2.7]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-7.svg", width: 100%), caption: [Abb. 2.7 — Transportkette: 10-l-Kanister einseitig (10 kg), Zwischentank als Puffer (Konzept 4.2, W20).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-7.svg", width: 100%), caption: [Abb. 2.7 — Transportkette: 10-l-Kanister einseitig (10 kg), Zwischentank als Puffer (Konzept 4.2).])]]
 Konsistent mit Traglast (siehe Konzept B1-6.5): 10 l Wasser = 10 kg = eine Seite, ein Arm.
 + Max. 10 l pro Person pro Gang einseitig tragen.
 + Besser: Kanister mit Trageriemen auf dem Rücken (siehe Konzept B1-6.5).
@@ -3181,7 +3181,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 6.2 Abkochen <k-6-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 10 · Abb. 2.9]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-9.svg", width: 100%), caption: [Abb. 2.9 — Abkochen: 1 Minute sprudelnd kochen – ab 2.000 m Höhe 3 Minuten (Konzept 6.2, W3 CDC/WHO).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-9.svg", width: 100%), caption: [Abb. 2.9 — Abkochen: 1 Minute sprudelnd kochen – ab 2.000 m Höhe 3 Minuten (Konzept 6.2, CDC/WHO).])]]
 Wert (CDC/WHO): _1 Minute sprudelnd kochen; ab 2.000 m Höhe 3 Minuten._
 + Wasser kräftig aufkochen (sprudelnd), 1 min halten.
 + Ab 2.000 m: 3 min halten.
@@ -3386,7 +3386,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 6.3 SODIS <k-6-3>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb_ · P 6 · M unbedenklich · V 8 · Abb. 2.10]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-10.svg", width: 100%), caption: [Abb. 2.10 — SODIS: PET-Flasche 1–2 l, klares Wasser \< 30 NTU, 6 h Sonne / 2 Tage bewölkt (Konzept 6.3, W6).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-10.svg", width: 100%), caption: [Abb. 2.10 — SODIS: PET-Flasche 1–2 l, klares Wasser \< 30 NTU, 6 h Sonne / 2 Tage bewölkt (Konzept 6.3).])]]
 Nur bei _klarem Wasser — Sichttiefe \> 30 cm (≈ \< 10 NTU, Feldmethode siehe Konzept 5.1)_, PET-Flaschen _1–2 l_, _6 h volle Sonne / 2 Tage bewölkt_. _Im Zweifel kochen_ (siehe Konzept 6.2).
 + Wasser klären (siehe Konzept 6.1), sonst ungeeignet.
 + PET-Flasche randvoll füllen, schütteln (Sauerstoff), in volle Sonne legen.
@@ -3606,7 +3606,7 @@ _Erklärung:_
 === 7.1 Langsamsandfilter <k-7-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 7 · Abb. 2.11]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-11.svg", width: 100%), caption: [Abb. 2.11 — Langsamsandfilter: Sand 40–60 cm, Wasserstand ≥ 5 cm über Sand, Reife 1–2 Wochen, Filtrat nachkochen (Konzept 7.1, W10).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-11.svg", width: 100%), caption: [Abb. 2.11 — Langsamsandfilter: Sand 40–60 cm, Wasserstand ≥ 5 cm über Sand, Reife 1–2 Wochen, Filtrat nachkochen (Konzept 7.1).])]]
 Maße : _40–60 cm Sand_, Wasserstand nie unter _5 cm über Sand_, _Reife 1–2 Wochen_, danach _Filtrat noch abkochen_.
 + Behälter mit 5 cm Kies unten, darüber 40–60 cm feiner Sand (0,2–0,5 mm).
 + Rohwasser oben aufgießen, Wasserstand über Sand halten.
@@ -3817,7 +3817,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 7.2 Destillation (Topf-Destille, Solarstill) <k-7-2>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb (Notbehelf-Grenze, P = 5)_ · P 5 · M unbedenklich · V 8 · Abb. 2.12]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-12.svg", width: 100%), caption: [Abb. 2.12 — Destillation (Notbehelf, P = 5): Topf-Destille 0,5–1,5 l/h – Salz/Metalle bleiben, Keime erst nachkochen (Konzept 7.2, W11).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-12.svg", width: 100%), caption: [Abb. 2.12 — Destillation (Notbehelf, P = 5): Topf-Destille 0,5–1,5 l/h – Salz/Metalle bleiben, Keime erst nachkochen (Konzept 7.2).])]]
 Ertrag konservativ : Topf-Destille _0,5–1,5 l/h_, Solarstill 0,3–1,5 l/Tag. _Salz und Metalle gehen über, Keime erst durch Nachkochen_ (siehe Konzept 6.2).
 + Topf mit Salzwasser erhitzen, Deckel schräg stellen, Kondensat auffangen.
 + Oder Solarstill (siehe Konzept 3.5).
@@ -4015,7 +4015,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 7.3 Chemische Desinfektion (Chlor, Notstand) <k-7-3>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb_ · P 6 · M prüfenswert · V 7 · Abb. 2.13]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-13.svg", width: 100%), caption: [Abb. 2.13 — Chemische Desinfektion mit Chlor (Notstand): Dosis verdoppeln bei trüb/kalt – Kinder-Dosis nicht halbieren (Konzept 7.3, W5).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-13.svg", width: 100%), caption: [Abb. 2.13 — Chemische Desinfektion mit Chlor (Notstand): Dosis verdoppeln bei trüb/kalt – Kinder-Dosis nicht halbieren (Konzept 7.3).])]]
 Dosis : _\~2 Tropfen 5–6 %ige Bleiche pro Liter_; trüb oder kalt: _doppelt (4 Tropfen)_, Wartezeit _30 min (kalt 60 min)_, dann Geruchsprobe.
 _Konzentration umrechnen (% NaOCl ↔ °chl.):_ Haushaltsbleiche wird oft als „Javel 36° chl.“ (≈ 9,6 % NaOCl) verkauft. Umrechnung: °chl. × 0,266 ≈ % NaOCl — also _36° chl. ≈ 9,6 % → Dosis halbieren: ≈ 1 Tropfen pro Liter_ (trüb/kalt: 2 Tropfen).
 #table(
@@ -4227,7 +4227,7 @@ _Erklärung:_
 === 8.1 Haushaltsvorrat (2 l × 14 T) <k-8-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 10 · Abb. 2.14]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-14.svg", width: 100%), caption: [Abb. 2.14 — Haushaltsvorrat: 2 l pro Person und Tag × 14 Tage = 28 l pro Person (Konzept 8.1, W21/BBK).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-14.svg", width: 100%), caption: [Abb. 2.14 — Haushaltsvorrat: 2 l pro Person und Tag × 14 Tage = 28 l pro Person (Konzept 8.1, /BBK).])]]
 BBK-Wert : _2 l Trinkwasser pro Person × 14 Tage_. Konsistent mit Konzept B1-9.1 (Stundenprotokoll: Verbrauch dokumentieren).
 + Vorrat = Personen × 2 l × 14 T.
 + In sauberen, lebensmittelechten Behältern (siehe Konzept 4.1), dunkel und kühl lagern.
@@ -4628,7 +4628,7 @@ _Erklärung:_
 === 9.1 Latrine <k-9-1>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb _ · P 9 · M unbedenklich · V 9 · Abb. 2.15]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-15.svg", width: 100%), caption: [Abb. 2.15 — Latrine: Grab 25–30 cm tief, abgedeckt – Abstand zur Wasserstelle ≥ 30 m, besser 50 m, hangabwärts (Konzept 9.1, W7).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-2-15.svg", width: 100%), caption: [Abb. 2.15 — Latrine: Grab 25–30 cm tief, abgedeckt – Abstand zur Wasserstelle ≥ 30 m, besser 50 m, hangabwärts (Konzept 9.1).])]]
 _Korrektur _ Abstand zur Wasserstelle _≥ 30 m (besser 50 m), unterhalb/hangabwärts_ — siehe Konzept 1.2.
 + Stelle nach Konzept 1.2 wählen (≥ 30 m, besser 50 m, hangabwärts, windabwärts).
 + Grabtiefe _25–30 cm_ (Glossar Band 1 Anhang D: Tiefe ≠ Abstand).
@@ -5169,9 +5169,9 @@ _Erklärung:_
 == Situative Detail-Skizzen (Review v1) <skizzen-v1>
 Situative Skizzen zu Varianten und Situationen (mit Maßen und Kontext) — ergänzt nach Review v1, Befund 3.
 #grid(columns: (1fr, 1fr), column-gutter: 8pt, row-gutter: 8pt,
-  figure(image("illustrationen/abb-2-17.svg", width: 100%), caption: [Abb. 2.17 — Regen auffangen situativ: drei Auffang-Setups mit Ertrag (1 mm × 1 m² = 1 l, W8) (Ergänzung zu Abb. 2.3/2.4, Review v1).]),
+  figure(image("illustrationen/abb-2-17.svg", width: 100%), caption: [Abb. 2.17 — Regen auffangen situativ: drei Auffang-Setups mit Ertrag (1 mm × 1 m² = 1 l) (Ergänzung zu Abb. 2.3/2.4, Review v1).]),
   figure(image("illustrationen/abb-2-18.svg", width: 100%), caption: [Abb. 2.18 — Aufbereitung je Wasserbefund situativ: klar/trüb/kalt/salzig → passende Methode (Ergänzung zu Abb. 2.8–2.13, Review v1).]),
-  figure(image("illustrationen/abb-2-19.svg", width: 100%), caption: [Abb. 2.19 — Latrine situativ: Grabenlatrine / Klapplatrine / Eimer-Lösung – immer ≥ 30 m (besser 50 m) hangabwärts der Wasserquelle (W7) (Ergänzung zu Abb. 2.15, Review v1).]))
+  figure(image("illustrationen/abb-2-19.svg", width: 100%), caption: [Abb. 2.19 — Latrine situativ: Grabenlatrine / Klapplatrine / Eimer-Lösung – immer ≥ 30 m (besser 50 m) hangabwärts der Wasserquelle (Ergänzung zu Abb. 2.15, Review v1).]))
 #pagebreak(weak: true)
 == Gesamt-Checkliste Band 2 <gesamt-checkliste>
 Alle Konzepte dieses Bandes im Überblick — abhaken, wenn geübt/gelesen:

@@ -810,8 +810,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 2.2 Verwechslungs-Paare & Giftpflanzen <k-2-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün + _WARNRAHMEN [warn-5]_ · P 9 · M unbedenklich · V 8 · Abb. 5.2]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-2.svg", width: 100%), caption: [Abb. 5.2 — Verwechslungs-Paare: Bärlauch vs. Maiglöckchen/Aronstab, Wilde Karotte vs. Schierling – warn-5 (Konzept 2.2, W15).])]]
-#warnrahmen(id: "warn-5", title: [GIFTPFLANZEN (09 Nr. 4, verschärft):])[Tollkirsche, Schierling, Maiglöckchen, Aronstab, Fingerhut, Eisenhut, Hundspetersilie, Rhododendron — _kein Laien-Gegenmittel_. _Herbstzeitlose vs Bärlauch:_ Frühjahrsblätter täuschend ähnlich — Colchicin, tödlich; sicherstes Merkmal: _Knoblauchgeruch beim Zerreiben des Bärlauchs_. _Herkulesstaude (Riesenbärenklau):_ Saft + UV-Licht = phototoxische Verbrennungen 2. Grades — _nicht berühren_. Geschützte Arten sind kein Sammelgut (siehe Konzept 1.1). Giftnotruf: _116 123 (DE) / +353 1 809 2166 (IE) / 112 (EU)_; Reste sichern (siehe Konzept B8-5.2). _„Keine Mahlzeit ohne Namen + zweites Merkmal.“_]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-2.svg", width: 100%), caption: [Abb. 5.2 — Verwechslungs-Paare: Bärlauch vs. Maiglöckchen/Aronstab, Wilde Karotte vs. Schierling – warn-5 (Konzept 2.2).])]]
+#warnrahmen(id: "warn-5", title: [GIFTPFLANZEN (verschärft):])[Tollkirsche, Schierling, Maiglöckchen, Aronstab, Fingerhut, Eisenhut, Hundspetersilie, Rhododendron — _kein Laien-Gegenmittel_. _Herbstzeitlose vs Bärlauch:_ Frühjahrsblätter täuschend ähnlich — Colchicin, tödlich; sicherstes Merkmal: _Knoblauchgeruch beim Zerreiben des Bärlauchs_. _Herkulesstaude (Riesenbärenklau):_ Saft + UV-Licht = phototoxische Verbrennungen 2. Grades — _nicht berühren_. Geschützte Arten sind kein Sammelgut (siehe Konzept 1.1). Giftnotruf: _116 123 (DE) / +353 1 809 2166 (IE) / 112 (EU)_; Reste sichern (siehe Konzept B8-5.2). _„Keine Mahlzeit ohne Namen + zweites Merkmal.“_]
 #table(
   columns: 3,
   table.header([Paar], [Merkmal des Doppelgängers], [Gefahr]),
@@ -2602,7 +2602,7 @@ _Erklärung:_
 #pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-6.svg", width: 100%), caption: [Abb. 5.6 — Fünf Haus-Pflanzen – mit Grenzen: Beinwell nur äußerlich auf intakter Haut, Weidenrinde nicht unter 16 J (Konzept 6.1, SME-Korrektur).])]]
 Wegerich, Nessel, Kamille, Beinwell, Weidenrinde — mit Grenzen:
-#kasten([SME-Korrektur (09 § 4.1):])[_Beinwell nur äußerlich auf intakter Haut_ — innerlich obsolet (Pyrrolizidinalkaloide, hepatotoxisch, EMA/HMPC). _Weidenrinde nicht bei Kindern/Jugendlichen \< 16 J_ (Reye-Syndrom, siehe Konzept B8-7.3).]
+#kasten([SME-Korrektur :])[_Beinwell nur äußerlich auf intakter Haut_ — innerlich obsolet (Pyrrolizidinalkaloide, hepatotoxisch, EMA/HMPC). _Weidenrinde nicht bei Kindern/Jugendlichen \< 16 J_ (Reye-Syndrom, siehe Konzept B8-7.3).]
 #table(
   columns: 3,
   table.header([Pflanze], [Anwendung], [Grenze]),
@@ -2662,7 +2662,7 @@ _Querverweise:_ siehe Konzept B8-3.1, siehe Konzept B8-7.3, siehe Konzept 6.2. _
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [SME-Korrektur (09 § 4.1):], [siehe Glossar, Anhang D Band 1],
+  [SME-Korrektur :], [siehe Glossar, Anhang D Band 1],
   [Beinwell nur äußerlich auf intakter Haut], [siehe Glossar, Anhang D Band 1],
   [nur äußerlich, intakte Haut], [siehe Glossar, Anhang D Band 1],
   [nicht \< 16 J], [siehe Glossar, Anhang D Band 1],
@@ -2828,6 +2828,7 @@ _Querverweise:_ siehe Konzept B7-6.2k, `warn-7b`, siehe Konzepte B8-3.2 und B8-3
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [„Erst die Grenze, dann die Gabe.“], [siehe Glossar, Anhang D Band 1],
+  [WARNRAHMEN (Botulismus-Verweis):], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -4042,8 +4043,8 @@ _Erklärung:_
 === 9.1 Pilze <k-9-1>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb + WARNRAHMEN [warn-5b]_ · P 6 · M unbedenklich · V 7 · Abb. 5.10]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-10.svg", width: 100%), caption: [Abb. 5.10 — Pilze: Knollenblätterpilz erkennen – Ring, Knolle (Volva), weiße Lamellen; Amatoxine hitzestabil, nie roh (Konzept 9.1, warn-5b, W16).])]]
-#warnrahmen(id: "warn-5b", title: [PILZE (09 Nr. 4):])[Knollenblätterpilz und Frühjahrslorchel — _Amatoxine sind hitzestabil: kein Kochen, kein Braten rettet_. _Keine Rettungsleine, nie roh probieren._ Giftnotruf 116 123 (DE) / +353 1 809 2166 (IE) / 112 (EU). _Drei Merkmale aus lebendiger Anleitung_ (Lehrmeister, siehe Konzept B9-9.2) vor dem Verzehr bestätigen.]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-10.svg", width: 100%), caption: [Abb. 5.10 — Pilze: Knollenblätterpilz erkennen – Ring, Knolle (Volva), weiße Lamellen; Amatoxine hitzestabil, nie roh (Konzept 9.1, warn-5b).])]]
+#warnrahmen(id: "warn-5b", title: [PILZE :])[Knollenblätterpilz und Frühjahrslorchel — _Amatoxine sind hitzestabil: kein Kochen, kein Braten rettet_. _Keine Rettungsleine, nie roh probieren._ Giftnotruf 116 123 (DE) / +353 1 809 2166 (IE) / 112 (EU). _Drei Merkmale aus lebendiger Anleitung_ (Lehrmeister, siehe Konzept B9-9.2) vor dem Verzehr bestätigen.]
 + Nur Pilze mit drei bestätigten Merkmalen sammeln.
 + Nie roh — auch ein „Testbissen“ ist tödlich.
 + Unsichere Pilze ganz entsorgen, nicht „zur Sicherheit“ kochen.
@@ -4116,7 +4117,7 @@ _Querverweise:_ siehe Konzepte B8-5.1 und B8-5.2, siehe Konzept 2.2 (`warn-5`). 
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [WARNRAHMEN [warn-5b] — PILZE (09 Nr. 4):], [siehe Glossar, Anhang D Band 1],
+  [WARNRAHMEN [warn-5b] — PILZE :], [siehe Glossar, Anhang D Band 1],
   [Keine Rettungsleine, nie roh probieren.], [siehe Glossar, Anhang D Band 1],
   [Drei Merkmale aus lebendiger Anleitung], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
@@ -4594,8 +4595,8 @@ Alle Konzepte dieses Bandes im Überblick — abhaken, wenn geübt/gelesen:
   columns: 2,
   table.header([*Warngrafik*], [*Thema*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [warn-5], [GIFTPFLANZEN 09 NR 4 VERSCHÄRFT],
-  [warn-5b], [PILZE 09 NR 4],
+  [warn-5], [GIFTPFLANZEN VERSCHÄRFT],
+  [warn-5b], [PILZE ],
 )
 #pagebreak(weak: true)
 == Querverweis-Register Band 5 <querverweis-register>

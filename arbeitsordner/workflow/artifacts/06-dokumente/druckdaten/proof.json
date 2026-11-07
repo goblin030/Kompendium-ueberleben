@@ -1,8 +1,8 @@
 [
   {
     "file": "band-01-druck.pdf",
-    "size_mb": 3.88,
-    "pages": 414,
+    "size_mb": 4.71,
+    "pages": 447,
     "media_mm": [
       216.0,
       303.0
@@ -22,8 +22,8 @@
     "annots_any": false,
     "outputintents": true,
     "crop_marks_content": {
-      "pages_with_marks": 414,
-      "pages_total": 414,
+      "pages_with_marks": 447,
+      "pages_total": 447,
       "registration_black": true,
       "min_stroke_width_pt": 0.3,
       "mark_segments_per_marks_page": 8,
@@ -40,8 +40,8 @@
       "DeviceCMYK_named": 0,
       "DeviceGray_named": 0,
       "rgb_ops": 0,
-      "cmyk_ops": 2001,
-      "gray_ops": 51,
+      "cmyk_ops": 2201,
+      "gray_ops": 57,
       "cmyk_only": true
     },
     "GTS_PDFXVersion_xmp": "PDF/X-4",
@@ -51,20 +51,20 @@
     "raster_images": 0,
     "min_effective_dpi": null,
     "grayscale": {
-      "pages_measured": 414,
+      "pages_measured": 447,
       "C_max": 0.0,
       "M_max": 0.0,
       "Y_max": 0.0,
       "K_min": 0.0009,
       "K_max": 0.1604,
-      "K_mean": 0.0232,
+      "K_mean": 0.025,
       "k_only": true
     }
   },
   {
     "file": "band-02-druck.pdf",
-    "size_mb": 3.53,
-    "pages": 382,
+    "size_mb": 4.3,
+    "pages": 410,
     "media_mm": [
       216.0,
       303.0
@@ -84,8 +84,8 @@
     "annots_any": false,
     "outputintents": true,
     "crop_marks_content": {
-      "pages_with_marks": 382,
-      "pages_total": 382,
+      "pages_with_marks": 410,
+      "pages_total": 410,
       "registration_black": true,
       "min_stroke_width_pt": 0.3,
       "mark_segments_per_marks_page": 8,
@@ -102,69 +102,7 @@
       "DeviceCMYK_named": 0,
       "DeviceGray_named": 0,
       "rgb_ops": 0,
-      "cmyk_ops": 1717,
-      "gray_ops": 23,
-      "cmyk_only": true
-    },
-    "GTS_PDFXVersion_xmp": "PDF/X-4",
-    "GTS_PDFXVersion_info": "PDF/X-4",
-    "fonts_total": 4,
-    "fonts_all_embedded": true,
-    "raster_images": 0,
-    "min_effective_dpi": null,
-    "grayscale": {
-      "pages_measured": 382,
-      "C_max": 0.0,
-      "M_max": 0.0,
-      "Y_max": 0.0,
-      "K_min": 0.0005,
-      "K_max": 0.1271,
-      "K_mean": 0.0213,
-      "k_only": true
-    }
-  },
-  {
-    "file": "band-03-druck.pdf",
-    "size_mb": 3.29,
-    "pages": 359,
-    "media_mm": [
-      216.0,
-      303.0
-    ],
-    "trim_mm": [
-      210.0,
-      297.0
-    ],
-    "bleed_each_side_mm": [
-      3.0,
-      3.0,
-      3.0,
-      3.0
-    ],
-    "bleedbox_eq_mediabox": true,
-    "acroform": false,
-    "annots_any": false,
-    "outputintents": true,
-    "crop_marks_content": {
-      "pages_with_marks": 359,
-      "pages_total": 359,
-      "registration_black": true,
-      "min_stroke_width_pt": 0.3,
-      "mark_segments_per_marks_page": 8,
-      "ok": true
-    },
-    "crop_marks_raster": {
-      "first_page": 8,
-      "last_page": 8,
-      "ok": true
-    },
-    "crop_marks_ok": true,
-    "colorspaces": {
-      "DeviceRGB_named": 0,
-      "DeviceCMYK_named": 0,
-      "DeviceGray_named": 0,
-      "rgb_ops": 0,
-      "cmyk_ops": 1555,
+      "cmyk_ops": 1897,
       "gray_ops": 27,
       "cmyk_only": true
     },
@@ -175,20 +113,20 @@
     "raster_images": 0,
     "min_effective_dpi": null,
     "grayscale": {
-      "pages_measured": 359,
+      "pages_measured": 410,
       "C_max": 0.0,
       "M_max": 0.0,
       "Y_max": 0.0,
-      "K_min": 0.0009,
-      "K_max": 0.1673,
-      "K_mean": 0.0208,
+      "K_min": 0.0011,
+      "K_max": 0.1333,
+      "K_mean": 0.0235,
       "k_only": true
     }
   },
   {
-    "file": "band-04-druck.pdf",
-    "size_mb": 3.2,
-    "pages": 352,
+    "file": "band-03-druck.pdf",
+    "size_mb": 4.03,
+    "pages": 390,
     "media_mm": [
       216.0,
       303.0
@@ -208,8 +146,8 @@
     "annots_any": false,
     "outputintents": true,
     "crop_marks_content": {
-      "pages_with_marks": 352,
-      "pages_total": 352,
+      "pages_with_marks": 390,
+      "pages_total": 390,
       "registration_black": true,
       "min_stroke_width_pt": 0.3,
       "mark_segments_per_marks_page": 8,
@@ -226,7 +164,255 @@
       "DeviceCMYK_named": 0,
       "DeviceGray_named": 0,
       "rgb_ops": 0,
-      "cmyk_ops": 1454,
+      "cmyk_ops": 1749,
+      "gray_ops": 33,
+      "cmyk_only": true
+    },
+    "GTS_PDFXVersion_xmp": "PDF/X-4",
+    "GTS_PDFXVersion_info": "PDF/X-4",
+    "fonts_total": 4,
+    "fonts_all_embedded": true,
+    "raster_images": 0,
+    "min_effective_dpi": null,
+    "grayscale": {
+      "pages_measured": 390,
+      "C_max": 0.0,
+      "M_max": 0.0,
+      "Y_max": 0.0,
+      "K_min": 0.0005,
+      "K_max": 0.1671,
+      "K_mean": 0.0226,
+      "k_only": true
+    }
+  },
+  {
+    "file": "band-04-druck.pdf",
+    "size_mb": 3.92,
+    "pages": 379,
+    "media_mm": [
+      216.0,
+      303.0
+    ],
+    "trim_mm": [
+      210.0,
+      297.0
+    ],
+    "bleed_each_side_mm": [
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ],
+    "bleedbox_eq_mediabox": true,
+    "acroform": false,
+    "annots_any": false,
+    "outputintents": true,
+    "crop_marks_content": {
+      "pages_with_marks": 379,
+      "pages_total": 379,
+      "registration_black": true,
+      "min_stroke_width_pt": 0.3,
+      "mark_segments_per_marks_page": 8,
+      "ok": true
+    },
+    "crop_marks_raster": {
+      "first_page": 8,
+      "last_page": 8,
+      "ok": true
+    },
+    "crop_marks_ok": true,
+    "colorspaces": {
+      "DeviceRGB_named": 0,
+      "DeviceCMYK_named": 0,
+      "DeviceGray_named": 0,
+      "rgb_ops": 0,
+      "cmyk_ops": 1645,
+      "gray_ops": 32,
+      "cmyk_only": true
+    },
+    "GTS_PDFXVersion_xmp": "PDF/X-4",
+    "GTS_PDFXVersion_info": "PDF/X-4",
+    "fonts_total": 4,
+    "fonts_all_embedded": true,
+    "raster_images": 0,
+    "min_effective_dpi": null,
+    "grayscale": {
+      "pages_measured": 379,
+      "C_max": 0.0,
+      "M_max": 0.0,
+      "Y_max": 0.0,
+      "K_min": 0.0011,
+      "K_max": 0.1308,
+      "K_mean": 0.0222,
+      "k_only": true
+    }
+  },
+  {
+    "file": "band-05-druck.pdf",
+    "size_mb": 3.92,
+    "pages": 366,
+    "media_mm": [
+      216.0,
+      303.0
+    ],
+    "trim_mm": [
+      210.0,
+      297.0
+    ],
+    "bleed_each_side_mm": [
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ],
+    "bleedbox_eq_mediabox": true,
+    "acroform": false,
+    "annots_any": false,
+    "outputintents": true,
+    "crop_marks_content": {
+      "pages_with_marks": 366,
+      "pages_total": 366,
+      "registration_black": true,
+      "min_stroke_width_pt": 0.3,
+      "mark_segments_per_marks_page": 8,
+      "ok": true
+    },
+    "crop_marks_raster": {
+      "first_page": 8,
+      "last_page": 8,
+      "ok": true
+    },
+    "crop_marks_ok": true,
+    "colorspaces": {
+      "DeviceRGB_named": 0,
+      "DeviceCMYK_named": 0,
+      "DeviceGray_named": 0,
+      "rgb_ops": 0,
+      "cmyk_ops": 1671,
+      "gray_ops": 38,
+      "cmyk_only": true
+    },
+    "GTS_PDFXVersion_xmp": "PDF/X-4",
+    "GTS_PDFXVersion_info": "PDF/X-4",
+    "fonts_total": 4,
+    "fonts_all_embedded": true,
+    "raster_images": 0,
+    "min_effective_dpi": null,
+    "grayscale": {
+      "pages_measured": 366,
+      "C_max": 0.0,
+      "M_max": 0.0,
+      "Y_max": 0.0,
+      "K_min": 0.0011,
+      "K_max": 0.2977,
+      "K_mean": 0.0238,
+      "k_only": true
+    }
+  },
+  {
+    "file": "band-06-druck.pdf",
+    "size_mb": 3.9,
+    "pages": 362,
+    "media_mm": [
+      216.0,
+      303.0
+    ],
+    "trim_mm": [
+      210.0,
+      297.0
+    ],
+    "bleed_each_side_mm": [
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ],
+    "bleedbox_eq_mediabox": true,
+    "acroform": false,
+    "annots_any": false,
+    "outputintents": true,
+    "crop_marks_content": {
+      "pages_with_marks": 362,
+      "pages_total": 362,
+      "registration_black": true,
+      "min_stroke_width_pt": 0.3,
+      "mark_segments_per_marks_page": 8,
+      "ok": true
+    },
+    "crop_marks_raster": {
+      "first_page": 8,
+      "last_page": 8,
+      "ok": true
+    },
+    "crop_marks_ok": true,
+    "colorspaces": {
+      "DeviceRGB_named": 0,
+      "DeviceCMYK_named": 0,
+      "DeviceGray_named": 0,
+      "rgb_ops": 0,
+      "cmyk_ops": 1538,
+      "gray_ops": 32,
+      "cmyk_only": true
+    },
+    "GTS_PDFXVersion_xmp": "PDF/X-4",
+    "GTS_PDFXVersion_info": "PDF/X-4",
+    "fonts_total": 4,
+    "fonts_all_embedded": true,
+    "raster_images": 0,
+    "min_effective_dpi": null,
+    "grayscale": {
+      "pages_measured": 362,
+      "C_max": 0.0,
+      "M_max": 0.0,
+      "Y_max": 0.0,
+      "K_min": 0.0009,
+      "K_max": 0.1867,
+      "K_mean": 0.0236,
+      "k_only": true
+    }
+  },
+  {
+    "file": "band-07-druck.pdf",
+    "size_mb": 3.96,
+    "pages": 369,
+    "media_mm": [
+      216.0,
+      303.0
+    ],
+    "trim_mm": [
+      210.0,
+      297.0
+    ],
+    "bleed_each_side_mm": [
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ],
+    "bleedbox_eq_mediabox": true,
+    "acroform": false,
+    "annots_any": false,
+    "outputintents": true,
+    "crop_marks_content": {
+      "pages_with_marks": 369,
+      "pages_total": 369,
+      "registration_black": true,
+      "min_stroke_width_pt": 0.3,
+      "mark_segments_per_marks_page": 8,
+      "ok": true
+    },
+    "crop_marks_raster": {
+      "first_page": 8,
+      "last_page": 8,
+      "ok": true
+    },
+    "crop_marks_ok": true,
+    "colorspaces": {
+      "DeviceRGB_named": 0,
+      "DeviceCMYK_named": 0,
+      "DeviceGray_named": 0,
+      "rgb_ops": 0,
+      "cmyk_ops": 1622,
       "gray_ops": 24,
       "cmyk_only": true
     },
@@ -237,206 +423,20 @@
     "raster_images": 0,
     "min_effective_dpi": null,
     "grayscale": {
-      "pages_measured": 352,
+      "pages_measured": 369,
       "C_max": 0.0,
       "M_max": 0.0,
       "Y_max": 0.0,
-      "K_min": 0.0008,
-      "K_max": 0.1209,
-      "K_mean": 0.02,
-      "k_only": true
-    }
-  },
-  {
-    "file": "band-05-druck.pdf",
-    "size_mb": 3.21,
-    "pages": 338,
-    "media_mm": [
-      216.0,
-      303.0
-    ],
-    "trim_mm": [
-      210.0,
-      297.0
-    ],
-    "bleed_each_side_mm": [
-      3.0,
-      3.0,
-      3.0,
-      3.0
-    ],
-    "bleedbox_eq_mediabox": true,
-    "acroform": false,
-    "annots_any": false,
-    "outputintents": true,
-    "crop_marks_content": {
-      "pages_with_marks": 338,
-      "pages_total": 338,
-      "registration_black": true,
-      "min_stroke_width_pt": 0.3,
-      "mark_segments_per_marks_page": 8,
-      "ok": true
-    },
-    "crop_marks_raster": {
-      "first_page": 8,
-      "last_page": 8,
-      "ok": true
-    },
-    "crop_marks_ok": true,
-    "colorspaces": {
-      "DeviceRGB_named": 0,
-      "DeviceCMYK_named": 0,
-      "DeviceGray_named": 0,
-      "rgb_ops": 0,
-      "cmyk_ops": 1517,
-      "gray_ops": 34,
-      "cmyk_only": true
-    },
-    "GTS_PDFXVersion_xmp": "PDF/X-4",
-    "GTS_PDFXVersion_info": "PDF/X-4",
-    "fonts_total": 4,
-    "fonts_all_embedded": true,
-    "raster_images": 0,
-    "min_effective_dpi": null,
-    "grayscale": {
-      "pages_measured": 338,
-      "C_max": 0.0,
-      "M_max": 0.0,
-      "Y_max": 0.0,
-      "K_min": 0.0005,
-      "K_max": 0.2975,
-      "K_mean": 0.0219,
-      "k_only": true
-    }
-  },
-  {
-    "file": "band-06-druck.pdf",
-    "size_mb": 3.19,
-    "pages": 335,
-    "media_mm": [
-      216.0,
-      303.0
-    ],
-    "trim_mm": [
-      210.0,
-      297.0
-    ],
-    "bleed_each_side_mm": [
-      3.0,
-      3.0,
-      3.0,
-      3.0
-    ],
-    "bleedbox_eq_mediabox": true,
-    "acroform": false,
-    "annots_any": false,
-    "outputintents": true,
-    "crop_marks_content": {
-      "pages_with_marks": 335,
-      "pages_total": 335,
-      "registration_black": true,
-      "min_stroke_width_pt": 0.3,
-      "mark_segments_per_marks_page": 8,
-      "ok": true
-    },
-    "crop_marks_raster": {
-      "first_page": 8,
-      "last_page": 8,
-      "ok": true
-    },
-    "crop_marks_ok": true,
-    "colorspaces": {
-      "DeviceRGB_named": 0,
-      "DeviceCMYK_named": 0,
-      "DeviceGray_named": 0,
-      "rgb_ops": 0,
-      "cmyk_ops": 1383,
-      "gray_ops": 23,
-      "cmyk_only": true
-    },
-    "GTS_PDFXVersion_xmp": "PDF/X-4",
-    "GTS_PDFXVersion_info": "PDF/X-4",
-    "fonts_total": 4,
-    "fonts_all_embedded": true,
-    "raster_images": 0,
-    "min_effective_dpi": null,
-    "grayscale": {
-      "pages_measured": 335,
-      "C_max": 0.0,
-      "M_max": 0.0,
-      "Y_max": 0.0,
-      "K_min": 0.0005,
-      "K_max": 0.1814,
-      "K_mean": 0.0215,
-      "k_only": true
-    }
-  },
-  {
-    "file": "band-07-druck.pdf",
-    "size_mb": 3.23,
-    "pages": 342,
-    "media_mm": [
-      216.0,
-      303.0
-    ],
-    "trim_mm": [
-      210.0,
-      297.0
-    ],
-    "bleed_each_side_mm": [
-      3.0,
-      3.0,
-      3.0,
-      3.0
-    ],
-    "bleedbox_eq_mediabox": true,
-    "acroform": false,
-    "annots_any": false,
-    "outputintents": true,
-    "crop_marks_content": {
-      "pages_with_marks": 342,
-      "pages_total": 342,
-      "registration_black": true,
-      "min_stroke_width_pt": 0.3,
-      "mark_segments_per_marks_page": 8,
-      "ok": true
-    },
-    "crop_marks_raster": {
-      "first_page": 8,
-      "last_page": 8,
-      "ok": true
-    },
-    "crop_marks_ok": true,
-    "colorspaces": {
-      "DeviceRGB_named": 0,
-      "DeviceCMYK_named": 0,
-      "DeviceGray_named": 0,
-      "rgb_ops": 0,
-      "cmyk_ops": 1448,
-      "gray_ops": 20,
-      "cmyk_only": true
-    },
-    "GTS_PDFXVersion_xmp": "PDF/X-4",
-    "GTS_PDFXVersion_info": "PDF/X-4",
-    "fonts_total": 4,
-    "fonts_all_embedded": true,
-    "raster_images": 0,
-    "min_effective_dpi": null,
-    "grayscale": {
-      "pages_measured": 342,
-      "C_max": 0.0,
-      "M_max": 0.0,
-      "Y_max": 0.0,
-      "K_min": 0.0005,
-      "K_max": 0.206,
-      "K_mean": 0.0218,
+      "K_min": 0.001,
+      "K_max": 0.2061,
+      "K_mean": 0.0239,
       "k_only": true
     }
   },
   {
     "file": "band-08-druck.pdf",
-    "size_mb": 3.26,
-    "pages": 346,
+    "size_mb": 3.98,
+    "pages": 372,
     "media_mm": [
       216.0,
       303.0
@@ -456,8 +456,8 @@
     "annots_any": false,
     "outputintents": true,
     "crop_marks_content": {
-      "pages_with_marks": 346,
-      "pages_total": 346,
+      "pages_with_marks": 372,
+      "pages_total": 372,
       "registration_black": true,
       "min_stroke_width_pt": 0.3,
       "mark_segments_per_marks_page": 8,
@@ -474,8 +474,8 @@
       "DeviceCMYK_named": 0,
       "DeviceGray_named": 0,
       "rgb_ops": 0,
-      "cmyk_ops": 1467,
-      "gray_ops": 16,
+      "cmyk_ops": 1619,
+      "gray_ops": 19,
       "cmyk_only": true
     },
     "GTS_PDFXVersion_xmp": "PDF/X-4",
@@ -485,20 +485,20 @@
     "raster_images": 0,
     "min_effective_dpi": null,
     "grayscale": {
-      "pages_measured": 346,
+      "pages_measured": 372,
       "C_max": 0.0,
       "M_max": 0.0,
       "Y_max": 0.0,
-      "K_min": 0.0008,
-      "K_max": 0.2944,
-      "K_mean": 0.022,
+      "K_min": 0.0012,
+      "K_max": 0.2946,
+      "K_mean": 0.0242,
       "k_only": true
     }
   },
   {
     "file": "band-09-druck.pdf",
-    "size_mb": 3.13,
-    "pages": 338,
+    "size_mb": 3.85,
+    "pages": 366,
     "media_mm": [
       216.0,
       303.0
@@ -518,8 +518,8 @@
     "annots_any": false,
     "outputintents": true,
     "crop_marks_content": {
-      "pages_with_marks": 338,
-      "pages_total": 338,
+      "pages_with_marks": 366,
+      "pages_total": 366,
       "registration_black": true,
       "min_stroke_width_pt": 0.3,
       "mark_segments_per_marks_page": 8,
@@ -536,69 +536,7 @@
       "DeviceCMYK_named": 0,
       "DeviceGray_named": 0,
       "rgb_ops": 0,
-      "cmyk_ops": 1395,
-      "gray_ops": 18,
-      "cmyk_only": true
-    },
-    "GTS_PDFXVersion_xmp": "PDF/X-4",
-    "GTS_PDFXVersion_info": "PDF/X-4",
-    "fonts_total": 4,
-    "fonts_all_embedded": true,
-    "raster_images": 0,
-    "min_effective_dpi": null,
-    "grayscale": {
-      "pages_measured": 338,
-      "C_max": 0.0,
-      "M_max": 0.0,
-      "Y_max": 0.0,
-      "K_min": 0.0005,
-      "K_max": 0.1569,
-      "K_mean": 0.02,
-      "k_only": true
-    }
-  },
-  {
-    "file": "band-10-druck.pdf",
-    "size_mb": 3.5,
-    "pages": 329,
-    "media_mm": [
-      216.0,
-      303.0
-    ],
-    "trim_mm": [
-      210.0,
-      297.0
-    ],
-    "bleed_each_side_mm": [
-      3.0,
-      3.0,
-      3.0,
-      3.0
-    ],
-    "bleedbox_eq_mediabox": true,
-    "acroform": false,
-    "annots_any": false,
-    "outputintents": true,
-    "crop_marks_content": {
-      "pages_with_marks": 329,
-      "pages_total": 329,
-      "registration_black": true,
-      "min_stroke_width_pt": 0.3,
-      "mark_segments_per_marks_page": 8,
-      "ok": true
-    },
-    "crop_marks_raster": {
-      "first_page": 8,
-      "last_page": 8,
-      "ok": true
-    },
-    "crop_marks_ok": true,
-    "colorspaces": {
-      "DeviceRGB_named": 0,
-      "DeviceCMYK_named": 0,
-      "DeviceGray_named": 0,
-      "rgb_ops": 0,
-      "cmyk_ops": 1341,
+      "cmyk_ops": 1574,
       "gray_ops": 23,
       "cmyk_only": true
     },
@@ -609,13 +547,75 @@
     "raster_images": 0,
     "min_effective_dpi": null,
     "grayscale": {
-      "pages_measured": 329,
+      "pages_measured": 366,
       "C_max": 0.0,
       "M_max": 0.0,
       "Y_max": 0.0,
-      "K_min": 0.0006,
-      "K_max": 0.1234,
-      "K_mean": 0.0223,
+      "K_min": 0.0012,
+      "K_max": 0.1571,
+      "K_mean": 0.0222,
+      "k_only": true
+    }
+  },
+  {
+    "file": "band-10-druck.pdf",
+    "size_mb": 4.2,
+    "pages": 354,
+    "media_mm": [
+      216.0,
+      303.0
+    ],
+    "trim_mm": [
+      210.0,
+      297.0
+    ],
+    "bleed_each_side_mm": [
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ],
+    "bleedbox_eq_mediabox": true,
+    "acroform": false,
+    "annots_any": false,
+    "outputintents": true,
+    "crop_marks_content": {
+      "pages_with_marks": 354,
+      "pages_total": 354,
+      "registration_black": true,
+      "min_stroke_width_pt": 0.3,
+      "mark_segments_per_marks_page": 8,
+      "ok": true
+    },
+    "crop_marks_raster": {
+      "first_page": 8,
+      "last_page": 8,
+      "ok": true
+    },
+    "crop_marks_ok": true,
+    "colorspaces": {
+      "DeviceRGB_named": 0,
+      "DeviceCMYK_named": 0,
+      "DeviceGray_named": 0,
+      "rgb_ops": 0,
+      "cmyk_ops": 1513,
+      "gray_ops": 29,
+      "cmyk_only": true
+    },
+    "GTS_PDFXVersion_xmp": "PDF/X-4",
+    "GTS_PDFXVersion_info": "PDF/X-4",
+    "fonts_total": 4,
+    "fonts_all_embedded": true,
+    "raster_images": 0,
+    "min_effective_dpi": null,
+    "grayscale": {
+      "pages_measured": 354,
+      "C_max": 0.0,
+      "M_max": 0.0,
+      "Y_max": 0.0,
+      "K_min": 0.0012,
+      "K_max": 0.1323,
+      "K_mean": 0.0244,
       "k_only": true
     }
   }

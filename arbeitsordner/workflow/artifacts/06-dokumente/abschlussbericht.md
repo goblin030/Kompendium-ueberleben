@@ -87,6 +87,12 @@ Seitenzahlen nach Nachbesserung (Ist, PDF): 447 / 410 / 390 / 379 / 366 / 362 / 
 
 Seitenzahlen nach Review v1 (Ist, PDF/A-2b): 447 / 410 / 390 / 379 / 366 / 362 / 369 / 372 / 366 / 354 = Σ 3815 S.; alle >= 300 S./Band. prepress.sh danach neu gelaufen: 10x PDF/X-4 mit Anschnitt 3 mm + Schnittmarken (Pass C, Registration Black), kein Meta-Leak (F5-Quelle gefixt). ZIP aktualisiert.
 
+## 10. Re-Review Turn 3, Befund T3-2 (Meta-Tokens im Lesetext) — behoben
+
+- Zentrale Funktion `strip_meta()` im Generator entfernt W-/L-IDs, „WARN n“, Artefakt-Referenzen „NN § x.x“, „NN S x.x“, „NN Nr. x“ aus Bandtext, Konzept-Metas, Captions, Warnrahmen und Registern; SVG-Bildtexte (text/title/aria-label) ebenso bereinigt (652 Tokens).
+- Verifikation: 0 Meta-Tokens außerhalb des Prüfprotokolls in allen band-*.typ + lib/register-*.typ und in sichtbaren SVG-Texten; W-IDs stehen nur noch im Abschnitt „Prüfprotokoll (interne Quellen-IDs)“ (by design, L4).
+- Alle 10 Baende neu generiert + kompiliert (PDF/A-2b, fehlerfrei): Seiten unveraendert 447/410/390/379/366/362/369/372/366/354 = 3.815 S., alle >= 300. prepress (Turn 3) neu gelaufen: 10x PDF/X-4 + Schnittmarken, kein Meta-Leak. ZIP aktualisiert.
+
 ## 7. Annahmen (dokumentiert, keine Rueckfragen laut WORKFLOW.md)
 
 1. Register: pro Band Auszug mit eigenen Seitenzahlen; Gesamtregister in Band 10 (Schlussband der Reihe).

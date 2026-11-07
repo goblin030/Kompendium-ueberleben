@@ -656,7 +656,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 2.2 Brennstoffkunde <k-2-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 3.3]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-3.svg", width: 100%), caption: [Abb. 3.3 — Brennstoffkunde: Hartholz für Glut, Birkenrinde zündet feucht – Nadelholz nur mit Abstand (Konzept 2.2, W24/W28).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-3.svg", width: 100%), caption: [Abb. 3.3 — Brennstoffkunde: Hartholz für Glut, Birkenrinde zündet feucht – Nadelholz nur mit Abstand (Konzept 2.2).])]]
 Werte : _1 Ster ≈ 300–350 kg_ — das ist der konservative Wert für Fichte/Kiefer; _Buche/Eiche ≈ 400–500 kg pro Ster_. Rechne konservativ mit 300–350 kg. Winter-Feuer-Tag _25–35 kg_; 2–3 kg Hartholz pro Feuerstunde.
 #table(
   columns: 2,
@@ -3130,8 +3130,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 6.3 Ofenlose Not-Heizung <k-6-3>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb + WARNRAHMEN [warn-3]_ · P 6 · M unbedenklich · V 8 · Abb. 3.13]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-13.svg", width: 100%), caption: [Abb. 3.13 — Ofenlose Not-Heizung: keine Verbrennung in geschlossenen Räumen – CO ist geruchlos und tödlich (Konzept 6.3, W14, warn-3).])]]
-#warnrahmen(id: "warn-3", title: [KOHLENMONOXID (CO), geruchlos, tödlich (09 Nr. 2, verschärft):])[_Keine Verbrennung in geschlossenen oder teilgeschlossenen Räumen_ — ein Zelt ist ein geschlossener Raum. Gilt für: Kohlegrill, Benzinkocher, Generator, Motorsäge, Auto. _Nie über Nacht im Schlafraum betreiben._ Zug prüfen (Kerzenflamme muss stehen). Kopfschmerz/Schwindel/Übelkeit bei _mehreren Personen gleichzeitig = Alarm_: sofort lüften, alle raus, Sperrung bis Zug geprüft. CO-Melder (Batterie) wenn vorhanden.]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-13.svg", width: 100%), caption: [Abb. 3.13 — Ofenlose Not-Heizung: keine Verbrennung in geschlossenen Räumen – CO ist geruchlos und tödlich (Konzept 6.3, , warn-3).])]]
+#warnrahmen(id: "warn-3", title: [KOHLENMONOXID (CO), geruchlos, tödlich (verschärft):])[_Keine Verbrennung in geschlossenen oder teilgeschlossenen Räumen_ — ein Zelt ist ein geschlossener Raum. Gilt für: Kohlegrill, Benzinkocher, Generator, Motorsäge, Auto. _Nie über Nacht im Schlafraum betreiben._ Zug prüfen (Kerzenflamme muss stehen). Kopfschmerz/Schwindel/Übelkeit bei _mehreren Personen gleichzeitig = Alarm_: sofort lüften, alle raus, Sperrung bis Zug geprüft. CO-Melder (Batterie) wenn vorhanden.]
 + Behelfsheizung (Terrakotta-Topf über Kerze, Steinöfchen) nur im Freien oder am offenen Eingang mit Durchzug.
 + Brennstoff nur so viel wie nötig; nie zum Schlafen anlassen.
 + Symptome kennen: Kopfschmerz, Schwindel, Übelkeit, Benommenheit.
@@ -3344,7 +3344,7 @@ _Erklärung:_
 === 7.1 Holzvorrat & Stock-Rechnung <k-7-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 3.14]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-14.svg", width: 100%), caption: [Abb. 3.14 — Holzvorrat & Stock-Rechnung: 1 Ster ≈ 300–350 kg – Winter-Tag 25–35 kg (Konzept 7.1, W24).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-14.svg", width: 100%), caption: [Abb. 3.14 — Holzvorrat & Stock-Rechnung: 1 Ster ≈ 300–350 kg – Winter-Tag 25–35 kg (Konzept 7.1).])]]
 Werte : 1 Ster ≈ 300–350 kg; Winter-Tag 25–35 kg.
 + Vorrat = Tage × 25–35 kg (konservativ 35 kg).
 + 1 Ster = 1 m³ geschichtet; trocken lagern (siehe Konzept B9-3.2).
@@ -4798,7 +4798,7 @@ Alle Konzepte dieses Bandes im Überblick — abhaken, wenn geübt/gelesen:
   columns: 2,
   table.header([*Warngrafik*], [*Thema*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [warn-3], [KOHLENMONOXID CO GERUCHLOS TÖDLICH 09 NR],
+  [warn-3], [KOHLENMONOXID CO GERUCHLOS TÖDLICH VERSC],
 )
 #pagebreak(weak: true)
 == Querverweis-Register Band 3 <querverweis-register>

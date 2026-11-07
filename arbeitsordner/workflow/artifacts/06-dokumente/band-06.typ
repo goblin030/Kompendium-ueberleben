@@ -1448,7 +1448,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 #pagebreak(weak: true)
 === 3.2 Pirsch & sauberer Schuss <k-3-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün + _WARNRAHMEN [warn-6c]_ · P 7 · M unbedenklich · V 8]
-#warnrahmen(id: "warn-6c", title: [VERLETZTES WILD (09 Nr. 12):])[Verletztes Wild ist die _größte Gefahr für den Jäger_. _Wartefrist_ nach dem Schuss einhalten (Reh/Wildschwein: 10–15 min), dann _Nachsuche_ mit Hund oder systematisch (siehe Konzept 2.x). _Schusswaffen nur mit Erlaubnis (WaffG)_ — ohne Waffenschein keine Schusswaffe führen.]
+#warnrahmen(id: "warn-6c", title: [VERLETZTES WILD :])[Verletztes Wild ist die _größte Gefahr für den Jäger_. _Wartefrist_ nach dem Schuss einhalten (Reh/Wildschwein: 10–15 min), dann _Nachsuche_ mit Hund oder systematisch (siehe Konzept 2.x). _Schusswaffen nur mit Erlaubnis (WaffG)_ — ohne Waffenschein keine Schusswaffe führen.]
 + Schuss nur bei sicherer Gelegenheit — Entscheidungstabelle:
 #table(
   columns: 4,
@@ -1528,7 +1528,8 @@ _Querverweise:_ siehe Konzept 9.1 (`warn-6b`), siehe Konzept 1.1.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [ Verletztes Wild ist die ], [siehe Glossar, Anhang D Band 1],
+  [WARNRAHMEN [warn-6c] — VERLETZTES WILD :], [siehe Glossar, Anhang D Band 1],
+  [größte Gefahr für den Jäger], [siehe Glossar, Anhang D Band 1],
   [Wartefrist], [siehe Glossar, Anhang D Band 1],
   [Nachsuche], [siehe Glossar, Anhang D Band 1],
   [Schusswaffen nur mit Erlaubnis (WaffG)], [siehe Glossar, Anhang D Band 1],
@@ -1671,7 +1672,7 @@ _Erklärung:_
 #konzmeta(fill: rgb("#8a6d00"))[_gelb (SME: rechtlich unzulässig als Jagdwaffe)_ · P 6 · M unbedenklich · V 7 · Abb. 6.4]
 #pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-4.svg", width: 100%), caption: [Abb. 6.4 — Jagdbogen: sicherer Bereich 10–20 m – in DE/AT/CH nur Übungsgerät, jagdrechtlich unzulässig (Konzept 4.1, SME).])]]
-#kasten([Rechtlicher Hinweis (Pflicht, 09 § 4.2):])[_Bogenjagd ist in DE/AT/CH jagdrechtlich unzulässig_ — nur Schusswaffen sind Jagdwaffen. Der Bogen ist hier _reines Übungsgerät_.]
+#kasten([Rechtlicher Hinweis (Pflicht):])[_Bogenjagd ist in DE/AT/CH jagdrechtlich unzulässig_ — nur Schusswaffen sind Jagdwaffen. Der Bogen ist hier _reines Übungsgerät_.]
 + Nur als Übungsgerät führen; nie zur Jagd einsetzen.
 + Sicherheitsabstand _10–20 m_; nie auf Personen richten.
 + _100 Probeschüsse Pflicht_ vor jedem Einsatz (siehe Konzept B1-8.2, Übungsprotokoll).
@@ -1743,7 +1744,7 @@ _Querverweise:_ siehe Konzept 1.1 (Jagdschein-Pflicht), siehe Konzept B1-8.2. _E
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Rechtlicher Hinweis (Pflicht, 09 § 4.2):], [siehe Glossar, Anhang D Band 1],
+  [Rechtlicher Hinweis (Pflicht):], [siehe Glossar, Anhang D Band 1],
   [reines Übungsgerät], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -2044,7 +2045,7 @@ _Erklärung:_
 === 5.1a Kastenfalle & Kleintierfallen (Ersatz für 5.1) <k-5-1a>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · Abb. 6.5]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-5.svg", width: 100%), caption: [Abb. 6.5 — Kastenfalle (Ersatz für 5.1, ): amtlich zugelassene Lebendfang-Falle, tägliche Kontrolle, nie an Menschenpfaden (Konzept 5.1a).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-5.svg", width: 100%), caption: [Abb. 6.5 — Kastenfalle (Ersatz für 5.1): amtlich zugelassene Lebendfang-Falle, tägliche Kontrolle, nie an Menschenpfaden (Konzept 5.1a).])]]
 #kasten([Rechtlicher Hinweis (Pflicht):])[Nur _amtlich zugelassene Lebendfang-Kastenfallen_ verwenden (Zulassung je Bundesland prüfen). _Tägliche Kontrolle_ (morgens und abends). _Kleintierfallen im Haushalt_ (Mäuse, Ratten) sind vom BJagdG nicht erfasst. _Nie an Menschenpfaden_ aufstellen.]
 + Kastenfalle am Wechsel aufstellen (siehe Konzept 2.3), mit Draht an Baum sichern.
 + Köder: Apfel, Möhre, Ei (siehe Konzept 6.2).
@@ -3499,8 +3500,8 @@ _Erklärung:_
 === 8.1 Muscheln der Gezeiten <k-8-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün + _WARNRAHMEN [warn-6]_ · P 9 · M unbedenklich · V 9 · Abb. 6.9]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-9.svg", width: 100%), caption: [Abb. 6.9 — Muscheln der Gezeiten: nur amtlich überwachte Gewässer – PSP/DSP hitzestabil, Blaualgen meiden (Konzept 8.1, warn-6, W17).])]]
-#warnrahmen(id: "warn-6", title: [MUSCHEL-/ALGENGIFTE (09 Nr. 6):])[PSP (Saxitoxin), DSP, ASP sind _hitzestabil — kein Kochen rettet_. _Nur aus amtlich überwachten Gewässern_ ernten; nach Algenblüten/Stürmen _Sperre_ beachten. _Blaualgen (Microcystin) im Süßwasser:_ nicht trinken, nicht baden bei Massenvermehrung (siehe Konzept B2-5.1). Bank-Rast: nur frische, fest schließende Muscheln.]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-9.svg", width: 100%), caption: [Abb. 6.9 — Muscheln der Gezeiten: nur amtlich überwachte Gewässer – PSP/DSP hitzestabil, Blaualgen meiden (Konzept 8.1, warn-6).])]]
+#warnrahmen(id: "warn-6", title: [MUSCHEL-/ALGENGIFTE :])[PSP (Saxitoxin), DSP, ASP sind _hitzestabil — kein Kochen rettet_. _Nur aus amtlich überwachten Gewässern_ ernten; nach Algenblüten/Stürmen _Sperre_ beachten. _Blaualgen (Microcystin) im Süßwasser:_ nicht trinken, nicht baden bei Massenvermehrung (siehe Konzept B2-5.1). Bank-Rast: nur frische, fest schließende Muscheln.]
 - [ ] Amtlich überwachtes Gewässer
 - [ ] Sperrzeiten beachtet
 - [ ] Frische geprüft (fest geschlossen)
@@ -3853,8 +3854,8 @@ _Erklärung:_
 === 9.1 Ausnehmen & Zerwirken <k-9-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün + _WARNRAHMEN [warn-6b]_ · P 9 · M unbedenklich · V 8 · Abb. 6.10]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-10.svg", width: 100%), caption: [Abb. 6.10 — Ausnehmen & Zerwirken: Trichinen-Untersuchung + Kern ≥ 71 °C – kranke Tiere meiden, Fledermäuse nie mit bloßen Händen (Konzept 9.1, warn-6b, W18).])]]
-#warnrahmen(id: "warn-6b", title: [TRICHINEN / TOLLWUT / FLEDERMAUS-LYSSAVIREN (09 Nr. 7, verschärft):])[_Trichinen:_ amtliche Untersuchung (EU-VO 2075/2005) dringend empfohlen; sicher ist _Durchgaren auf ≥ 71 °C Kerntemperatur_ (besser 75 °C) — _Gefrieren bei Wild ist unzuverlässig_ (T. britovi kälteresistent). _Tollwut:_ DE/IR terrestrisch tollwutfrei, aber _Fledermaus-Lyssaviren (EBLV-1/-2)_ möglich — _Fledermaus nie mit bloßen Händen_, Biss/Kratzer → sofort postexpositionelle Prophylaxe (siehe Konzept B8-2.2). Verhaltensauffällige Tiere meiden, nicht anfassen.]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-10.svg", width: 100%), caption: [Abb. 6.10 — Ausnehmen & Zerwirken: Trichinen-Untersuchung + Kern ≥ 71 °C – kranke Tiere meiden, Fledermäuse nie mit bloßen Händen (Konzept 9.1, warn-6b).])]]
+#warnrahmen(id: "warn-6b", title: [TRICHINEN / TOLLWUT / FLEDERMAUS-LYSSAVIREN (verschärft):])[_Trichinen:_ amtliche Untersuchung (EU-VO 2075/2005) dringend empfohlen; sicher ist _Durchgaren auf ≥ 71 °C Kerntemperatur_ (besser 75 °C) — _Gefrieren bei Wild ist unzuverlässig_ (T. britovi kälteresistent). _Tollwut:_ DE/IR terrestrisch tollwutfrei, aber _Fledermaus-Lyssaviren (EBLV-1/-2)_ möglich — _Fledermaus nie mit bloßen Händen_, Biss/Kratzer → sofort postexpositionelle Prophylaxe (siehe Konzept B8-2.2). Verhaltensauffällige Tiere meiden, nicht anfassen.]
 + Wild mit Handschuhen ausnehmen; kranke Tiere (Leber/Lunge verändert) meiden.
 + Fleisch kühl halten, bald verarbeiten (siehe Band 7).
 + Durchgaren ≥ 71 °C Kern vor Verzehr. _Messen:_ Fleischthermometer in der Sanitätsmappe (siehe B8-8.1) und in der Werkzeugkiste (siehe B9-8.1). _Ohne Thermometer (Ersatzkriterien):_ Fleisch ist innen grau-braun (nicht rosa), die Fasern lösen sich leicht, austretender Saft ist klar (nicht rosa); Fisch: Fleisch undurchsichtig weiß und löst sich von der Gräte; Kochzeit konservativ wählen.
@@ -4562,8 +4563,8 @@ Alle Konzepte dieses Bandes im Überblick — abhaken, wenn geübt/gelesen:
   columns: 2,
   table.header([*Warngrafik*], [*Thema*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [warn-6c], [VERLETZTES WILD 09 NR 12],
-  [warn-6], [MUSCHELALGENGIFTE 09 NR 6],
+  [warn-6c], [VERLETZTES WILD ],
+  [warn-6], [MUSCHELALGENGIFTE ],
   [warn-6b], [TRICHINEN  TOLLWUT  FLEDERMAUSLYSSAVIREN],
 )
 #pagebreak(weak: true)

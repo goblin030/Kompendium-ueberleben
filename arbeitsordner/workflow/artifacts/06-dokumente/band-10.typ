@@ -1766,7 +1766,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 4.2 Rat & Streit <k-4-2>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb_ · P 7 · M prüfenswert · V 8]
 Streit nach _Klage und Zeugen_ (siehe Konzept 1.2), _nie Rache_.
-#kasten([Rechtlich (09 § 4.6):])[_Notwehr nur § 32 StGB_ — bei gegenwärtigem rechtswidrigem Angriff und verhältnismäßig. _Selbstjustiz strafbar._ Keine Präventivgewalt, keine Rachegewalt.]
+#kasten([Rechtlich :])[_Notwehr nur § 32 StGB_ — bei gegenwärtigem rechtswidrigem Angriff und verhältnismäßig. _Selbstjustiz strafbar._ Keine Präventivgewalt, keine Rachegewalt.]
 - [ ] Klage + Zeugen vor Entscheidung
 - [ ] Nie Rache
 - [ ] § 32 StGB bekannt
@@ -1812,7 +1812,7 @@ _Querverweise:_ siehe Konzept 1.2, siehe Konzept 5.2. _Erklärung:_
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Klage und Zeugen], [siehe Glossar, Anhang D Band 1],
   [nie Rache], [siehe Glossar, Anhang D Band 1],
-  [Rechtlich (09 § 4.6):], [siehe Glossar, Anhang D Band 1],
+  [Rechtlich :], [siehe Glossar, Anhang D Band 1],
   [Notwehr nur § 32 StGB], [siehe Glossar, Anhang D Band 1],
   [Selbstjustiz strafbar.], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
@@ -2292,7 +2292,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 + _Verdacht laut aussprechen_ (in der Gruppe, siehe Konzept B1-2.4).
 + _Selbstjustiz verboten_ — siehe Konzept 4.2.
 + _Prüfen, was mitgebracht wird_ (Waffen ablegen lassen am Eingang, siehe Konzept B10-7.1 `warn-10b`).
-#kasten([Rechtlich (09 § 4.6):])[_Notstand §§ 34/35 StGB_ — Eigentumseingriff bei Lebensgefahr ist gerechtfertigt/entschuldigt (siehe Konzept B4-8.1). _Hausrecht § 123 StGB_ — Eindringen in Wohnungen verboten, Abwehr erlaubt. _Keine Präventivgewalt._ Deeskalation zuerst (siehe Konzept 4.2).]
+#kasten([Rechtlich :])[_Notstand §§ 34/35 StGB_ — Eigentumseingriff bei Lebensgefahr ist gerechtfertigt/entschuldigt (siehe Konzept B4-8.1). _Hausrecht § 123 StGB_ — Eindringen in Wohnungen verboten, Abwehr erlaubt. _Keine Präventivgewalt._ Deeskalation zuerst (siehe Konzept 4.2).]
 - [ ] Nie allein empfangen
 - [ ] Mitgebrachtes geprüft
 - [ ] §§ 34/35/123 StGB bekannt
@@ -2358,7 +2358,7 @@ _Querverweise:_ siehe Konzept 4.2, siehe Konzept B4-8.1, siehe Konzept 1.1 (Gast
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Rechtlich (09 § 4.6):], [siehe Glossar, Anhang D Band 1],
+  [Rechtlich :], [siehe Glossar, Anhang D Band 1],
   [Notstand §§ 34/35 StGB], [siehe Glossar, Anhang D Band 1],
   [Hausrecht § 123 StGB], [siehe Glossar, Anhang D Band 1],
   [Keine Präventivgewalt.], [siehe Glossar, Anhang D Band 1],

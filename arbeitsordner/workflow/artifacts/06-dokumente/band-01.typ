@@ -880,7 +880,7 @@ _Erklärung:_
 === 3.1 Regel der Drei (Heuristik) <k-3-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 10 · Abb. 1.5]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-5.svg", width: 100%), caption: [Abb. 1.5 — Regel der Drei (Heuristik, W19): 3 Min Luft – 3 Std Wärme – 3 Tage Wasser – 3 Wochen Nahrung.])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-5.svg", width: 100%), caption: [Abb. 1.5 — Regel der Drei (Heuristik): 3 Min Luft – 3 Std Wärme – 3 Tage Wasser – 3 Wochen Nahrung.])]]
 Die Regel der Drei ist eine _Heuristik_, kein Naturgesetz: 3 Minuten ohne Luft, 3 Stunden ohne Wärme (bei Kälte), 3 Tage ohne Wasser, 3 Wochen ohne Nahrung. Reihenfolge ist in allen Traditionen identisch, Zeiten schwanken.
 + Prüfe sofort: Atmung, Blutung, Bewusstsein — siehe Konzept B8-2.1, Blutung.
 + Dann Wärme: siehe Kapitel 6 in Band 3 und Konzept B4-2.1.
@@ -1081,7 +1081,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 3.2 Notfallrucksack (72 h) <k-3-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 1.6]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-6.svg", width: 100%), caption: [Abb. 1.6 — Notfallrucksack 72 h: 6 l Wasser, 6.000–9.000 kcal, Medikamente 7+ Tage – Prüfkriterium \< 12 kg (Konzept 3.2, W21).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-6.svg", width: 100%), caption: [Abb. 1.6 — Notfallrucksack 72 h: 6 l Wasser, 6.000–9.000 kcal, Medikamente 7+ Tage – Prüfkriterium \< 12 kg (Konzept 3.2).])]]
 Der Rucksack trägt 72 Stunden autarkes Handeln. Prüfkriterium: _unter 12 kg_.
 #table(
   columns: 2,
@@ -1273,7 +1273,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 3.3 Rucksack-Profile (Kinder/Senioren/Haustiere) <k-3-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 1.7]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-7.svg", width: 100%), caption: [Abb. 1.7 — Rucksack-Profile: Traglast-Anteile nach Personengruppe (Konzept 3.3, W20).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-7.svg", width: 100%), caption: [Abb. 1.7 — Rucksack-Profile: Traglast-Anteile nach Personengruppe (Konzept 3.3).])]]
 Profile passen den Rucksack an die Tragkraft an (Kinder/Senioren 10–15 % Körpergewicht, siehe Konzept 6.5).
 - Kind: 10–15 % Körpergewicht, eigener kleiner Rucksack, Lieblingsobjekt, Wasserflasche mit Auslauf.
 - Senior: Medikamente doppelt, Brille Ersatz, Gehhilfe falls nötig.
@@ -3648,7 +3648,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 6.5 Traglast (15–20 % / 30 % / Kinder 10–15 %) <k-6-5>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 1.23]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-23.svg", width: 100%), caption: [Abb. 1.23 — Traglast: 15–20 % des Körpergewichts im Marsch, kurz max. 30 %, Kinder/Ältere 10–15 % (Konzept 6.5, W20).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-23.svg", width: 100%), caption: [Abb. 1.23 — Traglast: 15–20 % des Körpergewichts im Marsch, kurz max. 30 %, Kinder/Ältere 10–15 % (Konzept 6.5).])]]
 #table(
   columns: 2,
   table.header([Situation], [Max. Last]),
@@ -4047,7 +4047,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 7.2 Mengen & Referenzmaße <k-7-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 1.25]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-25.svg", width: 100%), caption: [Abb. 1.25 — Mengen & Referenzmaße: 1 EL ≈ 15 ml, 1 TL ≈ 5 ml, 20 Tropfen Wasser ≈ 1 ml – kg ≠ l (Konzept 7.2, W31).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-25.svg", width: 100%), caption: [Abb. 1.25 — Mengen & Referenzmaße: 1 EL ≈ 15 ml, 1 TL ≈ 5 ml, 20 Tropfen Wasser ≈ 1 ml – kg ≠ l (Konzept 7.2).])]]
 #table(
   columns: 2,
   table.header([Maß], [Wert]),
@@ -4430,7 +4430,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 7.4 Temperatur-Feinmessung (Ellbogenprobe) <k-7-4>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb (Notbehelf, P = 5)_ · P 5 · M unbedenklich · V 9 · Abb. 1.27]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-27.svg", width: 100%), caption: [Abb. 1.27 — Temperatur-Feinmessung per Ellbogenprobe – Notbehelf (P = 5), Verbrühungsgrenze 55 °C (Konzept 7.4, W22).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-1-27.svg", width: 100%), caption: [Abb. 1.27 — Temperatur-Feinmessung per Ellbogenprobe – Notbehelf (P = 5), Verbrühungsgrenze 55 °C (Konzept 7.4).])]]
 Die Ellbogenprobe ist _ungenau_ — sie ist ein Notbehelf, kein Messgerät. _Übungspflicht_ (V \< 6 → siehe Konzept 8.2).
 + Wasser mit dem Ellbogen prüfen: lauwarm ≈ 35–40 °C.
 + Konservative Verbrühungsgrenze _55 °C_ : ab 55 °C verbrüht die Haut in Sekunden — nie heißer als handwarm zum Baden/Wunden spülen.

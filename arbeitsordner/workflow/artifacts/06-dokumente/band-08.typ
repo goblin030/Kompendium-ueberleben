@@ -809,8 +809,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 2.2 Wunde reinigen & schließen <k-2-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün + _WARNRAHMEN [warn-8a]_ · P 8 · M unbedenklich · V 8 · Abb. 8.3]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-3.svg", width: 100%), caption: [Abb. 8.3 — Wunde reinigen & schließen: spülen, Fremdkörper raus, offen halten – Tetanus-Booster-Regeln (Konzept 2.2, warn-8a, W12).])]]
-#warnrahmen(id: "warn-8a", title: [TETANUS (09 Nr. 3, verschärft):])[_Risikowunden_ = verschmutzt, tief, Stich, Biss, Quetschung, Verbrennung, Erfrierung, nekrotisches Gewebe. Maßnahmen: _ausgiebig mit sauberem (gesottenem) Wasser spülen_ (siehe Konzept B2-6.2), Fremdkörper entfernen, _offen halten_ — nicht luftdicht verschließen. _Booster-Regeln (STIKO):_ letzte Td-Auffrischung \> 10 Jahre oder unklar → Booster; bei Risikowunde und letzter Impfung \> 5 Jahre → Booster; bei unvollständigem Impfschutz postexpositionell _Tetanus-Immunglobulin (TIG), ärztlich_. Impfstoff ist _kühlkettenpflichtig 2–8 °C_ — ohne Kühlung nach Tagen nicht mehr verlässlich. _Kühlkette 2–8 °C ohne Strom:_ kühlsten Ort nutzen — Erdkeller/Tiefe \> 1,5 m (Land, 4–10 °C), kühler Treppenhaus-Keller oder Abstellraum (Stadt), Brunnenschacht (Land); im Winter Außentemperatur \< 8 °C mit isolierter Box (Styropor/Kiste + Decken); Verdunstungskühlung (feuchtes Tuch um den Behälter, Schatten, Luftzug) senkt um 5–10 °C unter Umgebungstemperatur — für Impfstoff nur als Übergang. Tägliche Temperatur mit Thermometer prüfen (siehe 8.1), Verfallsdatum notieren.]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-3.svg", width: 100%), caption: [Abb. 8.3 — Wunde reinigen & schließen: spülen, Fremdkörper raus, offen halten – Tetanus-Booster-Regeln (Konzept 2.2, warn-8a).])]]
+#warnrahmen(id: "warn-8a", title: [TETANUS (verschärft):])[_Risikowunden_ = verschmutzt, tief, Stich, Biss, Quetschung, Verbrennung, Erfrierung, nekrotisches Gewebe. Maßnahmen: _ausgiebig mit sauberem (gesottenem) Wasser spülen_ (siehe Konzept B2-6.2), Fremdkörper entfernen, _offen halten_ — nicht luftdicht verschließen. _Booster-Regeln (STIKO):_ letzte Td-Auffrischung \> 10 Jahre oder unklar → Booster; bei Risikowunde und letzter Impfung \> 5 Jahre → Booster; bei unvollständigem Impfschutz postexpositionell _Tetanus-Immunglobulin (TIG), ärztlich_. Impfstoff ist _kühlkettenpflichtig 2–8 °C_ — ohne Kühlung nach Tagen nicht mehr verlässlich. _Kühlkette 2–8 °C ohne Strom:_ kühlsten Ort nutzen — Erdkeller/Tiefe \> 1,5 m (Land, 4–10 °C), kühler Treppenhaus-Keller oder Abstellraum (Stadt), Brunnenschacht (Land); im Winter Außentemperatur \< 8 °C mit isolierter Box (Styropor/Kiste + Decken); Verdunstungskühlung (feuchtes Tuch um den Behälter, Schatten, Luftzug) senkt um 5–10 °C unter Umgebungstemperatur — für Impfstoff nur als Übergang. Tägliche Temperatur mit Thermometer prüfen (siehe 8.1), Verfallsdatum notieren.]
 + Wunde mit _gesottenem Wasser_ spülen (siehe Konzept B2-6.2).
 + Fremdkörper mit sauberer Pinzette entfernen.
 + Risikowunde: offen lassen, lockerer Verband.
@@ -821,7 +821,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 - [ ] Impfstoff kühl (2–8 °C) gelagert
 #baustein[Schmutzige Wunde offen halten und impfen lassen — Wundstarrkrampf ist tödlich und vermeidbar.]
 _Querverweise:_ siehe Konzept B2-6.2, siehe Konzept 2.3, siehe Konzept B6-6.1, `warn-6b` postexpositionell. _Erklärung:_
-- _Prinzip (warum das funktioniert):_ Wundstarrkrampf (Tetanus) wird durch C. tetani-Sporen verursacht, die in Risikowunden (verschmutzt, tief, Stich, Biss, Quetschung, Verbrennung, Erfrierung, nekrotisch) auskeimen. Ausgiebig spülen, Fremdkörper entfernen, offen halten (Sauerstoff hemmt die Anaerobier). Booster-Regeln STIKO: letzte Impfung \> 10 J oder unklar → Booster; Risikowunde + letzte Impfung \> 5 J → Booster; unvollständig → TIG ärztlich. Impfstoff kühlkettenpflichtig 2–8 °C (Kühlkette siehe Erklärung) (warn-8a,, 09 Nr. 3).
+- _Prinzip (warum das funktioniert):_ Wundstarrkrampf (Tetanus) wird durch C. tetani-Sporen verursacht, die in Risikowunden (verschmutzt, tief, Stich, Biss, Quetschung, Verbrennung, Erfrierung, nekrotisch) auskeimen. Ausgiebig spülen, Fremdkörper entfernen, offen halten (Sauerstoff hemmt die Anaerobier). Booster-Regeln STIKO: letzte Impfung \> 10 J oder unklar → Booster; Risikowunde + letzte Impfung \> 5 J → Booster; unvollständig → TIG ärztlich. Impfstoff kühlkettenpflichtig 2–8 °C (Kühlkette siehe Erklärung) (warn-8a).
 - _Situationsvarianten (wann welche):_ Spülen mit gesottenem Wasser (B2-6.2). Nur gesottenes Wasser — nie Leitungswasser in Wunden. Kühlkette: Erdkeller/Treppenhaus/Brunnen/Winterbox/Verdunstungskühlung (siehe oben).
 - _Typische Fehler (warum + Folge):_ Risikowunde luftdicht verschließen oder mit Leitungswasser spülen. Folge: Tetanus — Muskelkrämpfe, Kieferklemme, tödlich.
 #subhead[Ablauf mit Kontrollkästchen]
@@ -1025,7 +1025,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 #pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-4.svg", width: 100%), caption: [Abb. 8.4 — Die heilende Wunde: fünf Eiter-Zeichen erkennen – dann handeln (Konzept 2.3).])]]
 _Fünf Eiter-Zeichen_ (ärztliche Vorstellung): zunehmende Rötung, Schwellung, Schmerz, Wärme, Eiterabsonderung.
-#kasten([Naht-Regel (09 § 4.4):])[Naht nur bei _sauberer Schnittwunde \< 6–12 h_ durch erfahrene Person; sonst _offen sekundär heilen lassen_.]
+#kasten([Naht-Regel :])[Naht nur bei _sauberer Schnittwunde \< 6–12 h_ durch erfahrene Person; sonst _offen sekundär heilen lassen_.]
 - [ ] Fünf Zeichen beobachtet
 - [ ] Naht nur \< 6–12 h sauber
 _Querverweise:_ siehe Konzept 2.2 (`warn-8a`).
@@ -1072,7 +1072,7 @@ _Querverweise:_ siehe Konzept 2.2 (`warn-8a`).
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Fünf Eiter-Zeichen], [siehe Glossar, Anhang D Band 1],
-  [Naht-Regel (09 § 4.4):], [siehe Glossar, Anhang D Band 1],
+  [Naht-Regel :], [siehe Glossar, Anhang D Band 1],
   [sauberer Schnittwunde \< 6–12 h], [siehe Glossar, Anhang D Band 1],
   [offen sekundär heilen lassen], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
@@ -1212,7 +1212,7 @@ _Erklärung:_
 === 3.1 Kräuter-Lese <k-3-1>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb_ · P 7 · M prüfenswert · V 7]
 _Zwei Zeugen je Pflanze_ : eine zweite Person bestätigt die Bestimmung (siehe Konzept B5-2.2, `warn-5`).
-#kasten([Korrektur (09 § 4.4):])[_Beinwell nur äußerlich auf intakter Haut_ — siehe Konzept B5-6.1.]
+#kasten([Korrektur :])[_Beinwell nur äußerlich auf intakter Haut_ — siehe Konzept B5-6.1.]
 - [ ] Zwei Zeugen
 - [ ] Beinwell nur äußerlich
 _Querverweise:_ siehe Konzept B5-2.2, `warn-5`, siehe Konzept B5-6.1. _Erklärung:_
@@ -1255,7 +1255,7 @@ _Querverweise:_ siehe Konzept B5-2.2, `warn-5`, siehe Konzept B5-6.1. _Erklärun
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Zwei Zeugen je Pflanze], [siehe Glossar, Anhang D Band 1],
-  [Korrektur (09 § 4.4):], [siehe Glossar, Anhang D Band 1],
+  [Korrektur :], [siehe Glossar, Anhang D Band 1],
   [Beinwell nur äußerlich auf intakter Haut], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -1562,8 +1562,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 3.3 Tinkturen / Salben / Öle <k-3-3>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb_ · P 6 · M unbedenklich · V 7 · Abb. 8.6]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-6.svg", width: 100%), caption: [Abb. 8.6 — Tinkturen, Salben, Öle: Öl-Auszug nur gesäuert (pH \< 4,6) oder vollständig getrocknet – Datum am Gefäß (Konzept 3.3, Botulismus-Verweis 09 §2.1).])]]
-#kasten([Botulismus-Falle (09 § 2.1):])[_Öl-Auszug nur gesäuert (pH \< 4,6, gemessen) oder vollständig getrocknet_ — siehe Konzept B7-6.2k, `warn-7b`. _Datum am Gefäß._]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-6.svg", width: 100%), caption: [Abb. 8.6 — Tinkturen, Salben, Öle: Öl-Auszug nur gesäuert (pH \< 4,6) oder vollständig getrocknet – Datum am Gefäß (Konzept 3.3, Botulismus-Verweis).])]]
+#kasten([Botulismus-Falle :])[_Öl-Auszug nur gesäuert (pH \< 4,6, gemessen) oder vollständig getrocknet_ — siehe Konzept B7-6.2k, `warn-7b`. _Datum am Gefäß._]
 - [ ] Öl-Auszug nur gesäuert/getrocknet
 - [ ] Datum am Gefäß
 _Querverweise:_ siehe Konzept B7-6.2k, `warn-7b`, siehe Konzept B5-6.2. _Erklärung:_
@@ -1605,7 +1605,7 @@ _Querverweise:_ siehe Konzept B7-6.2k, `warn-7b`, siehe Konzept B5-6.2. _Erklär
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Botulismus-Falle (09 § 2.1):], [siehe Glossar, Anhang D Band 1],
+  [Botulismus-Falle :], [siehe Glossar, Anhang D Band 1],
   [ — siehe Konzept B7-6.2k, `warn-7b`. ], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -2106,7 +2106,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 #pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-8.svg", width: 100%), caption: [Abb. 8.8 — Wärme-Regie: 2–4 l/Tag lauwarm + ORS-Rezept (Konzept 4.2).])]]
 _2–4 l/Tag lauwarm_ trinken (Wasserbedarf siehe Konzept B2-2.1).
-#kasten([ORS-Rezept (SME-Ergänzung, 09 § 4.4):])[_1 l abgekochtes Wasser + 6 gestrichene TL Zucker + ½ TL Salz_, schluckweise geben — bei Durchfall/Erbrechen.]
+#kasten([ORS-Rezept (SME-Ergänzung):])[_1 l abgekochtes Wasser + 6 gestrichene TL Zucker + ½ TL Salz_, schluckweise geben — bei Durchfall/Erbrechen.]
 - [ ] 2–4 l/Tag lauwarm
 - [ ] ORS-Rezept bekannt
 _Querverweise:_ siehe Konzept B2-2.1, siehe Konzept B2-6.2, abgekocht. _Erklärung:_
@@ -2119,7 +2119,7 @@ _Querverweise:_ siehe Konzept B2-2.1, siehe Konzept B2-6.2, abgekocht. _Erkläru
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [2–4 l], [_2–4 l/Tag lauwarm_ trinken (W],
-  [1 l], [SME-Ergänzung, 09 § 4.4):_ _1 l abgekochtes Wasser + 6 g],
+  [1 l], [S-Rezept (SME-Ergänzung):_ _1 l abgekochtes Wasser + 6 g],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -2157,7 +2157,7 @@ _Querverweise:_ siehe Konzept B2-2.1, siehe Konzept B2-6.2, abgekocht. _Erkläru
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [2–4 l/Tag lauwarm], [siehe Glossar, Anhang D Band 1],
-  [ORS-Rezept (SME-Ergänzung, 09 § 4.4):], [siehe Glossar, Anhang D Band 1],
+  [ORS-Rezept (SME-Ergänzung):], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -2279,7 +2279,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 4.3 Atem & Atem-Not <k-4-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 8.9]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-9.svg", width: 100%), caption: [Abb. 8.9 — Atem & Atemnot: 12–20 Atemzüge/min normal – blaue Lippen = sofort handeln (Konzept 4.3, W23).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-9.svg", width: 100%), caption: [Abb. 8.9 — Atem & Atemnot: 12–20 Atemzüge/min normal – blaue Lippen = sofort handeln (Konzept 4.3).])]]
 _12–20 Atemzüge/min_ (Erwachsene). _Blaue Lippen = sofort handeln._
 + Atemwege frei machen (Kopf überstrecken).
 + Fremdkörper entfernen.
@@ -2650,9 +2650,9 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 === 5.2 Der vergiftete Leib <k-5-2>
-#konzmeta(fill: rgb("#8a6d00"))[_gelb (Text präzisiert, 09 Nr. 11)_ · P 6 · M prüfenswert · V 7 · Abb. 8.10]
+#konzmeta(fill: rgb("#8a6d00"))[_gelb (Text präzisiert)_ · P 6 · M prüfenswert · V 7 · Abb. 8.10]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-10.svg", width: 100%), caption: [Abb. 8.10 — Der vergiftete Leib: generell KEIN induziertes Erbrechen – Giftnotruf anrufen, Reste sichern (Konzept 5.2, 09 Nr. 11).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-10.svg", width: 100%), caption: [Abb. 8.10 — Der vergiftete Leib: generell KEIN induziertes Erbrechen – Giftnotruf anrufen, Reste sichern (Konzept 5.2).])]]
 #warnrahmen()[_Generell kein induziertes Erbrechen_ — auch nicht mit Salzwasser oder Finger. _Ausnahme nur nach telefonischer Rücksprache Giftnotruf: 116 123 (DE) / +353 1 809 2166 (IE) / 112 (EU)._ Aktivkohle nur nach Rücksprache mit dem Giftnotruf. _Reste sichern_ (Glas, Pflanze, Erbrochenes) für die Analyse.]
 + Giftnotruf wählen (Nummern oben).
 + Substanz, Menge, Zeitpunkt notieren.
@@ -2721,7 +2721,7 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept B5-2.2, siehe Konzept 4.3.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [WARNUNG (angeglichen an Band 5, 02 § 2):], [siehe Glossar, Anhang D Band 1],
+  [WARNUNG (angeglichen an Band 5):], [siehe Glossar, Anhang D Band 1],
   [Generell kein induziertes Erbrechen], [siehe Glossar, Anhang D Band 1],
   [Reste sichern], [siehe Glossar, Anhang D Band 1],
   [Kein Erbrechen induziert], [siehe Glossar, Anhang D Band 1],
@@ -3385,7 +3385,7 @@ _Erklärung:_
 === 7.1 Brandwunde & Frostbeule <k-7-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 8.11]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-11.svg", width: 100%), caption: [Abb. 8.11 — Brandwunde & Frostbeule: 10–20 min kühles fließendes Wasser – nie Fett, nie Eis (Konzept 7.1, W22: 55 °C-Grenze).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-11.svg", width: 100%), caption: [Abb. 8.11 — Brandwunde & Frostbeule: 10–20 min kühles fließendes Wasser – nie Fett, nie Eis (Konzept 7.1, 55 °C-Grenze).])]]
 _10–20 min kühles fließendes Wasser_ (ab 55 °C Verbrühung in Sekunden — siehe Konzept B1-7.4). _Nie Fett, nie Eis, nie Hausmittel_ auf frische Brandwunden. Blasen nicht aufstechen. Frostbeule: _langsam aufwärmen_ (lauwarmes Wasser), nie reiben, nie direkte Hitze.
 - [ ] 10–20 min kühles Wasser
 - [ ] Nie Fett/nie Eis
@@ -3747,7 +3747,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 #konzmeta(fill: rgb("#8a6d00"))[_gelb (SME: nicht \< 16 J)_ · P 6 · M unbedenklich · V 7 · Abb. 8.12]
 #pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-12.svg", width: 100%), caption: [Abb. 8.12 — Schmerz-Küche: Weidenrinde (Salicyl) – nicht unter 16 Jahren (Reye-Syndrom) (Konzept 7.3, SME-Korrektur).])]]
-#kasten([SME-Korrektur (09 § 4.4):])[_Weidenrinde (Salicylate) nicht bei Kindern/Jugendlichen \< 16 Jahre_ — Reye-Syndrom (wie ASS). Dosierung beibehalten.]
+#kasten([SME-Korrektur :])[_Weidenrinde (Salicylate) nicht bei Kindern/Jugendlichen \< 16 Jahre_ — Reye-Syndrom (wie ASS). Dosierung beibehalten.]
 #table(
   columns: 3,
   table.header([Mittel], [Anwendung], [Grenze]),
@@ -3801,7 +3801,7 @@ _Querverweise:_ siehe Konzept B5-6.1, Weidenrinde-Grenze konsistent.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [SME-Korrektur (09 § 4.4):], [siehe Glossar, Anhang D Band 1],
+  [SME-Korrektur :], [siehe Glossar, Anhang D Band 1],
   [nicht \< 16 J], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -3923,7 +3923,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 #pagebreak(weak: true)
 == Kapitel 8 — Sanitätsmappe <kap-8>
 _Erklärung:_
-- _Prinzip (warum das funktioniert):_ Weidenrinde enthält Salicylate (wie ASS) — schmerzlindernd/fiebersenkend, aber bei \< 16 J Reye-Syndrom-Gefahr (Leber-/Hirnschaden) — deshalb kontraindiziert (09 § 4.4). Dosierung nicht überschreiten (Magenschleimhaut, Blutung).
+- _Prinzip (warum das funktioniert):_ Weidenrinde enthält Salicylate (wie ASS) — schmerzlindernd/fiebersenkend, aber bei \< 16 J Reye-Syndrom-Gefahr (Leber-/Hirnschaden) — deshalb kontraindiziert. Dosierung nicht überschreiten (Magenschleimhaut, Blutung).
 - _Situationsvarianten (wann welche):_ Erwachsene: Absud nach 3.2. Alternative ohne Salicylat: Kamille, Ruhe (6.3).
 - _Typische Fehler (warum + Folge):_ Kindern Weidenrinde geben. Folge: Reye-Syndrom — tödlich möglich.
 #subhead[Kapitel-Übersicht]
@@ -3937,7 +3937,7 @@ _Erklärung:_
 === 8.1 Sanitätsmappe (\< 3 kg) <k-8-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 8.13]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-13.svg", width: 100%), caption: [Abb. 8.13 — Sanitätsmappe: \< 3 kg, Inventar geführt – Antibiotika nur bei klarer bakterieller Indikation, volle Kursdauer (Konzept 8.1, W20).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-8-13.svg", width: 100%), caption: [Abb. 8.13 — Sanitätsmappe: \< 3 kg, Inventar geführt – Antibiotika nur bei klarer bakterieller Indikation, volle Kursdauer (Konzept 8.1).])]]
 Konsistent mit Traglast (siehe Konzept B1-6.5): _\< 3 kg_.
 #table(
   columns: 2,
@@ -4698,7 +4698,7 @@ Alle Konzepte dieses Bandes im Überblick — abhaken, wenn geübt/gelesen:
   columns: 2,
   table.header([*Warngrafik*], [*Thema*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [warn-8a], [TETANUS 09 NR 3 VERSCHÄRFT],
+  [warn-8a], [TETANUS VERSCHÄRFT],
 )
 #pagebreak(weak: true)
 == Querverweis-Register Band 8 <querverweis-register>

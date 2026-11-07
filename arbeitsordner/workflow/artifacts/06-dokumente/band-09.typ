@@ -783,7 +783,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 2.2 Härten & Anlassen <k-2-2>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb_ · P 6 · M prüfenswert · V 7 · Abb. 9.2]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-2.svg", width: 100%), caption: [Abb. 9.2 — Härten & Anlassen: Abschrecken, dann anlassen – Anlassfarben Hellstrohgelb (hart) bis Hellblau (weich); Anlassen zwingend, sonst Glasbruch (Konzept 2.2, W29).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-2.svg", width: 100%), caption: [Abb. 9.2 — Härten & Anlassen: Abschrecken, dann anlassen – Anlassfarben Hellstrohgelb (hart) bis Hellblau (weich); Anlassen zwingend, sonst Glasbruch (Konzept 2.2).])]]
 + Stahl auf _Kirschrot bis Hellrot_ (ca. 800–900 °C) erhitzen.
 + Abschrecken: _Öl = milder, weniger Rissgefahr; Wasser = härter, spröder._
 + _Anlassen zwingend_ (sonst Glasbruch): Anlassfarben als Kontrolle : _Hellstrohgelb ≈ 200 °C (hart) bis Hellblau ≈ 300 °C (weich)_ — je nach Werkzeug wählen.
@@ -1336,7 +1336,7 @@ _Erklärung:_
 === 3.1 Fällen <k-3-1>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb + WARNRAHMEN [warn-9a]_ · P 7 · M prüfenswert · V 7 · Abb. 9.3]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-3.svg", width: 100%), caption: [Abb. 9.3 — Fällen: untere Kerbe 1/3, Fällkerbe, Fluchtweg 45° schräg – nie hangabwärts darunter stehen (Konzept 3.1, warn-9a, WARN 2: „tödliche Minute“).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-3.svg", width: 100%), caption: [Abb. 9.3 — Fällen: untere Kerbe 1/3, Fällkerbe, Fluchtweg 45° schräg – nie hangabwärts darunter stehen (Konzept 3.1, warn-9a, : „tödliche Minute“).])]]
 #warnrahmen(id: "warn-9a", title: [TÖDLICHE MINUTE :])[Beim Fällen kann der Baum in der _letzten Minute_ brechen/kippen. _Nie hangabwärts darunter stehen._ _Fluchtweg 45° schräg_ zur Fallrichtung, zwei Wege frei (siehe Konzept B1-6.2: 2 Stiellängen Sperrzone, 2 Fluchtwege 45°).]
 + _Untere Kerbe 1/3_ der Stammdicke, Keilform.
 + Gegenüber: Fällschnitt leicht oberhalb der Kerbe.
@@ -1541,7 +1541,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 3.2 Block → Brett <k-3-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 9.4]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-4.svg", width: 100%), caption: [Abb. 9.4 — Block → Brett: Keile in die Hirnholzseite, Maserung lesen – Trocknung \~1 Jahr je Daumen Dicke (Konzept 3.2, W28).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-4.svg", width: 100%), caption: [Abb. 9.4 — Block → Brett: Keile in die Hirnholzseite, Maserung lesen – Trocknung \~1 Jahr je Daumen Dicke (Konzept 3.2).])]]
 + _Maserung lesen:_ Äste, Risse, Drehwuchs erkennen.
 + Keile entlang der Faser einschlagen (siehe Konzept 5.1), Brett abspalten.
 + _Trocknung: \~1 Jahr je Daumendicke_ (Fichte 1 J, Buche/Eiche 2 J), luftig stapeln.
@@ -3475,8 +3475,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 7.3 Riemen / Fett / Öl <k-7-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün + _WARNRAHMEN [warn-9b]_ · P 8 · M unbedenklich · V 8 · Abb. 9.9]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-9.svg", width: 100%), caption: [Abb. 9.9 — Riemen, Fett, Öl: Leinöl-Lappen nie zerknüllt wegwerfen – Selbstentzündung (Konzept 7.3, warn-9b, W30).])]]
-#warnrahmen(id: "warn-9b", title: [LEINÖL-LAPPEN-SELBSTENTZÜNDUNG (09 Nr. 10):])[_Lappen nie zerknüllt in den Abfalleimer_ — ausgebreitet auf _nichtbrennbarem Untergrund_ trocknen _oder_ in _dicht verschlossenen Metallbehälter mit Wasser_ legen. _Nie Öl in einen Wassereimer_ — Dampfexplosion.]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-9.svg", width: 100%), caption: [Abb. 9.9 — Riemen, Fett, Öl: Leinöl-Lappen nie zerknüllt wegwerfen – Selbstentzündung (Konzept 7.3, warn-9b).])]]
+#warnrahmen(id: "warn-9b", title: [LEINÖL-LAPPEN-SELBSTENTZÜNDUNG :])[_Lappen nie zerknüllt in den Abfalleimer_ — ausgebreitet auf _nichtbrennbarem Untergrund_ trocknen _oder_ in _dicht verschlossenen Metallbehälter mit Wasser_ legen. _Nie Öl in einen Wassereimer_ — Dampfexplosion.]
 + Lederriemen mit Fett (siehe Konzept B7-7.1, Schmalz/Talg) einreiben, geschmeidig halten.
 + Werkzeuge ölen (siehe Konzept B1-6.1).
 + Ölige Lappen nach warn-9b behandeln.
@@ -3679,7 +3679,7 @@ _Erklärung:_
 === 8.1 Die Kiste (3 Schichten, ≤ ¼ Körpergewicht) <k-8-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 9.10]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-10.svg", width: 100%), caption: [Abb. 9.10 — Die Werkzeug-Kiste: 3 Schichten, ≤ ¼ Körpergewicht (Konzept 8.1, W20).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-10.svg", width: 100%), caption: [Abb. 9.10 — Die Werkzeug-Kiste: 3 Schichten, ≤ ¼ Körpergewicht (Konzept 8.1).])]]
 Konsistent mit Traglast (siehe Konzept B1-6.5): _≤ ¼ Körpergewicht_.
 #table(
   columns: 2,
@@ -4534,7 +4534,7 @@ _Erklärung:_
 Situative Skizzen zu Varianten und Situationen (mit Maßen und Kontext) — ergänzt nach Review v1, Befund 3.
 #grid(columns: (1fr, 1fr), column-gutter: 8pt, row-gutter: 8pt,
   figure(image("illustrationen/abb-9-11.svg", width: 100%), caption: [Abb. 9.11 — Fällen situativ: Hang vs. Ebene – Fluchtwege immer hangaufwärts/seitlich, nie hangabwärts (Ergänzung zu Abb. 9.3, warn-9a, Review v1).]),
-  figure(image("illustrationen/abb-9-12.svg", width: 100%), caption: [Abb. 9.12 — Härten situativ: Abschreckmedium-Vergleich Öl vs. Wasser mit Anlassfarben-Streifen (Ergänzung zu Abb. 9.2, W29, Review v1).]),
+  figure(image("illustrationen/abb-9-12.svg", width: 100%), caption: [Abb. 9.12 — Härten situativ: Abschreckmedium-Vergleich Öl vs. Wasser mit Anlassfarben-Streifen (Ergänzung zu Abb. 9.2, , Review v1).]),
   figure(image("illustrationen/abb-9-13.svg", width: 100%), caption: [Abb. 9.13 — Werkzeug-Kiste situativ gepackt: 3 Schichten nach Zugriffshäufigkeit, ≤ ¼ Körpergewicht (Ergänzung zu Abb. 9.10, Review v1).]))
 #pagebreak(weak: true)
 == Gesamt-Checkliste Band 9 <gesamt-checkliste>
@@ -4570,7 +4570,7 @@ Alle Konzepte dieses Bandes im Überblick — abhaken, wenn geübt/gelesen:
   table.header([*Warngrafik*], [*Thema*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [warn-9a], [TÖDLICHE MINUTE ],
-  [warn-9b], [LEINÖLLAPPENSELBSTENTZÜNDUNG 09 NR 10],
+  [warn-9b], [LEINÖLLAPPENSELBSTENTZÜNDUNG ],
 )
 #pagebreak(weak: true)
 == Querverweis-Register Band 9 <querverweis-register>

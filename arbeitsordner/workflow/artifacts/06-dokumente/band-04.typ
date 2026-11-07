@@ -796,7 +796,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 2.3 Werkstoffkunde Dach/Wand <k-2-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 4.3]
 #pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-3.svg", width: 100%), caption: [Abb. 4.3 — Werkstoffkunde für Dach & Wand (Konzept 2.3, konsistent B9 W28).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-3.svg", width: 100%), caption: [Abb. 4.3 — Werkstoffkunde für Dach & Wand (Konzept 2.3, konsistent B9).])]]
 Konsistent mit Band 9 (Trocknung) und Band 5 (Ried/Stroh, siehe Konzept B5-8.1):
 #table(
   columns: 3,
