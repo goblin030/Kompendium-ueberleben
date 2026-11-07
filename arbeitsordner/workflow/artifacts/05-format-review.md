@@ -274,3 +274,33 @@ Hinweis zu Band 6: Gate G-1 (legal) ist laut abschlussbericht §3 noch offen —
 ## Gesamturteil Turn 8 (v2): **NACHBESSERN**
 
 v2 kompiliert sauber, ART-Register/Referenzen konsistent, v2-Druckdaten als PDF/X-4+Marken intakt, v1 ohne Regression — aber 2 major offen (T8-1 Gate/ROT im v2-Text, T8-2 art-SVGs nicht eingebettet) + 1 minor (T8-3 fehlender v2-proof). visual-qa-Gate v2 steht noch aus (Turn 6). Danach Re-Review Turn 9. v1 bleibt FREIGEGEBEN (Turn 7-Urteil hält, Turn-13-Stand grün). Gate G-1 (legal, Band 6) offen — Phase K.
+
+---
+
+# Nachtrag — Re-Review Turn 9: Enzyklopädie v2.1 (`06-dokumente/v2.1/`)
+
+**Anlass:** v2.1-Rebuild (doc-builder Turn 15 nach D3-Scrub + E2) reviewen. Tools: poppler/qpdf (/tmp/gsenv) + frischer typst-Build + pdftotext + Label-/Ref-Abgleich.
+
+## Ergebnis
+
+| Prüfpunkt | Status | Nachweis |
+|---|---|---|
+| v2.1 kompiliert fehlerfrei | **JA** | 10/10 `typst compile v2.1/band-NN-v2.typ --root . --pdf-standard a-2b` rc=0, keine Warnungen; frischer Build seitenzahl-identisch: 178/131/127/123/115/114/123/130/123/154 = **Σ 1.318 S.**; PDF/A-2b + dc:title in allen v2.1-PDFs. |
+| ART-Refs gültig | **JA** | 314 `<art-NNNN>`-Labels unique lückenlos ART-0001–0314; 314 unique ART-Referenzen, **0 undefiniert**; TOC (outline) pro Band. |
+| Meta 0 in v2.1 | **JA (bis auf minor Rest)** | pdftotext + .typ-Scan: 0 Gate/ROT/W/BL/T/-R/Chat-Hash/Rollen-Namen/Artefakt-Pfade (T8-1 behoben; v2-Turn-6-Leaks ~810 Tokens sind raus). Rest **T9-1 minor:** band-10-v2 bindet 2 v1-Crossref-Abbildungen ein, deren Captions „Konzept 2.1/4.1“, „warn-3/warn-7“, „Anhang Feuerprobe Band 10“ nennen (v1-Crossrefs in v2 — laut v2-Regel nur ART-IDs erlaubt). |
+| art-SVGs eingebunden | **JA (T8-2 behoben)** | 29 `art-NNNN-abb-M.svg` via `image()` + 5 `warn-art-NNNN.svg` via `warnrahmen(id:)` in v2.1 referenziert = 34/35. **T9-2 minor:** `warn-art-0132.svg` liegt im Paket, hat aber keine Referenz (orphan). |
+| v2.1 proof vorhanden | **JA (T8-3 behoben)** | `v2.1/druckdaten/` enthält proof.json + proof-bericht.md + proof-run.log; proof.json mtime (23:14) > alle Druck-PDFs (23:11), Werte matchen (Pages 178/131/…/154, crop_marks_ok=true). |
+| Druckdaten v2.1 PDF/X-4 + Marken | **JA** | Alle 10 via pdfinfo/qpdf/pdffonts verifiziert: Pages = proof = Quelle, MediaBox 612,28×858,90 pt (216×303 mm), TrimBox+BleedBox gesetzt, 0 RGB-Ops, Schnittmarken RegBlack `1 1 1 1 K` + `0.3 w` genau 1×/Seite, PDF/X-4 + OutputIntent `/S /GTS_PDFX`, 0 Annots, Fonts embedded. |
+| visual-qa-Gate v2.1 | **Turn 7 init geloggt (23:15), Ergebnis noch nicht in 20-visual-qa.md** | v2-Turn 6 war rot (Meta ~810); v2.1-Meta ist jetzt bis auf T9-1 sauber. Kollisions-Check v2.1 nicht unabhängig re-runs; strukturell gleiches stil.typ (Boxen/Figure unteilbar). |
+| Regressionen | **keine** | v1 unverändert seit Turn-13-Stand (grün, siehe Turn 8), v2 (alt) unverändert (22:24); ZIP v2.1 integer (262 Einträge, 224 SVGs inkl. 35 art). T8-1/T8-2/T8-3 behoben. |
+
+## Restbefunde Turn 9 (minor, nicht blockierend)
+
+| # | Schwere | Befund | Korrektur |
+|---|---|---|---|
+| T9-1 | minor | 2 v1-Crossref-Abbildungen in band-10-v2 mit v1-Captions („Konzept 2.1/4.1“, „warn-3/warn-7“, „Anhang Feuerprobe“) im v2.1-PDF. | Captions auf ART-IDs umstellen oder v1-Abbildungen durch art-SVGs ersetzen; Band 10 v2.1 neu bauen. |
+| T9-2 | minor | `warn-art-0132.svg` orphan (keine Referenz in v2.1). | einbinden (Artikel ART-0132) oder aus illustrationen/ + ZIP entfernen. |
+
+## Gesamturteil Turn 9 (v2.1): **FREIGEGEBEN**
+
+0 blocker, 0 major, 2 minor (T9-1, T9-2). v2.1: 10/10 fehlerfrei kompiliert (1.318 S., PDF/A-2b), 314 ART-IDs lückenlos und voll auflösend, Meta-Scan sauber (T8-1 behoben), 34/35 art-SVGs eingebettet (T8-2 behoben), v2.1-Druckdaten PDF/X-4 + 3 mm Anschnitt + Schnittmarken 1×/Seite intakt mit aktuellem proof (T8-3 behoben), v1 und v2 ohne Regression. visual-qa Turn 7 (Gate v2.1) läuft laut Log — Ergebnis nachtragen. v1 bleibt FREIGEGEBEN. Gate G-1 (legal, Band 6) offen — Phase K.

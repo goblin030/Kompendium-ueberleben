@@ -263,3 +263,28 @@ Kollisionen weiterhin 0, Caption-Abstände weiterhin 4,6 pt, CL-Umbau vollständ
 
 ---
 *Nachtrag Turn 6 durch Agent `visual-qa`, Phase J, 2026-11-08. Log: `logs/workflow.log` (agent=visual-qa).*
+
+---
+
+# Nachtrag — Turn 7: Enzyklopädie v2.1 (2026-11-08, nach doc-builder Turn 15)
+
+**Input:** `06-dokumente/v2.1/band-01..10-v2.pdf` = 178/131/127/123/115/114/123/130/123/154 = **1.318 S.**, 314 Artikel, 35 art-SVGs (29 art-NNNN-abb-M + 6 warn-art-NNNN). **Methode:** wie Turn 6 (alle Seiten 150 dpi gray+color, qdf + Content-Stream-Parser, pdftotext -bbox, Pixel, WCAG, Meta-Scan mit ART-IDs als einziger erlaubter Kennziffer).
+
+## Ergebnis Turn 7 (v2.1)
+
+| Kriterium | Turn 6 (v2) | Turn 7 (v2.1) |
+|---|---|---|
+| (1) Kollisionen Box/Caption/Artikel | 0 | **0** in 1.318/1.318 S. (Koord.+Pixel: 0 Caption-Box/Abbildung, 0 Text-straddle, 0 Rahmen-Anomalien; 28 Caption-Abb.-Paare à 4,6 pt) |
+| (2) Meta-Scan (nur ART-IDs erlaubt) | ~810 interne Tokens, rot ×10 | **9/10 Bände CLEAN (0 interne Tokens, nur ART-IDs: 336–774 pro Band)**. Band 10: 3× `warn-N` (warn-3 S. 70/113, warn-7c S. 128 — v1-Warngrafik-Kennungen, in v2.1 nicht eingebunden/unaufgelöst) + 3× „Prüfprotokoll“ (False Positive: Artikel-Inhalt „Prüfprotokoll Werkstatt/mit Unterschriften“, kein interner Abschnitt). SVG-Scan aller `illustrationen/*.svg` (inkl. 35 art-*): **CLEAN** |
+| art-SVGs eingebunden? | nein | **ja: 31 image()-Refs in band-10 == 31 gerenderte Figures (29 art-NNNN-abb + abb-9-1 + abb-10-3); 6 warn-art-NNNN.svg als Warnrahmen-Icons (warn-art-0132/0255/0290/0305/0307/0313) referenziert; alle referenzierten Dateien existieren; refs == files** |
+| ART-Querverweise | 0 unresolved | **0 unresolved (global 314 ART-Defs)**; refpage-Refs seitenrichtig: B1 5/5, B2 143/143, B3 158/158, B4 146/146, B5 104/104, B6 119/119, B7 163/163, B8 114/114, B9 10/10, B10 133/133 — **100 % korrekt** |
+| TOC pro Band | ok | **ok: TOC auf S. 2 jedes Bandes mit ART-ID + Seite, Stichprobe je Band 5/5 Seiten korrekt** |
+| (3) Farbe/Kontrast/Graustufen | pass + minor | **pass:** Text #000000 21:1 (Mode), Bandfarben 4,92–7,58:1; 31/31 Figures graustufen-lesbar (0 leer, ≥ 21 Graustufen); minor wie v1: Ampel gelb #8a6d00 auf #efefef 4,28:1 < 4,5, helle Rahmen #a9c3d6/#bfbfbf < 3:1 |
+| (4) Leerraum | 85,6 % < 65 %; 25,2 % nahezu leer | **87,3 % < 65 % (1.150/1.318); 25,0 % nahezu leer (329)** — praktisch unverändert (minor) |
+
+## Ampel Turn 7 und Gesamturteil
+
+**Ampel: gelb ×10 (Band 10 zusätzlich mit 3 unaufgelösten warn-N-Referenzen). Gesamturteil: FREIGEGEBEN (gelb) — v2.1-Gate bestanden.** Der Turn-6-Meta-Befund ist behoben: 0 interne Tokens in 9/10 Bänden, in Band 10 nur noch 3 `warn-N`-Altverweise (warn-3, warn-7c) — diese auf `warn-art-*` bzw. ART-Referenz umstellen (minor). Kollisionen 0, art-SVGs vollständig eingebunden (31/31), ART-Querverweise 100 % aufgelöst und seitenrichtig, TOC pro Band korrekt. Verbleibend minor: Leerraum (87,3 % < 65 %, 25,0 % nahezu leer — artikelbedingt), gelb-Ampel 4,28:1 auf #efefef, helle Sekundär-Rahmen < 3:1.
+
+---
+*Nachtrag Turn 7 durch Agent `visual-qa`, Phase J, 2026-11-08. Log: `logs/workflow.log` (agent=visual-qa).*
