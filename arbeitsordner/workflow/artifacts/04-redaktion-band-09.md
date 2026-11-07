@@ -8,9 +8,16 @@ Warnungen umgesetzt: 3.1 `warn-9a` (tödliche Minute beim Fällen), 7.3 `warn-9b
 
 ## Kapitel 1 — Ethik des Handwerks
 
+**Ziel des Kapitels:** Ziel: Die Ethik des Machens (Grenze aus Können/Material/Zeit) und die Werkzeug-Kette (Lesen–Wählen–Halten–Führen) verinnerlichen.
+
+
 ### 1.1 Grenze des Machens — grün · P 8 · M unbedenklich · V 10
 
 Mache nur, was du **kannst**, wofür **Material** da ist und wofür **Zeit** ist. Sonst: lassen oder üben (siehe Konzept 1.3).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.1 „Grenze des Machens“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Können/Material/Zeit vor Arbeitsbeginn geklärt
 
@@ -31,6 +38,10 @@ Mache nur, was du **kannst**, wofür **Material** da ist und wofür **Zeit** ist
 3. **Halten:** fester Griff, Finger weg vom Schlag/Schnitt.
 4. **Führen:** kurze, kontrollierte Bewegungen.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.2 „Werkzeug-Kette“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Vier Schritte bewusst durchlaufen
 
 **Querverweise:** siehe Konzept 6.2, siehe Konzept B1-6.1.
@@ -43,6 +54,10 @@ Mache nur, was du **kannst**, wofür **Material** da ist und wofür **Zeit** ist
 
 Übe am **Wertlosen**: kaputtes Brett, weiches Holz, alter Nagel. Erst wenn es dort sitzt, am Guten.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.3 „Übestück“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Übestück vorhanden
 
 **Querverweise:** siehe Konzept 1.1, siehe Konzept 9.2 (Lehrling, Proben).
@@ -50,6 +65,9 @@ Mache nur, was du **kannst**, wofür **Material** da ist und wofür **Zeit** ist
 ---
 
 ## Kapitel 2 — Schmiede
+
+**Ziel des Kapitels:** Ziel: Schmieden, Härten und Anlassen sicher beherrschen — Anlassen nie vergessen (Glasbruch), CO/Augenschutz (warn-3).
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Am Übungsstück (wertlos) darfst du scheitern — Fehler kosten nichts und trainieren das Gefühl für Material und Kraft. Erst danach am guten Werkstück.
@@ -60,6 +78,10 @@ Mache nur, was du **kannst**, wofür **Material** da ist und wofür **Zeit** ist
 1. Kohlebett, Luftzufuhr von unten; **weiße** Glut in der Mitte.
 2. **CO/Brandgefahr:** nur im Freien oder mit Abzug — siehe Konzept B3-6.3, `warn-3`: keine Verbrennung in geschlossenen Räumen.
 3. **Augenschutz gegen IR/UV:** Schweißschild/Schutzbrille — nie ohne in die Glut sehen.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.1 „Schmied-Feuer“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Im Freien/Abzug
 - [ ] Augenschutz getragen
@@ -75,6 +97,10 @@ Mache nur, was du **kannst**, wofür **Material** da ist und wofür **Zeit** ist
 1. Stahl auf **Kirschrot bis Hellrot** (ca. 800–900 °C) erhitzen.
 2. Abschrecken: **Öl = milder, weniger Rissgefahr; Wasser = härter, spröder.**
 3. **Anlassen zwingend** (sonst Glasbruch): Anlassfarben als Kontrolle (W29): **Hellstrohgelb ≈ 200 °C (hart) bis Hellblau ≈ 300 °C (weich)** — je nach Werkzeug wählen.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.2 „Härten & Anlassen“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Abschreckmedium gewählt (Öl milder / Wasser härter)
 - [ ] Anlassen nicht vergessen (Glasbruch!)
@@ -104,6 +130,10 @@ Mache nur, was du **kannst**, wofür **Material** da ist und wofür **Zeit** ist
 2. **UV-Augenschutz** Pflicht (siehe Konzept 2.1).
 3. **Stromschlaggefahr bei Nässe** (elektrisches Schweißen): trockene Handschuhe, isolierende Unterlage.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.4 „Feuerschweißen“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Zunder als Flussmittel
 - [ ] UV-Schutz
 - [ ] Übungspflicht erfüllt (s. Konzept B1-8.2)
@@ -113,11 +143,16 @@ Mache nur, was du **kannst**, wofür **Material** da ist und wofür **Zeit** ist
 ---
 
 ## Kapitel 3 — Holz
+
+**Ziel des Kapitels:** Ziel: Bäume sicher fällen (Kerbe 1/3, Flucht 45°, warn-9a) und Holz richtig trocknen/spalten.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Feuerschweißen: zwei Flächen auf Schweißtemperatur bringen, Zunder (Flussmittel) entfernt Oxide, Hammerschlag verschweißt (Pressschweißung). Elektrisch: Lichtbogen — UV-Augenschutz Pflicht, Stromschlaggefahr bei Nässe (isolierende Handschuhe/Unterlage). V = 6 → Übungspflicht (B1-8.2).
 - **Situationsvarianten (wann welche):** Im Trockenen, mit Schutzbrille/Schirm. Üben am Schrott.
 - **Typische Fehler (warum + Folge):** Ohne Augenschutz schweißen. Folge: „Schweißblitz“ (UV-Verbrennung der Hornhaut — stundenlang schmerzhaft, Lichtscheu).
+
+**Übungsablauf (Feuerschweißen, V = 6):** 5 Wdh. am Schrott mit UV-Schutz; Zeitansatz 30 min; Erfolgskontrolle: Naht hält Zugprobe; Abbruch sofort bei Augenschmerz (UV-Licht) oder Nässe (Stromschlaggefahr).
 ### 3.1 Fällen — **gelb + WARNRAHMEN [warn-9a]** · P 7 · M prüfenswert · V 7 · Abb. 9.3
 
 > **WARNRAHMEN [warn-9a] — TÖDLICHE MINUTE (WARN 2):** Beim Fällen kann der Baum in der **letzten Minute** brechen/kippen. **Nie hangabwärts darunter stehen.** **Fluchtweg 45° schräg** zur Fallrichtung, zwei Wege frei (siehe Konzept B1-6.2: 2 Stiellängen Sperrzone, 2 Fluchtwege 45°).
@@ -126,6 +161,10 @@ Mache nur, was du **kannst**, wofür **Material** da ist und wofür **Zeit** ist
 2. Gegenüber: Fällschnitt leicht oberhalb der Kerbe.
 3. Keil einsetzen, Baum kontrolliert kippen lassen.
 4. Sofort auf den Fluchtweg (45° schräg), nie hangabwärts.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.1 „Fällen“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Untere Kerbe 1/3
 - [ ] Flucht 45° schräg, nie hangabwärts
@@ -145,6 +184,10 @@ Mache nur, was du **kannst**, wofür **Material** da ist und wofür **Zeit** ist
 2. Keile entlang der Faser einschlagen (siehe Konzept 5.1), Brett abspalten.
 3. **Trocknung: ~1 Jahr je Daumen Dicke** (W28; Fichte 1 J, Buche/Eiche 2 J), luftig stapeln.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.2 „Block → Brett“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Maserung gelesen
 - [ ] Trocknungszeit eingeplant
 
@@ -163,6 +206,9 @@ Esche und Ahorn: zäh, biegsam, ideal für Stiele (Axt, Hammer, Spaten). Rundlin
 ---
 
 ## Kapitel 4 — Die Kante
+
+**Ziel des Kapitels:** Ziel: Werkzeuge schärfen und die Schneide halten (konstanter Winkel, Wetz-Takt).
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Stielhölzer brauchen Zähigkeit + Biegsamkeit: Esche und Ahorn sind zäh, nicht spröde. Rundling spalten, entrinden, trocknen, hobeln — Faserlauf längs beachten.
@@ -175,6 +221,10 @@ Esche und Ahorn: zäh, biegsam, ideal für Stiele (Axt, Hammer, Spaten). Rundlin
 1. Grob: Sensen-/Schleifstein, Kratzer raus.
 2. Fein: Wetzstein mit Wasser/Öl.
 3. Glatt: Lederriemen abziehen.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.1 „Schliff“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Winkel konstant
 - [ ] Drei Stufen durchlaufen
@@ -189,6 +239,10 @@ Esche und Ahorn: zäh, biegsam, ideal für Stiele (Axt, Hammer, Spaten). Rundlin
 
 Konsistent mit Konzept B1-6.1: nach jedem Gebrauch kurz wetzen — nie stumpf werden lassen.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.2 „Schneide halten (Wetz-Takt)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Wetz-Takt eingehalten
 
 **Querverweise:** siehe Konzept B1-6.1, siehe Konzept 4.1.
@@ -196,6 +250,9 @@ Konsistent mit Konzept B1-6.1: nach jedem Gebrauch kurz wetzen — nie stumpf we
 ---
 
 ## Kapitel 5 — Die Fuge
+
+**Ziel des Kapitels:** Ziel: Holzverbindungen herstellen: Zapfen/Loch/Keil, Seil/Knoten, Niet/Nagel.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Jede Schneide wird stumpf durch Mikroausbrüche; regelmäßiges kurzes Wetzen (B9-4.1 fein/glatt) verhindert Nachschleifen. Konsistent mit B1-6.1.
@@ -204,6 +261,10 @@ Konsistent mit Konzept B1-6.1: nach jedem Gebrauch kurz wetzen — nie stumpf we
 ### 5.1 Zapfen / Loch / Keil — grün · P 8 · M unbedenklich · V 8 · Abb. 9.6
 
 **Der Keil folgt der Faser.** 1. Zapfenloch stemmen (Stemmeisen). 2. Zapfen passend sägen. 3. Keil aus Hartholz eintreiben, bündig absägen.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.1 „Zapfen / Loch / Keil“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Keil entlang der Faser
 
@@ -218,6 +279,10 @@ Konsistent mit Konzept B1-6.1: nach jedem Gebrauch kurz wetzen — nie stumpf we
 Konsistent mit Konzept B1-6.3, fünf Serienknoten.
 
 > **WARNUNG (lastendes Seil):** Ein belastetes Seil nie mit dem Messer durchtrennen — es **schlägt zurück**. Seil auslaufen lassen, dann trennen.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.2 „Seil & Knoten“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Knoten aus Konzept B1-6.3
 - [ ] Lastendes Seil nie durchschnitten
@@ -238,6 +303,9 @@ Konsistent mit Konzept B1-6.3, fünf Serienknoten.
 ---
 
 ## Kapitel 6 — Werkstatt
+
+**Ziel des Kapitels:** Ziel: Werkstatt-Ordnung und Flicken als Methode etablieren (fester Ort je Ding; Schaden lesen vor dem Flicken).
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Nagel hält durch Reibung/Spreizung im Holz; vorbohren verhindert Spalten. Niet (Metall) hält durch beidseitigen Kopf — formschlüssiger als Nagel bei Zug.
@@ -246,6 +314,10 @@ Konsistent mit Konzept B1-6.3, fünf Serienknoten.
 ### 6.1 Werkstatt-Ordnung — grün · P 8 · M unbedenklich · V 9
 
 **Fester Ort für jedes Ding.** Nach Gebrauch zurück — sonst suchen alle.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.1 „Werkstatt-Ordnung“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Werkzeugwand/-kiste beschriftet
 
@@ -259,6 +331,10 @@ Konsistent mit Konzept B1-6.3, fünf Serienknoten.
 
 **Schaden lesen, dann flicken:** erst die Ursache finden (Riss, Abrieb, Naht), dann passende Reparatur (Flicken, Stopfen, neue Naht — siehe Konzept B4-7.2, Nadel & Faden).
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.2 „Flicken als Methode“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Ursache gelesen vor dem Flicken
 
 **Querverweise:** siehe Konzept B4-7.2, siehe Konzept B4-8.2, Verfallsdatum.
@@ -266,6 +342,9 @@ Konsistent mit Konzept B1-6.3, fünf Serienknoten.
 ---
 
 ## Kapitel 7 — Material-Kammer
+
+**Ziel des Kapitels:** Ziel: Material kammer-sicher lagern, Leim selbst machen, Öl/Lappen brand-sicher handhaben (warn-9b).
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Flicken als Methode: erst den Schaden lesen (Ursache: Riss durch Ast? Abrieb? Naht?), dann passende Reparatur — sonst reparierst du das Symptom, nicht die Ursache (B4-7.2 Nadel/Faden).
@@ -274,6 +353,10 @@ Konsistent mit Konzept B1-6.3, fünf Serienknoten.
 ### 7.1 Kammer — grün · P 8 · M unbedenklich · V 8
 
 Konsistent mit Konzept B7-8.1, kalte Kammer: Zonen, trocken, dunkel, gelüftet, Gäste fern (Mäuse — Fallen siehe Konzept 6.5.1a Band 6).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.1 „Kammer“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Zonen eingehalten
 
@@ -288,6 +371,10 @@ Konsistent mit Konzept B7-8.1, kalte Kammer: Zonen, trocken, dunkel, gelüftet, 
 1. Knochen/Haut/Leimreste im **Wasserbad 2–4 h** erhitzen — **nie sieden** (brennt an, verliert Kraft).
 2. Durchseihen, in Form gießen.
 3. Haltbarkeit **~1 Woche** — frisch ansetzen.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.2 „Selbst gemachter Leim“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Nie sieden
 - [ ] Haltbarkeit ~1 Wo beachtet
@@ -306,6 +393,10 @@ Konsistent mit Konzept B7-8.1, kalte Kammer: Zonen, trocken, dunkel, gelüftet, 
 2. Werkzeuge ölen (siehe Konzept B1-6.1).
 3. Ölige Lappen nach warn-9b behandeln.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.3 „Riemen / Fett / Öl“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Lappen ausgebreitet getrocknet oder im Metallbehälter mit Wasser
 - [ ] Nie Öl in Wassereimer
 
@@ -316,6 +407,9 @@ Konsistent mit Konzept B7-8.1, kalte Kammer: Zonen, trocken, dunkel, gelüftet, 
 ---
 
 ## Kapitel 8 — Werkzeug-Kiste
+
+**Ziel des Kapitels:** Ziel: Die Werkzeug-Kiste (3 Schichten, ≤ ¼ Körpergewicht, mit Thermometer) packen und die Feld-Werkstatt einrichten.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Leinöl härtet durch Oxidation (Autooxidation) — dabei entsteht Wärme; zerknüllt im Lappen/Eimer staut sie sich → Selbstentzündung (warn-9b, W30). Nie Öl in Wassereimer (Dampfexplosion). Lederriemen mit Fett (B7-7.1) pflegen.
@@ -330,6 +424,10 @@ Konsistent mit Traglast (W20, siehe Konzept B1-6.5): **≤ ¼ Körpergewicht**.
 | 1 (unten, schwer) | Hammer, Stemmeisen, Säge |
 | 2 (Mitte) | Messer, Hobel, Bohrer, Zange |
 | 3 (oben, leicht) | Nägel, Schrauben, Seil, Schleifstein, **Fleischthermometer** (Kerntemperatur ≥ 71 °C, siehe B6-9.1/B7-3.2) |
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.1 „Die Kiste (3 Schichten, ≤ ¼ Körpergewicht)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] ≤ ¼ Körpergewicht gewogen (siehe Konzept B1-6.5)
 - [ ] Drei Schichten gepackt
@@ -351,6 +449,9 @@ Konsistent mit Traglast (W20, siehe Konzept B1-6.5): **≤ ¼ Körpergewicht**.
 ---
 
 ## Kapitel 9 — Weitergabe
+
+**Ziel des Kapitels:** Ziel: Wissen weitergeben (dreifach gesichert) und Lehrlinge anhand der 4 Proben prüfen.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Die Feld-Werkstatt ist der feste Arbeitsplatz vor Ort (überdacht B4-3.2, guter Stand, Licht — Restlicht-1-h B4-9.2); improvisierte Unterlagen (Stein als Amboss, Keile als Schraubstock).
@@ -359,6 +460,10 @@ Konsistent mit Traglast (W20, siehe Konzept B1-6.5): **≤ ¼ Körpergewicht**.
 ### 9.1 Weitergabe am Werkstück (dreifach gesichert) — grün · P 7 · M unbedenklich · V 9
 
 1. **Zeigen**, 2. **Tun lassen** (unter Aufsicht), 3. **Zeile ziehen** (Kontrolle/Schnittprobe).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.1 „Weitergabe am Werkstück (dreifach gesichert)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Drei Stufen durchlaufen
 
@@ -371,6 +476,10 @@ Konsistent mit Traglast (W20, siehe Konzept B1-6.5): **≤ ¼ Körpergewicht**.
 ### 9.2 Lehrling (4 Proben: Hand/Ordnung/Geduld/Wahrheit) — grün · P 7 · M unbedenklich · V 9
 
 1. **Hand:** sauber arbeiten. 2. **Ordnung:** Werkzeug zurück (siehe Konzept 6.1). 3. **Geduld:** Übestück-Prinzip (siehe Konzept 1.3). 4. **Wahrheit:** Fehler melden, nicht vertuschen.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.2 „Lehrling (4 Proben: Hand/Ordnung/Geduld/Wahrheit)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Vier Proben bestanden
 
@@ -399,7 +508,24 @@ Konsistent mit Traglast (W20, siehe Konzept B1-6.5): **≤ ¼ Körpergewicht**.
 
 ## Anhang C — Übungsplan (Band 9)
 
-Q4 siehe Konzept B1-8.1: Knoten (5.2), Schliff/Wetzen (4.1/4.2), Feuerschweißen (2.4, V = 6 → Übungspflicht), Fällkerbe am Übestück (3.1). Verfalluhr 12 Monate (siehe Konzept B1-8.2).
+**Übungsablauf (verbindlich für jede Übung in diesem Band):**
+
+1. **Vorbereitung (10 min):** Material und Protokollbogen (Anhang A4 / B1-8.2) bereitlegen; Warnrahmen des Konzepts durchlesen; bei Outdoor-Übung Wetter prüfen (B1-4.4).
+2. **Durchführung:** die nummerierten Schritte des Konzepts exakt in der dortigen Reihenfolge ausführen — keine Abkürzungen.
+3. **Wiederholungen:** jede Übung mindestens 3× hintereinander; Konzepte mit V < 6 mindestens 5× (z. B. in diesem Band siehe Liste unten).
+4. **Zeitansatz:** 45–90 min pro Übungseinheit, maximal 2 Einheiten pro Tag — Ermüdung verfälscht das Ergebnis.
+5. **Beobachten (Erfolgskontrolle):** das messbare Kriterium der Übung notieren (Zeit, Maß, Trefferquote, Temperatur) — ohne Messung ist die Übung nicht bestanden.
+6. **Abbruchkriterien:** Abbruch sofort bei Verletzung, Wetterumschwung, Materialbruch, Schmerzen (z. B. Augen beim Schweißen) oder wenn nach 3 Durchgängen kein Fortschritt erkennbar ist. Abbruch dokumentieren — nicht schönreden.
+7. **Protokoll (B1-8.2):** Datum, Konzept-Nr., Wiederholungen, Zeitansatz, Beobachtung/Erfolgskontrolle, V-Bewertung, Verfalldatum (Datum + 12 Monate).
+
+**Band-spezifische Übungen (Vorrang, mit Erfolgskontrolle):**
+
+- Schliff/Wetzen (4.1/4.2): 5×, Erfolg: konstanter Winkel, Papier sauber durchtrennt
+- Feuerschweißen (2.4, V = 6 → 5 Wdh.): Erfolg: Schweißnaht hält Zugprobe; Abbruch sofort bei Augenschmerz (UV) oder Nässe (Stromschlaggefahr)
+- Fällkerbe am Übungsstamm (3.1): 3×, Erfolg: untere Kerbe 1/3, Fluchtweg 45° markiert (nie am lebenden Baum ohne Genehmigung!)
+- Knoten am Seil (5.2): 5×, Erfolg: Knoten nach Belastung nachgezogen, lastendes Seil nie durchschnitten
+
+Verfalluhr: 12 Monate ohne Wiederholung = Fähigkeit verfallen (siehe B1-8.2).
 
 ---
 

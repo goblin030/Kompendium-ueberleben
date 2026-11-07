@@ -47,6 +47,7 @@ Diese 15 Warngrafiken gelten reihenweit; in diesem Band sind die fett markierten
 #pagebreak(weak: true)
 #pagebreak(weak: true)
 == Kapitel 1 — Ethik des Vorrats <kap-1>
+_Ziel des Kapitels:_ Ziel: Die Ethik des Vorrats (drei Kreise, Fahrplan) verstehen — Vorrat puffert, Horten schadet.
 #subhead[Kapitel-Übersicht]
 #table(
   columns: 7,
@@ -56,10 +57,10 @@ Diese 15 Warngrafiken gelten reihenweit; in diesem Band sind die fett markierten
   [1.2], [Die drei Kreise], [9], [unbedenklich], [9], [grün], [–],
   [1.3], [Vorrats-Fahrplan (sechs Stationen)], [9], [unbedenklich], [9], [grün], [–],
 )
-#pagebreak(weak: true)
 === 1.1 Grenze des Vorrats <k-1-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 10]
 Vorrat dient dem Überleben der Gruppe, nicht dem Horten. Tausch vor Behalten (siehe Konzept B10-2.3).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.1 „Grenze des Vorrats“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Vorratsziel nach Bedarf (siehe Konzept 9.1), nicht nach Angst
 _Querverweise:_ siehe Konzept 9.1, siehe Konzept B10-2.3. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Vorrat puffert Ausfälle (Ernte, Jagd, Transport) und Krisen; die Grenze ist ethisch: Horten schadet der Gruppe — Tausch vor Behalten (B10-2.3).
@@ -100,6 +101,7 @@ _Querverweise:_ siehe Konzept 9.1, siehe Konzept B10-2.3. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -217,7 +219,6 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 1.2 Die drei Kreise <k-1-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9]
 #table(
@@ -384,10 +385,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 1.3 Vorrats-Fahrplan (sechs Stationen) <k-1-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9]
 + Erfassen → 2. Sortieren → 3. Konservieren (Kapitel 3–7) → 4. Lagern (Kapitel 8) → 5. Kontrollieren (siehe Konzept 8.2) → 6. Rotieren.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.3 „Vorrats-Fahrplan (sechs Stationen)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Sechs Stationen im Plan
 _Querverweise:_ siehe Konzept 8.1, siehe Konzept 8.2.
 #subhead[Ablauf mit Kontrollkästchen]
@@ -436,6 +437,7 @@ _Querverweise:_ siehe Konzept 8.1, siehe Konzept 8.2.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -555,6 +557,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 2 — Ordnung der Haltbarkeit <kap-2>
+_Ziel des Kapitels:_ Ziel: Die fünf Feinde des Vorrats und die sechs Konservierungswege mit Haltbarkeiten kennen und zuordnen können.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Der Fahrplan strukturiert das Anlegen: erfassen → sortieren → konservieren → lagern → kontrollieren → rotieren. Ohne Plan bleiben Lücken (z. B. kein Salz, keine Kammer).
 - _Situationsvarianten (wann welche):_ Jede Ernte/Jagd (B6) durchläuft den Fahrplan. Stadt: Einkäufe rationieren.
@@ -568,7 +571,6 @@ _Erklärung:_
   [2.2], [Die sechs Wege (Haltbarkeits-Tafeln)], [9], [unbedenklich], [9], [grün], [Abb. 7.1],
   [2.3], [Getreide], [9], [unbedenklich], [8], [grün], [–],
 )
-#pagebreak(weak: true)
 === 2.1 Die fünf Feinde <k-2-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9]
 _Wasser, Wärme, Luft, Licht, Gäste_ — gegen jeden ein Mittel (Kapitel 3–8). _Erklärung:_
@@ -727,10 +729,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 2.2 Die sechs Wege (Haltbarkeits-Tafeln) <k-2-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 7.1]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-1.svg", width: 100%), caption: [Abb. 7.1 — Die sechs Wege der Haltbarkeit (Tafeln nach USDA): Konzept 2.2.])]]
 Trocknen, Räuchern, Salzen/Pökeln, Säuern/Einlegen, Einkochen, Kühlen — Tafeln gegen USDA abgeglichen.
 #table(
@@ -901,7 +901,6 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 2.3 Getreide <k-2-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 8]
 _Ganzkorn hält am längsten_ — Mahlen verkürzt die Haltbarkeit (Keimling/Schalenanteile). Luftdicht, trocken, dunkel, kühl lagern (siehe Konzept 8.1).
@@ -1061,6 +1060,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 3 — Dörren <kap-3>
+_Ziel des Kapitels:_ Ziel: Sicher dörren (Preheat 71 °C, Brechprobe, warn-7a) — halbtrocken ist die tödliche Falle.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Ganzkorn hält sich am längsten, weil Keimling und Schale das Innere schützen; Mahlen legt Nährstoffe frei — dann schnell verbrauchen oder kühlen. Luftdicht + dunkel + trocken + kühl lagern (8.1).
 - _Situationsvarianten (wann welche):_ Mehl: bald verbrauchen (Wochen). Ganzkorn: Monate–Jahre. Mykotoxin-Regel: schimmliges Korn ganz weg (8.2).
@@ -1073,10 +1073,10 @@ _Erklärung:_
   [3.1], [Trocken-Halle], [8], [unbedenklich], [9], [grün], [–],
   [3.2], [Dörrware], [9], [unbedenklich], [9], [grün], [Abb. 7.2],
 )
-#pagebreak(weak: true)
 === 3.1 Trocken-Halle <k-3-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9]
 _Wind trocknet, nicht Hitze._ Hallen mit Durchzug, Ware dünn und luftig aufhängen/legen.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.1 „Trocken-Halle“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Durchzug vorhanden
 - [ ] Ware nicht gehäuft
 _Querverweise:_ siehe Konzept 3.2. _Erklärung:_
@@ -1119,6 +1119,7 @@ _Querverweise:_ siehe Konzept 3.2. _Erklärung:_
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Wind trocknet, nicht Hitze.], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -1236,13 +1237,12 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 3.2 Dörrware <k-3-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün + _WARNRAHMEN [warn-7a]_ · P 9 · M unbedenklich · V 9 · Abb. 7.2]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-2.svg", width: 100%), caption: [Abb. 7.2 — Dörrware-Reduktion: Fleisch 3:1, Fisch 4:1, Obst 5:1, Kraut 10:1 – Preheat 71 °C, Brechprobe (Konzept 3.2, warn-7a).])]]
 #warnrahmen(id: "warn-7a", title: [HALBTROCKENE DÖRRFALLE (verschärft):])[_USDA-Preheat: Fleisch und Fisch vor dem Dörren auf 71 °C Kerntemperatur erhitzen_ (Trocknen allein tötet Keime nicht sicher; Kern messen mit Thermometer, siehe B8-8.1/B9-8.1, Ersatzkriterien siehe B6-9.1). Halbtrocken bedeutet: die Ware _biegt sich noch, statt spröde zu brechen_ (Wasseraktivität aw \> 0,85) — darauf wachsen S. aureus (Enterotoxin hitzestabil) und C. perfringens. Dörrware muss _spröde brechen (Brechprobe)_, Scheiben _fingerdünn_. _Schimmel auf Dörrware → ganz wegwerfen_ (Mykotoxine penetrieren, siehe Konzept 8.2).]
 Reduktionsverhältnisse : Fleisch 3:1, Fisch 4:1, Obst 5:1, Kraut 10:1.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.2 „Dörrware“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Preheat 71 °C Kern vor dem Dörren
 - [ ] Brechprobe bestanden
 - [ ] Fingerdünn geschnitten
@@ -1296,6 +1296,7 @@ _Querverweise:_ siehe Konzept 8.2, siehe Konzept 3.1, siehe Konzept 6.2k (Kern-T
   [spröde brechen (Brechprobe)], [siehe Glossar, Anhang D Band 1],
   [fingerdünn], [siehe Glossar, Anhang D Band 1],
   [Schimmel auf Dörrware → ganz wegwerfen], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -1416,6 +1417,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 4 — Räuchern <kap-4>
+_Ziel des Kapitels:_ Ziel: Räuchern beherrschen (Kalt-/Warmgang, Holzarten) und das Botulismus-Risiko kaltgeräucherten Fischs kennen.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Dörren bei zu hoher Temperatur oder zu dicker Schicht macht außen trocken, innen feucht (aw \> 0,85 = „biegt sich noch“) — dort wachsen S. aureus/C. perfringens. USDA-Preheat: Fleisch/Fisch vor dem Dörren auf 71 °C Kern (Thermometer B8-8.1/B9-8.1; Ersatzkriterien B6-9.1). Brechprobe: Dörrware bricht spröde. Schimmel → ganz wegwerfen (Mykotoxine penetrieren) (warn-7a).
 - _Situationsvarianten (wann welche):_ Fleisch/Fisch: Preheat 71 °C, fingerdünn, 50–60 °C Luftstrom. Obst: 5:1. Kraut: 10:1.
@@ -1429,13 +1431,12 @@ _Erklärung:_
   [4.2], [Holz & Rauch], [7], [unbedenklich], [9], [grün], [Abb. 7.4],
   [4.3], [Wurst], [7], [unbedenklich], [7], [grün], [–],
 )
-#pagebreak(weak: true)
 === 4.1 Räucher-Ofen (Kalt-/Warmgang) <k-4-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 7.3]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-3.svg", width: 100%), caption: [Abb. 7.3 — Räucher-Ofen: Kaltgang (\< 30 °C) und Warmgang (60–80 °C) – kaltgeräucherter Fisch allein nicht haltbar (Konzept 4.1, Botulismus Typ E).])]]
 + Warmgang: 60–80 °C, Kern durchgaren (siehe Konzept 4.3).
 + Kaltgang: \< 30 °C — _kaltgeräucherter Fisch allein ist nicht haltbar_ (Botulismus Typ E, siehe Konzept 6.2k `warn-7b`): zusätzlich salzen/pökeln (siehe Konzept 5.2) oder sofort verbrauchen.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.1 „Räucher-Ofen (Kalt-/Warmgang)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Warmgang: Kern durchgegart
 - [ ] Kaltgeräuchertes zusätzlich gesalzen oder sofort verbraucht
 _Querverweise:_ siehe Konzept 6.2k (`warn-7b`), siehe Konzept 5.2, siehe Konzept 4.3. _Erklärung:_
@@ -1500,6 +1501,7 @@ _Querverweise:_ siehe Konzept 6.2k (`warn-7b`), siehe Konzept 5.2, siehe Konzept
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -1617,12 +1619,11 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 4.2 Holz & Rauch <k-4-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 9 · Abb. 7.4]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-4.svg", width: 100%), caption: [Abb. 7.4 — Räucherholz: Hartholz ja – Nadelholz verboten (Terpentin), Torf nur gemischt (Konzept 4.2).])]]
 _Nadelholz-Verbot_ (Terpentin, harzig, ungenießbarer Rauch). Torf nur gemischt (siehe Konzept B3-7.2). Hartholz (Buche, Eiche) bevorzugen.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.2 „Holz & Rauch“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Kein Nadelholz
 - [ ] Hartholz bevorzugt
 _Querverweise:_ siehe Konzept B3-2.2, siehe Konzept B3-7.2. _Erklärung:_
@@ -1665,6 +1666,7 @@ _Querverweise:_ siehe Konzept B3-2.2, siehe Konzept B3-7.2. _Erklärung:_
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Nadelholz-Verbot], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -1782,10 +1784,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 4.3 Wurst <k-4-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 7]
 _Kern durchgaren_ (Brühwurst: ≥ 71 °C Kern). Rohwurst-Haltbarkeit nur über _Salz + pH_ (siehe Konzept 5.2/6.1) — ohne Messung konservativ behandeln.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.3 „Wurst“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Kern ≥ 71 °C bei Brühwurst
 _Querverweise:_ siehe Konzept 5.2, siehe Konzept 6.1, siehe Konzept 6.2k.
 #subhead[Material & Maß (aus diesem Konzept)]
@@ -1832,6 +1834,7 @@ _Querverweise:_ siehe Konzept 5.2, siehe Konzept 6.1, siehe Konzept 6.2k.
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Kern durchgaren], [siehe Glossar, Anhang D Band 1],
   [Salz + pH], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -1951,6 +1954,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 5 — Salzen & Pökeln <kap-5>
+_Ziel des Kapitels:_ Ziel: Salzen und Pökeln mit Herkunftsprüfung (warn-7c) und Lake-Ei-Test sicher dosieren.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Wurst wird durch Salzen + Räuchern + Trocknen haltbar; Brühwurst muss auf ≥ 71 °C Kern erhitzt werden (Keime). Rohwurst-Haltbarkeit nur über Salz + pH (messen, siehe 6.2k).
 - _Situationsvarianten (wann welche):_ Frischwurst sofort essen. Rohwurst (Salami-artig): nur mit Rezeptur (Salz, pH, Reife).
@@ -1963,10 +1967,10 @@ _Erklärung:_
   [5.1], [Das Salz], [7], [prüfenswert], [8], [gelb], [–],
   [5.2], [Pökeln (Lake-Ei-Test)], [9], [unbedenklich], [9], [grün], [Abb. 7.5],
 )
-#pagebreak(weak: true)
 === 5.1 Das Salz <k-5-1>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb + WARNRAHMEN [warn-7c]_ · P 7 · M prüfenswert · V 8]
 #warnrahmen(id: "warn-7c", title: [UNBEKANNTES SALZ :])[_Streusalz und Regeneriersalz nie in die Küche_ — Ferrocyanid-Rieselhilfe und Verunreinigungen. Nur Salz _bekannter Herkunft_ (Meersalz, Siedesalz, Steinsalz aus kontrollierter Quelle). Herkunft prüfen, bevor du salzt.]
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.1 „Das Salz“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Herkunft des Salzes bekannt
 - [ ] Kein Streusalz/Regeneriersalz in Lebensmitteln (siehe auch Konzept B2-3.7, Tausalz-Schnee)
 #baustein[Salz aus der Winterstreuung ist für die Straße, nicht für den Topf.]
@@ -2010,6 +2014,7 @@ _Querverweise:_ siehe Konzept B2-3.7, siehe Konzept 5.2. _Erklärung:_
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [bekannter Herkunft], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -2128,15 +2133,14 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 5.2 Pökeln (Lake-Ei-Test) <k-5-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 7.5]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-5.svg", width: 100%), caption: [Abb. 7.5 — Pökeln: Lake-Ei-Test (rohes Ei schwimmt = genug Salz) – Speck 7–10 Tage, Schinken \~1 Tag/cm + 2 Tage (Konzept 5.2).])]]
 Werte : _Lake-Ei-Test_ — ein _frisches rohes Ei_ (legt in Süßwasser auf den Grund) _schwimmt in der fertigen Lake_ (Salzgehalt ausreichend). Speck _7–10 Tage_, Schinken _\~1 Tag je cm Dicke + 2 Tage_ (konservativer als USDA).
 + Lake ansetzen: Salzgehalt prüfen (Ei-Test).
 + Fleisch einlegen, kühl stellen (siehe Konzept 8.1).
 + Zeiten einhalten; danach wässern und trocknen/räuchern.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.2 „Pökeln (Lake-Ei-Test)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Ei-Test bestanden
 - [ ] Zeiten eingehalten (Speck 7–10 T; Schinken 1 T/cm + 2 T)
 _Querverweise:_ siehe Konzept 5.1 (`warn-7c`), siehe Konzept 8.1, siehe Konzept 4.1.
@@ -2208,6 +2212,7 @@ _Querverweise:_ siehe Konzept 5.1 (`warn-7c`), siehe Konzept 8.1, siehe Konzept 
   [schwimmt in der fertigen Lake], [siehe Glossar, Anhang D Band 1],
   [7–10 Tage], [siehe Glossar, Anhang D Band 1],
   [\~1 Tag je cm Dicke + 2 Tage], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -2327,6 +2332,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 6 — Säuern, Einlegen & Einkochen <kap-6>
+_Ziel des Kapitels:_ Ziel: Säuern/Einlegen und Einkochen sicher beherrschen — Einkochen low-acid nur im Druckkocher (6.2k, warn-7b, korrigiert).
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Pökeln hemmt Keime durch Wasserentzug (Salz senkt aw) und Nitrit (Umrötung, antimikrobiell). Lake-Ei-Test: frisches rohes Ei sinkt in Süßwasser, schwimmt in fertiger Lake (Salzgehalt ausreichend). Zeiten: Speck 7–10 d, Schinken \~1 d/cm + 2 d.
 - _Situationsvarianten (wann welche):_ Kühl pökeln (8.1). Danach wässern, trocknen, räuchern (4.1).
@@ -2340,14 +2346,13 @@ _Erklärung:_
   [6.2k], [Einkochen, Öl & Essig], [7], [prüfenswert], [8], [grün], [Abb. 7.7],
   [6.3], [Essig selbst gebraut], [8], [unbedenklich], [8], [grün], [–],
 )
-#pagebreak(weak: true)
 === 6.1 Kraut-Fass (Milchsäure/Lake) <k-6-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 7.6]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-6.svg", width: 100%), caption: [Abb. 7.6 — Kraut-Fass: Kraut einsalzen, Lake auffüllen, Gärrohr – Milchsäure konserviert (Konzept 6.1).])]]
 + Kraut hobeln, salzen (siehe Konzept 5.1), stampfen bis Lake austritt.
 + Luftdicht ins Fass drücken, beschweren (Stein), Deckel mit Wasserbund.
 + Milchsäuregärung bei 15–20 °C, 2–4 Wochen.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.1 „Kraut-Fass (Milchsäure/Lake)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Luftdicht vergoren
 - [ ] 2–4 Wochen gereift
 _Querverweise:_ siehe Konzept 5.1, siehe Konzept 8.1. _Erklärung:_
@@ -2415,6 +2420,7 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept 8.1. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -2532,11 +2538,9 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 6.2k Einkochen, Öl & Essig <k-6-2k>
 #konzmeta(fill: rgb("#1a6b1a"))[_\*_ · grün + _WARNRAHMEN [warn-7b]_\* · P 7 · M prüfenswert · V 8 · Abb. 7.7]
-#pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-7.svg", width: 100%), caption: [Abb. 7.7 — Einkochen korrigiert : pH messen – Wasserbad nur pH ≤ 4,6, low-acid nur Druckkocher 116–121 °C (Konzept 6.2k, NCHFP).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-7.svg", width: 100%), caption: [Abb. 7.7 — Einkochen korrigiert (warn-7b): pH messen – Wasserbad nur pH ≤ 4,6, low-acid nur Druckkocher 116–121 °C (Konzept 6.2k, NCHFP).])]]
 #warnrahmen(id: "warn-7b", title: [BOTULISMUS :])[Sporen von _C. botulinum_ überleben stundenlanges Kochen; Wasserbad (max. 100 °C) tötet sie _nicht_. Low-acid food braucht den _Druckkocher 116–121 °C_. _Gewölbte Deckel, Schwall beim Öffnen, Fremdgeruch, Schimmel → Glas ungeöffnet wegwerfen — nie probieren, nicht an Tiere verfüttern_ (Vorkochen macht ein sporibelastetes Glas nicht sicher).]
 > „Einkochen von Fleisch, Geflügel, Fisch und Gemüse (pH \> 4,6) gelingt nur im _Druckkocher bei 116–121 °C_ (10 psi bis 300 m, darüber 15 psi) mit den Zeiten nach USDA/NCHFP (z. B. Fleisch: Pintsglas 75 min, Quartglas 90 min bei 10 psi). Ein Wasserbad (max. 100 °C) tötet die Sporen von _C. botulinum_ nicht — es ist nur für Obst und sauer Eingelegtes (pH ≤ 4,6, gemessen) zulässig. pH mit Indikatorpapier messen; ohne Messung konservativ Druckkocher wählen. Kräuter/Knoblauch in Öl nur mit Säuerung auf pH \< 4,6 oder vollständig getrocknet, kühl lagern, innerhalb weniger Tage verbrauchen. Gewölbte Deckel, Schwall oder Fremdgeruch: Glas ungeöffnet wegwerfen — nie probieren.“
 _Umrechnung:_ 1 psi ≈ 0,069 bar → _10 psi ≈ 0,7 bar_ (bis 300 m Höhe), _15 psi ≈ 1,0 bar_ (über 300 m). US-Pintsglas ≈ _0,5 l_, US-Quartglas ≈ _1 l_.
@@ -2560,6 +2564,7 @@ Umsetzung als Schritte:
 + Öl-Einlagen (Kräuter, Knoblauch, Chili): nur _gesäuert auf pH \< 4,6_ (Citronensäure) oder _vollständig getrocknete_ Zutaten; kühl lagern; _Frist in Tagen_, nicht monatelang haltbar.
 + Kaltgeräucherter Fisch: allein nicht haltbar (Typ E) — siehe Konzept 4.1.
 + Gläser kontrollieren: gewölbter Deckel/Schwall/Fremdgeruch/Schimmel → _ungeöffnet wegwerfen_.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.2k „Einkochen, Öl & Essig“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] pH gemessen (Indikatorpapier) oder konservativ Druckkocher
 - [ ] Druckkocher 116–121 °C, psi nach Höhenlage, NCHFP-Zeiten
 - [ ] Wasserbad nur pH ≤ 4,6
@@ -2676,6 +2681,7 @@ _Querverweise:_ siehe Konzept 4.1 (Räucherfisch), siehe Konzept 6.1, siehe Konz
   [1 l], [siehe Glossar, Anhang D Band 1],
   [mindestens 55 min], [siehe Glossar, Anhang D Band 1],
   [Über 300 m Höhe (15 psi ≈ 1,0 bar):], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -2794,12 +2800,12 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 6.3 Essig selbst gebraut <k-6-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8]
 + Ansatz: Obst-/Weinreste + Wasser + Zucker, Ansatzgefäß mit Tuch abdecken.
 + 2–4 Wochen stehen lassen, täglich umrühren.
 + Abseihen, in Flaschen füllen — pH messen (siehe Konzept 6.2k, Ziel \< 4,6 für Einlagen).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.3 „Essig selbst gebraut“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] pH des fertigen Essigs gemessen (\< 4,6)
 _Querverweise:_ siehe Konzept 6.2k.
 #subhead[Ablauf mit Kontrollkästchen]
@@ -2856,6 +2862,7 @@ _Querverweise:_ siehe Konzept 6.2k.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -2975,6 +2982,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 7 — Fett, Seife & Leder <kap-7>
+_Ziel des Kapitels:_ Ziel: Aus Resten Fett, Seife und Leder gewinnen (Verseifung, Gerbung).
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Essig (Essigsäuregärung aus Alkohol) konserviert durch pH \< 4,6; selbst gebraut: Obst-/Weinreste + Wasser + Zucker, 2–4 Wochen, dann abseihen. Fertigen pH messen (Indikatorpapier) — Ziel \< 4,6 für Einlagen (siehe 6.2k).
 - _Situationsvarianten (wann welche):_ Ansatzgefäß mit Tuch abdecken (Essigfliegen meiden), täglich umrühren.
@@ -2988,14 +2996,13 @@ _Erklärung:_
   [7.2], [Seife aus Resten], [6], [unbedenklich], [8], [grün], [Abb. 7.9],
   [7.3], [Gerben (Lohe/Eichenrinde)], [7], [unbedenklich], [7], [grün], [–],
 )
-#pagebreak(weak: true)
 === 7.1 Schmalz & Talg <k-7-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 7.8]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-8.svg", width: 100%), caption: [Abb. 7.8 — Schmalz & Talg: Fett auslassen, sieben, kühl stellen – Ranz-Warnung (Konzept 7.1).])]]
 + Fett schmelzen bei niedriger Hitze, durchseihen.
 + In Gläser füllen, luftdicht, kühl und dunkel lagern (siehe Konzept 8.1).
 + _Ranz-Warnung:_ streng riechendes Fett wegwerfen.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.1 „Schmalz & Talg“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Luftdicht, kühl, dunkel
 - [ ] Ranz-Geruch → wegwerfen
 _Querverweise:_ siehe Konzept 8.1, siehe Konzept 8.2. _Erklärung:_
@@ -3056,6 +3063,7 @@ _Querverweise:_ siehe Konzept 8.1, siehe Konzept 8.2. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -3173,15 +3181,14 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 7.2 Seife aus Resten <k-7-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 6 · M unbedenklich · V 8 · Abb. 7.9]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-9.svg", width: 100%), caption: [Abb. 7.9 — Seife aus Resten: 1 Pfund Fett → 1 Pfund Seife, Lauge 0,5 l/Pfund, Reife 4–6 Wochen (Konzept 7.2).])]]
 Werte : _\~1 Pfund (= 500 g) Fett → \~500 g Seife_; Lauge _0,5 l pro Pfund (500 g) Fett_; _Reife 4–6 Wochen_.
 + Lauge aus Asche herstellen (siehe B3-8.2: 2 Hände Asche/10 l Wasser).
 + Fett erhitzen, Lauge zugeben, rühren bis _„Spur ziehen“_ — die Masse hinterlässt auf dem Löffel eine sichtbare dickflüssige Bahn.
 + In Form gießen, 4–6 Wochen reifen lassen.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.2 „Seife aus Resten“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Verhältnis 1:1, Lauge 0,5 l/Pfund
 - [ ] Reife 4–6 Wochen
 #baustein[Seife braucht sechs Wochen Geduld und kein Parfüm.]
@@ -3254,6 +3261,7 @@ _Querverweise:_ siehe Konzept B3-8.2, siehe Konzept 8.1. _Erklärung:_
   [\~1 Pfund (= 500 g) Fett → \~500 g Seife], [siehe Glossar, Anhang D Band 1],
   [0,5 l pro Pfund (500 g) Fett], [siehe Glossar, Anhang D Band 1],
   [Reife 4–6 Wochen], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -3372,13 +3380,13 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 7.3 Gerben (Lohe/Eichenrinde) <k-7-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 7]
 + Fell häuten, salzen (siehe Konzept 5.2), trocknen.
 + Lohbrühe aus Eichenrinde/Kastanienschalen kochen.
 + Fell 1–2 Wochen in der Brühe bewegen.
 + _Schnittprobe: braun = durchgegerbt._ Dann fetten (siehe Konzept 7.1) und weichklopfen.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.3 „Gerben (Lohe/Eichenrinde)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Schnittprobe braun
 _Querverweise:_ siehe Konzept B6-9.3, siehe Konzept 7.1, siehe Konzept B9-7.3, Lederpflege/Fett.
 #subhead[Ablauf mit Kontrollkästchen]
@@ -3439,6 +3447,7 @@ _Querverweise:_ siehe Konzept B6-9.3, siehe Konzept 7.1, siehe Konzept B9-7.3, L
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -3558,6 +3567,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 8 — Die Kammer <kap-8>
+_Ziel des Kapitels:_ Ziel: Die Kammer in Zonen organisieren (Land: Erdkeller; Stadt: Treppenhaus) und Verderb richtig entscheiden (Mykotoxine).
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Gerben macht Haut haltbar: Lohgerbung (Eichenrinde/Tannine) vernetzt die Kollagenfasern — das Leder fault nicht mehr. Schnittprobe: durchgegerbt = innen braun. Danach fetten (7.1) und weichklopfen.
 - _Situationsvarianten (wann welche):_ Fell erst salzen (5.2) und trocknen, dann 1–2 Wochen in der Lohbrühe bewegen.
@@ -3570,10 +3580,8 @@ _Erklärung:_
   [8.1], [Die kalte Kammer (Zonen)], [9], [unbedenklich], [9], [grün], [Abb. 7.10],
   [8.2], [Gäste & Verderb-Atlas], [8], [unbedenklich], [9], [grün], [Abb. 7.11],
 )
-#pagebreak(weak: true)
 === 8.1 Die kalte Kammer (Zonen) <k-8-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 7.10]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-10.svg", width: 100%), caption: [Abb. 7.10 — Die kalte Kammer: Zonen kühl (0–8 °C), trocken, dunkel, luftig – Abstände zum Feuer wie B3 (Konzept 8.1).])]]
 Zonen konsistent mit Feuer-Abständen Band 3 (siehe Konzept B3-1.2).
 #table(
@@ -3585,6 +3593,7 @@ Zonen konsistent mit Feuer-Abständen Band 3 (siehe Konzept B3-1.2).
   [Warme Zone (nicht beheizt)], [Obst, Gemüse, Brot], [Keller-Temperatur],
 )
 _Stadt / Land:_ Land = erdberührter Keller/Grube. _Stadt (Wohnung):_ kühlster Schrank oder Abstellraum am Treppenhaus, _nie über der Heizung_, nie in der Sonne; Temperatur mit Thermometer prüfen (Ziel \< 10 °C in der Kühlzone, siehe B8-8.1); bei Stromausfall in der Wohnung bleibt der Treppenhaus-Schrank der kühlste Ort.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.1 „Die kalte Kammer (Zonen)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Zonen klar getrennt
 - [ ] Temperatur regelmäßig geprüft (siehe Konzept B1-7.4)
 _Querverweise:_ siehe Konzept B3-1.2, siehe Konzept 8.2. _Erklärung:_
@@ -3636,6 +3645,7 @@ _Querverweise:_ siehe Konzept B3-1.2, siehe Konzept 8.2. _Erklärung:_
   [Stadt / Land:], [siehe Glossar, Anhang D Band 1],
   [Stadt (Wohnung):], [siehe Glossar, Anhang D Band 1],
   [nie über der Heizung], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -3753,13 +3763,12 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 8.2 Gäste & Verderb-Atlas <k-8-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 7.11]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-11.svg", width: 100%), caption: [Abb. 7.11 — Verderb-Atlas: retten / essen / wegwerfen – verschimmeltes Korn, Brot, Nüsse NIEMALS retten (Mykotoxine penetrieren) (Konzept 8.2).])]]
 Entscheidungstabelle: retten / essen / wegwerfen.
 #kasten([Mykotoxine :])[Verschimmeltes _Korn, Brot und Nüsse nie retten_ — Mykotoxine penetrieren das ganze Stück. Schimmel auf harter Ware (Käse, feste Wurst): Rand großzügig wegschneiden, Rest prüfen. Weichware mit Schimmel: ganz wegwerfen.]
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.2 „Gäste & Verderb-Atlas“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Atlas bekannt
 - [ ] Schimmel-Regel: Korn/Brot/Nüsse ganz weg
 _Querverweise:_ siehe Konzept 3.2 (`warn-7a`), siehe Konzept 2.3.
@@ -3800,6 +3809,7 @@ _Querverweise:_ siehe Konzept 3.2 (`warn-7a`), siehe Konzept 2.3.
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Mykotoxine :], [siehe Glossar, Anhang D Band 1],
   [Korn, Brot und Nüsse nie retten], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -3919,6 +3929,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 9 — Winter-Speicher <kap-9>
+_Ziel des Kapitels:_ Ziel: Den Wintervorrat berechnen (100 Tage + 20–33 %) und Saatgut sicher lagern (nie essen).
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Verderb-Atlas: retten (festes, nur Rand betroffen) / essen (sofort) / wegwerfen. Mykotoxine (Schimmelpilzgifte) penetrieren das ganze Lebensmittel — verschimmeltes Korn/Brot/Nüsse nie retten. Weichware mit Schimmel: ganz weg.
 - _Situationsvarianten (wann welche):_ Harte Ware (Käse, feste Wurst): Rand großzügig (2 cm) wegschneiden, Rest ok. Weich: weg.
@@ -3932,15 +3943,14 @@ _Erklärung:_
   [9.2], [Vorrat & Schwelle], [8], [unbedenklich], [10], [grün], [–],
   [9.3], [Die Saat], [9], [unbedenklich], [9], [grün], [–],
 )
-#pagebreak(weak: true)
 === 9.1 Winter-Rechnung <k-9-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 7.12]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-7-12.svg", width: 100%), caption: [Abb. 7.12 — Winter-Rechnung: 100 stille Tage + 20–33 % Zugabe auf den Tagesbedarf (Konzept 9.1).])]]
 _100 stille Tage + 20–33 % Zugabe._
 + Tage × Personen × Tagesbedarf (siehe Konzept B2-2.1 für Wasser; Kalorien analog) rechnen.
 + 20–33 % Zugabe für Krankheit, Mehrverbrauch, Verluste.
 + Gegen Vorrat rechnen (siehe Konzept B2-8.1).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.1 „Winter-Rechnung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] 100 Tage + Zugabe gerechnet
 _Querverweise:_ siehe Konzept B2-2.1, siehe Konzept 1.2, siehe Konzept 9.2. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Winter-Rechnung: 100 stille Tage + 20–33 % Zugabe (Krankheit, Mehrverbrauch, Verluste). Rechne gegen Vorrat (B2-8.1 Wasser analog).
@@ -4008,6 +4018,7 @@ _Querverweise:_ siehe Konzept B2-2.1, siehe Konzept 1.2, siehe Konzept 9.2. _Erk
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [100 stille Tage + 20–33 % Zugabe.], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -4125,7 +4136,6 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 9.2 Vorrat & Schwelle <k-9-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 10]
 Konsistent mit Konzept B6-9.x (Band 6): Der Fang/Wildertrag geht zuerst in die Schwelle (Tageskreis, siehe Konzept 1.2), dann in den Winter-Speicher.
@@ -4285,11 +4295,11 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 9.3 Die Saat <k-9-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9]
 + Keimprobe (siehe Konzept B5-8.3): _\< 30 von 50 gekeimt (60 %) → neue Saat_.
 + _Nie Saatgut essen_ — auch nicht in der Not.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.3 „Die Saat“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Keimprobe bestanden (≥ 12/20)
 - [ ] Saat getrennt gelagert, nie verzehrt
 _Querverweise:_ siehe Konzept B5-8.3, siehe Konzept 8.1.
@@ -4343,6 +4353,7 @@ _Querverweise:_ siehe Konzept B5-8.3, siehe Konzept 8.1.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -4564,7 +4575,20 @@ Kopiervorlage zu Konzept 6.2k — Datum / Ware / pH gemessen / Gerät (Druckkoch
 )
 #pagebreak(weak: true)
 == Anhang C — Übungsplan (Band 7) <anh-C>
-Dörren mit Preheat + Brechprobe (3.2) üben; Einkochen im Druckkocher mit Protokoll (6.2k, NCHFP-Zeiten) üben; Pökeln mit Ei-Test (5.2); Kammer-Inventur (8.1). Verfalluhr 12 Monate (siehe Konzept B1-8.2).
+_Übungsablauf (verbindlich für jede Übung in diesem Band):_
++ _Vorbereitung (10 min):_ Material und Protokollbogen (Anhang A4 / B1-8.2) bereitlegen; Warnrahmen des Konzepts durchlesen; bei Outdoor-Übung Wetter prüfen (B1-4.4).
++ _Durchführung:_ die nummerierten Schritte des Konzepts exakt in der dortigen Reihenfolge ausführen — keine Abkürzungen.
++ _Wiederholungen:_ jede Übung mindestens 3× hintereinander; Konzepte mit V \< 6 mindestens 5× (z. B. in diesem Band siehe Liste unten).
++ _Zeitansatz:_ 45–90 min pro Übungseinheit, maximal 2 Einheiten pro Tag — Ermüdung verfälscht das Ergebnis.
++ _Beobachten (Erfolgskontrolle):_ das messbare Kriterium der Übung notieren (Zeit, Maß, Trefferquote, Temperatur) — ohne Messung ist die Übung nicht bestanden.
++ _Abbruchkriterien:_ Abbruch sofort bei Verletzung, Wetterumschwung, Materialbruch, Schmerzen (z. B. Augen beim Schweißen) oder wenn nach 3 Durchgängen kein Fortschritt erkennbar ist. Abbruch dokumentieren — nicht schönreden.
++ _Protokoll (B1-8.2):_ Datum, Konzept-Nr., Wiederholungen, Zeitansatz, Beobachtung/Erfolgskontrolle, V-Bewertung, Verfalldatum (Datum + 12 Monate).
+_Band-spezifische Übungen (Vorrang, mit Erfolgskontrolle):_
+- Dörren mit Preheat + Brechprobe (3.2): 1×, Erfolg: 71 °C Kern vor dem Dörren gemessen, Dörrware bricht spröde
+- Einkochen im Druckkocher (6.2k): 1× mit Protokoll (Anhang A3), Erfolg: 116–121 °C, psi nach Höhe, NCHFP-Zeit eingehalten, pH gemessen
+- Pökeln mit Ei-Test (5.2): 1×, Erfolg: frisches Ei schwimmt in Lake, Zeiten eingehalten
+- Kammer-Inventur (8.1): 2×, Erfolg: Zonen kontrolliert, Temperatur \< 10 °C in Kühlzone gemessen
+Verfalluhr: 12 Monate ohne Wiederholung = Fähigkeit verfallen (siehe B1-8.2). Zeiten) üben; Pökeln mit Ei-Test (5.2); Kammer-Inventur (8.1). Verfalluhr 12 Monate (siehe Konzept B1-8.2).
 #pagebreak(weak: true)
 == Bandabschluss Band 7 — Bewertungsmatrix + Devise <abschluss>
 #table(
@@ -4605,9 +4629,9 @@ _Erklärung:_
 == Situative Detail-Skizzen (Review v1) <skizzen-v1>
 Situative Skizzen zu Varianten und Situationen (mit Maßen und Kontext) — ergänzt nach Review v1, Befund 3.
 #grid(columns: (1fr, 1fr), column-gutter: 8pt, row-gutter: 8pt,
-  figure(image("illustrationen/abb-7-13.svg", width: 100%), caption: [Abb. 7.13 — Dörr-Varianten situativ: Dörrschrank / Solar-Dörrer / Räucherofen – Wahl nach Wetter und Menge (Ergänzung zu Abb. 7.2/7.3, Review v1).]),
-  figure(image("illustrationen/abb-7-14.svg", width: 100%), caption: [Abb. 7.14 — Einkochen situativ: pH-Fälle im Detail – Wasserbad nur sauer, low-acid nur Druckkocher (Ergänzung zu Abb. 7.7, warn-7b, Review v1).]),
-  figure(image("illustrationen/abb-7-15.svg", width: 100%), caption: [Abb. 7.15 — Kammer situativ: Grundriss mit Zonen, Tür, Lüftung und Feuer-Abstand (Ergänzung zu Abb. 7.10, Review v1).]))
+  figure(image("illustrationen/abb-7-13.svg", width: 100%), caption: [Abb. 7.13 — Dörr-Varianten situativ: Dörrschrank / Solar-Dörrer / Räucherofen – Wahl nach Wetter und Menge (Ergänzung zu Abb. 7.2/7.3).]),
+  figure(image("illustrationen/abb-7-14.svg", width: 100%), caption: [Abb. 7.14 — Einkochen situativ: pH-Fälle im Detail – Wasserbad nur sauer, low-acid nur Druckkocher (Ergänzung zu Abb. 7.7, warn-7b).]),
+  figure(image("illustrationen/abb-7-15.svg", width: 100%), caption: [Abb. 7.15 — Kammer situativ: Grundriss mit Zonen, Tür, Lüftung und Feuer-Abstand (Ergänzung zu Abb. 7.10).]))
 #pagebreak(weak: true)
 == Gesamt-Checkliste Band 7 <gesamt-checkliste>
 Alle Konzepte dieses Bandes im Überblick — abhaken, wenn geübt/gelesen:
@@ -4684,9 +4708,9 @@ Interne Prüf-IDs aus dem Factcheck (dreifache Prüfung). Sie stehen nicht im Le
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [W25], [2.2], [hen, Kühlen — Tafeln gegen USDA abgeglichen .],
   [W25], [3.2], [Reduktionsverhältnisse : Fleisch 3:1, Fisch 4:1, Obst 5:1, Kraut 10],
-  [WARN 2], [5.1], [\> _WARNRAHMEN (warn-7c) — UNBEKANNTES SALZ (WARN 2, 09 § 4.3):_ \*\*Streusalz und Regeneri],
+  [WARN 2], [5.1], [\> _WARNRAHMEN (warn-7c) — UNBEKANNTES SALZ :_ \*\*Streusalz und Regeneriersalz],
   [W26], [5.2], [Werte : _Lake-Ei-Test_ — ein \*\*frisches rohes Ei],
-  [W13], [6.2k], [\> _WARNRAHMEN (warn-7b) — BOTULISMUS (09 § 2.1):_ Sporen von _C. botulinum_ über],
+  [W13], [6.2k], [\> _WARNRAHMEN (warn-7b) — BOTULISMUS :_ Sporen von _C. botulinum_ über],
   [W27], [7.2], [Werte : _\~1 Pfund (= 500 g) Fett → \~500 g Seife_],
 )
 

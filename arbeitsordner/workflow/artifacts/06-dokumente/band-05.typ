@@ -47,6 +47,7 @@ Diese 15 Warngrafiken gelten reihenweit; in diesem Band sind die fett markierten
 #pagebreak(weak: true)
 #pagebreak(weak: true)
 == Kapitel 1 — Ethik des Sammelns <kap-1>
+_Ziel des Kapitels:_ Ziel: Sammeln so ethisch und rechtlich sauber gestalten, dass Bestand und Gruppe geschützt bleiben (Ein-Drittel-Regel, BNatSchG).
 #subhead[Kapitel-Übersicht]
 #table(
   columns: 7,
@@ -56,11 +57,11 @@ Diese 15 Warngrafiken gelten reihenweit; in diesem Band sind die fett markierten
   [1.2], [Sammelgang (Kreise: 500 m / 2–5 km)], [8], [unbedenklich], [9], [grün], [–],
   [1.3], [Samen-Bank (10 % Streu-Rückgabe)], [8], [unbedenklich], [9], [grün], [–],
 )
-#pagebreak(weak: true)
 === 1.1 Sammel-Ethik <k-1-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 10]
 _Ein-Drittel-Regel_ und _Wurzelrückgabe_: nie mehr als ein Drittel einer Pflanze/Population entnehmen; Wurzeln wieder einsetzen, wo sie weiterwachsen können.
 Rechtliche Ergänzung (BNatSchG): _Handstrauß-Regel_ (§ 39 Abs. 1 Nr. 3 BNatSchG) gilt nur für nicht geschützte Arten und geringen Eigenbedarf; in _Naturschutzgebieten ist Sammeln verboten_ (§ 23 BNatSchG); _geschützte Arten_ (Anlage 1, z. B. Arnika, Enzian, Fingerhut, Eibe, Herbstzeitlose) _meiden_ — Entnahme verboten (§ 44 BNatSchG).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.1 „Sammel-Ethik“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Ein-Drittel-Regel eingehalten
 - [ ] Keine geschützten Arten gesammelt
 - [ ] Kein NSG betreten zum Sammeln
@@ -110,6 +111,7 @@ _Querverweise:_ siehe Konzept 1.2, siehe Konzept 1.3, siehe Konzept 2.2. _Erklä
   [Naturschutzgebieten ist Sammeln verboten], [siehe Glossar, Anhang D Band 1],
   [geschützte Arten], [siehe Glossar, Anhang D Band 1],
   [meiden], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -228,12 +230,12 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 1.2 Sammelgang (Kreise: 500 m / 2–5 km) <k-1-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9]
 + Kreis 1: 500 m um den Lagerplatz — nur mit Erlaubnis des „Hausherrn“ (siehe Konzept B10-5.2).
 + Kreis 2: 2–5 km — Tagesmarsch mit Anlass (Wasser, Spuren, Wetter; siehe Konzepte Band 1 Kapitel 4/5).
 + Trupp-Regel: einer vorn, einer hinten (siehe Konzept B10-5.3).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.2 „Sammelgang (Kreise: 500 m / 2–5 km)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Kreisgrenzen vereinbart
 - [ ] Trupp-Regel eingehalten
 _Querverweise:_ siehe Konzept B10-5.2, siehe Konzept B10-5.3. _Erklärung:_
@@ -254,8 +256,8 @@ _Querverweise:_ siehe Konzept B10-5.2, siehe Konzept B10-5.3. _Erklärung:_
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [500 m], [ten (wann welche):\*\* Kreis 1 (500 m) nur mit Erlaubnis; Krei],
-  [2–5 km], [) nur mit Erlaubnis; Kreis 2 (2–5 km) mit Trupp-Regel (B10-5.],
+  [500 m], [zept 1.2 „Sammelgang (Kreise: 500 m / 2–5 km)“ kein Prüfpunk],
+  [2–5 km], [„Sammelgang (Kreise: 500 m / 2–5 km)“ kein Prüfpunkt vergess],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -302,6 +304,7 @@ _Querverweise:_ siehe Konzept B10-5.2, siehe Konzept B10-5.3. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -419,11 +422,11 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 1.3 Samen-Bank (10 % Streu-Rückgabe) <k-1-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9]
 + Beim Sammeln 10 % der Samen zurückstreuen.
 + Samen trocken lagern, Keimprobe vor Aussaat (siehe Konzept 8.3).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.3 „Samen-Bank (10 % Streu-Rückgabe)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] 10 % zurückgestreut
 - [ ] Keimprobe geplant
 _Querverweise:_ siehe Konzept 8.3.
@@ -440,7 +443,7 @@ _Querverweise:_ siehe Konzept 8.3.
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [10 %], [( ) 10 % zurückgestreut],
+  [10 %], [bei Konzept 1.3 „Samen-Bank (10 % Streu-Rückgabe)“ kein Pr],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -484,6 +487,7 @@ _Querverweise:_ siehe Konzept 8.3.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -603,6 +607,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 2 — Bestimmungskunde <kap-2>
+_Ziel des Kapitels:_ Ziel: Pflanzen sicher bestimmen — fünf Merkmale, Verwechslungs-Paare, Giftpflanzen (warn-5), Winter-Bestimmung.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ 10 % der Samen zurückstreuen sichert die Vermehrung; Saatgut-Trocknung und Keimprobe (8.3) sichern die Aussaat-Qualität.
 - _Situationsvarianten (wann welche):_ Trocken, dunkel, kühl lagern; Keimprobe vor Aussaat (Schwelle 30/50).
@@ -617,15 +622,14 @@ _Erklärung:_
   [2.3], [Gehölze: Saft / Rinde / Harz], [7], [unbedenklich], [8], [grün], [–],
   [2.4], [Winter-Bestimmung (Knospe/Rinde/Stand)], [7], [unbedenklich], [8], [grün], [–],
 )
-#pagebreak(weak: true)
 === 2.1 Merkmale & Familien (5 Merkmale) <k-2-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 5.1]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-1.svg", width: 100%), caption: [Abb. 5.1 — Bestimmung: fünf Merkmale checken – Blatt, Blüte, Stängel, Wurzel, Standort & Geruch (Konzept 2.1).])]]
 Bestimme jede Pflanze über _fünf Merkmale_: Blattstellung, Blattform, Blattrand, Blütenstand, Geruch (beim Zerreiben).
 + Merkmale einzeln notieren (Bestimmungsblatt Anhang A).
 + Familie eingrenzen, dann Art.
 + Ein Merkmal allein genügt nie.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.1 „Merkmale & Familien (5 Merkmale)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Fünf Merkmale notiert
 - [ ] Familie eingegrenzt
 #baustein[Fünf Merkmale, ein Name. Fehlt eines, fehlt die Sicherheit.]
@@ -688,6 +692,7 @@ _Querverweise:_ siehe Konzept 2.2, siehe Anhang A (Bestimmungsblatt). _Erklärun
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [fünf Merkmale], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -806,10 +811,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 2.2 Verwechslungs-Paare & Giftpflanzen <k-2-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün + _WARNRAHMEN [warn-5]_ · P 9 · M unbedenklich · V 8 · Abb. 5.2]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-2.svg", width: 100%), caption: [Abb. 5.2 — Verwechslungs-Paare: Bärlauch vs. Maiglöckchen/Aronstab, Wilde Karotte vs. Schierling – warn-5 (Konzept 2.2).])]]
 #warnrahmen(id: "warn-5", title: [GIFTPFLANZEN (verschärft):])[Tollkirsche, Schierling, Maiglöckchen, Aronstab, Fingerhut, Eisenhut, Hundspetersilie, Rhododendron — _kein Laien-Gegenmittel_. _Herbstzeitlose vs Bärlauch:_ Frühjahrsblätter täuschend ähnlich — Colchicin, tödlich; sicherstes Merkmal: _Knoblauchgeruch beim Zerreiben des Bärlauchs_. _Herkulesstaude (Riesenbärenklau):_ Saft + UV-Licht = phototoxische Verbrennungen 2. Grades — _nicht berühren_. Geschützte Arten sind kein Sammelgut (siehe Konzept 1.1). Giftnotruf: _116 123 (DE) / +353 1 809 2166 (IE) / 112 (EU)_; Reste sichern (siehe Konzept B8-5.2). _„Keine Mahlzeit ohne Namen + zweites Merkmal.“_]
 #table(
@@ -822,6 +825,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [Kresse / Wasserschierling], [Wasserschierling: Sumpfstandort, dreifach gefiedert], [Cicutoxin, tödlich],
   [Heidelbeere / Eibe], [Eibe: rote Arillusbeere um schwarzen Samen], [Taxine, tödlich],
 )
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.2 „Verwechslungs-Paare & Giftpflanzen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Name + zweites Merkmal vor jeder Mahlzeit
 - [ ] Giftpflanzen-Liste bekannt
 #baustein[Keine Mahlzeit ohne Namen und zweites Merkmal. Im Zweifel weglassen.]
@@ -870,6 +874,7 @@ _Querverweise:_ siehe Konzept B8-5.1, Gift erkennen, siehe Konzept B8-3.1, Kräu
   [Herkulesstaude (Riesenbärenklau):], [siehe Glossar, Anhang D Band 1],
   [nicht berühren], [siehe Glossar, Anhang D Band 1],
   [; Reste sichern (siehe Konzept B8-5.2). ], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -988,11 +993,11 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 2.3 Gehölze: Saft / Rinde / Harz <k-2-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 8]
 + _Saft-Fenster: 2–3 Wochen im Frühjahr_ (Ahorn, Birke); _Pflock statt Ring_ — nie rundum ringeln (Baum stirbt).
 + Rinde und Harz als Wundauflage/Kitt (siehe Konzept B8-3.x).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.3 „Gehölze: Saft / Rinde / Harz“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Saft-Fenster beachtet
 - [ ] Pflock statt Ring
 _Querverweise:_ siehe Konzept B8-3.4, Umschlag-Buch. _Erklärung:_
@@ -1049,6 +1054,7 @@ _Querverweise:_ siehe Konzept B8-3.4, Umschlag-Buch. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -1166,10 +1172,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 2.4 Winter-Bestimmung (Knospe/Rinde/Stand) <k-2-4>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 8]
 Ohne Blätter: Knospenstellung, Rindenbild, Standort, Wuchsform bestimmen.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.4 „Winter-Bestimmung (Knospe/Rinde/Stand)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Knospe + Rinde + Stand geprüft
 _Querverweise:_ siehe Konzept 2.1.
 #subhead[Fehler & Folgen (siehe Anhang B)]
@@ -1207,6 +1213,7 @@ _Querverweise:_ siehe Konzept 2.1.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -1326,6 +1333,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 3 — Wildgemüse <kap-3>
+_Ziel des Kapitels:_ Ziel: Das sichere Dutzend Wildgemüse ohne Verwechslungsrisiko ernten und Duldungsgrenzen (Oxalsäure) kennen.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Ohne Blätter bestimmst du über Knospenstellung (gegenständig/wechselständig), Rindenbild (Borke, Lentizellen), Standort und Wuchsform.
 - _Situationsvarianten (wann welche):_ Winter: Rinde + Knospe fotografieren/notieren; mit 2.1 kombinieren.
@@ -1338,14 +1346,13 @@ _Erklärung:_
   [3.1], [Das sichere Dutzend (12 Arten)], [9], [unbedenklich], [9], [grün], [Abb. 5.3],
   [3.2], [Duldungsgrenzen (Oxalsäure-Handregel)], [8], [unbedenklich], [9], [grün], [–],
 )
-#pagebreak(weak: true)
 === 3.1 Das sichere Dutzend (12 Arten) <k-3-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 5.3]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-3.svg", width: 100%), caption: [Abb. 5.3 — Das sichere Dutzend: 12 Arten, die ohne Spezialwerkzeug bestimmbar sind (Konzept 3.1).])]]
 Zwölf Arten, die ohne Spezialwerkzeug bestimmbar sind und _keine geschützten Arten_ enthalten (Prüfung gegen BNatSchG Anlage 1, siehe Konzept 1.1): z. B. Brennnessel, Giersch, Löwenzahn, Wegerich, Schafgarbe, Gundermann, Vogelmiere, Ampfer (siehe 3.2), Bärlauch (nur mit Knoblauch-Merkmal, siehe 2.2), Holunder (Blüte), Huflattich, Hopfen (Triebe).
 + Jede Art mit Merkmal + Verwechslungsfalle (siehe Konzept 2.2) bestimmen.
 + Erst dann ernten.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.1 „Das sichere Dutzend (12 Arten)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] 12 Arten mit Merkmalen beherrscht
 - [ ] Keine geschützte Art in der Liste
 #baustein[Zwölf Arten, die du wirklich kennst, schlagen zwanzig, die du nur vermutest.]
@@ -1404,6 +1411,7 @@ _Querverweise:_ siehe Konzept 2.2, siehe Konzept 1.1. _Erklärung:_
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [keine geschützten Arten], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -1522,10 +1530,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 3.2 Duldungsgrenzen (Oxalsäure-Handregel) <k-3-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9]
 Oxalsäurehaltige Wildpflanzen (Ampfer, Sauerampfer): roh nur in _Handvoll-Mengen_ (Handregel), gekocht weniger problematisch — trotzdem maßhalten.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.2 „Duldungsgrenzen (Oxalsäure-Handregel)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Handregel bei Oxalsäure-Pflanzen
 _Querverweise:_ siehe Konzept 3.1.
 #subhead[Fehler & Folgen (siehe Anhang B)]
@@ -1564,6 +1572,7 @@ _Querverweise:_ siehe Konzept 3.1.
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Handvoll-Mengen], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -1683,6 +1692,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 4 — Wurzeln & Knollen <kap-4>
+_Ziel des Kapitels:_ Ziel: Wurzeln und Knollen sicher graben (Drei-Stimmen-Regel, Hebel) — auch an Strand/Watt mit Algen-Gift-Regel.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Oxalsäure (Ampfer) bindet Calcium und reizt Niere/Schleimhaut; roh nur in Handvoll-Mengen; Kochen senkt den Gehalt.
 - _Situationsvarianten (wann welche):_ Jung: weniger Oxalsäure. Alt/blühend: mehr — maßhalten.
@@ -1695,15 +1705,14 @@ _Erklärung:_
   [4.1], [Grabstock-Kunde], [8], [unbedenklich], [8], [grün], [Abb. 5.4],
   [4.2], [Strand & Watt], [7], [unbedenklich], [8], [grün], [–],
 )
-#pagebreak(weak: true)
 === 4.1 Grabstock-Kunde <k-4-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 5.4]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-4.svg", width: 100%), caption: [Abb. 5.4 — Grabstock-Kunde: Drei-Stimmen-Regel, Hebel statt Reißen (Konzept 4.1).])]]
 _Drei-Stimmen-Regel:_ Wurzel nur ausgraben, wenn drei Merkmale stimmen (siehe Konzept 2.1). _Hebel statt Reißen_ — Grabstock als Hebel, nicht als Brechstange.
 + Pflanze bestimmen (siehe Konzept 2.1/2.2) — nie unbekannte Wurzeln graben.
 + Mit Hebel aushebeln, Wurzelstock prüfen.
 + Wurzelrückgabe nach Konzept 1.1.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.1 „Grabstock-Kunde“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Drei Merkmale stimmen
 - [ ] Hebeltechnik
 - [ ] Wurzelrückgabe
@@ -1767,6 +1776,7 @@ _Querverweise:_ siehe Konzept 1.1, siehe Konzept 2.2. _Erklärung:_
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Drei-Stimmen-Regel:], [siehe Glossar, Anhang D Band 1],
   [Hebel statt Reißen], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -1884,10 +1894,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 4.2 Strand & Watt <k-4-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 8]
 Strand-Knollen und Algen: _nur gekochte Knollen_ essen; _Algen-Gift-Regel :_ nach Stürmen/Algenblüte Sperre — Muschel-/Algengifte hitzestabil (siehe Konzept B6-8.1, `warn-6`).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.2 „Strand & Watt“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Knollen gekocht
 - [ ] Algen-Sperre beachtet
 _Querverweise:_ siehe Konzept B6-8.1, `warn-6`.
@@ -1928,6 +1938,7 @@ _Querverweise:_ siehe Konzept B6-8.1, `warn-6`.
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [nur gekochte Knollen], [siehe Glossar, Anhang D Band 1],
   [Algen-Gift-Regel :], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -2047,6 +2058,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 5 — Beeren & Nüsse <kap-5>
+_Ziel des Kapitels:_ Ziel: Beeren und Nüsse sicher nutzen (roh giftige gekocht, Läuterung bei Eicheln/Bucheckern, Frost).
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Strand/Watt: Knollen (z. B. Strandflieder-Wurzeln) nur gekocht; Algen-Gift-Regel : nach Stürmen/Algenblüte Sperre — Toxine hitzestabil (siehe B6-8.1, warn-6).
 - _Situationsvarianten (wann welche):_ Nur amtlich überwachte Gewässer; Blaualgen im Süßwasser meiden (B2-5.1).
@@ -2060,10 +2072,10 @@ _Erklärung:_
   [5.2], [Nüsse & Läuterung], [7], [unbedenklich], [8], [grün], [Abb. 5.5],
   [5.3], [Wildobst-Küche], [8], [unbedenklich], [9], [grün], [–],
 )
-#pagebreak(weak: true)
 === 5.1 Beeren <k-5-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9]
 _Holunder, Vogelbeere, Schlehe: roh giftig/unbekömmlich_ — Sambunigrin u. a. werden durch _Kochen zerstört_.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.1 „Beeren“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Holunder/Vogelbeere/Schlehe gekocht vor dem Verzehr
 _Querverweise:_ siehe Konzept 2.2, siehe Konzept B7-6.1, Einkochen von Obst — Wasserbad zulässig bei pH ≤ 4,6. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Holunder/Vogelbeere/Schlehe enthalten Sambunigrin u. a. — roh giftig/unbekömmlich; das Toxin ist hitzelabil und wird durch Kochen zerstört.
@@ -2105,6 +2117,7 @@ _Querverweise:_ siehe Konzept 2.2, siehe Konzept B7-6.1, Einkochen von Obst — 
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [ — Sambunigrin u. a. werden durch ], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -2222,16 +2235,15 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 5.2 Nüsse & Läuterung <k-5-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 8 · Abb. 5.5]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-5.svg", width: 100%), caption: [Abb. 5.5 — Nüsse läutern: Eicheln/Kastanien – Schalen auf, Wasser 3–10 Tage wechseln (Konzept 5.2, Buchecker = Fagin).])]]
 Eicheln/Kastanien: _Läuterung mit Wasser über 3–10 Tage_ (Wechsel täglich), bis Bitterstoffe raus; _Bucheckern enthalten Fagin_ — immer läutern.
 + Nüsse sammeln, trocknen.
 + Schälen, mahlen.
 + 3–10 Tage wässern, Wasser täglich wechseln.
 + Dann rösten/mahlen.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.2 „Nüsse & Läuterung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Läuterungszeit 3–10 T eingehalten
 - [ ] Wasser täglich gewechselt
 #baustein[Bitterstoffe raus, Nährstoffe bleiben. Eicheln ohne Läutern sind kein Essen.]
@@ -2306,6 +2318,7 @@ _Querverweise:_ siehe Konzept 5.3. _Erklärung:_
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Läuterung mit Wasser über 3–10 Tage], [siehe Glossar, Anhang D Band 1],
   [Bucheckern enthalten Fagin], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -2424,10 +2437,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 5.3 Wildobst-Küche <k-5-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9]
 Frost/Gefriertruhe vor Rohverzehr: Wildobst (z. B. Schlehe, Hagebutte) nach Frost süßer und bekömmlicher; mehrfach gefrieren-auftauen verbessert Geschmack.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.3 „Wildobst-Küche“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Frost abgewartet oder Gefriertruhe genutzt
 _Querverweise:_ siehe Konzept 5.1, siehe Konzept 5.2.
 #subhead[Fehler & Folgen (siehe Anhang B)]
@@ -2465,6 +2478,7 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept 5.2.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -2584,6 +2598,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 6 — Grüne Hausapotheke <kap-6>
+_Ziel des Kapitels:_ Ziel: Die grüne Hausapotheke mit ihren fünf Pflanzen und Grenzen anwenden (Beinwell äußerlich, Weidenrinde nicht \< 16 J, Öl nur gesäuert).
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Frost zerstört Zellwände und wandelt Stärke in Zucker um — Wildobst wird süßer und bekömmlicher; Gefriertruhe hat denselben Effekt.
 - _Situationsvarianten (wann welche):_ Schlehe/Hagebutte: nach dem ersten Frost. Stadt: Gefriertruhe bis −18 °C, 24 h.
@@ -2596,11 +2611,9 @@ _Erklärung:_
   [6.1], [Die fünf Haus-Pflanzen], [7], [unbedenklich], [8], [gelb], [Abb. 5.6],
   [6.2], [Dosierung & rote Liste], [8], [unbedenklich], [8], [grün], [–],
 )
-#pagebreak(weak: true)
 === 6.1 Die fünf Haus-Pflanzen <k-6-1>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb (SME)_ · P 7 · M unbedenklich · V 8 · Abb. 5.6]
-#pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-6.svg", width: 100%), caption: [Abb. 5.6 — Fünf Haus-Pflanzen – mit Grenzen: Beinwell nur äußerlich auf intakter Haut, Weidenrinde nicht unter 16 J (Konzept 6.1, SME-Korrektur).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-6.svg", width: 100%), caption: [Abb. 5.6 — Fünf Haus-Pflanzen – mit Grenzen: Beinwell nur äußerlich auf intakter Haut, Weidenrinde nicht unter 16 J (Konzept 6.1, fachlektorische Korrektur).])]]
 Wegerich, Nessel, Kamille, Beinwell, Weidenrinde — mit Grenzen:
 #kasten([SME-Korrektur :])[_Beinwell nur äußerlich auf intakter Haut_ — innerlich obsolet (Pyrrolizidinalkaloide, hepatotoxisch, EMA/HMPC). _Weidenrinde nicht bei Kindern/Jugendlichen \< 16 J_ (Reye-Syndrom, siehe Konzept B8-7.3).]
 #table(
@@ -2613,6 +2626,7 @@ Wegerich, Nessel, Kamille, Beinwell, Weidenrinde — mit Grenzen:
   [Beinwell], [_nur äußerlich, intakte Haut_ (Bluterguss, Prellung)], [nie innerlich; nicht auf offene Wunden],
   [Weidenrinde], [Schmerz/Fieber (Salicylat)], [_nicht \< 16 J_],
 )
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.1 „Die fünf Haus-Pflanzen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Beinwell nur äußerlich
 - [ ] Weidenrinde nicht \< 16 J
 _Querverweise:_ siehe Konzept B8-3.1, siehe Konzept B8-7.3, siehe Konzept 6.2. _Erklärung:_
@@ -2666,6 +2680,7 @@ _Querverweise:_ siehe Konzept B8-3.1, siehe Konzept B8-7.3, siehe Konzept 6.2. _
   [Beinwell nur äußerlich auf intakter Haut], [siehe Glossar, Anhang D Band 1],
   [nur äußerlich, intakte Haut], [siehe Glossar, Anhang D Band 1],
   [nicht \< 16 J], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -2783,11 +2798,11 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 6.2 Dosierung & rote Liste <k-6-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün + _WARNRAHMEN_ · P 8 · M unbedenklich · V 8]
 _„Erst die Grenze, dann die Gabe.“_
 #warnrahmen()[_Öl-Auszüge nur gesäuert (pH \< 4,6, gemessen) oder aus vollständig getrockneten Pflanzen_ — siehe Konzept B7-6.2k, `warn-7b` und Konzept B8-3.3. Datum am Gefäß.]
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.2 „Dosierung & rote Liste“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Frische Dosis = 1,5× getrocknete, nie doppelt (siehe Konzept B8-3.2)
 - [ ] Öl-Auszug nur gesäuert/getrocknet
 #baustein[Erst die Grenze, dann die Gabe. Wer die Grenze nicht kennt, gibt nichts.]
@@ -2829,6 +2844,7 @@ _Querverweise:_ siehe Konzept B7-6.2k, `warn-7b`, siehe Konzepte B8-3.2 und B8-3
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [„Erst die Grenze, dann die Gabe.“], [siehe Glossar, Anhang D Band 1],
   [WARNRAHMEN (Botulismus-Verweis):], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -2949,6 +2965,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 7 — Fasern & Werkstoffe <kap-7>
+_Ziel des Kapitels:_ Ziel: Fasern gewinnen (Röste), Binden/Körbe flechten, färben — Material für Band 4 und 9.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Dosierung folgt dem Prinzip „erst die Grenze, dann die Gabe“: frisch = 1,5× getrocknet, nie doppelt. Öl-Auszüge nur gesäuert (pH \< 4,6) oder aus vollständig getrockneten Pflanzen — sonst Botulismus-Gefahr (anaerob, low-acid; siehe B7-6.2k, warn-7b).
 - _Situationsvarianten (wann welche):_ Datum am Gefäß. Öl nur mit Indikatorpapier-getestetem pH. Stadt/Land gleich.
@@ -2962,15 +2979,14 @@ _Erklärung:_
   [7.2], [Binden / Körbe / Bast], [8], [unbedenklich], [9], [grün], [–],
   [7.3], [Färbe-Pflanzen (Beize)], [7], [unbedenklich], [8], [grün], [–],
 )
-#pagebreak(weak: true)
 === 7.1 Faseraufschluss (Röste) <k-7-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 5.7]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-7.svg", width: 100%), caption: [Abb. 5.7 — Faseraufschluss (Röste): Tau 1–5 Wochen oder Wasser 3–10 Tage – dann lösen sich die Fasern (Konzept 7.1).])]]
 + _Tau-Röste: 1–5 Wochen_ im stehenden Gewässer.
 + _Wasser-Röste: 3–10 Tage_ in warmem Wasser.
 + Danach Fasern lösen, waschen, trocknen.
 + Konsistent mit Nadel & Faden (siehe Konzept B4-7.2).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.1 „Faseraufschluss (Röste)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Röste-Frist eingehalten
 - [ ] Fasern sauber gelöst
 _Querverweise:_ siehe Konzept B4-7.2. _Erklärung:_
@@ -3035,6 +3051,7 @@ _Querverweise:_ siehe Konzept B4-7.2. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -3152,10 +3169,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 7.2 Binden / Körbe / Bast <k-7-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9]
 _Lindenbast nur vom Totholz_ nehmen (lebende Linde schädigen = verboten/schädlich, siehe Konzept 1.1).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.2 „Binden / Körbe / Bast“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Bast nur von Totholz
 _Querverweise:_ siehe Konzept 1.1, siehe Konzept B9-5.2, Seil & Knoten. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Bast (Linde) liefert biegsame Bänder zum Binden/Flechten; Lindenbast nur vom Totholz — Ringeln lebender Bäume schädigt/tötet sie und ist unzulässig (s. 1.1).
@@ -3197,6 +3214,7 @@ _Querverweise:_ siehe Konzept 1.1, siehe Konzept B9-5.2, Seil & Knoten. _Erklär
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Lindenbast nur vom Totholz], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -3314,12 +3332,12 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 7.3 Färbe-Pflanzen (Beize) <k-7-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 8]
 + Färbepflanze köcheln (Absud).
 + Faser mit Beize vorbehandeln (Alaun, Eisen).
 + Im Sud ziehen lassen.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.3 „Färbe-Pflanzen (Beize)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Beize verwendet
 _Querverweise:_ siehe Konzept 7.1.
 #subhead[Ablauf mit Kontrollkästchen]
@@ -3376,6 +3394,7 @@ _Querverweise:_ siehe Konzept 7.1.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -3495,6 +3514,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 8 — Anbau & Wildgarten <kap-8>
+_Ziel des Kapitels:_ Ziel: Anbau und Wildgarten rechtlich sauber und mit Keimprobe tragfähig machen.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Farbstoffe in Pflanzen binden mit Beize (Alaun, Eisen) an der Faser — ohne Beize waschen sie aus. Absud heiß verwenden.
 - _Situationsvarianten (wann welche):_ Wolle/Seide: Alaun. Baumwolle: Eisenbeize für dunklere Töne.
@@ -3508,12 +3528,11 @@ _Erklärung:_
   [8.2], [Wildgarten], [7], [prüfenswert], [8], [gelb], [–],
   [8.3], [Saatgut-Keimprobe (50 Körner / 7–14 T)], [8], [unbedenklich], [8], [grün], [Abb. 5.9],
 )
-#pagebreak(weak: true)
 === 8.1 Ried / Stroh / Binse (Dachdeckung) <k-8-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 5.8]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-8.svg", width: 100%), caption: [Abb. 5.8 — Dachdeck-Material: Ried, Stroh, Binse – gebündelt, mind. 45° Neigung (Konzept 8.1, konsistent B4 5.1).])]]
 Konsistent mit Konzept B4-5.1, Dachdeckung & Neigung.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.1 „Ried / Stroh / Binse (Dachdeckung)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Dachneigung nach Material (siehe Konzept B4-5.1)
 _Querverweise:_ siehe Konzept B4-5.1. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Ried/Stroh/Binse sind hohl und leicht — als Dachdeckung wasserdicht geschichtet bei ausreichender Neigung (siehe B4-5.1: Ried 45°, Zweige 50°, Rinde 30°).
@@ -3554,6 +3573,7 @@ _Querverweise:_ siehe Konzept B4-5.1. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -3671,10 +3691,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 8.2 Wildgarten <k-8-2>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb_ · P 7 · M prüfenswert · V 8]
 Nur _mit Zustimmung_ des Eigentümers (siehe Konzept B10-5.2); _Fremdgrund, NSG und geschützte Arten_ sind tabu (Naturschutzrecht, siehe Konzept 1.1).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.2 „Wildgarten“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Zustimmung eingeholt
 - [ ] Kein NSG, keine geschützten Arten
 _Querverweise:_ siehe Konzept 1.1, siehe Konzept B10-5.2. _Erklärung:_
@@ -3718,6 +3738,7 @@ _Querverweise:_ siehe Konzept 1.1, siehe Konzept B10-5.2. _Erklärung:_
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [mit Zustimmung], [siehe Glossar, Anhang D Band 1],
   [Fremdgrund, NSG und geschützte Arten], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -3835,14 +3856,13 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 8.3 Saatgut-Keimprobe (50 Körner / 7–14 T) <k-8-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 5.9]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-9.svg", width: 100%), caption: [Abb. 5.9 — Saatgut-Keimprobe: 50 Körner auf feuchtem Tuch, 7–14 Tage, zählen (Konzept 8.3).])]]
 + 50 Körner auf feuchtes Tuch, 7–14 Tage warm halten.
 + Keimlinge zählen: _\< 30 von 50 (60 %) → neue Saat_ (siehe Konzept B7-9.3).
 + Nie Saatgut essen (s. Konzept B7-9.3).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.3 „Saatgut-Keimprobe (50 Körner / 7–14 T)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] 50 Körner, 7–14 T
 - [ ] Schwelle 60 % beachtet
 _Querverweise:_ siehe Konzept B7-9.3.
@@ -3860,7 +3880,7 @@ _Querverweise:_ siehe Konzept B7-9.3.
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [7–14 T], [( ) 50 Körner, 7–14 T],
+  [7–14 T], [aatgut-Keimprobe (50 Körner / 7–14 T)“ kein Prüfpunkt vergess],
   [60 %], [( ) Schwelle 60 % beachtet],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
@@ -3908,6 +3928,7 @@ _Querverweise:_ siehe Konzept B7-9.3.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -4027,6 +4048,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 9 — Pilze & Kalender <kap-9>
+_Ziel des Kapitels:_ Ziel: Pilze nur mit drei Merkmalen und nie roh sammeln (warn-5b); den Pflanzen-Kalender als Tabelle nutzen.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Keimprobe: 50 Körner auf feuchtem Tuch, 7–14 Tage warm; Schwelle 30/50 (60 %) — darunter neue Saat (B7-9.3). Gleiches Verfahren in B7-9.3.
 - _Situationsvarianten (wann welche):_ Kühl und trocken gelagertes Saatgut hält länger. Stadt: Wohnung warm — kürzer lagern, öfter prüfen.
@@ -4039,15 +4061,14 @@ _Erklärung:_
   [9.1], [Pilze], [6], [unbedenklich], [7], [gelb], [Abb. 5.10],
   [9.2], [Pflanzen-Kalender (Monatsfenster ME/Irland)], [9], [unbedenklich], [9], [grün], [Abb. 5.11],
 )
-#pagebreak(weak: true)
 === 9.1 Pilze <k-9-1>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb + WARNRAHMEN [warn-5b]_ · P 6 · M unbedenklich · V 7 · Abb. 5.10]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-10.svg", width: 100%), caption: [Abb. 5.10 — Pilze: Knollenblätterpilz erkennen – Ring, Knolle (Volva), weiße Lamellen; Amatoxine hitzestabil, nie roh (Konzept 9.1, warn-5b).])]]
 #warnrahmen(id: "warn-5b", title: [PILZE :])[Knollenblätterpilz und Frühjahrslorchel — _Amatoxine sind hitzestabil: kein Kochen, kein Braten rettet_. _Keine Rettungsleine, nie roh probieren._ Giftnotruf 116 123 (DE) / +353 1 809 2166 (IE) / 112 (EU). _Drei Merkmale aus lebendiger Anleitung_ (Lehrmeister, siehe Konzept B9-9.2) vor dem Verzehr bestätigen.]
 + Nur Pilze mit drei bestätigten Merkmalen sammeln.
 + Nie roh — auch ein „Testbissen“ ist tödlich.
 + Unsichere Pilze ganz entsorgen, nicht „zur Sicherheit“ kochen.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.1 „Pilze“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Drei Merkmale bestätigt
 - [ ] Nie roh
 - [ ] Amatoxin-Verdacht → Giftnotruf, siehe Konzept B8-5.2
@@ -4120,6 +4141,7 @@ _Querverweise:_ siehe Konzepte B8-5.1 und B8-5.2, siehe Konzept 2.2 (`warn-5`). 
   [WARNRAHMEN [warn-5b] — PILZE :], [siehe Glossar, Anhang D Band 1],
   [Keine Rettungsleine, nie roh probieren.], [siehe Glossar, Anhang D Band 1],
   [Drei Merkmale aus lebendiger Anleitung], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -4238,10 +4260,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 9.2 Pflanzen-Kalender (Monatsfenster ME/Irland) <k-9-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 5.11]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-11.svg", width: 100%), caption: [Abb. 5.11 — Pflanzen-Kalender (Monatsfenster für ME/Irland): Ernte, wann was reif ist (Konzept 9.2).])]]
 Monatsfenster für Ernte/Saat in Mitteleuropa und Irland (lokal um ± 2 Wochen verschiebbar nach Höhenlage/Küste; Abb. 5.11 zeigt denselben Kalender grafisch):
 #table(
@@ -4261,6 +4281,7 @@ Monatsfenster für Ernte/Saat in Mitteleuropa und Irland (lokal um ± 2 Wochen v
   [November], [— (Lager kontrollieren, siehe B7-8.1)], [—],
   [Dezember], [— (Vorrat, siehe B7-9.1)], [—],
 )
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.2 „Pflanzen-Kalender (Monatsfenster ME/Irland)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Kalender des Lagers geführt (siehe Konzept B10-8.1)
 _Querverweise:_ siehe Konzept B10-8.1, siehe Konzept 1.3.
 #subhead[Fehler & Folgen (siehe Anhang B)]
@@ -4298,6 +4319,7 @@ _Querverweise:_ siehe Konzept B10-8.1, siehe Konzept 1.3.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -4518,7 +4540,19 @@ Kopiervorlage zu Konzept 1.1 — Ein-Drittel / Wurzelrückgabe / keine geschütz
 )
 #pagebreak(weak: true)
 == Anhang C — Übungsplan (Band 5) <anh-C>
-Bestimmung der 12 Arten (3.1) mit Merkmal + Falle (2.2) üben; Keimprobe (8.3); Sammelgang mit Kreisen (1.2). Verfalluhr 12 Monate (siehe Konzept B1-8.2); Pilzbestimmung nur mit Lehrmeister (siehe Konzept B9-9.2).
+_Übungsablauf (verbindlich für jede Übung in diesem Band):_
++ _Vorbereitung (10 min):_ Material und Protokollbogen (Anhang A4 / B1-8.2) bereitlegen; Warnrahmen des Konzepts durchlesen; bei Outdoor-Übung Wetter prüfen (B1-4.4).
++ _Durchführung:_ die nummerierten Schritte des Konzepts exakt in der dortigen Reihenfolge ausführen — keine Abkürzungen.
++ _Wiederholungen:_ jede Übung mindestens 3× hintereinander; Konzepte mit V \< 6 mindestens 5× (z. B. in diesem Band siehe Liste unten).
++ _Zeitansatz:_ 45–90 min pro Übungseinheit, maximal 2 Einheiten pro Tag — Ermüdung verfälscht das Ergebnis.
++ _Beobachten (Erfolgskontrolle):_ das messbare Kriterium der Übung notieren (Zeit, Maß, Trefferquote, Temperatur) — ohne Messung ist die Übung nicht bestanden.
++ _Abbruchkriterien:_ Abbruch sofort bei Verletzung, Wetterumschwung, Materialbruch, Schmerzen (z. B. Augen beim Schweißen) oder wenn nach 3 Durchgängen kein Fortschritt erkennbar ist. Abbruch dokumentieren — nicht schönreden.
++ _Protokoll (B1-8.2):_ Datum, Konzept-Nr., Wiederholungen, Zeitansatz, Beobachtung/Erfolgskontrolle, V-Bewertung, Verfalldatum (Datum + 12 Monate).
+_Band-spezifische Übungen (Vorrang, mit Erfolgskontrolle):_
+- Sicheres Dutzend bestimmen (3.1): 12 Arten × 3 Runden, Erfolg: jede Art mit 5 Merkmalen + Verwechslungs-Falle (2.2) korrekt
+- Keimprobe (8.3): 1× mit 50 Körnern, Erfolg: Keimrate gezählt, Schwelle 30/50 angewendet
+- Röste (7.1): 1×, Erfolg: Faser löst sich sauber nach Frist (Tau 1–5 Wo / Wasser 3–10 T)
+Verfalluhr: 12 Monate ohne Wiederholung = Fähigkeit verfallen (siehe B1-8.2).
 #pagebreak(weak: true)
 == Bandabschluss Band 5 — Bewertungsmatrix + Devise <abschluss>
 #table(
@@ -4559,9 +4593,9 @@ _Erklärung:_
 == Situative Detail-Skizzen (Review v1) <skizzen-v1>
 Situative Skizzen zu Varianten und Situationen (mit Maßen und Kontext) — ergänzt nach Review v1, Befund 3.
 #grid(columns: (1fr, 1fr), column-gutter: 8pt, row-gutter: 8pt,
-  figure(image("illustrationen/abb-5-12.svg", width: 100%), caption: [Abb. 5.12 — Sammelgang situativ: Kreise um das Lager – 500 m (täglich) und 2–5 km (bei Anlass) (Ergänzung zu Konzept 1.2, Review v1).]),
-  figure(image("illustrationen/abb-5-13.svg", width: 100%), caption: [Abb. 5.13 — Bestimmung situativ am Beispiel Bärlauch: drei sichere Merkmale vs. die drei Doppelgänger (Ergänzung zu Abb. 5.2, Review v1).]),
-  figure(image("illustrationen/abb-5-14.svg", width: 100%), caption: [Abb. 5.14 — Pilz-Merkmale am Fruchtkörper: Ring, Knolle (Volva), Lamellen, Hut, Stiel – Bestimmung nur mit lebendiger Anleitung (Ergänzung zu Abb. 5.10, warn-5b, Review v1).]))
+  figure(image("illustrationen/abb-5-12.svg", width: 100%), caption: [Abb. 5.12 — Sammelgang situativ: Kreise um das Lager – 500 m (täglich) und 2–5 km (bei Anlass) (Ergänzung zu Konzept 1.2).]),
+  figure(image("illustrationen/abb-5-13.svg", width: 100%), caption: [Abb. 5.13 — Bestimmung situativ am Beispiel Bärlauch: drei sichere Merkmale vs. die drei Doppelgänger (Ergänzung zu Abb. 5.2).]),
+  figure(image("illustrationen/abb-5-14.svg", width: 100%), caption: [Abb. 5.14 — Pilz-Merkmale am Fruchtkörper: Ring, Knolle (Volva), Lamellen, Hut, Stiel – Bestimmung nur mit lebendiger Anleitung (Ergänzung zu Abb. 5.10, warn-5b).]))
 #pagebreak(weak: true)
 == Gesamt-Checkliste Band 5 <gesamt-checkliste>
 Alle Konzepte dieses Bandes im Überblick — abhaken, wenn geübt/gelesen:
@@ -4639,9 +4673,9 @@ Interne Prüf-IDs aus dem Factcheck (dreifache Prüfung). Sie stehen nicht im Le
   columns: 3,
   table.header([*ID*], [*Konzept*], [*Fundstelle (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [W15], [2.2], [\> _WARNRAHMEN (warn-5) — GIFTPFLANZEN (09 Nr. 4, verschärft):_ Tollkirsche, Schie],
+  [W15], [2.2], [\> _WARNRAHMEN (warn-5) — GIFTPFLANZEN (verschärft):_ Tollkirsche, Schie],
   [W17], [4.2], [ekochte Knollen_ essen; _Algen-Gift-Regel :\*\* nach Stürmen/Algenblüte Sperre — Muschel],
-  [W16], [9.1], [\> _WARNRAHMEN (warn-5b) — PILZE (09 Nr. 4):_ Knollenblätterpilz und Frühjah],
+  [W16], [9.1], [\> _WARNRAHMEN (warn-5b) — PILZE :_ Knollenblätterpilz und Frühjah],
 )
 
 #pagebreak(weak: true)

@@ -8,9 +8,16 @@ Querverweise konsistent mit Band 1 (6.5 Traglast, 7.3 Restlicht), Band 3 (1.2/9.
 
 ## Kapitel 1 — Ethik & Lagerplatz
 
+**Ziel des Kapitels:** Ziel: Einen Lagerplatz finden, der vor Kälte, Flut und Wind schützt — Land (Hang/Lee/30 m Flutlinie) und Stadt (Wohnung als Lagerplatz).
+
+
 ### 1.1 Unterkunftsethik — grün · P 9 · M unbedenklich · V 10
 
 Unterkunft wird dort gebaut, wo sie niemanden gefährdet und niemands Lebensgrundlage zerstört; Tausch und Zustimmung vor Beanspruchung (siehe Konzept B10-5.2).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.1 „Unterkunftsethik“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Eigentümer/Zustimmung geklärt (siehe Konzept B10-5.2)
 - [ ] Keine Felder/Gärten zerstört
@@ -33,6 +40,10 @@ Unterkunft wird dort gebaut, wo sie niemanden gefährdet und niemands Lebensgrun
 
 **Stadt / Land:** Land = Hanglage/Lee/Flutlinie wie beschrieben. **Stadt (Wohnung):** Du baust keinen Lagerplatz im Freien — die Wohnung ist der Lagerplatz. Wähle den **wärmsten Innenraum** (innen liegend, nicht über Keller/Feuchtigkeit), halte **Fluchtwege frei** (Treppenhaus, Wohnungstür), richte einen festen Lagerkern ein (siehe 9.x) und prüfe Fenster/Türen auf Dichtigkeit (siehe Kapitel 4, Stadt-Variante).
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.2 „Lagerplatz“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Nicht im Kaltluftsee
 - [ ] ≥ 30 m zur Flutlinie
 - [ ] Lee-Seite
@@ -46,6 +57,9 @@ Unterkunft wird dort gebaut, wo sie niemanden gefährdet und niemands Lebensgrun
 ---
 
 ## Kapitel 2 — Wärmehaushalt
+
+**Ziel des Kapitels:** Ziel: Den eigenen Wärmehaushalt mit Schichten steuern und Kältegefahr (Zittern hört auf) früh erkennen.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Kaltluft sinkt nachts in Senken (Talgrund 2–5 °C kälter); Hochwasser erreicht die Flutlinie (Treibgut, kahle Steine markieren sie); Lee schützt vor Wind. Kombination aus Hanglage + 30 m Abstand zum Gewässer + Lee ist optimal.
@@ -59,6 +73,10 @@ Konsistent mit Konzept B3-6.1, Wärmepaket: innen trocken, Mitte isolierend, au�
 2. Schicht 2 (Mitte): Wolle/Daune/trockenes Gras — Isolation.
 3. Schicht 3 (außen): winddicht, Feuchtigkeitsauslass offen (siehe Konzept 6.3).
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.1 „Wärmehaushalt & Schichten“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Innenschicht trocken
 - [ ] Isolation ausreichend
 
@@ -71,6 +89,10 @@ Konsistent mit Konzept B3-6.1, Wärmepaket: innen trocken, Mitte isolierend, au�
 ### 2.2 Wetter-/Wolkenlesen — grün · P 8 · M unbedenklich · V 8
 
 Konsistent mit Konzept B1-4.4: Zwei-Zeichen-Regel.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.2 „Wetter-/Wolkenlesen“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Zwei Zeichen vor jeder Entscheidung
 
@@ -106,6 +128,10 @@ Konsistent mit Band 9 (W28, Trocknung) und Band 5 (Ried/Stroh, siehe Konzept B5-
 2. **Zittern hört auf** = Alarm: sofort trockene Kleidung (siehe Konzept 2.1), Wärmepaket (siehe Konzept B3-6.1), warmes Getränk.
 3. Nie Alkohol gegen Kälte.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.4 „Kältegefahr erkennen“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Warnzeichen bekannt
 - [ ] Maßnahmen bei Umschlag vorbereitet
 
@@ -116,6 +142,9 @@ Konsistent mit Band 9 (W28, Trocknung) und Band 5 (Ried/Stroh, siehe Konzept B5-
 ---
 
 ## Kapitel 3 — Die erste Nacht
+
+**Ziel des Kapitels:** Ziel: Die erste Nacht überstehen: sicherer Schlafplatz, Behelfsdach oder Schneehöhle — ohne Windbruchrisiko.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Unterkühlung verläuft in Stufen: Zittern (Wärmeproduktion), dann Verwirrung, dann das Zittern hört auf — die gefährlichste Phase (Körperkerntemperatur sinkt weiter ohne Gegenregulation). Früh handeln.
@@ -125,6 +154,10 @@ Konsistent mit Band 9 (W28, Trocknung) und Band 5 (Ried/Stroh, siehe Konzept B5-
 
 1. Tote/stehende Bäume über dem Lagerplatz mit dem Messerklang prüfen: hohler Klang = morsches Holz = Windbruchgefahr.
 2. **Besetzter Bau bleibt besetzt:** solange jemand im Zelt ist, wird darunter nicht gearbeitet (siehe Konzept B9-3.1).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.1 „Windbruch (Klangprobe)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Klangprobe durchgeführt
 - [ ] Besetzter Bau bleibt besetzt
@@ -142,6 +175,10 @@ Konsistent mit Band 9 (W28, Trocknung) und Band 5 (Ried/Stroh, siehe Konzept B5-
 1. Firstlinie spannen (siehe Konzept B1-6.3, Knoten).
 2. Sparren in der gewählten Neigung auflegen, Abstand 50–60 cm.
 3. Deckung aufbringen (siehe Konzept 5.1).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.2 „Behelfsdach“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Neigung nach Wetter gewählt
 - [ ] Sparrenabstand 50–60 cm
@@ -161,6 +198,10 @@ Konsistent mit Band 9 (W28, Trocknung) und Band 5 (Ried/Stroh, siehe Konzept B5-
 3. **Podest** innen erhöhen — Kälte sinkt nach unten, Liegefläche höher legen.
 4. Eingang klein halten, mit Schneeziegel verschließbar.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.3 „Winter-Unterkunft (Schneehöhle)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Kugelprobe bestanden
 - [ ] Zu zweit gebaut
 - [ ] Luftloch offen
@@ -171,6 +212,9 @@ Konsistent mit Band 9 (W28, Trocknung) und Band 5 (Ried/Stroh, siehe Konzept B5-
 ---
 
 ## Kapitel 4 — Hüttenbau I: Bauplan & Rohbau
+
+**Ziel des Kapitels:** Ziel: Eine Hütte mit korrekten Maßen und Verbindungen bauen (Land) bzw. die Wohnung abdichten (Stadt).
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Schneehöhle isoliert durch Schnee (Luftporen, ~0,1 W/mK); Einsturzgefahr macht den Bau zu zweit nötig. Kugelprobe: Schnee ballt sich und hält = baubar. Luftloch verhindert CO-Anreicherung der Atemluft; Podest hebt die Liegefläche über die kalte Senke.
@@ -185,6 +229,10 @@ Maße für 4 Personen: **2,5 × 2,5 m Grundfläche, Firsthöhe 1,20 m, Firstspan
 1. Grundriss abstecken (siehe Konzept B1-7.1, Körpermaße).
 2. Eckpunkte mit Pfosten (siehe Konzept 4.2).
 3. Firstpfosten mittig, Firstbalken auflegen.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.1 „Bauplan & Hüttenmaße“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Maße eingehalten
 - [ ] Firstspanne ≤ 3,50 m
@@ -201,6 +249,10 @@ Maße für 4 Personen: **2,5 × 2,5 m Grundfläche, Firsthöhe 1,20 m, Firstspan
 2. **Sattelkerbe** für Firstbalken und Sparren — Formschluss statt Nagel.
 3. Verbindungen mit Seil verklemmen (siehe Konzept B1-6.3 und Konzept B9-5.2).
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.2 „Pfosten / First / Verbindungen“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] 30 cm Tiefe
 - [ ] Steinkranz
 - [ ] Sattelkerbe sauber
@@ -210,6 +262,9 @@ Maße für 4 Personen: **2,5 × 2,5 m Grundfläche, Firsthöhe 1,20 m, Firstspan
 ---
 
 ## Kapitel 5 — Hüttenbau II: Dach, Wand, Diagnose
+
+**Ziel des Kapitels:** Ziel: Dach, Wand und Sockel wetterfest ausführen und die sechs Schwachstellen der Hütte diagnostizieren können.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Pfosten müssen Frost und Last tragen: 30 cm Tiefe (unter Frostgrenze lokal), Steinkranz gegen Unterspülung. Sattelkerbe gives Formschluss — der Balken kann nicht seitlich wegrutschen; Seil ergänzt.
@@ -225,6 +280,10 @@ Maße für 4 Personen: **2,5 × 2,5 m Grundfläche, Firsthöhe 1,20 m, Firstspan
 
 Konsistent mit Konzept B5-8.1, Materialquelle.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.1 „Dachdeckung & Neigung“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Neigung nach Material
 
 **Querverweise:** siehe Konzept B5-8.1, siehe Konzept 3.2.
@@ -238,6 +297,10 @@ Konsistent mit Konzept B5-8.1, Materialquelle.
 1. **Sockel 20 cm** hoch (Stein/Lehm) gegen Bodenfeuchte und Nager.
 2. **Ringgraben** um die Hütte, 30 cm breit, 20 cm tief — Wasser ableiten.
 3. Boden innen: 10 cm Sand/Späne, darauf Schlafplattform (siehe Konzept 6.1).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.2 „Wand / Boden / Sockel“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Sockel 20 cm
 - [ ] Ringgraben gezogen
@@ -255,6 +318,10 @@ Checkliste (Kopiervorlage Anhang A): Dach dicht? Sockel trocken? Ringgraben frei
 1. Sechs Schwachstellen wöchentlich prüfen.
 2. **Wartung = fortgesetzte Abnahme** — Mängel sofort beheben.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.3 „Hüttendiagnose (sechs Schwachstellen)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Sechs Punkte geprüft
 
 **Querverweise:** siehe Anhang A, siehe Konzept 5.1, siehe Konzept 5.2.
@@ -262,6 +329,9 @@ Checkliste (Kopiervorlage Anhang A): Dach dicht? Sockel trocken? Ringgraben frei
 ---
 
 ## Kapitel 6 — Isolierung & Schlafplätze
+
+**Ziel des Kapitels:** Ziel: Schlafplatz mit Bodenisolation (unten zuerst) einrichten und Feuchte/Lüftung im Raum bilanzieren (CO-Regel beachten).
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Regelmäßige Diagnose (6 Schwachstellen) fängt Schäden früh, bevor sie kritisch werden — Wartung ist fortgesetzte Abnahme. Kopiervorlage Anhang A1.
@@ -274,6 +344,10 @@ Checkliste (Kopiervorlage Anhang A): Dach dicht? Sockel trocken? Ringgraben frei
 1. Boden mit **12–18 Armvoll** trockenem Material (Gras, Laub, Nadelreisig, Schaumstoff) aufschütten.
 2. Darüber luftdichte Schicht (Plane), dann Schlafunterlage.
 3. Nie direkt auf nacktem Boden schlafen.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.1 „Schlafplatz & Bodenisolierung“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] 12–18 Armvoll Füllung
 - [ ] Unten-zuerst-Regel
@@ -293,6 +367,10 @@ Konsistent mit Konzept B1-2.3, Wachenplan.
 1. Deckenbilanz: pro Person 1 Decke + 1 Wärmeflasche/heißer Stein (siehe Konzept B3-6.2).
 2. Vor dem Schlafen lüften (Stoßlüftung, siehe Konzept 6.3), dann schließen.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.2 „Nachtwärme & Deckenbilanz“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Pro Person Decke + Wärmequelle
 
 **Querverweise:** siehe Konzept B1-2.3, siehe Konzept B3-6.2, siehe Konzept 6.3.
@@ -307,6 +385,10 @@ Konsistent mit Konzept B1-2.3, Wachenplan.
 
 > **Querverweis CO:** Bei Beheizung im Raum siehe Konzept B3-6.3, `warn-3`: keine Verbrennung im geschlossenen Raum, nie über Nacht.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.3 „Feuchtebilanz & Lüftung“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] ½ l/Nacht einkalkuliert (Material zum Auffangen/Ableiten)
 - [ ] Stoßlüftung 2× täglich
 - [ ] CO-Regel beachtet (siehe Konzept B3-6.3)
@@ -316,6 +398,9 @@ Konsistent mit Konzept B1-2.3, Wachenplan.
 ---
 
 ## Kapitel 7 — Textilkunde
+
+**Ziel des Kapitels:** Ziel: Fasern nach Verhalten bei Nässe/Wärme kennen und mit Nadel/Faden Kleidung reparieren können.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Jeder Mensch gibt ~½ l Feuchtigkeit/Nacht über die Atmung ab; ohne Lüftung kondensiert sie an Wänden/Decke (Schimmel, nasse Isolation). Stoßlüftung 2× täglich tauscht die Luft schnell. CO-Regel: keine Verbrennung im geschlossenen Raum (B3-6.3, warn-3).
@@ -332,6 +417,10 @@ Konsistent mit Konzept B1-2.3, Wachenplan.
 1. Wolle bei Nässe auswringen, nicht rubbeln.
 2. Synthetik nie ans Feuer (siehe Konzept 8.3).
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.1 „Faserkunde & Pflege“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Fasereigenschaften bekannt
 
 **Querverweise:** siehe Konzept 8.3, siehe Konzept B3-2.2, siehe Konzept B5-7.1, Fasergewinnung.
@@ -347,6 +436,10 @@ Soll: **2 Nadeln, 10–15 m Zwirn** (konsistent mit Faserertrag, siehe Konzept B
 1. Zwirn aus Pflanzenfasern selbst drehen (siehe Konzept B5-7.1) oder Faden aus alter Kleidung.
 2. Nadel an Faden binden, Ende anknoten.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.2 „Nadel & Faden“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] 2 Nadeln + 10–15 m Zwirn im Nähset
 
 **Querverweise:** siehe Konzept B5-7.1, siehe Konzept B9-6.2, Flicken.
@@ -354,6 +447,9 @@ Soll: **2 Nadeln, 10–15 m Zwirn** (konsistent mit Faserertrag, siehe Konzept B
 ---
 
 ## Kapitel 8 — Kleidung im Ernstfall
+
+**Ziel des Kapitels:** Ziel: Einen kompletten Kleidungssatz pro Person sicherstellen, Behelfe mit Verfallsdatum versehen, Schuhwerk wechselnd trocknen.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Nadel und Zwirn sind Verschleißteile: 2 Nadeln (eine bricht/verbiegt), 10–15 m Zwirn. Pflanzlicher Zwirn aus Fasern (B5-7.1) oder aus alter Kleidung gelöst.
@@ -364,6 +460,10 @@ Soll: **2 Nadeln, 10–15 m Zwirn** (konsistent mit Faserertrag, siehe Konzept B
 Jeder führt einen vollständigen Satz: Unterwäsche, Socken, Hose, Pullover, Jacke, Kopfbedeckung, Handschuhe, Schuhwerk.
 
 > **Juristisch (siehe Konzept B10-5.2):** Entnahme fremder Kleidung im Notstand ist nach **§§ 34/35 StGB** bei Lebensgefahr gerechtfertigt/entschuldigt — aber: Deeskalation und Tausch vor Verteidigung; nie Gewalt gegen Personen (Notwehr nur § 32 StGB, siehe Konzept B10-4.2).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.1 „Kleidungssatz & Eigentum“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Kompletter Satz pro Person
 - [ ] Eigentumsfragen nach Band 10 gelöst
@@ -377,6 +477,10 @@ Jeder führt einen vollständigen Satz: Unterwäsche, Socken, Hose, Pullover, Ja
 ### 8.2 Wettergrenzen improvisiert (Verfallsdatum) — grün · P 7 · M unbedenklich · V 9
 
 Jeder Behelf (z. B. Poncho aus Müllsack, Gamaschen aus Dosenblech) bekommt ein **Verfallsdatum** — bei Erreichen prüfen/ersetzen.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.2 „Wettergrenzen improvisiert (Verfallsdatum)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Verfallsdatum auf jedem Behelf notiert
 
@@ -394,6 +498,10 @@ Jeder Behelf (z. B. Poncho aus Müllsack, Gamaschen aus Dosenblech) bekommt ein 
 2. Trocknen bei Raumtemperatur, Zeitung als Einlage.
 3. Nie direkt am Feuer trocknen.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.3 „Schuhwerk“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Wechselrhythmus eingehalten
 - [ ] Nie ans Feuer
 
@@ -402,6 +510,9 @@ Jeder Behelf (z. B. Poncho aus Müllsack, Gamaschen aus Dosenblech) bekommt ein 
 ---
 
 ## Kapitel 9 — Lagerorganisation
+
+**Ziel des Kapitels:** Ziel: Das Lager organisieren: Trage, Dunkelheit (Restlicht-1-h), feste Plätze.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Leder wird bei direkter Hitze spröde und bricht (Eiweiß denaturiert); nasse Schuhe trocknen am besten bei Raumtemperatur mit Zeitung. Wechsel: eines tragen, eines trocknen.
@@ -414,6 +525,10 @@ Konsistent mit Trage-Regeln Band 8 (siehe Konzept B8-6.1) und Traglast (siehe Ko
 1. Trage aus Plane/Holz mit zwei Stangen (siehe Konzept B9-3.3, Stiele).
 2. Max. 30 % Körpergewicht kurz (siehe Konzept B1-6.5).
 3. Zwei Träger, Ablösung alle 30 min.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.1 „Behelfstrage“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Traglast-Regel (siehe Konzept B1-6.5)
 - [ ] Zwei Träger
@@ -431,6 +546,10 @@ Konsistent mit Konzept B1-7.3: eine Stunde vor Dunkelheit alle Arbeiten einstell
 1. Restlicht-1-h-Regel: ab einer Stunde vor Einbruch der Dunkelheit nur noch Lampenlicht-Arbeit.
 2. Lagerpfade mit Steinen/Leuchtmarkern markieren.
 3. Feuerwache bei Dunkelheit doppelt (siehe Konzept B3-9.3).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.2 „Lager bei Dunkelheit (Restlicht-1-h)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Restlicht-1-h eingehalten
 - [ ] Pfade markiert
@@ -458,7 +577,24 @@ Konsistent mit Konzept B1-7.3: eine Stunde vor Dunkelheit alle Arbeiten einstell
 
 ## Anhang C — Übungsplan (Band 4)
 
-Behelfsdach (3.2) und Schneehöhle (3.3, zu zweit) üben; Hüttendiagnose (5.3) monatlich; Verfalluhr 12 Monate (siehe Konzept B1-8.2).
+**Übungsablauf (verbindlich für jede Übung in diesem Band):**
+
+1. **Vorbereitung (10 min):** Material und Protokollbogen (Anhang A4 / B1-8.2) bereitlegen; Warnrahmen des Konzepts durchlesen; bei Outdoor-Übung Wetter prüfen (B1-4.4).
+2. **Durchführung:** die nummerierten Schritte des Konzepts exakt in der dortigen Reihenfolge ausführen — keine Abkürzungen.
+3. **Wiederholungen:** jede Übung mindestens 3× hintereinander; Konzepte mit V < 6 mindestens 5× (z. B. in diesem Band siehe Liste unten).
+4. **Zeitansatz:** 45–90 min pro Übungseinheit, maximal 2 Einheiten pro Tag — Ermüdung verfälscht das Ergebnis.
+5. **Beobachten (Erfolgskontrolle):** das messbare Kriterium der Übung notieren (Zeit, Maß, Trefferquote, Temperatur) — ohne Messung ist die Übung nicht bestanden.
+6. **Abbruchkriterien:** Abbruch sofort bei Verletzung, Wetterumschwung, Materialbruch, Schmerzen (z. B. Augen beim Schweißen) oder wenn nach 3 Durchgängen kein Fortschritt erkennbar ist. Abbruch dokumentieren — nicht schönreden.
+7. **Protokoll (B1-8.2):** Datum, Konzept-Nr., Wiederholungen, Zeitansatz, Beobachtung/Erfolgskontrolle, V-Bewertung, Verfalldatum (Datum + 12 Monate).
+
+**Band-spezifische Übungen (Vorrang, mit Erfolgskontrolle):**
+
+- Behelfsdach (3.2): 1× pro Neigung (30/45/50°), Erfolg: 1 l Wasser pro m² läuft ab ohne Durchtritt
+- Schneehöhle zu zweit (3.3): 1×, Erfolg: Kugelprobe bestanden, Luftloch offen, Podest erhöht
+- Hüttendiagnose (5.3): 3× an verschiedenen Unterkünften, Erfolg: alle 6 Schwachstellen gefunden
+- Bodenisolation (6.1): 2×, Erfolg: 12–18 Armvoll gemessen, trocken nach 1 Nacht
+
+Verfalluhr: 12 Monate ohne Wiederholung = Fähigkeit verfallen (siehe B1-8.2).
 
 ---
 

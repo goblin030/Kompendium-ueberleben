@@ -48,6 +48,7 @@ Diese 15 Warngrafiken gelten reihenweit; in diesem Band sind die fett markierten
 #pagebreak(weak: true)
 #pagebreak(weak: true)
 == Kapitel 1 — Ethik des Handwerks <kap-1>
+_Ziel des Kapitels:_ Ziel: Die Ethik des Machens (Grenze aus Können/Material/Zeit) und die Werkzeug-Kette (Lesen–Wählen–Halten–Führen) verinnerlichen.
 #subhead[Kapitel-Übersicht]
 #table(
   columns: 7,
@@ -57,10 +58,10 @@ Diese 15 Warngrafiken gelten reihenweit; in diesem Band sind die fett markierten
   [1.2], [Werkzeug-Kette], [9], [unbedenklich], [9], [grün], [–],
   [1.3], [Übungsstück], [7], [unbedenklich], [9], [grün], [–],
 )
-#pagebreak(weak: true)
 === 1.1 Grenze des Machens <k-1-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 10]
 Mache nur, was du _kannst_, wofür _Material_ da ist und wofür _Zeit_ ist. Sonst: lassen oder üben (siehe Konzept 1.3).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.1 „Grenze des Machens“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Können/Material/Zeit vor Arbeitsbeginn geklärt
 #baustein[Erst können, dann Material, dann Zeit — fehlt eines, bleibt die Arbeit liegen.]
 _Querverweise:_ siehe Konzept 1.3. _Erklärung:_
@@ -105,6 +106,7 @@ _Querverweise:_ siehe Konzept 1.3. _Erklärung:_
   [kannst], [siehe Glossar, Anhang D Band 1],
   [Material], [siehe Glossar, Anhang D Band 1],
   [Zeit], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -223,7 +225,6 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 1.2 Werkzeug-Kette <k-1-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9]
 _Lesen — Wählen — Halten — Führen:_
@@ -231,6 +232,7 @@ _Lesen — Wählen — Halten — Führen:_
 + _Wählen:_ richtiges Werkzeug für Material und Kraft.
 + _Halten:_ fester Griff, Finger weg vom Schlag/Schnitt.
 + _Führen:_ kurze, kontrollierte Bewegungen.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.2 „Werkzeug-Kette“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Vier Schritte bewusst durchlaufen
 _Querverweise:_ siehe Konzept 6.2, siehe Konzept B1-6.1. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Die Kette Lesen–Wählen–Halten–Führen verhindert die häufigsten Werkzeugunfälle: falsches Werkzeug beschädigt Werkstück und Hand; schlechter Griff rutscht ab.
@@ -295,6 +297,7 @@ _Querverweise:_ siehe Konzept 6.2, siehe Konzept B1-6.1. _Erklärung:_
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Lesen — Wählen — Halten — Führen:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -412,10 +415,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 1.3 Übungsstück <k-1-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 9]
 Übe am _Wertlosen_: kaputtes Brett, weiches Holz, alter Nagel. Erst wenn es dort sitzt, am Guten.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.3 „Übungsstück“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Übungsstück vorhanden
 _Querverweise:_ siehe Konzept 1.1, siehe Konzept 9.2 (Lehrling, Proben).
 #subhead[Fehler & Folgen (siehe Anhang B)]
@@ -454,6 +457,7 @@ _Querverweise:_ siehe Konzept 1.1, siehe Konzept 9.2 (Lehrling, Proben).
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Wertlosen], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -573,6 +577,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 2 — Schmiede <kap-2>
+_Ziel des Kapitels:_ Ziel: Schmieden, Härten und Anlassen sicher beherrschen — Anlassen nie vergessen (Glasbruch), CO/Augenschutz (warn-3).
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Am Übungsstück (wertlos) darfst du scheitern — Fehler kosten nichts und trainieren das Gefühl für Material und Kraft. Erst danach am guten Werkstück.
 - _Situationsvarianten (wann welche):_ Weiches Holz, alter Nagel, kaputtes Brett. Wiederholen bis blind/sicher.
@@ -587,14 +592,13 @@ _Erklärung:_
   [2.3], [Geschmiedete Klinge], [8], [unbedenklich], [7], [grün], [–],
   [2.4], [Feuerschweißen], [6], [prüfenswert], [6], [gelb], [–],
 )
-#pagebreak(weak: true)
 === 2.1 Schmied-Feuer <k-2-1>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb_ · P 7 · M prüfenswert · V 7 · Abb. 9.1]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-1.svg", width: 100%, alt: "Abb. 9.1: Schmiede-Feuer: Esse mit Luftzufuhr, Amboss daneben – CO- & Brandgefahr, Augenschutz (IR/UV) (Konzept 2.1, gelb)."), caption: [Abb. 9.1 — Schmiede-Feuer: Esse mit Luftzufuhr, Amboss daneben – CO- & Brandgefahr, Augenschutz (IR/UV) (Konzept 2.1, gelb).])]]
 + Kohlebett, Luftzufuhr von unten; _weiße_ Glut in der Mitte.
 + _CO/Brandgefahr:_ nur im Freien oder mit Abzug — siehe Konzept B3-6.3, `warn-3`: keine Verbrennung in geschlossenen Räumen.
 + _Augenschutz gegen IR/UV:_ Schweißschild/Schutzbrille — nie ohne in die Glut sehen.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.1 „Schmied-Feuer“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Im Freien/Abzug
 - [ ] Augenschutz getragen
 _Querverweise:_ siehe Konzept B3-6.3, `warn-3`. _Erklärung:_
@@ -663,6 +667,7 @@ _Querverweise:_ siehe Konzept B3-6.3, `warn-3`. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -780,14 +785,13 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 2.2 Härten & Anlassen <k-2-2>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb_ · P 6 · M prüfenswert · V 7 · Abb. 9.2]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-2.svg", width: 100%, alt: "Abb. 9.2: Härten & Anlassen: Abschrecken, dann anlassen – Anlassfarben Hellstrohgelb (hart) bis Hellblau (weich); Anlassen zwingend, sonst Glasbruch (Konzept 2.2)."), caption: [Abb. 9.2 — Härten & Anlassen: Abschrecken, dann anlassen – Anlassfarben Hellstrohgelb (hart) bis Hellblau (weich); Anlassen zwingend, sonst Glasbruch (Konzept 2.2).])]]
 + Stahl auf _Kirschrot bis Hellrot_ (ca. 800–900 °C) erhitzen.
 + Abschrecken: _Öl = milder, weniger Rissgefahr; Wasser = härter, spröder._
 + _Anlassen zwingend_ (sonst Glasbruch): Anlassfarben als Kontrolle : _Hellstrohgelb ≈ 200 °C (hart) bis Hellblau ≈ 300 °C (weich)_ — je nach Werkzeug wählen.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.2 „Härten & Anlassen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Abschreckmedium gewählt (Öl milder / Wasser härter)
 - [ ] Anlassen nicht vergessen (Glasbruch!)
 - [ ] Anlassfarbe kontrolliert
@@ -858,6 +862,7 @@ _Querverweise:_ siehe Konzept 4.1, siehe Konzept 2.3. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -976,7 +981,6 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 2.3 Geschmiedete Klinge <k-2-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 7]
 _Amboss formt, Stein schärft._ 1. Rohling auf dem Amboss in Form bringen. 2. Schneide auf dem Schleifstein (siehe Konzept 4.1) ausarbeiten.
@@ -1137,12 +1141,12 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 2.4 Feuerschweißen <k-2-4>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb (V = 6 → Übungspflicht)_ · P 6 · M prüfenswert · V 6]
 + _Zunder zwischen die Flächen_ bringen (Flussmittel), auf Schweißtemperatur erhitzen, zusammenschmieden.
 + _UV-Augenschutz_ Pflicht (siehe Konzept 2.1).
 + _Stromschlaggefahr bei Nässe_ (elektrisches Schweißen): trockene Handschuhe, isolierende Unterlage.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.4 „Feuerschweißen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Zunder als Flussmittel
 - [ ] UV-Schutz
 - [ ] Übungspflicht erfüllt (s. Konzept B1-8.2)
@@ -1201,6 +1205,7 @@ _Querverweise:_ siehe Konzept 2.1, siehe Konzept B1-8.2.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -1320,10 +1325,12 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 3 — Holz <kap-3>
+_Ziel des Kapitels:_ Ziel: Bäume sicher fällen (Kerbe 1/3, Flucht 45°, warn-9a) und Holz richtig trocknen/spalten.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Feuerschweißen: zwei Flächen auf Schweißtemperatur bringen, Zunder (Flussmittel) entfernt Oxide, Hammerschlag verschweißt (Pressschweißung). Elektrisch: Lichtbogen — UV-Augenschutz Pflicht, Stromschlaggefahr bei Nässe (isolierende Handschuhe/Unterlage). V = 6 → Übungspflicht (B1-8.2).
 - _Situationsvarianten (wann welche):_ Im Trockenen, mit Schutzbrille/Schirm. Üben am Schrott.
 - _Typische Fehler (warum + Folge):_ Ohne Augenschutz schweißen. Folge: „Schweißblitz“ (UV-Verbrennung der Hornhaut — stundenlang schmerzhaft, Lichtscheu).
+_Übungsablauf (Feuerschweißen, V = 6):_ 5 Wdh. am Schrott mit UV-Schutz; Zeitansatz 30 min; Erfolgskontrolle: Naht hält Zugprobe; Abbruch sofort bei Augenschmerz (UV-Licht) oder Nässe (Stromschlaggefahr).
 #subhead[Kapitel-Übersicht]
 #table(
   columns: 7,
@@ -1333,16 +1340,15 @@ _Erklärung:_
   [3.2], [Block → Brett], [8], [unbedenklich], [8], [grün], [Abb. 9.4],
   [3.3], [Stiel (Esche/Ahorn)], [8], [unbedenklich], [9], [grün], [–],
 )
-#pagebreak(weak: true)
 === 3.1 Fällen <k-3-1>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb + WARNRAHMEN [warn-9a]_ · P 7 · M prüfenswert · V 7 · Abb. 9.3]
-#pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-3.svg", width: 100%, alt: "Abb. 9.3: Fällen: untere Kerbe 1/3, Fällkerbe, Fluchtweg 45° schräg – nie hangabwärts darunter stehen (Konzept 3.1, warn-9a, Warnung: „tödliche Minute“)."), caption: [Abb. 9.3 — Fällen: untere Kerbe 1/3, Fällkerbe, Fluchtweg 45° schräg – nie hangabwärts darunter stehen (Konzept 3.1, warn-9a, : „tödliche Minute“).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-3.svg", width: 100%, alt: "Abb. 9.3: Fällen: untere Kerbe 1/3, Fällkerbe, Fluchtweg 45° schräg – nie hangabwärts darunter stehen (Konzept 3.1, warn-9a, Warnung: „tödliche Minute“)."), caption: [Abb. 9.3 — Fällen: untere Kerbe 1/3, Fällkerbe, Fluchtweg 45° schräg – nie hangabwärts darunter stehen (Konzept 3.1, warn-9a, Warnung: „tödliche Minute“).])]]
 #warnrahmen(id: "warn-9a", title: [TÖDLICHE MINUTE :])[Beim Fällen kann der Baum in der _letzten Minute_ brechen/kippen. _Nie hangabwärts darunter stehen._ _Fluchtweg 45° schräg_ zur Fallrichtung, zwei Wege frei (siehe Konzept B1-6.2: 2 Stiellängen Sperrzone, 2 Fluchtwege 45°).]
 + _Untere Kerbe 1/3_ der Stammdicke, Keilform.
 + Gegenüber: Fällschnitt leicht oberhalb der Kerbe.
 + Keil einsetzen, Baum kontrolliert kippen lassen.
 + Sofort auf den Fluchtweg (45° schräg), nie hangabwärts.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.1 „Fällen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Untere Kerbe 1/3
 - [ ] Flucht 45° schräg, nie hangabwärts
 - [ ] Sperrzone 2 Stiellängen (siehe Konzept B1-6.2)
@@ -1420,6 +1426,7 @@ _Querverweise:_ siehe Konzept B1-6.2, siehe Konzept B4-3.1, Windbruch. _Erkläru
   [letzten Minute], [siehe Glossar, Anhang D Band 1],
   [Nie hangabwärts darunter stehen.], [siehe Glossar, Anhang D Band 1],
   [Fluchtweg 45° schräg], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -1538,14 +1545,13 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 3.2 Block → Brett <k-3-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 9.4]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-4.svg", width: 100%, alt: "Abb. 9.4: Block → Brett: Keile in die Hirnholzseite, Maserung lesen – Trocknung ~1 Jahr je Daumen Dicke (Konzept 3.2)."), caption: [Abb. 9.4 — Block → Brett: Keile in die Hirnholzseite, Maserung lesen – Trocknung \~1 Jahr je Daumen Dicke (Konzept 3.2).])]]
 + _Maserung lesen:_ Äste, Risse, Drehwuchs erkennen.
 + Keile entlang der Faser einschlagen (siehe Konzept 5.1), Brett abspalten.
 + _Trocknung: \~1 Jahr je Daumendicke_ (Fichte 1 J, Buche/Eiche 2 J), luftig stapeln.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.2 „Block → Brett“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Maserung gelesen
 - [ ] Trocknungszeit eingeplant
 _Querverweise:_ siehe Konzept 5.1, siehe Konzept B3-2.2. _Erklärung:_
@@ -1615,6 +1621,7 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept B3-2.2. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -1732,7 +1739,6 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 3.3 Stiel (Esche/Ahorn) <k-3-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9]
 Esche und Ahorn: zäh, biegsam, ideal für Stiele (Axt, Hammer, Spaten). Rundling auf halbe Länge spalten, entrinden, trocknen, hobeln.
@@ -1891,6 +1897,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 4 — Die Kante <kap-4>
+_Ziel des Kapitels:_ Ziel: Werkzeuge schärfen und die Schneide halten (konstanter Winkel, Wetz-Takt).
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Stielhölzer brauchen Zähigkeit + Biegsamkeit: Esche und Ahorn sind zäh, nicht spröde. Rundling spalten, entrinden, trocknen, hobeln — Faserlauf längs beachten.
 - _Situationsvarianten (wann welche):_ Axt-/Hammerstiel: Esche. Spatenstiel: härteres Holz.
@@ -1903,15 +1910,14 @@ _Erklärung:_
   [4.1], [Schliff], [9], [unbedenklich], [9], [grün], [Abb. 9.5],
   [4.2], [Schneide halten (Wetz-Takt)], [9], [unbedenklich], [9], [grün], [–],
 )
-#pagebreak(weak: true)
 === 4.1 Schliff <k-4-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 9.5]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-5.svg", width: 100%, alt: "Abb. 9.5: Schliff in drei Stufen: Grob – Fein – Glatt, Winkel konstant halten (Konzept 4.1)."), caption: [Abb. 9.5 — Schliff in drei Stufen: Grob – Fein – Glatt, Winkel konstant halten (Konzept 4.1).])]]
 _Grob → Fein → Glatt_, _Winkel konstant_ halten.
 + Grob: Sensen-/Schleifstein, Kratzer raus.
 + Fein: Wetzstein mit Wasser/Öl.
 + Glatt: Lederriemen abziehen.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.1 „Schliff“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Winkel konstant
 - [ ] Drei Stufen durchlaufen
 _Querverweise:_ siehe Konzept 4.2, siehe Konzept B1-6.1. _Erklärung:_
@@ -1974,6 +1980,7 @@ _Querverweise:_ siehe Konzept 4.2, siehe Konzept B1-6.1. _Erklärung:_
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Grob → Fein → Glatt], [siehe Glossar, Anhang D Band 1],
   [Winkel konstant], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -2091,10 +2098,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 4.2 Schneide halten (Wetz-Takt) <k-4-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9]
 Konsistent mit Konzept B1-6.1: nach jedem Gebrauch kurz wetzen — nie stumpf werden lassen.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.2 „Schneide halten (Wetz-Takt)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Wetz-Takt eingehalten
 _Querverweise:_ siehe Konzept B1-6.1, siehe Konzept 4.1.
 #subhead[Fehler & Folgen (siehe Anhang B)]
@@ -2132,6 +2139,7 @@ _Querverweise:_ siehe Konzept B1-6.1, siehe Konzept 4.1.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -2251,6 +2259,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 5 — Die Fuge <kap-5>
+_Ziel des Kapitels:_ Ziel: Holzverbindungen herstellen: Zapfen/Loch/Keil, Seil/Knoten, Niet/Nagel.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Jede Schneide wird stumpf durch Mikroausbrüche; regelmäßiges kurzes Wetzen (B9-4.1 fein/glatt) verhindert Nachschleifen. Konsistent mit B1-6.1.
 - _Situationsvarianten (wann welche):_ Nach jedem Gebrauch 5–10 Züge auf dem Wetzstein.
@@ -2264,12 +2273,11 @@ _Erklärung:_
   [5.2], [Seil & Knoten], [8], [unbedenklich], [7], [grün], [Abb. 9.7],
   [5.3], [Niet & Nagel], [7], [unbedenklich], [8], [grün], [–],
 )
-#pagebreak(weak: true)
 === 5.1 Zapfen / Loch / Keil <k-5-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 9.6]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-6.svg", width: 100%, alt: "Abb. 9.6: Zapfen, Loch, Keil: Zapfenloch ausstemmen, Keil folgt der Faser – Verbindung hält ohne Leim (Konzept 5.1)."), caption: [Abb. 9.6 — Zapfen, Loch, Keil: Zapfenloch ausstemmen, Keil folgt der Faser – Verbindung hält ohne Leim (Konzept 5.1).])]]
 _Der Keil folgt der Faser._ 1. Zapfenloch stemmen (Stemmeisen). 2. Zapfen passend sägen. 3. Keil aus Hartholz eintreiben, bündig absägen.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.1 „Zapfen / Loch / Keil“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Keil entlang der Faser
 _Querverweise:_ siehe Konzept B4-4.2, Sattelkerbe. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Holzverbindungen halten durch Formschluss: Zapfen im Loch, Keil verkeilt (Keil folgt der Faser!). Keil aus härterem Holz als das Werkstück.
@@ -2311,6 +2319,7 @@ _Querverweise:_ siehe Konzept B4-4.2, Sattelkerbe. _Erklärung:_
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Der Keil folgt der Faser.], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -2428,13 +2437,12 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 5.2 Seil & Knoten <k-5-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 7 · Abb. 9.7]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-7.svg", width: 100%, alt: "Abb. 9.7: Seil & Knoten: Knoten nach Abb. 1.17–1.21 – lastendes Seil regelmäßig prüfen (Konzept 5.2, konsistent B1 6.3)."), caption: [Abb. 9.7 — Seil & Knoten: Knoten nach Abb. 1.17–1.21 – lastendes Seil regelmäßig prüfen (Konzept 5.2, konsistent B1 6.3).])]]
 Konsistent mit Konzept B1-6.3, fünf Serienknoten.
 #warnrahmen()[Ein belastetes Seil nie mit dem Messer durchtrennen — es _schlägt zurück_. Seil auslaufen lassen, dann trennen.]
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.2 „Seil & Knoten“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Knoten aus Konzept B1-6.3
 - [ ] Lastendes Seil nie durchschnitten
 _Querverweise:_ siehe Konzept B1-6.3, siehe Konzept B5-7.2, Bastseil. _Erklärung:_
@@ -2478,6 +2486,7 @@ _Querverweise:_ siehe Konzept B1-6.3, siehe Konzept B5-7.2, Bastseil. _Erklärun
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [WARNUNG (lastendes Seil):], [siehe Glossar, Anhang D Band 1],
   [schlägt zurück], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -2595,7 +2604,6 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 5.3 Niet & Nagel <k-5-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 8]
 + Nagel vorbohren (Splitter vermeiden), versenken, ankörnen.
@@ -2770,6 +2778,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 6 — Werkstatt <kap-6>
+_Ziel des Kapitels:_ Ziel: Werkstatt-Ordnung und Flicken als Methode etablieren (fester Ort je Ding; Schaden lesen vor dem Flicken).
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Nagel hält durch Reibung/Spreizung im Holz; vorbohren verhindert Spalten. Niet (Metall) hält durch beidseitigen Kopf — formschlüssiger als Nagel bei Zug.
 - _Situationsvarianten (wann welche):_ Nagel: weiches Holz, verdeckt. Niet: Metall auf Metall.
@@ -2782,10 +2791,10 @@ _Erklärung:_
   [6.1], [Werkstatt-Ordnung], [8], [unbedenklich], [9], [grün], [–],
   [6.2], [Flicken als Methode], [9], [unbedenklich], [9], [grün], [–],
 )
-#pagebreak(weak: true)
 === 6.1 Werkstatt-Ordnung <k-6-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9]
 _Fester Ort für jedes Ding._ Nach Gebrauch zurück — sonst suchen alle.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.1 „Werkstatt-Ordnung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Werkzeugwand/-kiste beschriftet
 _Querverweise:_ siehe Konzept 8.1, siehe Konzept 6.2. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Fester Ort je Ding: Suchen kostet Zeit und Nerven; visuelle Ordnung (Werkzeugwand mit Umriss) zeigt fehlendes Werkzeug sofort.
@@ -2827,6 +2836,7 @@ _Querverweise:_ siehe Konzept 8.1, siehe Konzept 6.2. _Erklärung:_
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Fester Ort für jedes Ding.], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -2944,10 +2954,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 6.2 Flicken als Methode <k-6-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9]
 _Schaden lesen, dann flicken:_ erst die Ursache finden (Riss, Abrieb, Naht), dann passende Reparatur (Flicken, Stopfen, neue Naht — siehe Konzept B4-7.2, Nadel & Faden).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.2 „Flicken als Methode“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Ursache gelesen vor dem Flicken
 _Querverweise:_ siehe Konzept B4-7.2, siehe Konzept B4-8.2, Verfallsdatum.
 #subhead[Fehler & Folgen (siehe Anhang B)]
@@ -2986,6 +2996,7 @@ _Querverweise:_ siehe Konzept B4-7.2, siehe Konzept B4-8.2, Verfallsdatum.
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Schaden lesen, dann flicken:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -3105,6 +3116,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 7 — Material-Kammer <kap-7>
+_Ziel des Kapitels:_ Ziel: Material kammer-sicher lagern, Leim selbst machen, Öl/Lappen brand-sicher handhaben (warn-9b).
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Flicken als Methode: erst den Schaden lesen (Ursache: Riss durch Ast? Abrieb? Naht?), dann passende Reparatur — sonst reparierst du das Symptom, nicht die Ursache (B4-7.2 Nadel/Faden).
 - _Situationsvarianten (wann welche):_ Kleidung: Stopfen/Flicken. Holz: Leim (7.2) + Klammer.
@@ -3118,10 +3130,10 @@ _Erklärung:_
   [7.2], [Selbst gemachter Leim], [6], [unbedenklich], [7], [grün], [Abb. 9.8],
   [7.3], [Riemen / Fett / Öl], [8], [unbedenklich], [8], [grün], [Abb. 9.9],
 )
-#pagebreak(weak: true)
 === 7.1 Kammer <k-7-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8]
 Konsistent mit Konzept B7-8.1, kalte Kammer: Zonen, trocken, dunkel, gelüftet, Gäste fern (Mäuse — Fallen siehe Konzept 6.5.1a Band 6).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.1 „Kammer“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Zonen eingehalten
 _Querverweise:_ siehe Konzept B7-8.1, siehe Konzept B6-5.1a. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Die Material-Kammer schützt vor Feuchte, Licht, Gästen (Mäuse — Fallen B6-5.1a), Temperaturschwankungen. Konsistent mit der Lebensmittel-Kammer (B7-8.1): Zonen, trocken, dunkel, gelüftet.
@@ -3162,6 +3174,7 @@ _Querverweise:_ siehe Konzept B7-8.1, siehe Konzept B6-5.1a. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -3279,14 +3292,13 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 7.2 Selbst gemachter Leim <k-7-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 6 · M unbedenklich · V 7 · Abb. 9.8]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-8.svg", width: 100%, alt: "Abb. 9.8: Selbst gemachter Leim: Wasserbad 2–4 h, nie sieden – haltbar ~1 Woche (Konzept 7.2)."), caption: [Abb. 9.8 — Selbst gemachter Leim: Wasserbad 2–4 h, nie sieden – haltbar \~1 Woche (Konzept 7.2).])]]
 + Knochen/Haut/Leimreste im _Wasserbad 2–4 h_ erhitzen — _nie sieden_ (brennt an, verliert Kraft).
 + Durchseihen, in Form gießen.
 + Haltbarkeit _\~1 Woche_ — frisch ansetzen.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.2 „Selbst gemachter Leim“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Nie sieden
 - [ ] Haltbarkeit \~1 Wo beachtet
 _Querverweise:_ siehe Konzept B6-9.3, Knochen, siehe Konzept 5.1. _Erklärung:_
@@ -3355,6 +3367,7 @@ _Querverweise:_ siehe Konzept B6-9.3, Knochen, siehe Konzept 5.1. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -3472,15 +3485,14 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 7.3 Riemen / Fett / Öl <k-7-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün + _WARNRAHMEN [warn-9b]_ · P 8 · M unbedenklich · V 8 · Abb. 9.9]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-9.svg", width: 100%, alt: "Abb. 9.9: Riemen, Fett, Öl: Leinöl-Lappen nie zerknüllt wegwerfen – Selbstentzündung (Konzept 7.3, warn-9b)."), caption: [Abb. 9.9 — Riemen, Fett, Öl: Leinöl-Lappen nie zerknüllt wegwerfen – Selbstentzündung (Konzept 7.3, warn-9b).])]]
 #warnrahmen(id: "warn-9b", title: [LEINÖL-LAPPEN-SELBSTENTZÜNDUNG :])[_Lappen nie zerknüllt in den Abfalleimer_ — ausgebreitet auf _nichtbrennbarem Untergrund_ trocknen _oder_ in _dicht verschlossenen Metallbehälter mit Wasser_ legen. _Nie Öl in einen Wassereimer_ — Dampfexplosion.]
 + Lederriemen mit Fett (siehe Konzept B7-7.1, Schmalz/Talg) einreiben, geschmeidig halten.
 + Werkzeuge ölen (siehe Konzept B1-6.1).
 + Ölige Lappen nach warn-9b behandeln.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.3 „Riemen / Fett / Öl“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Lappen ausgebreitet getrocknet oder im Metallbehälter mit Wasser
 - [ ] Nie Öl in Wassereimer
 #baustein[Leinöl wärmt von allein. Zerknüllt im Eimer wird der Eimer zur Bombe.]
@@ -3544,6 +3556,7 @@ _Querverweise:_ siehe Konzept B7-7.1, siehe Konzept B1-6.1, siehe Konzept B3-9.1
   [nichtbrennbarem Untergrund], [siehe Glossar, Anhang D Band 1],
   [oder], [siehe Glossar, Anhang D Band 1],
   [ legen. ], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -3664,6 +3677,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 8 — Werkzeug-Kiste <kap-8>
+_Ziel des Kapitels:_ Ziel: Die Werkzeug-Kiste (3 Schichten, ≤ ¼ Körpergewicht, mit Thermometer) packen und die Feld-Werkstatt einrichten.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Leinöl härtet durch Oxidation (Autooxidation) — dabei entsteht Wärme; zerknüllt im Lappen/Eimer staut sie sich → Selbstentzündung (warn-9b). Nie Öl in Wassereimer (Dampfexplosion). Lederriemen mit Fett (B7-7.1) pflegen.
 - _Situationsvarianten (wann welche):_ Öllappen ausgebreitet auf nichtbrennbarem Untergrund trocknen ODER in dicht verschlossenen Metallbehälter mit Wasser.
@@ -3676,10 +3690,8 @@ _Erklärung:_
   [8.1], [Die Kiste (3 Schichten, ≤ ¼ Körpergewicht)], [8], [unbedenklich], [9], [grün], [Abb. 9.10],
   [8.2], [Feld-Werkstatt], [7], [unbedenklich], [8], [grün], [–],
 )
-#pagebreak(weak: true)
 === 8.1 Die Kiste (3 Schichten, ≤ ¼ Körpergewicht) <k-8-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 9.10]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-9-10.svg", width: 100%, alt: "Abb. 9.10: Die Werkzeug-Kiste: 3 Schichten, ≤ ¼ Körpergewicht (Konzept 8.1)."), caption: [Abb. 9.10 — Die Werkzeug-Kiste: 3 Schichten, ≤ ¼ Körpergewicht (Konzept 8.1).])]]
 Konsistent mit Traglast (siehe Konzept B1-6.5): _≤ ¼ Körpergewicht_.
 #table(
@@ -3690,6 +3702,7 @@ Konsistent mit Traglast (siehe Konzept B1-6.5): _≤ ¼ Körpergewicht_.
   [2 (Mitte)], [Messer, Hobel, Bohrer, Zange],
   [3 (oben, leicht)], [Nägel, Schrauben, Seil, Schleifstein, _Fleischthermometer_ (Kerntemperatur ≥ 71 °C, siehe B6-9.1/B7-3.2)],
 )
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.1 „Die Kiste (3 Schichten, ≤ ¼ Körpergewicht)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] ≤ ¼ Körpergewicht gewogen (siehe Konzept B1-6.5)
 - [ ] Drei Schichten gepackt
 _Querverweise:_ siehe Konzept B1-6.5, siehe Konzept B1-3.2, Rucksack. _Erklärung:_
@@ -3740,6 +3753,7 @@ _Querverweise:_ siehe Konzept B1-6.5, siehe Konzept B1-3.2, Rucksack. _Erklärun
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [≤ ¼ Körpergewicht], [siehe Glossar, Anhang D Band 1],
   [Fleischthermometer], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -3857,7 +3871,6 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 8.2 Feld-Werkstatt <k-8-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 8]
 + Fester Platz im Lager (siehe Konzept B4-1.2), überdacht (siehe Konzept B4-3.2 (Behelfsdach, Band 4)).
@@ -4037,6 +4050,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 9 — Weitergabe <kap-9>
+_Ziel des Kapitels:_ Ziel: Wissen weitergeben (dreifach gesichert) und Lehrlinge anhand der 4 Proben prüfen.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Die Feld-Werkstatt ist der feste Arbeitsplatz vor Ort (überdacht B4-3.2, guter Stand, Licht — Restlicht-1-h B4-9.2); improvisierte Unterlagen (Stein als Amboss, Keile als Schraubstock).
 - _Situationsvarianten (wann welche):_ Am Lager, windgeschützt. Stadt: Keller/Garage mit Erlaubnis.
@@ -4049,10 +4063,10 @@ _Erklärung:_
   [9.1], [Weitergabe am Werkstück (dreifach gesichert)], [7], [unbedenklich], [9], [grün], [–],
   [9.2], [Lehrling (4 Proben: Hand/Ordnung/Geduld/Wahrheit)], [7], [unbedenklich], [9], [grün], [–],
 )
-#pagebreak(weak: true)
 === 9.1 Weitergabe am Werkstück (dreifach gesichert) <k-9-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 9]
 + _Zeigen_, 2. _Tun lassen_ (unter Aufsicht), 3. _Zeile ziehen_ (Kontrolle/Schnittprobe).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.1 „Weitergabe am Werkstück (dreifach gesichert)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Drei Stufen durchlaufen
 _Querverweise:_ siehe Konzept 9.2, siehe Konzept 1.3. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Weitergabe gelingt dreifach gesichert: zeigen → tun lassen (unter Aufsicht) → kontrollieren (Schnittprobe/Lastprobe). Wissen ohne Übung ist nicht übertragbar.
@@ -4104,6 +4118,7 @@ _Querverweise:_ siehe Konzept 9.2, siehe Konzept 1.3. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -4221,10 +4236,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 9.2 Lehrling (4 Proben: Hand/Ordnung/Geduld/Wahrheit) <k-9-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 9]
 + _Hand:_ sauber arbeiten. 2. _Ordnung:_ Werkzeug zurück (siehe Konzept 6.1). 3. _Geduld:_ Übungsstück-Prinzip (siehe Konzept 1.3). 4. _Wahrheit:_ Fehler melden, nicht vertuschen.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.2 „Lehrling (4 Proben: Hand/Ordnung/Geduld/Wahrheit)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Vier Proben bestanden
 _Querverweise:_ siehe Konzept 1.3, siehe Konzept 6.1, siehe Konzept B10-9.1, Vermächtnis/Weitergabe.
 #subhead[Ablauf mit Kontrollkästchen]
@@ -4273,6 +4288,7 @@ _Querverweise:_ siehe Konzept 1.3, siehe Konzept 6.1, siehe Konzept B10-9.1, Ver
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -4493,7 +4509,20 @@ Kopiervorlage zu Konzept 7.1 — konsistent mit Anhang A Band 7 (A1).
 )
 #pagebreak(weak: true)
 == Anhang C — Übungsplan (Band 9) <anh-C>
-Q4 siehe Konzept B1-8.1: Knoten (5.2), Schliff/Wetzen (4.1/4.2), Feuerschweißen (2.4, V = 6 → Übungspflicht), Fällkerbe am Übungsstück (3.1). Verfalluhr 12 Monate (siehe Konzept B1-8.2).
+_Übungsablauf (verbindlich für jede Übung in diesem Band):_
++ _Vorbereitung (10 min):_ Material und Protokollbogen (Anhang A4 / B1-8.2) bereitlegen; Warnrahmen des Konzepts durchlesen; bei Outdoor-Übung Wetter prüfen (B1-4.4).
++ _Durchführung:_ die nummerierten Schritte des Konzepts exakt in der dortigen Reihenfolge ausführen — keine Abkürzungen.
++ _Wiederholungen:_ jede Übung mindestens 3× hintereinander; Konzepte mit V \< 6 mindestens 5× (z. B. in diesem Band siehe Liste unten).
++ _Zeitansatz:_ 45–90 min pro Übungseinheit, maximal 2 Einheiten pro Tag — Ermüdung verfälscht das Ergebnis.
++ _Beobachten (Erfolgskontrolle):_ das messbare Kriterium der Übung notieren (Zeit, Maß, Trefferquote, Temperatur) — ohne Messung ist die Übung nicht bestanden.
++ _Abbruchkriterien:_ Abbruch sofort bei Verletzung, Wetterumschwung, Materialbruch, Schmerzen (z. B. Augen beim Schweißen) oder wenn nach 3 Durchgängen kein Fortschritt erkennbar ist. Abbruch dokumentieren — nicht schönreden.
++ _Protokoll (B1-8.2):_ Datum, Konzept-Nr., Wiederholungen, Zeitansatz, Beobachtung/Erfolgskontrolle, V-Bewertung, Verfalldatum (Datum + 12 Monate).
+_Band-spezifische Übungen (Vorrang, mit Erfolgskontrolle):_
+- Schliff/Wetzen (4.1/4.2): 5×, Erfolg: konstanter Winkel, Papier sauber durchtrennt
+- Feuerschweißen (2.4, V = 6 → 5 Wdh.): Erfolg: Schweißnaht hält Zugprobe; Abbruch sofort bei Augenschmerz (UV) oder Nässe (Stromschlaggefahr)
+- Fällkerbe am Übungsstamm (3.1): 3×, Erfolg: untere Kerbe 1/3, Fluchtweg 45° markiert (nie am lebenden Baum ohne Genehmigung!)
+- Knoten am Seil (5.2): 5×, Erfolg: Knoten nach Belastung nachgezogen, lastendes Seil nie durchschnitten
+Verfalluhr: 12 Monate ohne Wiederholung = Fähigkeit verfallen (siehe B1-8.2).
 #pagebreak(weak: true)
 == Bandabschluss Band 9 — Bewertungsmatrix + Devise <abschluss>
 #table(
@@ -4534,9 +4563,9 @@ _Erklärung:_
 == Situative Detail-Skizzen (Review v1) <skizzen-v1>
 Situative Skizzen zu Varianten und Situationen (mit Maßen und Kontext) — ergänzt nach Review v1, Befund 3.
 #grid(columns: (1fr, 1fr), column-gutter: 8pt, row-gutter: 8pt,
-  figure(image("illustrationen/abb-9-11.svg", width: 100%, alt: "Abb. 9.11: Fällen situativ: Hang vs. Ebene – Fluchtwege immer hangaufwärts/seitlich, nie hangabwärts (Ergänzung zu Abb. 9.3, warn-9a). *(situativ, Review v1)*"), caption: [Abb. 9.11 — Fällen situativ: Hang vs. Ebene – Fluchtwege immer hangaufwärts/seitlich, nie hangabwärts (Ergänzung zu Abb. 9.3, warn-9a, Review v1).]),
-  figure(image("illustrationen/abb-9-12.svg", width: 100%, alt: "Abb. 9.12: Härten situativ: Abschreckmedium-Vergleich Öl vs. Wasser mit Anlassfarben-Streifen (Ergänzung zu Abb. 9.2). *(situativ, Review v1)*"), caption: [Abb. 9.12 — Härten situativ: Abschreckmedium-Vergleich Öl vs. Wasser mit Anlassfarben-Streifen (Ergänzung zu Abb. 9.2, , Review v1).]),
-  figure(image("illustrationen/abb-9-13.svg", width: 100%, alt: "Abb. 9.13: Werkzeug-Kiste situativ gepackt: 3 Schichten nach Zugriffshäufigkeit, ≤ ¼ Körpergewicht (Ergänzung zu Abb. 9.10). *(situativ, Review v1)*"), caption: [Abb. 9.13 — Werkzeug-Kiste situativ gepackt: 3 Schichten nach Zugriffshäufigkeit, ≤ ¼ Körpergewicht (Ergänzung zu Abb. 9.10, Review v1).]))
+  figure(image("illustrationen/abb-9-11.svg", width: 100%, alt: "Abb. 9.11: Fällen situativ: Hang vs. Ebene – Fluchtwege immer hangaufwärts/seitlich, nie hangabwärts (Ergänzung zu Abb. 9.3, warn-9a). *(situativ, Review v1)*"), caption: [Abb. 9.11 — Fällen situativ: Hang vs. Ebene – Fluchtwege immer hangaufwärts/seitlich, nie hangabwärts (Ergänzung zu Abb. 9.3, warn-9a).]),
+  figure(image("illustrationen/abb-9-12.svg", width: 100%, alt: "Abb. 9.12: Härten situativ: Abschreckmedium-Vergleich Öl vs. Wasser mit Anlassfarben-Streifen (Ergänzung zu Abb. 9.2). *(situativ, Review v1)*"), caption: [Abb. 9.12 — Härten situativ: Abschreckmedium-Vergleich Öl vs. Wasser mit Anlassfarben-Streifen (Ergänzung zu Abb. 9.2).]),
+  figure(image("illustrationen/abb-9-13.svg", width: 100%, alt: "Abb. 9.13: Werkzeug-Kiste situativ gepackt: 3 Schichten nach Zugriffshäufigkeit, ≤ ¼ Körpergewicht (Ergänzung zu Abb. 9.10). *(situativ, Review v1)*"), caption: [Abb. 9.13 — Werkzeug-Kiste situativ gepackt: 3 Schichten nach Zugriffshäufigkeit, ≤ ¼ Körpergewicht (Ergänzung zu Abb. 9.10).]))
 #pagebreak(weak: true)
 == Gesamt-Checkliste Band 9 <gesamt-checkliste>
 Alle Konzepte dieses Bandes im Überblick — abhaken, wenn geübt/gelesen:
@@ -4622,9 +4651,9 @@ Interne Prüf-IDs aus dem Factcheck (dreifache Prüfung). Sie stehen nicht im Le
   table.header([*ID*], [*Konzept*], [*Fundstelle (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [W29], [2.2], [onst Glasbruch): Anlassfarben als Kontrolle : \*\*Hellstrohgelb ≈ 200 °C (hart) bis Hellbl],
-  [WARN 2], [3.1], [\> _WARNRAHMEN (warn-9a) — TÖDLICHE MINUTE (WARN 2):_ Beim Fällen kann der Baum in der \*\*],
+  [WARN 2], [3.1], [\> _WARNRAHMEN (warn-9a) — TÖDLICHE MINUTE :_ Beim Fällen kann der Baum in der \*\*letzt],
   [W28], [3.2], [3. _Trocknung: \~1 Jahr je Daumendicke_ (Fichte 1 J, Buche/Eiche 2 J), luftig stapel],
-  [W30], [7.3], [(warn-9b) — LEINÖL-LAPPEN-SELBSTENTZÜNDUNG (09 Nr. 10):_ _Lappen nie zerknüllt in den],
+  [W30], [7.3], [(warn-9b) — LEINÖL-LAPPEN-SELBSTENTZÜNDUNG :_ _Lappen nie zerknüllt in den],
   [W20], [8.1], [Konsistent mit Traglast (siehe Konzept B1-6.5): _\*≤ ¼ Körpergewicht_],
   [W29], [9.2], [Klinge bricht wie Glas | 2.2: Anlassfarben |],
 )

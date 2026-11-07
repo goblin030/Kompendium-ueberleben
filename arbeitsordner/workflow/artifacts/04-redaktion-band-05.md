@@ -8,11 +8,18 @@ Warnrahmen umgesetzt: 2.2 `[warn-5]` Giftpflanzen (mit Herbstzeitlose/Herkulesst
 
 ## Kapitel 1 — Ethik des Sammelns
 
+**Ziel des Kapitels:** Ziel: Sammeln so ethisch und rechtlich sauber gestalten, dass Bestand und Gruppe geschützt bleiben (Ein-Drittel-Regel, BNatSchG).
+
+
 ### 1.1 Sammel-Ethik — grün · P 9 · M unbedenklich · V 10
 
 **Ein-Drittel-Regel** und **Wurzelrückgabe**: nie mehr als ein Drittel einer Pflanze/Population entnehmen; Wurzeln wieder einsetzen, wo sie weiterwachsen können.
 
 Rechtliche Ergänzung (BNatSchG): **Handstrauß-Regel** (§ 39 Abs. 1 Nr. 3 BNatSchG) gilt nur für nicht geschützte Arten und geringen Eigenbedarf; in **Naturschutzgebieten ist Sammeln verboten** (§ 23 BNatSchG); **geschützte Arten** (Anlage 1, z. B. Arnika, Enzian, Fingerhut, Eibe, Herbstzeitlose) **meiden** — Entnahme verboten (§ 44 BNatSchG).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.1 „Sammel-Ethik“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Ein-Drittel-Regel eingehalten
 - [ ] Keine geschützten Arten gesammelt
@@ -32,6 +39,10 @@ Rechtliche Ergänzung (BNatSchG): **Handstrauß-Regel** (§ 39 Abs. 1 Nr. 3 BNat
 2. Kreis 2: 2–5 km — Tagesmarsch mit Anlass (Wasser, Spuren, Wetter; siehe Konzepte Band 1 Kapitel 4/5).
 3. Trupp-Regel: einer vorn, einer hinten (siehe Konzept B10-5.3).
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.2 „Sammelgang (Kreise: 500 m / 2–5 km)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Kreisgrenzen vereinbart
 - [ ] Trupp-Regel eingehalten
 
@@ -46,6 +57,10 @@ Rechtliche Ergänzung (BNatSchG): **Handstrauß-Regel** (§ 39 Abs. 1 Nr. 3 BNat
 1. Beim Sammeln 10 % der Samen zurückstreuen.
 2. Samen trocken lagern, Keimprobe vor Aussaat (siehe Konzept 8.3).
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.3 „Samen-Bank (10 % Streu-Rückgabe)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] 10 % zurückgestreut
 - [ ] Keimprobe geplant
 
@@ -54,6 +69,9 @@ Rechtliche Ergänzung (BNatSchG): **Handstrauß-Regel** (§ 39 Abs. 1 Nr. 3 BNat
 ---
 
 ## Kapitel 2 — Bestimmungskunde
+
+**Ziel des Kapitels:** Ziel: Pflanzen sicher bestimmen — fünf Merkmale, Verwechslungs-Paare, Giftpflanzen (warn-5), Winter-Bestimmung.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** 10 % der Samen zurückstreuen sichert die Vermehrung; Saatgut-Trocknung und Keimprobe (8.3) sichern die Aussaat-Qualität.
@@ -66,6 +84,10 @@ Bestimme jede Pflanze über **fünf Merkmale**: Blattstellung, Blattform, Blattr
 1. Merkmale einzeln notieren (Bestimmungsblatt Anhang A).
 2. Familie eingrenzen, dann Art.
 3. Ein Merkmal allein genügt nie.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.1 „Merkmale & Familien (5 Merkmale)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Fünf Merkmale notiert
 - [ ] Familie eingegrenzt
@@ -90,6 +112,10 @@ Bestimme jede Pflanze über **fünf Merkmale**: Blattstellung, Blattform, Blattr
 | Kresse / Wasserschierling | Wasserschierling: Sumpfstandort, dreifach gefiedert | Cicutoxin, tödlich |
 | Heidelbeere / Eibe | Eibe: rote Arillusbeere um schwarzen Samen | Taxine, tödlich |
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.2 „Verwechslungs-Paare & Giftpflanzen“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Name + zweites Merkmal vor jeder Mahlzeit
 - [ ] Giftpflanzen-Liste bekannt
 
@@ -106,6 +132,10 @@ Bestimme jede Pflanze über **fünf Merkmale**: Blattstellung, Blattform, Blattr
 1. **Saft-Fenster: 2–3 Wochen im Frühjahr** (Ahorn, Birke); **Pflock statt Ring** — nie rundum ringeln (Baum stirbt).
 2. Rinde und Harz als Wundauflage/Kit (siehe Konzept B8-3.x).
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.3 „Gehölze: Saft / Rinde / Harz“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Saft-Fenster beachtet
 - [ ] Pflock statt Ring
 
@@ -119,6 +149,10 @@ Bestimme jede Pflanze über **fünf Merkmale**: Blattstellung, Blattform, Blattr
 
 Ohne Blätter: Knospenstellung, Rindenbild, Standort, Wuchsform bestimmen.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.4 „Winter-Bestimmung (Knospe/Rinde/Stand)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Knospe + Rinde + Stand geprüft
 
 **Querverweise:** siehe Konzept 2.1.
@@ -126,6 +160,9 @@ Ohne Blätter: Knospenstellung, Rindenbild, Standort, Wuchsform bestimmen.
 ---
 
 ## Kapitel 3 — Wildgemüse
+
+**Ziel des Kapitels:** Ziel: Das sichere Dutzend Wildgemüse ohne Verwechslungsrisiko ernten und Duldungsgrenzen (Oxalsäure) kennen.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Ohne Blätter bestimmst du über Knospenstellung (gegenständig/wechselständig), Rindenbild (Borke, Lentizellen), Standort und Wuchsform.
@@ -137,6 +174,10 @@ Ohne Blätter: Knospenstellung, Rindenbild, Standort, Wuchsform bestimmen.
 
 1. Jede Art mit Merkmal + Verwechslungsfalle (siehe Konzept 2.2) bestimmen.
 2. Erst dann ernten.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.1 „Das sichere Dutzend (12 Arten)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] 12 Arten mit Merkmalen beherrscht
 - [ ] Keine geschützte Art in der Liste
@@ -153,6 +194,10 @@ Ohne Blätter: Knospenstellung, Rindenbild, Standort, Wuchsform bestimmen.
 
 Oxalsäurehaltige Wildpflanzen (Ampfer, Sauerampfer): roh nur in **Handvoll-Mengen** (Handregel), gekocht weniger problematisch — trotzdem maßhalten.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.2 „Duldungsgrenzen (Oxalsäure-Handregel)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Handregel bei Oxalsäure-Pflanzen
 
 **Querverweise:** siehe Konzept 3.1.
@@ -160,6 +205,9 @@ Oxalsäurehaltige Wildpflanzen (Ampfer, Sauerampfer): roh nur in **Handvoll-Meng
 ---
 
 ## Kapitel 4 — Wurzeln & Knollen
+
+**Ziel des Kapitels:** Ziel: Wurzeln und Knollen sicher graben (Drei-Stimmen-Regel, Hebel) — auch an Strand/Watt mit Algen-Gift-Regel.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Oxalsäure (Ampfer) bindet Calcium und reizt Niere/Schleimhaut; roh nur in Handvoll-Mengen; Kochen senkt den Gehalt.
@@ -172,6 +220,10 @@ Oxalsäurehaltige Wildpflanzen (Ampfer, Sauerampfer): roh nur in **Handvoll-Meng
 1. Pflanze bestimmen (siehe Konzept 2.1/2.2) — nie unbekannte Wurzeln graben.
 2. Mit Hebel aushebeln, Wurzelstock prüfen.
 3. Wurzelrückgabe nach Konzept 1.1.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.1 „Grabstock-Kunde“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Drei Merkmale stimmen
 - [ ] Hebeltechnik
@@ -187,6 +239,10 @@ Oxalsäurehaltige Wildpflanzen (Ampfer, Sauerampfer): roh nur in **Handvoll-Meng
 
 Strand-Knollen und Algen: **nur gekochte Knollen** essen; **Algen-Gift-Regel (W17):** nach Stürmen/Algenblüte Sperre — Muschel-/Algengifte hitzestabil (siehe Konzept B6-8.1, `warn-6`).
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.2 „Strand & Watt“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Knollen gekocht
 - [ ] Algen-Sperre beachtet
 
@@ -195,6 +251,9 @@ Strand-Knollen und Algen: **nur gekochte Knollen** essen; **Algen-Gift-Regel (W1
 ---
 
 ## Kapitel 5 — Beeren & Nüsse
+
+**Ziel des Kapitels:** Ziel: Beeren und Nüsse sicher nutzen (roh giftige gekocht, Läuterung bei Eicheln/Bucheckern, Frost).
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Strand/Watt: Knollen (z. B. Strandflieder-Wurzeln) nur gekocht; Algen-Gift-Regel (W17): nach Stürmen/Algenblüte Sperre — Toxine hitzestabil (siehe B6-8.1, warn-6).
@@ -203,6 +262,10 @@ Strand-Knollen und Algen: **nur gekochte Knollen** essen; **Algen-Gift-Regel (W1
 ### 5.1 Beeren — grün · P 8 · M unbedenklich · V 9
 
 **Holunder, Vogelbeere, Schlehe: roh giftig/unbekömmlich** — Sambunigrin u. a. werden durch **Kochen zerstört**.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.1 „Beeren“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Holunder/Vogelbeere/Schlehe gekocht vor dem Verzehr
 
@@ -221,6 +284,10 @@ Eicheln/Kastanien: **Läuterung mit Wasser über 3–10 Tage** (Wechsel täglich
 3. 3–10 Tage wässern, Wasser täglich wechseln.
 4. Dann rösten/mahlen.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.2 „Nüsse & Läuterung“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Läuterungszeit 3–10 T eingehalten
 - [ ] Wasser täglich gewechselt
 
@@ -236,6 +303,10 @@ Eicheln/Kastanien: **Läuterung mit Wasser über 3–10 Tage** (Wechsel täglich
 
 Frost/Gefriertruhe vor Rohverzehr: Wildobst (z. B. Schlehe, Hagebutte) nach Frost süßer und bekömmlicher; mehrfach gefrieren-auftauen verbessert Geschmack.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.3 „Wildobst-Küche“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Frost abgewartet oder Gefriertruhe genutzt
 
 **Querverweise:** siehe Konzept 5.1, siehe Konzept 5.2.
@@ -243,6 +314,9 @@ Frost/Gefriertruhe vor Rohverzehr: Wildobst (z. B. Schlehe, Hagebutte) nach Fros
 ---
 
 ## Kapitel 6 — Grüne Hausapotheke
+
+**Ziel des Kapitels:** Ziel: Die grüne Hausapotheke mit ihren fünf Pflanzen und Grenzen anwenden (Beinwell äußerlich, Weidenrinde nicht < 16 J, Öl nur gesäuert).
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Frost zerstört Zellwände und wandelt Stärke in Zucker um — Wildobst wird süßer und bekömmlicher; Gefriertruhe hat denselben Effekt.
@@ -262,6 +336,10 @@ Wegerich, Nessel, Kamille, Beinwell, Weidenrinde — mit Grenzen:
 | Beinwell | **nur äußerlich, intakte Haut** (Bluterguss, Prellung) | nie innerlich; nicht auf offene Wunden |
 | Weidenrinde | Schmerz/Fieber (Salicylat) | **nicht < 16 J** |
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.1 „Die fünf Haus-Pflanzen“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Beinwell nur äußerlich
 - [ ] Weidenrinde nicht < 16 J
 
@@ -277,6 +355,10 @@ Wegerich, Nessel, Kamille, Beinwell, Weidenrinde — mit Grenzen:
 
 > **WARNRAHMEN (Botulismus-Verweis, 09 §2.1):** **Öl-Auszüge nur gesäuert (pH < 4,6, gemessen) oder aus vollständig getrockneten Pflanzen** — siehe Konzept B7-6.2k, `warn-7b` und Konzept B8-3.3. Datum am Gefäß.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.2 „Dosierung & rote Liste“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Frische Dosis = 1,5× getrocknete, nie doppelt (siehe Konzept B8-3.2)
 - [ ] Öl-Auszug nur gesäuert/getrocknet
 
@@ -287,6 +369,9 @@ Wegerich, Nessel, Kamille, Beinwell, Weidenrinde — mit Grenzen:
 ---
 
 ## Kapitel 7 — Fasern & Werkstoffe
+
+**Ziel des Kapitels:** Ziel: Fasern gewinnen (Röste), Binden/Körbe flechten, färben — Material für Band 4 und 9.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Dosierung folgt dem Prinzip „erst die Grenze, dann die Gabe“: frisch = 1,5× getrocknet, nie doppelt. Öl-Auszüge nur gesäuert (pH < 4,6) oder aus vollständig getrockneten Pflanzen — sonst Botulismus-Gefahr (anaerob, low-acid; siehe B7-6.2k, warn-7b).
@@ -298,6 +383,10 @@ Wegerich, Nessel, Kamille, Beinwell, Weidenrinde — mit Grenzen:
 2. **Wasser-Röste: 3–10 Tage** in warmem Wasser.
 3. Danach Fasern lösen, waschen, trocknen.
 4. Konsistent mit Nadel & Faden (siehe Konzept B4-7.2).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.1 „Faseraufschluss (Röste)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Röste-Frist eingehalten
 - [ ] Fasern sauber gelöst
@@ -311,6 +400,10 @@ Wegerich, Nessel, Kamille, Beinwell, Weidenrinde — mit Grenzen:
 ### 7.2 Binden / Körbe / Bast — grün · P 8 · M unbedenklich · V 9
 
 **Lindenbast nur vom Totholz** nehmen (lebende Linde schädigen = verboten/schädlich, siehe Konzept 1.1).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.2 „Binden / Körbe / Bast“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Bast nur von Totholz
 
@@ -326,6 +419,10 @@ Wegerich, Nessel, Kamille, Beinwell, Weidenrinde — mit Grenzen:
 2. Faser mit Beize vorbehandeln (Alaun, Eisen).
 3. Im Sud ziehen lassen.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.3 „Färbe-Pflanzen (Beize)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Beize verwendet
 
 **Querverweise:** siehe Konzept 7.1.
@@ -333,6 +430,9 @@ Wegerich, Nessel, Kamille, Beinwell, Weidenrinde — mit Grenzen:
 ---
 
 ## Kapitel 8 — Anbau & Wildgarten
+
+**Ziel des Kapitels:** Ziel: Anbau und Wildgarten rechtlich sauber und mit Keimprobe tragfähig machen.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Farbstoffe in Pflanzen binden mit Beize (Alaun, Eisen) an der Faser — ohne Beize waschen sie aus. Absud heiß verwenden.
@@ -341,6 +441,10 @@ Wegerich, Nessel, Kamille, Beinwell, Weidenrinde — mit Grenzen:
 ### 8.1 Ried / Stroh / Binse (Dachdeckung) — grün · P 8 · M unbedenklich · V 8 · Abb. 5.8
 
 Konsistent mit Konzept B4-5.1, Dachdeckung & Neigung.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.1 „Ried / Stroh / Binse (Dachdeckung)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Dachneigung nach Material (siehe Konzept B4-5.1)
 
@@ -353,6 +457,10 @@ Konsistent mit Konzept B4-5.1, Dachdeckung & Neigung.
 ### 8.2 Wildgarten — **gelb** · P 7 · M prüfenswert · V 8
 
 Nur **mit Zustimmung** des Eigentümers (siehe Konzept B10-5.2); **Fremdgrund, NSG und geschützte Arten** sind tabu (Naturschutzrecht, siehe Konzept 1.1).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.2 „Wildgarten“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Zustimmung eingeholt
 - [ ] Kein NSG, keine geschützten Arten
@@ -369,6 +477,10 @@ Nur **mit Zustimmung** des Eigentümers (siehe Konzept B10-5.2); **Fremdgrund, N
 2. Keimlinge zählen: **< 30 von 50 (60 %) → neue Saat** (siehe Konzept B7-9.3).
 3. Nie Saatgut essen (s. Konzept B7-9.3).
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.3 „Saatgut-Keimprobe (50 Körner / 7–14 T)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] 50 Körner, 7–14 T
 - [ ] Schwelle 60 % beachtet
 
@@ -377,6 +489,9 @@ Nur **mit Zustimmung** des Eigentümers (siehe Konzept B10-5.2); **Fremdgrund, N
 ---
 
 ## Kapitel 9 — Pilze & Kalender
+
+**Ziel des Kapitels:** Ziel: Pilze nur mit drei Merkmalen und nie roh sammeln (warn-5b); den Pflanzen-Kalender als Tabelle nutzen.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Keimprobe: 50 Körner auf feuchtem Tuch, 7–14 Tage warm; Schwelle 30/50 (60 %) — darunter neue Saat (B7-9.3). Gleiches Verfahren in B7-9.3.
@@ -389,6 +504,10 @@ Nur **mit Zustimmung** des Eigentümers (siehe Konzept B10-5.2); **Fremdgrund, N
 1. Nur Pilze mit drei bestätigten Merkmalen sammeln.
 2. Nie roh — auch „Testbissen“ ist tödlich.
 3. Unsichere Pilze ganz entsorgen, nicht „zur Sicherheit“ kochen.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.1 „Pilze“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Drei Merkmale bestätigt
 - [ ] Nie roh
@@ -421,6 +540,10 @@ Monatsfenster für Ernte/Saat in Mitteleuropa und Irland (lokal um ± 2 Wochen v
 | November | — (Lager kontrollieren, siehe B7-8.1) | — |
 | Dezember | — (Vorrat, siehe B7-9.1) | — |
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.2 „Pflanzen-Kalender (Monatsfenster ME/Irland)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Kalender des Lagers geführt (siehe Konzept B10-8.1)
 
 **Querverweise:** siehe Konzept B10-8.1, siehe Konzept 1.3.
@@ -448,7 +571,23 @@ Monatsfenster für Ernte/Saat in Mitteleuropa und Irland (lokal um ± 2 Wochen v
 
 ## Anhang C — Übungsplan (Band 5)
 
-Bestimmung der 12 Arten (3.1) mit Merkmal + Falle (2.2) üben; Keimprobe (8.3); Sammelgang mit Kreisen (1.2). Verfalluhr 12 Monate (siehe Konzept B1-8.2); Pilzbestimmung nur mit Lehrmeister (siehe Konzept B9-9.2).
+**Übungsablauf (verbindlich für jede Übung in diesem Band):**
+
+1. **Vorbereitung (10 min):** Material und Protokollbogen (Anhang A4 / B1-8.2) bereitlegen; Warnrahmen des Konzepts durchlesen; bei Outdoor-Übung Wetter prüfen (B1-4.4).
+2. **Durchführung:** die nummerierten Schritte des Konzepts exakt in der dortigen Reihenfolge ausführen — keine Abkürzungen.
+3. **Wiederholungen:** jede Übung mindestens 3× hintereinander; Konzepte mit V < 6 mindestens 5× (z. B. in diesem Band siehe Liste unten).
+4. **Zeitansatz:** 45–90 min pro Übungseinheit, maximal 2 Einheiten pro Tag — Ermüdung verfälscht das Ergebnis.
+5. **Beobachten (Erfolgskontrolle):** das messbare Kriterium der Übung notieren (Zeit, Maß, Trefferquote, Temperatur) — ohne Messung ist die Übung nicht bestanden.
+6. **Abbruchkriterien:** Abbruch sofort bei Verletzung, Wetterumschwung, Materialbruch, Schmerzen (z. B. Augen beim Schweißen) oder wenn nach 3 Durchgängen kein Fortschritt erkennbar ist. Abbruch dokumentieren — nicht schönreden.
+7. **Protokoll (B1-8.2):** Datum, Konzept-Nr., Wiederholungen, Zeitansatz, Beobachtung/Erfolgskontrolle, V-Bewertung, Verfalldatum (Datum + 12 Monate).
+
+**Band-spezifische Übungen (Vorrang, mit Erfolgskontrolle):**
+
+- Sicheres Dutzend bestimmen (3.1): 12 Arten × 3 Runden, Erfolg: jede Art mit 5 Merkmalen + Verwechslungs-Falle (2.2) korrekt
+- Keimprobe (8.3): 1× mit 50 Körnern, Erfolg: Keimrate gezählt, Schwelle 30/50 angewendet
+- Röste (7.1): 1×, Erfolg: Faser löst sich sauber nach Frist (Tau 1–5 Wo / Wasser 3–10 T)
+
+Verfalluhr: 12 Monate ohne Wiederholung = Fähigkeit verfallen (siehe B1-8.2).
 
 ---
 

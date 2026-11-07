@@ -8,11 +8,18 @@ Titel vereinheitlicht auf **„Jagd und Fischfang“** (L7). **ROT-2 umgesetzt:*
 
 ## Kapitel 1 — Ethik der Jagd
 
+**Ziel des Kapitels:** Ziel: Die Ethik und Rechtspflichten der Jagd kennen: Notstand, Jagdschein/Befugnis, Schonzeiten, Ganz-Verwertung.
+
+
 ### 1.1 Grenze des Jagens — grün · P 8 · M unbedenklich · V 10
 
 Jagd nur im **Notstand** (Lebenserhalt), sauberer Tod, **Ganz-Verwertung** (siehe Konzept 9.3).
 
 > **Rechtlich Pflicht:** **Jagdschein + Befugnis** — ohne Beides ist Jagd Wilderei (§ 292 StGB, strafbar). Das Buch leitet keine strafbaren Handlungen an.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.1 „Grenze des Jagens“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Notstand-Bindung gegeben
 - [ ] Jagdschein + Befugnis vorhanden
@@ -29,6 +36,10 @@ Jagd nur im **Notstand** (Lebenserhalt), sauberer Tod, **Ganz-Verwertung** (sieh
 1. Kreis 1 (nah, erschöpft): wechseln, nicht dauerbesetzen.
 2. Kreis 2 (mittel): Ruhezonen einrichten — Wild braucht Rückzugsorte.
 3. Kreis 3 (fern): nur mit Lizenz/Befugnis.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.2 „Jagd-Kreise & Ruhe-Zonen“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Kreise festgelegt
 - [ ] Ruhe-Zonen markiert
@@ -53,6 +64,10 @@ Jagd nur im **Notstand** (Lebenserhalt), sauberer Tod, **Ganz-Verwertung** (sieh
 | Fische (Laichzeit, z. B. Forelle) | Oktober–Januar | Laichzeit |
 | Vögel allgemein | ganzjährig | Eier/Nester entnehmen verboten (§ 44 BNatSchG, siehe 5.2) |
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.3 „Jagd-Kalender“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Schonzeiten im Kalender (siehe Konzept B10-8.1)
 
 **Querverweise:** siehe Konzept B10-8.1.
@@ -60,6 +75,9 @@ Jagd nur im **Notstand** (Lebenserhalt), sauberer Tod, **Ganz-Verwertung** (sieh
 ---
 
 ## Kapitel 2 — Spuren lesen
+
+**Ziel des Kapitels:** Ziel: Spuren lesen können — Trittsiegel, Losung, Bauten, Winterspur — um Wild lokalisieren zu können.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Schon-/Setz-/Brut-/Laich-Fenster schützen die Vermehrung; die Tabelle gibt konservative DE-Fenster (je Bundesland strenger). Zuwiderhandlung ist strafbar (§ 38 BJagdG).
@@ -73,6 +91,10 @@ Jagd nur im **Notstand** (Lebenserhalt), sauberer Tod, **Ganz-Verwertung** (sieh
 | Hund | ähnlich, aber größer, unruhiger Gang |
 | Reh | herzförmig, gespalten |
 | Hase | hintere Abdrücke lang, paarweise neben Vorderläufen |
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.1 „Trittsiegel & Gangbilder“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Trittsiegel fotografiert/notiert (siehe Konzept B1-9.1)
 
@@ -106,6 +128,10 @@ Fuchsbau (mehrere Röhren), Dachs (groß, Erdhaufen), Wildschwein (Nest), Reh (L
 
 **Neuschnee datiert die Spur:** frische Spur heute, alte gestern. Schneedrift täuscht — Spur in geschützter Zone lesen.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.4 „Winter-Spur“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Neuschnee-Schichtdicke beurteilt
 
 **Querverweise:** siehe Konzept 2.1.
@@ -113,6 +139,9 @@ Fuchsbau (mehrere Röhren), Dachs (groß, Erdhaufen), Wildschwein (Nest), Reh (L
 ---
 
 ## Kapitel 3 — Ansitz & Pirsch
+
+**Ziel des Kapitels:** Ziel: Ansitz und Pirsch sicher durchführen; beim Schuss Wartefrist und Nachsuche einhalten (warn-6c).
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Neuschnee konserviert Spuren wie eine Fotoplatte: frische Spur = heute. Schneedrift täuscht — in windgeschützten Zonen lesen.
@@ -123,6 +152,10 @@ Fuchsbau (mehrere Röhren), Dachs (groß, Erdhaufen), Wildschwein (Nest), Reh (L
 1. **Wind von hinten** — nie mit dem Wind auf das Wild zu.
 2. Volle Fenster-Spanne nutzen (Dämmerung, frühe Nacht).
 3. Protokoll führen (Anhang A Band 6): Erfolg jede 8.–12. Ansitzstunde (Planungsrichtwert).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.1 „Der Ansitz“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Windrichtung geprüft
 - [ ] Ansitz-Protokoll geführt
@@ -148,6 +181,10 @@ Fuchsbau (mehrere Röhren), Dachs (groß, Erdhaufen), Wildschwein (Nest), Reh (L
 2. Nach dem Schuss: Wartefrist, dann Nachsuche.
 3. Wildbret-Untersuchung und Durchgaren: siehe Konzept 9.1 (`warn-6b`).
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.2 „Pirsch & sauberer Schuss“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Wartefrist eingehalten
 - [ ] Nachsuche organisiert
 - [ ] Waffenerlaubnis vorhanden (WaffG)
@@ -159,6 +196,9 @@ Fuchsbau (mehrere Röhren), Dachs (groß, Erdhaufen), Wildschwein (Nest), Reh (L
 ---
 
 ## Kapitel 4 — Fernwaffen des Sammlers
+
+**Ziel des Kapitels:** Ziel: Fernwaffen realistisch einordnen: Bogen/Speer nur Übungsgerät/Werkzeug (rechtlicher Hinweis), nie Gifte.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Verletztes Wild ist aggressiv und gefährlich (Eber, angeschossenes Reh). Wartefrist (10–15 min) lässt es verenden/legen; dann Nachsuche systematisch. Schuss nur mit Waffenschein (WaffG) — Tabelle im Text (warn-6c).
@@ -172,6 +212,10 @@ Fuchsbau (mehrere Röhren), Dachs (groß, Erdhaufen), Wildschwein (Nest), Reh (L
 2. Sicherheitsabstand **10–20 m**; nie auf Personen richten.
 3. **100 Probeschüsse Pflicht** vor jedem Einsatz (siehe Konzept B1-8.2, Übungsprotokoll).
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.1 „Jagdbogen“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Als Übungsgerät deklariert
 - [ ] 100 Probeschüsse dokumentiert
 - [ ] Sicherheitsabstand 10–20 m
@@ -182,9 +226,15 @@ Fuchsbau (mehrere Röhren), Dachs (groß, Erdhaufen), Wildschwein (Nest), Reh (L
 - **Prinzip (warum das funktioniert):** Der Bogen ist ein präzises Übungsgerät (10–20 m), aber in DE/AT/CH jagdrechtlich keine Jagdwaffe — nur Schusswaffen sind Jagdwaffen. 100 Probeschüsse dokumentieren die Treffsicherheit (B1-8.2).
 - **Situationsvarianten (wann welche):** Übung: Parcours, Scheiben. Niemals zur Jagd einsetzen.
 - **Typische Fehler (warum + Folge):** Mit Bogen jagen. Folge: strafbar (Waffengesetz/Jagdrecht), Wild unnötig verletzt.
+
+**Übungsablauf (Bogen, nur Übungsgerät):** 100 Probeschüsse auf Scheibe 10–20 m; Zeitansatz 2–3 h verteilt auf 2 Tage; Erfolgskontrolle: ≥ 80 % Treffer; Abbruch bei Sehnenreizung oder Ermüdung; nie zur Jagd einsetzen (rechtlich unzulässig).
 ### 4.2 Pfeil, Speer, Wurfholz — **gelb (SME)** · P 6 · M unbedenklich · V 8
 
 > **Rechtlicher Hinweis (Pflicht):** **Speer als Jagdwaffe unzulässig**; Wurfholz nur als **Werkzeug** (siehe Konzept B9-9.x). **Keine Gifte** an Pfeil/Speer (ethische Leitlinie, siehe Konzept B10-4.2).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.2 „Pfeil, Speer, Wurfholz“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Speer nicht zur Jagd
 - [ ] Keine Gifte
@@ -194,6 +244,9 @@ Fuchsbau (mehrere Röhren), Dachs (groß, Erdhaufen), Wildschwein (Nest), Reh (L
 ---
 
 ## Kapitel 5 — Fallen & Kleintiere
+
+**Ziel des Kapitels:** Ziel: Erlaubte Fanggeräte einsetzen: Kastenfalle (5.1a) mit täglicher Kontrolle, sauberer Tod; keine Schlingen (ROT-2 gestrichen).
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Speer und Wurfholz sind Werkzeuge (z. B. für Fischwehr, Unterstände), keine Jagdwaffen; Gifte an Waffen sind verboten (Leitlinie, B10-4.2).
@@ -212,6 +265,10 @@ Fuchsbau (mehrere Röhren), Dachs (groß, Erdhaufen), Wildschwein (Nest), Reh (L
 3. Kontrollkarte führen (Anhang A Band 6): 2× täglich, Fang sofort entnehmen oder töten (sauberer Tod, siehe Konzept 1.1).
 4. Lebendfang: Tier unverteilt entnehmen — **sauberer Tod sofort:** bei Kleintieren **Genickbruch** ( kräftiger Zug/Drehung am Kopf, bis das Rückgrat durchtrennt ist) oder kräftiger Schlag auf den Kopf; nie quälen, nie leiden lassen. Danach nach Konzept 9.1 zerwirken.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.1a „Kastenfalle & Kleintierfallen (Ersatz für 5.1)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Amtlich zugelassen (Bundesland geprüft)
 - [ ] 2× täglich kontrolliert
 - [ ] Nie an Menschenpfaden
@@ -228,6 +285,10 @@ Fuchsbau (mehrere Röhren), Dachs (groß, Erdhaufen), Wildschwein (Nest), Reh (L
 ### 5.2 Vögel, Eier, Kleintier — grün · P 7 · M unbedenklich · V 8
 
 > **Rechtlich:** Entnahme/Zerstörung von **Vogeleiern und -nestern ist verboten** (§ 44 BNatSchG). **Nie das letzte Gelege** eines Nests nehmen; Eier **nie roh** essen.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.2 „Vögel, Eier, Kleintier“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] § 44 BNatSchG beachtet
 - [ ] Nie letztes Gelege
@@ -248,6 +309,9 @@ Schwungfeder (steif, zum Schreiben/Schneiden) vs Daune (weich, Isolation, siehe 
 ---
 
 ## Kapitel 6 — Angel & Köder
+
+**Ziel des Kapitels:** Ziel: Angeln mit Schnur/Haken/Pose und selbst gezüchteten Ködern beherrschen.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Schwungfedern (steife Achse) eignen sich zum Schreiben/Schneiden; Daunen (weiche Verästelung) isolieren (B4-2.1). Trocknen, mit Talkum gegen Verkleben lagern.
@@ -260,6 +324,10 @@ Konsistent mit Knoten (siehe Konzept B1-6.3) und Seil (siehe Konzept B9-5.2).
 1. **Knoten-Prüfung vor jedem Einsatz:** jeder Knoten belastet ziehen.
 2. Haken an Schnur mit **Achterknoten** (siehe Konzept B1-6.3).
 3. Pose (Schwimmer) aus Kork/Holz selbst schnitzen.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.1 „Schnur, Haken, Pose“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Knoten geprüft
 - [ ] Haken fest
@@ -290,6 +358,10 @@ Konsistent mit Knoten (siehe Konzept B1-6.3) und Seil (siehe Konzept B9-5.2).
 2. Würmer einsetzen, dunkel und kühl stellen.
 3. Füttern mit Gemüseresten; Erde feucht halten.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.3 „Köder-Zucht (Wurm-Kiste)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Wurm-Kiste angelegt
 
 **Querverweise:** siehe Konzept 6.2.
@@ -297,6 +369,9 @@ Konsistent mit Knoten (siehe Konzept B1-6.3) und Seil (siehe Konzept B9-5.2).
 ---
 
 ## Kapitel 7 — Netze & Reusen
+
+**Ziel des Kapitels:** Ziel: Netze/Reusen mit Öffnung und Genehmigung (Fischereirecht) legal und sicher einsetzen.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Die Wurm-Kiste (feuchte Erde + Laub/Kaffeesatz, dunkel/kühl) züchtet Köder vor Ort — spart Transport und hält frisch.
@@ -306,6 +381,10 @@ Konsistent mit Knoten (siehe Konzept B1-6.3) und Seil (siehe Konzept B9-5.2).
 
 1. **Nie als Mauer ohne Öffnung** aufspannen — Ertrinkungsgefahr für Wild und Mensch.
 2. > **Rechtlich (Fischereirecht):** Stellnetz/Kiemennetz **genehmigungspflichtig**, Maschenweite und Markierung je Bundesland; Fischereischein (DE) bzw. **rod licence (Irland)** erforderlich.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.1 „Netz“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Öffnung im Netz
 - [ ] Genehmigung/Markierung geklärt (je Bundesland)
@@ -321,6 +400,10 @@ Konsistent mit Knoten (siehe Konzept B1-6.3) und Seil (siehe Konzept B9-5.2).
 1. **Drei-Tage-Regel:** Reusen maximal 3 Tage unbeaufsichtigt, **täglich kontrollieren bei Wärme**.
 2. Genehmigung/Markierung je Bundesland (siehe Konzept 7.1); Irland: rod licence.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.2 „Reuse, Fischwehr, Stellnetz“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Tägliche Kontrolle bei Wärme
 - [ ] Drei-Tage-Regel
 
@@ -329,6 +412,9 @@ Konsistent mit Knoten (siehe Konzept B1-6.3) und Seil (siehe Konzept B9-5.2).
 ---
 
 ## Kapitel 8 — Watt & Gezeiten
+
+**Ziel des Kapitels:** Ziel: Watt und Gezeiten nutzen — Muscheln nur aus amtlich überwachten Gewässern (warn-6), Stiche mit 40–45 °C behandeln.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Reusen/Fischwehr fangen passiv; die Drei-Tage-Regel begrenzt Standzeit, tägliche Kontrolle bei Wärme verhindert Verderb (Fäulnis lockt Aasfresser, verwest den Fang). Genehmigung/Markierung je Bundesland (siehe 7.1).
@@ -337,6 +423,10 @@ Konsistent mit Knoten (siehe Konzept B1-6.3) und Seil (siehe Konzept B9-5.2).
 ### 8.1 Muscheln der Gezeiten — grün + **WARNRAHMEN [warn-6]** · P 9 · M unbedenklich · V 9 · Abb. 6.9
 
 > **WARNRAHMEN [warn-6] — MUSCHEL-/ALGENGIFTE (W17, 09 Nr. 6):** PSP (Saxitoxin), DSP, ASP sind **hitzestabil — kein Kochen rettet**. **Nur aus amtlich überwachten Gewässern** ernten; nach Algenblüten/Stürmen **Sperre** beachten. **Blaualgen (Microcystin) im Süßwasser:** nicht trinken, nicht baden bei Massenvermehrung (siehe Konzept B2-5.1). Bank-Rast: nur frische, fest schließende Muscheln.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.1 „Muscheln der Gezeiten“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Amtlich überwachtes Gewässer
 - [ ] Sperrzeiten beachtet
@@ -352,6 +442,10 @@ Konsistent mit Knoten (siehe Konzept B1-6.3) und Seil (siehe Konzept B9-5.2).
 
 **Petermännchen** und **Löwenmähnen-Qualle:** beim Stich **heißes Wasser 40–45 °C** auf die Stelle — so heiß wie möglich, **ohne zu verbrühen** (Verbrühungsgrenze 55 °C, siehe B1-7.4). 40–45 °C sind die wirksame Temperatur; „so heiß wie ertragbar“ meint nicht 55 °C.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.2 „Krabben & Watt-Gäste“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Heißwasser-Behandlung bekannt
 
 **Querverweise:** siehe Konzept B1-7.4, siehe Konzept B8-7.1.
@@ -359,6 +453,9 @@ Konsistent mit Knoten (siehe Konzept B1-6.3) und Seil (siehe Konzept B9-5.2).
 ---
 
 ## Kapitel 9 — Vom Fang zur Schwelle
+
+**Ziel des Kapitels:** Ziel: Wild sicher zerwirken und konservieren: Durchgaren ≥ 71 °C Kern (warn-6b), nie rohen Aal, Ganz-Verwertung.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Petermännchen (Stich mit Giftstachel) und Löwenmähnen-Qualle: Heißwasser 40–45 °C denaturiert das Toxin — wirksamer als Kühlen. 55 °C ist die Verbrühungsgrenze (B1-7.4).
@@ -371,6 +468,10 @@ Konsistent mit Knoten (siehe Konzept B1-6.3) und Seil (siehe Konzept B9-5.2).
 1. Wild mit Handschuhen ausnehmen; kranke Tiere (Leber/Lunge verändert) meiden.
 2. Fleisch kühl halten, bald verarbeiten (siehe Band 7).
 3. Durchgaren ≥ 71 °C Kern vor Verzehr. **Messen:** Fleischthermometer in der Sanitätsmappe (siehe B8-8.1) und in der Werkzeugkiste (siehe B9-8.1). **Ohne Thermometer (Ersatzkriterien):** Fleisch ist innen grau-braun (nicht rosa), die Fasern lösen sich leicht, austretender Saft ist klar (nicht rosa); Fisch: Fleisch undurchsichtig weiß und löst sich von der Gräte; Kochzeit konservativ wählen.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.1 „Ausnehmen & Zerwirken“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] ≥ 71 °C Kerntemperatur gemessen
 - [ ] Keine Fledermaus mit bloßen Händen
@@ -386,6 +487,10 @@ Konsistent mit Knoten (siehe Konzept B1-6.3) und Seil (siehe Konzept B9-5.2).
 
 > **Text-Warnung:** **Aal nie roh** — Aalblut ist giftig, aber **hitzelabil** (durch Garen ungiftig).
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.2 „Wild-Küche“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Aal durchgegart
 - [ ] Wildbret ≥ 71 °C Kern (siehe Konzept 9.1)
 
@@ -398,6 +503,10 @@ Konsistent mit Knoten (siehe Konzept B1-6.3) und Seil (siehe Konzept B9-5.2).
 ### 9.3 Fell, Sehne, Knochen (Ganz-Verwertung) — grün · P 8 · M unbedenklich · V 8
 
 Konsistent mit Konzept 1.1 (Ganz-Verwertung): Fell gerben (siehe Konzept B7-7.3), Sehnen als Faden/Schnur (siehe Konzept B9-5.2), Knochen zu Leim/Werkzeug (siehe Konzept B9-7.2).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.3 „Fell, Sehne, Knochen (Ganz-Verwertung)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Nichts wegwerfen, was verwertbar ist
 
@@ -426,7 +535,26 @@ Konsistent mit Konzept 1.1 (Ganz-Verwertung): Fell gerben (siehe Konzept B7-7.3)
 
 ## Anhang C — Übungsplan (Band 6)
 
-Spurenlesen (2.1–2.4) monatlich im Gelände; Kastenfalle 5.1a aufstellen + kontrollieren üben; Angelknoten (6.1) mit Konzept B1-6.3; Zerwirk-Protokoll (9.1). Verfalluhr 12 Monate (siehe Konzept B1-8.2). Bogen 4.1: 100 Probeschüsse als Übungspflicht.
+**Übungsablauf (verbindlich für jede Übung in diesem Band):**
+
+1. **Vorbereitung (10 min):** Material und Protokollbogen (Anhang A4 / B1-8.2) bereitlegen; Warnrahmen des Konzepts durchlesen; bei Outdoor-Übung Wetter prüfen (B1-4.4).
+2. **Durchführung:** die nummerierten Schritte des Konzepts exakt in der dortigen Reihenfolge ausführen — keine Abkürzungen.
+3. **Wiederholungen:** jede Übung mindestens 3× hintereinander; Konzepte mit V < 6 mindestens 5× (z. B. in diesem Band siehe Liste unten).
+4. **Zeitansatz:** 45–90 min pro Übungseinheit, maximal 2 Einheiten pro Tag — Ermüdung verfälscht das Ergebnis.
+5. **Beobachten (Erfolgskontrolle):** das messbare Kriterium der Übung notieren (Zeit, Maß, Trefferquote, Temperatur) — ohne Messung ist die Übung nicht bestanden.
+6. **Abbruchkriterien:** Abbruch sofort bei Verletzung, Wetterumschwung, Materialbruch, Schmerzen (z. B. Augen beim Schweißen) oder wenn nach 3 Durchgängen kein Fortschritt erkennbar ist. Abbruch dokumentieren — nicht schönreden.
+7. **Protokoll (B1-8.2):** Datum, Konzept-Nr., Wiederholungen, Zeitansatz, Beobachtung/Erfolgskontrolle, V-Bewertung, Verfalldatum (Datum + 12 Monate).
+
+**Band-spezifische Übungen (Vorrang, mit Erfolgskontrolle):**
+
+- Spurenlesen (2.1–2.4): 3 Begehungen, Erfolg: Trittsiegel/Gangbild richtig zugeordnet (Fuchs/Hund/Reh/Hase)
+- Kastenfalle stellen + kontrollieren (5.1a): 2×, Erfolg: amtlich zugelassen, 2× täglich kontrolliert, nie an Menschenpfaden
+- Angelknoten (6.1): 5× Achterknoten, Erfolg: Knoten hält 5 kg Zugprobe
+- Bogen-Probeschüsse (4.1, nur Übungsgerät!): 100 Schuss, Erfolg: ≥ 80 % in der Scheibe auf 10–20 m
+- Zerwirk-Protokoll (9.1): 1×, Erfolg: Kerntemperatur ≥ 71 °C gemessen und protokolliert
+
+Verfalluhr: 12 Monate ohne Wiederholung = Fähigkeit verfallen (siehe B1-8.2).
+Zerwirk-Protokoll (9.1). Verfalluhr 12 Monate (siehe Konzept B1-8.2). Bogen 4.1: 100 Probeschüsse als Übungspflicht.
 
 ---
 

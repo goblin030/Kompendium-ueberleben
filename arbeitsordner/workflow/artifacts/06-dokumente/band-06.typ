@@ -47,6 +47,7 @@ Diese 15 Warngrafiken gelten reihenweit; in diesem Band sind die fett markierten
 #pagebreak(weak: true)
 #pagebreak(weak: true)
 == Kapitel 1 — Ethik der Jagd <kap-1>
+_Ziel des Kapitels:_ Ziel: Die Ethik und Rechtspflichten der Jagd kennen: Notstand, Jagdschein/Befugnis, Schonzeiten, Ganz-Verwertung.
 #subhead[Kapitel-Übersicht]
 #table(
   columns: 7,
@@ -56,11 +57,11 @@ Diese 15 Warngrafiken gelten reihenweit; in diesem Band sind die fett markierten
   [1.2], [Jagd-Kreise & Ruhe-Zonen], [9], [unbedenklich], [9], [grün], [–],
   [1.3], [Jagd-Kalender], [9], [unbedenklich], [9], [grün], [–],
 )
-#pagebreak(weak: true)
 === 1.1 Grenze des Jagens <k-1-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 10]
 Jagd nur im _Notstand_ (Lebenserhalt), sauberer Tod, _Ganz-Verwertung_ (siehe Konzept 9.3).
 #kasten([Rechtlich Pflicht:])[_Jagdschein + Befugnis_ — ohne Beides ist Jagd Wilderei (§ 292 StGB, strafbar). Das Buch leitet keine strafbaren Handlungen an.]
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.1 „Grenze des Jagens“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Notstand-Bindung gegeben
 - [ ] Jagdschein + Befugnis vorhanden
 - [ ] Ganz-Verwertung geplant (siehe Konzept 9.3)
@@ -107,6 +108,7 @@ _Querverweise:_ siehe Konzept 9.3, siehe Konzept B10-4.2. _Erklärung:_
   [Ganz-Verwertung], [siehe Glossar, Anhang D Band 1],
   [Rechtlich Pflicht:], [siehe Glossar, Anhang D Band 1],
   [Jagdschein + Befugnis], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -224,12 +226,12 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 1.2 Jagd-Kreise & Ruhe-Zonen <k-1-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9]
 + Kreis 1 (nah, erschöpft): wechseln, nicht dauerbesetzen.
 + Kreis 2 (mittel): Ruhezonen einrichten — Wild braucht Rückzugsorte.
 + Kreis 3 (fern): nur mit Lizenz/Befugnis.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.2 „Jagd-Kreise & Ruhe-Zonen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Kreise festgelegt
 - [ ] Ruhe-Zonen markiert
 _Querverweise:_ siehe Konzept 1.1, siehe Konzept 1.3. _Erklärung:_
@@ -290,6 +292,7 @@ _Querverweise:_ siehe Konzept 1.1, siehe Konzept 1.3. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -407,7 +410,6 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 1.3 Jagd-Kalender <k-1-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9]
 _Setz-/Brut-/Laich-Fenster_ meiden (z. B. Reh Mai–Juni, Forelle Okt–Jan). _Schonzeiten nach § 22 BJagdG_ — Zuwiderhandlung strafbar (§ 38 BJagdG).
@@ -422,6 +424,7 @@ _Schon-/Schonfenster (konservativ, DE-weit; je Bundesland strenger — ohne Netz
   [Fische (Laichzeit, z. B. Forelle)], [Oktober–Januar], [Laichzeit],
   [Vögel allgemein], [ganzjährig], [Eier/Nester entnehmen verboten (§ 44 BNatSchG, siehe 5.2)],
 )
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.3 „Jagd-Kalender“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Schonzeiten im Kalender (siehe Konzept B10-8.1)
 _Querverweise:_ siehe Konzept B10-8.1.
 #subhead[Fehler & Folgen (siehe Anhang B)]
@@ -461,6 +464,7 @@ _Querverweise:_ siehe Konzept B10-8.1.
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Setz-/Brut-/Laich-Fenster], [siehe Glossar, Anhang D Band 1],
   [Schonzeiten nach § 22 BJagdG], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -580,6 +584,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 2 — Spuren lesen <kap-2>
+_Ziel des Kapitels:_ Ziel: Spuren lesen können — Trittsiegel, Losung, Bauten, Winterspur — um Wild lokalisieren zu können.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Schon-/Setz-/Brut-/Laich-Fenster schützen die Vermehrung; die Tabelle gibt konservative DE-Fenster (je Bundesland strenger). Zuwiderhandlung ist strafbar (§ 38 BJagdG).
 - _Situationsvarianten (wann welche):_ Reh: Mai–Juni meiden. Hase: Okt–Jan. Brutzeit Vögel: März–Juli (Eier ohnehin verboten, 5.2). Fischlaich: Okt–Jan.
@@ -594,10 +599,8 @@ _Erklärung:_
   [2.3], [Bauten, Lager & Wechsel], [8], [unbedenklich], [9], [grün], [Abb. 6.2],
   [2.4], [Winter-Spur], [9], [unbedenklich], [9], [grün], [–],
 )
-#pagebreak(weak: true)
 === 2.1 Trittsiegel & Gangbilder <k-2-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 8 · Abb. 6.1]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-1.svg", width: 100%), caption: [Abb. 6.1 — Trittsiegel & Gangbilder: Fuchs, Hund, Reh, Hase unterscheiden (Konzept 2.1).])]]
 #table(
   columns: 2,
@@ -608,6 +611,7 @@ _Erklärung:_
   [Reh], [herzförmig, gespalten],
   [Hase], [hintere Abdrücke lang, paarweise neben Vorderläufen],
 )
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.1 „Trittsiegel & Gangbilder“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Trittsiegel fotografiert/notiert (siehe Konzept B1-9.1)
 _Querverweise:_ siehe Konzept 2.4. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Trittsiegel entstehen durch Gewicht und Gangart: Reh herzförmig gespalten, Fuchs oval mit Krallen, Hase lange Hinterläufe paarweise. Gangbilder zeigen Tempo/Richtung.
@@ -648,6 +652,7 @@ _Querverweise:_ siehe Konzept 2.4. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -765,7 +770,6 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 2.2 Losung, Äsung & Riss <k-2-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 8]
 Verbiss-Kanten lesen: Reh = sauber gebissen, Hase = schräg abgenagt. Rissbild: Beutegreifer vs Aasfresser.
@@ -925,10 +929,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 2.3 Bauten, Lager & Wechsel <k-2-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 6.2]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-2.svg", width: 100%), caption: [Abb. 6.2 — Bauten, Lager & Wechsel: Fuchsbau, Dachsbau, Wildschweinlager, Reh-Lager (Konzept 2.3).])]]
 Fuchsbau (mehrere Röhren), Dachs (groß, Erdhaufen), Wildschwein (Nest), Reh (Lager = flache Mulde). Wechsel = regelmäßig benutzte Pfade zwischen Äsung und Einstand.
 _Querverweise:_ siehe Konzept 2.1, siehe Konzept 3.1. _Erklärung:_
@@ -1087,10 +1089,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 2.4 Winter-Spur <k-2-4>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9]
 _Neuschnee datiert die Spur:_ frische Spur heute, alte gestern. Schneedrift täuscht — Spur in geschützter Zone lesen.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.4 „Winter-Spur“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Neuschnee-Schichtdicke beurteilt
 _Querverweise:_ siehe Konzept 2.1.
 #subhead[Fehler & Folgen (siehe Anhang B)]
@@ -1129,6 +1131,7 @@ _Querverweise:_ siehe Konzept 2.1.
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Neuschnee datiert die Spur:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -1248,6 +1251,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 3 — Ansitz & Pirsch <kap-3>
+_Ziel des Kapitels:_ Ziel: Ansitz und Pirsch sicher durchführen; beim Schuss Wartefrist und Nachsuche einhalten (warn-6c).
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Neuschnee konserviert Spuren wie eine Fotoplatte: frische Spur = heute. Schneedrift täuscht — in windgeschützten Zonen lesen.
 - _Situationsvarianten (wann welche):_ Nach Schneefall: sofort lesen. Älterer Schnee: oberflächlich abkratzen.
@@ -1260,14 +1264,13 @@ _Erklärung:_
   [3.1], [Der Ansitz], [8], [unbedenklich], [9], [grün], [Abb. 6.3],
   [3.2], [Pirsch & sauberer Schuss], [7], [unbedenklich], [8], [grün], [–],
 )
-#pagebreak(weak: true)
 === 3.1 Der Ansitz <k-3-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 6.3]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-3.svg", width: 100%), caption: [Abb. 6.3 — Der Ansitz: Wind von hinten, volle Sicht, ruhiger Abzug (Konzept 3.1).])]]
 + _Wind von hinten_ — nie mit dem Wind auf das Wild zu.
 + Volle Fenster-Spanne nutzen (Dämmerung, frühe Nacht).
 + Protokoll führen (Anhang A Band 6): Erfolg jede 8.–12. Ansitzstunde (Planungsrichtwert).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.1 „Der Ansitz“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Windrichtung geprüft
 - [ ] Ansitz-Protokoll geführt
 _Querverweise:_ siehe Anhang A, siehe Konzept 2.3. _Erklärung:_
@@ -1328,6 +1331,7 @@ _Querverweise:_ siehe Anhang A, siehe Konzept 2.3. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -1445,7 +1449,6 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 3.2 Pirsch & sauberer Schuss <k-3-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün + _WARNRAHMEN [warn-6c]_ · P 7 · M unbedenklich · V 8]
 #warnrahmen(id: "warn-6c", title: [VERLETZTES WILD :])[Verletztes Wild ist die _größte Gefahr für den Jäger_. _Wartefrist_ nach dem Schuss einhalten (Reh/Wildschwein: 10–15 min), dann _Nachsuche_ mit Hund oder systematisch (siehe Konzept 2.x). _Schusswaffen nur mit Erlaubnis (WaffG)_ — ohne Waffenschein keine Schusswaffe führen.]
@@ -1460,6 +1463,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 + Nach dem Schuss: Wartefrist, dann Nachsuche.
 + Wildbret-Untersuchung und Durchgaren: siehe Konzept 9.1 (`warn-6b`).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.2 „Pirsch & sauberer Schuss“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Wartefrist eingehalten
 - [ ] Nachsuche organisiert
 - [ ] Waffenerlaubnis vorhanden (WaffG)
@@ -1535,6 +1539,7 @@ _Querverweise:_ siehe Konzept 9.1 (`warn-6b`), siehe Konzept 1.1.
   [Schusswaffen nur mit Erlaubnis (WaffG)], [siehe Glossar, Anhang D Band 1],
   [nur mit Waffenschein (WaffG)], [siehe Glossar, Anhang D Band 1],
   [nur Übungsgerät, nicht zur Jagd], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -1655,6 +1660,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 4 — Fernwaffen des Sammlers <kap-4>
+_Ziel des Kapitels:_ Ziel: Fernwaffen realistisch einordnen: Bogen/Speer nur Übungsgerät/Werkzeug (rechtlicher Hinweis), nie Gifte.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Verletztes Wild ist aggressiv und gefährlich (Eber, angeschossenes Reh). Wartefrist (10–15 min) lässt es verenden/legen; dann Nachsuche systematisch. Schuss nur mit Waffenschein (WaffG) — Tabelle im Text (warn-6c).
 - _Situationsvarianten (wann welche):_ Mit Hund: Schweißhund. Ohne Hund: Pirschspur in Kreisen lesen (2.x). Stadt: nicht anwendbar.
@@ -1667,15 +1673,14 @@ _Erklärung:_
   [4.1], [Jagdbogen], [6], [unbedenklich], [7], [gelb], [Abb. 6.4],
   [4.2], [Pfeil, Speer, Wurfholz], [6], [unbedenklich], [8], [gelb], [–],
 )
-#pagebreak(weak: true)
 === 4.1 Jagdbogen <k-4-1>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb (SME: rechtlich unzulässig als Jagdwaffe)_ · P 6 · M unbedenklich · V 7 · Abb. 6.4]
-#pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-4.svg", width: 100%), caption: [Abb. 6.4 — Jagdbogen: sicherer Bereich 10–20 m – in DE/AT/CH nur Übungsgerät, jagdrechtlich unzulässig (Konzept 4.1, SME).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-4.svg", width: 100%), caption: [Abb. 6.4 — Jagdbogen: sicherer Bereich 10–20 m – in DE/AT/CH nur Übungsgerät, jagdrechtlich unzulässig (Konzept 4.1, Fachlektorat).])]]
 #kasten([Rechtlicher Hinweis (Pflicht):])[_Bogenjagd ist in DE/AT/CH jagdrechtlich unzulässig_ — nur Schusswaffen sind Jagdwaffen. Der Bogen ist hier _reines Übungsgerät_.]
 + Nur als Übungsgerät führen; nie zur Jagd einsetzen.
 + Sicherheitsabstand _10–20 m_; nie auf Personen richten.
 + _100 Probeschüsse Pflicht_ vor jedem Einsatz (siehe Konzept B1-8.2, Übungsprotokoll).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.1 „Jagdbogen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Als Übungsgerät deklariert
 - [ ] 100 Probeschüsse dokumentiert
 - [ ] Sicherheitsabstand 10–20 m
@@ -1683,6 +1688,7 @@ _Querverweise:_ siehe Konzept 1.1 (Jagdschein-Pflicht), siehe Konzept B1-8.2. _E
 - _Prinzip (warum das funktioniert):_ Der Bogen ist ein präzises Übungsgerät (10–20 m), aber in DE/AT/CH jagdrechtlich keine Jagdwaffe — nur Schusswaffen sind Jagdwaffen. 100 Probeschüsse dokumentieren die Treffsicherheit (B1-8.2).
 - _Situationsvarianten (wann welche):_ Übung: Parcours, Scheiben. Niemals zur Jagd einsetzen.
 - _Typische Fehler (warum + Folge):_ Mit Bogen jagen. Folge: strafbar (Waffengesetz/Jagdrecht), Wild unnötig verletzt.
+_Übungsablauf (Bogen, nur Übungsgerät):_ 100 Probeschüsse auf Scheibe 10–20 m; Zeitansatz 2–3 h verteilt auf 2 Tage; Erfolgskontrolle: ≥ 80 % Treffer; Abbruch bei Sehnenreizung oder Ermüdung; nie zur Jagd einsetzen (rechtlich unzulässig).
 #subhead[Ablauf mit Kontrollkästchen]
 #table(
   columns: 3,
@@ -1698,6 +1704,8 @@ _Querverweise:_ siehe Konzept 1.1 (Jagdschein-Pflicht), siehe Konzept B1-8.2. _E
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [10–20 m], [( ) Sicherheitsabstand 10–20 m],
+  [2–3 h], [f Scheibe 10–20 m; Zeitansatz 2–3 h verteilt auf 2 Tage; Erf],
+  [80 %], [f 2 Tage; Erfolgskontrolle: ≥ 80 % Treffer; Abbruch bei Seh],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -1746,7 +1754,9 @@ _Querverweise:_ siehe Konzept 1.1 (Jagdschein-Pflicht), siehe Konzept B1-8.2. _E
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Rechtlicher Hinweis (Pflicht):], [siehe Glossar, Anhang D Band 1],
   [reines Übungsgerät], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
+  [Übungsablauf (Bogen, nur Übungsgerät):], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
 - [ ] Material vollständig (siehe Material & Maß)
@@ -1863,10 +1873,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 4.2 Pfeil, Speer, Wurfholz <k-4-2>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb (SME)_ · P 6 · M unbedenklich · V 8]
 #kasten([Rechtlicher Hinweis (Pflicht):])[_Speer als Jagdwaffe unzulässig_; Wurfholz nur als _Werkzeug_ (siehe Konzept B9-9.x). _Keine Gifte_ an Pfeil/Speer (ethische Leitlinie, siehe Konzept B10-4.2).]
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.2 „Pfeil, Speer, Wurfholz“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Speer nicht zur Jagd
 - [ ] Keine Gifte
 _Querverweise:_ siehe Konzept 4.1, siehe Konzept B9-3.3, Stiel/Wurfholz als Werkzeug.
@@ -1909,6 +1919,7 @@ _Querverweise:_ siehe Konzept 4.1, siehe Konzept B9-3.3, Stiel/Wurfholz als Werk
   [Speer als Jagdwaffe unzulässig], [siehe Glossar, Anhang D Band 1],
   [Werkzeug], [siehe Glossar, Anhang D Band 1],
   [Keine Gifte], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -2028,6 +2039,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 5 — Fallen & Kleintiere <kap-5>
+_Ziel des Kapitels:_ Ziel: Erlaubte Fanggeräte einsetzen: Kastenfalle (5.1a) mit täglicher Kontrolle, sauberer Tod; keine Schlingen.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Speer und Wurfholz sind Werkzeuge (z. B. für Fischwehr, Unterstände), keine Jagdwaffen; Gifte an Waffen sind verboten (Leitlinie, B10-4.2).
 - _Situationsvarianten (wann welche):_ Wurfholz \< 10 m als Werkzeug/Fanghilfe. Speer: nicht zur Jagd.
@@ -2041,16 +2053,15 @@ _Erklärung:_
   [5.2], [Vögel, Eier, Kleintier], [7], [unbedenklich], [8], [grün], [–],
   [5.3], [Feder-Kunde], [7], [unbedenklich], [9], [grün], [–],
 )
-#pagebreak(weak: true)
 === 5.1a Kastenfalle & Kleintierfallen (Ersatz für 5.1) <k-5-1a>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · Abb. 6.5]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-5.svg", width: 100%), caption: [Abb. 6.5 — Kastenfalle (Ersatz für 5.1): amtlich zugelassene Lebendfang-Falle, tägliche Kontrolle, nie an Menschenpfaden (Konzept 5.1a).])]]
 #kasten([Rechtlicher Hinweis (Pflicht):])[Nur _amtlich zugelassene Lebendfang-Kastenfallen_ verwenden (Zulassung je Bundesland prüfen). _Tägliche Kontrolle_ (morgens und abends). _Kleintierfallen im Haushalt_ (Mäuse, Ratten) sind vom BJagdG nicht erfasst. _Nie an Menschenpfaden_ aufstellen.]
 + Kastenfalle am Wechsel aufstellen (siehe Konzept 2.3), mit Draht an Baum sichern.
 + Köder: Apfel, Möhre, Ei (siehe Konzept 6.2).
 + Kontrollkarte führen (Anhang A Band 6): 2× täglich, Fang sofort entnehmen oder töten (sauberer Tod, siehe Konzept 1.1).
 + Lebendfang: Tier unverteilt entnehmen — _sauberer Tod sofort:_ bei Kleintieren _Genickbruch_ (kräftiger Zug/Drehung am Kopf, bis das Rückgrat durchtrennt ist) oder kräftiger Schlag auf den Kopf; nie quälen, nie leiden lassen. Danach nach Konzept 9.1 zerwirken.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.1a „Kastenfalle & Kleintierfallen (Ersatz für 5.1)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Amtlich zugelassen (Bundesland geprüft)
 - [ ] 2× täglich kontrolliert
 - [ ] Nie an Menschenpfaden
@@ -2122,6 +2133,7 @@ _Querverweise:_ siehe Konzept 2.3, siehe Konzept 6.2, siehe Konzept 9.1, siehe K
   [Tägliche Kontrolle], [siehe Glossar, Anhang D Band 1],
   [Kleintierfallen im Haushalt], [siehe Glossar, Anhang D Band 1],
   [Nie an Menschenpfaden], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -2240,10 +2252,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 5.2 Vögel, Eier, Kleintier <k-5-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 8]
 #kasten([Rechtlich:])[Entnahme/Zerstörung von _Vogeleiern und -nestern ist verboten_ (§ 44 BNatSchG). _Nie das letzte Gelege_ eines Nests nehmen; Eier _nie roh_ essen.]
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.2 „Vögel, Eier, Kleintier“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] § 44 BNatSchG beachtet
 - [ ] Nie letztes Gelege
 - [ ] Eier gekocht
@@ -2290,6 +2302,7 @@ _Querverweise:_ siehe Konzept 9.1 (Zerwirken/Durchgaren). _Erklärung:_
   [Vogeleiern und -nestern ist verboten], [siehe Glossar, Anhang D Band 1],
   [Nie das letzte Gelege], [siehe Glossar, Anhang D Band 1],
   [nie roh], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -2407,7 +2420,6 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 5.3 Feder-Kunde <k-5-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 9]
 Schwungfeder (steif, zum Schreiben/Schneiden) vs Daune (weich, Isolation, siehe Konzept B4-2.1). Federn trocknen, mit Talkum/Puder gegen Verkleben lagern.
@@ -2566,6 +2578,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 6 — Angel & Köder <kap-6>
+_Ziel des Kapitels:_ Ziel: Angeln mit Schnur/Haken/Pose und selbst gezüchteten Ködern beherrschen.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Schwungfedern (steife Achse) eignen sich zum Schreiben/Schneiden; Daunen (weiche Verästelung) isolieren (B4-2.1). Trocknen, mit Talkum gegen Verkleben lagern.
 - _Situationsvarianten (wann welche):_ Ganz-Verwertung (1.1): Federkiele vom erlegten Vogel nutzen.
@@ -2579,15 +2592,14 @@ _Erklärung:_
   [6.2], [Köder-Kunde], [8], [unbedenklich], [9], [grün], [–],
   [6.3], [Köder-Zucht (Wurm-Kiste)], [8], [unbedenklich], [9], [grün], [–],
 )
-#pagebreak(weak: true)
 === 6.1 Schnur, Haken, Pose <k-6-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 6.6]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-6.svg", width: 100%), caption: [Abb. 6.6 — Angel: Schnur, Haken, Pose – Knoten vor jedem Einsatz prüfen (Konzept 6.1, konsistent B1 6.3, B9 5.2).])]]
 Konsistent mit Knoten (siehe Konzept B1-6.3) und Seil (siehe Konzept B9-5.2).
 + _Knoten-Prüfung vor jedem Einsatz:_ jeder Knoten belastet ziehen.
 + Haken an Schnur mit _Achterknoten_ (siehe Konzept B1-6.3).
 + Pose (Schwimmer) aus Kork/Holz selbst schnitzen.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.1 „Schnur, Haken, Pose“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Knoten geprüft
 - [ ] Haken fest
 _Querverweise:_ siehe Konzept B1-6.3, siehe Konzept B9-5.2. _Erklärung:_
@@ -2648,6 +2660,7 @@ _Querverweise:_ siehe Konzept B1-6.3, siehe Konzept B9-5.2. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -2765,7 +2778,6 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 6.2 Köder-Kunde <k-6-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9]
 #table(
@@ -2932,12 +2944,12 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 6.3 Köder-Zucht (Wurm-Kiste) <k-6-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9]
 + Kiste mit feuchter Erde + Laub/Kaffeesatz.
 + Würmer einsetzen, dunkel und kühl stellen.
 + Füttern mit Gemüseresten; Erde feucht halten.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.3 „Köder-Zucht (Wurm-Kiste)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Wurm-Kiste angelegt
 _Querverweise:_ siehe Konzept 6.2.
 #subhead[Ablauf mit Kontrollkästchen]
@@ -2994,6 +3006,7 @@ _Querverweise:_ siehe Konzept 6.2.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -3113,6 +3126,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 7 — Netze & Reusen <kap-7>
+_Ziel des Kapitels:_ Ziel: Netze/Reusen mit Öffnung und Genehmigung (Fischereirecht) legal und sicher einsetzen.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Die Wurm-Kiste (feuchte Erde + Laub/Kaffeesatz, dunkel/kühl) züchtet Köder vor Ort — spart Transport und hält frisch.
 - _Situationsvarianten (wann welche):_ Füttern mit Gemüseresten; Erde feucht halten, nicht nass.
@@ -3125,13 +3139,12 @@ _Erklärung:_
   [7.1], [Netz], [8], [prüfenswert], [7], [gelb], [Abb. 6.7],
   [7.2], [Reuse, Fischwehr, Stellnetz], [8], [unbedenklich], [8], [grün], [Abb. 6.8],
 )
-#pagebreak(weak: true)
 === 7.1 Netz <k-7-1>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb_ · P 8 · M prüfenswert · V 7 · Abb. 6.7]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-7.svg", width: 100%), caption: [Abb. 6.7 — Netz: nie als Mauer ohne Öffnung – Maschenweite & Markierung je Bundesland, Genehmigung prüfen (Konzept 7.1, gelb).])]]
 + _Nie als Mauer ohne Öffnung_ aufspannen — Ertrinkungsgefahr für Wild und Mensch.
 + #kasten([Rechtlich (Fischereirecht):])[Stellnetz/Kiemennetz _genehmigungspflichtig_, Maschenweite und Markierung je Bundesland; Fischereischein (DE) bzw. _rod licence (Irland)_ erforderlich.]
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.1 „Netz“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Öffnung im Netz
 - [ ] Genehmigung/Markierung geklärt (je Bundesland)
 _Querverweise:_ siehe Konzept 7.2, siehe Konzept 1.1. _Erklärung:_
@@ -3188,6 +3201,7 @@ _Querverweise:_ siehe Konzept 7.2, siehe Konzept 1.1. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -3305,13 +3319,12 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 7.2 Reuse, Fischwehr, Stellnetz <k-7-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 6.8]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-8.svg", width: 100%), caption: [Abb. 6.8 — Reuse / Fischwehr / Stellnetz: Drei-Tage-Regel, täglich kontrollieren bei Wärme (Konzept 7.2).])]]
 + _Drei-Tage-Regel:_ Reusen maximal 3 Tage unbeaufsichtigt, _täglich kontrollieren bei Wärme_.
 + Genehmigung/Markierung je Bundesland (siehe Konzept 7.1); Irland: rod licence.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.2 „Reuse, Fischwehr, Stellnetz“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Tägliche Kontrolle bei Wärme
 - [ ] Drei-Tage-Regel
 _Querverweise:_ siehe Konzept 7.1.
@@ -3365,6 +3378,7 @@ _Querverweise:_ siehe Konzept 7.1.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -3484,6 +3498,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 8 — Watt & Gezeiten <kap-8>
+_Ziel des Kapitels:_ Ziel: Watt und Gezeiten nutzen — Muscheln nur aus amtlich überwachten Gewässern (warn-6), Stiche mit 40–45 °C behandeln.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Reusen/Fischwehr fangen passiv; die Drei-Tage-Regel begrenzt Standzeit, tägliche Kontrolle bei Wärme verhindert Verderb (Fäulnis lockt Aasfresser, verwest den Fang). Genehmigung/Markierung je Bundesland (siehe 7.1).
 - _Situationsvarianten (wann welche):_ Strömung: Reuse gegen die Strömung stellen. Warm: täglich kontrollieren.
@@ -3496,12 +3511,11 @@ _Erklärung:_
   [8.1], [Muscheln der Gezeiten], [9], [unbedenklich], [9], [grün], [Abb. 6.9],
   [8.2], [Krabben & Watt-Gäste], [8], [unbedenklich], [8], [grün], [–],
 )
-#pagebreak(weak: true)
 === 8.1 Muscheln der Gezeiten <k-8-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün + _WARNRAHMEN [warn-6]_ · P 9 · M unbedenklich · V 9 · Abb. 6.9]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-9.svg", width: 100%), caption: [Abb. 6.9 — Muscheln der Gezeiten: nur amtlich überwachte Gewässer – PSP/DSP hitzestabil, Blaualgen meiden (Konzept 8.1, warn-6).])]]
 #warnrahmen(id: "warn-6", title: [MUSCHEL-/ALGENGIFTE :])[PSP (Saxitoxin), DSP, ASP sind _hitzestabil — kein Kochen rettet_. _Nur aus amtlich überwachten Gewässern_ ernten; nach Algenblüten/Stürmen _Sperre_ beachten. _Blaualgen (Microcystin) im Süßwasser:_ nicht trinken, nicht baden bei Massenvermehrung (siehe Konzept B2-5.1). Bank-Rast: nur frische, fest schließende Muscheln.]
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.1 „Muscheln der Gezeiten“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Amtlich überwachtes Gewässer
 - [ ] Sperrzeiten beachtet
 - [ ] Frische geprüft (fest geschlossen)
@@ -3548,6 +3562,7 @@ _Querverweise:_ siehe Konzept B2-5.1, Blaualgen, siehe Konzept 9.2. _Erklärung:
   [Nur aus amtlich überwachten Gewässern], [siehe Glossar, Anhang D Band 1],
   [Sperre], [siehe Glossar, Anhang D Band 1],
   [Blaualgen (Microcystin) im Süßwasser:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -3665,10 +3680,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 8.2 Krabben & Watt-Gäste <k-8-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8]
 _Petermännchen_ und _Löwenmähnen-Qualle:_ beim Stich _heißes Wasser 40–45 °C_ auf die Stelle — so heiß wie möglich, _ohne zu verbrühen_ (Verbrühungsgrenze 55 °C, siehe B1-7.4). 40–45 °C sind die wirksame Temperatur; „so heiß wie ertragbar“ meint nicht 55 °C.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.2 „Krabben & Watt-Gäste“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Heißwasser-Behandlung bekannt
 _Querverweise:_ siehe Konzept B1-7.4, siehe Konzept B8-7.1.
 #subhead[Material & Maß (aus diesem Konzept)]
@@ -3718,6 +3733,7 @@ _Querverweise:_ siehe Konzept B1-7.4, siehe Konzept B8-7.1.
   [Löwenmähnen-Qualle:], [siehe Glossar, Anhang D Band 1],
   [heißes Wasser 40–45 °C], [siehe Glossar, Anhang D Band 1],
   [ohne zu verbrühen], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -3837,6 +3853,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 9 — Vom Fang zur Schwelle <kap-9>
+_Ziel des Kapitels:_ Ziel: Wild sicher zerwirken und konservieren: Durchgaren ≥ 71 °C Kern (warn-6b), nie rohen Aal, Ganz-Verwertung.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Petermännchen (Stich mit Giftstachel) und Löwenmähnen-Qualle: Heißwasser 40–45 °C denaturiert das Toxin — wirksamer als Kühlen. 55 °C ist die Verbrühungsgrenze (B1-7.4).
 - _Situationsvarianten (wann welche):_ Wattwandern: feste Schuhe. Nordsee/Ostsee: Badesaison.
@@ -3850,15 +3867,14 @@ _Erklärung:_
   [9.2], [Wild-Küche], [9], [unbedenklich], [9], [grün], [–],
   [9.3], [Fell, Sehne, Knochen (Ganz-Verwertung)], [8], [unbedenklich], [8], [grün], [–],
 )
-#pagebreak(weak: true)
 === 9.1 Ausnehmen & Zerwirken <k-9-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün + _WARNRAHMEN [warn-6b]_ · P 9 · M unbedenklich · V 8 · Abb. 6.10]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-6-10.svg", width: 100%), caption: [Abb. 6.10 — Ausnehmen & Zerwirken: Trichinen-Untersuchung + Kern ≥ 71 °C – kranke Tiere meiden, Fledermäuse nie mit bloßen Händen (Konzept 9.1, warn-6b).])]]
 #warnrahmen(id: "warn-6b", title: [TRICHINEN / TOLLWUT / FLEDERMAUS-LYSSAVIREN (verschärft):])[_Trichinen:_ amtliche Untersuchung (EU-VO 2075/2005) dringend empfohlen; sicher ist _Durchgaren auf ≥ 71 °C Kerntemperatur_ (besser 75 °C) — _Gefrieren bei Wild ist unzuverlässig_ (T. britovi kälteresistent). _Tollwut:_ DE/IR terrestrisch tollwutfrei, aber _Fledermaus-Lyssaviren (EBLV-1/-2)_ möglich — _Fledermaus nie mit bloßen Händen_, Biss/Kratzer → sofort postexpositionelle Prophylaxe (siehe Konzept B8-2.2). Verhaltensauffällige Tiere meiden, nicht anfassen.]
 + Wild mit Handschuhen ausnehmen; kranke Tiere (Leber/Lunge verändert) meiden.
 + Fleisch kühl halten, bald verarbeiten (siehe Band 7).
 + Durchgaren ≥ 71 °C Kern vor Verzehr. _Messen:_ Fleischthermometer in der Sanitätsmappe (siehe B8-8.1) und in der Werkzeugkiste (siehe B9-8.1). _Ohne Thermometer (Ersatzkriterien):_ Fleisch ist innen grau-braun (nicht rosa), die Fasern lösen sich leicht, austretender Saft ist klar (nicht rosa); Fisch: Fleisch undurchsichtig weiß und löst sich von der Gräte; Kochzeit konservativ wählen.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.1 „Ausnehmen & Zerwirken“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] ≥ 71 °C Kerntemperatur gemessen
 - [ ] Keine Fledermaus mit bloßen Händen
 - [ ] Kranke Tiere gemieden
@@ -3935,6 +3951,7 @@ _Querverweise:_ siehe Konzept B8-2.2, Tetanus/postexpositionell, siehe Konzept B
   [Tollwut:], [siehe Glossar, Anhang D Band 1],
   [Fledermaus-Lyssaviren (EBLV-1/-2)], [siehe Glossar, Anhang D Band 1],
   [Fledermaus nie mit bloßen Händen], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -4052,10 +4069,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 9.2 Wild-Küche <k-9-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9]
 #warnrahmen()[_Aal nie roh_ — Aalblut ist giftig, aber _hitzelabil_ (durch Garen ungiftig).]
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.2 „Wild-Küche“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Aal durchgegart
 - [ ] Wildbret ≥ 71 °C Kern (siehe Konzept 9.1)
 _Querverweise:_ siehe Konzept 9.1 (`warn-6b`). _Erklärung:_
@@ -4107,6 +4124,7 @@ _Querverweise:_ siehe Konzept 9.1 (`warn-6b`). _Erklärung:_
   [Text-Warnung:], [siehe Glossar, Anhang D Band 1],
   [Aal nie roh], [siehe Glossar, Anhang D Band 1],
   [hitzelabil], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -4224,10 +4242,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 9.3 Fell, Sehne, Knochen (Ganz-Verwertung) <k-9-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8]
 Konsistent mit Konzept 1.1 (Ganz-Verwertung): Fell gerben (siehe Konzept B7-7.3), Sehnen als Faden/Schnur (siehe Konzept B9-5.2), Knochen zu Leim/Werkzeug (siehe Konzept B9-7.2).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.3 „Fell, Sehne, Knochen (Ganz-Verwertung)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Nichts wegwerfen, was verwertbar ist
 _Querverweise:_ siehe Konzept 1.1, siehe Konzept B7-7.3, siehe Konzept B9-7.2.
 #subhead[Fehler & Folgen (siehe Anhang B)]
@@ -4265,6 +4283,7 @@ _Querverweise:_ siehe Konzept 1.1, siehe Konzept B7-7.3, siehe Konzept B9-7.2.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -4485,7 +4504,21 @@ Kopiervorlage zu Konzept 9.1 — Tier / Datum / Untersuchung / Kern-Temperatur /
 )
 #pagebreak(weak: true)
 == Anhang C — Übungsplan (Band 6) <anh-C>
-Spurenlesen (2.1–2.4) monatlich im Gelände; Kastenfalle 5.1a aufstellen + kontrollieren üben; Angelknoten (6.1) mit Konzept B1-6.3; Zerwirk-Protokoll (9.1). Verfalluhr 12 Monate (siehe Konzept B1-8.2). Bogen 4.1: 100 Probeschüsse als Übungspflicht.
+_Übungsablauf (verbindlich für jede Übung in diesem Band):_
++ _Vorbereitung (10 min):_ Material und Protokollbogen (Anhang A4 / B1-8.2) bereitlegen; Warnrahmen des Konzepts durchlesen; bei Outdoor-Übung Wetter prüfen (B1-4.4).
++ _Durchführung:_ die nummerierten Schritte des Konzepts exakt in der dortigen Reihenfolge ausführen — keine Abkürzungen.
++ _Wiederholungen:_ jede Übung mindestens 3× hintereinander; Konzepte mit V \< 6 mindestens 5× (z. B. in diesem Band siehe Liste unten).
++ _Zeitansatz:_ 45–90 min pro Übungseinheit, maximal 2 Einheiten pro Tag — Ermüdung verfälscht das Ergebnis.
++ _Beobachten (Erfolgskontrolle):_ das messbare Kriterium der Übung notieren (Zeit, Maß, Trefferquote, Temperatur) — ohne Messung ist die Übung nicht bestanden.
++ _Abbruchkriterien:_ Abbruch sofort bei Verletzung, Wetterumschwung, Materialbruch, Schmerzen (z. B. Augen beim Schweißen) oder wenn nach 3 Durchgängen kein Fortschritt erkennbar ist. Abbruch dokumentieren — nicht schönreden.
++ _Protokoll (B1-8.2):_ Datum, Konzept-Nr., Wiederholungen, Zeitansatz, Beobachtung/Erfolgskontrolle, V-Bewertung, Verfalldatum (Datum + 12 Monate).
+_Band-spezifische Übungen (Vorrang, mit Erfolgskontrolle):_
+- Spurenlesen (2.1–2.4): 3 Begehungen, Erfolg: Trittsiegel/Gangbild richtig zugeordnet (Fuchs/Hund/Reh/Hase)
+- Kastenfalle stellen + kontrollieren (5.1a): 2×, Erfolg: amtlich zugelassen, 2× täglich kontrolliert, nie an Menschenpfaden
+- Angelknoten (6.1): 5× Achterknoten, Erfolg: Knoten hält 5 kg Zugprobe
+- Bogen-Probeschüsse (4.1, nur Übungsgerät!): 100 Schuss, Erfolg: ≥ 80 % in der Scheibe auf 10–20 m
+- Zerwirk-Protokoll (9.1): 1×, Erfolg: Kerntemperatur ≥ 71 °C gemessen und protokolliert
+Verfalluhr: 12 Monate ohne Wiederholung = Fähigkeit verfallen (siehe B1-8.2). Zerwirk-Protokoll (9.1). Verfalluhr 12 Monate (siehe Konzept B1-8.2). Bogen 4.1: 100 Probeschüsse als Übungspflicht.
 #pagebreak(weak: true)
 == Bandabschluss Band 6 — Bewertungsmatrix + Devise <abschluss>
 #table(
@@ -4527,9 +4560,9 @@ _Erklärung:_
 == Situative Detail-Skizzen (Review v1) <skizzen-v1>
 Situative Skizzen zu Varianten und Situationen (mit Maßen und Kontext) — ergänzt nach Review v1, Befund 3.
 #grid(columns: (1fr, 1fr), column-gutter: 8pt, row-gutter: 8pt,
-  figure(image("illustrationen/abb-6-11.svg", width: 100%), caption: [Abb. 6.11 — Ansitz situativ: Hochsitz / Bodensitz / Pirsch – Wahl nach Wind, Deckung, Gelände (Ergänzung zu Abb. 6.3, Review v1).]),
-  figure(image("illustrationen/abb-6-12.svg", width: 100%), caption: [Abb. 6.12 — Kastenfalle im Gelände situativ: Tarnung, Kontrollweg, nie an Menschenpfaden (Ergänzung zu Abb. 6.5, Review v1).]),
-  figure(image("illustrationen/abb-6-13.svg", width: 100%), caption: [Abb. 6.13 — Angel situativ: stehendes vs. fließendes Gewässer – Pose, Gewicht, Position (Ergänzung zu Abb. 6.6, Review v1).]))
+  figure(image("illustrationen/abb-6-11.svg", width: 100%), caption: [Abb. 6.11 — Ansitz situativ: Hochsitz / Bodensitz / Pirsch – Wahl nach Wind, Deckung, Gelände (Ergänzung zu Abb. 6.3).]),
+  figure(image("illustrationen/abb-6-12.svg", width: 100%), caption: [Abb. 6.12 — Kastenfalle im Gelände situativ: Tarnung, Kontrollweg, nie an Menschenpfaden (Ergänzung zu Abb. 6.5).]),
+  figure(image("illustrationen/abb-6-13.svg", width: 100%), caption: [Abb. 6.13 — Angel situativ: stehendes vs. fließendes Gewässer – Pose, Gewicht, Position (Ergänzung zu Abb. 6.6).]))
 #pagebreak(weak: true)
 == Gesamt-Checkliste Band 6 <gesamt-checkliste>
 Alle Konzepte dieses Bandes im Überblick — abhaken, wenn geübt/gelesen:
@@ -4604,8 +4637,8 @@ Interne Prüf-IDs aus dem Factcheck (dreifache Prüfung). Sie stehen nicht im Le
   columns: 3,
   table.header([*ID*], [*Konzept*], [*Fundstelle (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [W17], [8.1], [_WARNRAHMEN (warn-6) — MUSCHEL-/ALGENGIFTE (09 Nr. 6):_ PSP (Saxitoxin), DSP, ASP sind],
-  [W18], [9.1], [TRICHINEN / TOLLWUT / FLEDERMAUS-LYSSAVIREN (09 Nr. 7, verschärft):_ _Trichinen:\*\* amt],
+  [W17], [8.1], [_WARNRAHMEN (warn-6) — MUSCHEL-/ALGENGIFTE :_ PSP (Saxitoxin), DSP, ASP sind],
+  [W18], [9.1], [TRICHINEN / TOLLWUT / FLEDERMAUS-LYSSAVIREN (verschärft):_ _Trichinen:\*\* amt],
 )
 
 #pagebreak(weak: true)

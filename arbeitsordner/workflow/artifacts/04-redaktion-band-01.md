@@ -8,6 +8,9 @@ Stil: kurze Sätze, Imperativ, Checklisten/Tabellen, Baustein-Kästen, Warnrahme
 
 ## Kapitel 1 — Ausgangslage & Szenarien
 
+**Ziel des Kapitels:** Rahmenkapitel: Es benennt die Ausgangslage (Ausfall von Strom und Ordnung) und verweist auf die Kapitel, die die Erstlage sichern — lesen, wenn unklar ist, womit du beginnen sollst.
+
+
 Dieses Kapitel ist das Nachschlage-Rahmenkapitel des Bandes. Es benennt die Ausgangslage (Ausfall von Strom und gesellschaftlicher Ordnung) und verweist auf die Konzepte der folgenden Kapitel. Keine Anleitung ohne Nummer.
 
 - Szenario-Annahme: Stromnetz und Versorgungsketten fallen ohne Vorwarnung aus. Siehe Konzept 3.1 (Regel der Drei) für die Priorisierung.
@@ -22,6 +25,9 @@ Dieses Kapitel ist das Nachschlage-Rahmenkapitel des Bandes. Es benennt die Ausg
 
 ## Kapitel 2 — Psyche & Stress
 
+**Ziel des Kapitels:** Ziel: In der ersten Stunde nach dem Schock richtig handeln — Panik kontrollieren, Atmung regulieren, Schlaf/Wachen und Gespräche so organisieren, dass die Gruppe handlungsfähig bleibt.
+
+
 ### 2.1 STOPP-Protokoll — grün · P 10 · M unbedenklich · V 9 · Abb. 1.1
 
 In der ersten Minute nach einem Schock handelst du falsch, wenn du sofort losläufst. Das STOPP-Protokoll stoppt diese Impulsreaktion.
@@ -31,6 +37,10 @@ In der ersten Minute nach einem Schock handelst du falsch, wenn du sofort loslä
 3. **O** — Observe: Blick rundum. Geräusche, Gerüche, Bewegungen.
 4. **P** — Plan: Entscheide die nächsten drei Handlungen.
 5. **P** — Proceed: Führe die erste Handlung aus.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.1 „STOPP-Protokoll“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Stopp genommen, bevor etwas bewegt wurde
 - [ ] Drei Gefahren benannt
@@ -53,6 +63,10 @@ PanikAtmung erhöht den Verbrauch und verschlechtert Entscheidungen. Das 4–6-P
 2. Luft anhalten — 6 Sekunden.
 3. Ausatmen durch den Mund — 6 Sekunden.
 4. Wiederholen: 5 Zyklen.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.2 „Atemprotokoll 4–6“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] 5 volle Zyklen gemacht
 - [ ] Schulter und Kiefer bewusst gelöst
@@ -101,6 +115,10 @@ Unstrukturierte Gespräche eskalieren in der Krise. Die 15-min-Box begrenzt Rede
 3. Danach Entscheidung oder Vertagung — siehe Konzept B10-4.2 (Rat & Streit, Band 10).
 4. Protokollführer schreibt mit (siehe Konzept 9.1).
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.4 „Gesprächsordnung (15-min-Box)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Thema vorab angesagt
 - [ ] Redezeiten eingehalten
 - [ ] Entscheidung oder neuer Termin im Protokoll
@@ -112,6 +130,9 @@ Unstrukturierte Gespräche eskalieren in der Krise. Die 15-min-Box begrenzt Rede
 ---
 
 ## Kapitel 3 — Regel der Drei & Erstmaßnahmen
+
+**Ziel des Kapitels:** Ziel: Die Priorisierung (Luft–Wärme–Wasser–Nahrung) als Heuristik anwenden und die 72-h-Erstausstattung (Rucksack, Treffpunkte) einsatzbereit haben.
+
 
 **Erklärung:**
 
@@ -150,6 +171,10 @@ Der Rucksack trägt 72 Stunden autarkes Handeln. Prüfkriterium: **unter 12 kg**
 | 1 | Karte, Kompass (siehe Konzept 4.3) |
 | 1 | Notrufmittel (siehe Konzept 5.1) |
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.2 „Notfallrucksack (72 h)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Gesamtgewicht gewogen: < 12 kg
 - [ ] Wasser auffüllbar eingepackt (Flaschen leer mitnehmen möglich)
 - [ ] Inhalt alle 6 Monate geprüft (siehe Konzept 8.2)
@@ -171,6 +196,10 @@ Profile passen den Rucksack an die Tragkraft an (Kinder/Senioren 10–15 % Körp
 - Senior: Medikamente doppelt, Brille Ersatz, Gehhilfe falls nötig.
 - Haustier: Futter für 3 Tage, Leine, Transportbox.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.3 „Rucksack-Profile (Kinder/Senioren/Haustiere)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Jedem sein Gewicht zugewiesen und gewogen
 - [ ] Medikamente des Seniors doppelt eingepackt
 
@@ -190,6 +219,10 @@ Netzausfall bedeutet: keine digitale Absprache. Der Treffpunkt-Plan ist schriftl
 3. Plan jedem Mitglied schriftlich geben; Kopie im Rucksack (siehe Konzept 3.2).
 4. Ohne Lebenszeichen nach +60 Minuten: siehe Konzept 5.2 (Botenregeln).
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.4 „Treffpunkt-Plan (A/B + Abholliste)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] A und B schriftlich notiert
 - [ ] Abholliste vollständig
 - [ ] +60-min-Regel allen bekannt
@@ -200,7 +233,120 @@ Netzausfall bedeutet: keine digitale Absprache. Der Treffpunkt-Plan ist schriftl
 
 ---
 
+## Kapitel 3a — Blackout & Urban Survival
+
+**Ziel des Kapitels:** Stromausfall großflächig und lang (Blackout) ist das Szenario, auf das alle anderen Bände aufbauen. Dieses Kapitel gibt das Phasenmodell, die ersten 60 Minuten, die Grundausstattung und einen übbaren Drill. Quellenbasis: `18-recherche-blackout.md` (14 Quellen, BBK/Saurugg u. a., Abruf 2026-11-07). **Nur grün/verifizierte Inhalte (W1/W2/W14/W21, BBK) werden als Anleitung geführt; ROHWERT-Angaben sind als `LÜCKE BLn (ungeprüft)` markiert** und bis zur fact-checker-Prüfung nicht handlungsleitend.
+
+### 3a.1 Phasenmodell eines Blackouts (Saurugg) — grün (Modell) · P 8 · M unbedenklich · V 9
+
+| Phase | Inhalt | Zeithorizont |
+|---|---|---|
+| Phase 1 | Wiederherstellung einer weitgehend stabilen Stromversorgung | `LÜCKE BL6 (ROHWERT, ungeprüft: ~1 Woche)` |
+| Phase 2 | Wiederherstellung weitgehend funktionierender Telekommunikation (Handy, Internet) — Strom wieder da, aber noch keine Normalität: Geräte schonen, nicht alles auf einmal einschalten | `LÜCKE BL6 (ROHWERT, ungeprüft: ~2–4 Wochen)` |
+| Phase 3 | Umfassender Wiederanlauf der Versorgung mit lebenswichtigen Gütern (Lebensmittel, Medikamente, Treibstoff) | `LÜCKE BL6 (ROHWERT, ungeprüft: frühestens ~2 Wochen)` |
+
+Planungsgrundsatz (grün, W21/BBK): **72 Stunden komplett autark** planen (kein Strom, kein fließendes Wasser, kein Mobilfunk, keine offenen Geschäfte). Vorsorgeziel Vorrat: **14 Tage** (BBK-Ratgeber) — abzugleichen mit 10-Tage-Checkliste → `LÜCKE BL10`; das Kompendium führt 14 Tage (siehe B7-9.1).
+
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Ein Blackout ist ein Kaskadenkollaps (Schutzabschaltungen, Leitstellen-Ausfall); die Phasen beschreiben, was wann wiederkommt — danach richtest du die Autonomie-Dauer. Telekommunikation kommt später als Strom, Versorgung mit Gütern zuletzt.
+- **Situationsvarianten (wann welche):** Teil-Blackout (4–48 h, wetterbedingt, mehrmals jährlich — konservativ mit 4–8 h Mobilfunk-Notstrom rechnen, `LÜCKE BL4`) vs. großflächiger Blackout (Tage). Stadt/Hochhaus: ab 3. Stock kein Wasserdruck nach wenigen Stunden; Aufzug fällt aus. Land: Pumpen (Wasser, Heizung, Gülle) fallen aus, Tierversorgung nötig.
+- **Typische Fehler (warum + Folge):** Nur auf 24 h planen. Folge: nach 72 h kein Wasser aus der Leitung, keinfunkiges Telefon, leere Regale — Engpass genau dann, wenn alle gleichzeitig losstürmen.
+
+**Querverweise:** siehe B2-8.1 (Wasservorrat 2 l/Pers/Tag × 14 T), siehe B7-9.1 (Winter-Rechnung), siehe B1-3.2 (72-h-Rucksack), siehe B1-5.1 (Notrufzeichen ohne Funk).
+
+### 3a.2 Sofortmaßnahmen — erste 60 Minuten — grün (BBK/Saurugg konsolidiert) · P 9 · M unbedenklich · V 9
+
+1. **Geräte ausschalten und Elektronik ausstecken** (Bügeleisen, Herd, Waschmaschine — Schutz bei Wiederkehr); **eine Lampe eingeschaltet lassen** (Wiederkehr erkennen).
+2. **Familie informieren**, Kinder aus Schule/Kita abholen, Treffpunkt nach B1-3.4 herstellen.
+3. **Wasser sofort auffüllen:** Badewanne, Waschbecken, alle Gefäße (Kochgeschirr, Kübel, Kanister, Flaschen) — die Wasserversorgung ist pumpenabhängig (siehe B2-8.1).
+4. **Licht und Wärme an einem festen, auch im Dunkeln findbaren Ort bereitlegen:** Taschenlampe, Kerzen, Streichhölzer. Kerzen **nie unbeaufsichtigt** brennen lassen (siehe B3-9.1).
+5. **Handy auf Flugmodus** (Akku sparen).
+6. **Stolperfallen im Dunkeln entfernen**; Aufzüge auf eingeschlossene Personen prüfen.
+7. **Radio einschalten** (batteriebetrieben oder Kurbelradio, UKW) — Durchsagen meist zur vollen Stunde. NINA-App nur mit mobilem Internet; UKW-Radio ist der garantierte Fallback (`LÜCKE BL8`).
+8. **Ein Zimmer als Aufenthalts-/Schlafraum wählen** (nur einen Raum warm halten, Türen geschlossen, trotzdem regelmäßig lüften — siehe B4-2.1 und B3-6.3 `warn-3`).
+9. **Kühlschrank/Tiefkühltruhe:** Verderbliches zuerst essen oder verkochen (siehe B7-8.2). Haltezeiten (4–6 h / 24–48 h) sind `LÜCKE BL6 (ROHWERT, ungeprüft)` — konservativ früh prüfen.
+10. **Medikamente prüfen:** Dauermedikation für 14 Tage bevorraten (Kompendium-Wert; 7+ vs. 14 Tage → `LÜCKE BL2`), Insulin kühl lagern (siehe B8-2.2 Kühlkette 2–8 °C), Impfpass griffbereit (B8-8.1).
+11. **Toilette ohne Wasser:** kein Wasser für die Toilette verschwenden; Eimer + Plastiksack / Trenntoilette / Campingtoilette (Stadt), Loch an wechselnder Stelle (Land) — siehe B2-9.1 (Abstand ≥ 30 m zum Wasser, W7).
+12. **Kochen/Heizen ohne Strom:** Campingkocher nur mit Lüften und CO-Melder; **nie in der Wohnung grillen oder heizen** — Erstickungsgefahr (`warn-3`, siehe B3-6.3 und B3-5.1).
+13. **Notstromaggregat nur außerhalb des Hauses** betreiben, nur bei Bedarf (CO, siehe B3-6.3).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass in den ersten 60 Minuten eines Blackouts kein kritischer Schritt vergessen wird (Wasser, Licht, Information, Medikamente, CO-Schutz).
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium für den Blackout-Start; ohne vollständige Liste fehlt im Ernstfall Wasser, Licht oder Information.
+Fehlt ein Punkt, ist die Ausgangslage gefährdet — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
+- [ ] Geräte ausgesteckt, eine Lampe an
+- [ ] Familie informiert, Treffpunkt steht (B1-3.4)
+- [ ] Wasser aufgefüllt (Badewanne/Becken/Gefäße) — Ziel: 2 l/Pers/Tag × 14 T erreichbar (B2-8.1)
+- [ ] Licht/Wärme an festem Ort bereit, Kerzen-Regel klar
+- [ ] Handy im Flugmodus
+- [ ] Stolperfallen entfernt, Aufzüge geprüft
+- [ ] UKW-Radio läuft (Fallback zu NINA, BL8)
+- [ ] Ein Raum als Aufenthaltsraum gewählt, Lüftung klar (B4-2.1, warn-3)
+- [ ] Kühlschrank-Strategie klar (BL6 konservativ)
+- [ ] Medikamente 14 Tage + Insulin kühl + Impfpass (B8-8.1, BL2)
+- [ ] Toilette ohne Wasser organisiert (B2-9.1)
+- [ ] Koch-/Heizlösung ohne Wohnungs-Grill (B3-5.1, warn-3)
+
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** In den ersten 60 Minuten sind Leitungen noch unter Druck bzw. Vorräte noch greifbar; Geräte-Ausstecken schützt vor Spannungsspitzen bei Wiederkehr; Wasser auffüllen nutzt den letzten Pumpendruck; UKW-Radio ist das einzige garantiert funktionierende Informationsmedium (Sender haben Notstrom und gesetzliche Informationspflicht).
+- **Situationsvarianten (wann welche):** Stadt/Hochhaus (kein Wasserdruck ab 3. Stock, Aufzug fällt aus, dichtere Nachbarschaft — siehe B10-4.1) vs. Land (eigene Pumpe/Heizung fällt aus, Garten für Toilette). Winter: Heizungsausfall sofort kritisch (siehe B4-2.4). Sommer: Müll trocken/kühl lagern (Seuchengefahr).
+- **Typische Fehler (warum + Folge):** Alles auf einmal einschalten bei Wiederkehr (Netz überlasten). Folge: erneuter Kollaps. Oder: Kerzen/Grill in der Wohnung. Folge: CO-Vergiftung (`warn-3`) — tödlich, geruchlos.
+
+**Querverweise:** siehe B2-8.1, siehe B2-9.1, siehe B3-5.1, siehe B3-6.3 (`warn-3`), siehe B4-2.1, siehe B4-2.4, siehe B7-8.2, siehe B8-8.1, siehe B1-3.4.
+
+### 3a.3 Grundausstattung Blackout (BBK-Kategorien) — grün · P 9 · M unbedenklich · V 9
+
+**Checkliste — Zweck und Abnahme:** Diese Liste ist die Blackout-Grundausstattung (BBK-Checkliste, 14-Tage-Horizont). Erfüllt ist sie, wenn jedes Kästchen abgehakt **und** der Vorrat eingelagert/verifiziert ist (Gewicht, Verfallsdaten, Funktionstest Radio/CO-Melder) — das ist das Abnahmekriterium.
+Fehlt ein Punkt, ist die Autonomie in der Kategorie nicht gegeben — Folge siehe „Erklärung → Typische Fehler“ des Kapitels 3a.2 bzw. des jeweiligen Querverweis-Bands. ROHWERT-Angaben (Beträge, Gerätegrößen) sind `LÜCKE BL6 (ungeprüft)` und als solche markiert.
+
+- [ ] **Wasser:** 2 l Trinkwasser/Pers/Tag × 14 Tage, kühl-dunkel gelagert (grün, W1/W21; siehe B2-8.1); getrennter Gesamtbedarf (Kochen/Hygiene 7,5–10 l, W2) klären (`LÜCKE BL3`)
+- [ ] **Nahrung:** haltbare, kalt verzehrbare Lebensmittel × 14 Tage (Konserven, Zwieback, H-Milch, Nüsse, Trockenobst) + Campingkocher + Brennstoff (BBK; siehe B7-2.2/B7-9.1; `LÜCKE BL10` 10 vs. 14 Tage)
+- [ ] **Licht:** Taschenlampe + Ersatzbatterien, Stirnlampe, Kerzen + Feuerzeug/Streichhölzer (nie unbeaufsichtigt, B3-9.1); genaue Lumen/Zahl `LÜCKE BL6 (ROHWERT)`
+- [ ] **Wärme:** warme Kleidung, Decken, Schlafsack; netzunabhängige Heizung (Gasheizer/Petroleumofen) nur mit Zündsicherung + **CO-Melder** (`warn-3`, W14; siehe B3-6.3, B4-2.1)
+- [ ] **Kommunikation:** Kurbelradio oder batteriebetriebenes UKW-Radio (Fallback zu NINA, `LÜCKE BL8`), Notfallkontakte/Telefonnummern **auf Papier** (laminiert, siehe B1-3.4), Powerbank (Größe `LÜCKE BL6`)
+- [ ] **Finanzen:** Bargeld-Reserve in kleinen Scheinen (Geldautomat/EC fällt aus; Betrag `LÜCKE BL6, ROHWERT 200–500 €`)
+- [ ] **Dokumente:** Kopien (Ausweis, Versicherung, Impfpass, Medikamentenliste) wasserdicht gelagert (B8-8.1)
+- [ ] **Medizin:** Hausapotheke + Dauermedikation **14 Tage** (Kompendium-Wert; `LÜCKE BL2`), Insulin kühl (B8-2.2), Thermometer (B8-8.1)
+- [ ] **Hygiene:** Feuchttücher, Müllsäcke, Toilettenpapier, Desinfektionsmittel, Campingtoilette/Eimer+Säcke (B2-9.1)
+- [ ] **Sicherheit:** Rauchmelder, Feuerlöscher, **CO-Melder** (Pflicht bei alternativer Heizung, `warn-3`), FFP2
+- [ ] **Haustiere:** Futter + Wasser × 14 Tage
+
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Die Kategorien folgen der Ausfallkaskade: Wasser (Pumpe), Strom (alles Elektrische), Kommunikation (Mobilfunk-Notstrom begrenzt, `LÜCKE BL4` konservativ 4–8 h), Finanzen (keine Automaten), Information (nur UKW garantiert). Mit 14 Tagen Vorrat überbrückst du Phase 1–2 (siehe 3a.1).
+- **Situationsvarianten (wann welche):** Stadt/Hochhaus: Wasservorrat doppelt gewichten (kein Druck ab 3. Stock), Trenntoilette statt Grube, dichteres Nachbarschaftsnetz (B10-4.1). Land: Heizöl-/Wasserpumpe fällt aus — eigener Brunnen + Ofen priorisieren; Garten für Toilette (B2-9.1).
+- **Typische Fehler (warum + Folge):** Nur Bargeld oder nur Vorrat. Folge: ohne Wasser/Information kippt die Lage trotz Geld/Vorrat. Oder: CO-Melder vergessen. Folge: CO-Vergiftung bei Notheizung (`warn-3`).
+
+**Querverweise:** siehe B2-8.1, siehe B2-9.1, siehe B3-6.3 (`warn-3`), siehe B3-5.1, siehe B4-2.1, siehe B7-9.1, siehe B8-8.1, siehe B10-4.1.
+
+### 3a.4 Blackout-Drill (Übungsablauf) — grün · P 8 · M unbedenklich · V 9
+
+**Übungsablauf (7-Schritte-Protokoll wie Anhang C):**
+
+1. **Vorbereitung (15 min):** Protokollbogen (B1-8.2), Taschenlampe, Radio, CO-Melder-Test; Familie informieren, dass simuliert wird.
+2. **Durchführung:** „Strom weg“ simulieren — alle Geräte aus, eine Lampe an; Wasser auffüllen (Badewanne/Gefäße, Menge messen); eine Mahlzeit ohne Strom zubereiten (Campingkocher **nur mit Lüften + CO-Melder, nie in der Wohnung**, siehe B3-6.3 `warn-3`); UKW-Radio empfangen; 60-Minuten-Liste (3a.2) abarbeiten.
+3. **Wiederholungen:** 2× jährlich (vor der Heizsaison im Herbst und im Frühjahr).
+4. **Zeitansatz:** 2–4 h pro Drill.
+5. **Beobachten (Erfolgskontrolle):** alle 13 Punkte aus 3a.2 abgehakt; Wassermenge ≥ 2 l/Pers/Tag messbar; Radio empfängt UKW-Sender; CO-Melder-Test bestanden; Kochübung ohne CO-Alarm.
+6. **Abbruchkriterien:** echtes Ereignis (Strom weg, Sirene), CO-Alarm, Krankheit in der Familie, Wetterextrem. Abbruch dokumentieren.
+7. **Protokoll (B1-8.2):** Datum, Teilnehmer, Wdh., Zeitansatz, Erfolgskontrolle, Mängel, V-Bewertung, Verfalldatum (Datum + 12 Monate).
+
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Ein Drill deckt Lücken auf, die Listen nicht sehen (Radio empfängt nicht, CO-Melder piepst nicht, Wassermenge reicht nicht); die 60-Minuten-Routine wird unter Stress abrufbar.
+- **Situationsvarianten (wann welche):** Wohnung (Stadt): Fokus Wasser/Leitung, Campingkocher auf dem Balkon nur nach Hausordnung; Haus (Land): Fokus Pumpe/Ofen/Garten-Toilette. Winter-Drill: Heizungsausfall simulieren (B4-2.4).
+- **Typische Fehler (warum + Folge):** Drill „theoretisch“ besprechen statt durchführen. Folge: im Ernstfall fehlen Routine und funktionierendes Gerät (Radio leer, Melder ohne Batterie).
+
+**Querverweise:** siehe 3a.2, siehe B3-6.3 (`warn-3`), siehe B2-8.1, siehe B8-8.1, siehe B1-8.2, Anhang C.
+
+---
+
 ## Kapitel 4 — Orientierung ohne Strom
+
+**Ziel des Kapitels:** Ziel: Ohne Strom und ohne GPS jederzeit wissen, wo Norden ist und wie das Wetter wird — mit Stab, Sternen, Karte und Wolken.
+
 
 **Erklärung:**
 
@@ -217,6 +363,10 @@ Ein senkrechter Stab wirft einen Schatten, dessen Spitze sich bewegt. Daraus bes
 4. Linie Punkt 1 → Punkt 2 ist West–Ost (Punkt 1 = Westen).
 5. Senkrecht dazu steht Norden.
 6. Uhr-Methode klassisch: **Stundenzeiger der Uhr auf die Sonne richten** — Süden liegt auf der halben Strecke zwischen Stundenzeiger und 12 Uhr (Winterzeit). **Sommerzeit-Korrektur:** eine Stunde zurückrechnen (MEZ = Sommerzeit − 1 h). Beispiel: 15 Uhr Sommerzeit = 14 Uhr MEZ; halbe Strecke zwischen 14 und 12 = Richtung 13 Uhr = Süden. Gegenprobe mit Konzept 4.2 (Polarstern).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.1 „Schattenstab & Uhr-Methode“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Mindestens 15 Minuten zwischen den Markierungen
 - [ ] Sommerzeit-Korrektur beachtet
@@ -238,6 +388,10 @@ Ein senkrechter Stab wirft einen Schatten, dessen Spitze sich bewegt. Daraus bes
 4. Gegenprobe: Cassiopeia (W) steht gegenüber, jenseits des Polarsterns.
 5. Lot vom Polarstern zum Horizont = Norden.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.2 „Polarstern (Fünffach-Verlängerung, Cassiopeia)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Fünffach-Verlängerung geprüft
 - [ ] Cassiopeia als Gegenprobe gesichtet
 
@@ -256,6 +410,10 @@ Ein senkrechter Stab wirft einen Schatten, dessen Spitze sich bewegt. Daraus bes
 2. Maßstab lesen: 1:25.000 = 1 cm auf Karte = 250 m; 1:50.000 = 1 cm = 500 m.
 3. Eigenen Stand eintragen; Richtung mit Kompass nehmen.
 4. Marschziel bestimmen. Zwischenziele alle 500 m setzen. Genauigkeit: 1 cm auf der Karte = 250 m (1:25.000) bzw. 500 m (1:50.000); Ablesefehler ± 1 cm = ± 250–500 m — deshalb Zwischenziele und nicht das Endziel allein anpeilen.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.3 „Karte lesen“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Nordausrichtung vor dem Lesen
 - [ ] Maßstab notiert
@@ -288,6 +446,9 @@ Ein senkrechter Stab wirft einen Schatten, dessen Spitze sich bewegt. Daraus bes
 
 ## Kapitel 5 — Nachrichtentechnik & Signale
 
+**Ziel des Kapitels:** Ziel: Notruf absetzen und Boten/Treffpunkte organisieren, wenn Funk und Netz ausfallen — mit festen Signalen und Fristen.
+
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Wolken, die gegen den Höhenwind ziehen, und zunehmende Wolkendichte zeigen eine Front Stunden vor ihrem Eintreffen. Zwei unabhängige Zeichen (z. B. Wolkenbild + Winddrehung) erhöhen die Trefferquote gegenüber einem einzelnen.
@@ -298,6 +459,10 @@ Ein senkrechter Stab wirft einen Schatten, dessen Spitze sich bewegt. Daraus bes
 1. Drei Signale (Pfeife, Licht, Ruf, Schläge auf Metall) = Notzeichen, international konsistent.
 2. Pause, dann wieder drei Signale. Nie Dauerfeuer als Notzeichen (siehe Konzept B3-9.2: drei Feuer = Notzeichen).
 3. Antwort erwartet: zwei Signale = „Verstanden", ein Signal = „Nein“.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.1 „Notrufzeichen & Pfeife (3 Signale/min)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Drei-Signal-Rhythmus geübt (siehe Konzept 8.2)
 - [ ] Zeichen tags und nachts unterscheidbar
@@ -318,6 +483,10 @@ Ein senkrechter Stab wirft einen Schatten, dessen Spitze sich bewegt. Daraus bes
 3. **+60-min-Regel:** Bleibt ein Bote 60 Minuten überfällig, gilt er als vermisst; Suchtrupp nach Konzept 5.1 Zeichengebung.
 4. Übergabe schriftlich (Netzausfall).
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.2 „Treffpunkte & Botenregeln (+60-min-Regel)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Bote doppelt besetzt
 - [ ] +60-min-Frist notiert
 - [ ] Übergabezettel vorbereitet
@@ -330,6 +499,9 @@ Ein senkrechter Stab wirft einen Schatten, dessen Spitze sich bewegt. Daraus bes
 
 ## Kapitel 6 — Werkzeugkunde
 
+**Ziel des Kapitels:** Ziel: Die fünf Grundwerkzeuge (Messer, Säge/Axt, Knoten, Behelf, Traglast) sicher beherrschen — sie sind Voraussetzung für fast alle anderen Bände.
+
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Die +60-min-Regel setzt eine objektive Frist: Wer nach 60 min nicht zurück ist, löst die Suche aus. Zwei Boten sichern den Informationsfluss, falls einer ausfällt.
@@ -341,6 +513,10 @@ Ein senkrechter Stab wirft einen Schatten, dessen Spitze sich bewegt. Daraus bes
 2. Werkstück sichern (Knie, Schraubstock, Unterlage) — nie in der freien Hand halten.
 3. Klinge nach Gebrauch reinigen, trocknen, ölen (siehe Konzept B9-7.3).
 4. Schärfe prüfen: Papier sauber durchtrennen.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.1 „Messer“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Schnittrichtung weg vom Körper
 - [ ] Klinge gepflegt (siehe Konzept B9-4.2)
@@ -360,6 +536,10 @@ Ein senkrechter Stab wirft einen Schatten, dessen Spitze sich bewegt. Daraus bes
 2. **Zwei Fluchtwege** in 45° zur Schwingrichtung frei halten.
 3. Nie hangabwärts unterhalb einer arbeitenden Person stehen — siehe Konzept B9-3.1, tödliche Minute, `warn-9a`.
 4. Axt nach Gebrauch mit Schneidenschutz versehen.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.2 „Säge & Axt“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Sperrzone markiert
 - [ ] Zwei Fluchtwege 45° frei
@@ -388,6 +568,10 @@ Ein senkrechter Stab wirft einen Schatten, dessen Spitze sich bewegt. Daraus bes
 2. Knoten nach Belastung kontrollieren und nachziehen.
 3. Lastendes Seil nie mit dem Messer durchtrennen — auslaufen lassen (siehe Konzept B9-5.2).
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.3 „Fünf Serienknoten“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Alle fünf Knoten blind machbar
 - [ ] Nach Belastung kontrolliert
 
@@ -407,6 +591,10 @@ Als **Behelf** deklariert: Funktion eingeschränkt, Grenzen ehrlich benennen.
 - Sägedraht (Drahtsäge): nur Weichholz **unter 5 cm** Durchmesser.
 - Glasscherbe als Schneide: Griff mit Stoff umwickeln.
 - Dosenblech als Schaufel/Spatel.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.4 „Behelfswerkzeug“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Behelf als Behelf gekennzeichnet
 - [ ] Grenzen (z. B. < 5 cm) eingehalten
@@ -430,6 +618,10 @@ Als **Behelf** deklariert: Funktion eingeschränkt, Grenzen ehrlich benennen.
 
 Konsistenz (W20): 10-l-Wasserkanister = 10 kg = eine Seite tragen (siehe Konzept B2-4.2); Sanitätsmappe < 3 kg (siehe Konzept B8-8.1); Werkzeugkiste ≤ ¼ Körpergewicht (siehe Konzept B9-8.1).
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.5 „Traglast (15–20 % / 30 % / Kinder 10–15 %)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Last gewogen oder geschätzt und gegen Tabelle geprüft
 - [ ] Schwere Last auf den Rücken, nicht in der Hand
 
@@ -441,6 +633,9 @@ Konsistenz (W20): 10-l-Wasserkanister = 10 kg = eine Seite tragen (siehe Konzept
 
 ## Kapitel 7 — Maße, Mengen & Zeit ohne Hilfsmittel
 
+**Ziel des Kapitels:** Ziel: Maße, Mengen, Zeit und Temperatur ohne Hilfsmittel bestimmen können — die Grundlage für Bauen, Kochen, Dosieren in allen Bänden.
+
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Dauerlast über 20 % des Körpergewichts überlastet Wirbelsäule und Gelenke (Bandscheiben, Knie). Kurzfristig (unter 30 min) sind 30 % tolerabel. Kinder/Ältere: 10–15 % wegen Wachstumsfugen und geringerer Reserven.
@@ -451,6 +646,10 @@ Konsistenz (W20): 10-l-Wasserkanister = 10 kg = eine Seite tragen (siehe Konzept
 1. Eichungspflicht: Körpermaße einmal messen und notieren.
 2. Maße: Daumenbreite ≈ 2,5 cm; Handspanne ≈ 20 cm; Elle (Handgelenk–Mittelfingerspitze) ≈ 45 cm; Schritt ≈ 75 cm.
 3. Schrittfehler < 10 % durch Eichung an bekannter Strecke (100 m) prüfen.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.1 „Körpermaß-System“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Eichkarte angelegt
 - [ ] Schritt an 100 m geeicht
@@ -474,6 +673,10 @@ Konsistenz (W20): 10-l-Wasserkanister = 10 kg = eine Seite tragen (siehe Konzept
 
 **kg ≠ l** — Masse ist nicht Volumen. 1 l Wasser = 1 kg; Öl, Mehl, Reis weichen ab.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.2 „Mengen & Referenzmaße“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Referenzlöffel markiert
 - [ ] kg/l-Trennung beachtet
 
@@ -489,6 +692,10 @@ Konsistenz (W20): 10-l-Wasserkanister = 10 kg = eine Seite tragen (siehe Konzept
 1. Puls zählen: 15 Sekunden zählen, × 4 = Schläge/min. Ruhepuls ≈ 60 → 1 Sekunde pro Schlag.
 2. Zeit-Sprechen: Zähle gleichmäßig „einundzwanzig, zweiundzwanzig, dreiundzwanzig …“ — jedes „…undzwanzig“ ist etwa **1 Sekunde**. An deinem Puls geeicht (siehe oben).
 3. Restlicht-1-h: Vor Einbruch der Dunkelheit alle Arbeiten einstellen, die Licht brauchen (s. Konzept B4-9.2).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.3 „Zeit ohne Uhr (± 30 min)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Puls als Sekundentakt geeicht
 - [ ] Restlicht-1-h-Regel bekannt
@@ -510,6 +717,10 @@ Die Ellbogenprobe ist **ungenau** — sie ist ein Notbehelf, kein Messgerät. **
 2. Konservative Verbrühungsgrenze **55 °C** (W22): ab 55 °C verbrüht die Haut in Sekunden — nie heißer als handwarm zum Baden/Wunden spülen.
 3. Im Zweifel kühler annehmen.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.4 „Temperatur-Feinmessung (Ellbogenprobe)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Ellbogenprobe geübt (siehe Konzept 8.1/8.2)
 - [ ] 55-°C-Grenze eingehalten
 
@@ -521,11 +732,16 @@ Die Ellbogenprobe ist **ungenau** — sie ist ein Notbehelf, kein Messgerät. **
 
 ## Kapitel 8 — Übungskultur
 
+**Ziel des Kapitels:** Ziel: Ein Übungsrhythmus, der Fähigkeiten vor dem Verfall bewahrt (Verfalluhr 12 Monate) — ohne Übung ist Wissen im Ernstfall nicht abrufbar.
+
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Der Ellbogen ist wärmeempfindlicher als die Fingerspitzen, aber ungenau. Ab 55 °C entsteht in Sekunden eine Vollhautverbrennung — daher die konservative Grenze.
 - **Situationsvarianten (wann welche):** Nur als Notbehelf (P = 5); besser Thermometer (B8-8.1). Winter: die Haut ist kälter, also konservativer (kühler) schätzen.
 - **Typische Fehler (warum + Folge):** Mit der Handfläche prüfen. Folge: Verbrühung (Behandlung siehe B8-7.1).
+
+**Übungsablauf:** 5 Wdh. an Wasser bekannter Temperatur (10/30/50/55 °C, Thermometer B8-8.1); Zeitansatz 30 min; Erfolgskontrolle: Schätzung ± 5 °C, nie über 55 °C geschätzt; Abbruch bei Verbrennungsgefühl.
 ### 8.1 Jahres-Übungsplan — grün · P 9 · M unbedenklich · V 9 · Abb. 1.28
 
 | Quartal | Übungsschwerpunkt |
@@ -534,6 +750,10 @@ Die Ellbogenprobe ist **ungenau** — sie ist ein Notbehelf, kein Messgerät. **
 | Q2 | Wasseraufbereitung (B2-6.x/B2-7.x), Latrine (B2-9.1) |
 | Q3 | Orientierung (4.1–4.3), Nachtübung (2.3) |
 | Q4 | Werkzeug (6.1–6.5), Knoten (6.3), Rucksack (3.2) |
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.1 „Jahres-Übungsplan“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Pro Quartal ein Wochenende eingeplant
 - [ ] Pro Übung ein Protokoll (siehe Konzept 8.2)
@@ -547,11 +767,17 @@ Die Ellbogenprobe ist **ungenau** — sie ist ein Notbehelf, kein Messgerät. **
 - **Prinzip (warum das funktioniert):** Motorische Fähigkeiten verfallen ohne Wiederholung (Vergessenskurve); vierteljährliches Üben hält sie über der Einsatzschwelle. Feste Quartalszuordnung verteilt die Last übers Jahr.
 - **Situationsvarianten (wann welche):** Q1 Feuer (Winter), Q2 Wasser, Q3 Orientierung/Nacht, Q4 Werkzeug — an lokales Klima anpassen.
 - **Typische Fehler (warum + Folge):** Nur einmal jährlich üben. Folge: Verfalluhr (12 Monate) abgelaufen; Fähigkeit im Ernstfall nicht abrufbar.
+
+**Übungsablauf:** Pro Quartal 1 Wochenende (siehe Tabelle); je Übung 45–90 min, max. 2 Einheiten/Tag; Erfolgskontrolle: Protokoll vollständig (B1-8.2), Fähigkeit am Ende ohne Anleitung ausführbar; Abbruch bei Erschöpfung/Verletzung.
 ### 8.2 Übungsprotokoll (Verfalluhr 12 Monate) — grün · P 8 · M unbedenklich · V 9 · Abb. 1.29
 
 1. Jede Übung protokollieren: Datum, Konzept-Nummer, Dauer, Fehler, Bewertung V.
 2. **Verfalluhr 12 Monate:** Nach 12 Monaten ohne Wiederholung gilt die Fähigkeit als verfallen.
 3. **V < 6 → Übungspflicht** sofort einplanen (z. B. 7.4 Ellbogenprobe, 3.3.3 Band 3 Reibfeuer, 9.2.4 Band 9 Feuerschweißen).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.2 „Übungsprotokoll (Verfalluhr 12 Monate)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Protokoll geführt
 - [ ] Verfalldatum (Datum + 12 Monate) notiert
@@ -565,16 +791,25 @@ Die Ellbogenprobe ist **ungenau** — sie ist ein Notbehelf, kein Messgerät. **
 
 ## Kapitel 9 — Ernstfall-Checkliste & Protokolle
 
+**Ziel des Kapitels:** Ziel: Protokolle und Rollenpläne führen, damit Verbrauch, Entscheidungen und Wachen dokumentiert und doppelt besetzt sind.
+
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Schriftliches Protokoll macht den Übungsstand prüfbar; die 12-Monats-Verfalluhr ist ein konservativer Erfahrungswert für Fertigkeiten ohne Anwendung.
 - **Situationsvarianten (wann welche):** Konzepte mit V < 6 bekommen sofortige Übungspflicht (z. B. B3-3.3 Reibfeuer, B9-2.4 Feuerschweißen, 7.4 Ellbogenprobe).
 - **Typische Fehler (warum + Folge):** Kein Protokoll führen. Folge: Verfall wird nicht erkannt; im Ernstfall scheitert die Ausführung.
+
+**Übungsablauf:** Nach jeder Übung sofort protokollieren (Datum, Konzept-Nr., Wdh., Zeit, Fehler, V); 3 Wdh. pro neuem Konzept bis V ≥ 8; Erfolgskontrolle: Verfalldatum (Datum + 12 Monate) eingetragen; Abbruchkriterium: keines — Protokoll ist Pflicht.
 ### 9.1 Stundenprotokoll 24 h — grün · P 9 · M unbedenklich · V 8 · Abb. 1.30
 
 1. Alle 24 h das Protokoll abschließen: Was wurde getan, gegessen, getrunken, entschieden?
 2. Konsistent mit Wasser-Inventur (siehe Konzept B2-8.1).
 3. Kopiervorlage: Anhang A Band 1.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.1 „Stundenprotokoll 24 h“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Protokoll alle 24 h geführt
 - [ ] Wasserverbrauch gegen Inventur geprüft (siehe Konzept B2-8.1)
@@ -593,6 +828,10 @@ Die Ellbogenprobe ist **ungenau** — sie ist ein Notbehelf, kein Messgerät. **
 1. Rollen: Wache, Wasser, Feuer, Kochen, Instandhaltung, Protokoll.
 2. Jede Rolle **doppelt besetzen** — Krankheit oder Verletzung einer Person darf die Rolle nicht ausfallen lassen.
 3. Konsistent mit Ämtern des Dorfes (siehe Konzept B10-4.1).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.2 „Wochenrollenplan (doppelt besetzt)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Jede Rolle doppelt besetzt
 - [ ] Wochenplan schriftlich ausgehängt
@@ -623,7 +862,26 @@ Die Ellbogenprobe ist **ungenau** — sie ist ein Notbehelf, kein Messgerät. **
 
 ## Anhang C — Übungsplan (Band 1)
 
-Jahresplan siehe Konzept 8.1; Verfalluhr 12 Monate siehe Konzept 8.2. Übungen mit V < 6 (z. B. 7.4) zusätzlich sofort einplanen.
+**Übungsablauf (verbindlich für jede Übung in diesem Band):**
+
+1. **Vorbereitung (10 min):** Material und Protokollbogen (Anhang A4 / B1-8.2) bereitlegen; Warnrahmen des Konzepts durchlesen; bei Outdoor-Übung Wetter prüfen (B1-4.4).
+2. **Durchführung:** die nummerierten Schritte des Konzepts exakt in der dortigen Reihenfolge ausführen — keine Abkürzungen.
+3. **Wiederholungen:** jede Übung mindestens 3× hintereinander; Konzepte mit V < 6 mindestens 5× (z. B. in diesem Band siehe Liste unten).
+4. **Zeitansatz:** 45–90 min pro Übungseinheit, maximal 2 Einheiten pro Tag — Ermüdung verfälscht das Ergebnis.
+5. **Beobachten (Erfolgskontrolle):** das messbare Kriterium der Übung notieren (Zeit, Maß, Trefferquote, Temperatur) — ohne Messung ist die Übung nicht bestanden.
+6. **Abbruchkriterien:** Abbruch sofort bei Verletzung, Wetterumschwung, Materialbruch, Schmerzen (z. B. Augen beim Schweißen) oder wenn nach 3 Durchgängen kein Fortschritt erkennbar ist. Abbruch dokumentieren — nicht schönreden.
+7. **Protokoll (B1-8.2):** Datum, Konzept-Nr., Wiederholungen, Zeitansatz, Beobachtung/Erfolgskontrolle, V-Bewertung, Verfalldatum (Datum + 12 Monate).
+
+**Band-spezifische Übungen (Vorrang, mit Erfolgskontrolle):**
+
+- Knoten blind binden (6.3): 5 Knoten × 5 Wdh., Erfolg: jeder Knoten in < 30 s blind und belastbar
+- Rucksack packen (3.2): 3×, Erfolg: < 12 kg gewogen, alle Pflichtfelder gepackt
+- Schattenstab/Uhr (4.1): 3×, Erfolg: Nordrichtung mit Polarstern (4.2) gegengeprüft, Abweichung < 5°
+- STOPP + Atem 4–6 (2.1/2.2): 10 Zyklen, Erfolg: ruhiger Puls nach 2 min messbar (7.3)
+- Ellbogenprobe (7.4, V < 6): 5 Wdh. an Wasser bekannter Temperatur, Erfolg: Schätzung ± 5 °C, nie über 55 °C
+- Blackout-Drill (3a.4): 2× jährlich, 2–4 h, Erfolg: 13 Punkte aus 3a.2 abgehakt, Wasser ≥ 2 l/Pers/Tag messbar, UKW-Radio empfängt, CO-Melder-Test bestanden; Abbruch bei echtem Ereignis/CO-Alarm
+
+Verfalluhr: 12 Monate ohne Wiederholung = Fähigkeit verfallen (siehe B1-8.2).
 
 ## Anhang D — Glossar (zentral für alle 10 Bände)
 
@@ -651,6 +909,7 @@ Jahresplan siehe Konzept 8.1; Verfalluhr 12 Monate siehe Konzept 8.2. Übungen m
 | § 22 / § 38 BJagdG | Schonzeiten; Zuwiderhandlung ist strafbar |
 | §§ 23/39/44 BNatSchG | Naturschutz: in NSG Sammeln verboten (23); Handstrauß nur für nicht geschützte Arten (39); geschützte Arten entnehmen verboten (44) |
 | WaffG | Waffenrecht: Schusswaffen nur mit Erlaubnis (Waffenschein) führen |
+| Blackout / Brownout | Blackout = unkontrollierter großflächiger Stromkollaps (Tage); Brownout = kontrollierte Spannungsschwankungen; Stromausfall = lokal, Minuten–Stunden. Phasenmodell siehe B1-3a.1 |
 | STOPP | Stopp–Think–Observe–Plan–Proceed, siehe Konzept 2.1 |
 
 ---
@@ -686,6 +945,10 @@ Jahresplan siehe Konzept 8.1; Verfalluhr 12 Monate siehe Konzept 8.2. Übungen m
 | 8.2 Übungsprotokoll | 8 | unbedenklich | 9 | grün |
 | 9.1 Stundenprotokoll | 9 | unbedenklich | 8 | grün |
 | 9.2 Wochenrollenplan | 8 | unbedenklich | 9 | grün |
+| 3a.1 Phasenmodell (Saurugg) | 8 | unbedenklich | 9 | grün (Zeithorizonte: LÜCKE BL6) |
+| 3a.2 Sofortmaßnahmen 60 min | 9 | unbedenklich | 9 | grün (Einzelwerte tlw. BL2/BL4/BL6/BL8) |
+| 3a.3 Grundausstattung Blackout | 9 | unbedenklich | 9 | grün (BBK; Beträge/Größen BL6/BL10) |
+| 3a.4 Blackout-Drill | 8 | unbedenklich | 9 | grün |
 
 > **Devise Band 1:** „Halte inne, atme, handle in der Reihenfolge Luft–Wärme–Wasser–Nahrung — und übe, was du können musst, bevor du es brauchst.“
 

@@ -8,6 +8,9 @@ Warnpflicht umgesetzt: Konzept 6.3 trägt **WARNRAHMEN [warn-3] (Kohlenmonoxid)*
 
 ## Kapitel 1 — Ethik & Brandschutz
 
+**Ziel des Kapitels:** Ziel: Die Brandschutz-Regeln (Feuer nie ohne Wache, Abstände 30 cm/2–3 m/4–6 m) verinnerlichen — sie gelten für alle anderen Bände (B4, B10).
+
+
 ### 1.1 Feuerethik — grün · P 9 · M unbedenklich · V 10
 
 **Nie ohne Wache.** Ein unbeaufsichtigtes Feuer ist eine Brandquelle, keine Wärmequelle.
@@ -15,6 +18,10 @@ Warnpflicht umgesetzt: Konzept 6.3 trägt **WARNRAHMEN [warn-3] (Kohlenmonoxid)*
 1. Feuer nur an freigegebenem Feuerplatz (siehe Konzept 1.2).
 2. Feuerwache immer doppelt besetzt — siehe Konzept 9.3 und Konzept B1-9.2.
 3. Glut-Botschaft wird angeboten, nie verlangt (siehe Konzept 3.5).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.1 „Feuerethik“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Wache eingeteilt
 - [ ] Feuerplatz freigegeben
@@ -38,6 +45,10 @@ Maße (konsistent mit B4-1.2 und B10-7.1): **30 cm rundum entkernen**, **2–3 m
 
 **Stadt / Land:** Land = Außenplatz nach diesen Maßen. **Stadt (Wohnung):** **kein offenes Feuer in der Wohnung** — CO-Vergiftung (`warn-3`, siehe 6.3). Erlaubt: Balkon nur nach Hausordnung und nur mit Holzkohle-Eimer auf nichtbrennbarem Untergrund, nie unbeaufsichtigt; in der Wohnung nur Spiritus-/Gaskocher mit **Fenster offen** (Durchzug) und nie über Nacht — siehe 6.3.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.2 „Feuerplatz / Zonenplan“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] 30 cm entkernt
 - [ ] 2–3 m frei
 - [ ] 4–6 m zu Zelten
@@ -49,6 +60,9 @@ Maße (konsistent mit B4-1.2 und B10-7.1): **30 cm rundum entkernen**, **2–3 m
 ---
 
 ## Kapitel 2 — Grundlagen des Feuers
+
+**Ziel des Kapitels:** Ziel: Verstehen, warum Feuer brennt (Dreieck + Feuchte) und welcher Brennstoff welche Eigenschaft hat (Glut vs. Flamme, Funkenflug).
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Brennbares Material muss aus der Funkenreichweite entfernt werden: 30 cm direkt am Feuer (Glut), 2–3 m Freiraum, 4–6 m zu Zelten (Funkenflug bei Wind). Mineralischer Boden (Stein) verhindert Bodenbrand.
@@ -61,6 +75,10 @@ Feuer braucht **Brennstoff + Sauerstoff + Wärme** — als vierter Faktor die **
 1. Zündkette: Zündquelle → Zunder → Faschholz → Kleinholz → Scheit (siehe Konzept 4.1).
 2. Feuchte vor dem Bau prüfen: nasses Holz trocknen oder spalten (trockenes Kernholz).
 3. Ein fehlendes Dreieck-Element = kein Feuer.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.1 „Feuerdreieck & Zündkette“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Alle drei Elemente vorhanden
 - [ ] Feuchte des Brennstoffs geprüft
@@ -82,6 +100,10 @@ Werte (W24/W28): **1 Ster ≈ 300–350 kg** — das ist der konservative Wert f
 | Nadelholz | Funkenflug — nie offenes Feuer ohne Schutz; zum Räuchern verboten (siehe Konzept B7-4.2) |
 | Trockenheit | ~1 Jahr je Daumen Dicke (W28, siehe Konzept B9-3.2) |
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.2 „Brennstoffkunde“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Hartholz für Glut, Weichholz zum Anzünden
 - [ ] Trockenzeiten beachtet
 
@@ -90,6 +112,9 @@ Werte (W24/W28): **1 Ster ≈ 300–350 kg** — das ist der konservative Wert f
 ---
 
 ## Kapitel 3 — Zünden ohne Streichholz
+
+**Ziel des Kapitels:** Ziel: Feuer mit mehreren redundanten Zündquellen und ohne Streichholz machen können — von Feuerstahl bis Reibfeuer (als Übung).
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Holz brennt, weil Hitze flüchtige Gase austreibt, die mit Sauerstoff reagieren (Flamme); die zurückbleibende Kohle glüht (Glut). Hartholz (Buche/Eiche) hat hohe Dichte → lange Glut; Weichholz zündet schnell, brennt schneller ab. Nadelholz harzt → Funkenflug.
@@ -102,6 +127,10 @@ Drei Sets an drei Orten: **am Körper** (Tasche), **im Rucksack** (siehe Konzept
 1. Set = Feuerzeug + Feuerstahl + wasserdichte Dose mit Zunder.
 2. **Monatsprobe:** jedes Set einmal im Monat testen.
 3. Nie alle Zündquellen an einem Ort.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.1 „Zündquellen-Inventar (3 Sets + Monatsprobe)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] 3 Sets verteilt
 - [ ] Monatsprobe im Protokoll (siehe Konzept B1-8.2)
@@ -119,6 +148,10 @@ Drei Sets an drei Orten: **am Körper** (Tasche), **im Rucksack** (siehe Konzept
 1. **Zundernest am Körper wärmen** (Tasche) — kalter Zunder nimmt keine Funken.
 2. Feuerstahl mit der scharfen Kante Funken in den Zunder schlagen, Richtung nach unten.
 3. Nest zur Glut blasen (siehe Konzept 4.1).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.2 „Feuerstahl & Zundermulm“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Zunder trocken und warm
 - [ ] Funkenrichtung in den Zunder
@@ -138,6 +171,10 @@ Reibfeuer ist eine **Übungstechnik, kein Alltagsplan**. V = 6 → Übungspflich
 3. Glutstaub in Zundernest (siehe Konzept 3.2) übertragen, zur Glut blasen.
 4. Plan B immer parat: Zündquellen-Set (siehe Konzept 3.1).
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.3 „Reibfeuer“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Als Übungstechnik deklariert
 - [ ] Plan B (3.1) vorhanden
 
@@ -149,11 +186,17 @@ Reibfeuer ist eine **Übungstechnik, kein Alltagsplan**. V = 6 → Übungspflich
 - **Prinzip (warum das funktioniert):** Reibfeuer erzeugt durch Reibung Hitze, die Holzstaub in der Kerbe zur Glut bringt; es braucht trockenes Holz, konstanten Druck und Rhythmus. Als Übungstechnik sinnvoll, als Alltagsplan zu fehleranfällig (P = 5).
 - **Situationsvarianten (wann welche):** Nur mit trockenem Hartholz (Ahorn, Esche). Plan B immer parat: Zündquellen-Set (3.1).
 - **Typische Fehler (warum + Folge):** Bei Nässe/kalter Hand aufgeben. Folge: verlorene Zeit und Körperwärme; rechtzeitig auf Set 3.1 wechseln.
+
+**Übungsablauf (Reibfeuer, V = 6):** 5 Wdh. an trockenem Hartholz; Zeitansatz 20 min/Wdh.; Erfolgskontrolle: Glutstaub in der Kerbe, dann Zunder → Flamme; Abbruch sofort bei Sehnenreizung oder Handblasen; Plan B (Zündquellen-Set 3.1) bereithalten.
 ### 3.4 Sonnenzündung — **gelb (Notbehelf, P = 4)** · P 4 · M unbedenklich · V 8 · Abb. 3.6
 
 1. Linse oder poliertes Metall als Brennpunkt nutzen.
 2. Zunder direkt im Brennpunkt halten, bewegen bis Glut.
 3. **Linsen-Abdeckung Pflicht:** Abgedeckte Linse nie in Sonne legen — Brandgefahr (siehe Konzept 9.1).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.4 „Sonnenzündung“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Nur als Notbehelf
 - [ ] Linse abgedeckt bei Nichtgebrauch
@@ -174,6 +217,10 @@ Glut wird **angeboten, nie verlangt** — das ist Tausch vor Konflikt (ethische 
 2. Nie die eigene Feuerstelle dafür aufgeben.
 3. Empfangende Gruppe stellt eigene Wache (siehe Konzept 9.3).
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.5 „Glut-Botschaft“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Angebot freiwillig
 - [ ] Transport mit Asche bedeckt
 
@@ -184,6 +231,9 @@ Glut wird **angeboten, nie verlangt** — das ist Tausch vor Konflikt (ethische 
 ---
 
 ## Kapitel 4 — Zunder & Feuerbau
+
+**Ziel des Kapitels:** Ziel: Zunderkette und Feuerbauten situationsgerecht wählen (Pyramide/Stern/Plattform) — auch im Dauerregen.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Glut transportiert das Feuer ohne Flamme (Asche isoliert); anbieten statt verlangen entspricht der Leitlinie Tausch vor Konflikt (B10-2.3).
@@ -196,6 +246,10 @@ Glut wird **angeboten, nie verlangt** — das ist Tausch vor Konflikt (ethische 
 1. Zunder (Birkenrinde, trockenes Gras, Cattail-Flaum) zur Glut bringen.
 2. Faschholz (dünne Späne) darauf, bis es brennt.
 3. Erst dann Kleinholz, dann Scheit (siehe Konzept 4.2).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.1 „Zunderkette“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Reihenfolge eingehalten
 
@@ -213,6 +267,10 @@ Glut wird **angeboten, nie verlangt** — das ist Tausch vor Konflikt (ethische 
 | Sternfeuer | sparsam, lange Nacht | niedrig — Scheite von außen nachschieben |
 | Plattform | bei Nässe/Dauerregen (siehe 4.3) | mittel |
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.2 „Feuerbauten“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Bau nach Zweck gewählt
 
 **Querverweise:** siehe Konzept 4.3, siehe Konzept 5.1.
@@ -227,6 +285,10 @@ Glut wird **angeboten, nie verlangt** — das ist Tausch vor Konflikt (ethische 
 2. Trockene Zunderkette aus dem Körper-Päck nehmen (Innenseite der Kleidung trocken halten, siehe Konzept B4-6.1).
 3. Unter Dach/Überstand arbeiten.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.3 „Feuer im Dauerregen“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Plattform gebaut
 - [ ] Trockene Kette aus dem Körper-Päck
 
@@ -235,6 +297,9 @@ Glut wird **angeboten, nie verlangt** — das ist Tausch vor Konflikt (ethische 
 ---
 
 ## Kapitel 5 — Kochen & Wärme
+
+**Ziel des Kapitels:** Ziel: Auf Glut kochen und Wärme in den Schlafbereich reflektieren können — mit Wache und Glut-Disziplin.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Dauerregen: das Feuer braucht eine trockene Plattform und trockene Zunderkette aus dem Körper-Päck; die Abdeckung schützt vor Löschung durch Tropfen.
@@ -245,6 +310,10 @@ Glut wird **angeboten, nie verlangt** — das ist Tausch vor Konflikt (ethische 
 1. Glut statt Flamme zum Kochen — gleichmäßige Hitze, weniger Brennstoff.
 2. Topf auf Steine über der Glut stellen; Windschutz (siehe Konzept 5.2).
 3. Wasser erst aufbereiten (siehe Konzept B2-6.2), dann kochen.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.1 „Kochfeuer & Glut“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Wasser gesotten (siehe Konzept B2-6.2)
 - [ ] Glutkochen bevorzugt
@@ -261,6 +330,10 @@ Glut wird **angeboten, nie verlangt** — das ist Tausch vor Konflikt (ethische 
 2. **Wache + Glut-Disziplin über Nacht** — siehe Konzept 9.3.
 3. **Nichts Glimmendes über Nacht im Schlafraum** — siehe Konzept 6.3 (`warn-3`).
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.2 „Reflektor & Nacht“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Reflektor gerichtet
 - [ ] Wache eingeteilt
 - [ ] CO-Regel (6.3) beachtet
@@ -270,6 +343,9 @@ Glut wird **angeboten, nie verlangt** — das ist Tausch vor Konflikt (ethische 
 ---
 
 ## Kapitel 6 — Wärme halten
+
+**Ziel des Kapitels:** Ziel: Wärme am Körper halten (Schichten) und punktuell speichern (heiße Steine) — ohne in geschlossene Räume zu heizen (CO, warn-3).
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Ein Reflektor (Alufolie, poliertes Blech) wirft die Wärmestrahlung in den Schlafbereich zurück — der Wirkungsgrad steigt ohne mehr Brennstoff. Nacht: Wache + Glut-Disziplin (9.3).
@@ -282,6 +358,10 @@ Konsistent mit Konzept B4-2.1: Schichtenprinzip — innen trocken, Mitte isolier
 1. Innenschicht: trocken halten.
 2. Isolationsschicht: so dick wie möglich.
 3. Außenschicht: winddicht, nicht dampfdicht (Feuchtigkeit muss raus, siehe Konzept B4-6.3).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.1 „Wärmepaket (Schichten)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Innen trocken
 - [ ] Isolation ausreichend
@@ -297,6 +377,10 @@ Konsistent mit Konzept B4-2.1: Schichtenprinzip — innen trocken, Mitte isolier
 1. Dichte, trockene Steine (Granit, Basalt) im Feuer erhitzen.
 2. Heiße Steine mit Zange/Stöcken in den Schlafbereich tragen, in Tuch gewickelt.
 3. **Nie nasse Steine in die Flamme** — sie platzen (WARN, siehe Konzept B9-3.1 zur Steinbruchgefahr allgemein).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.2 „Heiße Steine“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Steine trocken
 - [ ] Nie nass in Flamme
@@ -320,6 +404,10 @@ Konsistent mit Konzept B4-2.1: Schichtenprinzip — innen trocken, Mitte isolier
 
 **Stadt / Land:** Land = Hütte/Zelt mit Ofen außen oder offenem Eingang. **Stadt (Wohnung):** die Wohnung ist ein **geschlossener Raum** — dort verbrennst du **nichts**, auch keine Kerze über Nacht unbeaufsichtigt. Wärme in der Stadt: Wärmepaket (siehe 6.1), Schichten (siehe B4-2.1), heiße Steine nur **draußen** am Balkon/ Hof erwärmt und herein getragen (siehe 6.2), Kerze nur mit Abstand zu brennbaren Dingen und nie allein gelassen.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.3 „Ofenlose Not-Heizung“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Keine Verbrennung im geschlossenen Raum
 - [ ] Nie über Nacht im Schlafraum
 - [ ] Zug geprüft
@@ -332,6 +420,9 @@ Konsistent mit Konzept B4-2.1: Schichtenprinzip — innen trocken, Mitte isolier
 ---
 
 ## Kapitel 7 — Brennstoff-Logistik
+
+**Ziel des Kapitels:** Ziel: Den Brennstoffbedarf berechnen (Ster, kg/Tag) und realistisch bevorraten können.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Jede unvollständige Verbrennung produziert CO (geruchlos, bindet stärker an Hämoglobin als Sauerstoff → innere Erstickung). Ein Zelt ist ein geschlossener Raum. Mehrere Betroffene gleichzeitig = typisches CO-Muster (Alarm).
@@ -344,6 +435,10 @@ Werte (W24): 1 Ster ≈ 300–350 kg; Winter-Tag 25–35 kg.
 1. Vorrat = Tage × 25–35 kg (konservativ 35 kg).
 2. 1 Ster = 1 m³ geschichtet; trocken lagern (siehe Konzept B9-3.2).
 3. Anzündholz separat trocken lagern (siehe Konzept 3.1).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.1 „Holzvorrat & Stock-Rechnung“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Vorrat gerechnet
 - [ ] Trockenlager vorhanden
@@ -360,6 +455,10 @@ Nur im **Notstand**, nur **oberflächlich** abtaken, nur **nach Vereinbarung** m
 
 > **WARNUNG:** Moor-Schwelbrand-Gefahr — Torf glimmt unter der Oberfläche tagelang weiter.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.2 „Torf / Dung“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Nur Notstand
 - [ ] Nur oberflächlich
 - [ ] Vereinbarung getroffen
@@ -369,6 +468,9 @@ Nur im **Notstand**, nur **oberflächlich** abtaken, nur **nach Vereinbarung** m
 ---
 
 ## Kapitel 8 — Holzkohle & Asche
+
+**Ziel des Kapitels:** Ziel: Aus Holz Holzkohle gewinnen und Asche sicher handhaben (24-h-Ruhen, Lauge) können.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Torf und Dung brennen nur, wenn sie trocken sind; Torf kann im Moor tagelang schwelend weiterglimmen (unkontrollierbarer Schwelbrand). Nur oberflächlich abtaken, nie austiefen.
@@ -379,6 +481,10 @@ Nur im **Notstand**, nur **oberflächlich** abtaken, nur **nach Vereinbarung** m
 1. Grube 1 m Durchmesser, 50 cm tief; luftarme Abdeckung (Blech, feuchte Erde).
 2. **Rauchfarben als Uhr:** dichter weißer Rauch = Anfang; bläulicher Rauch = Ende — abdecken, ausglühen lassen.
 3. Ausbeute: ~ 20–30 % des Holzvolumens.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.1 „Holzkohle-Meiler“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Rauchfarbe beobachtet
 - [ ] Luftabschluss am Ende
@@ -395,6 +501,10 @@ Nur im **Notstand**, nur **oberflächlich** abtaken, nur **nach Vereinbarung** m
 2. Lauge: **2 Hände Asche auf 10 l Wasser** — Waschlauge (siehe Konzept B4-9.2 Grauwasser: Lauge nie an Haut/Wunden).
 3. Torf-/Salzasche getrennt sammeln.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.2 „Asche-Ordnung“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] 24-h-Ruhen eingehalten
 - [ ] Laugenverhältnis 2:10
 
@@ -405,6 +515,9 @@ Nur im **Notstand**, nur **oberflächlich** abtaken, nur **nach Vereinbarung** m
 ---
 
 ## Kapitel 9 — Brandgefahr & Bekämpfung
+
+**Ziel des Kapitels:** Ziel: Entstehungsbrände in 60 Sekunden bekämpfen können und das Notzeichen (3 Feuer) sicher einsetzen.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Frische Asche enthält Glutnester — 24 h Ruhen verhindert Schwelbrand im Abfall. Aschelauge (2 Hände Asche/10 l) ist Lauge für Wäsche/Seife (B7-7.2).
@@ -417,6 +530,10 @@ Konsistent mit Konzept B1-2.1, STOPP.
 1. **Innerhalb 60 Sekunden** löschen oder Lage sichern — sonst Rückzug.
 2. Wasser, Sand, Erde, nasse Decke — nie brennendes Fett mit Wasser (siehe Konzept B9-7.3: nie Öl in Wassereimer, Dampfexplosion).
 3. Fluchtweg immer frei halten (siehe Konzept B1-6.2).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.1 „Brandbekämpfung (60-Sekunden-Regel)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] 60-Sekunden-Regel bekannt
 - [ ] Löschmittel bereit (Eimer am Eingang, siehe Konzept B10-7.1)
@@ -432,6 +549,10 @@ Konsistent mit Konzept B1-2.1, STOPP.
 ### 9.2 Signalfeuer (3 Feuer = Notzeichen) — grün · P 7 · M unbedenklich · V 9 · Abb. 3.18
 
 Drei Feuer in Dreiecksanordnung = internationales Notzeichen (siehe Konzept B1-5.1). Nie als Dauerzustand — Brennstoff (siehe Konzept 7.1) und Brandgefahr (siehe Konzept 9.1).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.2 „Signalfeuer (3 Feuer = Notzeichen)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Dreieck-Anordnung
 - [ ] Brennstoffvorrat für Signalfeuer eingeplant
@@ -449,6 +570,10 @@ Konsistent mit Band 10: Feuer wird nie von einer Person allein bewacht.
 1. Zwei Personen pro Wache, Ablösung nach Plan (siehe Konzept B1-2.3).
 2. Wache hat Löschmittel griffbereit (siehe Konzept 9.1).
 3. Protokoll: Anhang A Band 3.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.3 „Feuerwache (Zwei-Personen-Regel)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Zwei-Personen-Regel eingehalten
 - [ ] Ablöse im Plan
@@ -475,7 +600,26 @@ Konsistent mit Band 10: Feuer wird nie von einer Person allein bewacht.
 
 ## Anhang C — Übungsplan (Band 3)
 
-Q1 siehe Konzept B1-8.1: Zündquellen-Inventar (3.1), Feuerstahl (3.2), Reibfeuer als Übungstechnik (3.3, V = 6 → Übungspflicht), Feuerbauten (4.2), 60-Sekunden-Regel (9.1). Verfalluhr 12 Monate (siehe Konzept B1-8.2).
+**Übungsablauf (verbindlich für jede Übung in diesem Band):**
+
+1. **Vorbereitung (10 min):** Material und Protokollbogen (Anhang A4 / B1-8.2) bereitlegen; Warnrahmen des Konzepts durchlesen; bei Outdoor-Übung Wetter prüfen (B1-4.4).
+2. **Durchführung:** die nummerierten Schritte des Konzepts exakt in der dortigen Reihenfolge ausführen — keine Abkürzungen.
+3. **Wiederholungen:** jede Übung mindestens 3× hintereinander; Konzepte mit V < 6 mindestens 5× (z. B. in diesem Band siehe Liste unten).
+4. **Zeitansatz:** 45–90 min pro Übungseinheit, maximal 2 Einheiten pro Tag — Ermüdung verfälscht das Ergebnis.
+5. **Beobachten (Erfolgskontrolle):** das messbare Kriterium der Übung notieren (Zeit, Maß, Trefferquote, Temperatur) — ohne Messung ist die Übung nicht bestanden.
+6. **Abbruchkriterien:** Abbruch sofort bei Verletzung, Wetterumschwung, Materialbruch, Schmerzen (z. B. Augen beim Schweißen) oder wenn nach 3 Durchgängen kein Fortschritt erkennbar ist. Abbruch dokumentieren — nicht schönreden.
+7. **Protokoll (B1-8.2):** Datum, Konzept-Nr., Wiederholungen, Zeitansatz, Beobachtung/Erfolgskontrolle, V-Bewertung, Verfalldatum (Datum + 12 Monate).
+
+**Band-spezifische Übungen (Vorrang, mit Erfolgskontrolle):**
+
+- Zündquellen-Set testen (3.1): 1× pro Set, Erfolg: jedes Set zündet in < 30 s
+- Feuerstahl + Zunder (3.2): 5×, Erfolg: Glut im Nest in < 1 min
+- Reibfeuer (3.3, V = 6 → 5 Wdh.): Erfolg: Glutstaub in der Kerbe; Abbruch bei Sehnenreizung/Handblasen
+- Feuerbauten vergleichen (4.2): Pyramide/Stern/Plattform je 1×, Erfolg: Brennzeit gemessen, Verbrauch notiert
+- 60-Sekunden-Löschübung (9.1): 3× mit Eimer/Wasser, Erfolg: Übungsfeuer in < 60 s gelöscht
+
+Verfalluhr: 12 Monate ohne Wiederholung = Fähigkeit verfallen (siehe B1-8.2).
+Zündquellen-Inventar (3.1), Feuerstahl (3.2), Reibfeuer als Übungstechnik (3.3, V = 6 → Übungspflicht), Feuerbauten (4.2), 60-Sekunden-Regel (9.1). Verfalluhr 12 Monate (siehe Konzept B1-8.2).
 
 ---
 

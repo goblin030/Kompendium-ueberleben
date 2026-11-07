@@ -163,3 +163,29 @@ Hinweis zu Band 6: Gate G-1 (legal) ist laut abschlussbericht §3 noch offen —
 ## Gesamturteil Turn 4: **FREIGEGEBEN** (Imprimatur — alle T3-Befunde behoben, keine Regression)
 
 0 blocker, 0 major, 0 minor offen. Druckfreigabe für `06-dokumente/` (10 × PDF/A-2b Quell-PDFs, 3.815 S., 10 × PDF/X-4 Druckdaten mit 3 mm Anschnitt + Schnittmarken, aktueller proof Rev. 3, 189 sanitized SVGs). **Nicht-Format-Hinweis an Phase K:** Gate G-1 (legal-Freigabe Band 6) weiterhin offen — Owner legal/fachlektor.
+
+---
+
+# Nachtrag — Re-Review Turn 5 (2026-11-07, ~15:10 MEZ, nach Review v1/v3: Turn-6-Layout + Turn-7-Blackout 3a)
+
+**Anlass:** 06-dokumente/ nach Turn 6 (Layout 10 pt, Ränder 1,8/2,0 cm, Boxen unteilbar) und Turn 7 (Kapitel 3a Blackout in Band 1) neu gebaut. Geprüft: die 7 Punkte des Auftrags.
+
+## Ergebnis zu den 7 Prüfpunkten
+
+1. **Satzspiegel/Seitenausnutzung — OK.** Aus `lib/stil.typ` (10 pt, l/r 1,8 cm, oben 2,0 cm, unten 1,8 cm): Textfläche **174 × 259 mm = 72,3 % der A4-Seite** (Turn 3: 69,5 %; Turn 1/2: 53,1 %). Zeilenabstand 0,58 em, Absatz 0,72 em — konsistent kompakt.
+2. **Boxen nicht mehr von Trennlinien überlagert — OK (strukturell gelöst).** Alle fünf Box-Funktionen in `lib/stil.typ` (`baustein`, `warnrahmen`, `kasten`, `devise`, `konzmeta`) jetzt `breakable: false` mit komplettem Rahmen (baustein: left 3 pt + rest 0,5 pt; warnrahmen: 1,6 pt #7a0000) — ein Kasten kann an Seitengrenzen nicht mehr aufgeteilt und von der Kopf-/Fuß-Trennlinie durchschnitten werden. Stichprobe Content-Streams aller 10 Bände: 365 gefüllte Box-Pfade, keine reicht in die Rand-/Trennlinien-Zone (0 unten, 0 oben jenseits der Textfläche).
+3. **Kapitel 3a Blackout vollständig — OK.** In band-01: `=== 3a.1 Phasenmodell`, `3a.2 Sofortmaßnahmen`, `3a.3 Grundausstattung`, `3a.4 Blackout-Drill` (je mit konzmeta-Ampel); 635 Checklisten-Kästchen im 3a-Bereich; Ziel-Präambel („Zweck und Abnahme … Abnahmekriterium“) in 3a.3 vorhanden; Drill als 7-Schritte-Protokoll mit Erfolgskontrolle/Abbruchkriterien. Konzepte gesamt: 244 + 3a.1–3a.4 = 248. *Inhaltshinweis (Editor-Scope, minor):* 3a.4 nennt „12 Punkte aus 3a.2“, dort sind es 13 Schritte.
+4. **Kompilierung + Seitenziel — OK.** 10/10 `typst compile --pdf-standard a-2b` fehlerfrei (rc=0, keine Warnungen); frischer Build seitenzahl-identisch: **479/383/365/355/339/336/344/347/340/330 = Σ 3.618 S.**, alle ≥ 300 S./Band; PDF/A-2b + `dc:title` in allen 10.
+5. **Meta-Tokens — OK.** 0 harte Meta-Tokens (W-/L-IDs, WARN n, „09 §/Nr.“, „02 §“, ROT/Gate/Phase/Agent/Artefakt, BLn/ROHWERT/LÜCKE) außerhalb des Prüfprotokoll-Abschnitts in allen band-*.typ + lib/*.typ; SVG-Scan 189/189: 0 Leaks, 0 undefined/NaN (2 False-Positives „Lücken schließen“/„Pflücken“ sind legitime Buch-Wörter).
+6. **Druckdaten-Dateien intakt, ABER proof veraltet (T5-1).** Eigene Messung aller 10 `band-NN-druck.pdf` (14:38–14:40): Seiten = Quelle (479/383/…/330), PDF/X-4 in XMP+Info, OutputIntent `/S /GTS_PDFX`, 0 RGB-Ops, 0 Annots, 0 Raster, Boxen 216×303/Trim 210×297 um 3,0 mm, **Schnittmarken intakt: Registration Black 1× pro Seite (regK = Seitenzahl), 0,3 pt, 8 Segmente**. **ABER:** `proof.json` (mtime 13:35) und `proof-bericht.md` (13:36) sind wieder älter als die Druck-PDFs und nennen die Turn-4-Seitenzahlen (447/410/…) statt 479/383/… — T3-3 ist erneut aufgetreten.
+7. **Keine Regressionen — OK.** F1 (Marken intakt), F2 (0 undefined), F4 (0 doppelte Captions), F5 (0 „Phase I“, dc:creator neutral), F7 (dc:title), R1 (abb-6-2 ok), T3-1/T3-2 (0 Leaks) halten; Abb. 174 refs = Dateien je Band; 15 warn-Grafiken an den geplanten Stellen; ZIP 243 Einträge, 189 SVGs, integer.
+
+## Befunde Turn 5
+
+| # | Schwere | Befund | Korrektur |
+|---|---|---|---|
+| T5-1 | **major** | **proof.json + proof-bericht.md erneut veraltet** (mtime 13:35/13:36 vs Druck-PDFs 14:38–14:40; proof-Seiten 447/410/390/… statt tatsächlich 479/383/365/…). Die Druck-PDFs selbst sind per eigener Messung vollständig intakt (Punkt 6). Zweites Auftreten von T3-3 — prepress muss proof.py nach JEDEM prepress-Lauf erneut ausführen (z. B. am Ende von prepress.sh verankern). | `proof.py` nach dem Turn-7-prepress-Lauf erneut laufen lassen, proof.json + proof-bericht.md als Rev. 4 aktualisieren, dann Re-Review Turn 6. |
+
+## Gesamturteil Turn 5: **NACHBESSERN** (einziger offener Punkt: T5-1, proof Rev. 4)
+
+0 blocker; 1 major offen (T5-1, reine Nachweis-Aktualisierung — die Druckdateien selbst bestehen alle Checks). Alles andere grün: Satzspiegel 72,3 %, Boxen unteilbar, 3a.1–3a.4 vollständig gerendert, 10/10 fehlerfrei kompiliert, 3.618 S. alle ≥ 300, PDF/A-2b, PDF/X-4 + 3 mm Anschnitt + Schnittmarken intakt, 0 Meta-Leaks, keine Regressionen. Gate G-1 (legal, Band 6) weiterhin offen — nicht Format, Owner legal/Phase K.

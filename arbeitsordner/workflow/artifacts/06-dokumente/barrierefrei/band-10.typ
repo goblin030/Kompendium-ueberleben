@@ -48,6 +48,7 @@ Diese 15 Warngrafiken gelten reihenweit; in diesem Band sind die fett markierten
 #pagebreak(weak: true)
 #pagebreak(weak: true)
 == Kapitel 1 — Ethik des Miteinander <kap-1>
+_Ziel des Kapitels:_ Ziel: Die Grundregeln des Miteinanders — Gabe nie mahnen, Vertrag mit Zeugen, Ehrenplatz beim Mahl.
 #subhead[Kapitel-Übersicht]
 #table(
   columns: 7,
@@ -57,10 +58,10 @@ Diese 15 Warngrafiken gelten reihenweit; in diesem Band sind die fett markierten
   [1.2], [Wort & Vertrag], [7], [unbedenklich], [8], [grün], [–],
   [1.3], [Das Mahl (Ehren-Platz-Regel)], [7], [unbedenklich], [9], [grün], [–],
 )
-#pagebreak(weak: true)
 === 1.1 Schuld & Geschenk <k-1-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9]
 _Gabe nie mahnen_ — eine Gabe bleibt Gabe. Schuld mit Frist am Blatt (siehe Konzept 1.2).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.1 „Schuld & Geschenk“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Gaben nicht eingefordert
 - [ ] Schulden mit Frist schriftlich
 #baustein[Ein Geschenk, das gemahnt wird, ist eine Rechnung. Nur eine davon bleibt freiwillig.]
@@ -104,6 +105,7 @@ _Querverweise:_ siehe Konzept 1.2, siehe Konzept 2.1. _Erklärung:_
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Gabe nie mahnen], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -222,10 +224,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 1.2 Wort & Vertrag <k-1-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 8]
 _Zwei Zeugen + Frist_ — mündlich gilt, schriftlich hält. Protokoll: Anhang A Band 10 (Tausch-Protokoll mit Zeugen).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.2 „Wort & Vertrag“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Zwei Zeugen dabei
 - [ ] Frist notiert
 _Querverweise:_ siehe Konzept 2.3, siehe Anhang A. _Erklärung:_
@@ -268,6 +270,7 @@ _Querverweise:_ siehe Konzept 2.3, siehe Anhang A. _Erklärung:_
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Zwei Zeugen + Frist], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -385,10 +388,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 1.3 Das Mahl (Ehren-Platz-Regel) <k-1-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 9]
 Gäste sitzen auf dem Ehrenplatz (wärmster/sicherster Platz, beste Portion). Gastgeber isst zuletzt.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.3 „Das Mahl (Ehren-Platz-Regel)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Ehrenplatz-Regel bekannt
 _Querverweise:_ siehe Konzept 5.2.
 #subhead[Fehler & Folgen (siehe Anhang B)]
@@ -426,6 +429,7 @@ _Querverweise:_ siehe Konzept 5.2.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -545,6 +549,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 2 — Tausch <kap-2>
+_Ziel des Kapitels:_ Ziel: Tausch fair und transparent machen: Wert-Korridor, ehrliche Waage, Markt mit Fristen, Wucher-Grenzen (§§ 291 StGB/138 BGB).
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Das gemeinsame Mahl ist soziales Kapital: Ehrenplatz für Gäste (wärmster Platz, beste Portion), Gastgeber isst zuletzt — signalisiert Großzügigkeit und Schutz.
 - _Situationsvarianten (wann welche):_ Jede Gruppe gleich. Stadt: Wohnungsküche.
@@ -559,15 +564,14 @@ _Erklärung:_
   [2.3], [Tausch-Platz], [7], [prüfenswert], [8], [gelb], [–],
   [2.4], [Wucher], [7], [prüfenswert], [8], [gelb], [–],
 )
-#pagebreak(weak: true)
 === 2.1 Der Wert <k-2-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 7 · Abb. 10.1]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-10-1.svg", width: 100%, alt: "Abb. 10.1: Der Wert: Korridor aus Stunde / Seltenheit / Not – alte Maße: Elle, Ruthe, Mandel = 15 = ein Zehnt (Konzept 2.1)."), caption: [Abb. 10.1 — Der Wert: Korridor aus Stunde / Seltenheit / Not – alte Maße: Elle, Ruthe, Mandel = 15 = ein Zehnt (Konzept 2.1).])]]
 _Korridor: Stunde / Seltenheit / Not._ Elle, Ruthe und Mandel waren historische Hohlmaße (Elle ≈ 45 cm, siehe B1-7.1); „15/Zehnt“ heißt: 15 Teile Maß = ein Zehnt Aufschlag — historischer Vergleich, heute nicht mehr gebräuchlich.
 + Wert nach Arbeitszeit (Stunden-Tafel, siehe Konzept 3.2).
 + Seltenheit: was nicht verfügbar ist, steigt.
 + Not: in der Not zählt der Bedarf, nicht der Preis (siehe Konzept 2.4).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.1 „Der Wert“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Korridor angewendet
 _Querverweise:_ siehe Konzept B1-7.1, siehe Konzept 2.2, siehe Konzept 2.4, siehe Konzept 3.2. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Wert ist kein fester Preis, sondern ein Korridor: Arbeitszeit (Stunde), Seltenheit, Notlage. Elle/Ruthe/Mandel waren historische Hohlmaße (Elle ≈ 45 cm, B1-7.1); „15/Zehnt“ = 15 Teile plus ein Zehnt Aufschlag — historischer Vergleich. In der Not zählt der Bedarf des anderen, nicht der eigene Besitz.
@@ -635,6 +639,7 @@ _Querverweise:_ siehe Konzept B1-7.1, siehe Konzept 2.2, siehe Konzept 2.4, sieh
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Korridor: Stunde / Seltenheit / Not.], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -752,12 +757,11 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 2.2 Ehrliche Waage <k-2-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 8 · Abb. 10.2]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-10-2.svg", width: 100%, alt: "Abb. 10.2: Ehrliche Waage: gestrichen messen, Bürger-Maß – wer betrügt, verliert das Vertrauen (Konzept 2.2)."), caption: [Abb. 10.2 — Ehrliche Waage: gestrichen messen, Bürger-Maß – wer betrügt, verliert das Vertrauen (Konzept 2.2).])]]
 _Gestrichen messen_ (randvoll, nicht gehäuft); _Bürger-Maß_ (bekanntes Gefäß als Referenz). Waage balanciert prüfen.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.2 „Ehrliche Waage“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Gestrichen gemessen
 - [ ] Referenzmaß geeicht
 _Querverweise:_ siehe Konzept 2.1. _Erklärung:_
@@ -801,6 +805,7 @@ _Querverweise:_ siehe Konzept 2.1. _Erklärung:_
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Gestrichen messen], [siehe Glossar, Anhang D Band 1],
   [Bürger-Maß], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -918,10 +923,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 2.3 Tausch-Platz <k-2-3>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb (prüfenswert)_ · P 7 · M prüfenswert · V 8]
 Markt mit _Fristen_ (Anfang/Ende angesagt); Ordnung aufrechterhalten (Wachen, siehe Konzept B3-9.3 und Konzept B1-9.2).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.3 „Tausch-Platz“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Markt-Fristen angesagt
 - [ ] Ordnungsposten besetzt
 _Querverweise:_ siehe Konzept B3-9.3, siehe Konzept B1-9.2, siehe Konzept 4.1. _Erklärung:_
@@ -964,6 +969,7 @@ _Querverweise:_ siehe Konzept B3-9.3, siehe Konzept B1-9.2, siehe Konzept 4.1. _
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Fristen], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -1081,11 +1087,11 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 2.4 Wucher <k-2-4>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb_ · P 7 · M prüfenswert · V 8]
 _Not-Preis nach der Not_ — ethisch vertretbar, rechtlich Grauzone:
 #kasten([Rechtlich:])[_§ 291 StGB_ (Wucher strafbar bei Ausbeutung der Zwangslage + krassem Missverhältnis), _§ 138 Abs. 2 BGB_ (Sittenwidrigkeit → Nichtigkeit). Leitlinie: Tausch vor Behalten, faire Korridore (siehe Konzept 2.1).]
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.4 „Wucher“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Not-Preis nur nach der Not
 - [ ] §§ 291 StGB / 138 Abs. 2 BGB bekannt
 _Querverweise:_ siehe Konzept 2.1, siehe Konzept 1.1.
@@ -1128,6 +1134,7 @@ _Querverweise:_ siehe Konzept 2.1, siehe Konzept 1.1.
   [Rechtlich:], [siehe Glossar, Anhang D Band 1],
   [§ 291 StGB], [siehe Glossar, Anhang D Band 1],
   [§ 138 Abs. 2 BGB], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -1247,6 +1254,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 3 — Handels-Ware <kap-3>
+_Ziel des Kapitels:_ Ziel: Nur haltbare Ware handeln und Arbeit über Stunden-Tafel bewerten.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Wucher (krasses Missverhältnis in Zwangslage) ist strafbar (§ 291 StGB) und der Vertrag nichtig (§ 138 Abs. 2 BGB). Ethisch ok ist der Not-Preis nach der Not — aber im Korridor (2.1) bleiben.
 - _Situationsvarianten (wann welche):_ Notlage: Preis nach Bedarf des anderen. Normale Lage: fairer Tausch.
@@ -1259,10 +1267,10 @@ _Erklärung:_
   [3.1], [Ware des Hauses], [7], [unbedenklich], [8], [grün], [–],
   [3.2], [Ware der Hand], [7], [unbedenklich], [8], [grün], [–],
 )
-#pagebreak(weak: true)
 === 3.1 Ware des Hauses <k-3-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 8]
 Nur _haltbare Ware_ handeln (siehe Band 7, sechs Wege, Konzept B7-2.2): Dörrware, Gesalzenes, Eingekochtes (siehe Konzept B7-6.2k), Getreide, Salz (Herkunft bekannt, siehe Konzept B7-5.1 `warn-7c`).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.1 „Ware des Hauses“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Nur haltbare Ware
 _Querverweise:_ siehe Konzept B7-2.2, siehe Konzept B7-6.2k, siehe Konzept B7-5.1. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Nur haltbare Ware (Band 7: Dörrware, Gesalzenes, Eingekochtes 6.2k, Getreide, Salz bekannter Herkunft 5.1) ist transportabel und wertstabil — Verderb macht Ware wertlos oder gefährlich.
@@ -1304,6 +1312,7 @@ _Querverweise:_ siehe Konzept B7-2.2, siehe Konzept B7-6.2k, siehe Konzept B7-5.
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [haltbare Ware], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -1421,10 +1430,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 3.2 Ware der Hand <k-3-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 8]
 _Stunden-Tafel 1:1_ — eine Stunde Arbeit gegen eine Stunde Ware (siehe Konzept 2.1).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.2 „Ware der Hand“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Stunden-Tafel geführt
 _Querverweise:_ siehe Konzept 2.1, siehe Konzept B9-9.1, Weitergabe.
 #subhead[Fehler & Folgen (siehe Anhang B)]
@@ -1463,6 +1472,7 @@ _Querverweise:_ siehe Konzept 2.1, siehe Konzept B9-9.1, Weitergabe.
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Stunden-Tafel 1:1], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -1582,6 +1592,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 4 — Dorf: Ämter, Rat, Ordnung <kap-4>
+_Ziel des Kapitels:_ Ziel: Das Dorf bzw. die Nachbarschaft organisieren: Ämter rotierend/doppelt, Rat nach Klage und Zeugen, keine Selbstjustiz (§ 32 StGB).
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Ware der Hand: Arbeit gegen Ware, Stunden-Tafel 1:1 (2.1). Damit ist Handwerk bewertbar und tauschbar.
 - _Situationsvarianten (wann welche):_ Jeder Auftrag mit Stundenzettel (Anhang A1).
@@ -1595,13 +1606,12 @@ _Erklärung:_
   [4.2], [Rat & Streit], [7], [prüfenswert], [8], [gelb], [–],
   [4.3], [Reserve: der Zehnte], [8], [unbedenklich], [8], [grün], [–],
 )
-#pagebreak(weak: true)
 === 4.1 Ämter des Dorfes <k-4-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 8 · Abb. 10.3]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-10-3.svg", width: 100%, alt: "Abb. 10.3: Ämter des Dorfes: das Amt geht an die Hand, nicht an das Blut – Rollen doppelt besetzt (Konzept 4.1, konsistent B1 9.2)."), caption: [Abb. 10.3 — Ämter des Dorfes: das Amt geht an die Hand, nicht an das Blut – Rollen doppelt besetzt (Konzept 4.1, konsistent B1 9.2).])]]
 _Amt an die Hand, nicht an das Blut_ — Ämter rotieren, doppelt besetzt (siehe Konzept B1-9.2).
 _Stadt / Land:_ Land = Dorfgemeinschaft auf dem Land. _Stadt:_ dasselbe auf Nachbarschaft/Stockwerk — Rat der Nachbarn (siehe 4.2), Ämter rotieren pro Haushalt, Tauschplatz im Treppenhaus oder Hof (siehe 2.3), gemeinsamer Vorrat im kühlen Treppenhaus (siehe B7-8.1), Wachplan für das Haus (siehe B1-9.2).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.1 „Ämter des Dorfes“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Ämter vergeben und doppelt besetzt
 - [ ] Rotation geplant
 _Querverweise:_ siehe Konzept B1-9.2. _Erklärung:_
@@ -1646,6 +1656,7 @@ _Querverweise:_ siehe Konzept B1-9.2. _Erklärung:_
   [Amt an die Hand, nicht an das Blut], [siehe Glossar, Anhang D Band 1],
   [Stadt / Land:], [siehe Glossar, Anhang D Band 1],
   [Stadt:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -1763,11 +1774,11 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 4.2 Rat & Streit <k-4-2>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb_ · P 7 · M prüfenswert · V 8]
 Streit nach _Klage und Zeugen_ (siehe Konzept 1.2), _nie Rache_.
 #kasten([Rechtlich :])[_Notwehr nur § 32 StGB_ — bei gegenwärtigem rechtswidrigem Angriff und verhältnismäßig. _Selbstjustiz strafbar._ Keine Präventivgewalt, keine Rachegewalt.]
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.2 „Rat & Streit“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Klage + Zeugen vor Entscheidung
 - [ ] Nie Rache
 - [ ] § 32 StGB bekannt
@@ -1816,6 +1827,7 @@ _Querverweise:_ siehe Konzept 1.2, siehe Konzept 5.2. _Erklärung:_
   [Rechtlich :], [siehe Glossar, Anhang D Band 1],
   [Notwehr nur § 32 StGB], [siehe Glossar, Anhang D Band 1],
   [Selbstjustiz strafbar.], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -1934,10 +1946,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 4.3 Reserve: der Zehnte <k-4-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8]
 _Aus voller Kammer, nie aus der Not_ — der Zehnte (10 %) der Erträge geht in die Reserve (siehe Konzept B7-9.1, Winter-Rechnung).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.3 „Reserve: der Zehnte“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Zehnte aus voller Kammer
 _Querverweise:_ siehe Konzept B7-9.1, siehe Konzept 8.3.
 #subhead[Material & Maß (aus diesem Konzept)]
@@ -1983,6 +1995,7 @@ _Querverweise:_ siehe Konzept B7-9.1, siehe Konzept 8.3.
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Aus voller Kammer, nie aus der Not], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -2102,6 +2115,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 5 — Straße & Gäste <kap-5>
+_Ziel des Kapitels:_ Ziel: Sicher unterwegs und mit Gästen umgehen: Furt-Regeln (warn-10a), nie allein empfangen, rechtliche Leitplanken (§§ 34/35/123 StGB).
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Der Zehnte (10 % der Erträge) aus voller Kammer — nie aus der Not — ist die Gruppen-Reserve für harte Zeiten (B7-9.1) und Geschenke (1.1).
 - _Situationsvarianten (wann welche):_ Im Herbst nach der Ernte in die Reserve (B10-8.3).
@@ -2115,12 +2129,11 @@ _Erklärung:_
   [5.2], [Gast & Fremder], [6], [prüfenswert], [8], [gelb], [–],
   [5.3], [Trupp], [7], [prüfenswert], [8], [gelb], [–],
 )
-#pagebreak(weak: true)
 === 5.1 Weg-Kunde / Furt <k-5-1>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb + WARNRAHMEN [warn-10a]_ · P 7 · M prüfenswert · V 8 · Abb. 10.4]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-10-4.svg", width: 100%, alt: "Abb. 10.4: Furt: Stab an 3 Stellen prüfen – nie über Knie mit Last, nie im Dunkeln (Konzept 5.1, warn-10a)."), caption: [Abb. 10.4 — Furt: Stab an 3 Stellen prüfen – nie über Knie mit Last, nie im Dunkeln (Konzept 5.1, warn-10a).])]]
 #warnrahmen(id: "warn-10a", title: [FURT:])[_Stab an 3 Stellen prüfen_ (Tiefe, Grund, Strömung), _nie über Kniehöhe mit Last_ durchwaten, _nie im Dunkeln_ (siehe Konzept B4-9.2, Restlicht-1-h). Umgehung suchen, wenn eine Stelle zweifelhaft ist.]
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.1 „Weg-Kunde / Furt“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Stab-Prüfung an 3 Stellen
 - [ ] Nie über Knie mit Last
 - [ ] Nie im Dunkeln
@@ -2168,6 +2181,7 @@ _Querverweise:_ siehe Konzept B4-9.2, siehe Konzept B2-2.3, Wasser lesen. _Erkl�
   [Stab an 3 Stellen prüfen], [siehe Glossar, Anhang D Band 1],
   [nie über Kniehöhe mit Last], [siehe Glossar, Anhang D Band 1],
   [nie im Dunkeln], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -2286,7 +2300,6 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 5.2 Gast & Fremder <k-5-2>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb_ · P 6 · M prüfenswert · V 8]
 + _Nie allein empfangen_ — zwei Gastgeber (siehe Konzept B1-9.2).
@@ -2294,6 +2307,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 + _Selbstjustiz verboten_ — siehe Konzept 4.2.
 + _Prüfen, was mitgebracht wird_ (Waffen ablegen lassen am Eingang, siehe Konzept B10-7.1 `warn-10b`).
 #kasten([Rechtlich :])[_Notstand §§ 34/35 StGB_ — Eigentumseingriff bei Lebensgefahr ist gerechtfertigt/entschuldigt (siehe Konzept B4-8.1). _Hausrecht § 123 StGB_ — Eindringen in Wohnungen verboten, Abwehr erlaubt. _Keine Präventivgewalt._ Deeskalation zuerst (siehe Konzept 4.2).]
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.2 „Gast & Fremder“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Nie allein empfangen
 - [ ] Mitgebrachtes geprüft
 - [ ] §§ 34/35/123 StGB bekannt
@@ -2363,6 +2377,7 @@ _Querverweise:_ siehe Konzept 4.2, siehe Konzept B4-8.1, siehe Konzept 1.1 (Gast
   [Notstand §§ 34/35 StGB], [siehe Glossar, Anhang D Band 1],
   [Hausrecht § 123 StGB], [siehe Glossar, Anhang D Band 1],
   [Keine Präventivgewalt.], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -2480,10 +2495,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 5.3 Trupp <k-5-3>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb_ · P 7 · M prüfenswert · V 8]
 _Einer vorn, einer hinten_ — nie allein los (siehe Konzept B1-5.2, +60-min-Regel).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.3 „Trupp“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Trupp doppelt besetzt
 - [ ] +60-min-Regel aktiv (siehe Konzept B1-5.2)
 _Querverweise:_ siehe Konzept B1-5.2.
@@ -2523,6 +2538,7 @@ _Querverweise:_ siehe Konzept B1-5.2.
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Einer vorn, einer hinten], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -2642,6 +2658,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 6 — Feuerprobe des Kompendiums <kap-6>
+_Ziel des Kapitels:_ Ziel: Die Feuerprobe des ganzen Kompendiums und die Werkstatt-Prüfung mit Zeugen durchführen können.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Trupp: einer vorn, einer hinten — niemand geht allein verloren; +60-min-Regel (B1-5.2) startet die Suche.
 - _Situationsvarianten (wann welche):_ Stadt: belebte Wege, Treppenhaus. Land: Route abseits Straße, Markierungen.
@@ -2654,15 +2671,14 @@ _Erklärung:_
   [6.1], [Feuerprobe (Ring der Reihe)], [9], [unbedenklich], [8], [grün], [Abb. 10.5],
   [6.2], [Prüfung der Werkstatt], [7], [unbedenklich], [9], [grün], [–],
 )
-#pagebreak(weak: true)
 === 6.1 Feuerprobe (Ring der Reihe) <k-6-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 8 · Abb. 10.5]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-10-5.svg", width: 100%, alt: "Abb. 10.5: Feuerprobe des Kompendiums: der Ring der Reihe – Fragen zu jedem Band 1–9 (Konzept 6.1, konsistent B1 8.x)."), caption: [Abb. 10.5 — Feuerprobe des Kompendiums: der Ring der Reihe – Fragen zu jedem Band 1–9 (Konzept 6.1, konsistent B1 8.x).])]]
 Die Feuerprobe prüft _alle Bände 1–9_ im Ring der Reihe (jedes Konzept wird abgefragt, siehe Anhang Feuerprobe). Konsistent mit Übungskultur (siehe Konzepte B1-8.1 und B1-8.2).
 + Jeder Band 1–9 wird mit seinem Fragenkatalog geprüft (Anhang Band 10).
 + Wer eine Frage nicht beantworten kann, übt nach (siehe Konzept B1-8.2, Verfalluhr 12 Monate).
 + Ergebnis im Protokoll (siehe Konzept B1-9.1).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.1 „Feuerprobe (Ring der Reihe)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Alle 9 Bände durchgeprüft
 - [ ] Lücken als Übungspflicht notiert (siehe Konzept B1-8.2)
 #baustein[Was die Feuerprobe nicht besteht, fliegt aus dem Kopf — bis du es wieder übst.]
@@ -2725,6 +2741,7 @@ _Querverweise:_ siehe Konzepte B1-8.1, B1-8.2, B1-9.1, Anhang Feuerprobe. _Erkl�
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [alle Bände 1–9], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -2843,10 +2860,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 6.2 Prüfung der Werkstatt <k-6-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 9]
 _Zwei Nachbarn zeugen_ die Werkstatt-Prüfung (siehe Konzept B9-9.1, Weitergabe dreifach gesichert).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.2 „Prüfung der Werkstatt“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Zwei Zeugen anwesend
 _Querverweise:_ siehe Konzept B9-9.1.
 #subhead[Fehler & Folgen (siehe Anhang B)]
@@ -2885,6 +2902,7 @@ _Querverweise:_ siehe Konzept B9-9.1.
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Zwei Nachbarn zeugen], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -3004,6 +3022,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 7 — Rüsten: Zeughaus & Bewahren <kap-7>
+_Ziel des Kapitels:_ Ziel: Zeughaus brand-sicher führen (warn-10b) und Wissen in vier Schichten bewahren.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Die Werkstatt-Prüfung mit zwei Nachbarn als Zeugen macht Qualität nachprüfbar und verhindert Pfusch (B9-9.1 dreifach gesichert).
 - _Situationsvarianten (wann welche):_ Jährlich + nach größeren Arbeiten.
@@ -3016,12 +3035,11 @@ _Erklärung:_
   [7.1], [Zeug-Haus], [9], [unbedenklich], [8], [grün], [Abb. 10.6],
   [7.2], [Abschreiben & Bewahren (vier Schichten)], [7], [unbedenklich], [9], [grün], [Abb. 10.7],
 )
-#pagebreak(weak: true)
 === 7.1 Zeug-Haus <k-7-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün + _WARNRAHMEN [warn-10b]_ · P 9 · M unbedenklich · V 8 · Abb. 10.6]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-10-6.svg", width: 100%, alt: "Abb. 10.6: Zeughaus: kein offenes Licht, Ofen außen, Eimer am Eingang – Abstände wie B3 1.2 (Konzept 7.1, warn-10b)."), caption: [Abb. 10.6 — Zeughaus: kein offenes Licht, Ofen außen, Eimer am Eingang – Abstände wie B3 1.2 (Konzept 7.1, warn-10b).])]]
 #warnrahmen(id: "warn-10b", title: [BRAND IM ZEUGHAUS:])[_Kein offenes Licht_ im Zeughaus (Lampe außen oder elektrisch nicht vorhanden — Kerze/Laterne nur am Eingang). _Ofen außen_, Eimer mit Wasser am Eingang (siehe Konzept B3-9.1). Abstände konsistent mit Konzept B3-1.2: 2–3 m frei, 4–6 m zu Unterkünften.]
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.1 „Zeug-Haus“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Kein offenes Licht innen
 - [ ] Ofen außen
 - [ ] Eimer am Eingang
@@ -3075,6 +3093,7 @@ _Querverweise:_ siehe Konzept B3-1.2, siehe Konzept B3-9.1, siehe Konzept 5.2 (W
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Kein offenes Licht], [siehe Glossar, Anhang D Band 1],
   [Ofen außen], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -3192,12 +3211,11 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 7.2 Abschreiben & Bewahren (vier Schichten) <k-7-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 9 · Abb. 10.7]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-10-7.svg", width: 100%, alt: "Abb. 10.7: Abschreiben & Bewahren: vier Schichten – Original, Abschrift, Siegel, Ort (Konzept 7.2)."), caption: [Abb. 10.7 — Abschreiben & Bewahren: vier Schichten – Original, Abschrift, Siegel, Ort (Konzept 7.2).])]]
 Vier Schichten der Bewahrung: _1. geschriebene Kopie, 2. verlesene mündliche Überlieferung, 3. eingeübte Praxis (siehe Konzept B1-8.2), 4. Vermächtnis (siehe Konzept 9.1)_.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.2 „Abschreiben & Bewahren (vier Schichten)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Vier Schichten vorhanden
 _Querverweise:_ siehe Konzept B1-8.2, siehe Konzept 9.1.
 #subhead[Fehler & Folgen (siehe Anhang B)]
@@ -3235,6 +3253,7 @@ _Querverweise:_ siehe Konzept B1-8.2, siehe Konzept 9.1.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -3354,6 +3373,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 8 — Behalten: Kalender & Feste <kap-8>
+_Ziel des Kapitels:_ Ziel: Kalender, Gedenken und harte Zeit (Herbst-Ration) organisieren.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Vier Schichten der Bewahrung: geschrieben (Kopien), verlesen (mündlich), eingeübt (B1-8.2), Vermächtnis (9.1) — Wissen überlebt so den Ausfall einzelner Schichten.
 - _Situationsvarianten (wann welche):_ Abschriften in mehreren Haushalten (Stadt: mehrere Wohnungen; Land: mehrere Gebäude).
@@ -3367,10 +3387,8 @@ _Erklärung:_
   [8.2], [Gedenken (Vermächtnis verlesen)], [6], [unbedenklich], [9], [grün], [–],
   [8.3], [Die harte Zeit], [8], [unbedenklich], [8], [grün], [–],
 )
-#pagebreak(weak: true)
 === 8.1 Kalender des Dorfes <k-8-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 9 · Abb. 10.8]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-10-8.svg", width: 100%, alt: "Abb. 10.8: Kalender des Dorfes: 12 Monate – Feste, Rationen, Markt-Fristen, Übungstermine (Konzept 8.1, konsistent B1 8.1)."), caption: [Abb. 10.8 — Kalender des Dorfes: 12 Monate – Feste, Rationen, Markt-Fristen, Übungstermine (Konzept 8.1, konsistent B1 8.1).])]]
 Konsistent mit Konzept B1-8.1, Jahres-Übungsplan und Konzept B5-9.2, Pflanzen-Kalender: Fest- und Arbeitstermine schriftlich (siehe Konzept B1-3.4, Papier statt Netz).
 _Querverweise:_ siehe Konzept B1-8.1, siehe Konzept B5-9.2. _Erklärung:_
@@ -3529,7 +3547,6 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 8.2 Gedenken (Vermächtnis verlesen) <k-8-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 6 · M unbedenklich · V 9]
 Vermächtnis wird _verlesen_ (siehe Konzept 9.1) — mündlich und schriftlich.
@@ -3690,10 +3707,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 8.3 Die harte Zeit <k-8-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8]
 _Ration im Herbst gesetzt_ (siehe Konzept B7-9.1, Winter-Rechnung 100 Tage + 20–33 %). Entscheidung im Rat (siehe Konzept 4.2), nicht allein.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.3 „Die harte Zeit“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Ration im Herbst beschlossen
 _Querverweise:_ siehe Konzept B7-9.1, siehe Konzept 4.2, siehe Konzept 4.3.
 #subhead[Material & Maß (aus diesem Konzept)]
@@ -3739,6 +3756,7 @@ _Querverweise:_ siehe Konzept B7-9.1, siehe Konzept 4.2, siehe Konzept 4.3.
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Ration im Herbst gesetzt], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -3858,6 +3876,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 9 — Vermächtnis <kap-9>
+_Ziel des Kapitels:_ Ziel: Das Vermächtnis schreiben und verlesen — und die Reihe mit der Haus-Metapher schließen (Änderungen nur mit Feuerprobe).
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Die harte Zeit wird im Herbst rationiert (Ration festgesetzt, B7-9.1 100 Tage + 20–33 %), nicht erst im Frühjahr — Entscheidung im Rat (4.2), nicht allein.
 - _Situationsvarianten (wann welche):_ Nach der Ernte (Sept/Okt) im Rat beschließen.
@@ -3870,12 +3889,12 @@ _Erklärung:_
   [9.1], [Vermächtnis (geschrieben + verlesen)], [7], [unbedenklich], [9], [grün], [–],
   [9.2], [Schluss der Reihe (Haus-Metapher)], [6], [unbedenklich], [10], [grün], [–],
 )
-#pagebreak(weak: true)
 === 9.1 Vermächtnis (geschrieben + verlesen) <k-9-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 9]
 + _Schreiben_ (Anhang A Band 10, Vermächtnis-Blatt): Wissen, das weitergegeben werden muss — pro Band 1–9 die Kernregeln.
 + _Verlesen_ vor der Gruppe (siehe Konzept 8.2).
 + Kopie in die vier Schichten (siehe Konzept 7.2).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.1 „Vermächtnis (geschrieben + verlesen)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Vermächtnis-Blatt geführt
 - [ ] Verlesen protokolliert
 _Querverweise:_ siehe Konzept 7.2, siehe Konzept 8.2, siehe Konzept B9-9.2, Lehrling. _Erklärung:_
@@ -3936,6 +3955,7 @@ _Querverweise:_ siehe Konzept 7.2, siehe Konzept 8.2, siehe Konzept B9-9.2, Lehr
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -4053,7 +4073,6 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 9.2 Schluss der Reihe (Haus-Metapher) <k-9-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 6 · M unbedenklich · V 10]
 Das Kompendium ist ein Haus: Band 1 das Fundament, Bände 2–9 die Räume, Band 10 das Dach. _Wer ein Stockwerk abreist, muss das Dach neu decken_ — Änderungen nur mit Feuerprobe (siehe Konzept 6.1).
@@ -4315,7 +4334,19 @@ Kopiervorlage zu Konzept 9.1 — Name / Datum / Kernregeln pro Band 1–9 / Unte
 )
 #pagebreak(weak: true)
 == Anhang C — Übungsplan (Band 10) <anh-C>
-Feuerprobe (6.1) halbjährlich über alle Bände 1–9; Tausch-Protokoll (1.2) üben; Vermächtnis-Blatt (9.1) jährlich aktualisieren. Verfalluhr 12 Monate (siehe Konzept B1-8.2).
+_Übungsablauf (verbindlich für jede Übung in diesem Band):_
++ _Vorbereitung (10 min):_ Material und Protokollbogen (Anhang A4 / B1-8.2) bereitlegen; Warnrahmen des Konzepts durchlesen; bei Outdoor-Übung Wetter prüfen (B1-4.4).
++ _Durchführung:_ die nummerierten Schritte des Konzepts exakt in der dortigen Reihenfolge ausführen — keine Abkürzungen.
++ _Wiederholungen:_ jede Übung mindestens 3× hintereinander; Konzepte mit V \< 6 mindestens 5× (z. B. in diesem Band siehe Liste unten).
++ _Zeitansatz:_ 45–90 min pro Übungseinheit, maximal 2 Einheiten pro Tag — Ermüdung verfälscht das Ergebnis.
++ _Beobachten (Erfolgskontrolle):_ das messbare Kriterium der Übung notieren (Zeit, Maß, Trefferquote, Temperatur) — ohne Messung ist die Übung nicht bestanden.
++ _Abbruchkriterien:_ Abbruch sofort bei Verletzung, Wetterumschwung, Materialbruch, Schmerzen (z. B. Augen beim Schweißen) oder wenn nach 3 Durchgängen kein Fortschritt erkennbar ist. Abbruch dokumentieren — nicht schönreden.
++ _Protokoll (B1-8.2):_ Datum, Konzept-Nr., Wiederholungen, Zeitansatz, Beobachtung/Erfolgskontrolle, V-Bewertung, Verfalldatum (Datum + 12 Monate).
+_Band-spezifische Übungen (Vorrang, mit Erfolgskontrolle):_
+- Feuerprobe (6.1): halbjährlich über alle Bände 1–9, Erfolg: ≥ 80 % der Fragen korrekt, Lücken als Übungspflicht notiert (B1-8.2)
+- Tausch-Protokoll mit Zeugen (1.2): 2×, Erfolg: Ware/Wert/Zeugen/Frist vollständig eingetragen
+- Vermächtnis-Blatt (9.1): 1× jährlich, Erfolg: Kernregeln pro Band 1–9 niedergeschrieben, 2 Zeugen unterschreiben
+Verfalluhr: 12 Monate ohne Wiederholung = Fähigkeit verfallen (siehe B1-8.2).
 #pagebreak(weak: true)
 == Anhang Feuerprobe / Fragenkatalog (zu 6.1) — Ring der Reihe
 Pro Band Kernfragen (Stichprobe, erweiterbar):
@@ -4368,9 +4399,9 @@ _Erklärung:_
 == Situative Detail-Skizzen (Review v1) <skizzen-v1>
 Situative Skizzen zu Varianten und Situationen (mit Maßen und Kontext) — ergänzt nach Review v1, Befund 3.
 #grid(columns: (1fr, 1fr), column-gutter: 8pt, row-gutter: 8pt,
-  figure(image("illustrationen/abb-10-10.svg", width: 100%, alt: "Abb. 10.10: Tausch situativ: Markt mit Frist / Not-Tausch / Wucher-Grenze – drei Situationen (Ergänzung zu Abb. 10.1/10.2). *(situativ, Review v1)*"), caption: [Abb. 10.10 — Tausch situativ: Markt mit Frist / Not-Tausch / Wucher-Grenze – drei Situationen (Ergänzung zu Abb. 10.1/10.2, Review v1).]),
-  figure(image("illustrationen/abb-10-11.svg", width: 100%, alt: "Abb. 10.11: Dorf-Zonenplan situativ: Quelle oben, Wohnen, Zeughaus mit Brand-Abständen, Feuerstelle, Latrine hangabwärts (Ergänzung zu Abb. 2.1/3.1/10.6). *(situativ, Review v1)*"), caption: [Abb. 10.11 — Dorf-Zonenplan situativ: Quelle oben, Wohnen, Zeughaus mit Brand-Abständen, Feuerstelle, Latrine hangabwärts (Ergänzung zu Abb. 2.1/3.1/10.6, Review v1).]),
-  figure(image("illustrationen/abb-10-9.svg", width: 100%, alt: "Abb. 10.9: Furt situativ: drei Sondierstellen am Querschnitt – Tiefe und Grund variieren (Ergänzung zu Abb. 10.4, warn-10a). *(situativ, Review v1)*"), caption: [Abb. 10.9 — Furt situativ: drei Sondierstellen am Querschnitt – Tiefe und Grund variieren (Ergänzung zu Abb. 10.4, warn-10a, Review v1).]))
+  figure(image("illustrationen/abb-10-10.svg", width: 100%, alt: "Abb. 10.10: Tausch situativ: Markt mit Frist / Not-Tausch / Wucher-Grenze – drei Situationen (Ergänzung zu Abb. 10.1/10.2). *(situativ, Review v1)*"), caption: [Abb. 10.10 — Tausch situativ: Markt mit Frist / Not-Tausch / Wucher-Grenze – drei Situationen (Ergänzung zu Abb. 10.1/10.2).]),
+  figure(image("illustrationen/abb-10-11.svg", width: 100%, alt: "Abb. 10.11: Dorf-Zonenplan situativ: Quelle oben, Wohnen, Zeughaus mit Brand-Abständen, Feuerstelle, Latrine hangabwärts (Ergänzung zu Abb. 2.1/3.1/10.6). *(situativ, Review v1)*"), caption: [Abb. 10.11 — Dorf-Zonenplan situativ: Quelle oben, Wohnen, Zeughaus mit Brand-Abständen, Feuerstelle, Latrine hangabwärts (Ergänzung zu Abb. 2.1/3.1/10.6).]),
+  figure(image("illustrationen/abb-10-9.svg", width: 100%, alt: "Abb. 10.9: Furt situativ: drei Sondierstellen am Querschnitt – Tiefe und Grund variieren (Ergänzung zu Abb. 10.4, warn-10a). *(situativ, Review v1)*"), caption: [Abb. 10.9 — Furt situativ: drei Sondierstellen am Querschnitt – Tiefe und Grund variieren (Ergänzung zu Abb. 10.4, warn-10a).]))
 #pagebreak(weak: true)
 == Gesamt-Checkliste Band 10 <gesamt-checkliste>
 Alle Konzepte dieses Bandes im Überblick — abhaken, wenn geübt/gelesen:

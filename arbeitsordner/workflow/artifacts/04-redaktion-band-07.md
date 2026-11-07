@@ -8,9 +8,16 @@
 
 ## Kapitel 1 — Ethik des Vorrats
 
+**Ziel des Kapitels:** Ziel: Die Ethik des Vorrats (drei Kreise, Fahrplan) verstehen — Vorrat puffert, Horten schadet.
+
+
 ### 1.1 Grenze des Vorrats — grün · P 8 · M unbedenklich · V 10
 
 Vorrat dient dem Überleben der Gruppe, nicht dem Horten. Tausch vor Behalten (siehe Konzept B10-2.3).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.1 „Grenze des Vorrats“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Vorratsziel nach Bedarf (siehe Konzept 9.1), nicht nach Angst
 
@@ -38,6 +45,10 @@ Vorrat dient dem Überleben der Gruppe, nicht dem Horten. Tausch vor Behalten (s
 
 1. Erfassen → 2. Sortieren → 3. Konservieren (Kapitel 3–7) → 4. Lagern (Kapitel 8) → 5. Kontrollieren (siehe Konzept 8.2) → 6. Rotieren.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.3 „Vorrats-Fahrplan (sechs Stationen)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Sechs Stationen im Plan
 
 **Querverweise:** siehe Konzept 8.1, siehe Konzept 8.2.
@@ -45,6 +56,9 @@ Vorrat dient dem Überleben der Gruppe, nicht dem Horten. Tausch vor Behalten (s
 ---
 
 ## Kapitel 2 — Ordnung der Haltbarkeit
+
+**Ziel des Kapitels:** Ziel: Die fünf Feinde des Vorrats und die sechs Konservierungswege mit Haltbarkeiten kennen und zuordnen können.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Der Fahrplan strukturiert das Anlegen: erfassen → sortieren → konservieren → lagern → kontrollieren → rotieren. Ohne Plan bleiben Lücken (z. B. kein Salz, keine Kammer).
@@ -86,6 +100,9 @@ Trocknen, Räuchern, Salzen/Pökeln, Säuern/Einlegen, Einkochen, Kühlen — Ta
 ---
 
 ## Kapitel 3 — Dörren
+
+**Ziel des Kapitels:** Ziel: Sicher dörren (Preheat 71 °C, Brechprobe, warn-7a) — halbtrocken ist die tödliche Falle.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Ganzkorn hält sich am längsten, weil Keimling und Schale das Innere schützen; Mahlen legt Nährstoffe frei — dann schnell verbrauchen oder kühlen. Luftdicht + dunkel + trocken + kühl lagern (8.1).
@@ -94,6 +111,10 @@ Trocknen, Räuchern, Salzen/Pökeln, Säuern/Einlegen, Einkochen, Kühlen — Ta
 ### 3.1 Trocken-Halle — grün · P 8 · M unbedenklich · V 9
 
 **Wind trocknet, nicht Hitze.** Hallen mit Durchzug, Ware dünn und luftig aufhängen/legen.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.1 „Trocken-Halle“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Durchzug vorhanden
 - [ ] Ware nicht gehäuft
@@ -110,6 +131,10 @@ Trocknen, Räuchern, Salzen/Pökeln, Säuern/Einlegen, Einkochen, Kühlen — Ta
 
 Reduktionsverhältnisse (W25): Fleisch 3:1, Fisch 4:1, Obst 5:1, Kraut 10:1.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.2 „Dörrware“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Preheat 71 °C Kern vor dem Dörren
 - [ ] Brechprobe bestanden
 - [ ] Fingerdünn geschnitten
@@ -122,6 +147,9 @@ Reduktionsverhältnisse (W25): Fleisch 3:1, Fisch 4:1, Obst 5:1, Kraut 10:1.
 ---
 
 ## Kapitel 4 — Räuchern
+
+**Ziel des Kapitels:** Ziel: Räuchern beherrschen (Kalt-/Warmgang, Holzarten) und das Botulismus-Risiko kaltgeräucherten Fischs kennen.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Dörren bei zu hoher Temperatur oder zu dicker Schicht macht außen trocken, innen feucht (aw > 0,85 = „biegt sich noch“) — dort wachsen S. aureus/C. perfringens. USDA-Preheat: Fleisch/Fisch vor dem Dörren auf 71 °C Kern (Thermometer B8-8.1/B9-8.1; Ersatzkriterien B6-9.1). Brechprobe: Dörrware bricht spröde. Schimmel → ganz wegwerfen (Mykotoxine penetrieren) (warn-7a).
@@ -131,6 +159,10 @@ Reduktionsverhältnisse (W25): Fleisch 3:1, Fisch 4:1, Obst 5:1, Kraut 10:1.
 
 1. Warmgang: 60–80 °C, Kern durchgaren (siehe Konzept 4.3).
 2. Kaltgang: < 30 °C — **kaltgeräucherter Fisch allein ist nicht haltbar** (Botulismus Typ E, siehe Konzept 6.2k `warn-7b`): zusätzlich salzen/pökeln (siehe Konzept 5.2) oder sofort verbrauchen.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.1 „Räucher-Ofen (Kalt-/Warmgang)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Warmgang: Kern durchgegart
 - [ ] Kaltgeräuchertes zusätzlich gesalzen oder sofort verbraucht
@@ -145,6 +177,10 @@ Reduktionsverhältnisse (W25): Fleisch 3:1, Fisch 4:1, Obst 5:1, Kraut 10:1.
 
 **Nadelholz-Verbot** (Terpentin, harzig, ungenießbarer Rauch). Torf nur gemischt (siehe Konzept B3-7.2). Hartholz (Buche, Eiche) bevorzugen.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.2 „Holz & Rauch“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Kein Nadelholz
 - [ ] Hartholz bevorzugt
 
@@ -158,6 +194,10 @@ Reduktionsverhältnisse (W25): Fleisch 3:1, Fisch 4:1, Obst 5:1, Kraut 10:1.
 
 **Kern durchgaren** (Brühwurst: ≥ 71 °C Kern). Rohwurst-Haltbarkeit nur über **Salz + pH** (siehe Konzept 5.2/6.1) — ohne Messung konservativ behandeln.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.3 „Wurst“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Kern ≥ 71 °C bei Brühwurst
 
 **Querverweise:** siehe Konzept 5.2, siehe Konzept 6.1, siehe Konzept 6.2k.
@@ -165,6 +205,9 @@ Reduktionsverhältnisse (W25): Fleisch 3:1, Fisch 4:1, Obst 5:1, Kraut 10:1.
 ---
 
 ## Kapitel 5 — Salzen & Pökeln
+
+**Ziel des Kapitels:** Ziel: Salzen und Pökeln mit Herkunftsprüfung (warn-7c) und Lake-Ei-Test sicher dosieren.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Wurst wird durch Salzen + Räuchern + Trocknen haltbar; Brühwurst muss auf ≥ 71 °C Kern erhitzt werden (Keime). Rohwurst-Haltbarkeit nur über Salz + pH (messen, siehe 6.2k).
@@ -173,6 +216,10 @@ Reduktionsverhältnisse (W25): Fleisch 3:1, Fisch 4:1, Obst 5:1, Kraut 10:1.
 ### 5.1 Das Salz — **gelb + WARNRAHMEN [warn-7c]** · P 7 · M prüfenswert · V 8
 
 > **WARNRAHMEN [warn-7c] — UNBEKANNTES SALZ (WARN 2, 09 §4.3):** **Streusalz und Regeneriersalz nie in die Küche** — Ferrocyanid-Rieselhilfe und Verunreinigungen. Nur Salz **bekannter Herkunft** (Meersalz, Siedesalz, Steinsalz aus kontrollierter Quelle). Herkunft prüfen, bevor du salzt.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.1 „Das Salz“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Herkunft des Salzes bekannt
 - [ ] Kein Streusalz/Regeneriersalz in Lebensmitteln (siehe auch Konzept B2-3.7, Tausalz-Schnee)
@@ -193,6 +240,10 @@ Werte (W26): **Lake-Ei-Test** — ein **frisches rohes Ei** (legt in Süßwasser
 2. Fleisch einlegen, kühl stellen (siehe Konzept 8.1).
 3. Zeiten einhalten; danach wässern und trocknen/räuchern.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.2 „Pökeln (Lake-Ei-Test)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Ei-Test bestanden
 - [ ] Zeiten eingehalten (Speck 7–10 T; Schinken 1 T/cm + 2 T)
 
@@ -201,6 +252,9 @@ Werte (W26): **Lake-Ei-Test** — ein **frisches rohes Ei** (legt in Süßwasser
 ---
 
 ## Kapitel 6 — Säuern, Einlegen & Einkochen
+
+**Ziel des Kapitels:** Ziel: Säuern/Einlegen und Einkochen sicher beherrschen — Einkochen low-acid nur im Druckkocher (6.2k, warn-7b, ROT-1 korrigiert).
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Pökeln hemmt Keime durch Wasserentzug (Salz senkt aw) und Nitrit (Umrötung, antimikrobiell). Lake-Ei-Test: frisches rohes Ei sinkt in Süßwasser, schwimmt in fertiger Lake (Salzgehalt ausreichend). Zeiten: Speck 7–10 d, Schinken ~1 d/cm + 2 d (W26).
@@ -211,6 +265,10 @@ Werte (W26): **Lake-Ei-Test** — ein **frisches rohes Ei** (legt in Süßwasser
 1. Kraut hobeln, salzen (siehe Konzept 5.1), stampfen bis Lake austritt.
 2. Luftdicht ins Fass drücken, beschweren (Stein), Deckel mit Wasserbund.
 3. Milchsäuregärung bei 15–20 °C, 2–4 Wochen.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.1 „Kraut-Fass (Milchsäure/Lake)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Luftdicht vergoren
 - [ ] 2–4 Wochen gereift
@@ -252,6 +310,10 @@ Umsetzung als Schritte:
 5. Kaltgeräucherter Fisch: allein nicht haltbar (Typ E) — siehe Konzept 4.1.
 6. Gläser kontrollieren: gewölbter Deckel/Schwall/Fremdgeruch/Schimmel → **ungeöffnet wegwerfen**.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.2k „Einkochen, Öl & Essig“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] pH gemessen (Indikatorpapier) oder konservativ Druckkocher
 - [ ] Druckkocher 116–121 °C, psi nach Höhenlage, NCHFP-Zeiten
 - [ ] Wasserbad nur pH ≤ 4,6
@@ -272,6 +334,10 @@ Umsetzung als Schritte:
 2. 2–4 Wochen stehen lassen, täglich umrühren.
 3. Abseihen, in Flaschen füllen — pH messen (siehe Konzept 6.2k, Ziel < 4,6 für Einlagen).
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.3 „Essig selbst gebraut“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] pH des fertigen Essigs gemessen (< 4,6)
 
 **Querverweise:** siehe Konzept 6.2k.
@@ -279,6 +345,9 @@ Umsetzung als Schritte:
 ---
 
 ## Kapitel 7 — Fett, Seife & Leder
+
+**Ziel des Kapitels:** Ziel: Aus Resten Fett, Seife und Leder gewinnen (Verseifung, Gerbung).
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Essig (Essigsäuregärung aus Alkohol) konserviert durch pH < 4,6; selbst gebraut: Obst-/Weinreste + Wasser + Zucker, 2–4 Wochen, dann abseihen. Fertigen pH messen (Indikatorpapier) — Ziel < 4,6 für Einlagen (siehe 6.2k).
@@ -289,6 +358,10 @@ Umsetzung als Schritte:
 1. Fett schmelzen bei niedriger Hitze, durchseihen.
 2. In Gläser füllen, luftdicht, kühl und dunkel lagern (siehe Konzept 8.1).
 3. **Ranz-Warnung:** streng riechendes Fett wegwerfen.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.1 „Schmalz & Talg“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Luftdicht, kühl, dunkel
 - [ ] Ranz-Geruch → wegwerfen
@@ -306,6 +379,10 @@ Werte (W27): **~1 Pfund (= 500 g) Fett → ~500 g Seife**; Lauge **0,5 l pro Pfu
 1. Lauge aus Asche herstellen (siehe B3-8.2: 2 Hände Asche/10 l Wasser).
 2. Fett erhitzen, Lauge zugeben, rühren bis **„Spur ziehen“** — die Masse hinterlässt auf dem Löffel eine sichtbare dickflüssige Bahn.
 3. In Form gießen, 4–6 Wochen reifen lassen.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.2 „Seife aus Resten“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Verhältnis 1:1, Lauge 0,5 l/Pfund
 - [ ] Reife 4–6 Wochen
@@ -325,6 +402,10 @@ Werte (W27): **~1 Pfund (= 500 g) Fett → ~500 g Seife**; Lauge **0,5 l pro Pfu
 3. Fell 1–2 Wochen in der Brühe bewegen.
 4. **Schnittprobe: braun = durchgegerbt.** Dann fetten (siehe Konzept 7.1) und weichklopfen.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.3 „Gerben (Lohe/Eichenrinde)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Schnittprobe braun
 
 **Querverweise:** siehe Konzept B6-9.3, siehe Konzept 7.1, siehe Konzept B9-7.3, Lederpflege/Fett.
@@ -332,6 +413,9 @@ Werte (W27): **~1 Pfund (= 500 g) Fett → ~500 g Seife**; Lauge **0,5 l pro Pfu
 ---
 
 ## Kapitel 8 — Die Kammer
+
+**Ziel des Kapitels:** Ziel: Die Kammer in Zonen organisieren (Land: Erdkeller; Stadt: Treppenhaus) und Verderb richtig entscheiden (Mykotoxine).
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Gerben macht Haut haltbar: Lohgerbung (Eichenrinde/Tannine) vernetzt die Kollagenfasern — das Leder fault nicht mehr. Schnittprobe: durchgegerbt = innen braun. Danach fetten (7.1) und weichklopfen.
@@ -349,6 +433,10 @@ Zonen konsistent mit Feuer-Abständen Band 3 (siehe Konzept B3-1.2).
 
 **Stadt / Land:** Land = erdberührter Keller/Grube. **Stadt (Wohnung):** kühlster Schrank oder Abstellraum am Treppenhaus, **nie über der Heizung**, nie in der Sonne; Temperatur mit Thermometer prüfen (Ziel < 10 °C in der Kühlzone, siehe B8-8.1); bei Stromausfall in der Wohnung bleibt der Treppenhaus-Schrank der kühlste Ort.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.1 „Die kalte Kammer (Zonen)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Zonen klar getrennt
 - [ ] Temperatur regelmäßig geprüft (siehe Konzept B1-7.4)
 
@@ -364,6 +452,10 @@ Entscheidungstabelle: retten / essen / wegwerfen.
 
 > **Mykotoxine (09 §4.3):** Verschimmeltes **Korn, Brot und Nüsse nie retten** — Mykotoxine penetrieren das ganze Stück. Schimmel auf harter Ware (Käse, feste Wurst): Rand großzügig wegschneiden, Rest prüfen. Weichware mit Schimmel: ganz wegwerfen.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.2 „Gäste & Verderb-Atlas“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Atlas bekannt
 - [ ] Schimmel-Regel: Korn/Brot/Nüsse ganz weg
 
@@ -372,6 +464,9 @@ Entscheidungstabelle: retten / essen / wegwerfen.
 ---
 
 ## Kapitel 9 — Winter-Speicher
+
+**Ziel des Kapitels:** Ziel: Den Wintervorrat berechnen (100 Tage + 20–33 %) und Saatgut sicher lagern (nie essen).
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Verderb-Atlas: retten (festes, nur Rand betroffen) / essen (sofort) / wegwerfen. Mykotoxine (Schimmelpilzgifte) penetrieren das ganze Lebensmittel — verschimmeltes Korn/Brot/Nüsse nie retten (09 §4.3). Weichware mit Schimmel: ganz weg.
@@ -384,6 +479,10 @@ Entscheidungstabelle: retten / essen / wegwerfen.
 1. Tage × Personen × Tagesbedarf (siehe Konzept B2-2.1 für Wasser; Kalorien analog) rechnen.
 2. 20–33 % Zugabe für Krankheit, Mehrverbrauch, Verluste.
 3. Gegen Vorrat rechnen (siehe Konzept B2-8.1).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.1 „Winter-Rechnung“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] 100 Tage + Zugabe gerechnet
 
@@ -407,6 +506,10 @@ Konsistent mit Konzept B6-9.x (Band 6): Der Fang/Wildertrag geht zuerst in die S
 
 1. Keimprobe (siehe Konzept B5-8.3): **< 30 von 50 gekeimt (60 %) → neue Saat**.
 2. **Nie Saatgut essen** — auch nicht in der Not.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.3 „Die Saat“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Keimprobe bestanden (≥ 12/20)
 - [ ] Saat getrennt gelagert, nie verzehrt
@@ -437,7 +540,25 @@ Konsistent mit Konzept B6-9.x (Band 6): Der Fang/Wildertrag geht zuerst in die S
 
 ## Anhang C — Übungsplan (Band 7)
 
-Dörren mit Preheat + Brechprobe (3.2) üben; Einkochen im Druckkocher mit Protokoll (6.2k, NCHFP-Zeiten) üben; Pökeln mit Ei-Test (5.2); Kammer-Inventur (8.1). Verfalluhr 12 Monate (siehe Konzept B1-8.2).
+**Übungsablauf (verbindlich für jede Übung in diesem Band):**
+
+1. **Vorbereitung (10 min):** Material und Protokollbogen (Anhang A4 / B1-8.2) bereitlegen; Warnrahmen des Konzepts durchlesen; bei Outdoor-Übung Wetter prüfen (B1-4.4).
+2. **Durchführung:** die nummerierten Schritte des Konzepts exakt in der dortigen Reihenfolge ausführen — keine Abkürzungen.
+3. **Wiederholungen:** jede Übung mindestens 3× hintereinander; Konzepte mit V < 6 mindestens 5× (z. B. in diesem Band siehe Liste unten).
+4. **Zeitansatz:** 45–90 min pro Übungseinheit, maximal 2 Einheiten pro Tag — Ermüdung verfälscht das Ergebnis.
+5. **Beobachten (Erfolgskontrolle):** das messbare Kriterium der Übung notieren (Zeit, Maß, Trefferquote, Temperatur) — ohne Messung ist die Übung nicht bestanden.
+6. **Abbruchkriterien:** Abbruch sofort bei Verletzung, Wetterumschwung, Materialbruch, Schmerzen (z. B. Augen beim Schweißen) oder wenn nach 3 Durchgängen kein Fortschritt erkennbar ist. Abbruch dokumentieren — nicht schönreden.
+7. **Protokoll (B1-8.2):** Datum, Konzept-Nr., Wiederholungen, Zeitansatz, Beobachtung/Erfolgskontrolle, V-Bewertung, Verfalldatum (Datum + 12 Monate).
+
+**Band-spezifische Übungen (Vorrang, mit Erfolgskontrolle):**
+
+- Dörren mit Preheat + Brechprobe (3.2): 1×, Erfolg: 71 °C Kern vor dem Dörren gemessen, Dörrware bricht spröde
+- Einkochen im Druckkocher (6.2k): 1× mit Protokoll (Anhang A3), Erfolg: 116–121 °C, psi nach Höhe, NCHFP-Zeit eingehalten, pH gemessen
+- Pökeln mit Ei-Test (5.2): 1×, Erfolg: frisches Ei schwimmt in Lake, Zeiten eingehalten
+- Kammer-Inventur (8.1): 2×, Erfolg: Zonen kontrolliert, Temperatur < 10 °C in Kühlzone gemessen
+
+Verfalluhr: 12 Monate ohne Wiederholung = Fähigkeit verfallen (siehe B1-8.2).
+Zeiten) üben; Pökeln mit Ei-Test (5.2); Kammer-Inventur (8.1). Verfalluhr 12 Monate (siehe Konzept B1-8.2).
 
 ---
 

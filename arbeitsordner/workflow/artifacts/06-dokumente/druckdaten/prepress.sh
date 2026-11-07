@@ -24,7 +24,9 @@
 #   Pass C  marks_overlay.py -> marks.pdf, dann apply_marks.py (pypdf, 1:1-Overlay OHNE
 #                           Skalierung — qpdf --overlay skaliert ins CropBox und versetzt die
 #                           Marken falsch): 8 Ecken-Schnittmarken (0,3 pt, Registration Black
-#                           1 1 1 1 K) NACH Pass B auf das finale PDF/X-4 legen; danach proof.py
+#                           1 1 1 1 K) NACH Pass B auf das finale PDF/X-4 legen
+#   Pass D  proof.py -> proof.json (immer am Ende, damit der Proof nie aelter als die
+#                           Druckdaten ist — Befund T5-1, Turn 4)
 #
 # Nutzung:  GSBIN=/tmp/gsenv/bin ICCDIR=/tmp/icc PYLIBS=/tmp/pylibs bash prepress.sh
 set -euo pipefail
@@ -61,4 +63,9 @@ for band in "$DOCS"/band-[0-9][0-9].pdf; do
   PYTHONPATH="$PYLIBS" python3 "$OUT/apply_marks.py" "$WORK/$base-x4.pdf" "$WORK/marks.pdf" "$OUT/$base-druck.pdf"
   echo "   -> $OUT/$base-druck.pdf ($(du -h "$OUT/$base-druck.pdf" | cut -f1))"
 done
-echo "Fertig. Proof: PYTHONPATH=$PYLIBS PATH=$GSBIN:\$PATH python3 $OUT/proof.py $OUT/band-*-druck.pdf"
+
+# Pass D (T5-1, Turn 4): proof IMMER nach den Druckdaten neu erzeugen, damit proof.json
+# nie aelter als die band-NN-druck.pdf ist. Schreibt $OUT/proof.json (Rev. je Lauf).
+echo "== Pass D: proof.py -> $OUT/proof.json"
+PYTHONPATH="$PYLIBS" python3 "$OUT/proof.py" "$OUT"/band-[0-9][0-9]-druck.pdf > "$OUT/proof.json"
+echo "Fertig. Druckdaten + aktueller Proof: $OUT/band-*-druck.pdf + $OUT/proof.json"

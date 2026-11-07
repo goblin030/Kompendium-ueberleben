@@ -47,6 +47,7 @@ Diese 15 Warngrafiken gelten reihenweit; in diesem Band sind die fett markierten
 #pagebreak(weak: true)
 #pagebreak(weak: true)
 == Kapitel 1 — Ethik & Brandschutz <kap-1>
+_Ziel des Kapitels:_ Ziel: Die Brandschutz-Regeln (Feuer nie ohne Wache, Abstände 30 cm/2–3 m/4–6 m) verinnerlichen — sie gelten für alle anderen Bände (B4, B10).
 #subhead[Kapitel-Übersicht]
 #table(
   columns: 7,
@@ -55,13 +56,13 @@ Diese 15 Warngrafiken gelten reihenweit; in diesem Band sind die fett markierten
   [1.1], [Feuerethik], [9], [unbedenklich], [10], [grün], [–],
   [1.2], [Feuerplatz / Zonenplan], [9], [unbedenklich], [9], [grün], [Abb. 3.1],
 )
-#pagebreak(weak: true)
 === 1.1 Feuerethik <k-1-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 10]
 _Nie ohne Wache._ Ein unbeaufsichtigtes Feuer ist eine Brandquelle, keine Wärmequelle.
 + Feuer nur an freigegebenem Feuerplatz (siehe Konzept 1.2).
 + Feuerwache immer doppelt besetzt — siehe Konzept 9.3 und Konzept B1-9.2.
 + Glut-Botschaft wird angeboten, nie verlangt (siehe Konzept 3.5).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.1 „Feuerethik“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Wache eingeteilt
 - [ ] Feuerplatz freigegeben
 #baustein[Feuer ohne Wache ist Feind. Wache ohne Feuer ist nur kalt.]
@@ -124,6 +125,7 @@ _Querverweise:_ siehe Konzept 1.2, siehe Konzept 9.3, siehe Konzept B1-9.2, sieh
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Nie ohne Wache.], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -242,10 +244,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 1.2 Feuerplatz / Zonenplan <k-1-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 3.1]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-1.svg", width: 100%), caption: [Abb. 3.1 — Feuerplatz-Zonenplan (Draufsicht): 30 cm entkernt, 2–3 m frei, Zelte 4–6 m entfernt (Konzept 1.2).])]]
 Maße (konsistent mit B4-1.2 und B10-7.1): _30 cm rundum entkernen_, _2–3 m frei_ (keine brennbaren Gegenstände), _4–6 m Abstand zu Zelten/Unterkünften_.
 + Platz auf festem, mineralischem Boden wählen.
@@ -253,6 +253,7 @@ Maße (konsistent mit B4-1.2 und B10-7.1): _30 cm rundum entkernen_, _2–3 m 
 + Freihaltezone 2–3 m markieren.
 + Zelte/Hütten erst in 4–6 m Entfernung aufschlagen (siehe Konzept B4-1.2).
 _Stadt / Land:_ Land = Außenplatz nach diesen Maßen. _Stadt (Wohnung):_ _kein offenes Feuer in der Wohnung_ — CO-Vergiftung (`warn-3`, siehe 6.3). Erlaubt: Balkon nur nach Hausordnung und nur mit Holzkohle-Eimer auf nichtbrennbarem Untergrund, nie unbeaufsichtigt; in der Wohnung nur Spiritus-/Gaskocher mit _Fenster offen_ (Durchzug) und nie über Nacht — siehe 6.3.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.2 „Feuerplatz / Zonenplan“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] 30 cm entkernt
 - [ ] 2–3 m frei
 - [ ] 4–6 m zu Zelten
@@ -332,6 +333,7 @@ _Querverweise:_ siehe Konzept B4-1.2, siehe Konzept B10-7.1, Zeughaus `warn-10b`
   [Stadt (Wohnung):], [siehe Glossar, Anhang D Band 1],
   [kein offenes Feuer in der Wohnung], [siehe Glossar, Anhang D Band 1],
   [Fenster offen], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -452,6 +454,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 2 — Grundlagen des Feuers <kap-2>
+_Ziel des Kapitels:_ Ziel: Verstehen, warum Feuer brennt (Dreieck + Feuchte) und welcher Brennstoff welche Eigenschaft hat (Glut vs. Flamme, Funkenflug).
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Brennbares Material muss aus der Funkenreichweite entfernt werden: 30 cm direkt am Feuer (Glut), 2–3 m Freiraum, 4–6 m zu Zelten (Funkenflug bei Wind). Mineralischer Boden (Stein) verhindert Bodenbrand.
 - _Situationsvarianten (wann welche):_ Freies Gelände: Maße direkt. Wald: doppelte Freifläche wegen Funken. Stadt: siehe 1.1/6.3 — in der Wohnung kein offenes Feuer.
@@ -464,15 +467,14 @@ _Erklärung:_
   [2.1], [Feuerdreieck & Zündkette], [9], [unbedenklich], [10], [grün], [Abb. 3.2],
   [2.2], [Brennstoffkunde], [9], [unbedenklich], [9], [grün], [Abb. 3.3],
 )
-#pagebreak(weak: true)
 === 2.1 Feuerdreieck & Zündkette <k-2-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 10 · Abb. 3.2]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-2.svg", width: 100%), caption: [Abb. 3.2 — Feuerdreieck + Feuchte als vierter Faktor (Konzept 2.1).])]]
 Feuer braucht _Brennstoff + Sauerstoff + Wärme_ — als vierter Faktor die _Feuchte_ (nasser Brennstoff brennt nicht).
 + Zündkette: Zündquelle → Zunder → Faschholz → Kleinholz → Scheit (siehe Konzept 4.1).
 + Feuchte vor dem Bau prüfen: nasses Holz trocknen oder spalten (trockenes Kernholz).
 + Ein fehlendes Dreieck-Element = kein Feuer.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.1 „Feuerdreieck & Zündkette“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Alle drei Elemente vorhanden
 - [ ] Feuchte des Brennstoffs geprüft
 _Querverweise:_ siehe Konzept 4.1, siehe Konzept 2.2. _Erklärung:_
@@ -535,6 +537,7 @@ _Querverweise:_ siehe Konzept 4.1, siehe Konzept 2.2. _Erklärung:_
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Brennstoff + Sauerstoff + Wärme], [siehe Glossar, Anhang D Band 1],
   [Feuchte], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -652,10 +655,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 2.2 Brennstoffkunde <k-2-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 3.3]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-3.svg", width: 100%), caption: [Abb. 3.3 — Brennstoffkunde: Hartholz für Glut, Birkenrinde zündet feucht – Nadelholz nur mit Abstand (Konzept 2.2).])]]
 Werte : _1 Ster ≈ 300–350 kg_ — das ist der konservative Wert für Fichte/Kiefer; _Buche/Eiche ≈ 400–500 kg pro Ster_. Rechne konservativ mit 300–350 kg. Winter-Feuer-Tag _25–35 kg_; 2–3 kg Hartholz pro Feuerstunde.
 #table(
@@ -667,6 +668,7 @@ Werte : _1 Ster ≈ 300–350 kg_ — das ist der konservative Wert für Fichte
   [Nadelholz], [Funkenflug — nie offenes Feuer ohne Schutz; zum Räuchern verboten (siehe Konzept B7-4.2)],
   [Trockenheit], [\~1 Jahr je Daumendicke (siehe Konzept B9-3.2)],
 )
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.2 „Brennstoffkunde“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Hartholz für Glut, Weichholz zum Anzünden
 - [ ] Trockenzeiten beachtet
 _Querverweise:_ siehe Konzept 7.1, siehe Konzept B9-3.2, siehe Konzept B7-4.2.
@@ -718,6 +720,7 @@ _Querverweise:_ siehe Konzept 7.1, siehe Konzept B9-3.2, siehe Konzept B7-4.2.
   [1 Ster ≈ 300–350 kg], [siehe Glossar, Anhang D Band 1],
   [Buche/Eiche ≈ 400–500 kg pro Ster], [siehe Glossar, Anhang D Band 1],
   [25–35 kg], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -837,6 +840,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 3 — Zünden ohne Streichholz <kap-3>
+_Ziel des Kapitels:_ Ziel: Feuer mit mehreren redundanten Zündquellen und ohne Streichholz machen können — von Feuerstahl bis Reibfeuer (als Übung).
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Holz brennt, weil Hitze flüchtige Gase austreibt, die mit Sauerstoff reagieren (Flamme); die zurückbleibende Kohle glüht (Glut). Hartholz (Buche/Eiche) hat hohe Dichte → lange Glut; Weichholz zündet schnell, brennt schneller ab. Nadelholz harzt → Funkenflug.
 - _Situationsvarianten (wann welche):_ Winter/Lange Nacht: Hartholz für Glut. Schnelles Anfachen: Birke/Kiefer + Rinde. 1 Ster Fichte/Kiefer ≈ 300–350 kg, Buche/Eiche ≈ 400–500 kg.
@@ -852,13 +856,13 @@ _Erklärung:_
   [3.4], [Sonnenzündung], [4], [unbedenklich], [8], [gelb], [Abb. 3.6],
   [3.5], [Glut-Botschaft], [6], [unbedenklich], [9], [grün], [–],
 )
-#pagebreak(weak: true)
 === 3.1 Zündquellen-Inventar (3 Sets + Monatsprobe) <k-3-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9]
 Drei Sets an drei Orten: _am Körper_ (Tasche), _im Rucksack_ (siehe Konzept B1-3.2), _am Lager_.
 + Set = Feuerzeug + Feuerstahl + wasserdichte Dose mit Zunder.
 + _Monatsprobe:_ jedes Set einmal im Monat testen.
 + Nie alle Zündquellen an einem Ort.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.1 „Zündquellen-Inventar (3 Sets + Monatsprobe)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] 3 Sets verteilt
 - [ ] Monatsprobe im Protokoll (siehe Konzept B1-8.2)
 #baustein[Drei Sets, drei Orte, monatlich geprüft.]
@@ -923,6 +927,7 @@ _Querverweise:_ siehe Konzept B1-3.2, siehe Konzept 3.2 (Zundermulm), siehe Konz
   [am Körper], [siehe Glossar, Anhang D Band 1],
   [im Rucksack], [siehe Glossar, Anhang D Band 1],
   [am Lager], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -1041,14 +1046,13 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 3.2 Feuerstahl & Zundermulm <k-3-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 3.4]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-4.svg", width: 100%), caption: [Abb. 3.4 — Feuerstahl & Zundermulm: Funkenstrahl ins Nest – Nest vorher am Körper wärmen (Konzept 3.2).])]]
 + _Zundernest am Körper wärmen_ (Tasche) — kalter Zunder nimmt keine Funken.
 + Feuerstahl mit der scharfen Kante Funken in den Zunder schlagen, Richtung nach unten.
 + Nest zur Glut blasen (siehe Konzept 4.1).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.2 „Feuerstahl & Zundermulm“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Zunder trocken und warm
 - [ ] Funkenrichtung in den Zunder
 _Querverweise:_ siehe Konzept 4.1, siehe Konzept 3.1. _Erklärung:_
@@ -1116,6 +1120,7 @@ _Querverweise:_ siehe Konzept 4.1, siehe Konzept 3.1. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -1233,16 +1238,15 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 3.3 Reibfeuer <k-3-3>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb (Übungstechnik, P = 5)_ · P 5 · M unbedenklich · V 6 · Abb. 3.5]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-5.svg", width: 100%), caption: [Abb. 3.5 — Reibfeuer (Bogenbohrer): Übungstechnik (P = 5), kein Alltagsplan (Konzept 3.3).])]]
 Reibfeuer ist eine _Übungstechnik, kein Alltagsplan_. V = 6 → Übungspflicht (siehe Konzept B1-8.2).
 + Bohrbrett mit Kerbe, Spindel aus trockenem Hartholz.
 + Rhythmisch bohren, bis Glutstaub in der Kerbe entsteht.
 + Glutstaub in Zundernest (siehe Konzept 3.2) übertragen, zur Glut blasen.
 + Plan B immer parat: Zündquellen-Set (siehe Konzept 3.1).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.3 „Reibfeuer“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Als Übungstechnik deklariert
 - [ ] Plan B (3.1) vorhanden
 #baustein[Reibfeuer ist die Schule, nicht die Lösung. Übe es, verlass dich nicht drauf.]
@@ -1250,6 +1254,7 @@ _Querverweise:_ siehe Konzept 3.1, siehe Konzept 3.2, siehe Konzept B1-8.2. _Erk
 - _Prinzip (warum das funktioniert):_ Reibfeuer erzeugt durch Reibung Hitze, die Holzstaub in der Kerbe zur Glut bringt; es braucht trockenes Holz, konstanten Druck und Rhythmus. Als Übungstechnik sinnvoll, als Alltagsplan zu fehleranfällig (P = 5).
 - _Situationsvarianten (wann welche):_ Nur mit trockenem Hartholz (Ahorn, Esche). Plan B immer parat: Zündquellen-Set (3.1).
 - _Typische Fehler (warum + Folge):_ Bei Nässe/kalter Hand aufgeben. Folge: verlorene Zeit und Körperwärme; rechtzeitig auf Set 3.1 wechseln.
+_Übungsablauf (Reibfeuer, V = 6):_ 5 Wdh. an trockenem Hartholz; Zeitansatz 20 min/Wdh.; Erfolgskontrolle: Glutstaub in der Kerbe, dann Zunder → Flamme; Abbruch sofort bei Sehnenreizung oder Handblasen; Plan B (Zündquellen-Set 3.1) bereithalten.
 #subhead[Ablauf mit Kontrollkästchen]
 #table(
   columns: 3,
@@ -1259,6 +1264,13 @@ _Querverweise:_ siehe Konzept 3.1, siehe Konzept 3.2, siehe Konzept B1-8.2. _Erk
   [2], [Rhythmisch bohren, bis Glutstaub in der Kerbe entsteht.], [[ ] erledigt  [ ] geprüft],
   [3], [Glutstaub in Zundernest (siehe Konzept 3.2) übertragen, zur Glut blasen.], [[ ] erledigt  [ ] geprüft],
   [4], [Plan B immer parat: Zündquellen-Set (siehe Konzept 3.1).], [[ ] erledigt  [ ] geprüft],
+)
+#subhead[Material & Maß (aus diesem Konzept)]
+#table(
+  columns: 2,
+  table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
+  table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [20 min], [rockenem Hartholz; Zeitansatz 20 min/Wdh.; Erfolgskontrolle:],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -1309,8 +1321,10 @@ _Querverweise:_ siehe Konzept 3.1, siehe Konzept 3.2, siehe Konzept B1-8.2. _Erk
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Übungstechnik, kein Alltagsplan], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
+  [Übungsablauf (Reibfeuer, V = 6):], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
 - [ ] Material vollständig (siehe Material & Maß)
@@ -1427,14 +1441,13 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 3.4 Sonnenzündung <k-3-4>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb (Notbehelf, P = 4)_ · P 4 · M unbedenklich · V 8 · Abb. 3.6]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-6.svg", width: 100%), caption: [Abb. 3.6 — Sonnenzündung mit Linse: Brennpunkt auf Zunder – Linse danach abdecken (Konzept 3.4, P = 4 Notbehelf).])]]
 + Linse oder poliertes Metall als Brennpunkt nutzen.
 + Zunder direkt im Brennpunkt halten, bewegen bis Glut.
 + _Linsen-Abdeckung Pflicht:_ Abgedeckte Linse nie in Sonne legen — Brandgefahr (siehe Konzept 9.1).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.4 „Sonnenzündung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Nur als Notbehelf
 - [ ] Linse abgedeckt bei Nichtgebrauch
 #baustein[Die Sonne zündet nur mit Linse und Zunder. Ohne Abdeckung wird die Linse selbst zur Gefahr.]
@@ -1503,6 +1516,7 @@ _Querverweise:_ siehe Konzept 3.2, siehe Konzept 9.1. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -1621,13 +1635,13 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 3.5 Glut-Botschaft <k-3-5>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 6 · M unbedenklich · V 9]
 Glut wird _angeboten, nie verlangt_ — das ist Tausch vor Konflikt (ethische Leitlinie, siehe Konzept B10-2.3).
 + Glut aus der eigenen Glutpfanne in einen tragbaren Behälter (mit Asche bedeckt) geben.
 + Nie die eigene Feuerstelle dafür aufgeben.
 + Empfangende Gruppe stellt eigene Wache (siehe Konzept 9.3).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.5 „Glut-Botschaft“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Angebot freiwillig
 - [ ] Transport mit Asche bedeckt
 #baustein[Glut teilen heißt Nachbarn retten. Verlange nichts dafür.]
@@ -1687,6 +1701,7 @@ _Querverweise:_ siehe Konzept 9.3, siehe Konzept B10-1.1.
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [angeboten, nie verlangt], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -1807,6 +1822,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 4 — Zunder & Feuerbau <kap-4>
+_Ziel des Kapitels:_ Ziel: Zunderkette und Feuerbauten situationsgerecht wählen (Pyramide/Stern/Plattform) — auch im Dauerregen.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Glut transportiert das Feuer ohne Flamme (Asche isoliert); anbieten statt verlangen entspricht der Leitlinie Tausch vor Konflikt (B10-2.3).
 - _Situationsvarianten (wann welche):_ Transport in Blechdose mit Asche bedeckt. Nie die eigene Wache/Feuerstelle dafür aufgeben.
@@ -1820,15 +1836,14 @@ _Erklärung:_
   [4.2], [Feuerbauten], [8], [unbedenklich], [9], [grün], [Abb. 3.8],
   [4.3], [Feuer im Dauerregen], [7], [unbedenklich], [9], [grün], [–],
 )
-#pagebreak(weak: true)
 === 4.1 Zunderkette <k-4-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 3.7]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-7.svg", width: 100%), caption: [Abb. 3.7 — Zunderkette: Zunder → Faschholz → Scheit – das Feuer wächst mit (Konzept 4.1).])]]
 _Zunder → Faschholz → Scheit._ Nie Scheit direkt an die Flamme.
 + Zunder (Birkenrinde, trockenes Gras, Rohrkolbenflaum) zur Glut bringen.
 + Faschholz (dünne Späne) darauf, bis es brennt.
 + Erst dann Kleinholz, dann Scheit (siehe Konzept 4.2).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.1 „Zunderkette“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Reihenfolge eingehalten
 _Querverweise:_ siehe Konzept 4.2, siehe Konzept 3.2. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Die Zunderkette vergrößert die brennende Oberfläche schrittweise: Zunder (niedrige Zündtemperatur) → Faschholz → Kleinholz → Scheit. So erstickt die Glut nicht und das Feuer baut kontrolliert auf.
@@ -1889,6 +1904,7 @@ _Querverweise:_ siehe Konzept 4.2, siehe Konzept 3.2. _Erklärung:_
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Zunder → Faschholz → Scheit.], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -2006,10 +2022,8 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 4.2 Feuerbauten <k-4-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 3.8]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-8.svg", width: 100%), caption: [Abb. 3.8 — Feuerbauten: Pyramide (schnell heiß), Stern (sparsam), Plattform (Dauerregen) (Konzept 4.2).])]]
 #table(
   columns: 3,
@@ -2019,6 +2033,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [Sternfeuer], [sparsam, lange Nacht], [niedrig — Scheite von außen nachschieben],
   [Plattform], [bei Nässe/Dauerregen (siehe 4.3)], [mittel],
 )
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.2 „Feuerbauten“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Bau nach Zweck gewählt
 _Querverweise:_ siehe Konzept 4.3, siehe Konzept 5.1. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Jeder Feuerbau ist ein Kompromiss aus Verbrauch, Stabilität und Wärmeabgabe: Pyramide brennt schnell und hell (gut zum Anfachen), Sternfeuer spart Holz (lange Nacht, Scheite von außen nachschieben), Plattform hebt das Feuer vom nassen Boden (Dauerregen).
@@ -2059,6 +2074,7 @@ _Querverweise:_ siehe Konzept 4.3, siehe Konzept 5.1. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -2176,12 +2192,12 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 4.3 Feuer im Dauerregen <k-4-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 9]
 + Plattform aus trockenem Unterholz bauen (siehe Konzept 4.2).
 + Trockene Zunderkette aus dem Körper-Päck nehmen (Innenseite der Kleidung trocken halten, siehe Konzept B4-6.1).
 + Unter Dach/Überstand arbeiten.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.3 „Feuer im Dauerregen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Plattform gebaut
 - [ ] Trockene Kette aus dem Körper-Päck
 _Querverweise:_ siehe Konzept 4.2, siehe Konzept 3.2, siehe Konzept B4-6.1.
@@ -2239,6 +2255,7 @@ _Querverweise:_ siehe Konzept 4.2, siehe Konzept 3.2, siehe Konzept B4-6.1.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -2358,6 +2375,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 5 — Kochen & Wärme <kap-5>
+_Ziel des Kapitels:_ Ziel: Auf Glut kochen und Wärme in den Schlafbereich reflektieren können — mit Wache und Glut-Disziplin.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Dauerregen: das Feuer braucht eine trockene Plattform und trockene Zunderkette aus dem Körper-Päck; die Abdeckung schützt vor Löschung durch Tropfen.
 - _Situationsvarianten (wann welche):_ Plattform aus Steinen/Grünholz bauen; Zunder in der Innentasche (Kleidung trocken halten, B4-2.1).
@@ -2370,14 +2388,13 @@ _Erklärung:_
   [5.1], [Kochfeuer & Glut], [9], [unbedenklich], [9], [grün], [Abb. 3.9],
   [5.2], [Reflektor & Nacht], [8], [unbedenklich], [9], [grün], [Abb. 3.10],
 )
-#pagebreak(weak: true)
 === 5.1 Kochfeuer & Glut <k-5-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 3.9]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-9.svg", width: 100%), caption: [Abb. 3.9 — Kochfeuer: Topf auf der Glut, nicht in der Flamme – Deckel spart Brennstoff (Konzept 5.1).])]]
 + Glut statt Flamme zum Kochen — gleichmäßige Hitze, weniger Brennstoff.
 + Topf auf Steine über der Glut stellen; Windschutz (siehe Konzept 5.2).
 + Wasser erst aufbereiten (siehe Konzept B2-6.2), dann kochen.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.1 „Kochfeuer & Glut“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Wasser gesotten (siehe Konzept B2-6.2)
 - [ ] Glutkochen bevorzugt
 _Querverweise:_ siehe Konzept B2-6.2, siehe Konzept 5.2. _Erklärung:_
@@ -2438,6 +2455,7 @@ _Querverweise:_ siehe Konzept B2-6.2, siehe Konzept 5.2. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -2555,14 +2573,13 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 5.2 Reflektor & Nacht <k-5-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 3.10]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-10.svg", width: 100%), caption: [Abb. 3.10 — Reflektor & Nacht: Wärmeplatte hinter dem Feuer wirft die Hitze zum Sitzplatz (Konzept 5.2).])]]
 + Reflektor (Alufolie, poliertes Blech) hinter dem Feuer: Wärme in den Schlafbereich.
 + _Wache + Glut-Disziplin über Nacht_ — siehe Konzept 9.3.
 + _Nichts Glimmendes über Nacht im Schlafraum_ — siehe Konzept 6.3 (`warn-3`).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.2 „Reflektor & Nacht“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Reflektor gerichtet
 - [ ] Wache eingeteilt
 - [ ] CO-Regel (6.3) beachtet
@@ -2621,6 +2638,7 @@ _Querverweise:_ siehe Konzept 9.3, siehe Konzept 6.3 (`warn-3`).
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -2740,6 +2758,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 6 — Wärme halten <kap-6>
+_Ziel des Kapitels:_ Ziel: Wärme am Körper halten (Schichten) und punktuell speichern (heiße Steine) — ohne in geschlossene Räume zu heizen (CO, warn-3).
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Ein Reflektor (Alufolie, poliertes Blech) wirft die Wärmestrahlung in den Schlafbereich zurück — der Wirkungsgrad steigt ohne mehr Brennstoff. Nacht: Wache + Glut-Disziplin (9.3).
 - _Situationsvarianten (wann welche):_ Reflektor hinter dem Feuer, schräg zum Schlafplatz. Stadt: keine offene Flamme in der Wohnung (6.3, warn-3).
@@ -2753,15 +2772,14 @@ _Erklärung:_
   [6.2], [Heiße Steine], [7], [unbedenklich], [9], [grün], [Abb. 3.12],
   [6.3], [Ofenlose Not-Heizung], [6], [unbedenklich], [8], [gelb], [Abb. 3.13],
 )
-#pagebreak(weak: true)
 === 6.1 Wärmepaket (Schichten) <k-6-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 3.11]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-11.svg", width: 100%), caption: [Abb. 3.11 — Wärmepaket (Schichtenprinzip): innen trocken – außen winddicht, Feuchte nach außen (Konzept 6.1, konsistent B4 2.1).])]]
 Konsistent mit Konzept B4-2.1: Schichtenprinzip — innen trocken, Mitte isolierend (Wolle, Daune, trockenes Gras), außen wetterfest.
 + Innenschicht: trocken halten.
 + Isolationsschicht: so dick wie möglich.
 + Außenschicht: winddicht, nicht dampfdicht (Feuchtigkeit muss raus, siehe Konzept B4-6.3).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.1 „Wärmepaket (Schichten)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Innen trocken
 - [ ] Isolation ausreichend
 _Querverweise:_ siehe Konzept B4-2.1, siehe Konzept B4-6.3. _Erklärung:_
@@ -2822,6 +2840,7 @@ _Querverweise:_ siehe Konzept B4-2.1, siehe Konzept B4-6.3. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -2939,14 +2958,13 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 6.2 Heiße Steine <k-6-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 9 · Abb. 3.12]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-12.svg", width: 100%), caption: [Abb. 3.12 — Heiße Steine: dichte Steine in der Glut erhitzen, einwickeln, mit in den Schlafsack (Konzept 6.2).])]]
 + Dichte, trockene Steine (Granit, Basalt) im Feuer erhitzen.
 + Heiße Steine mit Zange/Stöcken in den Schlafbereich tragen, in Tuch gewickelt.
 + _Nie nasse Steine in die Flamme_ — sie platzen (WARN, siehe Konzept B9-3.1 zur Steinbruchgefahr allgemein).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.2 „Heiße Steine“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Steine trocken
 - [ ] Nie nass in Flamme
 #baustein[Trockener Stein gibt Wärme ab. Nasser Stein explodiert.]
@@ -3008,6 +3026,7 @@ _Querverweise:_ siehe Konzept B9-3.1. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -3126,17 +3145,16 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 6.3 Ofenlose Not-Heizung <k-6-3>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb + WARNRAHMEN [warn-3]_ · P 6 · M unbedenklich · V 8 · Abb. 3.13]
-#pagebreak(weak: true)
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-13.svg", width: 100%), caption: [Abb. 3.13 — Ofenlose Not-Heizung: keine Verbrennung in geschlossenen Räumen – CO ist geruchlos und tödlich (Konzept 6.3, , warn-3).])]]
+#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-13.svg", width: 100%), caption: [Abb. 3.13 — Ofenlose Not-Heizung: keine Verbrennung in geschlossenen Räumen – CO ist geruchlos und tödlich (Konzept 6.3, warn-3).])]]
 #warnrahmen(id: "warn-3", title: [KOHLENMONOXID (CO), geruchlos, tödlich (verschärft):])[_Keine Verbrennung in geschlossenen oder teilgeschlossenen Räumen_ — ein Zelt ist ein geschlossener Raum. Gilt für: Kohlegrill, Benzinkocher, Generator, Motorsäge, Auto. _Nie über Nacht im Schlafraum betreiben._ Zug prüfen (Kerzenflamme muss stehen). Kopfschmerz/Schwindel/Übelkeit bei _mehreren Personen gleichzeitig = Alarm_: sofort lüften, alle raus, Sperrung bis Zug geprüft. CO-Melder (Batterie) wenn vorhanden.]
 + Behelfsheizung (Terrakotta-Topf über Kerze, Steinöfchen) nur im Freien oder am offenen Eingang mit Durchzug.
 + Brennstoff nur so viel wie nötig; nie zum Schlafen anlassen.
 + Symptome kennen: Kopfschmerz, Schwindel, Übelkeit, Benommenheit.
 + Bei Verdacht: Frischluft, ärztliche Vorstellung (siehe Konzept B8-4.3, Atem-Not).
 _Stadt / Land:_ Land = Hütte/Zelt mit Ofen außen oder offenem Eingang. _Stadt (Wohnung):_ die Wohnung ist ein _geschlossener Raum_ — dort verbrennst du _nichts_, auch keine Kerze über Nacht unbeaufsichtigt. Wärme in der Stadt: Wärmepaket (siehe 6.1), Schichten (siehe B4-2.1), heiße Steine nur _draußen_ am Balkon/ Hof erwärmt und herein getragen (siehe 6.2), Kerze nur mit Abstand zu brennbaren Dingen und nie allein gelassen.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.3 „Ofenlose Not-Heizung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Keine Verbrennung im geschlossenen Raum
 - [ ] Nie über Nacht im Schlafraum
 - [ ] Zug geprüft
@@ -3208,6 +3226,7 @@ _Querverweise:_ siehe Konzept B4-6.3, Lüftung — Querverweis CO, siehe Konzept
   [geschlossener Raum], [siehe Glossar, Anhang D Band 1],
   [nichts], [siehe Glossar, Anhang D Band 1],
   [draußen], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -3328,6 +3347,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 7 — Brennstoff-Logistik <kap-7>
+_Ziel des Kapitels:_ Ziel: Den Brennstoffbedarf berechnen (Ster, kg/Tag) und realistisch bevorraten können.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Jede unvollständige Verbrennung produziert CO (geruchlos, bindet stärker an Hämoglobin als Sauerstoff → innere Erstickung). Ein Zelt ist ein geschlossener Raum. Mehrere Betroffene gleichzeitig = typisches CO-Muster (Alarm).
 - _Situationsvarianten (wann welche):_ Land: Ofen außen, Zelt mit Zug. Stadt: Wohnung = geschlossener Raum — dort verbrennst du nichts; Wärme über Schichten (6.1), heiße Steine nur von draußen herein (6.2), Kerze nur beaufsichtigt mit Abstand.
@@ -3340,15 +3360,14 @@ _Erklärung:_
   [7.1], [Holzvorrat & Stock-Rechnung], [9], [unbedenklich], [9], [grün], [Abb. 3.14],
   [7.2], [Torf / Dung], [6], [prüfenswert], [8], [gelb], [–],
 )
-#pagebreak(weak: true)
 === 7.1 Holzvorrat & Stock-Rechnung <k-7-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 3.14]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-14.svg", width: 100%), caption: [Abb. 3.14 — Holzvorrat & Stock-Rechnung: 1 Ster ≈ 300–350 kg – Winter-Tag 25–35 kg (Konzept 7.1).])]]
 Werte : 1 Ster ≈ 300–350 kg; Winter-Tag 25–35 kg.
 + Vorrat = Tage × 25–35 kg (konservativ 35 kg).
 + 1 Ster = 1 m³ geschichtet; trocken lagern (siehe Konzept B9-3.2).
 + Anzündholz separat trocken lagern (siehe Konzept 3.1).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.1 „Holzvorrat & Stock-Rechnung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Vorrat gerechnet
 - [ ] Trockenlager vorhanden
 _Querverweise:_ siehe Konzept 2.2, siehe Konzept B9-3.2. _Erklärung:_
@@ -3418,6 +3437,7 @@ _Querverweise:_ siehe Konzept 2.2, siehe Konzept B9-3.2. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -3535,11 +3555,11 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 7.2 Torf / Dung <k-7-2>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb_ · P 6 · M prüfenswert · V 8]
 Nur im _Notstand_, nur _oberflächlich_ abtaken, nur _nach Vereinbarung_ mit dem Grundstückseigentümer (siehe Konzept B10-5.2).
 #warnrahmen()[Moor-Schwelbrand-Gefahr — Torf glimmt unter der Oberfläche tagelang weiter.]
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.2 „Torf / Dung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Nur Notstand
 - [ ] Nur oberflächlich
 - [ ] Vereinbarung getroffen
@@ -3583,6 +3603,7 @@ _Querverweise:_ siehe Konzept B10-5.2, siehe Konzept B7-4.2, Torf nur gemischt b
   [oberflächlich], [siehe Glossar, Anhang D Band 1],
   [nach Vereinbarung], [siehe Glossar, Anhang D Band 1],
   [WARNUNG:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -3702,6 +3723,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 8 — Holzkohle & Asche <kap-8>
+_Ziel des Kapitels:_ Ziel: Aus Holz Holzkohle gewinnen und Asche sicher handhaben (24-h-Ruhen, Lauge) können.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Torf und Dung brennen nur, wenn sie trocken sind; Torf kann im Moor tagelang schwelend weiterglimmen (unkontrollierbarer Schwelbrand). Nur oberflächlich abtaken, nie austiefen.
 - _Situationsvarianten (wann welche):_ Nur im absoluten Notstand und nach Vereinbarung mit dem Eigentümer (B10-5.2). Gemischt mit HolzImprovisation.
@@ -3714,14 +3736,13 @@ _Erklärung:_
   [8.1], [Holzkohle-Meiler], [7], [unbedenklich], [8], [grün], [Abb. 3.15],
   [8.2], [Asche-Ordnung], [9], [unbedenklich], [9], [grün], [Abb. 3.16],
 )
-#pagebreak(weak: true)
 === 8.1 Holzkohle-Meiler <k-8-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 8 · Abb. 3.15]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-15.svg", width: 100%), caption: [Abb. 3.15 — Holzkohle-Meiler: Rauchfarbe ist die Uhr – weiß → grau → bläulich = fertig (Konzept 8.1).])]]
 + Grube 1 m Durchmesser, 50 cm tief; luftarme Abdeckung (Blech, feuchte Erde).
 + _Rauchfarben als Uhr:_ dichter weißer Rauch = Anfang; bläulicher Rauch = Ende — abdecken, ausglühen lassen.
 + Ausbeute: \~ 20–30 % des Holzvolumens.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.1 „Holzkohle-Meiler“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Rauchfarbe beobachtet
 - [ ] Luftabschluss am Ende
 _Querverweise:_ siehe Konzept B7-7.2, Holzkohle-Anwendung. _Erklärung:_
@@ -3790,6 +3811,7 @@ _Querverweise:_ siehe Konzept B7-7.2, Holzkohle-Anwendung. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -3907,14 +3929,13 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 8.2 Asche-Ordnung <k-8-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 3.16]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-16.svg", width: 100%), caption: [Abb. 3.16 — Asche-Ordnung: 24 h ruhen lassen, dann Lauge – 2 Hände Asche auf 10 l Wasser (Konzept 8.2).])]]
 + Asche _24 h auskühlen lassen_ vor der Entsorgung/Lagerung.
 + Lauge: _2 Hände Asche auf 10 l Wasser_ — Waschlauge (siehe Konzept B4-9.2 Grauwasser: Lauge nie an Haut/Wunden).
 + Torf-/Salzasche getrennt sammeln.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.2 „Asche-Ordnung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] 24-h-Ruhen eingehalten
 - [ ] Laugenverhältnis 2:10
 #baustein[Heiße Asche täuscht. 24 Stunden warten, dann erst anfassen.]
@@ -3973,6 +3994,7 @@ _Querverweise:_ siehe Konzept B2-9.2, siehe Konzept B7-7.2, Seife aus Asche/Laug
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -4093,6 +4115,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 #pagebreak(weak: true)
 == Kapitel 9 — Brandgefahr & Bekämpfung <kap-9>
+_Ziel des Kapitels:_ Ziel: Entstehungsbrände in 60 Sekunden bekämpfen können und das Notzeichen (3 Feuer) sicher einsetzen.
 _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Frische Asche enthält Glutnester — 24 h Ruhen verhindert Schwelbrand im Abfall. Aschelauge (2 Hände Asche/10 l) ist Lauge für Wäsche/Seife (B7-7.2).
 - _Situationsvarianten (wann welche):_ Getrennt sammeln (Torfasche/Salzasche nicht mischen). In Metallbehälter mit Deckel.
@@ -4106,15 +4129,14 @@ _Erklärung:_
   [9.2], [Signalfeuer (3 Feuer = Notzeichen)], [7], [unbedenklich], [9], [grün], [Abb. 3.18],
   [9.3], [Feuerwache (Zwei-Personen-Regel)], [8], [unbedenklich], [9], [grün], [–],
 )
-#pagebreak(weak: true)
 === 9.1 Brandbekämpfung (60-Sekunden-Regel) <k-9-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9 · Abb. 3.17]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-17.svg", width: 100%), caption: [Abb. 3.17 — Brandbekämpfung – 60-Sekunden-Regel: klein entdecken, klein löschen (Konzept 9.1, konsistent B1 2.1 STOPP).])]]
 Konsistent mit Konzept B1-2.1, STOPP.
 + _Innerhalb 60 Sekunden_ löschen oder Lage sichern — sonst Rückzug.
 + Wasser, Sand, Erde, nasse Decke — nie brennendes Fett mit Wasser (siehe Konzept B9-7.3: nie Öl in Wassereimer, Dampfexplosion).
 + Fluchtweg immer frei halten (siehe Konzept B1-6.2).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.1 „Brandbekämpfung (60-Sekunden-Regel)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] 60-Sekunden-Regel bekannt
 - [ ] Löschmittel bereit (Eimer am Eingang, siehe Konzept B10-7.1)
 #baustein[Eine Minute entscheidet. Was in 60 Sekunden nicht löscht, bekämpfst du nicht mehr allein.]
@@ -4183,6 +4205,7 @@ _Querverweise:_ siehe Konzept B1-2.1, siehe Konzept 1.2, siehe Konzept B10-7.1. 
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
@@ -4301,12 +4324,11 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 9.2 Signalfeuer (3 Feuer = Notzeichen) <k-9-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 9 · Abb. 3.18]
-#pagebreak(weak: true)
 #align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-3-18.svg", width: 100%), caption: [Abb. 3.18 — Signalfeuer: drei Feuer im Dreieck = internationales Notzeichen (Konzept 9.2).])]]
 Drei Feuer in Dreiecksanordnung = internationales Notzeichen (siehe Konzept B1-5.1). Nie als Dauerzustand — Brennstoff (siehe Konzept 7.1) und Brandgefahr (siehe Konzept 9.1).
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.2 „Signalfeuer (3 Feuer = Notzeichen)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Dreieck-Anordnung
 - [ ] Brennstoffvorrat für Signalfeuer eingeplant
 _Querverweise:_ siehe Konzept B1-5.1, siehe Konzept 7.1, siehe Konzept 9.1. _Erklärung:_
@@ -4348,6 +4370,7 @@ _Querverweise:_ siehe Konzept B1-5.1, siehe Konzept 7.1, siehe Konzept 9.1. _Erk
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -4465,13 +4488,13 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [43], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
-#pagebreak(weak: true)
 === 9.3 Feuerwache (Zwei-Personen-Regel) <k-9-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9]
 Konsistent mit Band 10: Feuer wird nie von einer Person allein bewacht.
 + Zwei Personen pro Wache, Ablösung nach Plan (siehe Konzept B1-2.3).
 + Wache hat Löschmittel griffbereit (siehe Konzept 9.1).
 + Protokoll: Anhang A Band 3.
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.3 „Feuerwache (Zwei-Personen-Regel)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Zwei-Personen-Regel eingehalten
 - [ ] Ablöse im Plan
 _Querverweise:_ siehe Konzept B1-2.3, siehe Konzept 9.1, siehe Konzept 1.1.
@@ -4529,6 +4552,7 @@ _Querverweise:_ siehe Konzept B1-2.3, siehe Konzept 9.1, siehe Konzept 1.1.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
 #subhead[Checkliste Einsatz]
@@ -4719,7 +4743,21 @@ Kopiervorlage zu Konzept 7.1 — Tage × 35 kg = Soll in kg und Ster.
 )
 #pagebreak(weak: true)
 == Anhang C — Übungsplan (Band 3) <anh-C>
-Q1 siehe Konzept B1-8.1: Zündquellen-Inventar (3.1), Feuerstahl (3.2), Reibfeuer als Übungstechnik (3.3, V = 6 → Übungspflicht), Feuerbauten (4.2), 60-Sekunden-Regel (9.1). Verfalluhr 12 Monate (siehe Konzept B1-8.2).
+_Übungsablauf (verbindlich für jede Übung in diesem Band):_
++ _Vorbereitung (10 min):_ Material und Protokollbogen (Anhang A4 / B1-8.2) bereitlegen; Warnrahmen des Konzepts durchlesen; bei Outdoor-Übung Wetter prüfen (B1-4.4).
++ _Durchführung:_ die nummerierten Schritte des Konzepts exakt in der dortigen Reihenfolge ausführen — keine Abkürzungen.
++ _Wiederholungen:_ jede Übung mindestens 3× hintereinander; Konzepte mit V \< 6 mindestens 5× (z. B. in diesem Band siehe Liste unten).
++ _Zeitansatz:_ 45–90 min pro Übungseinheit, maximal 2 Einheiten pro Tag — Ermüdung verfälscht das Ergebnis.
++ _Beobachten (Erfolgskontrolle):_ das messbare Kriterium der Übung notieren (Zeit, Maß, Trefferquote, Temperatur) — ohne Messung ist die Übung nicht bestanden.
++ _Abbruchkriterien:_ Abbruch sofort bei Verletzung, Wetterumschwung, Materialbruch, Schmerzen (z. B. Augen beim Schweißen) oder wenn nach 3 Durchgängen kein Fortschritt erkennbar ist. Abbruch dokumentieren — nicht schönreden.
++ _Protokoll (B1-8.2):_ Datum, Konzept-Nr., Wiederholungen, Zeitansatz, Beobachtung/Erfolgskontrolle, V-Bewertung, Verfalldatum (Datum + 12 Monate).
+_Band-spezifische Übungen (Vorrang, mit Erfolgskontrolle):_
+- Zündquellen-Set testen (3.1): 1× pro Set, Erfolg: jedes Set zündet in \< 30 s
+- Feuerstahl + Zunder (3.2): 5×, Erfolg: Glut im Nest in \< 1 min
+- Reibfeuer (3.3, V = 6 → 5 Wdh.): Erfolg: Glutstaub in der Kerbe; Abbruch bei Sehnenreizung/Handblasen
+- Feuerbauten vergleichen (4.2): Pyramide/Stern/Plattform je 1×, Erfolg: Brennzeit gemessen, Verbrauch notiert
+- 60-Sekunden-Löschübung (9.1): 3× mit Eimer/Wasser, Erfolg: Übungsfeuer in \< 60 s gelöscht
+Verfalluhr: 12 Monate ohne Wiederholung = Fähigkeit verfallen (siehe B1-8.2). Zündquellen-Inventar (3.1), Feuerstahl (3.2), Reibfeuer als Übungstechnik (3.3, V = 6 → Übungspflicht), Feuerbauten (4.2), 60-Sekunden-Regel (9.1). Verfalluhr 12 Monate (siehe Konzept B1-8.2).
 #pagebreak(weak: true)
 == Bandabschluss Band 3 — Bewertungsmatrix + Devise <abschluss>
 #table(
@@ -4760,11 +4798,11 @@ _Erklärung:_
 == Situative Detail-Skizzen (Review v1) <skizzen-v1>
 Situative Skizzen zu Varianten und Situationen (mit Maßen und Kontext) — ergänzt nach Review v1, Befund 3.
 #grid(columns: (1fr, 1fr), column-gutter: 8pt, row-gutter: 8pt,
-  figure(image("illustrationen/abb-3-19.svg", width: 100%), caption: [Abb. 3.19 — Sternfeuer (Draufsicht): sparsam, lange Brenndauer – Arme 60–80 cm, Ø 8–12 cm, Glut in der Mitte (Variante zu Abb. 3.8, Review v1).]),
-  figure(image("illustrationen/abb-3-20.svg", width: 100%), caption: [Abb. 3.20 — Tipi-/Pyramidenfeuer (Seitenansicht): schnell heiß – Grundfläche 40 × 40 cm, Höhe \~ 50 cm, Zunder innen (Variante zu Abb. 3.8, Review v1).]),
-  figure(image("illustrationen/abb-3-21.svg", width: 100%), caption: [Abb. 3.21 — Jägerfeuer / Reflektorfeuer: zwei Stämme 1 m lang, 30 cm Abstand – Wärme reflektiert zum Liegen (Variante zu Abb. 3.10, Review v1).]),
-  figure(image("illustrationen/abb-3-22.svg", width: 100%), caption: [Abb. 3.22 — Wärmefeuer über Nacht (Banked Fire): Glut mit Asche/Erde 10 cm bedecken – morgens aufdecken und anblasen (Review v1).]),
-  figure(image("illustrationen/abb-3-23.svg", width: 100%), caption: [Abb. 3.23 — Situationsmatrix Feuerbau: welche Variante bei welchem Wetter – Wind, Nässe, Kälte, wenig Holz (Review v1).]))
+  figure(image("illustrationen/abb-3-19.svg", width: 100%), caption: [Abb. 3.19 — Sternfeuer (Draufsicht): sparsam, lange Brenndauer – Arme 60–80 cm, Ø 8–12 cm, Glut in der Mitte (Variante zu Abb. 3.8).]),
+  figure(image("illustrationen/abb-3-20.svg", width: 100%), caption: [Abb. 3.20 — Tipi-/Pyramidenfeuer (Seitenansicht): schnell heiß – Grundfläche 40 × 40 cm, Höhe \~ 50 cm, Zunder innen (Variante zu Abb. 3.8).]),
+  figure(image("illustrationen/abb-3-21.svg", width: 100%), caption: [Abb. 3.21 — Jägerfeuer / Reflektorfeuer: zwei Stämme 1 m lang, 30 cm Abstand – Wärme reflektiert zum Liegen (Variante zu Abb. 3.10).]),
+  figure(image("illustrationen/abb-3-22.svg", width: 100%), caption: [Abb. 3.22 — Wärmefeuer über Nacht (Banked Fire): Glut mit Asche/Erde 10 cm bedecken – morgens aufdecken und anblasen.]),
+  figure(image("illustrationen/abb-3-23.svg", width: 100%), caption: [Abb. 3.23 — Situationsmatrix Feuerbau: welche Variante bei welchem Wetter – Wind, Nässe, Kälte, wenig Holz.]))
 #pagebreak(weak: true)
 == Gesamt-Checkliste Band 3 <gesamt-checkliste>
 Alle Konzepte dieses Bandes im Überblick — abhaken, wenn geübt/gelesen:
@@ -4849,7 +4887,7 @@ Interne Prüf-IDs aus dem Factcheck (dreifache Prüfung). Sie stehen nicht im Le
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [W24], [2.2], [Werte : _1 Ster ≈ 300–350 kg_ — das ist der],
   [W28], [2.2], [Werte : _1 Ster ≈ 300–350 kg_ — das ist der kons],
-  [W14], [6.3], [3) — KOHLENMONOXID (CO), geruchlos, tödlich (09 Nr. 2, verschärft):_ _Keine Verbrennun],
+  [W14], [6.3], [3) — KOHLENMONOXID (CO), geruchlos, tödlich (verschärft):_ _Keine Verbrennun],
   [W24], [7.1], [Werte : 1 Ster ≈ 300–350 kg; Winter-Tag 25–35 kg.],
 )
 

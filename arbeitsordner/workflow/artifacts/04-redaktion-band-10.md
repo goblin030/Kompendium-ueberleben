@@ -8,9 +8,16 @@ Warnungen umgesetzt: 5.1 `warn-10a` (Furt), 7.1 `warn-10b` (Brand im Zeughaus). 
 
 ## Kapitel 1 — Ethik des Miteinander
 
+**Ziel des Kapitels:** Ziel: Die Grundregeln des Miteinanders — Gabe nie mahnen, Vertrag mit Zeugen, Ehrenplatz beim Mahl.
+
+
 ### 1.1 Schuld & Geschenk — grün · P 9 · M unbedenklich · V 9
 
 **Gabe nie mahnen** — eine Gabe bleibt Gabe. Schuld mit Frist am Blatt (siehe Konzept 1.2).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.1 „Schuld & Geschenk“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Gaben nicht eingefordert
 - [ ] Schulden mit Frist schriftlich
@@ -27,6 +34,10 @@ Warnungen umgesetzt: 5.1 `warn-10a` (Furt), 7.1 `warn-10b` (Brand im Zeughaus). 
 
 **Zwei Zeugen + Frist** — mündlich gilt, schriftlich hält. Protokoll: Anhang A Band 10 (Tausch-Protokoll mit Zeugen).
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.2 „Wort & Vertrag“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Zwei Zeugen dabei
 - [ ] Frist notiert
 
@@ -40,6 +51,10 @@ Warnungen umgesetzt: 5.1 `warn-10a` (Furt), 7.1 `warn-10b` (Brand im Zeughaus). 
 
 Gäste sitzen auf dem Ehrenplatz (wärmster/sicherster Platz, beste Portion). Gastgeber isst zuletzt.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 1.3 „Das Mahl (Ehren-Platz-Regel)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Ehrenplatz-Regel bekannt
 
 **Querverweise:** siehe Konzept 5.2.
@@ -47,6 +62,9 @@ Gäste sitzen auf dem Ehrenplatz (wärmster/sicherster Platz, beste Portion). Ga
 ---
 
 ## Kapitel 2 — Tausch
+
+**Ziel des Kapitels:** Ziel: Tausch fair und transparent machen: Wert-Korridor, ehrliche Waage, Markt mit Fristen, Wucher-Grenzen (§§ 291 StGB/138 BGB).
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Das gemeinsame Mahl ist soziales Kapital: Ehrenplatz für Gäste (wärmster Platz, beste Portion), Gastgeber isst zuletzt — signalisiert Großzügigkeit und Schutz.
@@ -60,6 +78,10 @@ Gäste sitzen auf dem Ehrenplatz (wärmster/sicherster Platz, beste Portion). Ga
 2. Seltenheit: was nicht verfügbar ist, steigt.
 3. Not: in der Not zählt der Bedarf, nicht der Preis (siehe Konzept 2.4).
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.1 „Der Wert“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Korridor angewendet
 
 **Querverweise:** siehe Konzept B1-7.1, siehe Konzept 2.2, siehe Konzept 2.4, siehe Konzept 3.2.
@@ -71,6 +93,10 @@ Gäste sitzen auf dem Ehrenplatz (wärmster/sicherster Platz, beste Portion). Ga
 ### 2.2 Ehrliche Waage — grün · P 7 · M unbedenklich · V 8 · Abb. 10.2
 
 **Gestriche n messen** (randvoll, nicht gehäuft); **Bürger-Maß** (bekanntes Gefäß als Referenz). Waage balanciert prüfen.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.2 „Ehrliche Waage“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Gestrichen gemessen
 - [ ] Referenzmaß geeicht
@@ -84,6 +110,10 @@ Gäste sitzen auf dem Ehrenplatz (wärmster/sicherster Platz, beste Portion). Ga
 ### 2.3 Tausch-Platz — **gelb (prüfenswert)** · P 7 · M prüfenswert · V 8
 
 Markt mit **Fristen** (Anfang/Ende angesagt); Ordnung aufrechterhalten (Wachen, siehe Konzept B3-9.3 und Konzept B1-9.2).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.3 „Tausch-Platz“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Markt-Fristen angesagt
 - [ ] Ordnungsposten besetzt
@@ -100,6 +130,10 @@ Markt mit **Fristen** (Anfang/Ende angesagt); Ordnung aufrechterhalten (Wachen, 
 
 > **Rechtlich:** **§ 291 StGB** (Wucher strafbar bei Ausbeutung der Zwangslage + krassem Missverhältnis), **§ 138 Abs. 2 BGB** (Sittenwidrigkeit → Nichtigkeit). Leitlinie: Tausch vor Behalten, faire Korridore (siehe Konzept 2.1).
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 2.4 „Wucher“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Not-Preis nur nach der Not
 - [ ] §§ 291 StGB / 138 Abs. 2 BGB bekannt
 
@@ -108,6 +142,9 @@ Markt mit **Fristen** (Anfang/Ende angesagt); Ordnung aufrechterhalten (Wachen, 
 ---
 
 ## Kapitel 3 — Handels-Ware
+
+**Ziel des Kapitels:** Ziel: Nur haltbare Ware handeln und Arbeit über Stunden-Tafel bewerten.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Wucher (krasses Missverhältnis in Zwangslage) ist strafbar (§ 291 StGB) und der Vertrag nichtig (§ 138 Abs. 2 BGB). Ethisch ok ist der Not-Preis nach der Not — aber im Korridor (2.1) bleiben.
@@ -116,6 +153,10 @@ Markt mit **Fristen** (Anfang/Ende angesagt); Ordnung aufrechterhalten (Wachen, 
 ### 3.1 Ware des Hauses — grün · P 7 · M unbedenklich · V 8
 
 Nur **haltbare Ware** handeln (siehe Band 7, sechs Wege, Konzept B7-2.2): Dörrware, Gesalzenes, Eingekochtes (siehe Konzept B7-6.2k), Getreide, Salz (Herkunft bekannt, siehe Konzept B7-5.1 `warn-7c`).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.1 „Ware des Hauses“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Nur haltbare Ware
 
@@ -129,6 +170,10 @@ Nur **haltbare Ware** handeln (siehe Band 7, sechs Wege, Konzept B7-2.2): Dörrw
 
 **Stunden-Tafel 1:1** — eine Stunde Arbeit gegen eine Stunde Ware (siehe Konzept 2.1).
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 3.2 „Ware der Hand“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Stunden-Tafel geführt
 
 **Querverweise:** siehe Konzept 2.1, siehe Konzept B9-9.1, Weitergabe.
@@ -136,6 +181,9 @@ Nur **haltbare Ware** handeln (siehe Band 7, sechs Wege, Konzept B7-2.2): Dörrw
 ---
 
 ## Kapitel 4 — Dorf: Ämter, Rat, Ordnung
+
+**Ziel des Kapitels:** Ziel: Das Dorf bzw. die Nachbarschaft organisieren: Ämter rotierend/doppelt, Rat nach Klage und Zeugen, keine Selbstjustiz (§ 32 StGB).
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Ware der Hand: Arbeit gegen Ware, Stunden-Tafel 1:1 (2.1). Damit ist Handwerk bewertbar und tauschbar.
@@ -146,6 +194,10 @@ Nur **haltbare Ware** handeln (siehe Band 7, sechs Wege, Konzept B7-2.2): Dörrw
 **Amt an die Hand, nicht an das Blut** — Ämter rotieren, doppelt besetzt (siehe Konzept B1-9.2).
 
 **Stadt / Land:** Land = Dorfgemeinschaft auf dem Land. **Stadt:** dasselbe auf Nachbarschaft/Stockwerk — Rat der Nachbarn (siehe 4.2), Ämter rotieren pro Haushalt, Tauschplatz im Treppenhaus oder Hof (siehe 2.3), gemeinsamer Vorrat im kühlen Treppenhaus (siehe B7-8.1), Wachplan für das Haus (siehe B1-9.2).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.1 „Ämter des Dorfes“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Ämter vergeben und doppelt besetzt
 - [ ] Rotation geplant
@@ -161,6 +213,10 @@ Nur **haltbare Ware** handeln (siehe Band 7, sechs Wege, Konzept B7-2.2): Dörrw
 Streit nach **Klage und Zeugen** (siehe Konzept 1.2), **nie Rache**.
 
 > **Rechtlich (09 §4.6):** **Notwehr nur § 32 StGB** — bei gegenwärtigem rechtswidrigem Angriff und verhältnismäßig. **Selbstjustiz strafbar.** Keine Präventivgewalt, keine Rachegewalt.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.2 „Rat & Streit“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Klage + Zeugen vor Entscheidung
 - [ ] Nie Rache
@@ -178,6 +234,10 @@ Streit nach **Klage und Zeugen** (siehe Konzept 1.2), **nie Rache**.
 
 **Aus voller Kammer, nie aus der Not** — der Zehnte (10 %) der Erträge geht in die Reserve (siehe Konzept B7-9.1, Winter-Rechnung).
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 4.3 „Reserve: der Zehnte“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Zehnte aus voller Kammer
 
 **Querverweise:** siehe Konzept B7-9.1, siehe Konzept 8.3.
@@ -185,6 +245,9 @@ Streit nach **Klage und Zeugen** (siehe Konzept 1.2), **nie Rache**.
 ---
 
 ## Kapitel 5 — Straße & Gäste
+
+**Ziel des Kapitels:** Ziel: Sicher unterwegs und mit Gästen umgehen: Furt-Regeln (warn-10a), nie allein empfangen, rechtliche Leitplanken (§§ 34/35/123 StGB).
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Der Zehnte (10 % der Erträge) aus voller Kammer — nie aus der Not — ist die Gruppen-Reserve für harte Zeiten (B7-9.1) und Geschenke (1.1).
@@ -193,6 +256,10 @@ Streit nach **Klage und Zeugen** (siehe Konzept 1.2), **nie Rache**.
 ### 5.1 Weg-Kunde / Furt — **gelb + WARNRAHMEN [warn-10a]** · P 7 · M prüfenswert · V 8 · Abb. 10.4
 
 > **WARNRAHMEN [warn-10a] — FURT:** **Stab an 3 Stellen prüfen** (Tiefe, Grund, Strömung), **nie über Kniehöhe mit Last** durchwaten, **nie im Dunkeln** (siehe Konzept B4-9.2, Restlicht-1-h). Umgehung suchen, wenn eine Stelle zweifelhaft ist.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.1 „Weg-Kunde / Furt“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Stab-Prüfung an 3 Stellen
 - [ ] Nie über Knie mit Last
@@ -215,6 +282,10 @@ Streit nach **Klage und Zeugen** (siehe Konzept 1.2), **nie Rache**.
 
 > **Rechtlich (09 §4.6):** **Notstand §§ 34/35 StGB** — Eigentumseingriff bei Lebensgefahr ist gerechtfertigt/entschuldigt (siehe Konzept B4-8.1). **Hausrecht § 123 StGB** — Eindringen in Wohnungen verboten, Abwehr erlaubt. **Keine Präventivgewalt.** Deeskalation zuerst (siehe Konzept 4.2).
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.2 „Gast & Fremder“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Nie allein empfangen
 - [ ] Mitgebrachtes geprüft
 - [ ] §§ 34/35/123 StGB bekannt
@@ -229,6 +300,10 @@ Streit nach **Klage und Zeugen** (siehe Konzept 1.2), **nie Rache**.
 
 **Einer vorn, einer hinten** — nie allein los (siehe Konzept B1-5.2, +60-min-Regel).
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 5.3 „Trupp“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Trupp doppelt besetzt
 - [ ] +60-min-Regel aktiv (siehe Konzept B1-5.2)
 
@@ -237,6 +312,9 @@ Streit nach **Klage und Zeugen** (siehe Konzept 1.2), **nie Rache**.
 ---
 
 ## Kapitel 6 — Feuerprobe des Kompendiums
+
+**Ziel des Kapitels:** Ziel: Die Feuerprobe des ganzen Kompendiums und die Werkstatt-Prüfung mit Zeugen durchführen können.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Trupp: einer vorn, einer hinten — niemand geht allein verloren; +60-min-Regel (B1-5.2) startet die Suche.
@@ -249,6 +327,10 @@ Die Feuerprobe prüft **alle Bände 1–9** im Ring der Reihe (jedes Konzept wir
 1. Jeder Band 1–9 wird mit seinem Fragenkatalog geprüft (Anhang Band 10).
 2. Wer eine Frage nicht beantworten kann, übt nach (siehe Konzept B1-8.2, Verfalluhr 12 Monate).
 3. Ergebnis im Protokoll (siehe Konzept B1-9.1).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.1 „Feuerprobe (Ring der Reihe)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Alle 9 Bände durchgeprüft
 - [ ] Lücken als Übungspflicht notiert (siehe Konzept B1-8.2)
@@ -265,6 +347,10 @@ Die Feuerprobe prüft **alle Bände 1–9** im Ring der Reihe (jedes Konzept wir
 
 **Zwei Nachbarn zeugen** die Werkstatt-Prüfung (siehe Konzept B9-9.1, Weitergabe dreifach gesichert).
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 6.2 „Prüfung der Werkstatt“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Zwei Zeugen anwesend
 
 **Querverweise:** siehe Konzept B9-9.1.
@@ -272,6 +358,9 @@ Die Feuerprobe prüft **alle Bände 1–9** im Ring der Reihe (jedes Konzept wir
 ---
 
 ## Kapitel 7 — Rüsten: Zeughaus & Bewahren
+
+**Ziel des Kapitels:** Ziel: Zeughaus brand-sicher führen (warn-10b) und Wissen in vier Schichten bewahren.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Die Werkstatt-Prüfung mit zwei Nachbarn als Zeugen macht Qualität nachprüfbar und verhindert Pfusch (B9-9.1 dreifach gesichert).
@@ -280,6 +369,10 @@ Die Feuerprobe prüft **alle Bände 1–9** im Ring der Reihe (jedes Konzept wir
 ### 7.1 Zeug-Haus — grün + **WARNRAHMEN [warn-10b]** · P 9 · M unbedenklich · V 8 · Abb. 10.6
 
 > **WARNRAHMEN [warn-10b] — BRAND IM ZEUGHAUS:** **Kein offenes Licht** im Zeughaus (Lampe außen oder elektrisch nicht vorhanden — Kerze/Laterne nur am Eingang). **Ofen außen**, Eimer mit Wasser am Eingang (siehe Konzept B3-9.1). Abstände konsistent mit Konzept B3-1.2: 2–3 m frei, 4–6 m zu Unterkünften.
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.1 „Zeug-Haus“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Kein offenes Licht innen
 - [ ] Ofen außen
@@ -296,6 +389,10 @@ Die Feuerprobe prüft **alle Bände 1–9** im Ring der Reihe (jedes Konzept wir
 
 Vier Schichten der Bewahrung: **1. geschriebene Kopie, 2. verlesene mündliche Überlieferung, 3. eingeübte Praxis (siehe Konzept B1-8.2), 4. Vermächtnis (siehe Konzept 9.1)**.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 7.2 „Abschreiben & Bewahren (vier Schichten)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Vier Schichten vorhanden
 
 **Querverweise:** siehe Konzept B1-8.2, siehe Konzept 9.1.
@@ -303,6 +400,9 @@ Vier Schichten der Bewahrung: **1. geschriebene Kopie, 2. verlesene mündliche �
 ---
 
 ## Kapitel 8 — Behalten: Kalender & Feste
+
+**Ziel des Kapitels:** Ziel: Kalender, Gedenken und harte Zeit (Herbst-Ration) organisieren.
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Vier Schichten der Bewahrung: geschrieben (Kopien), verlesen (mündlich), eingeübt (B1-8.2), Vermächtnis (9.1) — Wissen überlebt so den Ausfall einzelner Schichten.
@@ -332,6 +432,10 @@ Vermächtnis wird **verlesen** (siehe Konzept 9.1) — mündlich und schriftlich
 
 **Ration im Herbst gesetzt** (siehe Konzept B7-9.1, Winter-Rechnung 100 Tage + 20–33 %). Entscheidung im Rat (siehe Konzept 4.2), nicht allein.
 
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 8.3 „Die harte Zeit“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+
 - [ ] Ration im Herbst beschlossen
 
 **Querverweise:** siehe Konzept B7-9.1, siehe Konzept 4.2, siehe Konzept 4.3.
@@ -339,6 +443,9 @@ Vermächtnis wird **verlesen** (siehe Konzept 9.1) — mündlich und schriftlich
 ---
 
 ## Kapitel 9 — Vermächtnis
+
+**Ziel des Kapitels:** Ziel: Das Vermächtnis schreiben und verlesen — und die Reihe mit der Haus-Metapher schließen (Änderungen nur mit Feuerprobe).
+
 **Erklärung:**
 
 - **Prinzip (warum das funktioniert):** Die harte Zeit wird im Herbst rationiert (Ration festgesetzt, B7-9.1 100 Tage + 20–33 %), nicht erst im Frühjahr — Entscheidung im Rat (4.2), nicht allein.
@@ -349,6 +456,10 @@ Vermächtnis wird **verlesen** (siehe Konzept 9.1) — mündlich und schriftlich
 1. **Schreiben** (Anhang A Band 10, Vermächtnis-Blatt): Wissen, das weitergegeben werden muss — pro Band 1–9 die Kernregeln.
 2. **Verlesen** vor der Gruppe (siehe Konzept 8.2).
 3. Kopie in die vier Schichten (siehe Konzept 7.2).
+
+**Checkliste — Zweck und Abnahme:** Diese Liste sichert, dass bei Konzept 9.1 „Vermächtnis (geschrieben + verlesen)“ kein Prüfpunkt vergessen wird.
+Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben.
+Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 
 - [ ] Vermächtnis-Blatt geführt
 - [ ] Verlesen protokolliert
@@ -390,7 +501,23 @@ Das Kompendium ist ein Haus: Band 1 das Fundament, Bände 2–9 die Räume, Band
 
 ## Anhang C — Übungsplan (Band 10)
 
-Feuerprobe (6.1) halbjährlich über alle Bände 1–9; Tausch-Protokoll (1.2) üben; Vermächtnis-Blatt (9.1) jährlich aktualisieren. Verfalluhr 12 Monate (siehe Konzept B1-8.2).
+**Übungsablauf (verbindlich für jede Übung in diesem Band):**
+
+1. **Vorbereitung (10 min):** Material und Protokollbogen (Anhang A4 / B1-8.2) bereitlegen; Warnrahmen des Konzepts durchlesen; bei Outdoor-Übung Wetter prüfen (B1-4.4).
+2. **Durchführung:** die nummerierten Schritte des Konzepts exakt in der dortigen Reihenfolge ausführen — keine Abkürzungen.
+3. **Wiederholungen:** jede Übung mindestens 3× hintereinander; Konzepte mit V < 6 mindestens 5× (z. B. in diesem Band siehe Liste unten).
+4. **Zeitansatz:** 45–90 min pro Übungseinheit, maximal 2 Einheiten pro Tag — Ermüdung verfälscht das Ergebnis.
+5. **Beobachten (Erfolgskontrolle):** das messbare Kriterium der Übung notieren (Zeit, Maß, Trefferquote, Temperatur) — ohne Messung ist die Übung nicht bestanden.
+6. **Abbruchkriterien:** Abbruch sofort bei Verletzung, Wetterumschwung, Materialbruch, Schmerzen (z. B. Augen beim Schweißen) oder wenn nach 3 Durchgängen kein Fortschritt erkennbar ist. Abbruch dokumentieren — nicht schönreden.
+7. **Protokoll (B1-8.2):** Datum, Konzept-Nr., Wiederholungen, Zeitansatz, Beobachtung/Erfolgskontrolle, V-Bewertung, Verfalldatum (Datum + 12 Monate).
+
+**Band-spezifische Übungen (Vorrang, mit Erfolgskontrolle):**
+
+- Feuerprobe (6.1): halbjährlich über alle Bände 1–9, Erfolg: ≥ 80 % der Fragen korrekt, Lücken als Übungspflicht notiert (B1-8.2)
+- Tausch-Protokoll mit Zeugen (1.2): 2×, Erfolg: Ware/Wert/Zeugen/Frist vollständig eingetragen
+- Vermächtnis-Blatt (9.1): 1× jährlich, Erfolg: Kernregeln pro Band 1–9 niedergeschrieben, 2 Zeugen unterschreiben
+
+Verfalluhr: 12 Monate ohne Wiederholung = Fähigkeit verfallen (siehe B1-8.2).
 
 ## Anhang Feuerprobe / Fragenkatalog (zu 6.1) — Ring der Reihe
 

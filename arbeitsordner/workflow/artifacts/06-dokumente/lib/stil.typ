@@ -4,7 +4,7 @@
 #let seite(band, titel) = {
   set page(
     paper: "a4",
-    margin: (top: 2.2cm, bottom: 2.0cm, left: 2.0cm, right: 2.0cm),
+    margin: (top: 2.0cm, bottom: 1.8cm, left: 1.8cm, right: 1.8cm),
     header: context {
       let hp = here().page()
       let ks = query(heading.where(level: 2)).filter(k => k.location.page() <= hp)
@@ -26,14 +26,14 @@
 #let init-doc(band: 1, titel: "") = {
   set document(title: "Das Überlebenbuch — Band " + str(band) + ": " + titel, author: "Das Überlebenbuch")
   seite(band, titel)
-  set text(lang: "de", size: 10.5pt, font: "Libertinus Serif", hyphenate: true)
-  set par(justify: true, leading: 0.62em, spacing: 0.85em)
-  set list(spacing: 0.5em, indent: 1.2em)
-  set enum(spacing: 0.5em, indent: 1.2em)
+  set text(lang: "de", size: 10pt, font: "Libertinus Serif", hyphenate: true)
+  set par(justify: true, leading: 0.58em, spacing: 0.72em)
+  set list(spacing: 0.42em, indent: 1.2em)
+  set enum(spacing: 0.42em, indent: 1.2em)
   set figure(numbering: none)
-  set table(stroke: 0.4pt + rgb("#8c8c8c"), inset: 3pt)
-  show heading.where(level: 2): it => block(above: 0pt, below: 14pt, text(size: 18pt, weight: "bold", fill: rgb("#1a1a1a"))[#it.body])
-  show heading.where(level: 3): it => block(above: 10pt, below: 8pt, text(size: 13.5pt, weight: "bold", fill: rgb("#1a1a1a"))[#it.body])
+  set table(stroke: 0.4pt + rgb("#8c8c8c"), inset: 2pt)
+  show heading.where(level: 2): it => block(above: 0pt, below: 10pt, text(size: 16pt, weight: "bold", fill: rgb("#1a1a1a"))[#it.body])
+  show heading.where(level: 3): it => block(above: 7pt, below: 4pt, text(size: 12pt, weight: "bold", fill: rgb("#1a1a1a"))[#it.body])
 }
 
 #let titlepage(band, titel) = [
@@ -54,13 +54,13 @@
   ]
 ]
 
-#let baustein(body) = block(width: 100%, inset: (x: 9pt, y: 7pt), fill: rgb("#f4f4f4"),
-  stroke: (left: 3.5pt + rgb("#1a1a1a")), above: 8pt, below: 8pt)[
+#let baustein(body) = block(width: 100%, breakable: false, inset: (x: 8pt, y: 6pt), fill: rgb("#f0f0f0"),
+  stroke: (left: 3pt + rgb("#1a1a1a"), rest: 0.5pt + rgb("#8c8c8c")), above: 6pt, below: 6pt)[
   #text(weight: "bold")[BAUSTEIN:] #body
 ]
 
-#let warnrahmen(id: none, title: [], body) = block(width: 100%, inset: (x: 9pt, y: 8pt),
-  fill: rgb("#f7eeee"), stroke: 1.8pt + rgb("#7a0000"), above: 10pt, below: 10pt)[
+#let warnrahmen(id: none, title: [], body) = block(width: 100%, breakable: false, inset: (x: 8pt, y: 7pt),
+  fill: rgb("#f7eeee"), stroke: 1.6pt + rgb("#7a0000"), above: 8pt, below: 8pt)[
   #if id != none [
     #grid(columns: (40pt, 1fr), column-gutter: 8pt, align: horizon,
       image("../illustrationen/" + id + ".svg", width: 40pt),
@@ -70,17 +70,17 @@
   ]
 ]
 
-#let kasten(title, body) = block(width: 100%, inset: (x: 9pt, y: 7pt), fill: rgb("#f4f4f4"), above: 7pt, below: 7pt)[
+#let kasten(title, body) = block(width: 100%, breakable: false, inset: (x: 8pt, y: 6pt), fill: rgb("#f0f0f0"), stroke: 0.5pt + rgb("#8c8c8c"), above: 6pt, below: 6pt)[
   #text(weight: "bold")[#title] #body
 ]
 
-#let devise(body) = block(width: 100%, inset: 10pt, stroke: 0.9pt + rgb("#1a1a1a"), above: 12pt, below: 12pt,
+#let devise(body) = block(width: 100%, breakable: false, inset: 8pt, stroke: 0.9pt + rgb("#1a1a1a"), above: 10pt, below: 10pt,
   align(center)[#text(size: 12.5pt, style: "italic")[#body]])
 
-#let konzmeta(fill: rgb("#1a6b1a"), body) = block(width: 100%, inset: (x: 7pt, y: 5pt), fill: rgb("#efefef"), above: 2pt, below: 10pt)[
+#let konzmeta(fill: rgb("#1a6b1a"), body) = block(width: 100%, breakable: false, inset: (x: 6pt, y: 4pt), fill: rgb("#efefef"), stroke: 0.5pt + rgb("#bfbfbf"), above: 2pt, below: 7pt)[
   #text(size: 9.5pt, fill: fill)[#body]
 ]
 
-#let subhead(body) = { pagebreak(weak: true); block(above: 0pt, below: 5pt)[#text(size: 11.5pt, weight: "bold")[#body]] }
+#let subhead(body) = { pagebreak(weak: true); block(above: 0pt, below: 4pt)[#text(size: 11pt, weight: "bold")[#body]] }
 
 #let refpage(l) = context [#counter(page).at(l).first()]

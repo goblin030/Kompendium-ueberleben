@@ -11,7 +11,7 @@
 | Datei | Inhalt |
 |---|---|
 | `04-redaktion.md` (diese) | Stilkonventionen (§1), Gate-Nachweise G-1…G-4 (§2), globale Register (Querverweis-Kette §3, Warnrahmen-Pflicht §4), Band-Übersicht (§5), Ethik-Durchsetzung (§6), Selbstcheck (§7) |
-| `04-redaktion-band-01.md` | Band 1 Grundlagen — 9 Kapitel, 27 Konzepte, Anhang A–C + **Anhang D Glossar (zentral)** |
+| `04-redaktion-band-01.md` | Band 1 Grundlagen — 9 Kapitel + **Kapitel 3a Blackout & Urban Survival** (Blackout-Turn 5), 27+4 Konzepte, Anhang A–D (D = Glossar, zentral) |
 | `04-redaktion-band-02.md` | Band 2 Wasser — 9 Kapitel, 25 Konzepte (3.6 unbesetzt), Anhang A–C |
 | `04-redaktion-band-03.md` | Band 3 Feuer & Wärme — 9 Kapitel, 24 Konzepte, Anhang A–C |
 | `04-redaktion-band-04.md` | Band 4 Unterkunft & Kleidung — 9 Kapitel, 24 Konzepte, Anhang A–C |
@@ -33,6 +33,8 @@ Jede Band-Datei folgt dem gleichen Schema: Kapitelüberschrift → Konzeptübers
 3. **Wiederholung schlägt Verweis:** Kurzregeln stehen mehrfach (Kapitel + Checkliste + Anhang).
 4. **Querverweise immer über Nummern** — einheitliches Schema (B-5, Feedback 10-testleser): innerhalb eines Bandes „Konzept X.Y“; **zwischen Bänden „Konzept B<Band>-X.Y“** (z. B. B3-6.3 = Band 3, Kapitel 6, Konzept 3). Nie „weiter oben", nie „siehe Seite". Kaputte Verweise sind verboten (Register §3 wird gegen die Band-Dateien abgeglichen).
 5. **Formate:**
+   - Kapitelziel: jeder `## Kapitel`-Abschnitt beginnt mit `**Ziel des Kapitels:** …` (Ziel/Wann-es-gilt-Erklärung)
+   - Checklisten-Präambel: jede Checkliste (`- [ ] …`) wird **vor** der Liste eingeleitet mit `**Checkliste — Zweck und Abnahme:**` (Wozu dient sie? Wann erfüllt = alle [x]? Was fehlt → Folge siehe Erklärung/Warnrahmen)
    - Baustein-Kasten (Faustregel): `> **BAUSTEIN:** …`
    - Warnrahmen: `> **WARNRAHMEN [warn-N]:** …` — immer mit Warngrafik-Datei `warn-N.svg` (siehe §4)
    - Checkliste: `- [ ] …`
@@ -101,6 +103,7 @@ Status: Band 6 wird erst nach legal-Freigabe freigegeben (MS-E Band 6 blockiert 
 | B7-6.2k | B8-3.3 | Öl-Auszug nur gesäuert (Botulismus) |
 | B9-3.1 | B1-6.2 | Fäll-Regel = Axt-Regel |
 | B10-6.1 | alle Bände 1–9 | Feuerprobe des Kompendiums |
+| B1-3a.1–3a.4 | B2-8.1/B2-9.1, B3-5.1/B3-6.3, B4-2.1/B4-2.4, B7-8.2/B7-9.1, B8-8.1, B10-4.1 | Blackout & Urban Survival (Kapitel 3a) |
 
 ---
 
@@ -205,6 +208,31 @@ Text-only-Warnrahmen (kein eigenes Symbol): kein induziertes Erbrechen (B8 5.2, 
 | Zu schematische Zeichnungen | illustrator | nicht editor — situative Detail-Skizzen (z. B. Feuerbau-Varianten mit Maßen) an illustrator verwiesen |
 
 Umfang nach Einarbeitung: ~5.340 Zeilen in `04-redaktion*.md` (vorher ~4.300). Nächster Schritt: format-reviewer Re-Review → `review-v2/`.
+
+---
+
+## 10. Review-Feedback v3 — Einarbeitung Befund 3 „Zu wenig Erläuterungen“ (Quelle: `review-v3/FEEDBACK.md`, 2026-11-07)
+
+| Anforderung (Review v3, Befund 3) | Umsetzung editor | Nachweis |
+|---|---|---|
+| Jede Checkliste mit erklärendem Absatz VOR der Liste: Wozu? Wann erfüllt (Abnahmekriterium)? Was passiert, wenn ein Punkt fehlt? | `**Checkliste — Zweck und Abnahme:**`-Präambel vor jedem Checklisten-Block in allen 10 Bänden, bezogen auf das jeweilige Konzept (Zweck, Abnahmekriterium „alle Kästchen [x]“, Folge bei Fehlen → „Erklärung → Typische Fehler“/Warnrahmen) | 221/221 Checklisten-Blöcke mit Präambel (per awk verifiziert) |
+| Übungsabläufe präzise: nummerierte Schritte, Wiederholungen, Zeitansatz, Beobachtung (Erfolgskontrolle), Abbruchkriterien | (a) Jeder **Anhang C (Übungsplan)** pro Band neu mit verbindlichem 7-Schritte-Protokoll (Vorbereitung → Durchführung → Wdh. (3×, bei V<6 5×) → Zeitansatz 45–90 min, max. 2/Tag → Erfolgskontrolle messbar → Abbruchkriterien → Protokoll mit Verfalldatum) + band-spezifische Übungen mit Erfolgskontrolle; (b) Konzept-level `**Übungsablauf:**` an den übungspflichtigen Konzepten 1-7.4, 1-8.1, 1-8.2, 3-3.3, 6-4.1, 9-2.4 | 10/10 Anhang C mit Abbruchkriterien; 6 Konzept-Übungsabläufe |
+| Kapitel-Einführungen erklären das Ziel des Kapitels | `**Ziel des Kapitels:** …` nach jeder der 90 `## Kapitel`-Überschriften (alle 10 Bände × 9 Kapitel) | 90/90 Kapitelziele |
+
+Befunde 1+2 (Layout/Boxen) sind an doc-builder (`lib/stil.typ`) geroutet, nicht editor. Stil bleibt sachlich-nüchtern; Imperativ in den Anleitungen unverändert. Umfang nach Einarbeitung: ~6.700 Zeilen in `04-redaktion*.md`. Nächster Schritt: doc-builder neu bauen → prepress → format-reviewer Re-Review → `review-v4/`.
+
+---
+
+## 11. Blackout/Stromausfall-Vorsorge — Einarbeitung (Turn 5, Input `18-recherche-blackout.md`, 14 Quellen, Abruf 2026-11-07)
+
+| Anforderung | Umsetzung |
+|---|---|
+| Neues Kapitel „Blackout & Urban Survival“ in Band 1 nach Kapitel 3 | `04-redaktion-band-01.md`: **Kapitel 3a** (Nummerierung 1–10 bleibt stabil, Querverweise driften nicht): 3a.1 Phasenmodell (Saurugg), 3a.2 Sofortmaßnahmen erste 60 min (nummeriert, 13 Schritte), 3a.3 Grundausstattung als Checkliste **mit Ziel-Präambel** (Zweck/Abnahme/Fehlfolge, Turn-4-Standard), 3a.4 Blackout-Drill mit 7-Schritte-Übungsprotokoll (wie Anhang C) |
+| Nur quellenbelegte/grüne Inhalte als Anleitung | Grün übernommen: 2 l/Pers/Tag × 14 T (W1/W21/BBK), 72-h-Planung (W21), CO-Warnung + „nie in der Wohnung grillen/heizen“ (W14, `warn-3`), Latrinenabstand (W7), UKW-Radio-Fallback, Geräte ausstecken/eine Lampe an, Wasser auffüllen, Medikamente/Impfpass (W12). **ROHWERT → als `LÜCKE BLn (ungeprüft)` markiert, nicht handlungsleitend:** BL1 (SETON-Volltext), BL2 (14 vs. 7+ Tage Medikamente — Kompendium-Wert 14 T), BL3 (Wasserwerte trennen), BL4 (Mobilfunk-Notstrom 4–8 h konservativ), BL5 (Ereignisberichte), BL6 (Zeithorizonte Phasen, Abkühlraten, TK-Zeiten, Bargeld 200–500 €, Powerbank/Lumen, 2.200 kcal, Gaskartuschen), BL7 (Score-Bänder), BL8 (NINA ohne mobiles Internet), BL9 (DGS/Leichte Sprache), BL10 (10 vs. 14 Tage Vorrat) |
+| Querverweise auf B2/B3/B4/B7/B8 | B2-8.1 (Wasser), B2-9.1 (Latrine), B3-5.1 (Kochen ohne Strom), B3-6.3 (`warn-3` CO), B4-2.1/B4-2.4 (Wärme/Kälte), B7-8.2/B7-9.1 (Vorrat), B8-8.1 (Mappe/Medikamente), B10-4.1 (Stadt/Nachbarschaft) — im B-Schema |
+| Dokumentation | dieser Abschnitt; Band-1-Matrix um 3a.1–3a.4 ergänzt; Anhang C um Blackout-Drill ergänzt; Glossar um „Blackout/Brownout“ ergänzt; Register §3 um B1-3a ergänzt |
+
+Nächster Schritt: fact-checker ergänzt `02-factcheck.md` um BL1–BL10 (dreifache Prüfung der ROHWERTE), dann doc-builder Rebuild.
 
 ---
 *Ende 04-redaktion.md — nächster Schritt laut WORKFLOW.md: Phase F testleser (Input: dieses Artefakt + Teil-Dateien), parallel illustrator (abb-*.svg).*
