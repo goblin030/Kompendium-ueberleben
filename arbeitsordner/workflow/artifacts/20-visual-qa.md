@@ -189,3 +189,30 @@ Kollisionen weiterhin 0, Caption-Abstände weiterhin 4,6 pt, CL-Umbau vollständ
 
 ---
 *Nachtrag Turn 3 durch Agent `visual-qa`, Phase J, 2026-11-07. Log: `logs/workflow.log` (agent=visual-qa).*
+
+---
+
+# Nachtrag — Re-Run Turn 4 (2026-11-07, ~19:05 MEZ, nach illustrator Turn 5 + doc-builder Turn 12)
+
+**Anlass:** illustrator Turn 5 (Rollen-Namen aus den 4 SVGs abb-5-6/6-4/6-7/8-12 entfernt, 189 SVGs sanitized) + doc-builder Turn 12 (inline-Checkliste B4 S. 170 durch CL-Zeiger ersetzt, alle Bände neu kompiliert). **Input:** `band-01..10.pdf` = 446/362/342/329/317/310/320/325/320/305 = **3.376 S.** (unverändert zu Turn 3). **Methode identisch** (alle Seiten 150 dpi, qdf + Content-Stream-Parser, pdftotext -bbox, PGM-Pixel; Meta-Scan diesmal zusätzlich auf SVG-Bildtext aller 189 `illustrationen/*.svg`).
+
+## Ergebnis Turn 4
+
+| Kriterium | Turn 3 | Turn 4 | Status |
+|---|---|---|---|
+| (1) Kollisionen Box/Caption/Bild/Text | 0 | **0** (3.376/3.376 S.; Koord.-Check 0 Befunde; Pixel-Crosscheck: 165 Captions, 0 von Rahmen durchzogen, 0 Rahmen-Anomalien, 0 nicht-weiße Bild-Caption-Lücken) | gehalten |
+| (2) Meta-Scan (PDF-Texte **und** SVG-Bildtext, inkl. SME/Fachlektorat/Lektor/Redakteur/Editor + W/L/BL-IDs, ROT, Gate, WARN n, Phase, Agenten, Artefakte, Review/Befund/Turn, undefined/NaN) | 5× „Fachlektorat“ in B5/B6/B8 (PDF) | **PDF-Texte: 0 in allen 10 Bänden. SVGs: 189/189 clean** — einzige Muster-Treffer waren 6× „Korrektur“ in legitimer Buchsprache („Sommerzeit-Korrektur“, Spaltenkopf „Korrektur:“, False Positives). CL/warn-N/B<Band>-X.Y = Kennziffern, OK | **behoben, erfüllt** |
+| (3) Checklisten | 1 inline in B4 S. 170; CL 223/223 aufgelöst | **0 inline Checklisten im Kapitel** (alle Bände: nur Zeiger „Checkliste: siehe CL-Bn-NN, Anhang S. …“, 31–50/Band); **CL-Defs == CL-Refs pro Band** (26/25/24/23/24/20/19/21/20/21 = 223, 0 unaufgelöst) | **behoben, erfüllt** |
+| (4) Leerraum | < 65 %: 85,1 %; nahezu leer 18,1 % | **unverändert: 85,1 % < 65 % (2.874/3.376), nahezu leer 18,1 % (611/3.376)** — Layout seit Turn 3 identisch (nur SVG-Texte geändert) | minor, bleibt |
+| Caption-Abstände | 4,6 pt | 163/163 Paare à **4,6 pt** (min=med=max), 0 Überlagerungen | gehalten |
+
+## Ampel Turn 4 und Gesamturteil
+
+| Band | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Ampel | gelb | gelb | gelb | gelb | gelb | gelb | gelb | gelb | gelb | gelb |
+
+**Gesamturteil Turn 4: FREIGEGEBEN (gelb) — Phase-J-Gate bestanden.** 0 major-Befunde in 3.376/3.376 gerenderten Seiten: keine Kollisionen, Meta-Scan 0 in PDF-Texten und SVG-Bildtext, Checklisten vollständig in Anhang D mit aufgelösten CL-Referenzen (223/223), alle 163 Captions unüberlagert 4,6 pt unter dem Bild. Verbleibend **minor (gelb, nicht blockierend):** Leerraum — 85,1 % der Seiten < 65 % Satzspiegel-Nutzung, 18,1 % nahezu leer (unverändert seit Turn 3); Dichte in nächster Revision weiter erhöhen (teilbare Boxen mit Rahmen-Fortsetzung, engeres Skizzen-Grid). Kein Rebuild-Pflicht aus diesem Gate.
+
+---
+*Nachtrag Turn 4 durch Agent `visual-qa`, Phase J, 2026-11-07. Log: `logs/workflow.log` (agent=visual-qa).*
