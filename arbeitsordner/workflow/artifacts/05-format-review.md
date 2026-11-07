@@ -142,3 +142,24 @@ Hinweis zu Band 6: Gate G-1 (legal) ist laut abschlussbericht §3 noch offen —
 ## Gesamturteil Turn 3: **NACHBESSERN**
 
 0 blocker; 3 major offen (T3-1 SVG-Meta-Leak, T3-2 Meta-Leak im Lesetext/Captions/Registern, T3-3 veralteter proof). Alles andere grün: Satzspiegel 69,5 % (statt 53,1 %), 244/244 Erklärungsblöcke, 174 Abb./189 SVGs valide eingebunden, 10/10 fehlerfrei kompiliert, 3.815 S. alle ≥ 300, PDF/A-2b, PDF/X-4 + 3 mm Anschnitt + Schnittmarken in allen Druck-PDFs intakt, F1–F5/F7/R1 nicht regressiert, ZIP integer. Nach Beseitigung von T3-1…T3-3 (illustrator-Sanitizing + doc-builder-Textbereinigung + prepress proof.py-Re-Run) Re-Review Turn 4; danach Freigabe. Gate G-1 (legal, Band 6) weiterhin offen — nicht Format, Owner legal/Phase K.
+
+---
+
+# Nachtrag — Re-Review Turn 4 (2026-11-07, ~14:55 MEZ, nach T3-Fixes)
+
+**Anlass:** T3-1…T3-3 nachgebessert (illustrator Turn 4: 189 SVGs sanitized; doc-builder Turn 5: Meta-Tokens gestrippt, 3.815 S. neu kompiliert; prepress Turn 3: proof Rev. 3). Geprüft: **nur** T3-Befunde + Regression F1–F7/R1/R2.
+
+## Ergebnis
+
+| Befund | Status | Nachweis (eigene Messung) |
+|---|---|---|
+| **T3-1** Meta-Tokens in SVGs | **BEHOBEN** | 189/189 wohlgeformt; Meta-Token-Scan auf komplettes SVG (text/title/aria-label/Kommentare, ohne w3.org-Namespace): **0 Treffer** — keine ROT-*, Gate G-*, W-IDs, WARN-IDs, „09 §/Nr.“, „02 §“, Phase-/Agent-/Artefakt-Tokens, kein undefined/NaN. |
+| **T3-2** Meta-Tokens im Lesetext | **BEHOBEN** | 0 W-/L-IDs, 0 „WARN n“, 0 „09 §/Nr.“/„02 §“, 0 ROT/Gate/Phase/Artefakt-Tokens außerhalb des Prüfprotokoll-Abschnitts in allen band-*.typ + lib/*.typ (Kommentare gestrippt). Verbleibende Quellen-IDs (79) liegen ausschließlich im „Prüfprotokoll“-Abschnitt — laut Plan L4 gewollt. |
+| **T3-3** proof veraltet | **BEHOBEN** | `proof.json` (mtime 13:35) neuer als alle `band-*-druck.pdf` (13:32); Werte matchen meine eigene Messung exakt: Seiten 447/410/390/379/366/362/369/372/366/354, `crop_marks_ok=true`, Registration Black 1×/Seite (regK = Seitenzahl), 0 RGB-Ops, PDF/X-4 in XMP+Info, OutputIntent GTS_PDFX, 0 Annots, 0 Raster. proof-bericht enthält die neuen Seitenzahlen. |
+| **Regression F1–F7/R1/R2** | **KEINE REGRESSION** | 10/10 `typst compile --pdf-standard a-2b` fehlerfrei (rc=0, keine Warnungen), frischer Build seitenzahl-identisch (Σ 3.815 S., alle ≥ 300); PDF/A-2b + `dc:title` in allen 10; F1 Schnittmarken intakt (proof + eigene Messung), F2 0× undefined/NaN in SVGs, F4 0 doppelte Abb.-Nr. in Captions, F5 0× „Phase I“ im Druck-XMP (`dc:creator` = „Das Ueberlebenbuch“), R1 abb-6-2 Strichstärken valide (1/1.5/1.6/2), Abb. 174 refs = Dateien, 0 Mismatch, 15 warn-Grafiken an den geplanten Stellen, ZIP integer. |
+
+**Kosmetische Resthinweise (minor, nicht blockierend):** R4 — 3 SVGs (abb-5-6, abb-6-4, abb-6-7) nennen „fachlektorische Korrektur“/„Fachlektorat“ als Ampel-Begründung (bewusste SME-Ersetzung des illustrator; fachlich sinnvolle Provenienz, kein Gate-Text); R5 — proof-bericht-Überschrift nennt noch „Revision 2“, Werte sind aber aktuell (447 ff.).
+
+## Gesamturteil Turn 4: **FREIGEGEBEN** (Imprimatur — alle T3-Befunde behoben, keine Regression)
+
+0 blocker, 0 major, 0 minor offen. Druckfreigabe für `06-dokumente/` (10 × PDF/A-2b Quell-PDFs, 3.815 S., 10 × PDF/X-4 Druckdaten mit 3 mm Anschnitt + Schnittmarken, aktueller proof Rev. 3, 189 sanitized SVGs). **Nicht-Format-Hinweis an Phase K:** Gate G-1 (legal-Freigabe Band 6) weiterhin offen — Owner legal/fachlektor.
