@@ -1,6 +1,7 @@
-# review-v2 – Version 2 der PDFs zum Review
+# review-v2 – Version 2 der PDFs zum Review (überarbeitet, freigegeben)
 
-Umsetzung des Review-Feedbacks v1 (`review-v1/FEEDBACK.md`). Stand: nach doc-builder Turn 4.
+Umsetzung des Review-Feedbacks v1 (`review-v1/FEEDBACK.md`). Stand: Commit `172404d` —
+nach doc-builder Turn 5 (Meta-Leak-Fixes T3-1/2/3) und format-reviewer Turn 4: **FREIGEGEBEN (Imprimatur)**.
 
 ## Änderungen gegen v1
 
