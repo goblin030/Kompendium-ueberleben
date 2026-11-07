@@ -5,7 +5,7 @@ Einträge zu Konzepten dieses Bandes mit Seitenzahl (S. …); Verweise auf ander
 #columns(2, gutter: 16pt)[
 - _116–121 °C (Druckkocher)_ — siehe Druckkocher (Einkochen 116–121 °C, psi nach Höhe) (Konzept 6.2k, S. #refpage(<k-6-2k>))
 - _71-°C-Kerntemperatur (Durchgaren)_ — B6-9.1; Konzept 3.2, S. #refpage(<k-3-2>) · _USDA-Preheat vor dem Dörren; Trichinen ≥ 71 °C Kern_; siehe auch Trichinen; Dörren (Dörrware); Ausnehmen & Zerwirken
-- _Botulismus (C. botulinum)_ — Konzept 6.2k, S. #refpage(<k-6-2k>) (warn-7b); Konzept 4.1, S. #refpage(<k-4-1>); B5-6.2; B8-3.3 · _W13; low-acid nur Druckkocher 116–121 °C; gewölbte Deckel ungeöffnet wegwerfen_; siehe auch Druckkocher (Einkochen); pH-Wert; Tinktur / Salbe / Öl-Auszug
+- _Botulismus (C. botulinum)_ — Konzept 6.2k, S. #refpage(<k-6-2k>) (warn-7b); Konzept 4.1, S. #refpage(<k-4-1>); B5-6.2; B8-3.3 · _; low-acid nur Druckkocher 116–121 °C; gewölbte Deckel ungeöffnet wegwerfen_; siehe auch Druckkocher (Einkochen); pH-Wert; Tinktur / Salbe / Öl-Auszug
 - _Die Saat (Saatgut-Lagerung)_ — Konzept 9.3, S. #refpage(<k-9-3>) · _Keimprobe < 12/20 → neue Saat; nie Saat essen_; siehe auch Samen-Bank; Saatgut-Keimprobe
 - _Dörren (Dörrware)_ — Konzept 3.2, S. #refpage(<k-3-2>) (Abb. 7.2) · _warn-7a: USDA-Preheat 71 °C Kern vor dem Dörren; Brechprobe; Schimmel → ganz wegwerfen; Reduktion 3:1–10:1_; siehe auch Trocken-Halle; Mykotoxine (Schimmelvergiftung); 71-°C-Kerntemperatur
 - _Dörrware_ — siehe Dörren (Konzept 3.2, S. #refpage(<k-3-2>))
@@ -19,7 +19,7 @@ Einträge zu Konzepten dieses Bandes mit Seitenzahl (S. …); Verweise auf ander
 - _Gerben (Leder)_ — Konzept 7.3, S. #refpage(<k-7-3>) · _Lohe/Eichenrinde; Schnittprobe braun_; siehe auch Fell, Sehne, Knochen (Ganz-Verwertung)
 - _Gerberlohe_ — siehe Gerben (Konzept 7.3, S. #refpage(<k-7-3>))
 - _Getreide (Lagerung)_ — Konzept 2.3, S. #refpage(<k-2-3>) · _Ganzkorn am längsten_; siehe auch Trocken-Halle; Mykotoxine (Schimmelvergiftung)
-- _Haltbarkeits-Tafeln (sechs Wege)_ — Konzept 2.2, S. #refpage(<k-2-2>) (Abb. 7.1) · _W25 (USDA)_; siehe auch Fünf Feinde des Vorrats; Konservieren / Haltbarmachen
+- _Haltbarkeits-Tafeln (sechs Wege)_ — Konzept 2.2, S. #refpage(<k-2-2>) (Abb. 7.1) · _(USDA)_; siehe auch Fünf Feinde des Vorrats; Konservieren / Haltbarmachen
 - _Holzkohle_ — siehe Holzkohle-Meiler (B3-8.1); Räucherholz & Rauch (Konzept 4.2, S. #refpage(<k-4-2>))
 - _Kammer (kalte Kammer, Zonen)_ — Konzept 8.1, S. #refpage(<k-8-1>) (Abb. 7.10) · _Zonen konsistent B3-Abstände_; siehe auch Material-Kammer; Fünf Feinde des Vorrats
 - _Konservieren / Haltbarmachen_ — siehe Kap. 2–6, S. #refpage(<kap-2>): Haltbarkeits-Tafeln (Konzept 2.2, S. #refpage(<k-2-2>)), Dörren (Konzept 3.2, S. #refpage(<k-3-2>)), Räuchern (Konzept 4.1, S. #refpage(<k-4-1>)), Pökeln (Konzept 5.2, S. #refpage(<k-5-2>)), Kraut-Fass (Konzept 6.1, S. #refpage(<k-6-1>)), Einkochen (Konzept 6.2k, S. #refpage(<k-6-2k>))

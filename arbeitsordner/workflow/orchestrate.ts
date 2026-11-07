@@ -57,8 +57,9 @@ const PHASES: AgentSpec[][] = [
   [ // I
     { name: 'prepress', prompt: '<INHALT agents/14-prepress.md>', dependsOn: ['artifacts/06-dokumente/', 'artifacts/00-tool-analyse.md'] },
   ],
-  [ // J
-    { name: 'format-reviewer', prompt: '<INHALT agents/06-format-reviewer.md>', dependsOn: ['artifacts/06-dokumente/'] },
+  [ // J - GATE: visual-qa zuerst, dann format-reviewer
+    { name: 'visual-qa', prompt: '<INHALT agents/20-visual-qa.md>', dependsOn: ['artifacts/06-dokumente/'] },
+    { name: 'format-reviewer', prompt: '<INHALT agents/06-format-reviewer.md>', dependsOn: ['artifacts/06-dokumente/', 'artifacts/20-visual-qa.md'] },
   ],
   [ // K – Publishing (parallel); legal zuerst, publisher braucht dessen Output
     { name: 'legal', prompt: '<INHALT agents/16-legal.md>' },

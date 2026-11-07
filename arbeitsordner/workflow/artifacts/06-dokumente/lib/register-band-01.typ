@@ -5,7 +5,7 @@ Einträge zu Konzepten dieses Bandes mit Seitenzahl (S. …); Verweise auf ander
 #columns(2, gutter: 16pt)[
 - _15–20 % / 30 % / 10–15 % (Traglast)_ — siehe Traglast (Konzept 6.5, S. #refpage(<k-6-5>))
 - _3 Signale = Notzeichen_ — Konzept 5.1, S. #refpage(<k-5-1>); B3-9.2; siehe auch Notrufzeichen (3 Signale/min); Signalfeuer (3 Feuer = Notzeichen)
-- _55-°C-Verbrühungsgrenze_ — Konzept 7.4, S. #refpage(<k-7-4>); B8-7.1 · _W22: ab 55 °C verbrüht die Haut in Sekunden_; siehe auch Temperatur-Feinmessung (Ellbogenprobe); Brandwunde & Frostbeule
+- _55-°C-Verbrühungsgrenze_ — Konzept 7.4, S. #refpage(<k-7-4>); B8-7.1 · _ab 55 °C verbrüht die Haut in Sekunden_; siehe auch Temperatur-Feinmessung (Ellbogenprobe); Brandwunde & Frostbeule
 - _+60-min-Regel (Bote vermisst)_ — Konzept 5.2, S. #refpage(<k-5-2>); siehe auch Botenregeln (+60-min-Regel)
 - _72-Stunden-Rucksack_ — siehe Notfallrucksack (Konzept 3.2, S. #refpage(<k-3-2>))
 - _Abb. N.M (Abbildung)_ — Anhang D, S. #refpage(<anh-D>) · \_Konvention: Datei `abb-N-M.svg`, deutsch beschriftet, graustufentauglich\_

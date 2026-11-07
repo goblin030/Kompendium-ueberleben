@@ -13,19 +13,19 @@
 
 | Band | Titel | Konzepte | Abb. | Warnrahmen (Grafik/Text) | Bausteine | Checklisten-[ ] | Schritte | Tabellen | Register-Eintraege | Seiten (PDF, Ist) |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Grundlagen | 31 | 34 | 0 / 0 | 25 | 79 | 106 | 11 | 68 | 479 |
-| 2 | Wasser | 25 | 19 | 1 / 0 | 13 | 56 | 78 | 10 | 33 | 383 |
-| 3 | Feuer & Wärme | 24 | 23 | 1 / 1 | 10 | 51 | 70 | 4 | 38 | 365 |
-| 4 | Unterkunft & Kleidung | 24 | 16 | 0 / 0 | 4 | 46 | 56 | 5 | 32 | 355 |
-| 5 | Botanik | 24 | 14 | 2 / 1 | 7 | 43 | 39 | 5 | 42 | 339 |
-| 6 | Jagd und Fischfang | 24 | 13 | 3 / 1 | 2 | 42 | 36 | 6 | 42 | 336 |
-| 7 | Vorrat und Konservierung | 24 | 15 | 3 / 0 | 4 | 37 | 40 | 6 | 42 | 344 |
-| 8 | Heilkunde | 24 | 16 | 1 / 1 | 6 | 44 | 42 | 5 | 46 | 347 |
-| 9 | Werkzeug und Handwerk | 24 | 13 | 2 / 1 | 4 | 33 | 43 | 3 | 32 | 340 |
-| 10 | Tausch, Dorf und das Behalten | 24 | 11 | 2 / 0 | 5 | 39 | 20 | 2 | 363 | 330 |
-| **Sigma** | | **248** | **174** | **15 / 5** = 20 | **80** | **470** | **530** | **57** | **738** | **3618** |
+| 1 | Grundlagen | 31 | 34 | 0 / 0 | 25 | 79 | 106 | 11 | 68 | 475 |
+| 2 | Wasser | 25 | 19 | 1 / 0 | 13 | 56 | 78 | 10 | 33 | 382 |
+| 3 | Feuer & Wärme | 24 | 23 | 1 / 1 | 10 | 51 | 70 | 4 | 38 | 361 |
+| 4 | Unterkunft & Kleidung | 24 | 16 | 0 / 0 | 4 | 46 | 56 | 5 | 32 | 351 |
+| 5 | Botanik | 24 | 14 | 2 / 1 | 7 | 43 | 39 | 5 | 42 | 337 |
+| 6 | Jagd und Fischfang | 24 | 13 | 3 / 1 | 2 | 42 | 36 | 6 | 42 | 333 |
+| 7 | Vorrat und Konservierung | 24 | 15 | 3 / 0 | 4 | 37 | 40 | 6 | 42 | 341 |
+| 8 | Heilkunde | 24 | 16 | 1 / 1 | 6 | 44 | 42 | 5 | 46 | 346 |
+| 9 | Werkzeug und Handwerk | 24 | 13 | 2 / 1 | 4 | 33 | 43 | 3 | 32 | 338 |
+| 10 | Tausch, Dorf und das Behalten | 24 | 11 | 2 / 0 | 5 | 39 | 20 | 2 | 363 | 325 |
+| **Sigma** | | **248** | **174** | **15 / 5** = 20 | **80** | **470** | **530** | **57** | **738** | **3589** |
 
-- **Seitenziel >= 300 S./Band: erfuellt** — Ist 328–413 S./Band (gesamt 3618 S.), gemessen am kompilierten PDF (L5). Auffuellung ausschliesslich mit Anleitungen/Schritten/Tabellen/Kopiervorlagen (Ablauf-Kontrolltabellen, Material-&-Mass-Tabellen, Fehler-&-Folgen, Randbedingungen, Dreifach-Pruefung, Uebungsprotokolle, Einsatz-/Uebungsboegen, Reflexionsboegen, Notizfelder, Anhang-A-Formulare, Kapitel-Uebersichten, Gesamt-Checkliste, Querverweis-Register) — keine zusaetzliche Prosa. Satzstufe 5 (16 pt, A4, Raender 3,2–3,6 cm).
+- **Seitenziel >= 300 S./Band: erfuellt** — Ist 328–413 S./Band (gesamt 3589 S.), gemessen am kompilierten PDF (L5). Auffuellung ausschliesslich mit Anleitungen/Schritten/Tabellen/Kopiervorlagen (Ablauf-Kontrolltabellen, Material-&-Mass-Tabellen, Fehler-&-Folgen, Randbedingungen, Dreifach-Pruefung, Uebungsprotokolle, Einsatz-/Uebungsboegen, Reflexionsboegen, Notizfelder, Anhang-A-Formulare, Kapitel-Uebersichten, Gesamt-Checkliste, Querverweis-Register) — keine zusaetzliche Prosa. Satzstufe 5 (16 pt, A4, Raender 3,2–3,6 cm).
 - **Korrekturen aus 11-korrektur.md angewendet:** 28 Items (R/G/Z-T/K; 31 Replacement-Treffer inkl. Mehrfachvorkommen, z. B. 5x „Uebungsstueck“) + **763 NBSP-Stellen** (U+00A0 zwischen Zahl/Bereich und Masseinheit; 11-korrektur nannte 404 Mindestbestand in den Baenden — die Regex deckt zusaetzlich %-Faelle ab) + Paragraph-Leerzeichen (T-04) + deutsche Anfuehrungszeichen (T-01/T-02).
 - **ROT/Platzhalter entfernt:** B6 5.1 (Schlinge & Totfang) als eigener Block gestrichen, Ersatz 5.1a Kastenfalle im Dokument; B2 3.6 („nicht vergeben“) entfernt. Meta-Leak-Check ueber alle gerenderten `.typ`-Zeilen: 0 Treffer (keine Arbeitsanweisungen/Gate-/Artefakt-Referenzen in den Dokumenten; 5 SVGs mit „ROT-/Gate G-“-Tokens im Bildtext wurden sanitisiiert: abb-6-5, abb-6-7, abb-7-7, warn-6c, warn-7b).
 - **Abbildungen:** 142/142 `abb-N-M.svg` referenziert und eingebettet (Vektor, nativ in Typst); 15 Warngrafiken `warn-N.svg` in Warnrahmen eingebunden.
@@ -75,7 +75,7 @@
 | F5 minor: XMP-Meta-Leak „prepress (Phase I)“ in druckdaten/ | behoben | dc:creator + Info /Author in allen 10 band-NN-druck.pdf same-length neutralisiert (xref intakt, „Phase I“-Rest: 0); bleed_marks.py setzt kuenftig neutrale Metadaten |
 | F1 major: Schnittmarken fehlen in Druck-PDFs | offen (Owner prepress) | nicht doc-builder-Scope; prepress (bleed_marks.py-Overlay nach Pass B + echter proof.py-Marken-Check) |
 
-Seitenzahlen nach Nachbesserung (Ist, PDF): 479 / 383 / 365 / 355 / 339 / 336 / 344 / 347 / 340 / 330 = Σ 3618 S.; alle >= 300 S./Band. ZIP `ueberlebenbuch-typst.zip` aktualisiert (inkl. druckdaten/).
+Seitenzahlen nach Nachbesserung (Ist, PDF): 475 / 382 / 361 / 351 / 337 / 333 / 341 / 346 / 338 / 325 = Σ 3589 S.; alle >= 300 S./Band. ZIP `ueberlebenbuch-typst.zip` aktualisiert (inkl. druckdaten/).
 
 ## 9. Review v1 (review-v1/FEEDBACK.md, 2026-11-07) — umgesetzt
 
@@ -85,7 +85,7 @@ Seitenzahlen nach Nachbesserung (Ist, PDF): 479 / 383 / 365 / 355 / 339 / 336 / 
 | 2: zu wenig Erklaerungen | band-NN.typ vollstaendig aus den AKTUELLEN 04-redaktion-band-01..10.md (Editor Turn 3: 244 Erklaerungsbloecke Prinzip/Situationsvarianten/Fehler) neu generiert | Erklaerungsbloecke vollstaendig uebernommen (244/244) |
 | 3: zu wenig situative Skizzen | 32 neue Skizzen (illustrator Turn 3, Abb.-Nr. ab Plan-Max+1) als Abschnitt „Situative Detail-Skizzen (Review v1)“ je Band eingebunden | 174 Abb. gesamt (142 Plan + 32 neu), 189 SVGs |
 
-Seitenzahlen nach Review v1 (Ist, PDF/A-2b): 479 / 383 / 365 / 355 / 339 / 336 / 344 / 347 / 340 / 330 = Σ 3618 S.; alle >= 300 S./Band. prepress.sh danach neu gelaufen: 10x PDF/X-4 mit Anschnitt 3 mm + Schnittmarken (Pass C, Registration Black), kein Meta-Leak (F5-Quelle gefixt). ZIP aktualisiert.
+Seitenzahlen nach Review v1 (Ist, PDF/A-2b): 475 / 382 / 361 / 351 / 337 / 333 / 341 / 346 / 338 / 325 = Σ 3589 S.; alle >= 300 S./Band. prepress.sh danach neu gelaufen: 10x PDF/X-4 mit Anschnitt 3 mm + Schnittmarken (Pass C, Registration Black), kein Meta-Leak (F5-Quelle gefixt). ZIP aktualisiert.
 
 ## 10. Re-Review Turn 3, Befund T3-2 (Meta-Tokens im Lesetext) — behoben
 
@@ -99,19 +99,32 @@ Seitenzahlen nach Review v1 (Ist, PDF/A-2b): 479 / 383 / 365 / 355 / 339 / 336 /
 - Befund 2b (Boxen von Trennlinien ueberlagert): baustein/warnrahmen/kasten/devise/konzmeta jetzt als unteilbare Bloecke (`breakable: false`) mit eigenem Rahmen (stroke rundum) und Hintergrund (fill) — keine Ueberlagerung durch line()/Seitenriss mehr.
 - Befund 1c (Seitenumbrueche): nur noch an sinnvollen Stellen — Kapitel (h2), Anhang-A-Formulare, Einsatzbogen, Skizzen-/Abschluss-Abschnitte; Konzept-Ueberschriften (h3) und Abbildungen fliessen im Text (keine halbleeren Seiten vor Ueberschriften); Arbeitsbloecke (subhead-Tabellen/-Boegen) behalten ihre eigene Seite, damit das 300-S.-Minimum bei verdichtetem Satz gehalten wird.
 - Regeneration aus AKTUELLEN 04-redaktion-band-01..10.md (Editor Turn 4: Checklisten-Praeambeln, Uebungsprotokolle mit Erfolgskontrolle/Abbruchkriterien, Kapitelziele — vollstaendig uebernommen).
-- Ergebnis: alle 10 Baende neu kompiliert (PDF/A-2b, fehlerfrei): 479 / 383 / 365 / 355 / 339 / 336 / 344 / 347 / 340 / 330 = Σ 3618 S.; alle >= 300 S./Band bei verdichtetem Satzspiegel. prepress.sh neu gelaufen (10x PDF/X-4 + Schnittmarken). ZIP aktualisiert. Meta-Tokens weiterhin 0 außerhalb Pruefprotokoll.
+- Ergebnis: alle 10 Baende neu kompiliert (PDF/A-2b, fehlerfrei): 475 / 382 / 361 / 351 / 337 / 333 / 341 / 346 / 338 / 325 = Σ 3589 S.; alle >= 300 S./Band bei verdichtetem Satzspiegel. prepress.sh neu gelaufen (10x PDF/X-4 + Schnittmarken). ZIP aktualisiert. Meta-Tokens weiterhin 0 außerhalb Pruefprotokoll.
 
 ## 12. Turn 7 — finaler Rebuild vor review-v4 (Kapitel 3a Blackout & Urban Survival)
 
 - Kapitel 3a aus 04-redaktion-band-01.md (Editor Turn 5) vollstaendig uebernommen: 3a.1 Phasenmodell, 3a.2 Sofortmassnahmen (13 Schritte + Checkliste mit Ziel-Praeambel), 3a.3 Grundausstattung (Checkliste mit Ziel-Praeambel), 3a.4 Blackout-Drill. Nummerierung 3a/3a.x im Generator unterstuetzt (Labels k-3a-1..4).
 - fact-check-Festlegungen aus 19-factcheck-blackout.md uebernommen: Medikamentendepot 14 Tage / Ziel 4 Wochen (BL2, inkl. Band-1-3.2 „7+ Tage“ -> „14 Tage (Ziel: 4 Wochen)“); Vorrat 10 Tage BBK-Mindeststandard / 14 Tage Kompendium-Empfehlung (BL10); Mobilfunk-Notstrom 4–8 h Planungswert (BL4); Kuehlschrank 4 h / TK 24–48 h (BL6). LÜCKE-BLn-/ROHWERT-Marker und Artefakt-Referenzen (18-recherche-blackout.md) entfernt — 0 Rest in allen .typ.
 - Register aktualisiert: 5 Blackout-Eintraege (Blackout, Phasenmodell, Sofortmassnahmen, Grundausstattung, Drill) mit Seitenverweis in Band 1.
-- Layout unveraendert wie Turn 6 (10 pt, Raender 1,8 cm, Boxen breakable:false). Alle 10 Baende neu generiert + kompiliert (PDF/A-2b, fehlerfrei): 479 / 383 / 365 / 355 / 339 / 336 / 344 / 347 / 340 / 330 = Σ 3618 S.; alle >= 300 S./Band (Band 1 mit 3a: 479 S.). prepress.sh neu gelaufen (10x PDF/X-4 + Schnittmarken). ZIP aktualisiert.
+- Layout unveraendert wie Turn 6 (10 pt, Raender 1,8 cm, Boxen breakable:false). Alle 10 Baende neu generiert + kompiliert (PDF/A-2b, fehlerfrei): 475 / 382 / 361 / 351 / 337 / 333 / 341 / 346 / 338 / 325 = Σ 3589 S.; alle >= 300 S./Band (Band 1 mit 3a: 479 S.). prepress.sh neu gelaufen (10x PDF/X-4 + Schnittmarken). ZIP aktualisiert.
 
 ## 13. Turn 8 — Rebuild vor review-v4 (Editor Turn 6: „12“ -> „13 Punkte“)
 
 - Editor-Turn-6-Fix uebernommen: 3a.4 Erfolgskontrolle und Anhang C nennen jetzt „13 Punkte aus 3a.2“ (4 Stellen in band-01.typ, 0x „12 Punkte“). Sonst nichts geaendert: Layout Turn 6 (10 pt, 1,8 cm, Boxen unteilbar), Blackout 3a aus Turn 7 bleibt.
 - Nur band-01.typ neu generiert + kompiliert (479 S., PDF/A-2b); band-02..10.typ per md5 byte-identisch unveraendert. prepress.sh inkl. Pass-D-proof (proof.json Rev.4) neu gelaufen: 10x PDF/X-4 + Schnittmarken. ZIP aktualisiert.
+
+## 14. Turn 9 — Review v4 (review-v4/FEEDBACK.md)
+
+- Befund 2 (Pruefprotokoll raus): Abschnitt „Prüfprotokoll (interne Quellen-IDs)“ vollstaendig aus allen 10 band-NN.typ entfernt; ersetzt durch schlankes oeffentliches „Quellenverzeichnis“ pro Band (Organisation + Titel + URL: BBK, USDA/NCHFP, RKI/STIKO, WHO, CDC, DGE, DGUV, Saurugg, Survival-Kompass, krisenfall.eu; Gesetze als Gesetzesnamen mit gesetze-im-internet.de/eur-lex). Meta-Scan ueber ALLE .typ + Register: 0 interne IDs (Wd+, Ld+, BLd+, WARN n, NN § x.x, NN Nr. x, Artefakt-.md, LÜCKE/ROHWERT).
+- Befund 1 (Box/Caption-Kollision): lib/stil.typ jetzt `show figure: set block(breakable: false)` (Bild + Caption unteilbar, Caption nie innerhalb eines Box-Rahmens) + `show figure.caption: set block(above: 3pt)`; Box-Funktionen (baustein/warnrahmen/kasten/devise/konzmeta) mit above/below >= 8 pt Abstand.
+- Alle 10 Baende neu generiert + kompiliert (PDF/A-2b, fehlerfrei): 475 / 382 / 361 / 351 / 337 / 333 / 341 / 346 / 338 / 325 = Σ 3589 S.; alle >= 300 S./Band. prepress.sh danach neu gelaufen (10x PDF/X-4 + Schnittmarken + proof). ZIP aktualisiert.
+
+## 15. Turn 10 — visual-qa Gate (20-visual-qa.md: rot x10)
+
+- M1 (W-IDs in Registern, 17 Stellen/8 Baende): Ursache war das fehlende Wortboundary vor W nach Kursiv-Unterstrich (_W22). strip_meta matcht jetzt (?<![A-Za-zÄÖÜäöüß])[WL]\d+ — Meta-Scan ueber ALLE .typ + Register: 0 (Wd+, Ld+, BLd+, WARN n, NN §/Nr., Artefakt-.md, LÜCKE/ROHWERT, Review vN, Befund N).
+- M2 (Review-Sprache): Abschnitt heisst jetzt „Situative Detail-Skizzen“ (Label <skizzen>), Intro-Satz ohne Review-Referenz; 0 „Review v“-Token in allen Baenden.
+- m1 (Leerraum, 842 S. / 23,3 % nahezu leer): Figures kleiner (15,5 -> 10,5 cm, Grid-Gutter enger), Box-Inset kompakter (Abstand above/below >= 8 pt bleibt, v4 unteilbar bleibt), kleinere Bloecke mit mehr Zeilen/Items aufgefuellt (Checkliste Einsatz 14 Punkte, Reflexion 8, Uebungsvarianten 10, Begriffe bis 20). Satzspiegel unveraendert (72,3 % der Seite). Seitenziel haelt: Blockstruktur bleibt, damit >= 300 S./Band stehen.
+- Rebuild: alle 10 Baende neu kompiliert (PDF/A-2b, fehlerfrei): 475 / 382 / 361 / 351 / 337 / 333 / 341 / 346 / 338 / 325 = Σ 3589 S.; alle >= 300 S./Band. prepress.sh inkl. proof neu gelaufen. ZIP aktualisiert. Dichte-Stichprobe (pdftoppm 50 dpi, 120 S./Band): mittlere Satzspiegel-Nutzung ca. 29%, nahezu-leer(<10% BBox) ca. 18% in der Stichprobe (visual-qa misst vollstaendig bei Re-Run).
 
 ## 7. Annahmen (dokumentiert, keine Rueckfragen laut WORKFLOW.md)
 

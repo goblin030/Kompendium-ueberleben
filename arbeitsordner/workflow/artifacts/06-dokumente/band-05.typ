@@ -96,7 +96,7 @@ _Querverweise:_ siehe Konzept 1.2, siehe Konzept 1.3, siehe Konzept 2.2. _Erklä
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -124,6 +124,13 @@ _Querverweise:_ siehe Konzept 1.2, siehe Konzept 1.3, siehe Konzept 2.2. _Erklä
 - [ ] Übungsbogen bereit
 - [ ] Querverweise notiert
 - [ ] Protokollheft griffbereit (Konzept 9.1)
+- [ ] Warnrahmen gelesen (falls vorhanden)
+- [ ] Notfallkontakte auf Papier (Konzept 3.4)
+- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
+- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
+- [ ] Dokumentenkopien wasserdicht verstaut
+- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
+- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -164,6 +171,10 @@ _Querverweise:_ siehe Konzept 1.2, siehe Konzept 1.3, siehe Konzept 2.2. _Erklä
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 1.1)]
 #table(
@@ -175,6 +186,9 @@ _Querverweise:_ siehe Konzept 1.2, siehe Konzept 1.3, siehe Konzept 2.2. _Erklä
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 1.1)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -285,7 +299,7 @@ _Querverweise:_ siehe Konzept B10-5.2, siehe Konzept B10-5.3. _Erklärung:_
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -316,6 +330,13 @@ _Querverweise:_ siehe Konzept B10-5.2, siehe Konzept B10-5.3. _Erklärung:_
 - [ ] Übungsbogen bereit
 - [ ] Querverweise notiert
 - [ ] Protokollheft griffbereit (Konzept 9.1)
+- [ ] Warnrahmen gelesen (falls vorhanden)
+- [ ] Notfallkontakte auf Papier (Konzept 3.4)
+- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
+- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
+- [ ] Dokumentenkopien wasserdicht verstaut
+- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
+- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -356,6 +377,10 @@ _Querverweise:_ siehe Konzept B10-5.2, siehe Konzept B10-5.3. _Erklärung:_
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 1.2)]
 #table(
@@ -367,6 +392,9 @@ _Querverweise:_ siehe Konzept B10-5.2, siehe Konzept B10-5.3. _Erklärung:_
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 1.2)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -471,7 +499,7 @@ _Querverweise:_ siehe Konzept 8.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -499,6 +527,13 @@ _Querverweise:_ siehe Konzept 8.3.
 - [ ] Übungsbogen bereit
 - [ ] Querverweise notiert
 - [ ] Protokollheft griffbereit (Konzept 9.1)
+- [ ] Warnrahmen gelesen (falls vorhanden)
+- [ ] Notfallkontakte auf Papier (Konzept 3.4)
+- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
+- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
+- [ ] Dokumentenkopien wasserdicht verstaut
+- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
+- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -539,6 +574,10 @@ _Querverweise:_ siehe Konzept 8.3.
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 1.3)]
 #table(
@@ -550,6 +589,9 @@ _Querverweise:_ siehe Konzept 8.3.
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 1.3)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -624,7 +666,7 @@ _Erklärung:_
 )
 === 2.1 Merkmale & Familien (5 Merkmale) <k-2-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 5.1]
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-1.svg", width: 100%), caption: [Abb. 5.1 — Bestimmung: fünf Merkmale checken – Blatt, Blüte, Stängel, Wurzel, Standort & Geruch (Konzept 2.1).])]]
+#align(center)[#block(width: 10.5cm)[#figure(image("illustrationen/abb-5-1.svg", width: 100%), caption: [Abb. 5.1 — Bestimmung: fünf Merkmale checken – Blatt, Blüte, Stängel, Wurzel, Standort & Geruch (Konzept 2.1).])]]
 Bestimme jede Pflanze über _fünf Merkmale_: Blattstellung, Blattform, Blattrand, Blütenstand, Geruch (beim Zerreiben).
 + Merkmale einzeln notieren (Bestimmungsblatt Anhang A).
 + Familie eingrenzen, dann Art.
@@ -672,7 +714,7 @@ _Querverweise:_ siehe Konzept 2.2, siehe Anhang A (Bestimmungsblatt). _Erklärun
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -705,6 +747,13 @@ _Querverweise:_ siehe Konzept 2.2, siehe Anhang A (Bestimmungsblatt). _Erklärun
 - [ ] Übungsbogen bereit
 - [ ] Querverweise notiert
 - [ ] Protokollheft griffbereit (Konzept 9.1)
+- [ ] Warnrahmen gelesen (falls vorhanden)
+- [ ] Notfallkontakte auf Papier (Konzept 3.4)
+- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
+- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
+- [ ] Dokumentenkopien wasserdicht verstaut
+- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
+- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -745,6 +794,10 @@ _Querverweise:_ siehe Konzept 2.2, siehe Anhang A (Bestimmungsblatt). _Erklärun
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 2.1)]
 #table(
@@ -756,6 +809,9 @@ _Querverweise:_ siehe Konzept 2.2, siehe Anhang A (Bestimmungsblatt). _Erklärun
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 2.1)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -813,7 +869,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 === 2.2 Verwechslungs-Paare & Giftpflanzen <k-2-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün + _WARNRAHMEN [warn-5]_ · P 9 · M unbedenklich · V 8 · Abb. 5.2]
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-2.svg", width: 100%), caption: [Abb. 5.2 — Verwechslungs-Paare: Bärlauch vs. Maiglöckchen/Aronstab, Wilde Karotte vs. Schierling – warn-5 (Konzept 2.2).])]]
+#align(center)[#block(width: 10.5cm)[#figure(image("illustrationen/abb-5-2.svg", width: 100%), caption: [Abb. 5.2 — Verwechslungs-Paare: Bärlauch vs. Maiglöckchen/Aronstab, Wilde Karotte vs. Schierling – warn-5 (Konzept 2.2).])]]
 #warnrahmen(id: "warn-5", title: [GIFTPFLANZEN (verschärft):])[Tollkirsche, Schierling, Maiglöckchen, Aronstab, Fingerhut, Eisenhut, Hundspetersilie, Rhododendron — _kein Laien-Gegenmittel_. _Herbstzeitlose vs Bärlauch:_ Frühjahrsblätter täuschend ähnlich — Colchicin, tödlich; sicherstes Merkmal: _Knoblauchgeruch beim Zerreiben des Bärlauchs_. _Herkulesstaude (Riesenbärenklau):_ Saft + UV-Licht = phototoxische Verbrennungen 2. Grades — _nicht berühren_. Geschützte Arten sind kein Sammelgut (siehe Konzept 1.1). Giftnotruf: _116 123 (DE) / +353 1 809 2166 (IE) / 112 (EU)_; Reste sichern (siehe Konzept B8-5.2). _„Keine Mahlzeit ohne Namen + zweites Merkmal.“_]
 #table(
   columns: 3,
@@ -860,7 +916,7 @@ _Querverweise:_ siehe Konzept B8-5.1, Gift erkennen, siehe Konzept B8-3.1, Kräu
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -887,6 +943,13 @@ _Querverweise:_ siehe Konzept B8-5.1, Gift erkennen, siehe Konzept B8-3.1, Kräu
 - [ ] Übungsbogen bereit
 - [ ] Querverweise notiert
 - [ ] Protokollheft griffbereit (Konzept 9.1)
+- [ ] Warnrahmen gelesen (falls vorhanden)
+- [ ] Notfallkontakte auf Papier (Konzept 3.4)
+- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
+- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
+- [ ] Dokumentenkopien wasserdicht verstaut
+- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
+- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -927,6 +990,10 @@ _Querverweise:_ siehe Konzept B8-5.1, Gift erkennen, siehe Konzept B8-3.1, Kräu
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 2.2)]
 #table(
@@ -938,6 +1005,9 @@ _Querverweise:_ siehe Konzept B8-5.1, Gift erkennen, siehe Konzept B8-3.1, Kräu
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 2.2)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -1038,7 +1108,7 @@ _Querverweise:_ siehe Konzept B8-3.4, Umschlag-Buch. _Erklärung:_
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1066,6 +1136,13 @@ _Querverweise:_ siehe Konzept B8-3.4, Umschlag-Buch. _Erklärung:_
 - [ ] Übungsbogen bereit
 - [ ] Querverweise notiert
 - [ ] Protokollheft griffbereit (Konzept 9.1)
+- [ ] Warnrahmen gelesen (falls vorhanden)
+- [ ] Notfallkontakte auf Papier (Konzept 3.4)
+- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
+- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
+- [ ] Dokumentenkopien wasserdicht verstaut
+- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
+- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -1106,6 +1183,10 @@ _Querverweise:_ siehe Konzept B8-3.4, Umschlag-Buch. _Erklärung:_
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 2.3)]
 #table(
@@ -1117,6 +1198,9 @@ _Querverweise:_ siehe Konzept B8-3.4, Umschlag-Buch. _Erklärung:_
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 2.3)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -1204,7 +1288,7 @@ _Querverweise:_ siehe Konzept 2.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1225,6 +1309,13 @@ _Querverweise:_ siehe Konzept 2.1.
 - [ ] Übungsbogen bereit
 - [ ] Querverweise notiert
 - [ ] Protokollheft griffbereit (Konzept 9.1)
+- [ ] Warnrahmen gelesen (falls vorhanden)
+- [ ] Notfallkontakte auf Papier (Konzept 3.4)
+- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
+- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
+- [ ] Dokumentenkopien wasserdicht verstaut
+- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
+- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -1265,6 +1356,10 @@ _Querverweise:_ siehe Konzept 2.1.
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 2.4)]
 #table(
@@ -1276,6 +1371,9 @@ _Querverweise:_ siehe Konzept 2.1.
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 2.4)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -1348,7 +1446,7 @@ _Erklärung:_
 )
 === 3.1 Das sichere Dutzend (12 Arten) <k-3-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 5.3]
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-3.svg", width: 100%), caption: [Abb. 5.3 — Das sichere Dutzend: 12 Arten, die ohne Spezialwerkzeug bestimmbar sind (Konzept 3.1).])]]
+#align(center)[#block(width: 10.5cm)[#figure(image("illustrationen/abb-5-3.svg", width: 100%), caption: [Abb. 5.3 — Das sichere Dutzend: 12 Arten, die ohne Spezialwerkzeug bestimmbar sind (Konzept 3.1).])]]
 Zwölf Arten, die ohne Spezialwerkzeug bestimmbar sind und _keine geschützten Arten_ enthalten (Prüfung gegen BNatSchG Anlage 1, siehe Konzept 1.1): z. B. Brennnessel, Giersch, Löwenzahn, Wegerich, Schafgarbe, Gundermann, Vogelmiere, Ampfer (siehe 3.2), Bärlauch (nur mit Knoblauch-Merkmal, siehe 2.2), Holunder (Blüte), Huflattich, Hopfen (Triebe).
 + Jede Art mit Merkmal + Verwechslungsfalle (siehe Konzept 2.2) bestimmen.
 + Erst dann ernten.
@@ -1394,7 +1492,7 @@ _Querverweise:_ siehe Konzept 2.2, siehe Konzept 1.1. _Erklärung:_
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1424,6 +1522,13 @@ _Querverweise:_ siehe Konzept 2.2, siehe Konzept 1.1. _Erklärung:_
 - [ ] Übungsbogen bereit
 - [ ] Querverweise notiert
 - [ ] Protokollheft griffbereit (Konzept 9.1)
+- [ ] Warnrahmen gelesen (falls vorhanden)
+- [ ] Notfallkontakte auf Papier (Konzept 3.4)
+- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
+- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
+- [ ] Dokumentenkopien wasserdicht verstaut
+- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
+- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -1464,6 +1569,10 @@ _Querverweise:_ siehe Konzept 2.2, siehe Konzept 1.1. _Erklärung:_
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 3.1)]
 #table(
@@ -1475,6 +1584,9 @@ _Querverweise:_ siehe Konzept 2.2, siehe Konzept 1.1. _Erklärung:_
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 3.1)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -1562,7 +1674,7 @@ _Querverweise:_ siehe Konzept 3.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1584,6 +1696,13 @@ _Querverweise:_ siehe Konzept 3.1.
 - [ ] Übungsbogen bereit
 - [ ] Querverweise notiert
 - [ ] Protokollheft griffbereit (Konzept 9.1)
+- [ ] Warnrahmen gelesen (falls vorhanden)
+- [ ] Notfallkontakte auf Papier (Konzept 3.4)
+- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
+- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
+- [ ] Dokumentenkopien wasserdicht verstaut
+- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
+- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -1624,6 +1743,10 @@ _Querverweise:_ siehe Konzept 3.1.
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 3.2)]
 #table(
@@ -1635,6 +1758,9 @@ _Querverweise:_ siehe Konzept 3.1.
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 3.2)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -1707,7 +1833,7 @@ _Erklärung:_
 )
 === 4.1 Grabstock-Kunde <k-4-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 5.4]
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-4.svg", width: 100%), caption: [Abb. 5.4 — Grabstock-Kunde: Drei-Stimmen-Regel, Hebel statt Reißen (Konzept 4.1).])]]
+#align(center)[#block(width: 10.5cm)[#figure(image("illustrationen/abb-5-4.svg", width: 100%), caption: [Abb. 5.4 — Grabstock-Kunde: Drei-Stimmen-Regel, Hebel statt Reißen (Konzept 4.1).])]]
 _Drei-Stimmen-Regel:_ Wurzel nur ausgraben, wenn drei Merkmale stimmen (siehe Konzept 2.1). _Hebel statt Reißen_ — Grabstock als Hebel, nicht als Brechstange.
 + Pflanze bestimmen (siehe Konzept 2.1/2.2) — nie unbekannte Wurzeln graben.
 + Mit Hebel aushebeln, Wurzelstock prüfen.
@@ -1755,7 +1881,7 @@ _Querverweise:_ siehe Konzept 1.1, siehe Konzept 2.2. _Erklärung:_
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1788,6 +1914,13 @@ _Querverweise:_ siehe Konzept 1.1, siehe Konzept 2.2. _Erklärung:_
 - [ ] Übungsbogen bereit
 - [ ] Querverweise notiert
 - [ ] Protokollheft griffbereit (Konzept 9.1)
+- [ ] Warnrahmen gelesen (falls vorhanden)
+- [ ] Notfallkontakte auf Papier (Konzept 3.4)
+- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
+- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
+- [ ] Dokumentenkopien wasserdicht verstaut
+- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
+- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -1828,6 +1961,10 @@ _Querverweise:_ siehe Konzept 1.1, siehe Konzept 2.2. _Erklärung:_
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 4.1)]
 #table(
@@ -1839,6 +1976,9 @@ _Querverweise:_ siehe Konzept 1.1, siehe Konzept 2.2. _Erklärung:_
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 4.1)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -1927,7 +2067,7 @@ _Querverweise:_ siehe Konzept B6-8.1, `warn-6`.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1950,6 +2090,13 @@ _Querverweise:_ siehe Konzept B6-8.1, `warn-6`.
 - [ ] Übungsbogen bereit
 - [ ] Querverweise notiert
 - [ ] Protokollheft griffbereit (Konzept 9.1)
+- [ ] Warnrahmen gelesen (falls vorhanden)
+- [ ] Notfallkontakte auf Papier (Konzept 3.4)
+- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
+- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
+- [ ] Dokumentenkopien wasserdicht verstaut
+- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
+- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -1990,6 +2137,10 @@ _Querverweise:_ siehe Konzept B6-8.1, `warn-6`.
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 4.2)]
 #table(
@@ -2001,6 +2152,9 @@ _Querverweise:_ siehe Konzept B6-8.1, `warn-6`.
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 4.2)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -2107,7 +2261,7 @@ _Querverweise:_ siehe Konzept 2.2, siehe Konzept B7-6.1, Einkochen von Obst — 
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2129,6 +2283,13 @@ _Querverweise:_ siehe Konzept 2.2, siehe Konzept B7-6.1, Einkochen von Obst — 
 - [ ] Übungsbogen bereit
 - [ ] Querverweise notiert
 - [ ] Protokollheft griffbereit (Konzept 9.1)
+- [ ] Warnrahmen gelesen (falls vorhanden)
+- [ ] Notfallkontakte auf Papier (Konzept 3.4)
+- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
+- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
+- [ ] Dokumentenkopien wasserdicht verstaut
+- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
+- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -2169,6 +2330,10 @@ _Querverweise:_ siehe Konzept 2.2, siehe Konzept B7-6.1, Einkochen von Obst — 
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 5.1)]
 #table(
@@ -2180,6 +2345,9 @@ _Querverweise:_ siehe Konzept 2.2, siehe Konzept B7-6.1, Einkochen von Obst — 
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 5.1)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -2237,7 +2405,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 === 5.2 Nüsse & Läuterung <k-5-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 8 · Abb. 5.5]
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-5.svg", width: 100%), caption: [Abb. 5.5 — Nüsse läutern: Eicheln/Kastanien – Schalen auf, Wasser 3–10 Tage wechseln (Konzept 5.2, Buchecker = Fagin).])]]
+#align(center)[#block(width: 10.5cm)[#figure(image("illustrationen/abb-5-5.svg", width: 100%), caption: [Abb. 5.5 — Nüsse läutern: Eicheln/Kastanien – Schalen auf, Wasser 3–10 Tage wechseln (Konzept 5.2, Buchecker = Fagin).])]]
 Eicheln/Kastanien: _Läuterung mit Wasser über 3–10 Tage_ (Wechsel täglich), bis Bitterstoffe raus; _Bucheckern enthalten Fagin_ — immer läutern.
 + Nüsse sammeln, trocknen.
 + Schälen, mahlen.
@@ -2294,7 +2462,7 @@ _Querverweise:_ siehe Konzept 5.3. _Erklärung:_
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2331,6 +2499,13 @@ _Querverweise:_ siehe Konzept 5.3. _Erklärung:_
 - [ ] Übungsbogen bereit
 - [ ] Querverweise notiert
 - [ ] Protokollheft griffbereit (Konzept 9.1)
+- [ ] Warnrahmen gelesen (falls vorhanden)
+- [ ] Notfallkontakte auf Papier (Konzept 3.4)
+- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
+- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
+- [ ] Dokumentenkopien wasserdicht verstaut
+- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
+- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -2371,6 +2546,10 @@ _Querverweise:_ siehe Konzept 5.3. _Erklärung:_
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 5.2)]
 #table(
@@ -2382,6 +2561,9 @@ _Querverweise:_ siehe Konzept 5.3. _Erklärung:_
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 5.2)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -2469,7 +2651,7 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept 5.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2490,6 +2672,13 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept 5.2.
 - [ ] Übungsbogen bereit
 - [ ] Querverweise notiert
 - [ ] Protokollheft griffbereit (Konzept 9.1)
+- [ ] Warnrahmen gelesen (falls vorhanden)
+- [ ] Notfallkontakte auf Papier (Konzept 3.4)
+- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
+- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
+- [ ] Dokumentenkopien wasserdicht verstaut
+- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
+- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -2530,6 +2719,10 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept 5.2.
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 5.3)]
 #table(
@@ -2541,6 +2734,9 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept 5.2.
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 5.3)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -2613,7 +2809,7 @@ _Erklärung:_
 )
 === 6.1 Die fünf Haus-Pflanzen <k-6-1>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb (SME)_ · P 7 · M unbedenklich · V 8 · Abb. 5.6]
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-6.svg", width: 100%), caption: [Abb. 5.6 — Fünf Haus-Pflanzen – mit Grenzen: Beinwell nur äußerlich auf intakter Haut, Weidenrinde nicht unter 16 J (Konzept 6.1, fachlektorische Korrektur).])]]
+#align(center)[#block(width: 10.5cm)[#figure(image("illustrationen/abb-5-6.svg", width: 100%), caption: [Abb. 5.6 — Fünf Haus-Pflanzen – mit Grenzen: Beinwell nur äußerlich auf intakter Haut, Weidenrinde nicht unter 16 J (Konzept 6.1, fachlektorische Korrektur).])]]
 Wegerich, Nessel, Kamille, Beinwell, Weidenrinde — mit Grenzen:
 #kasten([SME-Korrektur :])[_Beinwell nur äußerlich auf intakter Haut_ — innerlich obsolet (Pyrrolizidinalkaloide, hepatotoxisch, EMA/HMPC). _Weidenrinde nicht bei Kindern/Jugendlichen \< 16 J_ (Reye-Syndrom, siehe Konzept B8-7.3).]
 #table(
@@ -2667,7 +2863,7 @@ _Querverweise:_ siehe Konzept B8-3.1, siehe Konzept B8-7.3, siehe Konzept 6.2. _
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2692,6 +2888,13 @@ _Querverweise:_ siehe Konzept B8-3.1, siehe Konzept B8-7.3, siehe Konzept 6.2. _
 - [ ] Übungsbogen bereit
 - [ ] Querverweise notiert
 - [ ] Protokollheft griffbereit (Konzept 9.1)
+- [ ] Warnrahmen gelesen (falls vorhanden)
+- [ ] Notfallkontakte auf Papier (Konzept 3.4)
+- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
+- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
+- [ ] Dokumentenkopien wasserdicht verstaut
+- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
+- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -2732,6 +2935,10 @@ _Querverweise:_ siehe Konzept B8-3.1, siehe Konzept B8-7.3, siehe Konzept 6.2. _
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 6.1)]
 #table(
@@ -2743,6 +2950,9 @@ _Querverweise:_ siehe Konzept B8-3.1, siehe Konzept B8-7.3, siehe Konzept 6.2. _
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 6.1)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -2833,7 +3043,7 @@ _Querverweise:_ siehe Konzept B7-6.2k, `warn-7b`, siehe Konzepte B8-3.2 und B8-3
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2857,6 +3067,13 @@ _Querverweise:_ siehe Konzept B7-6.2k, `warn-7b`, siehe Konzepte B8-3.2 und B8-3
 - [ ] Übungsbogen bereit
 - [ ] Querverweise notiert
 - [ ] Protokollheft griffbereit (Konzept 9.1)
+- [ ] Warnrahmen gelesen (falls vorhanden)
+- [ ] Notfallkontakte auf Papier (Konzept 3.4)
+- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
+- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
+- [ ] Dokumentenkopien wasserdicht verstaut
+- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
+- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -2897,6 +3114,10 @@ _Querverweise:_ siehe Konzept B7-6.2k, `warn-7b`, siehe Konzepte B8-3.2 und B8-3
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 6.2)]
 #table(
@@ -2908,6 +3129,9 @@ _Querverweise:_ siehe Konzept B7-6.2k, `warn-7b`, siehe Konzepte B8-3.2 und B8-3
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 6.2)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -2981,7 +3205,7 @@ _Erklärung:_
 )
 === 7.1 Faseraufschluss (Röste) <k-7-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 5.7]
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-7.svg", width: 100%), caption: [Abb. 5.7 — Faseraufschluss (Röste): Tau 1–5 Wochen oder Wasser 3–10 Tage – dann lösen sich die Fasern (Konzept 7.1).])]]
+#align(center)[#block(width: 10.5cm)[#figure(image("illustrationen/abb-5-7.svg", width: 100%), caption: [Abb. 5.7 — Faseraufschluss (Röste): Tau 1–5 Wochen oder Wasser 3–10 Tage – dann lösen sich die Fasern (Konzept 7.1).])]]
 + _Tau-Röste: 1–5 Wochen_ im stehenden Gewässer.
 + _Wasser-Röste: 3–10 Tage_ in warmem Wasser.
 + Danach Fasern lösen, waschen, trocknen.
@@ -3029,7 +3253,7 @@ _Querverweise:_ siehe Konzept B4-7.2. _Erklärung:_
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3063,6 +3287,13 @@ _Querverweise:_ siehe Konzept B4-7.2. _Erklärung:_
 - [ ] Übungsbogen bereit
 - [ ] Querverweise notiert
 - [ ] Protokollheft griffbereit (Konzept 9.1)
+- [ ] Warnrahmen gelesen (falls vorhanden)
+- [ ] Notfallkontakte auf Papier (Konzept 3.4)
+- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
+- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
+- [ ] Dokumentenkopien wasserdicht verstaut
+- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
+- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -3103,6 +3334,10 @@ _Querverweise:_ siehe Konzept B4-7.2. _Erklärung:_
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 7.1)]
 #table(
@@ -3114,6 +3349,9 @@ _Querverweise:_ siehe Konzept B4-7.2. _Erklärung:_
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 7.1)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -3204,7 +3442,7 @@ _Querverweise:_ siehe Konzept 1.1, siehe Konzept B9-5.2, Seil & Knoten. _Erklär
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3226,6 +3464,13 @@ _Querverweise:_ siehe Konzept 1.1, siehe Konzept B9-5.2, Seil & Knoten. _Erklär
 - [ ] Übungsbogen bereit
 - [ ] Querverweise notiert
 - [ ] Protokollheft griffbereit (Konzept 9.1)
+- [ ] Warnrahmen gelesen (falls vorhanden)
+- [ ] Notfallkontakte auf Papier (Konzept 3.4)
+- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
+- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
+- [ ] Dokumentenkopien wasserdicht verstaut
+- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
+- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -3266,6 +3511,10 @@ _Querverweise:_ siehe Konzept 1.1, siehe Konzept B9-5.2, Seil & Knoten. _Erklär
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 7.2)]
 #table(
@@ -3277,6 +3526,9 @@ _Querverweise:_ siehe Konzept 1.1, siehe Konzept B9-5.2, Seil & Knoten. _Erklär
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 7.2)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -3375,7 +3627,7 @@ _Querverweise:_ siehe Konzept 7.1.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3406,6 +3658,13 @@ _Querverweise:_ siehe Konzept 7.1.
 - [ ] Übungsbogen bereit
 - [ ] Querverweise notiert
 - [ ] Protokollheft griffbereit (Konzept 9.1)
+- [ ] Warnrahmen gelesen (falls vorhanden)
+- [ ] Notfallkontakte auf Papier (Konzept 3.4)
+- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
+- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
+- [ ] Dokumentenkopien wasserdicht verstaut
+- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
+- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -3446,6 +3705,10 @@ _Querverweise:_ siehe Konzept 7.1.
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 7.3)]
 #table(
@@ -3457,6 +3720,9 @@ _Querverweise:_ siehe Konzept 7.1.
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 7.3)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -3530,7 +3796,7 @@ _Erklärung:_
 )
 === 8.1 Ried / Stroh / Binse (Dachdeckung) <k-8-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 5.8]
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-8.svg", width: 100%), caption: [Abb. 5.8 — Dachdeck-Material: Ried, Stroh, Binse – gebündelt, mind. 45° Neigung (Konzept 8.1, konsistent B4 5.1).])]]
+#align(center)[#block(width: 10.5cm)[#figure(image("illustrationen/abb-5-8.svg", width: 100%), caption: [Abb. 5.8 — Dachdeck-Material: Ried, Stroh, Binse – gebündelt, mind. 45° Neigung (Konzept 8.1, konsistent B4 5.1).])]]
 Konsistent mit Konzept B4-5.1, Dachdeckung & Neigung.
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.1 „Ried / Stroh / Binse (Dachdeckung)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Dachneigung nach Material (siehe Konzept B4-5.1)
@@ -3564,7 +3830,7 @@ _Querverweise:_ siehe Konzept B4-5.1. _Erklärung:_
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3585,6 +3851,13 @@ _Querverweise:_ siehe Konzept B4-5.1. _Erklärung:_
 - [ ] Übungsbogen bereit
 - [ ] Querverweise notiert
 - [ ] Protokollheft griffbereit (Konzept 9.1)
+- [ ] Warnrahmen gelesen (falls vorhanden)
+- [ ] Notfallkontakte auf Papier (Konzept 3.4)
+- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
+- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
+- [ ] Dokumentenkopien wasserdicht verstaut
+- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
+- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -3625,6 +3898,10 @@ _Querverweise:_ siehe Konzept B4-5.1. _Erklärung:_
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 8.1)]
 #table(
@@ -3636,6 +3913,9 @@ _Querverweise:_ siehe Konzept B4-5.1. _Erklärung:_
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 8.1)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -3727,7 +4007,7 @@ _Querverweise:_ siehe Konzept 1.1, siehe Konzept B10-5.2. _Erklärung:_
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3750,6 +4030,13 @@ _Querverweise:_ siehe Konzept 1.1, siehe Konzept B10-5.2. _Erklärung:_
 - [ ] Übungsbogen bereit
 - [ ] Querverweise notiert
 - [ ] Protokollheft griffbereit (Konzept 9.1)
+- [ ] Warnrahmen gelesen (falls vorhanden)
+- [ ] Notfallkontakte auf Papier (Konzept 3.4)
+- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
+- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
+- [ ] Dokumentenkopien wasserdicht verstaut
+- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
+- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -3790,6 +4077,10 @@ _Querverweise:_ siehe Konzept 1.1, siehe Konzept B10-5.2. _Erklärung:_
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 8.2)]
 #table(
@@ -3801,6 +4092,9 @@ _Querverweise:_ siehe Konzept 1.1, siehe Konzept B10-5.2. _Erklärung:_
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 8.2)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -3858,7 +4152,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 === 8.3 Saatgut-Keimprobe (50 Körner / 7–14 T) <k-8-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 5.9]
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-9.svg", width: 100%), caption: [Abb. 5.9 — Saatgut-Keimprobe: 50 Körner auf feuchtem Tuch, 7–14 Tage, zählen (Konzept 8.3).])]]
+#align(center)[#block(width: 10.5cm)[#figure(image("illustrationen/abb-5-9.svg", width: 100%), caption: [Abb. 5.9 — Saatgut-Keimprobe: 50 Körner auf feuchtem Tuch, 7–14 Tage, zählen (Konzept 8.3).])]]
 + 50 Körner auf feuchtes Tuch, 7–14 Tage warm halten.
 + Keimlinge zählen: _\< 30 von 50 (60 %) → neue Saat_ (siehe Konzept B7-9.3).
 + Nie Saatgut essen (s. Konzept B7-9.3).
@@ -3909,7 +4203,7 @@ _Querverweise:_ siehe Konzept B7-9.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3940,6 +4234,13 @@ _Querverweise:_ siehe Konzept B7-9.3.
 - [ ] Übungsbogen bereit
 - [ ] Querverweise notiert
 - [ ] Protokollheft griffbereit (Konzept 9.1)
+- [ ] Warnrahmen gelesen (falls vorhanden)
+- [ ] Notfallkontakte auf Papier (Konzept 3.4)
+- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
+- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
+- [ ] Dokumentenkopien wasserdicht verstaut
+- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
+- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -3980,6 +4281,10 @@ _Querverweise:_ siehe Konzept B7-9.3.
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 8.3)]
 #table(
@@ -3991,6 +4296,9 @@ _Querverweise:_ siehe Konzept B7-9.3.
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 8.3)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -4063,7 +4371,7 @@ _Erklärung:_
 )
 === 9.1 Pilze <k-9-1>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb + WARNRAHMEN [warn-5b]_ · P 6 · M unbedenklich · V 7 · Abb. 5.10]
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-10.svg", width: 100%), caption: [Abb. 5.10 — Pilze: Knollenblätterpilz erkennen – Ring, Knolle (Volva), weiße Lamellen; Amatoxine hitzestabil, nie roh (Konzept 9.1, warn-5b).])]]
+#align(center)[#block(width: 10.5cm)[#figure(image("illustrationen/abb-5-10.svg", width: 100%), caption: [Abb. 5.10 — Pilze: Knollenblätterpilz erkennen – Ring, Knolle (Volva), weiße Lamellen; Amatoxine hitzestabil, nie roh (Konzept 9.1, warn-5b).])]]
 #warnrahmen(id: "warn-5b", title: [PILZE :])[Knollenblätterpilz und Frühjahrslorchel — _Amatoxine sind hitzestabil: kein Kochen, kein Braten rettet_. _Keine Rettungsleine, nie roh probieren._ Giftnotruf 116 123 (DE) / +353 1 809 2166 (IE) / 112 (EU). _Drei Merkmale aus lebendiger Anleitung_ (Lehrmeister, siehe Konzept B9-9.2) vor dem Verzehr bestätigen.]
 + Nur Pilze mit drei bestätigten Merkmalen sammeln.
 + Nie roh — auch ein „Testbissen“ ist tödlich.
@@ -4119,7 +4427,7 @@ _Querverweise:_ siehe Konzepte B8-5.1 und B8-5.2, siehe Konzept 2.2 (`warn-5`). 
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -4154,6 +4462,13 @@ _Querverweise:_ siehe Konzepte B8-5.1 und B8-5.2, siehe Konzept 2.2 (`warn-5`). 
 - [ ] Übungsbogen bereit
 - [ ] Querverweise notiert
 - [ ] Protokollheft griffbereit (Konzept 9.1)
+- [ ] Warnrahmen gelesen (falls vorhanden)
+- [ ] Notfallkontakte auf Papier (Konzept 3.4)
+- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
+- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
+- [ ] Dokumentenkopien wasserdicht verstaut
+- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
+- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -4194,6 +4509,10 @@ _Querverweise:_ siehe Konzepte B8-5.1 und B8-5.2, siehe Konzept 2.2 (`warn-5`). 
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 9.1)]
 #table(
@@ -4205,6 +4524,9 @@ _Querverweise:_ siehe Konzepte B8-5.1 und B8-5.2, siehe Konzept 2.2 (`warn-5`). 
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 9.1)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -4262,7 +4584,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 === 9.2 Pflanzen-Kalender (Monatsfenster ME/Irland) <k-9-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 5.11]
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-5-11.svg", width: 100%), caption: [Abb. 5.11 — Pflanzen-Kalender (Monatsfenster für ME/Irland): Ernte, wann was reif ist (Konzept 9.2).])]]
+#align(center)[#block(width: 10.5cm)[#figure(image("illustrationen/abb-5-11.svg", width: 100%), caption: [Abb. 5.11 — Pflanzen-Kalender (Monatsfenster für ME/Irland): Ernte, wann was reif ist (Konzept 9.2).])]]
 Monatsfenster für Ernte/Saat in Mitteleuropa und Irland (lokal um ± 2 Wochen verschiebbar nach Höhenlage/Küste; Abb. 5.11 zeigt denselben Kalender grafisch):
 #table(
   columns: 3,
@@ -4310,7 +4632,7 @@ _Querverweise:_ siehe Konzept B10-8.1, siehe Konzept 1.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -4331,6 +4653,13 @@ _Querverweise:_ siehe Konzept B10-8.1, siehe Konzept 1.3.
 - [ ] Übungsbogen bereit
 - [ ] Querverweise notiert
 - [ ] Protokollheft griffbereit (Konzept 9.1)
+- [ ] Warnrahmen gelesen (falls vorhanden)
+- [ ] Notfallkontakte auf Papier (Konzept 3.4)
+- [ ] Erste-Hilfe-Material griffbereit (B8-8.1)
+- [ ] Feuerlöscher / CO-Melder geprüft (warn-3)
+- [ ] Dokumentenkopien wasserdicht verstaut
+- [ ] Schlaf-/Ruheplatz gewählt (B4-1.2)
+- [ ] Wasservorrat kalkuliert (B2-8.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -4371,6 +4700,10 @@ _Querverweise:_ siehe Konzept B10-8.1, siehe Konzept 1.3.
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 9.2)]
 #table(
@@ -4382,6 +4715,9 @@ _Querverweise:_ siehe Konzept B10-8.1, siehe Konzept 1.3.
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 9.2)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -4590,9 +4926,9 @@ _Erklärung:_
 - _Situationsvarianten (wann welche):_ ME kühl-gemäßigt: Tabelle. Irland: milder, feuchter — Frühjahr früher, Herbst später. Stadt: Wärmeinsel + 1–2 Wochen.
 - _Typische Fehler (warum + Folge):_ Nach Kalender des Herkunftslandes (z. B. Tunesien) planen. Folge: Aussaat erfriert oder verpasst die Saison.
 #pagebreak(weak: true)
-== Situative Detail-Skizzen (Review v1) <skizzen-v1>
-Situative Skizzen zu Varianten und Situationen (mit Maßen und Kontext) — ergänzt nach Review v1, Befund 3.
-#grid(columns: (1fr, 1fr), column-gutter: 8pt, row-gutter: 8pt,
+== Situative Detail-Skizzen <skizzen>
+Situative Skizzen zu Varianten und Situationen — mit Maßen und Situationskontext.
+#grid(columns: (1fr, 1fr), column-gutter: 6pt, row-gutter: 5pt,
   figure(image("illustrationen/abb-5-12.svg", width: 100%), caption: [Abb. 5.12 — Sammelgang situativ: Kreise um das Lager – 500 m (täglich) und 2–5 km (bei Anlass) (Ergänzung zu Konzept 1.2).]),
   figure(image("illustrationen/abb-5-13.svg", width: 100%), caption: [Abb. 5.13 — Bestimmung situativ am Beispiel Bärlauch: drei sichere Merkmale vs. die drei Doppelgänger (Ergänzung zu Abb. 5.2).]),
   figure(image("illustrationen/abb-5-14.svg", width: 100%), caption: [Abb. 5.14 — Pilz-Merkmale am Fruchtkörper: Ring, Knolle (Volva), Lamellen, Hut, Stiel – Bestimmung nur mit lebendiger Anleitung (Ergänzung zu Abb. 5.10, warn-5b).]))
@@ -4667,15 +5003,14 @@ Alle Verweise aus diesem Band auf andere Bände (Schema B\<Band\>-X.Y):
   [9.2], [B10-8.1],
 )
 #pagebreak(weak: true)
-== Prüfprotokoll (interne Quellen-IDs) <pruefprotokoll>
-Interne Prüf-IDs aus dem Factcheck (dreifache Prüfung). Sie stehen nicht im Lesetext, sondern hier im Protokoll.
+== Quellenverzeichnis <quellen>
+Öffentliche Quellen dieses Bandes (Organisation, Titel, URL). Gesetze und Verordnungen werden im Text als Gesetzesnamen zitiert (z. B. § 32 StGB); Fundstellen: gesetze-im-internet.de bzw. eur-lex.europa.eu.
 #table(
   columns: 3,
-  table.header([*ID*], [*Konzept*], [*Fundstelle (Kontext)*]),
+  table.header([*Organisation*], [*Titel*], [*URL*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [W15], [2.2], [\> _WARNRAHMEN (warn-5) — GIFTPFLANZEN (verschärft):_ Tollkirsche, Schie],
-  [W17], [4.2], [ekochte Knollen_ essen; _Algen-Gift-Regel :\*\* nach Stürmen/Algenblüte Sperre — Muschel],
-  [W16], [9.1], [\> _WARNRAHMEN (warn-5b) — PILZE :_ Knollenblätterpilz und Frühjah],
+  [BNatSchG], [Bundesnaturschutzgesetz (§ 23 NSG, § 39 Handstrauß-Regel, Anlage 1 geschützte Arten)], [https://www.gesetze-im-internet.de/bnatschg\_2009/],
+  [BBK], [Ratgeber „Notfallvorsorge“ — Wildpflanzen und Sammeln], [https://www.bbk.bund.de],
 )
 
 #pagebreak(weak: true)

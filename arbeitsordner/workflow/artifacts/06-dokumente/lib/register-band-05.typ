@@ -8,7 +8,7 @@ Einträge zu Konzepten dieses Bandes mit Seitenzahl (S. …); Verweise auf ander
 - _Beinwell (nur äußerlich, Pyrrolizidinalkaloide)_ — Konzept 6.1, S. #refpage(<k-6-1>); B8-3.1 · _EMA/HMPC: nur äußerlich auf intakter Haut_; siehe auch Grüne Hausapotheke (fünf Haus-Pflanzen); Kräuter-Lese (zwei Zeugen)
 - _Bestimmungskunde (5 Merkmale, Familien)_ — Konzept 2.1, S. #refpage(<k-2-1>) (Abb. 5.1); siehe auch Winter-Bestimmung (Gehölze); Verwechslungs-Paare & Giftpflanzen
 - _Binden / Körbe / Bast_ — Konzept 7.2, S. #refpage(<k-7-2>) · _Lindenbast nur vom Totholz_; siehe auch Faseraufschluss (Röste); Werkstoffkunde Dach/Wand
-- _Botulismus (C. botulinum)_ — B7-6.2k (warn-7b); B7-4.1; Konzept 6.2, S. #refpage(<k-6-2>); B8-3.3 · _W13; low-acid nur Druckkocher 116–121 °C; gewölbte Deckel ungeöffnet wegwerfen_; siehe auch Druckkocher (Einkochen); pH-Wert; Tinktur / Salbe / Öl-Auszug
+- _Botulismus (C. botulinum)_ — B7-6.2k (warn-7b); B7-4.1; Konzept 6.2, S. #refpage(<k-6-2>); B8-3.3 · _; low-acid nur Druckkocher 116–121 °C; gewölbte Deckel ungeöffnet wegwerfen_; siehe auch Druckkocher (Einkochen); pH-Wert; Tinktur / Salbe / Öl-Auszug
 - _Dosierung & rote Liste (Heilpflanzen)_ — Konzept 6.2, S. #refpage(<k-6-2>) · _warn: Öl-Auszüge nur gesäuert (pH < 4,6) — siehe B7-6.2k, B8-3.3; „erst die Grenze, dann die Gabe“_; siehe auch Grüne Hausapotheke (fünf Haus-Pflanzen); Botulismus
 - _Duldungsgrenzen (Oxalsäure-Handregel)_ — Konzept 3.2, S. #refpage(<k-3-2>); siehe auch Sicheres Dutzend (12 Arten)
 - _Eicheln / Kastanien (Läuterung)_ — siehe Nüsse & Läuterung (Konzept 5.2, S. #refpage(<k-5-2>))

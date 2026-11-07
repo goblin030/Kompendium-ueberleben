@@ -7,7 +7,7 @@ Alle Einträge des Gesamtregisters; Verweise auf Konzepte dieses Bandes mit Seit
 - _15–20 % / 30 % / 10–15 % (Traglast)_ — siehe Traglast (B1-6.5)
 - _2 l × 14 T (Wasservorrat)_ — siehe Haushaltsvorrat (Wasser) (B2-8.1)
 - _3 Signale = Notzeichen_ — B1-5.1; B3-9.2; siehe auch Notrufzeichen (3 Signale/min); Signalfeuer (3 Feuer = Notzeichen)
-- _55-°C-Verbrühungsgrenze_ — B1-7.4; B8-7.1 · _W22: ab 55 °C verbrüht die Haut in Sekunden_; siehe auch Temperatur-Feinmessung (Ellbogenprobe); Brandwunde & Frostbeule
+- _55-°C-Verbrühungsgrenze_ — B1-7.4; B8-7.1 · _ab 55 °C verbrüht die Haut in Sekunden_; siehe auch Temperatur-Feinmessung (Ellbogenprobe); Brandwunde & Frostbeule
 - _+60-min-Regel (Bote vermisst)_ — B1-5.2; siehe auch Botenregeln (+60-min-Regel)
 - _60-Sekunden-Regel (Brand)_ — B3-9.1; siehe auch Brandbekämpfung (60-Sekunden-Regel)
 - _71-°C-Kerntemperatur (Durchgaren)_ — B6-9.1; B7-3.2 · _USDA-Preheat vor dem Dörren; Trichinen ≥ 71 °C Kern_; siehe auch Trichinen; Dörren (Dörrware); Ausnehmen & Zerwirken
@@ -48,7 +48,7 @@ Alle Einträge des Gesamtregisters; Verweise auf Konzepte dieses Bandes mit Seit
 - _Block → Brett_ — B9-3.2 (Abb. 9.4) · _Maserung, Trocknung ~1 J je Daumen _; siehe auch Fällen (tödliche Minute); Stiel (Esche/Ahorn)
 - _Blutung stillen (Druckverband)_ — B8-2.1 (Abb. 8.2) · _15 min Druckverband, ERC-konsistent_; siehe auch Wunde reinigen & schließen (Tetanus); Erste Hilfe
 - _Botenregeln (+60-min-Regel)_ — B1-5.2 (Abb. 1.14) · _Bote nie allein; +60 min = vermisst_; siehe auch Treffpunkt-Plan; Trupp (einer vorn, einer hinten)
-- _Botulismus (C. botulinum)_ — B7-6.2k (warn-7b); B7-4.1; B5-6.2; B8-3.3 · _W13; low-acid nur Druckkocher 116–121 °C; gewölbte Deckel ungeöffnet wegwerfen_; siehe auch Druckkocher (Einkochen); pH-Wert; Tinktur / Salbe / Öl-Auszug
+- _Botulismus (C. botulinum)_ — B7-6.2k (warn-7b); B7-4.1; B5-6.2; B8-3.3 · _; low-acid nur Druckkocher 116–121 °C; gewölbte Deckel ungeöffnet wegwerfen_; siehe auch Druckkocher (Einkochen); pH-Wert; Tinktur / Salbe / Öl-Auszug
 - _Brandbekämpfung (60-Sekunden-Regel)_ — B3-9.1 (Abb. 3.17); siehe auch Feuerethik; STOPP-Protokoll; Signalfeuer (3 Feuer = Notzeichen)
 - _Brandwunde & Frostbeule_ — B8-7.1 (Abb. 8.11) · _10–20 min kühles fließendes Wasser; nie Fett, nie Eis _; siehe auch 55-°C-Verbrühungsgrenze; Temperatur-Feinmessung (Ellbogenprobe); Kältegefahr erkennen (Unterkühlung)
 - _Brennstoffkunde_ — B3-2.2 (Abb. 3.3); siehe auch Holzvorrat & Stock-Rechnung; Torf / Dung (Brennstoff); Räucherholz & Rauch
@@ -126,7 +126,7 @@ Alle Einträge des Gesamtregisters; Verweise auf Konzepte dieses Bandes mit Seit
 - _Großer Wagen / Cassiopeia_ — siehe Polarstern (B1-4.2)
 - _Grüne Hausapotheke (fünf Haus-Pflanzen)_ — B5-6.1 (Abb. 5.6) · _gelb (SME): Beinwell nur äußerlich auf intakter Haut; Weidenrinde nicht < 16 J (Reye, siehe B8-7.3); Wegerich/Nessel/Kamille/Beinwell/Weidenrinde_; siehe auch Kräuter-Lese (zwei Zeugen); Tinktur / Salbe / Öl-Auszug; Beinwell; Weidenrinde
 - _Gruppenkette (Zwischentank)_ — B2-4.3; siehe auch Wassertransport (Transportkette)
-- _Haltbarkeits-Tafeln (sechs Wege)_ — B7-2.2 (Abb. 7.1) · _W25 (USDA)_; siehe auch Fünf Feinde des Vorrats; Konservieren / Haltbarmachen
+- _Haltbarkeits-Tafeln (sechs Wege)_ — B7-2.2 (Abb. 7.1) · _(USDA)_; siehe auch Fünf Feinde des Vorrats; Konservieren / Haltbarmachen
 - _Handstrauß-Regel / Naturschutz (§ 39, § 23 BNatSchG, NSG, Anlage 1)_ — B5-1.1; B5-8.2 · _geschützte Arten meiden_; siehe auch Sammel-Ethik; Wildgarten
 - _Handwerk (Grenze des Machens)_ — B9-1.1 · _Können/Material/Zeit_; siehe auch Werkzeug-Kette; Übestück
 - _Härten & Anlassen_ — B9-2.2 (Abb. 9.2) · _gelb : Anlassen zwingend (sonst Glasbruch); Abschreckmedium Öl (milder) vs Wasser (härter, spröder)_; siehe auch Schmiede-Feuer; Geschmiedete Klinge
@@ -166,7 +166,7 @@ Alle Einträge des Gesamtregisters; Verweise auf Konzepte dieses Bandes mit Seit
 - _Kochfeuer & Glut_ — B3-5.1 (Abb. 3.9); siehe auch Reflektor & Nachtfeuer; Abkochen (gesottenes Wasser)
 - _Köder-Kunde_ — B6-6.2 · _Wurm/Nymphe/Kleinfisch, saisonal_; siehe auch Köder-Zucht (Wurm-Kiste); Kastenfalle & Kleintierfallen
 - _Köder-Zucht (Wurm-Kiste)_ — B6-6.3; siehe auch Köder-Kunde
-- _Kohlenmonoxid (CO)_ — B3-6.3 (warn-3); B4-6.3; B9-2.1 · _W14: keine Verbrennung in geschlossenen Räumen; Zelt = geschlossener Raum; nie über Nacht im Schlafraum; mehrere Betroffene = Alarm_; siehe auch Ofenlose Not-Heizung (CO); Feuchtebilanz & Lüftung (Unterkunft); Schmiede-Feuer
+- _Kohlenmonoxid (CO)_ — B3-6.3 (warn-3); B4-6.3; B9-2.1 · _keine Verbrennung in geschlossenen Räumen; Zelt = geschlossener Raum; nie über Nacht im Schlafraum; mehrere Betroffene = Alarm_; siehe auch Ofenlose Not-Heizung (CO); Feuchtebilanz & Lüftung (Unterkunft); Schmiede-Feuer
 - _Kompass_ — siehe Karte lesen (B1-4.3)
 - _Konservieren / Haltbarmachen_ — siehe B7 Kap. 2–6: Haltbarkeits-Tafeln (B7-2.2), Dörren (B7-3.2), Räuchern (B7-4.1), Pökeln (B7-5.2), Kraut-Fass (B7-6.1), Einkochen (B7-6.2k)
 - _Körpermaß-System_ — B1-7.1 (Abb. 1.24) · _Eichungspflicht; Daumen 2,5 cm, Handspanne 20 cm, Elle 45 cm, Schritt 75 cm_; siehe auch Mengen & Referenzmaße (EL/TL/Tropfen); Der Wert (Elle/Ruthe/Mandel)
@@ -182,7 +182,7 @@ Alle Einträge des Gesamtregisters; Verweise auf Konzepte dieses Bandes mit Seit
 - _Leder_ — siehe Gerben (B7-7.3); Fell, Sehne, Knochen (B6-9.3)
 - _Lehrling (4 Proben)_ — B9-9.2 · _Hand/Ordnung/Geduld/Wahrheit_; siehe auch Weitergabe (am Werkstück)
 - _Leim (selbst gemacht)_ — B9-7.2 (Abb. 9.8) · _Wasserbad 2–4 h, nie sieden; ~1 Wo haltbar_; siehe auch Material-Kammer
-- _Leinöl-Selbstentzündung (Lappen)_ — B9-7.3 (warn-9b) · _W30 : Lappen ausgebreitet auf nichtbrennbarem Untergrund trocknen oder in dicht verschlossenen Metallbehälter mit Wasser_; siehe auch Riemen / Fett / Öl (Leinöl)
+- _Leinöl-Selbstentzündung (Lappen)_ — B9-7.3 (warn-9b) · _: Lappen ausgebreitet auf nichtbrennbarem Untergrund trocknen oder in dicht verschlossenen Metallbehälter mit Wasser_; siehe auch Riemen / Fett / Öl (Leinöl)
 - _Losung, Äsung & Riss_ — B6-2.2; siehe auch Trittsiegel & Gangbilder
 - _Mastwurf_ — siehe Knoten (B1-6.3, Abb. 1.21)
 - _Material-Kammer_ — B9-7.1 · _konsistent B7-8.1_; siehe auch Kammer (kalte Kammer, Zonen); Werkstatt-Ordnung
@@ -281,7 +281,7 @@ Alle Einträge des Gesamtregisters; Verweise auf Konzepte dieses Bandes mit Seit
 - _Tausch_ — siehe Der Wert (Konzept 2.1, S. #refpage(<k-2-1>)); Tausch-Platz (Konzept 2.3, S. #refpage(<k-2-3>))
 - _Tausch-Platz_ — Konzept 2.3, S. #refpage(<k-2-3>) · _gelb (prüfenswert): Markt-Fristen; Ordnung aufrechterhalten_; siehe auch Der Wert (Tausch); Ämter des Dorfes
 - _Temperatur-Feinmessung (Ellbogenprobe)_ — B1-7.4 (Abb. 1.27) · _gelb — Notbehelf (P = 5), Übungspflicht _; siehe auch Brandwunde & Frostbeule; 55-°C-Verbrühungsgrenze
-- _Tetanus_ — B8-2.2 (warn-8a) · _W12; Risikowunden offen halten; Booster-Regeln_; siehe auch Wunde reinigen & schließen (Tetanus); Tetanus-Impfstoff (Kühlkette 2–8 °C)
+- _Tetanus_ — B8-2.2 (warn-8a) · _; Risikowunden offen halten; Booster-Regeln_; siehe auch Wunde reinigen & schließen (Tetanus); Tetanus-Impfstoff (Kühlkette 2–8 °C)
 - _Tetanus-Impfstoff (Kühlkette 2–8 °C)_ — B8-2.2 · _kühlkettenpflichtig_; siehe auch B8-8.1 (Sanitätsmappe)
 - _Tinktur / Salbe / Öl-Auszug_ — B8-3.3 (Abb. 8.6) · _gelb: Öl-Auszug nur gesäuert (pH < 4,6) oder vollständig getrocknet ; Datum am Gefäß_; siehe auch Dosierung & rote Liste (Heilpflanzen); Botulismus (C. botulinum); Einkochen, Öl & Essig (Druckkocher)
 - _Tödliche Minute (Fällen)_ — B9-3.1 (warn-9a); B1-6.2 · _Flucht 45° schräg, nie hangabwärts darunter _; siehe auch Fällen (tödliche Minute); Axt & Säge

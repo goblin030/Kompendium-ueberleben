@@ -29,7 +29,12 @@ Phase A (parallel):   project-manager ─┐
 | G (parallel) | korrektor, index-builder | `04-redaktion.md`, `10-testleser.md`, `03-planung.md` | `11-korrektur.md`, `12-register.md` |
 | H | doc-builder | `04-redaktion.md`, `11-korrektur.md`, `12-register.md`, `03-planung.md`, `00-tool-analyse.md`, illustrationen/ | `06-dokumente/` + Abschlussbericht |
 | I | prepress (Druckdaten) | `06-dokumente/`, `00-tool-analyse.md` | `06-dokumente/druckdaten/` (PDF/X, CMYK, Anschnitt) |
-| J | format-reviewer (Druckfreigabe) | `06-dokumente/` inkl. druckdaten/ | `05-format-review.md` (Feedback → doc-builder/prepress/editor/illustrator) |
+| J | **visual-qa (GATE) → format-reviewer (Druckfreigabe)** | `06-dokumente/` inkl. druckdaten/ | `20-visual-qa.md` (gerenderte Seiten: Kollisionen, Leerraum, Caption-Abstände), dann `05-format-review.md` (Feedback → doc-builder/prepress/editor/illustrator) |
+
+**Gate-Regel Phase J:** visual-qa läuft nach JEDEM doc-builder-Rebuild VOR der Freigabe.
+Urteil „rot" in `20-visual-qa.md` → Rebuild-Pflicht, keine Imprimatur. Interne
+Prüfprotokolle (W-IDs, Artefakt-IDs) dürfen nie in `band-NN.typ` stehen — nur das
+öffentliche Quellenverzeichnis (Organisation/Titel/URL).
 | K – Publishing (parallel) | legal, cover-designer, publisher, marketing, accessibility | `06-dokumente/`, `13-rechtstexte.md` (legal zuerst), Go-to-Market aus Haupt-Chat | `13-rechtstexte.md`, `cover/`, `14-publikation.md`, `15-marketing.md`, `16-barrierefreiheit.md` |
 
 ## Agent-Übersicht
