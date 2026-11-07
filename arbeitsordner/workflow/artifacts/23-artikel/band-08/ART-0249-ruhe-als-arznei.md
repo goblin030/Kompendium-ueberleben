@@ -1,21 +1,19 @@
 # ART-0249 — Wie setze ich Ruhe als Arznei ein?
 
-**Band/Domäne:** Band 8 — Heilkunde · **Status:** Katalog → recherchiert (B2) → geprüft (C2) → geschrieben (D2) · **Ampel (C2):** grün · **P/M/V:** 9 / unbedenklich / 9 · **Seitenziel:** 5–7 S.
-**Quellen:** Konzept 6.3 (review-v7 Kap. 6.3) · Chat `[29cd074c #146]` (T36) · `22/23` ART-0249
-
+**Band/Domäne:** Band 8 — Heilkunde · **Seitenziel:** 5–7 S.
 ## Ziel
 Schlaf und Ruhe als wirksamste „Arznei“ ohne Nebenwirkungen gezielt einsetzen — der Kranke schläft, die Wache wacht.
 
 ## Material + Maße
-- Wachenplan (ART-0029, Band 1): Wache 2–3 h (ART-0247)
+- Wachenplan (ART-0029): Wache 2–3 h (ART-0247)
 - Ruhiger Platz (ART-0247), gedimmtes Licht, Stille
-- Decke/Wärme (Band 4)
+- Decke/Wärme
 
 ## Schritte
 1. Kranken von Arbeit befreien; die Wache (ART-0247) regelt den Tagesablauf.
 2. Schlaf in vielen kurzen Einheiten ermöglichen; zum Trinken wecken (ART-0233), nicht zur Frage.
 3. Besuch dosieren — die Frage des Kranken setzt das Maß, nicht die Sorge der Besucher.
-4. Ablenkung als Würde: Rede, Gesellschaft, Handwerk in Reichweite, das Blatt als Zuhörer (T41).
+4. Ablenkung als Würde: Rede, Gesellschaft, Handwerk in Reichweite, das Blatt als Zuhörer.
 
 ## Varianten (Stadt / Land / Klima)
 - Überall gleich anwendbar. **Klima:** Kälte = Wärme priorisieren; Hitze = lüften, kühl lagern.
@@ -30,10 +28,10 @@ Schlaf und Ruhe als wirksamste „Arznei“ ohne Nebenwirkungen gezielt einsetze
 Keine Warnpflicht.
 
 ## Siehe auch
-ART-0247 (Krankenlager) · ART-0029 (Schlaf & Wache, Band 1) · ART-0233 (Wärme-Regie) · ART-0224 (Sterbende begleiten)
+ART-0247 (Krankenlager) · ART-0029 (Schlaf & Wache) · ART-0233 (Wärme-Regie) · ART-0224 (Sterbende begleiten)
 
 ## Übungsbezug
-Im eigenen Jahres-Übungsprogramm (ART-0033) eine „Ruhe-Woche“ für die Gruppe planen — 1× jährlich. Verfalluhr 12 Monate (ART-0035).
+Üben: 1× jährlich — eine „Ruhe-Woche“ für die Gruppe im Jahresplan vorsehen und umsetzen.
 
 ## Mini-Glossar
 - **Ruhe als Arznei** = Schlaf, Wache, Rhythmus — ohne Nebenwirkungen.

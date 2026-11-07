@@ -1,8 +1,6 @@
 # ART-0191 — Wie wähle ich den richtigen Köder (Wurm/Nymphe/Kleinfisch, saisonal)?
 
-**Band:** 6 — Jagd & Fischfang · **Status:** geschrieben (Phase D2) · **Ampel (C2):** grün · P 8 / M unbedenklich / V 9
-**Quelle:** Konzept 6.2 + review-v7 `04-redaktion-band-06.md` 6.2; Chat Tab. 30/32/34 (Monatsköder als Planungsrichtwerte); geprüft 23-factcheck-artikel/band-06.md
-**Seitenziel:** 5–7 S. · **Abb.:** – · **Warnung:** –
+**Band:** 6 — Jagd & Fischfang
 
 ## Ziel
 Den passenden Köder zur Saison, zum Gewässer und zum Zielfisch wählen — und wissen, wie lange welcher Köder hält.
@@ -37,4 +35,5 @@ ART-0166 (Angel aufbauen), ART-0192 (Wurm-Kiste), ART-0165 (Stadtgewässer), ART
 - **Salzköder:** grob gesalzene Fischstücke (lange haltbar).
 
 ## Übungsbezug
-Köderwechsel-Übung: 3 Gewässer/Tageszeiten mit je anderem Köder; Erfolg: Fang-Protokoll zeigt unterschiedliche Wirkung.
+
+Üben: Köderwechsel an 3 Gewässern oder Tageszeiten vergleichen und protokollieren — pro Saison.

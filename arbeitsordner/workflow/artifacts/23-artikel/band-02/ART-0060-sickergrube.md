@@ -1,9 +1,7 @@
 # ART-0060 — Wie grabe ich Sickergrube oder Behelfsbrunnen (Erstwasser verwerfen)?
 
-**Band:** 2 (Wasser) · **Enzyklopaedie v2, Phase D2** · **Seitenziel:** 5-7 S.
-**Ampel (C2, `artifacts/23-factcheck-artikel/band-02.md`):** gruen · **P/M/V:** P 7 / M unbedenklich / V 8
+**Band:** 2 (Wasser) · Enzyklopaedie v2
 **Tags:** wasser, sickergrube, behelfsbrunnen
-**Quellen:** Konzept 3.4 (review-v7); C2: 50-100 cm konservativ vs. Survival-Literatur 1-2 m bis Grundwasserspiegel (W-I1, Abruf 2026-11-07); Chat [29cd074c #146] T39/T41, Abb. 3.3
 
 ## Ziel
 
@@ -14,7 +12,7 @@ Du lernst, Grundwasser ohne Brunnenbau zu erschliessen: Stelle mit feuchtem Bode
 - Grabewerkzeug
 - Kies fuer Auskleidung, Deckel
 - Eimer/Schoepfer
-- Protokoll (Füllzeit l/h, Wasserstand — A.6)
+- Protokoll (Füllzeit l/h, Wasserstand —)
 
 ## Schritte
 
@@ -28,14 +26,14 @@ Du lernst, Grundwasser ohne Brunnenbau zu erschliessen: Stelle mit feuchtem Bode
 ## Varianten (Stadt / Land / Klima)
 
 - **Land:** nur mit eigenem Grundstueck sinnvoll.
-- **Stadt:** NICHT graben (Keller, Leitungen, Nachbarn) -> Regen (ART-0055), Leitungsreste, Hausanschluss bei Druck.
+- **Stadt:** NICHT graben (Keller, Leitungen, Nachbarn) → Regen (ART-0055), Leitungsreste, Hausanschluss bei Druck.
 - **Klima:** nach Starkregen Erstwasser erneut verwerfen.
 
 ## Typische Fehler + Folgen
 
 | Fehler | Folge |
 |---|---|
-| Erstwasser getrunken | stark truebes Wasser; Filter/SODIS versagen (Fehlerliste Nr. 8) |
+| Erstwasser getrunken | stark truebes Wasser; Filter/SODIS versagen |
 | In der Stadt graben | Leitungen/Keller/Nachbarn beschaedigt |
 
 ## Warnungen
@@ -53,7 +51,6 @@ ART-0061 (Klaeren), ART-0062 (Abkochen), ART-0056 (Quellen), ART-0067 (Oberflaec
 
 ## Uebungsbezug
 
-Sickergrube 1x anlegen (nur Land); Erfolgskontrolle: Erstwasser verworfen, Wasser vor Aufbereitung geklaert (CL-B2-09). Uebungsrhythmus lt. Anhang C Band 2: mind. 3x hintereinander (V<6: 5x), 45-90 min pro Einheit, max. 2 Einheiten/Tag; messbares Erfolgskriterium notieren; Abbruch bei Verletzung/Wetterumschwung/Materialbruch; Protokoll nach B1-8.2 (Datum, Wiederholungen, Zeit, Beobachtung, Verfalldatum +12 Monate).
+Üben: Sickergrube 1x anlegen (nur Land). Erfolgskontrolle: Erstwasser verworfen, Wasser vor Aufbereitung geklaert. Rhythmus: mindestens 3× hintereinander, 45–90 Minuten pro Einheit, höchstens 2 Einheiten pro Tag.
 
----
-*ART-0060 — erstellt in Phase D2 (editor), Agent research-b02, 2026-11-07. Ampel C2: gruen. Migriert aus review-v7 (`04-redaktion-band-02.md`) + Recherche (`22-recherche-artikel/band-02.md`) + Factcheck (`23-factcheck-artikel/band-02.md`).*
+*ART-0060 — Band 2 (Wasser), Enzyklopaedie v2.*

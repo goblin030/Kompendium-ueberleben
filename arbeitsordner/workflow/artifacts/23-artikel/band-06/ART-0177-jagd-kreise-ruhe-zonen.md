@@ -1,14 +1,12 @@
 # ART-0177 — Wie lege ich Jagd-Kreise und Ruhe-Zonen fest (Kreis 1/2/3)?
 
-**Band:** 6 — Jagd & Fischfang · **Status:** geschrieben (Phase D2) · **Ampel (C2):** grün · P 9 / M unbedenklich / V 9
-**Quelle:** Konzept 1.2 + review-v7 `04-redaktion-band-06.md` 1.2 + CL-B6-02; Chat Tab. 3/52 (Radien als Planungsrichtwerte); geprüft 23-factcheck-artikel/band-06.md
-**Seitenziel:** 5–7 S. · **Abb.:** Abb. 1.2 (Jagd-Kreise) · **Warnung:** –
+**Band:** 6 — Jagd & Fischfang
 
 ## Ziel
 Das Revier in drei Kreise mit Ruhe-Zonen einteilen, damit der Wildbestand nutzbar bleibt statt ausgerottet zu werden.
 
 ## Material + Maße
-- Revier-Karte (A.2), Kompass/Karte ohne Strom (ART-0022)
+- eigene Revier-Karte, Kompass/Karte ohne Strom (ART-0022)
 - Planungsrichtwerte Kreise: **Kreis 1** = 500 m ums Lager, täglich, ohne Waffe; **Kreis 2** = 2–5 km, wöchentlich, mit Wind-Rechnung; **Kreis 3** = Tagesmarsch, selten, nur mit Anlass/Ziel
 
 ## Schritte
@@ -16,7 +14,7 @@ Das Revier in drei Kreise mit Ruhe-Zonen einteilen, damit der Wildbestand nutzba
 2. **Kreis 2 (mittel):** 2–5 km — Jagd-Gang wöchentlich mit Wind-Rechnung: Ansitz am Wechsel (ART-0167), Kastenfalle am Nistloch (ART-0187), Angel am Einstand (ART-0168).
 3. **Kreis 3 (fern):** Tagesmarsch, selten, nur mit Ziel/Anlass (Mast-Wald im Herbst, Watt bei Springtide).
 4. **Ruhe-Zonen** markieren und nicht betreten — das Wild braucht Rückzug.
-5. Kreise und Ruhe-Zonen auf der Revier-Karte (A.2) festhalten.
+5. Kreise und Ruhe-Zonen auf der Revier-Karte festhalten.
 
 ## Varianten (Stadt / Land / Klima)
 - **Waldrevier:** Wechsel kartieren (ART-0172). **Feldrevier:** Äsungsflächen. **Stadt:** nicht anwendbar.
@@ -37,4 +35,5 @@ ART-0167 (Ansitz), ART-0172 (Bauten/Wechsel), ART-0170 (Kalender), ART-0187 (Fal
 - **Äsung:** Futterstelle des Wilds.
 
 ## Übungsbezug
-Revier-Karte A.2 mit Kreisen + Ruhe-Zonen anlegen; Erfolg: CL-B6-02 vollständig abgehakt.
+
+Üben: Revier-Karte mit Kreisen und Ruhe-Zonen anlegen und nach jedem Jagdgang aktualisieren — monatlich.

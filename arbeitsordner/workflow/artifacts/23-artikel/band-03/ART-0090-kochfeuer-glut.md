@@ -1,8 +1,5 @@
 # ART-0090 — Wie koche ich am offenen Feuer (Kochfeuer & Glut)?
 
-**Band 3 (Feuer & Wärme)** · **Seitenziel:** 5–7 S. · **Ampel (C2):** grün · **P/M/V:** 9 / unbedenklich / 9 · **WARNPFLICHT:** nein
-**Quellen:** review-v7 Kap. 5.1 · `23-factcheck-artikel/band-03.md` ART-0090 (2–3 kg Hartholz/h grün — Ofenpraxis 1,6 kg/h bei 5 kW bis 3,2 kg/h bei 10 kW, ofen.de Abruf 2026-11-07) · Chat `29cd074c #146` Tab. 37/38 · Querverweis ART-0062 (Wasser abkochen)
-
 ## Ziel
 Am offenen Feuer kochen — mit Glut statt Flamme: gleichmäßige, regelbare Hitze, weniger Brennstoff, weniger Funkenflug. „Mit einem Viertel des Holzes kochen“: Glutfenster + Kessel-Abstand + Deckel.
 
@@ -20,7 +17,7 @@ Am offenen Feuer kochen — mit Glut statt Flamme: gleichmäßige, regelbare Hit
 5. Glut nachschieben, sobald die Hitze nachlässt; nie frisches Holz auf die Glut häufen.
 
 ## Varianten (Stadt / Land / Klima)
-- **Land:** Kochfeuer am Lager. **Stadt:** kein offenes Feuer in der Wohnung — Campingkocher siehe ART-0091 (warn-3).
+- **Land:** Kochfeuer am Lager. **Stadt:** kein offenes Feuer in der Wohnung — Campingkocher siehe ART-0091.
 - **Wind:** Windschutz bauen (ART-0097). **Regen:** Plattform + Überstand (ART-0096).
 
 ## Typische Fehler + Folgen
@@ -31,7 +28,7 @@ Am offenen Feuer kochen — mit Glut statt Flamme: gleichmäßige, regelbare Hit
 | Unaufbereitetes Wasser gekocht | Durchfallerkrankung | erst ART-0062 |
 
 ## Warnungen
-Funkenflug bei Nadelholz (ART-0103); nie ohne Wache (ART-0099); CO bei Verbrennung in geschlossenen Räumen (warn-3, ART-0088).
+Funkenflug bei Nadelholz (ART-0103); nie ohne Wache (ART-0099); CO bei Verbrennung in geschlossenen Räumen.
 
 ## Siehe auch
 ART-0091 (Kochen ohne Strom), ART-0078 (Feuerbauten), ART-0097 (Reflektor/Windschutz), ART-0062 (Wasser abkochen), ART-0092 (Feuerplatz), ART-0076 (Zunderkette), ART-0100 (Holzvorrat)
@@ -41,4 +38,4 @@ ART-0091 (Kochen ohne Strom), ART-0078 (Feuerbauten), ART-0097 (Reflektor/Windsc
 - **Glut-Wirtschaft:** Hitze sammeln, lenken und nachnutzen statt Flammen füttern.
 
 ## Übungsbezug
-August: Kochkette — drei Bündel zum Sprudeln, dann Brot- und Tee-Restwärme nutzen (Chat Übungsjahr). Protokoll ART-0035.
+Üben: einmal im Jahr (August) eine Kochkette mit drei Gängen zum Sprudeln kochen und danach die Restwärme für Brot oder Tee nutzen.

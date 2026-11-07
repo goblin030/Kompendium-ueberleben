@@ -1,9 +1,7 @@
 # ART-0123 — Wie organisiere ich das Lager bei Dunkelheit (Restlicht-1-h)?
 
-**Band:** 4 (Unterkunft & Kleidung) · **Seitenziel:** 5–7 S. · **Status:** geschrieben (D2)
-**Ampel (C2):** grün · P 8 / M unbedenklich / V 9 · **Warnpflicht:** nein
-**Quelle:** Konzept B4-9.2 + review-v7 §9.2 + Band 1 7.3 (Restlicht) + `22/23` band-04 ART-0123
-**Tags:** unterkunft, lager, dunkelheit, restlicht · **Abb.:** – · **warn-N:** –
+**Band:** 4 (Unterkunft & Kleidung) · **Seitenziel:** 5–7 S.
+**Tags:** unterkunft, lager, dunkelheit, restlicht · **Abb.:** –
 
 ## Ziel
 Das Lager bei Einbruch der Dunkelheit sicher und vollständig aufbauen — die letzte Tageslichtstunde gehört dem Lager, nicht dem Marsch.
@@ -41,4 +39,4 @@ ART-0036 (Zeit ohne Uhr, Band 1) · ART-0030 (Rucksack/Licht, Band 1) · ART-001
 - **Leuchtmarkerer:** Steine/Leuchtbänder an Lagerpfaden.
 
 ## Übungsbezug
-Restlicht-Stunde im Herbst bei früher Dunkelheit üben (review-v7 Anhang C). Erfolg: alle 20 Punkte abgearbeitet vor Einbruch der Dunkelheit, keine Unfälle.
+Üben: Einmal im Herbst die Restlicht-Stunde bei früher Dunkelheit abarbeiten (20 Punkte, fünf Gruppen). Vor dem Winter.

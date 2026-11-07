@@ -1,8 +1,6 @@
 # ART-0241 — Wie nehme ich Abschied (Blatt bis zuletzt)?
 
-**Band/Domäne:** Band 8 — Heilkunde · **Status:** Katalog → recherchiert (B2) → geprüft (C2) → geschrieben (D2) · **Ampel (C2):** gelb — **Auflage (C2-Korrektur):** Grabtiefe **~1,5 m** (Band 60–80 cm = reine Abdeckung zu wenig); Grabsohle ≥ 1,5 m über Grundwasserspiegel (WHO); Abstand ≥ 30 m zu Wasser (50 m anzustreben, W7); Bestattungsrecht Krisenfall → legal (LÜCKE) · **P/M/V:** 7 / unbedenklich / 8 · **Seitenziel:** 5–7 S.
-**Quellen:** Konzept 9.2 (review-v7 Kap. 9.2) · Chat `[29cd074c #146]` (T46) · WHO dead bodies/TN-8 (Abruf 2026-11-07) · 02-factcheck W7 · `22/23` ART-0241
-
+**Band/Domäne:** Band 8 — Heilkunde · **Seitenziel:** 5–7 S.
 ## Ziel
 Abschied würdevoll und hygienisch gestalten; Bestattung so, dass keine Seuchen- oder Grundwassergefahr entsteht.
 
@@ -10,7 +8,7 @@ Abschied würdevoll und hygienisch gestalten; Bestattung so, dass keine Seuchen-
 - Kranken-Blatt (bis zuletzt führen), Stift
 - Handschuhe, Desinfektion (ART-0229), Leichentuch, frische Kleidung
 - Spaten; Markierung für die Grabstelle
-- **Land:** Grab **~1,5 m tief** (C2-korrigiert; Sohle ≥ 1,5 m über Grundwasserspiegel), außerhalb des Lagers, **Abstand ≥ 30 m zu Wasser** (50 m anzustreben, hangabwärts — W7), Stelle markieren
+- **Land:** Grab **~1,5 m tief** (; Sohle ≥ 1,5 m über Grundwasserspiegel), außerhalb des Lagers, **Abstand ≥ 30 m zu Wasser** (50 m anzustreben, hangabwärts —), Stelle markieren
 - **Stadt:** kühler Raum (Treppenhaus/Keller) — **nicht in der Wohnung** aufbewahren
 
 ## Schritte
@@ -27,7 +25,7 @@ Abschied würdevoll und hygienisch gestalten; Bestattung so, dass keine Seuchen-
 ## Typische Fehler + Folgen
 | Fehler | Folge |
 |---|---|
-| Grab zu flach (~60–80 cm) oder nahe am Wasser | Geruch, Aasfresser, Grundwasserkontamination, Seuchengefahr (C2-Korrektur: ~1,5 m) |
+| Grab zu flach (~60–80 cm) oder nahe am Wasser | Geruch, Aasfresser, Grundwasserkontamination, Seuchengefahr (: ~1,5 m) |
 | Verstorbenen in der Wohnung lassen (Stadt) | hygienisches Risiko, Belastung der Gruppe |
 | Stelle nicht markieren | Grab geht verloren, Angehörige können nicht nachfassen |
 | Blatt vorzeitig schließen | kein Zeugnis, keine Übergabe |
@@ -36,10 +34,10 @@ Abschied würdevoll und hygienisch gestalten; Bestattung so, dass keine Seuchen-
 Hygiene: Handschuhe, Händedesinfektion (ART-0229). WHO: Tote nach Katastrophen verursachen **keine** Epidemien — ordentliche Bestattung schützt trotzdem das Grundwasser.
 
 ## Siehe auch
-ART-0224 (Sterbende begleiten) · ART-0254 (Wäsche/Schmutz) · ART-0229 (Desinfektion) · ART-0045 (Latrine/Abstand, Band 2) · ART-0288 (Dokumente, Band 10)
+ART-0224 (Sterbende begleiten) · ART-0254 (Wäsche/Schmutz) · ART-0229 (Desinfektion) · ART-0045 (Latrine/Abstand) · ART-0288 (Dokumente)
 
 ## Übungsbezug
-„Die Abschieds-Ordnung als eine Seite schreiben“ (review-v7 Anhang C, Aufgabe 12) — mit den Alten des Hauses besprechen, 1× jährlich. Verfalluhr 12 Monate (ART-0035).
+Üben: 1× jährlich — die Abschieds-Ordnung als eine Seite schreiben und mit den Alten des Hauses besprechen.
 
 ## Mini-Glossar
 - **Totenwache** = geordneter Abschied am Toten, rotierend.

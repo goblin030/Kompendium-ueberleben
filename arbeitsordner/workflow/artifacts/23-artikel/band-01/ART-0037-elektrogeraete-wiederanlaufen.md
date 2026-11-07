@@ -1,8 +1,6 @@
 # ART-0037 — Wie schütze ich Elektrogeräte beim Wiederanlaufen des Stroms?
 
-**Band:** 1 (Grundlagen & Blackout/Urban) · **Status:** geschrieben (D2) · **Ampel:** grün (C2: P 9 / M unbedenklich / V 9)
-**Quelle:** 18-recherche §4 Nr. 1; review-v7 3a.2; BW10 grün; S3 Phase-2-Verhalten
-**Seitenziel:** 6–8 S. · **Tags:** technik, blackout, stromnetz
+**Band:** 1 — Grundlagen & Blackout/Urban · **Tags:** technik, blackout, stromnetz
 
 ## Ziel
 
@@ -34,7 +32,7 @@ Du verhinderst Schäden bei Wiederkehr des Stroms: Geräte waren ausgesteckt (Sp
 
 ## Warnungen
 
-- warn-3 bleibt: Notheizung/Grill nie in geschlossenen Räumen — auch nach Wiederkehr nicht.
+- CO-Gefahr bleibt: Notheizung/Grill nie in geschlossenen Räumen — auch nach Wiederkehr nicht.
 
 ## Siehe auch
 
@@ -51,7 +49,7 @@ Du verhinderst Schäden bei Wiederkehr des Stroms: Geräte waren ausgesteckt (Sp
 
 ## Übungsbezug
 
-Im Drill (ART-0039): „Wiederkehr“ simulieren — Geräte einzeln einschalten; Erfolg: kein gleichzeitiger Einschaltstoß.
+Üben: im jährlichen Drill die „Wiederkehr des Stroms“ simulieren. Ziel: Geräte einzeln einschalten, nie alles auf einmal.
 
 ---
-*ART-0037 — Enzyklopaedie v2, Band 1. Ampel grün (C2-factcheck 2026-11-07). review-v7 migriert; nur gruene/gelbe Inhalte.*
+*ART-0037 — Enzyklopaedie v2, Band 1 (Grundlagen & Blackout/Urban).*

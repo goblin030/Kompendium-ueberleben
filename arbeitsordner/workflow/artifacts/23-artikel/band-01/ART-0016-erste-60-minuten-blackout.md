@@ -1,8 +1,6 @@
 # ART-0016 — Wie handle ich in den ersten 60 Minuten nach Eintritt des Blackouts?
 
-**Band:** 1 (Grundlagen & Blackout/Urban) · **Status:** geschrieben (D2) · **Ampel:** grün (C2: P 9 / M unbedenklich / V 9)
-**Quelle:** review-v7 Kap. 3a.2 + 18-recherche §4; BW10 grün (USDA 4/24/48); DGUV CO bestätigt (2026-11-07)
-**Seitenziel:** 6–8 S. · **Tags:** blackout, sofortmassnahmen, checkliste
+**Band:** 1 — Grundlagen & Blackout/Urban · **Tags:** blackout, sofortmassnahmen, checkliste
 
 ## Ziel
 
@@ -26,11 +24,11 @@ Du handelst in den ersten 60 Minuten strukturiert: In dieser Zeit sind Leitungen
 5. Handy auf Flugmodus (Akku sparen).
 6. Stolperfallen im Dunkeln entfernen; Aufzüge auf eingeschlossene Personen prüfen (ART-0014).
 7. UKW-Radio einschalten — Durchsagen meist zur vollen Stunde (ART-0006/ART-0008).
-8. Ein Zimmer als Aufenthalts-/Schlafraum wählen, Türen geschlossen, trotzdem regelmäßig lüften (warn-3).
+8. Ein Zimmer als Aufenthalts-/Schlafraum wählen, Türen geschlossen, trotzdem regelmäßig lüften (CO-Gefahr).
 9. Kühlschrank/Tiefkühltruhe: Verderbliches zuerst essen/verkochen — Kühlschrank 4 h geschlossen (USDA), TK 24 h (halb) / 48 h (voll).
-10. Medikamente prüfen: Dauermedikation 14 Tage (Ziel 4 Wochen), Insulin kühl 2–8 °C, Impfpass griffbereit (ART-0034? nein — Band 8).
+10. Medikamente prüfen: Dauermedikation 14 Tage (Ziel 4 Wochen), Insulin kühl 2–8 °C, Impfpass griffbereit (siehe ART-0234).
 11. Toilette ohne Wasser: kein Wasser für die Toilette verschwenden — Eimer + Plastiksack / Trenntoilette (Stadt), Loch an wechselnder Stelle (Land), Abstand ≥ 30 m zum Wasser.
-12. Kochen/Heizen ohne Strom: Campingkocher nur mit Lüften + CO-Melder; nie in der Wohnung grillen (warn-3).
+12. Kochen/Heizen ohne Strom: Campingkocher nur mit Lüften + CO-Melder; nie in der Wohnung grillen (CO-Gefahr).
 13. Notstromaggregat nur außerhalb des Hauses, nur bei Bedarf (CO!).
 
 ## Varianten (Stadt / Land / Klima)
@@ -44,12 +42,12 @@ Du handelst in den ersten 60 Minuten strukturiert: In dieser Zeit sind Leitungen
 | Fehler | Folge |
 |---|---|
 | Alles auf einmal einschalten bei Wiederkehr | Netz überlasten → erneuter Kollaps (ART-0037) |
-| Kerzen/Grill in der Wohnung | CO-Vergiftung — tödlich, geruchlos (warn-3) |
+| Kerzen/Grill in der Wohnung | CO-Vergiftung — tödlich, geruchlos (CO-Gefahr) |
 | Kein Wasser auffüllen | Nach wenigen Stunden/Tagen kein Leitungswasser mehr |
 
 ## Warnungen
 
-- warn-3 (CO): nie in geschlossenen Räumen grillen/heizen; CO-Melder Pflicht; Symptome: Kopfschmerz, Schwindel, Übelkeit bei mehreren gleichzeitig.
+- CO-Gefahr (CO): nie in geschlossenen Räumen grillen/heizen; CO-Melder Pflicht; Symptome: Kopfschmerz, Schwindel, Übelkeit bei mehreren gleichzeitig.
 - Kühlschrank-Regel konservativ: 4 h geschlossen (USDA 4/24/48).
 
 ## Siehe auch
@@ -61,19 +59,19 @@ Du handelst in den ersten 60 Minuten strukturiert: In dieser Zeit sind Leitungen
 - ART-0037 (Wiederanlaufen)
 - ART-0038 (Grundausstattung)
 - ART-0039 (Drill)
-- Band 2: ART-0057 (Wasser auffüllen), Band 7: ART-0198 (Kühlschrank/TK)
+- ART-0057 (Wasser auffüllen), Band 7: ART-0198 (Kühlschrank/TK)
 
 ## Mini-Glossar
 
 | Begriff | Bedeutung |
 |---|---|
 | Pumpenabhängig | Leitungswasser braucht Pumpen — fällt ohne Strom aus |
-| warn-3 | CO-Warnung: Kohlenmonoxid, geruchlos, tödlich |
+| CO-Gefahr | CO-Warnung: Kohlenmonoxid, geruchlos, tödlich |
 | USDA 4/24/48 | Kühlschrank 4 h geschlossen sicher, TK 24 h halb / 48 h voll |
 
 ## Übungsbezug
 
-Blackout-Drill (ART-0039): 60-Minuten-Liste abarbeiten, Erfolg: alle 13 Punkte abgehakt (CL-B1-07).
+Üben: 2× jährlich Blackout-Drill (ART-0039), je 2–4 h. Ziel: die 13 Punkte der 60-Minuten-Liste routiniert abarbeitbar.
 
 ---
-*ART-0016 — Enzyklopaedie v2, Band 1. Ampel grün (C2-factcheck 2026-11-07). review-v7 migriert; nur gruene/gelbe Inhalte.*
+*ART-0016 — Enzyklopaedie v2, Band 1 (Grundlagen & Blackout/Urban).*

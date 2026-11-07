@@ -244,3 +244,33 @@ Hinweis zu Band 6: Gate G-1 (legal) ist laut abschlussbericht §3 noch offen —
 ## Gesamturteil Turn 7: **FREIGEGEBEN** (Imprimatur bestätigt; visual-qa-Gate gelb bestanden)
 
 0 blocker, 0 major, 2 minor (T7-1 Anhang-D-Dopplung in Band 1, T7-2 bericht-Kosmetik). Druckfreigabe `06-dokumente/`: 10 × PDF/A-2b (3.376 S., alle ≥ 300), 10 × PDF/X-4 (3 mm Anschnitt + Schnittmarken 1×/Seite, CMYK-only, Fonts eingebettet, aktueller proof), 189 clean SVGs, 223 CL-Kennziffern konsistent mit 12-register.md, 0 Meta-Leaks. Gate G-1 (legal, Band 6) offen — Owner legal/Phase K.
+
+---
+
+# Nachtrag — Re-Review Turn 8: Enzyklopädie v2 (`06-dokumente/v2/`, 314 Artikel, 1.323 S.)
+
+**Anlass:** v2-Artikel-Build (doc-builder Turn 14) reviewen. Verifiziert mit poppler/qpdf (/tmp/gsenv) + frischem typst-Build + pdftotext-Volltextscan + Label-/Ref-Abgleich.
+
+## Ergebnis
+
+| Prüfpunkt | Status | Nachweis |
+|---|---|---|
+| v2 kompiliert fehlerfrei | **JA** | 10/10 `typst compile v2/band-NN-v2.typ --root . --pdf-standard a-2b` rc=0, keine Warnungen; frischer Build seitenzahl-identisch: 179/134/127/123/115/114/133/130/131/137 = **Σ 1.323 S.**; PDF/A-2b + dc:title in allen v2-PDFs. |
+| ART-Refs gültig | **JA** | 314 `<art-NNNN>`-Labels, unique und lückenlos ART-0001–ART-0314; alle 314 unique ART-Referenzen lösen auf ein Label auf (0 undefiniert); TOC (`#outline`) pro Band vorhanden; Per-Band-Verteilung 43/32/31/30/28/28/30/32/28/32 = exakt 12-register.md §6. Register: §4 = 314 unique lückenlos, §5 = 688 Tags. |
+| Meta 0 in v2 | **NEIN — T8-1 major** | pdftotext + .typ-Scan: band-06-v2 „Gate G-1“ ×2 + „ROT-2“ ×1 (L182, L1183, L1191: „…legal, Gate G-1)“, „deshalb ROT-2 gestrichen“), band-07-v2 „ROT-1“ ×1 (L613: „der alte ROT-1-Fehler, gestrichen“). Gate-/ROT-Texte im gerenderten v2-Werk — Verstoß gegen das Meta-Leak-Kriterium. (doc-builder-Log behauptet „Meta-Scan v2: 0“ — stimmt nicht. FSME/Lücke sind False Positives.) |
+| visual-qa-Gate v2 | **noch nicht protokolliert** | 20-visual-qa.md hat nur v1-Turns (bis Turn 5); orchestrator-Log: „visual-qa Turn 6 läuft“. Eigene Meta-Kontrolle s. T8-1; Kollisions-Check v2 nicht unabhängig re-runs (volles Rendern), strukturell: gleiches stil.typ (Boxen breakable:false, figure unteilbar). |
+| Druckdaten v2 PDF/X-4 + Marken | **JA (Dateien), aber kein proof — T8-3 minor** | Alle 10 `v2/druckdaten/band-NN-v2-druck.pdf` via pdfinfo/qpdf/pdffonts/pdfimages OK: Pages = Quelle, MediaBox 216×303 mm, Trim+Bleed gesetzt, 0 RGB-Ops, Schnittmarken RegBlack `1 1 1 1 K` + `0.3 w` genau 1×/Seite, PDF/X-4 + OutputIntent, 0 Annots, Fonts embedded. **Aber:** `v2/druckdaten/` enthält **kein proof.json/proof-bericht** (v1 hat beides) — Nachweis fehlt. |
+| 35 art-SVGs eingebettet? | **NEIN — T8-2 major** | illustrationen/ enthält 29 `art-NNNN-abb-M.svg` + 6 `warn-art-NNNN.svg` (35, alle valide, 0 Leaks; im v2-ZIP, 224 SVGs gesamt), aber **0 Referenzen** in v2/band-*-v2.typ: nur 17 `image()`-Crossrefs auf v1-`abb-*.svg`, warnrahmen nur v1-`warn-N`. Die für 19 Artikel mit Abb.-TODO erzeugten Skizzen sind in keinem v2-PDF eingebettet (Dateien im Paket orphaned). |
+| Keine Regressionen vs v1 | **JA** | v1 seit Turn 7 nur noch Turn-13-Farb-Rebuild (445/361/342/329/317/310/320/325/320/305 = 3.374 S.): proof.json aktuell (mtime > Druck-PDFs, Pages matchen, crop_marks_ok=true), band-01-druck PDF/X-4 + regK=445 + 0 RGB, Meta-Scan v1 = 0, Recompile rc=0. |
+
+## Befunde Turn 8
+
+| # | Schwere | Befund | Korrektur |
+|---|---|---|---|
+| T8-1 | **major** | Gate-/ROT-Texte im gerenderten v2-Text: band-06-v2 „Gate G-1“ ×2 + „ROT-2“ ×1, band-07-v2 „ROT-1“ ×1 (Ursache: Artikel-Quellen aus 23-artikel/ enthielten interne Markierungen, E2-Fix hat Gate/ROT nicht abgedeckt). | „(legal, Gate G-1)“ → „(rechtlich prüfen)“; „ROT-2 gestrichen“/„alte ROT-1-Fehler, gestrichen“ → sachlich („ nach § 19 Abs. 1 BJagdG unzulässig“ / „Wasserbad tötet Sporen nicht“); v2 neu bauen, Meta-Scan erweitern auf Gate/ROT. |
+| T8-2 | **major** | 35 art-SVGs (29 art-NNNN-abb-M + 6 warn-art-NNNN) liegen in illustrationen/ und im v2-ZIP, werden aber in keinem v2-Band referenziert/eingebettet (v2-PDFs haben nur 17 v1-Crossref-Abbildungen). | art-SVGs in die betreffenden Artikel (19 mit Abb.-TODO) einbetten oder aus Paket/illustrationen entfernen; v2 neu bauen + ZIP neu packen. |
+| T8-3 | minor | `v2/druckdaten/` ohne proof.json/proof-bericht (v1 hat beides). Dateien selbst per Messung OK. | proof.py auch für v2 laufen lassen (Pass D in prepress.sh für v2 verankern), proof.json Rev. v2 erzeugen. |
+
+## Gesamturteil Turn 8 (v2): **NACHBESSERN**
+
+v2 kompiliert sauber, ART-Register/Referenzen konsistent, v2-Druckdaten als PDF/X-4+Marken intakt, v1 ohne Regression — aber 2 major offen (T8-1 Gate/ROT im v2-Text, T8-2 art-SVGs nicht eingebettet) + 1 minor (T8-3 fehlender v2-proof). visual-qa-Gate v2 steht noch aus (Turn 6). Danach Re-Review Turn 9. v1 bleibt FREIGEGEBEN (Turn 7-Urteil hält, Turn-13-Stand grün). Gate G-1 (legal, Band 6) offen — Phase K.

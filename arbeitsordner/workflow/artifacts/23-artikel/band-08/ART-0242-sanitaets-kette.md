@@ -1,8 +1,6 @@
 # ART-0242 — Wie organisiere ich die Sanitäts-Kette (Ruhe-Blick-Frage-Hand-Blatt)?
 
-**Band/Domäne:** Band 8 — Heilkunde · **Status:** Katalog → recherchiert (B2) → geprüft (C2) → geschrieben (D2) · **Ampel (C2):** grün (ERC/DRK-konsistent) · **P/M/V:** 9 / unbedenklich / 9 · **Seitenziel:** 5–7 S.
-**Quellen:** Konzept 1.2 (review-v7 Kap. 1.2) · 02-factcheck Band-8-Ampel grün · Chat `[29cd074c #146]` (Abb. 1.2) · DRK/ERC Primary Survey (Abruf 2026-11-07) · `22/23` ART-0242
-
+**Band/Domäne:** Band 8 — Heilkunde · **Seitenziel:** 5–7 S.
 ## Ziel
 Jede Erstversorgung in fester Reihenfolge abarbeiten: **Ruhe – Blick – Frage – Hand – Blatt – Abgabe** — damit nichts Lebenswichtiges übersehen wird.
 
@@ -37,7 +35,7 @@ Keine Warnpflicht — die Kette selbst ist die Sicherheit.
 ART-0225 (Grenze) · ART-0223 (Helfer-Netz) · ART-0005 (STOPP) · ART-0012 (15-Minuten-Box) · ART-0251 (Blutung) · ART-0230 (Atem)
 
 ## Übungsbezug
-„Sanitäts-Kette 3× als Durchlauf“ (review-v7 Anhang C): alle 6 Stationen in Reihenfolge, Protokoll vollständig — Erfolgskriterium. Verfalluhr 12 Monate (ART-0035).
+Üben: 1× jährlich — die Sanitäts-Kette am Gesunden als Durchlauf üben: alle sechs Stationen in Reihenfolge.
 
 ## Mini-Glossar
 - **Sanitäts-Kette** = Ruhe–Blick–Frage–Hand–Blatt–Abgabe (6 Stationen).

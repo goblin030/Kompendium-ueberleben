@@ -1,8 +1,6 @@
 # ART-0173 — Wie gehe ich mit Fledermäusen um (EBLV-Lyssaviren)?
 
-**Band:** 6 — Jagd & Fischfang · **Status:** geschrieben (Phase D2) · **Ampel (C2):** grün + WARNPFLICHT · P 8 / M unbedenklich / V 8
-**Quelle:** neu recherchiert (22/23) — W18; review-v7 9.1 warn-6b; geprüft 23-factcheck-artikel/band-06.md (RKI G7, Abruf 2026-11-07)
-**Seitenziel:** 8–10 S. · **Abb.:** – · **WARNPFLICHT:** ja — Warnrahmen + Warngrafik Pflicht
+**Band:** 6 — Jagd & Fischfang
 
 ## Ziel
 Fledermaus-Kontakt vermeiden und nach Kontakt richtig handeln: DE/Irland terrestrisch tollwutfrei, aber Fledermaus-Lyssaviren (EBLV-1/-2) kommen vor.
@@ -24,14 +22,14 @@ Fledermaus-Kontakt vermeiden und nach Kontakt richtig handeln: DE/Irland terrest
 - Im Blackout: PEP nur medizinisch verfügbar — Giftnotruf über Festnetz/Radio; Wundreinigung sofort selbst.
 
 ## Typische Fehler + Folgen
-- Fledermaus „retten“ wollen, mit bloßen Händen anfassen → EBLV-Exposition; ohne sofortige PEP **tödlich** (warn-6b/W18).
+- Fledermaus „retten“ wollen, mit bloßen Händen anfassen → EBLV-Exposition; ohne sofortige PEP **tödlich**.
 - Wunde nicht ausgewaschen → höheres Infektionsrisiko.
 
 ## Warnungen
-> **WARNRAHMEN [warn-6b / W18] — Tollwut/EBLV:** Fledermaus **nie mit bloßen Händen** anfassen. Biss/Kratzer → Wunde sofort mit Wasser+Seife auswaschen und **sofort PEP** (postexpositionelle Prophylaxe) — Giftnotruf 116 123 (DE) / +353 1 809 2166 (IE) / 112 (EU). DE und Irland sind terrestrisch tollwutfrei, aber **EBLV-1/-2 bei Fledermäusen möglich** (RKI, G7). Verhaltensauffällige Tiere meiden und melden.
+> **WARNRAHMEN — Tollwut/EBLV:** Fledermaus **nie mit bloßen Händen** anfassen. Biss/Kratzer → Wunde sofort mit Wasser+Seife auswaschen und **sofort PEP** (postexpositionelle Prophylaxe) — Giftnotruf 116 123 (DE) / +353 1 809 2166 (IE) / 112 (EU). DE und Irland sind terrestrisch tollwutfrei, aber **EBLV-1/-2 bei Fledermäusen möglich**. Verhaltensauffällige Tiere meiden und melden.
 
 ## Siehe auch
-ART-0181 (Wild ausnehmen — warn-6b), ART-0245 (Wunde/Tetanus), ART-0234 (Impfschutz), ART-0235 (Vergiftung/Giftnotruf)
+ART-0181 (Wild ausnehmen —), ART-0245 (Wunde/Tetanus), ART-0234 (Impfschutz), ART-0235 (Vergiftung/Giftnotruf)
 
 ## Mini-Glossar
 - **EBLV:** European Bat Lyssavirus (Fledermaus-Tollwut-Virus), EBLV-1/-2 in Europa.
@@ -40,4 +38,5 @@ ART-0181 (Wild ausnehmen — warn-6b), ART-0245 (Wunde/Tetanus), ART-0234 (Impfs
 - **Reservoir:** Tierart, in der der Erreger dauerhaft vorkommt.
 
 ## Übungsbezug
-Notfallkarte „Fledermaus-Kontakt“ im Protokoll führen (Handschuhe, Wundwäsche, Giftnotruf-Nummern); Erfolg: Karte vollständig, Nummern eingetragen.
+
+Üben: Notfallkarte Fledermaus-Kontakt bereithalten (Handschuhe, Wundwäsche mit Wasser und Seife, Notrufnummern 116 123 / 112) — jährlich auffrischen.

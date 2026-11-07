@@ -1,8 +1,6 @@
 # ART-0009 — Wie finde ich im Notfall schnell den richtigen Artikel (Schnellzugriff, TOC, Register)?
 
-**Band:** 1 (Grundlagen & Blackout/Urban) · **Status:** geschrieben (D2) · **Ampel:** gelb (C2: P 8 / M unbedenklich / V 8)
-**Quelle:** 17-marktanalyse V2/V3 (beyondcamping.de, Abruf 2026-11-07); 12-register.md (363 Einträge)
-**Seitenziel:** 6–8 S. · **Tags:** navigation, schnellzugriff, register
+**Band:** 1 — Grundlagen & Blackout/Urban · **Tags:** navigation, schnellzugriff, register
 
 ## Ziel
 
@@ -10,8 +8,8 @@ Du findest jeden Artikel in unter 20 Sekunden — auch ohne Strom: Daumenregiste
 
 ## Material + Maße
 
-- Gedrucktes Exemplar mit Daumenregister (Print-TODO, L-20)
-- Register (zentral, 363 Einträge, 12-register.md)
+- Gedrucktes Exemplar mit Daumenregister (Print-TODO, 
+- Register (zentral, 363 Einträge, zentrales ART-Register)
 - TOC pro Band
 - „Erste 20 Minuten“-Kapitel (V3)
 
@@ -40,15 +38,11 @@ Du findest jeden Artikel in unter 20 Sekunden — auch ohne Strom: Daumenregiste
 
 - Keine Warnpflicht. Marktbeobachtung (beyondcamping, 27 Bücher/Top 14) ist kein amtlicher Standard — als Marktsignal führen.
 
-## Auflage (C2 — gelb)
-
-C2 gelb: Marktbeobachtung nicht normativ; Umsetzung Daumenregister/Print = publisher/prepress (L-14) und archivar (L-20, Backlog).
-
 ## Siehe auch
 
 - ART-0016 (erste 60 Minuten Blackout)
-- 12-register.md (zentrales Register)
-- 21-artikel-katalog.md (TOC)
+- zentrales ART-Register (zentrales Register)
+- Artikel-Katalog (TOC)
 
 ## Mini-Glossar
 
@@ -60,7 +54,7 @@ C2 gelb: Marktbeobachtung nicht normativ; Umsetzung Daumenregister/Print = publi
 
 ## Übungsbezug
 
-Übung: 5 beliebige Stichworte im Register nachschlagen, Ziel < 20 s pro Treffer; Ergebnis im Protokoll (ART-0035).
+Üben: halbjährlich 5 Stichworte im Register nachschlagen. Ziel: jeder Treffer in unter 20 Sekunden.
 
 ---
-*ART-0009 — Enzyklopaedie v2, Band 1. Ampel gelb (C2-factcheck 2026-11-07). review-v7 migriert; nur gruene/gelbe Inhalte.*
+*ART-0009 — Enzyklopaedie v2, Band 1 (Grundlagen & Blackout/Urban).*

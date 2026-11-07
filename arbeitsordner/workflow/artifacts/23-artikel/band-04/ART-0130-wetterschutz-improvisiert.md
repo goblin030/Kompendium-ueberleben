@@ -1,22 +1,20 @@
 # ART-0130 — Wie schütze ich mich improvisiert vor Wetter (Verfallsdatum)?
 
-**Band:** 4 (Unterkunft & Kleidung) · **Seitenziel:** 5–7 S. · **Status:** geschrieben (D2)
-**Ampel (C2):** grün · P 7 / M unbedenklich / V 9 · **Warnpflicht:** nein
-**Quelle:** Konzept B4-8.2 + review-v7 §8.2 + Anhang A.4 (Kleider-Karte) + `22/23` band-04 ART-0130
-**Tags:** unterkunft, wetter, improvisiert, verfallsdatum · **Abb.:** – · **warn-N:** –
+**Band:** 4 (Unterkunft & Kleidung) · **Seitenziel:** 5–7 S.
+**Tags:** unterkunft, wetter, improvisiert, verfallsdatum · **Abb.:** –
 
 ## Ziel
 Mit Behelfen gegen Regen, Wind und Schlamm geschützt sein — und wissen, wann ein Behelf versagt. Jeder Behelf bekommt ein **Verfallsdatum**.
 
 ## Material + Maße
 - Müllsack-Poncho, Gamaschen aus Dosenblech, Plane — materialabhängige Haltbarkeit
-- Kleider-Karte A.4 je Person mit Spalte „befristet“ / „ersetzt bis __.__.“
+- Kleider-Karte je Person mit Spalte „befristet“ / „ersetzt bis __.__.“
 - Stift zum Beschriften
 
 ## Schritte
 1. Behelf herstellen (z. B. Poncho: Loch für den Kopf in den Müllsack, Kanten verstärken).
 2. **Verfallsdatum auf den Behelf schreiben** (Datum + Frist — Müllsack kurz, Blech länger).
-3. In die Kleider-Karte A.4 eintragen (siehe ART-0132).
+3. In die Kleider-Karte eintragen (siehe ART-0132).
 4. Bei Erreichen des Datums: prüfen oder ersetzen — nie ungeprüft in den Einsatz.
 5. Fundstücke laufend ergänzen (wächst mit jedem Fund).
 
@@ -39,7 +37,7 @@ ART-0132 (Kleidungssatz/Kleider-Karte) · ART-0124 (Faserpflege) · ART-0117 (Sc
 ## Mini-Glossar
 - **Verfallsdatum:** Prüf-/Ersatzdatum auf jedem Behelf.
 - **Behelf:** improvisierter Ersatz (Poncho, Gamasche) — befristet nutzbar.
-- **Kleider-Karte A.4:** persönliches Verzeichnis mit befristet-Spalte.
+- **Kleider-Karte :** persönliches Verzeichnis mit befristet-Spalte.
 
 ## Übungsbezug
-Einen Regentag mit reinen Behelfen überstehen (review-v7 Anhang C, Mai Irland): Versagens-Liste + Befristet-Spalte führen. Erfolg: alle Behelfe mit Datum, keiner versagt.
+Üben: Im Mai einen Regentag nur mit Behelfen überstehen und alle Verfallsdaten prüfen.

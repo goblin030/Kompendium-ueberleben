@@ -1,15 +1,15 @@
 # ART-0209 — Wie organisiere ich die kalte Kammer (Zonen)?
 
-**Band/Domäne:** Band 7 — Vorrat & Konservierung · **Seitenziel:** 5–7 S. · **Ampel (C2):** grün · **Warnpflicht:** nein · **Status:** geschrieben (D2) · **Tags:** vorrat, kalte, kammer, zonen
+**Band/Domäne:** Band 7 — Vorrat & Konservierung · **Seitenziel:** 5–7 S. · **Tags:** vorrat, kalte, kammer, zonen
 
 ## Ziel
 Die Kammer (Erdkeller/Erdmiete auf dem Land, Treppenhaus-Schrank in der Stadt) in Zonen nach Temperatur ordnen, damit jede Ware ihren Platz hat und die fünf Feinde (ART-0216) getrennt abgewehrt werden.
 
 ## Material + Maße
-- Regale, Kisten, Thermometer, Inventar-Vorlage A1 (Zone/Inhalt/Menge/Haltbarkeit/Kontrolldatum), Kammer-Plan A3.
+- Regale, Kisten, Thermometer; Inventar und Kammer-Plan auf Papier führen (Zone, Inhalt, Menge, Haltbarkeit, Kontrolldatum).
 - **Zonen:** Kühlzone (erdberührt, schattig): Fleisch, Fisch, Milch, Fett — **< 10 °C** · Trocken-/Dunkelzone: Getreide, Dörrware, Konserven — kühl, trocken, dunkel · Warme Zone (nicht beheizt): Obst, Gemüse, Brot — Keller-Temperatur.
 - **Detail:** Tür-Nähe (mild): Brot, Öle, Trink-Krug — nicht Fleisch/Milch. Mittlere Regale (kühl, ruhig, dunkel): Gläser, Fett, Dörrware — nicht Zwiebeln (Geruch). Boden-Nähe (kühl, feucht-erdig): Wurzel, Kraut-Fass, Kartoffel — nicht Brot (Schimmel). Nasses Ton-Tuch am kühlsten: Butter, Milch, Frische. Erd-Grube (winter-still): Kohl, Rüben, Apfel.
-- Drainage: Kies, Moos, Gefälle gegen stehendes Wasser. Feuer-Abstände wie Band 3 (B3-1.2).
+- Drainage: Kies, Moos, Gefälle gegen stehendes Wasser. Feuer-Abstände wie beim Feuerplatz.
 
 ## Schritte
 1. Feinde am Ort kartieren (ART-0216), ehe das erste Regal steht.
@@ -27,17 +27,15 @@ Die Kammer (Erdkeller/Erdmiete auf dem Land, Treppenhaus-Schrank in der Stadt) i
 - Speicher neben Herd/Heizung → „Wärme frisst die Monate".
 
 ## Warnungen
-Keine Warnpflicht; Feuer-Abstände (Band 3, B3-1.2) beachten.
+Keine Warnpflicht; Feuer-Abstände beachten.
 
 ## Siehe auch
-ART-0193 (Erdmiete), ART-0204 (Kühlen ohne Strom), ART-0216 (fünf Feinde), ART-0210 (drei Kreise), ART-0197 (Verderb), ART-0205 (Getreide), ART-0025 (Temperatur messen, Band 1).
+ART-0193 (Erdmiete), ART-0204 (Kühlen ohne Strom), ART-0216 (fünf Feinde), ART-0210 (drei Kreise), ART-0197 (Verderb), ART-0205 (Getreide), ART-0025 (Temperatur messen).
 
 ## Übungsbezug
-Kammer-Inventur 2× üben — Erfolg: Zonen kontrolliert, < 10 °C in der Kühlzone gemessen (review-v7 Anhang C + CL-B7-16).
+Übe die Kammer-Inventur zweimal pro Jahr: Zonen kontrollieren und in der Kühlzone < 10 °C messen.
 
 ## Mini-Glossar
 - **Kühlzone:** erdberührter, schattiger Bereich < 10 °C für Fleisch/Fisch/Milch/Fett.
 - **Drainage:** Feuchte-Abfuhr der Kammer (Kies, Moos, Gefälle).
 
-## Quellen
-review-v7 K 8.1 + CL-B7-16 + Anhang A1/C; 01-recherche.md Band 7 T3/T40/T55/T58 [29cd074c #146]; 02-factcheck.md Band-7-Ampel K 8.1 grün (konsistent Band 3). C2: ART-0209 grün.

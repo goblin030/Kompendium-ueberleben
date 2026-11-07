@@ -1,12 +1,12 @@
 # ART-0211 — Wie plane ich den Vorrats-Fahrplan (sechs Stationen)?
 
-**Band/Domäne:** Band 7 — Vorrat & Konservierung · **Seitenziel:** 5–7 S. · **Ampel (C2):** grün · **Warnpflicht:** nein · **Status:** geschrieben (D2) · **Tags:** vorrat, vorrats, fahrplan, sechs
+**Band/Domäne:** Band 7 — Vorrat & Konservierung · **Seitenziel:** 5–7 S. · **Tags:** vorrat, vorrats, fahrplan, sechs
 
 ## Ziel
 Das Anlegen des Vorrats über das Jahr planen: **sechs Stationen — 1. Erfassen → 2. Sortieren → 3. Konservieren → 4. Lagern → 5. Kontrollieren → 6. Rotieren** — ohne Plan bleiben Lücken (kein Salz, keine Kammer).
 
 ## Material + Maße
-- Kalender A2, Inventar A1, Kammer-Plan A3, Chargen-Karte A4, Protokoll.
+- Kalender, Inventar, Kammer-Plan und Chargen-Karte auf Papier.
 - **Jahres-Fahrplan (Richtwerte):** Lesen Jan–Feb (Kammer-Gang, Rechnung gegen Ziel-Tag ART-0214) · Gründen Mär–Apr (Leeren, Scheuern, Saat zurücklegen ART-0195) · Frische Mai–Jun (alte Charge vor neuer Ernte) · Dörren Jul–Aug (ART-0218/0220, Essig-Ansatz ART-0196) · Schlachten Sep (Schmalz ART-0201, Lake ART-0212, Wurst ART-0219, Seife ART-0217) · Fassen Okt–Nov (Kraut-Fass ART-0207, Gläser ART-0203, Rauch ART-0213, Winter-Rechnung ART-0214).
 - **Monatsfenster (Richtwerte):** Dörren Jul–Sep / Jun–Jul (IR); Schlachten Okt–Dez / Okt–Nov (IR); Einkochen Aug–Okt / Sep–Okt (IR); Fass Okt–Nov / Okt (IR); Rauch Nov–Jan / Nov–Dez mit Torf (IR). Lostage am eigenen Ort prüfen.
 
@@ -35,11 +35,9 @@ Keine Warnpflicht.
 ART-0214 (Winter-Rechnung), ART-0210 (drei Kreise), ART-0208 (Wege/Fenster), ART-0195 (Saat), ART-0199 (Ethik), ART-0202 (Schwelle).
 
 ## Übungsbezug
-Zwölf Monatsaufgaben mit Beweis pro Monat (review-v7 Anhang C / 01-B7 T56).
+Übe den Jahresabschluss einmal pro Jahr im Dezember: Chargen-Karten lesen, Fehler benennen, den Fahrplan für das nächste Jahr datieren.
 
 ## Mini-Glossar
 - **Vorrats-Fahrplan:** sechs Stationen des Anlegens über das Jahr.
 - **Lostage:** Wetter-Tage des Bauern-Kalenders, am eigenen Ort geprüft.
 
-## Quellen
-review-v7 K 1.3 + CL-B7-02; 01-recherche.md Band 7 T5/T56/T57/T58 [29cd074c #146]; 02-factcheck.md Band-7-Ampel K 1.3 grün. C2: ART-0211 grün.

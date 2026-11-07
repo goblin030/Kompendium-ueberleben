@@ -1,20 +1,19 @@
 # ART-0154 — Wie nutze ich den Pflanzen-Kalender (Monatsfenster)?
 
-**Band:** 5 (Botanik) · **Seitenziel:** 5–7 S. · **Ampel (C2):** grün · P 9 / M unbedenklich / V 9
-**Konzept:** review-v7 9.2 Pflanzen-Kalender · **Quellen:** 22-recherche-artikel/band-05.md §ART-0154; 01-recherche.md Band 5 T45/50/53 `[29cd074c #146, 2026-10-17T06:37:07.974Z]`; C2 grün
+**Band:** 5 (Botanik) · **Seitenziel:** 5–7 S.
 **Tags:** botanik, pflanzen, kalender, monatsfenster, me, irland
 
 ## 1. Ziel
-Ernte und Saat nach Monatsfenstern planen — für Mitteleuropa und Irland; lokal um **± 2 Wochen** verschiebbar nach Höhenlage/Küste; den Kalender des Lagers führen (Band 10, ART-0311ff.).
+Ernte und Saat nach Monatsfenstern planen — für Mitteleuropa und Irland; lokal um **± 2 Wochen** verschiebbar nach Höhenlage/Küste; den Kalender des Lagers führen (ART-0291).
 
 ## 2. Material + Maße
-- Ernte-Jahresplan A.3 (Monat, Fenster auf/zu, Ertrag, Fehl-Gänge, Abweichung)
-- Kalender des Lagers (Band 10)
+- eigener Ernte-Kalender (Monat, Fenster auf/zu, Ertrag, Fehl-Gänge, Abweichung)
+- Kalender des Lagers (ART-0291)
 - ± 2 Wochen Verschiebung; Stadt: Wärmeinsel +1–2 Wo
 
 ## 3. Schritte
 1. Kalender für den eigenen Ort führen — drei Jahre Einträge ergeben die „Jahres-Uhr“.
-2. Fenster je Monat eintragen (Auszug, ME): Februar Frühbeet Glas (Salat, Zwiebeln) · März Bärlauch (Knoblauch-Merkmal, warn-5 ART-0143), Erbsen/Spinat/Möhren · April Nessel/Giersch/Löwenzahn, Kartoffeln/Rote Bete/Kohl · Mai Holunderblüte/Schafgarbe, Bohnen/Mais/Kürbis nach Eisheiligen · Juni Erdbeeren/Himbeeren/Kamille · Juli Beeren/Frühkartoffeln, Gründüngung · August Haupt-Ernte (Tomaten/Zucchini/Bohnen/Nüsse), Winterroggen · September Äpfel/Wurzelgemüse/Kartoffeln, Winterweizen/Knoblauch · Oktober späte Äpfel/Nüsse/Wurzeln/Kürbis, Saatgut-Ernte (ART-0151).
+2. Fenster je Monat eintragen (Auszug, ME): Februar Frühbeet Glas (Salat, Zwiebeln) · März Bärlauch (Knoblauch-Merkmal, ART-0143), Erbsen/Spinat/Möhren · April Nessel/Giersch/Löwenzahn, Kartoffeln/Rote Bete/Kohl · Mai Holunderblüte/Schafgarbe, Bohnen/Mais/Kürbis nach Eisheiligen · Juni Erdbeeren/Himbeeren/Kamille · Juli Beeren/Frühkartoffeln, Gründüngung · August Haupt-Ernte (Tomaten/Zucchini/Bohnen/Nüsse), Winterroggen · September Äpfel/Wurzelgemüse/Kartoffeln, Winterweizen/Knoblauch · Oktober späte Äpfel/Nüsse/Wurzeln/Kürbis, Saatgut-Ernte (ART-0151).
 3. Irland-Spalte mitführen: milder/feuchter — Frühjahr früher (Bärlauch Feb–Apr), Herbst später; Tang-Gänge bei Springtide (ART-0159).
 4. Abweichungen notieren und nächstes Jahr korrigieren.
 
@@ -26,10 +25,10 @@ Ernte und Saat nach Monatsfenstern planen — für Mitteleuropa und Irland; loka
 | Fehler | Folge | Korrektur |
 |---|---|---|
 | Nach Kalender des Herkunftslandes planen (z. B. Südeuropa) | Aussaat erfriert oder verpasst die Saison | eigenen Kalender führen (Schritt 1) |
-| Fenster nicht im Lager-Kalender | Gruppe plant gegeneinander | Kalender des Lagers (Band 10) |
+| Fenster nicht im Lager-Kalender | Gruppe plant gegeneinander | Kalender des Lagers (ART-0291) |
 
 ## 6. Warnungen
-März-Zeile: Bärlauch nur mit Knoblauch-Merkmal (warn-5, ART-0143).
+März-Zeile: Bärlauch nur mit Knoblauch-Merkmal (ART-0143).
 
 ## 7. Siehe auch
 ART-0147 (Dutzend), ART-0151 (Samen-Bank), ART-0152 (Balkon), ART-0148 (Urban), ART-0159 (Strand/Watt)
@@ -40,4 +39,4 @@ ART-0147 (Dutzend), ART-0151 (Samen-Bank), ART-0152 (Balkon), ART-0148 (Urban), 
 - **Wärmeinsel:** Stadtklima — Vegetation +1–2 Wochen gegenüber dem Umland
 
 ## 9. Übungsbezug
-Übungsjahr ganzjährig: A.3 führen, monatlich Fenster auf/zu + Ertrag eintragen. Dezember: Kalender-Auswertung mit Rückgabe-Bilanz (ART-0151). Protokoll, Verfalluhr 12 Monate.
+Üben ganzjährig: monatlich Fenster und Ertrag im eigenen Kalender notieren und am Jahresende auswerten.

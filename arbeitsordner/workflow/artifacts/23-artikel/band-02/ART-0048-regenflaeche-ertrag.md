@@ -1,9 +1,7 @@
 # ART-0048 — Wie berechne ich den Ertrag einer Regenflaeche (1 mm x 1 m2 = 1 l)?
 
-**Band:** 2 (Wasser) · **Enzyklopaedie v2, Phase D2** · **Seitenziel:** 5-7 S.
-**Ampel (C2, `artifacts/23-factcheck-artikel/band-02.md`):** gruen · **P/M/V:** P 8 / M unbedenklich / V 8
+**Band:** 2 (Wasser) · Enzyklopaedie v2
 **Tags:** wasser, berechne, ertrag, regenflaeche
-**Quellen:** Konzept 2.3 (review-v7); W8 (02-factcheck.md: Physik, DWD, Hydrologie); C2: DWD 1991-2020 [W-C1/W-C2] + Met Eireann 1991-2020 [W-C4/W-C5], Abruf 2026-11-07; Chat [29cd074c #146] T7
 
 ## Ziel
 
@@ -13,7 +11,7 @@ Du lernst die Regenformel exakt anzuwenden: 1 mm Niederschlag auf 1 m2 Auffangfl
 
 - Massband (Flaeche messen)
 - Niederschlagswerte (DWD/Met Eireann, Monatswerte 1991-2020)
-- Notizblock/Protokoll (B1-9.1)
+- Notizblock/Protokoll (ART-0011)
 
 ## Schritte
 
@@ -50,7 +48,6 @@ ART-0055 (Regen auffangen), ART-0064 (Vorrat), ART-0049 (Bedarf)
 
 ## Uebungsbezug
 
-Ertragsrechnung 3x fuer das eigene Dach/Balkon durchrechnen; Erfolgskontrolle: Formel korrekt angewendet, Verlustabzug 20-30 %, Monatswerte statt Jahresmittel verwendet. Uebungsrhythmus lt. Anhang C Band 2: mind. 3x hintereinander (V<6: 5x), 45-90 min pro Einheit, max. 2 Einheiten/Tag; messbares Erfolgskriterium notieren; Abbruch bei Verletzung/Wetterumschwung/Materialbruch; Protokoll nach B1-8.2 (Datum, Wiederholungen, Zeit, Beobachtung, Verfalldatum +12 Monate).
+Üben: Ertragsrechnung 3x fuer das eigene Dach/Balkon durchrechnen. Erfolgskontrolle: Formel korrekt angewendet, Verlustabzug 20-30 %, Monatswerte statt Jahresmittel verwendet. Rhythmus: mindestens 3× hintereinander, 45–90 Minuten pro Einheit, höchstens 2 Einheiten pro Tag.
 
----
-*ART-0048 — erstellt in Phase D2 (editor), Agent research-b02, 2026-11-07. Ampel C2: gruen. Migriert aus review-v7 (`04-redaktion-band-02.md`) + Recherche (`22-recherche-artikel/band-02.md`) + Factcheck (`23-factcheck-artikel/band-02.md`).*
+*ART-0048 — Band 2 (Wasser), Enzyklopaedie v2.*

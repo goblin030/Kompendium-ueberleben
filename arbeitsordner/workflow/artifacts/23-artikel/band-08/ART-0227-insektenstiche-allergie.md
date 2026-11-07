@@ -1,15 +1,13 @@
 # ART-0227 — Wie behandle ich Insektenstiche und allergische Reaktionen?
 
-**Band/Domäne:** Band 8 — Heilkunde · **Status:** Katalog → recherchiert (B2) → geprüft (C2) → geschrieben (D2) · **Ampel (C2):** gelb — **Auflage:** Notfallset-Dosierung individuell ärztlich (SME); Laien-Handhabung des Adrenalin-Autoinjektors geprüft (C2) · **P/M/V:** 7 / unbedenklich / 8 · **Seitenziel:** 5–7 S.
-**Quellen:** 01-recherche Band 8 (Rand, Insekten) + Band 5/6 · Web (Abruf 2026-11-07): insektengiftallergie.de, allergieinformationsdienst.de, ptaheute.de, ADAC, apotheken-umschau.de · `22/23` ART-0227
-
+**Band/Domäne:** Band 8 — Heilkunde · **Seitenziel:** 5–7 S.
 ## Ziel
 Lokale Insektenstiche lindern — und die lebensbedrohliche allergische Reaktion (Anaphylaxie) sofort erkennen und mit Adrenalin + Notruf behandeln.
 
 ## Material + Maße
 - Kühlung (kaltes Wasser/Tuch)
 - Spitzwegerich: frische Blätter zerrieben als Brei auf Stich und Röte (äußerlich, unbegrenzt)
-- Bei bekannter Allergie: **Notfallset Anaphylaxie** (Adrenalin-Autoinjektor + Kortison + Antihistaminikum) — Zusammensetzung/Dosierung individuell ärztlich (SME)
+- Bei bekannter Allergie: **Notfallset Anaphylaxie** (Adrenalin-Autoinjektor + Kortison + Antihistaminikum) — Zusammensetzung/Dosierung individuell ärztlich
 - Telefon/Notruf 112
 
 ## Schritte
@@ -18,7 +16,7 @@ Lokale Insektenstiche lindern — und die lebensbedrohliche allergische Reaktion
 3. **Anaphylaxie erkennen:** Schwellung von Mund/Rachen, Atemnot, Kreislaufschwäche, rasch zunehmende Hautreaktion — binnen Minuten.
 4. Bei Anaphylaxie: **sofort Adrenalin-Autoinjektor in die Außenseite des Oberschenkels** (durch die Kleidung möglich; Wiederholung nach 5–15 min möglich), **danach immer 112 rufen** — Stichwort „Anaphylaxie“, auch bei Besserung.
 5. Patienten ruhig lagern, Oberkörper hoch bei Atemnot; Schock-Zeichen beobachten (ART-0231).
-6. **Kreuzotter-Biss** (Mitteleuropa; in Irland keine Giftschlangen): ruhigstellen, Glied schienen und hochlagern, **kein** Aussaugen/Abbinden/Abschneiden, Notruf 112, Wunde nach warn-8a versorgen (Biss = Risikowunde, ART-0245).
+6. **Kreuzotter-Biss** (Mitteleuropa; in Irland keine Giftschlangen): ruhigstellen, Glied schienen und hochlagern, **kein** Aussaugen/Abbinden/Abschneiden, Notruf 112, Wunde nach versorgen (Biss = Risikowunde, ART-0245).
 
 ## Varianten (Stadt / Land / Klima)
 - **Stadt:** 112 schnell, Apotheke; **Land:** Bote (ART-0223), Autoinjektor im Helfer-Netz vorhalten, wenn Allergiker bekannt.
@@ -39,7 +37,7 @@ Lokale Insektenstiche lindern — und die lebensbedrohliche allergische Reaktion
 ART-0230 (Atem-Not) · ART-0231 (Schock) · ART-0245 (Risikowunde/Biss) · ART-0235 (Vergiftung handeln)
 
 ## Übungsbezug
-Anwendung des Trainerpens am Oberschenkel üben (Simulationsübung, ohne Injektion) — 1× jährlich; Verfalluhr 12 Monate (ART-0035).
+Üben: 1× jährlich — Anwendung des Adrenalin-Trainerpens am Oberschenkel (ohne Injektion) und das Meldeschema (Substanz, Menge, Zeitpunkt) beim Notruf üben.
 
 ## Mini-Glossar
 - **Anaphylaxie** = schwere allergische Allgemeinreaktion mit Atemnot/Kreislauf — lebensbedrohlich.

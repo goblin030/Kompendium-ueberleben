@@ -1,13 +1,13 @@
 # ART-0200 — Wie gerbe ich Leder (Lohe/Eichenrinde, Schnittprobe)?
 
-**Band/Domäne:** Band 7 — Vorrat & Konservierung · **Seitenziel:** 5–7 S. · **Ampel (C2):** grün (LÜCKE Lohbrühe-Konzentration → SME-handwerk) · **Warnpflicht:** nein · **Status:** geschrieben (D2) · **Tags:** vorrat, gerbe, leder, lohe
+**Band/Domäne:** Band 7 — Vorrat & Konservierung · **Seitenziel:** 5–7 S. · **Tags:** vorrat, gerbe, leder, lohe
 
 ## Ziel
 Ein Fell durch Lohgerbung (Tannine aus Eichenrinde/Kastanienschalen) haltbar machen — das Leder fault nicht mehr; danach fetten und weichklopfen.
 
 ## Material + Maße
 - Fell (gehäutet), Salz zum Vorbehandeln (ART-0215: nur Salz bekannter Herkunft!), Trockenplatz.
-- Lohbrühe: Eichenrinde oder Kastanienschalen gekocht — **Konzentration: LÜCKE in der Datenbasis → Owner SME-handwerk**.
+- Lohbrühe: Eichenrinde oder Kastanienschalen kräftig kochen (dunkelbraun), ziehen lassen.
 - Fass/Eimer, Rührholz, Fett zum Nachfetten (ART-0201).
 
 ## Schritte
@@ -26,17 +26,15 @@ Ein Fell durch Lohgerbung (Tannine aus Eichenrinde/Kastanienschalen) haltbar mac
 - Schnittprobe zu früh → weißer Kern heißt: weiter gerben.
 
 ## Warnungen
-Keine Warnpflicht. CO-Hinweis beim Kochen der Brühe in geschlossenen Räumen (warn-3, Band 3).
+Keine Warnpflicht. CO-Hinweis beim Kochen der Brühe in geschlossenen Räumen.
 
 ## Siehe auch
-ART-0201 (Schmalz/Talg zum Fetten), ART-0212 (Salzen/Pökeln), ART-0215 (Salz-Herkunft), ART-0190 (Fell/Sehne/Knochen verwerten, Band 6), ART-0273 (Leder reparieren, Band 9), ART-0091 (CO, Band 3).
+ART-0201 (Schmalz/Talg zum Fetten), ART-0212 (Salzen/Pökeln), ART-0215 (Salz-Herkunft), ART-0190 (Fell/Sehne/Knochen verwerten), ART-0273 (Leder reparieren), ART-0091 (CO).
 
 ## Übungsbezug
-Gerb-Trank im November führen, Schnittprobe dokumentieren (review-v7 CL-B7-15).
+Übe das Gerben einmal pro Jahr im November (siehe ART-0211): Gerbzeit notieren, Schnittprobe dokumentieren (braun = durchgegerbt).
 
 ## Mini-Glossar
 - **Lohe:** zerkleinerte Eichenrinde (Tannine) als Gerbmittel.
 - **Schnittprobe:** durchgegerbt = Schnittkante innen braun; weiß = weiter.
 
-## Quellen
-review-v7 K 7.3 + CL-B7-15; 01-recherche.md Band 7 T56/T59 [29cd074c #146]; 02-factcheck.md Band-7-Ampel K 7.3 grün. C2: ART-0200 grün, LÜCKE Konzentration → SME-handwerk.

@@ -1,8 +1,6 @@
 # ART-0040 — Wie unterscheide ich Blackout und Brownout?
 
-**Band:** 1 (Grundlagen & Blackout/Urban) · **Status:** geschrieben (D2) · **Ampel:** grün (C2: P 9 / M unbedenklich / V 9)
-**Quelle:** 18-recherche §2; BW1–BW8; C2: Berlin/SAIDI/Iberien extern bestätigt (Wikipedia, BNetzA, ENTSO-E via 19-factcheck, 2026-11-07)
-**Seitenziel:** 6–8 S. · **Tags:** szenario, stromausfall, begriffe
+**Band:** 1 — Grundlagen & Blackout/Urban · **Tags:** szenario, stromausfall, begriffe
 
 ## Ziel
 
@@ -14,11 +12,11 @@ Du ordnest das Ereignis richtig ein — lokal/kontrolliert/unkontrolliert — un
 
 ## Schritte
 
-1. Stromausfall: lokal, Minuten bis wenige Stunden; ~160.000–200.000 Störungen/Jahr in DE (BNetzA — als „Störungen“ führen, BW5). SAIDI DE 2024 = 11,7 min (BNetzA) — zuverlässig ≠ ausfallsicher.
+1. Stromausfall: lokal, Minuten bis wenige Stunden; ~160.000–200.000 Störungen/Jahr in DE (BNetzA — als „Störungen“ führen, . SAIDI DE 2024 = 11,7 min (BNetzA) — zuverlässig ≠ ausfallsicher.
 2. Brownout: kontrolliert, geplante Spannungsabsenkung/Schwankungen zur Netzstabilisierung.
 3. Blackout: unkontrollierter großflächiger Kollaps, kaskadenartige Schutzabschaltungen, Schwarzstart komplex — schwerste Form (TAB 2011, ENTSO-E, VDE).
 4. Ursachen: Unfall, Bauarbeiten, Extremwetter, Sabotage/Cyber (BSI). Wahrscheinlichkeit mehrtägig in DE: gering, nicht vernachlässigbar (TAB 2011); Teil-Blackouts 4–48 h mehrmals jährlich.
-5. Referenzereignisse: Iberien 28.04.2025, 12:33 MEZ — Kollaps in Sekunden (~15 GW in ~5 s, BW6-Korrektur), > 16 h stellenweise ~22 h, ~60 Mio betroffen. Berlin 03.01.2026: Brandanschlag Kabelbrücke Lichterfelde, 5× 110-kV-Kabel, ~45.000 Haushalte + > 2.200 Unternehmen ohne Strom/Fernwärme (SW-Berlin inkl. Pflegeheime/Krankenhäuser); weiterer Anschlag 08.09.2025 Treptow-Köpenick. USA Sandy Okt. 2012: > 8 Mio ohne Strom.
+5. Referenzereignisse: Iberien 28.04.2025, 12:33 MEZ — Kollaps in Sekunden (~15 GW in ~5 s, -Korrektur), > 16 h stellenweise ~22 h, ~60 Mio betroffen. Berlin 03.01.2026: Brandanschlag Kabelbrücke Lichterfelde, 5× 110-kV-Kabel, ~45.000 Haushalte + > 2.200 Unternehmen ohne Strom/Fernwärme (SW-Berlin inkl. Pflegeheime/Krankenhäuser); weiterer Anschlag 08.09.2025 Treptow-Köpenick. USA Sandy Okt. 2012: > 8 Mio ohne Strom.
 6. Beim Eintritt fällt aus: Kühlschrank, Herd, Licht, Heizung, Wasser aus der Leitung, Internet, Mobilfunk (BBK).
 
 ## Varianten (Stadt / Land / Klima)
@@ -35,11 +33,7 @@ Du ordnest das Ereignis richtig ein — lokal/kontrolliert/unkontrolliert — un
 
 ## Warnungen
 
-- BAKS-Zitat „grundlegende Defizite“ nicht unabhängig belegt → nicht übernehmen (BW7). Kollaps Iberien in Sekunden, nicht „29 Minuten“ (BW6).
-
-## Auflage (C2 — gelb)
-
-C2-Auflagen: BW5 „Störungen“-Formulierung, BW6 „Sekunden“-Korrektur, BW7 BAKS-Zitat streichen — editor.
+- BAKS-Zitat „grundlegende Defizite“ nicht unabhängig belegt → nicht übernehmen . Kollaps Iberien in Sekunden, nicht „29 Minuten“ .
 
 ## Siehe auch
 
@@ -59,7 +53,7 @@ C2-Auflagen: BW5 „Störungen“-Formulierung, BW6 „Sekunden“-Korrektur, BW
 
 ## Übungsbezug
 
-Szenario-Karte: eigenes Ereignis (lokal vs. Blackout) durchsprechen — welche Maßnahmen aus ART-0016 greifen wann? Protokoll ART-0035.
+Üben: jährlich die Szenario-Karte durchsprechen (lokaler Ausfall vs. Blackout). Ziel: Maßnahmen aus ART-0016 zeitlich richtig eingeordnet.
 
 ---
-*ART-0040 — Enzyklopaedie v2, Band 1. Ampel grün (C2-factcheck 2026-11-07). review-v7 migriert; nur gruene/gelbe Inhalte.*
+*ART-0040 — Enzyklopaedie v2, Band 1 (Grundlagen & Blackout/Urban).*

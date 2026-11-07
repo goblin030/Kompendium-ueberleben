@@ -1,6 +1,6 @@
 # ART-0212 — Wie pökle ich Fleisch (Lake-Ei-Test, Zeiten)?
 
-**Band/Domäne:** Band 7 — Vorrat & Konservierung · **Seitenziel:** 5–7 S. · **Ampel (C2):** grün (W26) · **Warnpflicht:** nein (Salz-Herkunft → warn-7c, ART-0215) · **Status:** geschrieben (D2) · **Tags:** vorrat, poekle, fleisch, lake
+**Band/Domäne:** Band 7 — Vorrat & Konservierung · **Seitenziel:** 5–7 S. · **Tags:** vorrat, poekle, fleisch, lake
 
 ## Ziel
 Fleisch in Salzlake pökeln: Keime werden durch Wasserentzug (Salz senkt aw) und Nitrit gehemmt. Lake-Stärke ohne Waage prüfen: **Lake-Ei-Test — ein frisches rohes Ei schwimmt in der fertigen Lake** (legt in Süßwasser auf den Grund).
@@ -28,18 +28,16 @@ Fleisch in Salzlake pökeln: Keime werden durch Wasserentzug (Salz senkt aw) und
 - Lake ohne Probe angesetzt → Speck fault im November.
 
 ## Warnungen
-Keine eigene Warnpflicht; **warn-7c (ART-0215):** nur Salz bekannter Herkunft. Kaltgeräucherter Fisch allein nicht haltbar → warn-7b-Kontext (ART-0213).
+Keine eigene Warnpflicht; **Nur Salz bekannter Herkunft (ART-0215).** Kaltgeräucherter Fisch allein nicht haltbar → siehe ART-0213.
 
 ## Siehe auch
 ART-0215 (Salz), ART-0213 (Räuchern), ART-0209 (Kammer), ART-0208 (Wege), ART-0211 (Fahrplan), ART-0201 (Fett-Deckel), ART-0199 (Not-Reserve).
 
 ## Übungsbezug
-Pökeln mit Ei-Test 1× üben — Erfolg: frisches Ei schwimmt in der Lake, Zeiten eingehalten (review-v7 CL-B7-09 + Anhang C).
+Übe das Pökeln einmal pro Schlacht-Saison mit Ei-Test: ein frisches rohes Ei muss in der fertigen Lake schwimmen; Zeiten einhalten (Speck 7–10 Tage).
 
 ## Mini-Glossar
 - **Lake:** Salz-Wasser der Pökel-Kette; „das rohe Ei entscheidet".
 - **Lake-Ei-Test:** frisches rohes Ei schwimmt in richtiger Lake-Stärke.
 - **aw:** Wasseraktivität — Salz senkt sie, hemmt Keime.
 
-## Quellen
-review-v7 K 5.2 + CL-B7-09; 01-recherche.md Band 7 T24/T26 [29cd074c #146]; 02-factcheck.md W26 (Fleischerhandwerk + USDA Complete Guide) + Band-7-Ampel K 5.2 grün. C2: ART-0212 grün.

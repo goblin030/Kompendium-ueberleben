@@ -1,8 +1,6 @@
 # ART-0014 — Wie gehe ich mit im Aufzug eingeschlossenen Personen um?
 
-**Band:** 1 (Grundlagen & Blackout/Urban) · **Status:** geschrieben (D2) · **Ampel:** grün (C2: P 8 / M unbedenklich / V 8)
-**Quelle:** 18-recherche §4 Nr. 5 + §5.9; 19-factcheck §3 + BW33 grün
-**Seitenziel:** 6–8 S. · **Tags:** rettung, aufzug, urban
+**Band:** 1 — Grundlagen & Blackout/Urban · **Tags:** rettung, aufzug, urban
 
 ## Ziel
 
@@ -42,7 +40,7 @@ Du hilfst im Aufzug eingeschlossenen Personen, ohne dich selbst zu gefährden: s
 
 - ART-0016 (erste 60 Minuten, Punkt 6)
 - ART-0041 (Urban Survival)
-- Band 8: ART-0246 (Rettung aus Fahrzeugen/Unfällen)
+- ART-0246 (Rettung aus Fahrzeugen/Unfällen)
 
 ## Mini-Glossar
 
@@ -53,7 +51,7 @@ Du hilfst im Aufzug eingeschlossenen Personen, ohne dich selbst zu gefährden: s
 
 ## Übungsbezug
 
-Im Blackout-Drill (ART-0039): Aufzug-Prüfschritt mitgehen (auditiv), Erfolg: Prüfschritt in 60-min-Liste abgehakt.
+Üben: im jährlichen Drill den Aufzug-Prüfschritt mitgehen. Ziel: Prüfschritt sitzt in der 60-Minuten-Routine (ART-0016).
 
 ---
-*ART-0014 — Enzyklopaedie v2, Band 1. Ampel grün (C2-factcheck 2026-11-07). review-v7 migriert; nur gruene/gelbe Inhalte.*
+*ART-0014 — Enzyklopaedie v2, Band 1 (Grundlagen & Blackout/Urban).*

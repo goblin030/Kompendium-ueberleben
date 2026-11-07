@@ -1,8 +1,5 @@
 # ART-0094 — Wie mache ich ein Signalfeuer (3 Feuer = Notzeichen)?
 
-**Band 3 (Feuer & Wärme)** · **Seitenziel:** 5–7 S. · **Ampel (C2):** grün · **P/M/V:** 7 / unbedenklich / 9 · **WARNPFLICHT:** nein
-**Quellen:** review-v7 Kap. 9.2 · `23-factcheck-artikel/band-03.md` ART-0094 (ergänzt: Dreieck **oder Linie**, Abstand **~30 m** — survive-the-wild.de, Abruf 2026-11-07; SAR/IAMSAR-Standard „three of any signal“) · Querverweis ART-0013 (Notrufzeichen)
-
 ## Ziel
 Mit drei Feuern ein internationales Notsignal geben — erkennbar für Suchmannschaften aus der Luft und am Boden.
 
@@ -28,7 +25,7 @@ Mit drei Feuern ein internationales Notsignal geben — erkennbar für Suchmanns
 | Unangekündigte Übung | Fehlalarm, Ressourcenbindung | Übungen ankündigen |
 
 ## Warnungen
-Waldbrandgefahr; nie ohne Wache (ART-0099); nie im geschlossenen Raum (warn-3 — gilt auch für Signal-Rauch in Hütten).
+Waldbrandgefahr; nie ohne Wache (ART-0099); nie im geschlossenen Raum.
 
 ## Siehe auch
 ART-0013 (Notrufzeichen/Pfeife), ART-0079 (Brandbekämpfung), ART-0092 (Feuerplatz), ART-0099 (Feuerwache), ART-0100 (Holzvorrat), ART-0082 (Feuerethik)
@@ -37,4 +34,4 @@ ART-0013 (Notrufzeichen/Pfeife), ART-0079 (Brandbekämpfung), ART-0092 (Feuerpla
 - **3-Feuer-Signal:** drei Feuer im Dreieck/Linie (~30 m Abstand) = internationales Notsignal (analog 3 Signale, ART-0013).
 
 ## Übungsbezug
-September: Signal-Abend mit Nachbarn — Rauch dosieren, Antwort stoppen, sauber löschen (Chat Übungsjahr Tab. 36). Protokoll ART-0035.
+Üben: einmal im Jahr (September) mit den Nachbarn einen angekündigten Signal-Abend: Rauch dosieren, Antwort stoppen, sauber löschen.

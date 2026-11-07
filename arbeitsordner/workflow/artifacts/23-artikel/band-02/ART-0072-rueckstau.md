@@ -1,9 +1,7 @@
 # ART-0072 — Wie schuetze ich die Kanalisation vor Rueckstau (Rueckstauklappen)?
 
-**Band:** 2 (Wasser) · **Enzyklopaedie v2, Phase D2** · **Seitenziel:** 5-7 S.
-**Ampel (C2, `artifacts/23-factcheck-artikel/band-02.md`):** gruen · **P/M/V:** P 8 / M unbedenklich / V 8
+**Band:** 2 (Wasser) · Enzyklopaedie v2
 **Tags:** abwasser, rueckstau, urban
-**Quellen:** 18-recherche-blackout.md §5.1 [S3, Abruf 2026-11-07]; BW13 (19-factcheck-blackout.md); C2: DIN EN 12056-4 + BGH 05/2004 (W-G1), ACO Hebeanlage vs. Klappe (W-G2), Abruf 2026-11-07
 
 ## Ziel
 
@@ -54,7 +52,6 @@ ART-0069 (Toilette), ART-0066 (Grauwasser), ART-0045 (Latrine)
 
 ## Uebungsbezug
 
-Bestandsaufnahme 1x: Rueckstauebene + vorhandene Sicherung (Klappe/Hebeanlage) im Haus notieren; Erfolgskontrolle: Dokumentation vorhanden, Keller-Tallagen-Risiko bewertet. Uebungsrhythmus lt. Anhang C Band 2: mind. 3x hintereinander (V<6: 5x), 45-90 min pro Einheit, max. 2 Einheiten/Tag; messbares Erfolgskriterium notieren; Abbruch bei Verletzung/Wetterumschwung/Materialbruch; Protokoll nach B1-8.2 (Datum, Wiederholungen, Zeit, Beobachtung, Verfalldatum +12 Monate).
+Üben: Bestandsaufnahme 1x: Rueckstauebene + vorhandene Sicherung (Klappe/Hebeanlage) im Haus notieren. Erfolgskontrolle: Dokumentation vorhanden, Keller-Tallagen-Risiko bewertet. Rhythmus: mindestens 3× hintereinander, 45–90 Minuten pro Einheit, höchstens 2 Einheiten pro Tag.
 
----
-*ART-0072 — erstellt in Phase D2 (editor), Agent research-b02, 2026-11-07. Ampel C2: gruen. Migriert aus review-v7 (`04-redaktion-band-02.md`) + Recherche (`22-recherche-artikel/band-02.md`) + Factcheck (`23-factcheck-artikel/band-02.md`).*
+*ART-0072 — Band 2 (Wasser), Enzyklopaedie v2.*

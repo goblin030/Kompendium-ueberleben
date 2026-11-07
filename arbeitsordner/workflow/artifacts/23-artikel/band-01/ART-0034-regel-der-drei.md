@@ -1,8 +1,6 @@
 # ART-0034 — Wie priorisiere ich nach der Regel der Drei (Heuristik)?
 
-**Band:** 1 (Grundlagen & Blackout/Urban) · **Status:** geschrieben (D2) · **Ampel:** grün (C2: P 9 / M unbedenklich / V 10)
-**Quelle:** Konzept B1-3.1 (review-v7 Kap. 3.1); W19 grün; C2: als Heuristik bestätigt, „medizinisch keine Uhr“ (2026-11-07)
-**Seitenziel:** 5–7 S. · **Tags:** grundlagen, priorisierung, regel der drei
+**Band:** 1 — Grundlagen & Blackout/Urban · **Tags:** grundlagen, priorisierung, regel der drei
 
 ## Ziel
 
@@ -14,10 +12,10 @@ Du ordnest Bedrohungen nach ihrer Zeitskala: 3 Minuten ohne Luft, 3 Stunden ohne
 
 ## Schritte
 
-1. Sofort prüfen: Atmung, Blutung, Bewusstsein (Band 8, ART-0251/0230).
-2. Dann Wärme (Band 3 Kap. 6, Band 4).
-3. Dann Wasser (Band 2).
-4. Dann Nahrung (Band 7).
+1. Sofort prüfen: Atmung, Blutung, Bewusstsein (Band 8, ART-0251, ART-0230).
+2. Dann Wärme (ART-0084, ART-0117).
+3. Dann Wasser (siehe ART-0049).
+4. Dann Nahrung (siehe ART-0208).
 
 ## Varianten (Stadt / Land / Klima)
 
@@ -33,14 +31,14 @@ Du ordnest Bedrohungen nach ihrer Zeitskala: 3 Minuten ohne Luft, 3 Stunden ohne
 
 ## Warnungen
 
-- Luft, Wärme, Wasser, Nahrung — in dieser Reihenfolge, niemals umgekehrt (Baustein). Zeiten schwanken — als Heuristik kennzeichnen (W19).
+- Luft, Wärme, Wasser, Nahrung — in dieser Reihenfolge, niemals umgekehrt (Baustein). Zeiten schwanken — als Heuristik kennzeichnen .
 
 ## Siehe auch
 
 - ART-0005 (STOPP)
-- Band 2: ART-0049 (Wasserbedarf)
-- Band 3: ART-0088 (Notheizung, CO)
-- Band 8: ART-0251 (Blutung)
+- ART-0049 (Wasserbedarf)
+- ART-0088 (Notheizung, CO)
+- ART-0251 (Blutung)
 
 ## Mini-Glossar
 
@@ -51,7 +49,7 @@ Du ordnest Bedrohungen nach ihrer Zeitskala: 3 Minuten ohne Luft, 3 Stunden ohne
 
 ## Übungsbezug
 
-Szenario-Durchspiel: 3 Lagen (Atemnot, Kälte, Durst) priorisieren — Erfolg: Reihenfolge korrekt; Protokoll ART-0035.
+Üben: vierteljährlich ein Szenario durchspielen (3 Lagen priorisieren). Ziel: Reihenfolge Luft–Wärme–Wasser–Nahrung sitzt.
 
 ---
-*ART-0034 — Enzyklopaedie v2, Band 1. Ampel grün (C2-factcheck 2026-11-07). review-v7 migriert; nur gruene/gelbe Inhalte.*
+*ART-0034 — Enzyklopaedie v2, Band 1 (Grundlagen & Blackout/Urban).*

@@ -1,8 +1,6 @@
 # ART-0010 — Wie finde ich Norden am Sternenhimmel (Polarstern, Cassiopeia)?
 
-**Band:** 1 (Grundlagen & Blackout/Urban) · **Status:** geschrieben (D2) · **Ampel:** grün (C2: P 8 / M unbedenklich / V 9)
-**Quelle:** Konzept B1-4.2 (review-v7 Kap. 4.2); C2: 5,3× Abstand, ~2° daneben bestätigt (sterngucker.de 2026-11-07)
-**Seitenziel:** 5–7 S. · **Tags:** grundlagen, norden, sternenhimmel, polarstern
+**Band:** 1 — Grundlagen & Blackout/Urban · **Tags:** grundlagen, norden, sternenhimmel, polarstern
 
 ## Ziel
 
@@ -53,7 +51,7 @@ Du findest Norden in der Nacht nur mit den Sternen: Die fünffache Verlängerung
 
 ## Übungsbezug
 
-Anhang C Band 1: Nordbestimmung 3×, Gegenprobe mit ART-0004 am Tag, Abweichung < 5°; Protokoll nach ART-0035.
+Üben: vierteljährlich bei klarem Himmel — Polarstern finden, Gegenprobe Cassiopeia. Ziel: die fünffache Verlängerung sitzt blind.
 
 ---
-*ART-0010 — Enzyklopaedie v2, Band 1. Ampel grün (C2-factcheck 2026-11-07). review-v7 migriert; nur gruene/gelbe Inhalte.*
+*ART-0010 — Enzyklopaedie v2, Band 1 (Grundlagen & Blackout/Urban).*

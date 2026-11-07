@@ -1,6 +1,6 @@
 # ART-0205 — Wie lagere ich Getreide (Ganzkorn am längsten)?
 
-**Band/Domäne:** Band 7 — Vorrat & Konservierung · **Seitenziel:** 5–7 S. · **Ampel (C2):** grün · **Warnpflicht:** nein · **Status:** geschrieben (D2) · **Tags:** vorrat, lagere, getreide, ganzkorn
+**Band/Domäne:** Band 7 — Vorrat & Konservierung · **Seitenziel:** 5–7 S. · **Tags:** vorrat, lagere, getreide, ganzkorn
 
 ## Ziel
 Getreide so lagern, dass es möglichst lange hält: **Ganzkorn am längsten** (Keimling + Schale schützen), luftdicht, trocken, dunkel, kühl; Mahlen erst bei Bedarf.
@@ -34,11 +34,9 @@ Keine eigene Warnpflicht; Mykotoxin-Warnrahmen siehe ART-0197.
 ART-0197 (Verderb/Mykotoxine), ART-0209 (Kammer), ART-0216 (Feinde/Gäste), ART-0195 (Saatgut), ART-0218 (Dörrware: Brot/Hartbrot).
 
 ## Übungsbezug
-Getreide offen vs. dicht im Vergleich lagern und prüfen (review-v7 Anhang C; 01-B7 T55 Nr. 5).
+Übe die Getreidelagerung einmal pro Jahr: dicht verschlossenes Gefäß und offenes vergleichen, auf Milben und Motten prüfen.
 
 ## Mini-Glossar
 - **Ganzkorn:** ungemahlenes Korn mit Schale und Keimling — längste Haltbarkeit.
 - **Milbe/Motte:** Getreideschädlinge; Zeichen: Geriebel, Gespinste, fliegender Staub.
 
-## Quellen
-review-v7 K 2.3 (+ K 8.2); 01-recherche.md Band 7 T12/T42/T55 [29cd074c #146]; 02-factcheck.md Band-7-Ampel K 2.3 grün (P9/V8). C2: ART-0205 grün.

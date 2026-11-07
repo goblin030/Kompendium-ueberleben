@@ -1,9 +1,7 @@
 # ART-0110 — Wie baue ich Wand, Boden und Sockel (20 cm, Ringgraben)?
 
-**Band:** 4 (Unterkunft & Kleidung) · **Seitenziel:** 5–7 S. · **Status:** geschrieben (D2)
-**Ampel (C2):** grün · P 7 / M unbedenklich / V 8 · **Warnpflicht:** nein
-**Quelle:** Konzept B4-5.2 + review-v7 §5.2 + `22/23` band-04 ART-0110
-**Tags:** unterkunft, wand, boden, sockel · **Abb.:** 4.9 · **warn-N:** –
+**Band:** 4 (Unterkunft & Kleidung) · **Seitenziel:** 5–7 S.
+**Tags:** unterkunft, wand, boden, sockel · **Abb.:** 4.9
 
 ## Ziel
 Die Hütte gegen Bodenfeuchte, Spritzwasser und Nager abdichten und das Oberflächenwasser um das Haus herumleiten.
@@ -33,7 +31,7 @@ Die Hütte gegen Bodenfeuchte, Spritzwasser und Nager abdichten und das Oberflä
 - Nasser Boden → Wärmeverlust über Leitung, Unterkühlungsrisiko (siehe ART-0114, ART-0119).
 
 ## Warnungen
-Feuchter Boden + Kälte = Unterkühlung auch bei Plusgraden (WARN 2 Band 4). Nie Grauwasser an Haut oder Wunden (siehe ART-0066).
+Feuchter Boden + Kälte = Unterkühlung auch bei Plusgraden. Nie Grauwasser an Haut oder Wunden (siehe ART-0066).
 
 ## Siehe auch (ART-IDs)
 ART-0119 (Schlafplatz) · ART-0131 (Pfosten/Steinkranz) · ART-0136 (Werkstoffe) · ART-0112 (Diagnose) · ART-0134 (Lagerplatz) · ART-0066 (Grauwasser, Band 2) · ART-0045 (Latrine, Band 2)
@@ -44,4 +42,4 @@ ART-0119 (Schlafplatz) · ART-0131 (Pfosten/Steinkranz) · ART-0136 (Werkstoffe)
 - **Flechtwerk:** Wand aus eingeflochtenem Zweigreisig.
 
 ## Übungsbezug
-Ringgraben an bestehender Hütte nachziehen und Sockel prüfen (monatlich, review-v7 Anhang C März: Frühjahrs-Diagnose). Erfolg: Graben frei, Sockel unverbaut, Boden trocken.
+Üben: Einmal im Frühjahr Ringgraben und Sockel an der eigenen Unterkunft nachziehen und prüfen; danach monatlich kontrollieren.

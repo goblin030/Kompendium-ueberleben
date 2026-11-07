@@ -1,9 +1,7 @@
 # ART-0075 — Wie waehle ich geeignete Wasserbehaelter (HDPE ja, Zink nur Nutzwasser)?
 
-**Band:** 2 (Wasser) · **Enzyklopaedie v2, Phase D2** · **Seitenziel:** 5-7 S.
-**Ampel (C2, `artifacts/23-factcheck-artikel/band-02.md`):** gruen · **P/M/V:** P 8 / M unbedenklich / V 9
+**Band:** 2 (Wasser) · Enzyklopaedie v2
 **Tags:** wasser, behaelter
-**Quellen:** Konzept 4.1 (review-v7); C2: Zink geprueft (W-H1/W-H2, Abruf 2026-11-07: TVO 2011 kein Grenzwert, alter Richtwert 5 mg/l, WHO 3 mg/l, ab 3-5 mg/l bitter; CO2-haltiges Wasser loest Zink); Chat [29cd074c #146] T16, Fehlerliste Nr. 17
 
 ## Ziel
 
@@ -55,7 +53,6 @@ ART-0064 (Vorrat), ART-0074 (Wiederverseuchung), ART-0055 (Regen), ART-0073 (Tra
 
 ## Uebungsbezug
 
-Behaelter-Inventur 1x (Oktober, Anhang C): alle vorhandenen Behaelter pruefen + kennzeichnen; Erfolgskontrolle: alle Behaelter gekennzeichnet, Deckel dicht (CL-B2-12). Uebungsrhythmus lt. Anhang C Band 2: mind. 3x hintereinander (V<6: 5x), 45-90 min pro Einheit, max. 2 Einheiten/Tag; messbares Erfolgskriterium notieren; Abbruch bei Verletzung/Wetterumschwung/Materialbruch; Protokoll nach B1-8.2 (Datum, Wiederholungen, Zeit, Beobachtung, Verfalldatum +12 Monate).
+Üben: Behaelter-Inventur 1x: alle vorhandenen Behaelter pruefen + kennzeichnen. Erfolgskontrolle: alle Behaelter gekennzeichnet, Deckel dicht. Rhythmus: mindestens 3× hintereinander, 45–90 Minuten pro Einheit, höchstens 2 Einheiten pro Tag.
 
----
-*ART-0075 — erstellt in Phase D2 (editor), Agent research-b02, 2026-11-07. Ampel C2: gruen. Migriert aus review-v7 (`04-redaktion-band-02.md`) + Recherche (`22-recherche-artikel/band-02.md`) + Factcheck (`23-factcheck-artikel/band-02.md`).*
+*ART-0075 — Band 2 (Wasser), Enzyklopaedie v2.*

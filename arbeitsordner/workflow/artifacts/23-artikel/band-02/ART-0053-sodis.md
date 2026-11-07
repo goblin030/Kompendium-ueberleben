@@ -1,11 +1,7 @@
 # ART-0053 — Wie desinfiziere ich Wasser mit Sonnenlicht (SODIS)?
 
-**Band:** 2 (Wasser) · **Enzyklopaedie v2, Phase D2** · **Seitenziel:** 6-8 S.
-**Ampel (C2, `artifacts/23-factcheck-artikel/band-02.md`):** gelb · **P/M/V:** P 6 / M unbedenklich / V 8
+**Band:** 2 (Wasser) · Enzyklopaedie v2
 **Tags:** wasser, sonnenlicht, sodis
-**Quellen:** Konzept 6.3 (review-v7); W6 (02-factcheck.md: Eawag/WHO 6 h bei >= 500 W/m2, > 50 °C verbessert, 2 Tage bewölkt; CDC; E4 Wikipedia SODIS, Abruf 2026-11-06)
-
-> **Auflage (Ampel gelb):** Nutzungsgrenze (nur klares Wasser < 10 NTU) im Text belassen; 'im Zweifel kochen' als Leitlinie.
 
 ## Ziel
 
@@ -29,7 +25,7 @@ Du lernst SODIS kennen: solare Desinfektion in klaren PET-Flaschen — 6 h volle
 
 - **Stadt:** Fensterbank/Balkon nach Sueden.
 - **Land:** freie Sonne.
-- **Klima:** bewölkt = 2 Tage; Winter/kurze Tage = Ertrag gering -> ART-0062.
+- **Klima:** bewölkt = 2 Tage; Winter/kurze Tage = Ertrag gering → ART-0062.
 
 ## Typische Fehler + Folgen
 
@@ -54,7 +50,6 @@ ART-0062 (Abkochen), ART-0061 (Klaeren), ART-0050 (Beurteilen), ART-0052 (Chlor)
 
 ## Uebungsbezug
 
-SODIS-Ertrag 1x messen (Juli-Uebung lt. Anhang C): 6 h Sonne; Erfolgskontrolle: Flasche 1-2 l, geschuettelt, Trübung < 10 NTU geprueft (CL-B2-18). Uebungsrhythmus lt. Anhang C Band 2: mind. 3x hintereinander (V<6: 5x), 45-90 min pro Einheit, max. 2 Einheiten/Tag; messbares Erfolgskriterium notieren; Abbruch bei Verletzung/Wetterumschwung/Materialbruch; Protokoll nach B1-8.2 (Datum, Wiederholungen, Zeit, Beobachtung, Verfalldatum +12 Monate).
+Üben: SODIS-Ertrag 1x messen: 6 h Sonne. Erfolgskontrolle: Flasche 1-2 l, geschuettelt, Trübung < 10 NTU geprueft. Rhythmus: mindestens 3× hintereinander, 45–90 Minuten pro Einheit, höchstens 2 Einheiten pro Tag.
 
----
-*ART-0053 — erstellt in Phase D2 (editor), Agent research-b02, 2026-11-07. Ampel C2: gelb. Migriert aus review-v7 (`04-redaktion-band-02.md`) + Recherche (`22-recherche-artikel/band-02.md`) + Factcheck (`23-factcheck-artikel/band-02.md`).*
+*ART-0053 — Band 2 (Wasser), Enzyklopaedie v2.*

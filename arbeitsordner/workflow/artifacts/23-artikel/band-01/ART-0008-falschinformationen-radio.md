@@ -1,8 +1,6 @@
 # ART-0008 — Wie erkenne ich Falschinformationen im Ernstfall (Radio als einzige Quelle)?
 
-**Band:** 1 (Grundlagen & Blackout/Urban) · **Status:** geschrieben (D2) · **Ampel:** grün (C2: P 8 / M unbedenklich / V 8)
-**Quelle:** 18-recherche §4 Nr. 13 + §5.5; BW22/BW23 grün; MoWaS-Lagezentrum bestätigt (2026-11-07)
-**Seitenziel:** 6–8 S. · **Tags:** information, medien, blackout
+**Band:** 1 — Grundlagen & Blackout/Urban · **Tags:** information, medien, blackout
 
 ## Ziel
 
@@ -56,7 +54,7 @@ Du bewertest Meldungen im Ernstfall nüchtern: Das UKW-Radio öffentlich-rechtli
 
 ## Übungsbezug
 
-Im Drill (ART-0039): eine Durchsage mitschreiben und auf Plausibilität prüfen (Ort/Zeit/Wiederholung).
+Üben: im jährlichen Drill eine Durchsage mitschreiben und auf Plausibilität prüfen. Ziel: Ort, Zeit und Wiederholung korrekt bewertet.
 
 ---
-*ART-0008 — Enzyklopaedie v2, Band 1. Ampel grün (C2-factcheck 2026-11-07). review-v7 migriert; nur gruene/gelbe Inhalte.*
+*ART-0008 — Enzyklopaedie v2, Band 1 (Grundlagen & Blackout/Urban).*

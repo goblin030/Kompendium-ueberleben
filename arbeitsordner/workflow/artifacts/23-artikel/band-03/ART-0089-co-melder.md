@@ -1,9 +1,6 @@
 # ART-0089 — Wie installiere und prüfe ich CO-Melder?
 
-**Band 3 (Feuer & Wärme)** · **Seitenziel:** 8–10 S. · **Ampel (C2):** grün + Warnrahmen · **P/M/V:** 9 / unbedenklich / 9 · **WARNPFLICHT: JA — warn-3 (CO, W14)**
-**Quellen:** 18-recherche-blackout.md §5.3 + §5.8 (B2 BBK-Checkliste, Abrufdatum 2026-11-07: bbk.bund.de Checklisten-PDF) · 19-factcheck-blackout.md **BW30 grün + Warnrahmen** (DGUV, BBK, W14) · Web 2026-11-07 (produktvergleich.io): **DIN EN 50291**, ppm-Alarm-Schwellen, Montage in Atemhöhe
-
-> **WARNRAHMEN [warn-3] — KOHLENMONOXID (CO), geruchlos, tödlich (W14):** **CO-Melder (batteriebetrieben) sind Pflicht bei jeder alternativen Heizung oder jedem Grillen** in geschlossenen/teilgeschlossenen Räumen (BBK-Checkliste). Ohne Stromnetz funktionieren nur Batteriegeräte — deshalb batteriebetrieben wählen. Symptome: Kopfschmerz, Schwindel, Übelkeit, Benommenheit bei mehreren gleichzeitig = Alarm — sofort lüften, alle raus.
+> **WARNUNG — KOHLENMONOXID (CO), geruchlos, tödlich:** **CO-Melder (batteriebetrieben) sind Pflicht bei jeder alternativen Heizung oder jedem Grillen** in geschlossenen/teilgeschlossenen Räumen (BBK-Checkliste). Ohne Stromnetz funktionieren nur Batteriegeräte — deshalb batteriebetrieben wählen. Symptome: Kopfschmerz, Schwindel, Übelkeit, Benommenheit bei mehreren gleichzeitig = Alarm — sofort lüften, alle raus.
 
 ## Ziel
 CO-Vergiftungen früh erkennen — der Melder alarmiert in ppm, früher als du Symptome bemerkst. Er ersetzt nicht den Rauchmelder (und umgekehrt).
@@ -32,7 +29,7 @@ CO-Vergiftungen früh erkennen — der Melder alarmiert in ppm, früher als du S
 | Symptome ignoriert | CO-Vergiftung | Alarm = sofort lüften + alle raus |
 
 ## Warnungen
-WARNRAHMEN warn-3 oben — Warnrahmen + Warngrafik Pflicht.
+Die WARNUNG oben ist verbindlich.
 
 ## Siehe auch
 ART-0088 (Notheizung ohne Ofen), ART-0081 (Aggregat), ART-0091 (Kochen ohne Strom), ART-0098 (Kerzen/Lampen), ART-0121 (Lüften), ART-0079 (Brandbekämpfung)
@@ -43,4 +40,4 @@ ART-0088 (Notheizung ohne Ofen), ART-0081 (Aggregat), ART-0091 (Kochen ohne Stro
 - **Atemhöhe:** Montagehöhe ca. 1–1,5 m — dort misst der Melder, was du einatmest.
 
 ## Übungsbezug
-Monatlich mit der Zündquellen-Probe (ART-0085): Testknopf aller CO-Melder drücken, Batterie checken. Protokoll ART-0035.
+Üben: monatlich den Testknopf jedes CO-Melders drücken und die Batterie prüfen — am besten zusammen mit der Monatsprobe der Zünd-Sets (ART-0085).

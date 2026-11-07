@@ -1,11 +1,9 @@
 # ART-0109 — Wie baue ich eine Schneehöhle (Kugelprobe, Luftloch, Podest, zu zweit)?
 
-**Band:** 4 (Unterkunft & Kleidung) · **Seitenziel:** 6–8 S. · **Status:** geschrieben (D2)
-**Ampel (C2):** **gelb** (Einsturzrisiko — immer zu zweit bauen) · P 6 / M unbedenklich / V 7 · **Warnpflicht:** nein, aber Warnung Einsturz/Ersticken Pflicht
-**Quelle:** Konzept B4-3.3 + review-v7 §3.3 + `22/23` band-04 ART-0109 (C2-3: Schnee-Wärmeleitfähigkeit 0,05–0,5 W/mK je Dichte — Sturm 2002, J. Glaciology; C2-11: alpin.de/bergzeit.de/survival-kompass.de, Abruf 2026-11-07)
-**Tags:** unterkunft, schneehoehle, kugelprobe, luftloch · **Abb.:** 4.5 · **warn-N:** –
+**Band:** 4 (Unterkunft & Kleidung) · **Seitenziel:** 6–8 S.
+**Tags:** unterkunft, schneehoehle, kugelprobe, luftloch · **Abb.:** 4.5
 
-> **AUFLAGE (gelb):** Niemals allein bauen. Werkzeug immer drinnen bereithalten.
+> **Hinweis:** Niemals allein bauen. Werkzeug immer drinnen bereithalten.
 
 ## Ziel
 Im Winter ohne Zelt nächtigen: eine Schneehöhle in einer Verwehung — isolierend (Schnee 0,05–0,5 W/mK je Dichte), winddicht, mit sicherer Luftzufuhr.
@@ -13,7 +11,7 @@ Im Winter ohne Zelt nächtigen: eine Schneehöhle in einer Verwehung — isolier
 ## Material + Maße
 - Schaufel oder stabiler Topf, Messer, Kerze (Luftloch-Kontrolle)
 - **Kugelprobe:** Schneekugel formen und drücken — hält sie, trägt der Schnee; bröckelt sie, ist es Pulverschnee (nicht graben!)
-- **Innenmaße je Person:** Länge ≥ **2,20 m**, Liegefläche bis Decke ≥ **0,90 m** (C2-11)
+- **Innenmaße je Person:** Länge ≥ **2,20 m**, Liegefläche bis Decke ≥ **0,90 m**
 - **Luftloch:** fingerdick, 30 cm im First nach oben; Stecken als Fühler, immer frei halten
 - **Podest:** Liegefläche höher als der Eingang (Kaltluft läuft ab)
 
@@ -31,7 +29,7 @@ Im Winter ohne Zelt nächtigen: eine Schneehöhle in einer Verwehung — isolier
 - **Land/Winter:** Verwehung an Lee-Seite nutzen (siehe ART-0134).
 - **Zu wenig Schnee:** Iglu aus Schneoblöcken oder Biwakzsack (siehe ART-0117 Schichten).
 - **Stadt:** keine Schneehöhle — Wohnung siehe ART-0113/ART-0129.
-- **Gruppe ≥ 4:** zwei Höhlen nebeneinander mit zwei Eingängen bauen (schneller, C2-11).
+- **Gruppe ≥ 4:** zwei Höhlen nebeneinander mit zwei Eingängen bauen (schneller).
 
 ## Typische Fehler + Folgen
 - Allein gebaut → Einsturz ohne Helfer; die gefährlichste Phase des Winters.
@@ -51,4 +49,4 @@ ART-0114 (Kältegefahr) · ART-0117 (Schichten) · ART-0118 (Lüftung) · ART-01
 - **Pulverschnee:** ungebundener Schnee, der nicht trägt.
 
 ## Übungsbezug
-Winter-Unterkunft als Randtechnik unter Anleitung proben: Kugelprobe, Luftloch, Podest (review-v7 Anhang C, Februar); danach ehrliche Grenz-Rechnung schreiben. Erfolg: Kugelprobe bestanden, Luftloch offen, Podest erhöht.
+Üben: Einmal pro Winter eine Schneehöhle unter Anleitung proben (Kugelprobe, Luftloch, Podest). Nie allein — immer zu zweit üben.

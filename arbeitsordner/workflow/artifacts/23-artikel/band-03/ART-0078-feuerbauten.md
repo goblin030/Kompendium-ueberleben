@@ -1,8 +1,5 @@
 # ART-0078 — Wie baue ich Feuerbauten (Pyramide / Stern / Plattform)?
 
-**Band 3 (Feuer & Wärme)** · **Seitenziel:** 5–7 S. · **Ampel (C2):** grün · **P/M/V:** 8 / unbedenklich / 9 · **WARNPFLICHT:** nein
-**Quellen:** review-v7 Kap. 4.2 · `22-recherche-artikel/band-03.md` ART-0078 · `23-factcheck-artikel/band-03.md` ART-0078 · Chat `29cd074c #146` Tab. 13
-
 ## Ziel
 Den passenden Feuerbau für Zweck und Wetter wählen: schnelles Anfachen, sparsame Dauer-Nacht oder sicheres Feuer bei Nässe.
 
@@ -40,4 +37,4 @@ ART-0076 (Zunderkette), ART-0096 (Dauerregen), ART-0092 (Feuerplatz), ART-0097 (
 - **Plattform:** angehobenes Feuer bei nassem Boden.
 
 ## Übungsbezug
-Anhang C Band 3: Pyramide/Stern/Plattform je 1× bauen, Erfolg = Brennzeit gemessen, Verbrauch notiert. Verfalluhr 12 Monate (ART-0035).
+Üben: jeden der drei Bauten (Pyramide, Stern, Plattform) einmal im Jahr bauen und Brennzeit sowie Holzverbrauch vergleichen. So entsteht ein eigenes Gefühl für den Verbrauch.

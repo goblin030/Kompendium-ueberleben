@@ -1,8 +1,6 @@
 # ART-0223 — Wie baue ich ein Helfer-Netz auf (zwei Wissende, zwei Wege, Bote)?
 
-**Band/Domäne:** Band 8 — Heilkunde · **Status:** Katalog → recherchiert (B2) → geprüft (C2) → geschrieben (D2) · **Ampel (C2):** grün · **P/M/V:** 8 / unbedenklich / 9 · **Seitenziel:** 5–7 S.
-**Quellen:** Konzept 1.3 (review-v7 `04-redaktion-band-08.md` Kap. 1.3) · `22-recherche-artikel/band-08.md` ART-0223 · `23-factcheck-artikel/band-08.md` ART-0223 · Chat `[29cd074c #146, 2026-10-17T06:37:07.974Z]` (Tabelle T5)
-
+**Band/Domäne:** Band 8 — Heilkunde · **Seitenziel:** 5–7 S.
 ## Ziel
 Sicherstellen, dass auch bei Ausfall einer Person oder Blockade eines Weges Hilfe erreichbar bleibt: **zwei Wissende, zwei Wege, ein Bote** — im Gesunden geplant, nicht im Notfall erfunden.
 
@@ -39,8 +37,8 @@ Keine Warnpflicht. Grundsatz: Hilfe ist erreichbar, solange zwei Wege und zwei W
 ART-0242 (Sanitäts-Kette) · ART-0225 (Grenze des Behandelns) · ART-0027 (Boten & Treffpunkte, +60-Minuten-Regel) · ART-0014 (Personen im Aufzug)
 
 ## Übungsbezug
-„Den Boten-Gang ohne Not gehen“ (review-v7 Anhang C): zwei Wissende, zwei Wege, Zeiten am Blatt — 1× pro Jahr üben. Verfalluhr: 12 Monate ohne Wiederholung = verfallen (ART-0035).
+Üben: 1× jährlich im Gesunden — den Boten-Gang ohne Not gehen, zwei Wissende und zwei Wege benennen und die Route ablaufen. Wiederholen, bis Namen und Weg sitzen.
 
 ## Mini-Glossar
 - **Helfer-Netz** = 2 Wissende + 2 Wege + 1 Bote + Blatt, im Gesunden geknüpft.
-- **Boten-Zettel** = schriftlicher Bericht, geht mit dem Boten (review-v7 A.2).
+- **Boten-Zettel** = schriftlicher Bericht, geht mit dem Boten (A.2).

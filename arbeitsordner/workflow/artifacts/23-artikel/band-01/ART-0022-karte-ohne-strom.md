@@ -1,8 +1,6 @@
 # ART-0022 — Wie lese ich eine Karte ohne Strom?
 
-**Band:** 1 (Grundlagen & Blackout/Urban) · **Status:** geschrieben (D2) · **Ampel:** grün (C2: P 9 / M unbedenklich / V 8)
-**Quelle:** Konzept B1-4.3 (review-v7 Kap. 4.3); 02-factcheck grün
-**Seitenziel:** 5–7 S. · **Tags:** grundlagen, karte, strom
+**Band:** 1 — Grundlagen & Blackout/Urban · **Tags:** grundlagen, karte, strom
 
 ## Ziel
 
@@ -55,7 +53,7 @@ Du orientierst dich mit Papierkarte und Kompass jederzeit: Karte einnorden, Maß
 
 ## Übungsbezug
 
-Anhang C: Kartenübung 3× — Stand eintragen + Richtung, Erfolg: Ziel mit Zwischenzielen angepeilt, Abweichung klein; Protokoll ART-0035.
+Üben: vierteljährlich Kartenübung — Stand eintragen, Richtung nehmen, Zwischenziele setzen. Ziel: Ziel sicher mit Zwischenzielen angepeilt.
 
 ---
-*ART-0022 — Enzyklopaedie v2, Band 1. Ampel grün (C2-factcheck 2026-11-07). review-v7 migriert; nur gruene/gelbe Inhalte.*
+*ART-0022 — Enzyklopaedie v2, Band 1 (Grundlagen & Blackout/Urban).*

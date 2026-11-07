@@ -241,3 +241,25 @@ Kollisionen weiterhin 0, Caption-Abstände weiterhin 4,6 pt, CL-Umbau vollständ
 
 ---
 *Nachtrag Turn 5 durch Agent `visual-qa`, Phase J, 2026-11-07. Log: `logs/workflow.log` (agent=visual-qa).*
+
+---
+
+# Nachtrag — Turn 6: Enzyklopädie v2 (2026-11-08, nach doc-builder Turn 14 / review-v8)
+
+**Input:** `06-dokumente/v2/band-01..10-v2.pdf` = 179/134/127/123/115/114/133/130/131/137 = **1.323 S.**, 314 Artikel (ART-NNNN), TOC (outline) pro Band. **Methode:** wie Turn 1–5 (alle Seiten 150 dpi gray+color, qdf + Content-Stream-Parser, pdftotext -bbox, PGM/PPM-Pixel, WCAG-Kontrast, Meta-Scan — diesmal mit ART-IDs als einzige erlaubte Kennziffer).
+
+## Ergebnis Turn 6 (v2)
+
+| Kriterium | Ergebnis |
+|---|---|
+| (1) Kollisionen Box/Caption/Artikel | **0** in 1.323/1.323 S. (Koord.+Pixel: 0 Caption-Box/Abbildung, 0 Text-straddle, 0 Rahmen-Anomalien; 17 Abb. + 17 Captions, alle Paare Lücke 4,6 pt) |
+| (2) Meta-Scan | **NICHT 0** — interne Tokens aus den Artikelquellen (23-artikel) im PDF: insg. **~810 Vorkommen** in allen 10 Bänden: v1-Konstrukte (K x.y, CL-Bn-NN, warn-N, Anhang A\d, Band-N-Ampel: 519×), Forschungs-/Provenienz-IDs (-R\d, T\d\d, Chat-Hash #146, Web-Verifikation, Expertenprüfung: 266×), Rollen-Namen (publisher/prepress, archivar Backlog, editor/researcher: 10×), Gate G-1/ROT-1/ROT-2 (4×), Artefakt-Pfade (README.md, …-artikel/band-07.md, 09-Expertenprüfung.md: 11×). Bsp.: B7 S. 7/11/15/19/24/28/49/91 („…-artikel/band-07.md … Chat [29cd074c #146 …]; Band-7-Ampel K 6.3 grün; -R9 (Web: …)“), B6 S. 15/91 („legal, Gate G-1“, „ROT-2 gestrichen“), B1 S. 37 („publisher/prepress und archivar (Backlog)“), B4 S. 115 („README.md“). **Nur ART-IDs waren erlaubt → Kriterium verletzt.** 314 ART-Defs global; ART-Querverweise: **0 unaufgelöst** (global), refpage-Refs seitenrichtig (B1: 42/42 geprüft), TOC pro Band vorhanden (S. 2–4) mit ART-ID + korrekter Seite (Stichprobe je Band 5/5) |
+| (3) Farbe/Kontrast/Graustufen | Text: Kernfarbe #000000 = 21:1 (Mode gemessen), Bandfarben vs Weiß 4,92–7,58:1 (shared stil.typ), wie v1 minor: Ampel gelb #8a6d00 auf #efefef 4,28:1; helle Rahmen #a9c3d6/#bfbfbf < 3:1. Grafiken: 17/17 Abb. in Graustufen lesbar (0 leer, ≥ 21 Graustufen, Ink 2,0–7,8 %), Primär-Tinten ≥ 3:1 |
+| (4) Leerraum | **85,6 % < 65 %** Satzspiegel (1.132/1.323), **25,2 % nahezu leer** (333) — höher als v1 (18,1 %), weil kurze Artikel viele Teilseiten erzeugen (minor) |
+
+## Ampel Turn 6 und Gesamturteil
+
+**Ampel: rot ×10 — Gesamturteil: NACHBESSERN (Gate nicht bestanden).** Visuell sauber (0 Kollisionen, TOC/ART-Refs strukturiert korrekt), aber der Meta-Scan findet in **allen 10 Bänden** interne Tokens (v1-Crossrefs K/CL-B/warn-N/Anhang, Forschungs-IDs T/-R/Chat-Hashes, Rollen-Namen, Gate/ROT, Artefakt-Pfade .md) — in v2 dürfen nur ART-IDs stehen. **Korrektur doc-builder:** Provenienz-/Quellenblöcke und v1-Crossrefs aus den `23-artikel/band-NN/ART-*.md` entfernen (alles nach „:“ mit -artikel/.md, K x.y, CL-B, warn-N, Anhang A\d, Band-Ampel, T\d\d, -R\d, Chat-[…], Gate/ROT, Rollen-Namen), nur ART-NNNN-Querverweise (mit S. via refpage) stehen lassen; v2 neu bauen, dann visual-qa Re-Run Turn 7. Minor mitziehen: Leerraum 25,2 % nahezu leer (Artikel-Kurzseiten), gelb-Ampel 4,28:1, helle Rahmen < 3:1.
+
+---
+*Nachtrag Turn 6 durch Agent `visual-qa`, Phase J, 2026-11-08. Log: `logs/workflow.log` (agent=visual-qa).*

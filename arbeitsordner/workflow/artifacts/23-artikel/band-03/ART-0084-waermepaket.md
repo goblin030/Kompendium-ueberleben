@@ -1,8 +1,5 @@
 # ART-0084 — Wie halte ich mich mit dem Wärmepaket warm (Schichten)?
 
-**Band 3 (Feuer & Wärme)** · **Seitenziel:** 5–7 S. · **Ampel (C2):** grün · **P/M/V:** 9 / unbedenklich / 9 · **WARNPFLICHT:** nein
-**Quellen:** review-v7 Kap. 6.1 (konsistent B4-2.1, ART-0117) · `23-factcheck-artikel/band-03.md` ART-0084 (Korrekturhinweis: Wasser leitet ~23× besser als Luft, λ 0,6 vs 0,026 W/mK — outdooberater.de, Abruf 2026-11-07) · Chat `29cd074c #146` Tab. 35 Nr. 14
-
 ## Ziel
 Wärme am Körper halten, ohne Ofen: das Schichtenprinzip — innen trocken, Mitte isolierend, außen wetterfest. Der Körper verliert Wärme über Leitung (Boden), Strahlung, Konvektion (Wind) und Verdunstung (Schweiß).
 
@@ -33,11 +30,11 @@ Wärme am Körper halten, ohne Ofen: das Schichtenprinzip — innen trocken, Mit
 Unterkühlungsgefahr: Zittern hört auf = Umschlag (siehe ART-0114).
 
 ## Siehe auch
-ART-0117 (Wärmehaushalt, Band 4), ART-0118 (Lüften/Feuchte), ART-0119 (Schlafplatz isolieren), ART-0114 (Kältegefahr), ART-0086 (Raum heizen), ART-0104 (heiße Steine), ART-0124 (Textilpflege)
+ART-0117, ART-0118 (Lüften/Feuchte), ART-0119 (Schlafplatz isolieren), ART-0114 (Kältegefahr), ART-0086 (Raum heizen), ART-0104 (heiße Steine), ART-0124 (Textilpflege)
 
 ## Mini-Glossar
 - **Wärmepaket:** Drei-Ebenen-System (Atmung/Innen trocken, Isolation Mitte, Wetter außen) plus Feuchte-Logik — erst anziehen, dann anfeuern.
 - **Winddicht ≠ dampfdicht:** Außenhaut blockt Wind, lässt aber Wasserdampf raus.
 
 ## Übungsbezug
-Übungsmonat Januar (Irland): Wärmepaket-Rotation im Dauerregen führen. Protokoll ART-0035.
+Üben: einmal im Jahr (Januar) bei Kälte und Regen die komplette Schichten-Kombination (innen trocken, Isolation, Außenhülle) einen Tag lang tragen.

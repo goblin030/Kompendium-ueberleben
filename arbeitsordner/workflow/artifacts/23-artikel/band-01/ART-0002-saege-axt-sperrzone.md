@@ -1,9 +1,6 @@
 # ART-0002 — Wie arbeite ich sicher mit Säge und Axt (Sperrzone, Fluchtweg 45°)?
 
-**Band:** 1 (Grundlagen & Blackout/Urban) · **Status:** geschrieben (D2) · **Ampel:** grün (C2: P 8 / M unbedenklich / V 8)
-**Quelle:** Konzept B1-6.2 (review-v7 Kap. 6.2); 02-factcheck Band 1 grün; C2 verifiziert
-**Seitenziel:** 8–10 S. · **Tags:** grundlagen, sicher, saege, sperrzone
-**WARNPFLICHT:** warn-9a / WARN 2 (Unfall Säge/Axt)
+**Band:** 1 — Grundlagen & Blackout/Urban · **Tags:** grundlagen, sicher, saege, sperrzone
 
 ## Ziel
 
@@ -21,7 +18,7 @@ Du arbeitest mit Säge und Axt so, dass niemand in die Schwing- bzw. Kippebene g
 
 1. Sperrzone markieren: 2 Stiellängen um die schwingende Person frei halten.
 2. Zwei Fluchtwege in 45° zur Schwingrichtung frei räumen und markieren.
-3. Nie hangabwärts unterhalb einer arbeitenden Person stehen (tödliche Minute, siehe Band 9, Konzept 3.1).
+3. Nie hangabwärts unterhalb einer arbeitenden Person stehen (tödliche Minute, siehe ART-0258).
 4. Säge: auf Zug sägen, nicht auf Schub. Axt: am Hirnholz spalten, Keil verwenden.
 5. Axt nach Gebrauch mit Schneidenschutz versehen.
 6. Vor jedem Schlag: Sperrzone kontrollieren — niemand drin.
@@ -36,7 +33,7 @@ Du arbeitest mit Säge und Axt so, dass niemand in die Schwing- bzw. Kippebene g
 
 | Fehler | Folge |
 |---|---|
-| Hangabwärts unterhalb der arbeitenden Person stehen | Tödliche Kopfverletzung (warn-9a) |
+| Hangabwärts unterhalb der arbeitenden Person stehen | Tödliche Kopfverletzung |
 | Sperrzone nicht markiert | Dritte laufen hinein — Anschlag der Klinge |
 | Nur ein Fluchtweg frei | Kein Ausweichen bei Kippen/Abrutschen |
 | Axt ohne Schneidenschutz lagern | Verletzung beim Transport |
@@ -44,15 +41,15 @@ Du arbeitest mit Säge und Axt so, dass niemand in die Schwing- bzw. Kippebene g
 ## Warnungen
 
 - Schwingende Klinge besitzt Trägheitsenergie, die im Anschlag frei wird.
-- Siehe Band 9, Konzept 3.1 (Baum fällen, warn-9a).
+- Siehe ART-0258 (Baum fällen).
 
-> **WARNRAHMEN (warn-9a / WARN 2) — Warnrahmen + Warngrafik Pflicht:** Unfall Säge/Axt: Wo die Axt schwingt, steht niemand. 2 Stiellängen Sperrzone, 2 Fluchtwege in 45°, niemals hangabwärts unterhalb der arbeitenden Person stehen — sonst tödliche Kopfverletzung (tödliche Minute).
+> **WARNRAHMEN — Warnrahmen + Warngrafik Pflicht:** Unfall Säge/Axt: Wo die Axt schwingt, steht niemand. 2 Stiellängen Sperrzone, 2 Fluchtwege in 45°, niemals hangabwärts unterhalb der arbeitenden Person stehen — sonst tödliche Kopfverletzung (tödliche Minute).
 
 ## Siehe auch
 
 - ART-0001 (Messer)
 - ART-0018 (Behelfswerkzeug: Sägedraht < 5 cm)
-- Band 9: ART-0258 (Baum fällen, warn-9a)
+- ART-0258 (Baum fällen)
 
 ## Mini-Glossar
 
@@ -61,11 +58,11 @@ Du arbeitest mit Säge und Axt so, dass niemand in die Schwing- bzw. Kippebene g
 | Sperrzone | Bereich um die schwingende Person: 2 Stiellängen Radius |
 | Stiellänge | Länge des Werkzeugstiels — Maßeinheit der Sperrzone |
 | Fluchtweg | Freier Weg in 45° zur Schwingrichtung zum Ausweichen |
-| Tödliche Minute | Zeit, in der ein fallender/abprallender Gegenstand tödlich trifft (Band 9) |
+| Tödliche Minute | Zeit, in der ein fallender/abprallender Gegenstand tödlich trifft (siehe ART-0258) |
 
 ## Übungsbezug
 
-Anhang C Band 1: Sperrzone + Fluchtwege markieren 3×, Erfolg: 2 Stiellängen und 2× 45° korrekt markiert; Protokoll nach ART-0035.
+Üben: vierteljährlich Sperrzone und zwei Fluchtwege an einem realen Arbeitsplatz markieren. Ziel: 2 Stiellängen und 2× 45° ohne Nachdenken korrekt.
 
 ---
-*ART-0002 — Enzyklopaedie v2, Band 1. Ampel grün (C2-factcheck 2026-11-07). review-v7 migriert; nur gruene/gelbe Inhalte.*
+*ART-0002 — Enzyklopaedie v2, Band 1 (Grundlagen & Blackout/Urban).*

@@ -1,8 +1,5 @@
 # ART-0077 — Wie baue ich einen Holzkohle-Meiler (Rauchfarben als Uhr)?
 
-**Band 3 (Feuer & Wärme)** · **Seitenziel:** 5–7 S. · **Ampel (C2):** **gelb — Korrektur eingebaut** · **P/M/V:** 7 / unbedenklich / 8 · **WARNPFLICHT:** nein
-**Quellen:** review-v7 Kap. 8.1 · `22-recherche-artikel/band-03.md` ART-0077 · `23-factcheck-artikel/band-03.md` ART-0077 (Korrektur: Ausbeute 15–25 %, agrokarbo.info 2026-11-07: Grubenmeiler 17,9 %, Standmeiler 12–30 %, Laubholz-Ø 21–22 %) · Chat `29cd074c #146` Tab. 37/38
-
 ## Ziel
 Aus Holz Holzkohle gewinnen — durch luftarme Erhitzung (Pyrolyse): flüchtige Bestandteile verbrennen als Rauch, Kohlenstoff bleibt. Holzkohle brennt heißer, gleichmäßiger und ohne Funkenflug (Anwendung siehe ART-0221).
 
@@ -21,13 +18,13 @@ Aus Holz Holzkohle gewinnen — durch luftarme Erhitzung (Pyrolyse): flüchtige 
 
 ## Varianten (Stadt / Land / Klima)
 - **Land:** Grubenmeiler im Wald/Boden außerhalb des Lagers, Abstand zu Zelten/Wohnzone (ART-0092), nahe Gewässer zum späteren Löschen. **Irland/Atlantik:** Meiler im Wind führen, Abzugsöffnung nachstellen (Übungsmonat Mai).
-- **Stadt:** nur Kleinst-Meiler im Garten/Hof nach Hausordnung; in der Wohnung kein Meiler (CO/Brand, warn-3 siehe ART-0088).
+- **Stadt:** nur Kleinst-Meiler im Garten/Hof nach Hausordnung; in der Wohnung kein Meiler.
 
 ## Typische Fehler + Folgen
 | Fehler | Folge | Korrektur |
 |---|---|---|
 | Zu früh öffnen | Holz verbrennt zu Asche statt Kohle — Ergebnis null | Rauchfarbe abwarten, erst bei bläulich-dünnem Rauch abdecken |
-| Ausbeute mit 20–30 % kalkuliert | zu optimistisch | mit 15–25 % (Ø ~20 %) rechnen (C2-Korrektur) |
+| Ausbeute mit 20–30 % kalkuliert | zu optimistisch | mit 15–25 % (Ø ~20 %) rechnen |
 | Meiler im Wind ohne Nachstellen | ungleichmäßige Verkohlung | Abzugsöffnung nach Wind richten |
 
 ## Warnungen
@@ -42,4 +39,4 @@ ART-0076 (Zunderkette), ART-0106 (Feuerstahl — char cloth als Zunder), ART-022
 - **Pyrolyse:** luftarme Erhitzung — flüchtige Teile entweichen, Kohlenstoff bleibt.
 
 ## Übungsbezug
-Übungsmonat Mai: Klein-Meiler ansetzen und zwei Tage begleiten (Rauchprotokoll, Ernte, kalt lagern). Protokoll siehe ART-0035.
+Üben: einmal im Jahr (Mai) einen Klein-Meiler ansetzen und zwei Tage begleiten; Rauchfarbe und Ausbeute dabei beobachten. Wer den Bau öfter übt, erkennt die Phasen am Rauch sicherer.

@@ -1,8 +1,6 @@
 # ART-0237 — Wie lege ich Umschläge an (Brei lauwarm, nie heiss)?
 
-**Band/Domäne:** Band 8 — Heilkunde · **Status:** Katalog → recherchiert (B2) → geprüft (C2) → geschrieben (D2) · **Ampel (C2):** grün · **P/M/V:** 7 / unbedenklich / 8 · **Seitenziel:** 5–7 S.
-**Quellen:** Konzept 3.4 (review-v7 Kap. 3.4) · Chat `[29cd074c #146]` (T20) · W22 · `22/23` ART-0237
-
+**Band/Domäne:** Band 8 — Heilkunde · **Seitenziel:** 5–7 S.
 ## Ziel
 Lokale Wärme und Wirkstoffe aus Pflanzenbreien wirken lassen — ohne die Haut zu verbrühen.
 
@@ -10,7 +8,7 @@ Lokale Wärme und Wirkstoffe aus Pflanzenbreien wirken lassen — ohne die Haut 
 - Leinen/Tuch, warmes Wasser, Topf
 - Brei-Zutaten (z. B. gekochte Kartoffel zerdrückt)
 - Kamillen-Aufguss für Dampf (ART-0228)
-- **Verbrühungsgrenze 55 °C (W22)** — Brei **lauwarm, nie heiß**
+- **Verbrühungsgrenze 55 °C ** — Brei **lauwarm, nie heiß**
 
 ## Schritte
 1. **Warmer Wickel** (Glieder/Bauch): Leinen in warmem Wasser, ausgewrungen, auf die Stelle; gewechselt, wenn erkaltet — die Hand prüft, nicht die Uhr allein.
@@ -31,13 +29,13 @@ Lokale Wärme und Wirkstoffe aus Pflanzenbreien wirken lassen — ohne die Haut 
 | Umschlag auf offener Wunde | Keimeintrag, Infektionsrisiko |
 
 ## Warnungen
-> **W22:** ab 55 °C verbrüht die Haut in Sekunden — Umschläge immer lauwarm, nie heiß.
+> ab 55 °C verbrüht die Haut in Sekunden — Umschläge immer lauwarm, nie heiß.
 
 ## Siehe auch
 ART-0226 (Brandwunde) · ART-0238 (Fieber) · ART-0228 (Aufgüsse) · ART-0245 (Wunde)
 
 ## Übungsbezug
-„Die Umschläge am Gesunden“ (review-v7 Anhang C, September): Wickel, Brei, Dampf, Tuch je Frist üben, Haut nach jedem Wechsel besichtigen — 4 Zeilen am Blatt. Verfalluhr 12 Monate (ART-0035).
+Üben: 1× jährlich — am Gesunden alle vier Umschlag-Arten (Wickel, Brei, Dampf, Tuch) je eine Frist durchspielen und die Haut danach kontrollieren.
 
 ## Mini-Glossar
 - **Wickel** = feucht-warmes Tuch, gewechselt bei Erkalten.

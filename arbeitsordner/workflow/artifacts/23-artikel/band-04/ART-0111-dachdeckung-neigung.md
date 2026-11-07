@@ -1,9 +1,7 @@
 # ART-0111 — Wie decke ich ein Dach (Material & Neigung: Ried 45, Zweige 50, Rinde 30)?
 
-**Band:** 4 (Unterkunft & Kleidung) · **Seitenziel:** 5–7 S. · **Status:** geschrieben (D2)
-**Ampel (C2):** grün · P 7 / M unbedenklich / V 8 · **Warnpflicht:** nein
-**Quelle:** Konzept B4-5.1 + review-v7 §5.1 + `22/23` band-04 ART-0111 (C2-5: ZVDH-Fachregel Reet — Regeldachneigung 45°, Abruf 2026-11-07)
-**Tags:** unterkunft, decke, dach, material · **Abb.:** 4.8 · **warn-N:** –
+**Band:** 4 (Unterkunft & Kleidung) · **Seitenziel:** 5–7 S.
+**Tags:** unterkunft, decke, dach, material · **Abb.:** 4.8
 
 ## Ziel
 Das Dach so decken, dass Niederschlag schneller abläuft, als das Material aufsaugt — und Schnee nicht liegen bleibt.
@@ -37,7 +35,7 @@ Das Dach so decken, dass Niederschlag schneller abläuft, als das Material aufsa
 - Zu steil → Material rutscht ab. Falsch herum gedeckt (oben→unten) → alles läuft rein.
 
 ## Warnungen
-Nasser Schnee erhöht das Dachgewicht massiv → Einsturzgefahr (WARN 3). Nie unter hängender Last arbeiten.
+Nasser Schnee erhöht das Dachgewicht massiv → Einsturzgefahr. Nie unter hängender Last arbeiten.
 
 ## Siehe auch (ART-IDs)
 ART-0107 (Behelfsdach) · ART-0136 (Werkstoffe) · ART-0112 (Diagnose) · ART-0126 (Hüttenmaße) · ART-0141 (Ried/Stroh/Binse decken, Band 5)
@@ -48,4 +46,4 @@ ART-0107 (Behelfsdach) · ART-0136 (Werkstoffe) · ART-0112 (Diagnose) · ART-01
 - **Tropfkante:** unterer Deckungsrand, an dem das Wasser abtropft.
 
 ## Übungsbezug
-Deckungs-Nachschub planen und eine Bahn neu decken (review-v7 Anhang C, Juni). Erfolg: Bahn überlappt, First dicht, 1 l/m²-Test bestanden (siehe ART-0107).
+Üben: Einmal im Jahr eine Dachbahn neu decken und den Wassereinbruch-Test (1 l pro m²) machen. Vor der Regenzeit.

@@ -1,23 +1,21 @@
-# ART-0187 — Wie stelle ich Kastenfallen und Kleintierfallen auf (Ersatz für ROT 5.1)?
+# ART-0187 — Wie stelle ich Kastenfallen und Kleintierfallen auf?
 
-**Band:** 6 — Jagd & Fischfang · **Status:** geschrieben (Phase D2, nach legal-Gate G-1) · **Ampel (C2):** grün + WARNPFLICHT · P 8 / M unbedenklich / V 9
-**Quelle:** Konzept 5.1a (Ersatz für gestrichenes ROT-2 Konzept 5.1 Schlinge & Totfang) + review-v7 `04-redaktion-band-06.md` 5.1a + Anhang A2/C; geprüft 23-factcheck-artikel/band-06.md (G1, G13)
-**Seitenziel:** 8–10 S. · **Abb.:** Abb. 6.5 · **WARNPFLICHT:** ja — Warnrahmen + Warngrafik Pflicht
+**Band:** 6 — Jagd & Fischfang
 
 ## Ziel
 Kleintiere mit **amtlich zugelassenen Lebendfang-Kastenfallen** fangen — Schlingen und Totschlagfallen sind verboten (§ 19 Abs. 1 BJagdG) und kommen in diesem Buch nicht vor.
 
 ## Material + Maße
-- Amtlich zugelassene Lebendfang-Kastenfalle (Zulassung **je Bundesland** prüfen — z. B. Bayern AVBayJG § 12a, G13); Draht zur Sicherung
+- Amtlich zugelassene Lebendfang-Kastenfalle; Draht zur Sicherung
 - Köder: Apfel, Möhre, Ei (ART-0191)
-- Kontrollkarte (A2: Datum/Falle-Nr./morgens/abends/Fang/Unterschrift)
+- Kontrollkarte (Datum, Falle, Kontrolle morgens/abends, Fang)
 - Haushalt: Kleintierfallen (Maus/Ratte) sind vom BJagdG nicht erfasst
 
 ## Schritte
-1. Zulassung der Falle im eigenen Bundesland prüfen (legal, Gate G-1).
+1. Zulassung der Falle im eigenen Bundesland prüfen.
 2. Am **Wechsel** aufstellen (ART-0172), mit Draht an Baum sichern — **nie an Menschenpfaden**.
 3. Köder einlegen (Apfel/Möhre/Ei).
-4. **Kontrolle 2× täglich** (morgens + abends) auf der Kontrollkarte (A2) dokumentieren.
+4. **Kontrolle 2× täglich** (morgens + abends) auf der Kontrollkarte  dokumentieren.
 5. Fang sofort entnehmen — sauberer Tod: **Genickbruch** (kräftiger Zug/Drehung am Kopf, bis das Rückgrat durchtrennt ist) oder kräftiger Schlag auf den Kopf; nie quälen, nie leiden lassen.
 6. Zerwirken nach ART-0181 (Handschuhe, ≥ 71 °C Kern).
 
@@ -26,11 +24,11 @@ Kleintiere mit **amtlich zugelassenen Lebendfang-Kastenfallen** fangen — Schli
 
 ## Typische Fehler + Folgen
 - Falle tagelang unbeaufsichtigt → Tierquälerei, strafbar.
-- Schlinge/Totschlagfalle gesetzt → **§ 19 Abs. 1 BJagdG, strafbar + Fremdgefährdung** (deshalb ROT-2 gestrichen).
+- Schlinge/Totschlagfalle gesetzt → **§ 19 Abs. 1 BJagdG, strafbar + Fremdgefährdung**.
 - Falle an Menschenpfad → Fremdgefährdung, strafbar.
 
 ## Warnungen
-> **WARNRAHMEN [Recht] — § 19 Abs. 1 BJagdG:** Nur **amtlich zugelassene Lebendfang-Kastenfallen** (je Bundesland) verwenden. **2× tägliche Kontrolle** (morgens/abends) — alles andere ist Tierquälerei und strafbar. **Nie an Menschenpfaden** aufstellen. Schlingen und Totschlagfallen sind verboten (G1/G13).
+> **WARNRAHMEN — § 19 Abs. 1 BJagdG:** Nur **amtlich zugelassene Lebendfang-Kastenfallen** (je Bundesland) verwenden. **2× tägliche Kontrolle** (morgens/abends) — alles andere ist Tierquälerei und strafbar. **Nie an Menschenpfaden** aufstellen. Schlingen und Totschlagfallen sind verboten.
 
 ## Siehe auch
 ART-0172 (Wechsel), ART-0191 (Köder), ART-0181 (Zerwirken), ART-0174 (ethisch jagen), ART-0183 (Kleintiere)
@@ -42,4 +40,5 @@ ART-0172 (Wechsel), ART-0191 (Köder), ART-0181 (Zerwirken), ART-0174 (ethisch j
 - **Menschenpfad:** öffentlicher Weg — Fallen dort verboten.
 
 ## Übungsbezug
-Kastenfalle 2× stellen + kontrollieren; Erfolg: amtlich zugelassen, 2× täglich kontrolliert, nie an Menschenpfaden, Kontrollkarte geführt (review-v7 Anhang C).
+
+Üben: Kastenfalle 2× stellen und 2× täglich kontrollieren, Kontrollkarte führen — wöchentlich in der Fang-Saison.

@@ -1,8 +1,5 @@
 # ART-0079 — Wie bekämpfe ich einen Entstehungsbrand (60-Sekunden-Regel)?
 
-**Band 3 (Feuer & Wärme)** · **Seitenziel:** 5–7 S. · **Ampel (C2):** grün · **P/M/V:** 8 / unbedenklich / 9 · **WARNPFLICHT:** nein
-**Quellen:** review-v7 Kap. 9.1 (konsistent B1-2.1 STOPP, ART-0005) · `23-factcheck-artikel/band-03.md` ART-0079 (60-s-Regel als konservative Heuristik grün; Frühphase mit Wasser/Löscher/Spray eindämmbar — die-brandschutz-trainer.de, Abruf 2026-11-07) · Chat `29cd074c #146` Tab. 35/37/38
-
 ## Ziel
 Einen Entstehungsbrand in der Frühphase eindämmen — bevor mobile Löschgeräte nicht mehr ausreichen. Die 60-Sekunden-Regel ist eine konservative Planungsgrenze: Wer in 60 s nicht löschen oder die Lage sichern kann, bekämpft den Brand nicht mehr allein.
 
@@ -41,4 +38,4 @@ ART-0093 (Kerzenlicht-Brand), ART-0092 (Feuerplatz), ART-0099 (Feuerwache), ART-
 - **Brandwetter:** Trockenheit + Wind — kein offenes Feuer außerhalb des gesicherten Platzes.
 
 ## Übungsbezug
-Anhang C Band 3: 60-Sekunden-Löschübung 3× mit Eimer/Wasser, Ziel: Übungsfeuer in < 60 s gelöscht. Alarmruf-Übung Ziel < 2 min (quartalsweise). Protokoll ART-0035.
+Üben: vierteljährlich eine Löschübung mit Eimer und Wasser an einem Übungsfeuer (Ziel: unter 60 Sekunden gelöscht); den Alarmruf mit Zeitstopp üben (Ziel: unter 2 Minuten).

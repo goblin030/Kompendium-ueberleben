@@ -1,8 +1,6 @@
 # ART-0306 — Wie schließe ich die Reihe (Haus-Metapher)?
 
-**Band:** 10 — Tausch, Dorf & Blackout-Ergänzung · **Status:** D2-Entwurf · **Ampel (C2):** grün · P 6 · M unbedenklich · V 10
-**Quelle:** Konzept 10.9.2 + review-v7 Kap. 9.2 + Abb. 9.1 `[29cd074c #146]` + Devise Bandabschluss · Factcheck: `23-factcheck-artikel/band-10.md`
-**Seitenziel:** 5–7 S. · **Warnpflicht:** nein · **Abb.:** Abb. 9.1 (Haus mit zehn Schichten)
+**Band:** 10 — Tausch, Dorf & Blackout-Ergänzung · **Status:** freigegeben · **Seitenziel:** 5–7 S. · **WARNPFLICHT:** nein · **Abb.:** art-SVG Band 10
 
 ## Ziel
 Verstehen, wie das Kompendium als Ganzes zusammenhält — und Änderungen nur so vornehmen, dass keine internen Widersprüche entstehen.
@@ -33,10 +31,10 @@ Verstehen, wie das Kompendium als Ganzes zusammenhält — und Änderungen nur s
 Keine.
 
 ## Siehe auch
-ART-0292 (Feuerprobe), ART-0305 (Rat), ART-0011 (Protokoll), ART-0035 (Verfalluhr), ART-0286 (Wissen bewahren), ART-0311 (Vermächtnis)
+ART-0292 (Feuerprobe), ART-0305 (Rat), ART-0011 (Protokoll), ART-0035, ART-0286 (Wissen bewahren), ART-0311 (Vermächtnis)
 
 ## Übungsbezug
-Nach jeder Änderung am eigenen Wissensstand: Feuerprobe des betroffenen Bereichs; Erfolg: ≥ 80 % (ART-0292), protokolliert (ART-0035).
+Üben: nach jeder Änderung am eigenen Wissensstand die Feuerprobe des betroffenen Bereichs — Ziel: mindestens 80 % korrekt.
 
 ## Mini-Glossar
 - **Haus-Metapher:** Band 1 Fundament, Bände 2–9 Räume, Band 10 Dach — keine Schicht trägt allein.

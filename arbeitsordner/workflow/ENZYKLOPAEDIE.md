@@ -25,7 +25,10 @@ ART-0142 "Feuer machen – Varianten & Sicherheit"
 ├── Band/Domäne: Band 3 (Feuer & Wärme)
 ├── Schablone: Ziel / Material+Maße / nummerierte Schritte / Varianten (Stadt/Land/Klima) /
 │   typische Fehler+Folgen / Warnungen (Warnrahmen wenn Pflicht) / Siehe auch (ART-IDs) /
-│   Übungsbezug / Mini-Glossar
+│   Mini-Glossar / kurzer Übungs-Hinweis („wann/wie oft üben“, 2–3 Sätze Fließtext)
+├── **NICHT im Artikel (interne Projekt-Elemente):** keine Protokoll-/Ausfüll-Tabellen
+│   („Randbedingungen vor Ort ausfüllen“, „Übungsprotokoll/Verfalluhr“), keine Provenienz-/Quellenblöcke,
+│   keine internen IDs (nur ART-NNNN als Querverweise)
 ├── Prüfung: fact-check (dreifach) + fachlektor (SME) + Ampel
 ├── Abb.: zugeordnete SVGs (abb-N-M) + warn-N
 └── Status: Katalog → recherchiert → geprüft → geschrieben → gebaut → freigegeben

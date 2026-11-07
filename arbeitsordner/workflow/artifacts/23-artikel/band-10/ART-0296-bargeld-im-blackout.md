@@ -1,18 +1,15 @@
 # ART-0296 — Wie halte ich Bargeld im Blackout bereit (200–500 EUR in kleinen Scheinen)?
 
-**Band:** 10 — Tausch, Dorf & Blackout-Ergänzung · **Status:** D2-Entwurf · **Ampel (C2):** gelb · P 7 · M unbedenklich · V 8
-**Auflage (C2):** Betrag als **Richtwert, keine amtliche Zahl** kennzeichnen (BW27 gelb) — BBK-Ratgeber 2025 nennt Bargeld als Vorsorge neu, ohne Betrag (verifiziert bbk.bund.de 2026-11-07).
-**Quelle:** neu recherchiert: 18-recherche-blackout.md §5.6 (B1/K1/K2) · Recherche: `22-recherche-artikel/band-10.md` · Factcheck: `23-factcheck-artikel/band-10.md`
-**Seitenziel:** 5–7 S. · **Warnpflicht:** nein · **Abb.:** TODO Phase F2
+**Band:** 10 — Tausch, Dorf & Blackout-Ergänzung · **Status:** freigegeben · **Seitenziel:** 5–7 S. · **WARNPFLICHT:** nein · **Abb.:** art-SVG Band 10
 
 ## Ziel
-Bargeld in kleinen Scheinen griffbereit halten, damit bei Stromausfall (Geldautomaten und EC-Terminals fallen sofort aus — BBK B1) noch gewechselt und bezahlt werden kann, solange Bargeld irgendwo akzeptiert wird.
+Bargeld in kleinen Scheinen griffbereit halten, damit bei Stromausfall (Geldautomaten und EC-Terminals fallen sofort aus — BBK ) noch gewechselt und bezahlt werden kann, solange Bargeld irgendwo akzeptiert wird.
 
 ## Material + Maße
-- **200–500 € in kleinen Scheinen** (Richtwert, keine amtliche Vorgabe — BW27; krisenfall.eu K1: 200–500 €, K2 empfiehlt 500 €; Abruf 2026-11-07)
+- **200–500 € in kleinen Scheinen** (Richtwert, keine amtliche Vorgabe —;)
 - Stückelung: kleine Scheine (5/10/20 €) + Münzen — Wechselgeld ist entscheidend, wenn nur Barzahlung geht
-- Aufbewahrung: wasserdichte Dokumentenmappe im Rucksack (ART-0288, ART-0030); Stadt-Profil: mehr Bargeld als Basisliste (Band 1 T18)
-- Zeitraum: individuelle Bedarfsrechnung für ~2 Wochen (10 T BBK-Standard / 14 T Empfehlung, BL10)
+- Aufbewahrung: wasserdichte Dokumentenmappe im Rucksack (ART-0288, ART-0030); Stadt-Profil: mehr Bargeld als Basisliste (Band 1 )
+- Zeitraum: individuelle Bedarfsrechnung für ~2 Wochen (10 T BBK-Standard / 14 T Empfehlung)
 
 ## Schritte
 1. Betrag festlegen (Richtwert 200–500 €, individuell an 2-Wochen-Bedarf anpassen).
@@ -29,7 +26,7 @@ Bargeld in kleinen Scheinen griffbereit halten, damit bei Stromausfall (Geldauto
 | Fehler | Folge | Korrektur |
 |---|---|---|
 | Nur große Scheine | kein Wechselgeld, wenn doch ein Laden öffnet | kleine Scheine + Münzen (dieser Artikel) |
-| Alles auf Karte/Lastschrift | bei Stromausfall kein Zahlen möglich | Bargeld-Reserve (BBK B1) |
+| Alles auf Karte/Lastschrift | bei Stromausfall kein Zahlen möglich | Bargeld-Reserve (BBK ) |
 | Bargeld ungesichert | Diebstahl/Brand-Verlust | wasserdichte Mappe, verteilter Ort (ART-0288) |
 | Betrag nie kontrolliert | Scheine unbrauchbar (Feuchtigkeit) | halbjährliche Kontrolle (ART-0035) |
 
@@ -40,7 +37,7 @@ Keine eigene Warnpflicht.
 ART-0288 (Dokumente wasserdicht), ART-0030 (Rucksack), ART-0285 (Wert/Tausch), ART-0307 (Ausgaben am Blatt), ART-0300 (sichere Lagerung), ART-0284 (Selbsthilfe-Netz)
 
 ## Übungsbezug
-Halbjährlich: Bargeld zählen, Stückelung prüfen, Mappe wasserdicht?; Erfolg: Betrag = Richtwert, protokolliert (ART-0035).
+Üben: halbjährlich das Bargeld zählen und die Stückelung prüfen — Betrag vollständig, Scheine trocken und unbeschädigt.
 
 ## Mini-Glossar
 - **Bargeld-Reserve:** kleine Scheine + Münzen für den Fall, dass electronic payment ausfällt.

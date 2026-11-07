@@ -1,9 +1,7 @@
 # ART-0152 — Wie lege ich einen Balkon- oder Fensterbrett-Garten an?
 
-**Band:** 5 (Botanik) · **Seitenziel:** 5–7 S. · **Ampel (C2):** gelb · P 7 / M unbedenklich / V 8
-**Konzept:** neu (01-recherche Band 5 Rand + review-v7 8.2 Stadt-Variante) · **Quellen:** 22-recherche-artikel/band-05.md §ART-0152; review-v7 9.2 Kalender; 01-recherche.md Band 5 `[29cd074c #146, 2026-10-17T06:37:07.974Z]`; C2 gelb
+**Band:** 5 (Botanik) · **Seitenziel:** 5–7 S.
 **Tags:** anbau, urban, balkon, fensterbrett, kuebel, garten
-**AUFLAGE (gelb, C2-L2):** Topfgrößen (l), Erträge je Kübel (kg/m²), Gießmengen ohne Strom (l/Tag/Kübel) fehlen — research-Folgeturn ergänzt vor Druck.
 
 ## 1. Ziel
 Ohne eigenen Grund anbauen: **Töpfe/Kübel auf Balkon, Terrasse oder Fensterbrett** — die Stadt-Variante des Wildgartens (ART-0153), ohne Zustimmung des Eigentümers möglich, weil kein Fremdgrund betreten wird.
@@ -11,7 +9,7 @@ Ohne eigenen Grund anbauen: **Töpfe/Kübel auf Balkon, Terrasse oder Fensterbre
 ## 2. Material + Maße
 - Kübel/Töpfe mit Drainageloch, Untersetzer; Erde/Substrat; Gießkanne
 - Frühbeet unter Glas (Februar) für Vorkultur
-- Wasserbedarf: Richtwert 2 l Trinkminimum/Pers./Tag (BBK, E1 Abruf 2026-11-06) — Gießmenge je Kübel siehe Auflage (C2-L2)
+- Wasserbedarf: Richtwert 2 l Trinkminimum/Pers./Tag (BBK-Richtwert) — Gießmenge je Kübel siehe Auflage 
 - Wärmeinsel Stadt: Aussaat/Ernte +1–2 Wochen früher (ART-0154)
 
 ## 3. Schritte
@@ -29,7 +27,7 @@ Ohne eigenen Grund anbauen: **Töpfe/Kübel auf Balkon, Terrasse oder Fensterbre
 | Fehler | Folge | Korrektur |
 |---|---|---|
 | Kübel austrocknen lassen | Totalausfall der Kultur | tägliche Sichtkontrolle, Mulch |
-| Zu kleine Töpfe (Kartoffeln, Mais) | kümmerlicher Wuchs | Topfgröße je Kultur (siehe Auflage C2-L2) |
+| Zu kleine Töpfe (Kartoffeln, Mais) | kümmerlicher Wuchs | Topfgröße je Kultur (siehe Auflage) |
 | Ohne Zustimmung auf Fremdgrund anlegen | Sachbeschädigung/Strafanzeige | nur eigene Balkon-/Fensterbrett-Fläche (ART-0153) |
 
 ## 6. Warnungen
@@ -44,4 +42,4 @@ ART-0153 (Wildgarten), ART-0154 (Kalender), ART-0151 (Samen-Bank), ART-0158 (Kei
 - **Eisheiligen:** 15. Mai — nach ihnen frostempfindliche Kulturen (Bohnen, Mais, Kürbis) raus
 
 ## 9. Übungsbezug
-Übungsjahr Mai: Wildgarten-Grund geklärt — Stadt: Kübel stellen, 3 Kulturen säen; Erfolg: Keimung protokolliert. Protokoll, Verfalluhr 12 Monate.
+Üben im Mai: 1× pro Jahr 3 Kübel-Kulturen säen und die Keimung beobachten.

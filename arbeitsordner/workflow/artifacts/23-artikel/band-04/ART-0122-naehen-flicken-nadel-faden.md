@@ -1,9 +1,7 @@
 # ART-0122 — Wie nähe und flicke ich mit Nadel und Faden (2 Nadeln / 10–15 m Zwirn)?
 
-**Band:** 4 (Unterkunft & Kleidung) · **Seitenziel:** 5–7 S. · **Status:** geschrieben (D2)
-**Ampel (C2):** grün · P 8 / M unbedenklich / V 9 · **Warnpflicht:** nein
-**Quelle:** Konzept B4-7.2 + review-v7 §7.2 + `22/23` band-04 ART-0122 (T24 Nähgut-Soll)
-**Tags:** unterkunft, naehe, flicke, nadel · **Abb.:** – · **warn-N:** –
+**Band:** 4 (Unterkunft & Kleidung) · **Seitenziel:** 5–7 S.
+**Tags:** unterkunft, naehe, flicke, nadel · **Abb.:** –
 
 ## Ziel
 Kleidung und Ausrüstung reparieren — mit Nadel und Zwirn, auch ohne Kaufzugang.
@@ -43,4 +41,4 @@ ART-0124 (Faserpflege) · ART-0132 (Kleidungssatz) · ART-0261 (Flicken, Band 9)
 - **Zwirn:** gedrehter Faden aus Pflanzenfasern.
 
 ## Übungsbezug
-Näh-Werkstatt (review-v7 Anhang C, September): zwei Reparaturen nach diesem Artikel, Flicken mit Stoffrichtung, Nähgut-Soll gegen Kleider-Karte prüfen. Erfolg: Zugtest bestanden.
+Üben: Einmal im Jahr zwei Reparaturen nähen (Flicken in Stoffrichtung, Zugtest). Im September.

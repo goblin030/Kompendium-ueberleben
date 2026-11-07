@@ -1,16 +1,14 @@
 # ART-0114 — Wie erkenne ich die Kältegefahr (Zittern hört auf = Umschlag)?
 
-**Band:** 4 (Unterkunft & Kleidung) · **Seitenziel:** 5–7 S. · **Status:** geschrieben (D2)
-**Ampel (C2):** grün · P 8 / M unbedenklich / V 9 · **Warnpflicht:** nein (medizinischer Kern, Behandlung siehe Band 8)
-**Quelle:** Konzept B4-2.4 + review-v7 §2.4 + `22/23` band-04 ART-0114 (C2-1: WMS Hypothermia Guidelines 2019, Abruf 2026-11-07 — Präzisierung)
-**Tags:** unterkunft, kaeltegefahr, zittern, hoert · **Abb.:** – · **warn-N:** WARN 1/2 (Band 4 Kontext)
+**Band:** 4 (Unterkunft & Kleidung) · **Seitenziel:** 5–7 S.
+**Tags:** unterkunft, kaeltegefahr, zittern, hoert · **Abb.:** –
 
 ## Ziel
 Unterkühlung früh erkennen und handeln — bevor das Zittern aufhört. Wer aufhört zu zittern, friert bereits: das ist der gefährlichste Moment.
 
 ## Material + Maße
 - Ersatzkleidung (trocken), Wärmepaket (siehe ART-0084, Band 3), warmes Getränk
-- **Stufen (WMS, präzisiert C2-1):** Hypothermie ab Kern < 35 °C · leicht 35–32 °C · **moderat 32–28 °C** · schwer < 28 °C; Zittern sistiert bei ~31–32 °C; Bewusstlosigkeit ab ~28–30 °C; Herz-Kreislauf-Stillstand möglich
+- **Stufen (WMS, präzisiert):** Hypothermie ab Kern < 35 °C · leicht 35–32 °C · **moderat 32–28 °C** · schwer < 28 °C; Zittern sistiert bei ~31–32 °C; Bewusstlosigkeit ab ~28–30 °C; Herz-Kreislauf-Stillstand möglich
 
 ## Schritte
 1. Warnstufe erkennen: feines, dann grobes Zittern, blasse/blaue Haut, Koordinationsverlust.
@@ -22,15 +20,15 @@ Unterkühlung früh erkennen und handeln — bevor das Zittern aufhört. Wer auf
 ## Varianten (Stadt / Land / Klima)
 - **Land:** Hanglage statt Kaltluftsee (ART-0134); alle nasse Kleidung sofort wechseln.
 - **Stadt:** ein Raum, Schlafsack 0 °C, Wärmeflasche (ART-0129).
-- **Bei Plusgraden:** Unterkühlung droht auch ohne Frost — nass + Wind (WARN 2 Band 4).
+- **Bei Plusgraden:** Unterkühlung droht auch ohne Frost — nass + Wind.
 
 ## Typische Fehler + Folgen
 - „Wird schon gehen“ → Bewusstlosigkeit, Herzrhythmusstörungen (lebensgefährlich ab < 32 °C Kern, schwer < 28 °C).
 - Alkohol als „Wärmemittel“ → Wärmeregulation sinkt, Weckbarkeit steigt.
-- Feuchte Innenschicht behalten → schneller Wärmeverlust (WARN 2).
+- Feuchte Innenschicht behalten → schneller Wärmeverlust .
 
 ## Warnungen
-WARN 1 (Kaltluftsee/Flutlinie) und WARN 2 (nass schneller kalt) Band 4. Umschlag = Notruf-Stufe.
+Zwei Grundregeln: Kaltluftsee und Flutlinie meiden (siehe ART-0134); nass ist schneller kalt. Umschlag = Notruf-Stufe.
 
 ## Siehe auch (ART-IDs)
 ART-0117 (Schichten) · ART-0084 (Wärmepaket, Band 3) · ART-0133 (nasse Kleidung trocknen) · ART-0129 (Schlafen bei Kälte) · ART-0134 (Lagerplatz) · ART-0233 (Wärme-Regie, Band 8) · ART-0226 (Brandwunden/Frostbeulen, Band 8)
@@ -41,4 +39,4 @@ ART-0117 (Schichten) · ART-0084 (Wärmepaket, Band 3) · ART-0133 (nasse Kleidu
 - **Kerntemperatur:** Temperatur im Körperkern; Hypothermie ab < 35 °C.
 
 ## Übungsbezug
-Kältegefahr-Stufen am kalten Morgen benennen und einmal am eigenen Körper lesen (review-v7 Anhang C, Januar). Erfolg: Warnstufe und Umschlag sicher unterschieden.
+Üben: Einmal im Winter die Kältestufen am eigenen Körper erkennen (Warnstufe und Umschlag benennen). Morgens bei Frost.

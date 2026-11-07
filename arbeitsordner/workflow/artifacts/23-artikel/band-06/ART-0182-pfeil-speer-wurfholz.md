@@ -1,10 +1,8 @@
 # ART-0182 — Wie nutze ich Pfeil, Speer und Wurfholz?
 
-**Band:** 6 — Jagd & Fischfang · **Status:** geschrieben (Phase D2) · **Ampel (C2):** gelb (SME) + WARNPFLICHT · P 6 / M unbedenklich / V 8
-**Quelle:** Konzept 4.2 + review-v7 `04-redaktion-band-06.md` 4.2/3.2 + CL-B6-09; **C2-Korrektur eingebaut:** Wurfholz konservativ **< 10 m** (Chat Tab. 22 5–15 m nicht übernommen); geprüft 23-factcheck-artikel/band-06.md (G17)
-**Seitenziel:** 8–10 S. · **Abb.:** – · **WARNPFLICHT:** ja — Warnrahmen + Warngrafik Pflicht
+**Band:** 6 — Jagd & Fischfang
 
-> **Auflage (gelb, SME):** Speer und Wurfholz sind **Werkzeuge**, keine Jagdwaffen; Einsatz nur als Werkzeug/Fanghilfe.
+**Hinweis:** Speer und Wurfholz sind **Werkzeuge**, keine Jagdwaffen; Einsatz nur als Werkzeug/Fanghilfe.
 
 ## Ziel
 Pfeil, Speer und Wurfholz realistisch als Werkzeuge einordnen — Reichweiten ehrlich, rechtliche Grenzen klar, keine Gifte.
@@ -24,12 +22,12 @@ Pfeil, Speer und Wurfholz realistisch als Werkzeuge einordnen — Reichweiten eh
 - Beides als Werkzeug; als Jagdwaffe nirgends zulässig (DE/AT/CH).
 
 ## Typische Fehler + Folgen
-- Speer als Jagdwaffe einsetzen → unzulässig (G17), Wild qualvoll verletzt.
+- Speer als Jagdwaffe einsetzen → unzulässig, Wild qualvoll verletzt.
 - Gifte an Waffen → Leitlinien-Verstoß, strafrechtlich relevant.
 - Wurfholz auf größere Distanz geschönt → verfehlt, laut, Wild gewarnt.
 
 ## Warnungen
-> **WARNRAHMEN [Recht, SME] — Speer als Jagdwaffe unzulässig:** In DE/AT/CH sind nur Schusswaffen Jagdwaffen (G17). Speer/Wurfholz nur als Werkzeug (siehe Band 9). **Keine Gifte** an Pfeil/Speer/Wurfholz.
+> **WARNRAHMEN — Speer als Jagdwaffe unzulässig:** In DE/AT/CH sind nur Schusswaffen Jagdwaffen. Speer/Wurfholz nur als Werkzeug (siehe Band 9). **Keine Gifte** an Pfeil/Speer/Wurfholz.
 
 ## Siehe auch
 ART-0188 (Jagdbogen), ART-0184 (sauberer Schuss), ART-0187 (Kastenfalle), ART-0168 (Fischwehr), ART-0259 (Stiel), ART-0282 (Niet/Nagel)
@@ -40,4 +38,5 @@ ART-0188 (Jagdbogen), ART-0184 (sauberer Schuss), ART-0187 (Kastenfalle), ART-01
 - **Steinschleuder:** Schleuder für Steine (10–30 m, große Übungsschwelle).
 
 ## Übungsbezug
-Wurfholz-Zielwurf auf Scheibe < 10 m, 3× hintereinander; Erfolg: Trefferquote notiert, nie auf Personen richten.
+
+Üben: Wurfholz-Zielwurf unter 10 m auf eine Scheibe, 3× hintereinander — monatlich, nie auf Personen richten.

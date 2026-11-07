@@ -1,15 +1,13 @@
 # ART-0238 — Wie lese ich Fieber (Anstieg/Höhe/Abfall, nie kalt gegen Anstieg)?
 
-**Band/Domäne:** Band 8 — Heilkunde · **Status:** Katalog → recherchiert (B2) → geprüft (C2) → geschrieben (D2) · **Ampel (C2):** gelb — **Auflage (C2-Korrektur):** Fieber ab **38,5 °C** (erhöhte Temperatur 37,5–38,5 °C); **Baby < 3 Monate ab 38,0 °C → sofort Arzt**; 39 °C nur Eskalationsstufe; 3-Tage-Grenze bestätigt (DGKJ S3 027-074) · **P/M/V:** 8 / unbedenklich / 9 · **Seitenziel:** 5–7 S.
-**Quellen:** Konzept 4.1 (review-v7 Kap. 4.1) · Chat `[29cd074c #146]` (T22/T23) · Web (Abruf 2026-11-07): gesundheitsinformation.de, kindergesundheit-info.de, DGKJ S3-Leitlinie 027-074, apotheken-umschau.de · `22/23` ART-0238
-
+**Band/Domäne:** Band 8 — Heilkunde · **Seitenziel:** 5–7 S.
 ## Ziel
 Fieberverlauf (Anstieg – Höhe – Abfall) lesen und richtig führen — mit Thermometer oder als Schätzung ohne Gerät.
 
 ## Material + Maße
 - Fieberthermometer (2× in der Mappe, ART-0243); Fieber-Kurve (24 Zeilen: Temperatur, Puls, Atem, Maßnahmen)
 - **Ohne Thermometer:** Handrücken an Stirn und eigene Wange vergleichen + **Puls-Regel** (Ruhepuls > 100/min) + Schüttelfrost = Fieber wahrscheinlich — Verlauf beobachten, nicht die Einzelzahl
-- **Schwellen (C2-korrigiert):** Fieber ab **38,5 °C**; Baby < 3 Monate ab **38,0 °C → sofort Arzt**; ab **39 °C** (Eskalation): Wärme-Regie intensivieren (ART-0233)
+- **Schwellen:** Fieber ab **38,5 °C**; Baby < 3 Monate ab **38,0 °C → sofort Arzt**; ab **39 °C** (Eskalation): Wärme-Regie intensivieren (ART-0233)
 - **Fristen-Grenze:** 3 Tage ohne Besserung → führen und Boten (ART-0223); größeres Kind > 3 Tage Fieber → Arzt
 
 ## Schritte
@@ -37,9 +35,9 @@ Abgabe-Zeichen siehe Schritt 5 — dieselbe Stunde.
 ART-0233 (Wärme-Regie/ORS) · ART-0230 (Atem-Not) · ART-0237 (lauwarme Tücher) · ART-0247 (Krankenlager) · ART-0232 (Vergiftungen)
 
 ## Übungsbezug
-„Fieber-Kurve“ (review-v7 Anhang C): 1× mit Thermometer + Puls-Regel — Schätzung vs. Messung Abweichung < 1 °C. Verfalluhr 12 Monate (ART-0035).
+Üben: 1× jährlich — Fieber messen und parallel schätzen (Handrücken, Puls); die Abweichung sollte unter 1 °C liegen.
 
 ## Mini-Glossar
 - **Fieber-Gang** = Anstieg – Höhe – Abfall, je mit eigener Maßnahme.
-- **Fieber-Kurve** = schriftlicher Verlauf (Anhang A3), 24 Zeilen.
+- **Fieber-Kurve** = schriftlicher Verlauf, 24 Zeilen (Stunden, Temperatur, Puls, Atem, Maßnahmen).
 - **Fristen-Grenze** = 3 Tage ohne Besserung → Arzt/Boten.

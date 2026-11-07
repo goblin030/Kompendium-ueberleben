@@ -1,14 +1,11 @@
 # ART-0106 — Wie zünde ich mit Feuerstahl und Zundermulm (Nest am Körper wärmen)?
 
-**Band 3 (Feuer & Wärme)** · **Seitenziel:** 5–7 S. · **Ampel (C2):** grün · **P/M/V:** 8 / unbedenklich / 8 · **WARNPFLICHT:** nein
-**Quellen:** review-v7 Kap. 3.2 · `23-factcheck-artikel/band-03.md` ART-0106 (Ferrocerium-Funken bis ~3.000 °C grün — survival-kompass.de, Abruf 2026-11-07; review-Wert ~1.000 °C = konservativer Mindestwert) · Chat `29cd074c #146` Tab. 34/35 Nr. 8/38
-
 ## Ziel
 Mit Feuerstahl (Ferrocerium) Funken schlagen und Zunder zur Glut bringen — funktioniert auch bei Nässe, wenn der Zunder trocken ist.
 
 ## Material + Maße
 - **Feuerstahl** (Ferrocerium-Stab) + scharfe Kante (Messerklinge/Rücken) zum Schaben.
-- **Zundernest:** Zundermulm (verwitterte Weiden-/Buchenstümpfe — sicherste Wahl), Birkenrinde, Cattail-Flaum ( Rohrkolben ), trockenes Gras, char cloth (ART-0077) — **am Körper warm und trocken** halten.
+- **Zundernest:** Zundermulm (verwitterte Weiden-/Buchenstümpfe — sicherste Wahl), Birkenrinde, Cattail-Flaum (Rohrkolben), trockenes Gras, char cloth (ART-0077) — **am Körper warm und trocken** halten.
 - Funken-Temperatur: **bis ~3.000 °C** (konservativ mindestens ~1.000 °C) — zündet auch leicht feuchten Zunder.
 
 ## Schritte
@@ -19,7 +16,7 @@ Mit Feuerstahl (Ferrocerium) Funken schlagen und Zunder zur Glut bringen — fun
 5. Im Set verstauen: Set = Feuerzeug + Feuerstahl + wasserdichte Zunder-Dose (ART-0085).
 
 ## Varianten (Stadt / Land / Klima)
-- Überall; **Winter:** Zunder warm am Körper (Schritt 1). **Stadt:** Zündquelle für Kerze/Campingkocher — kein offenes Feuer in der Wohnung (warn-3, ART-0088).
+- Überall; **Winter:** Zunder warm am Körper (Schritt 1). **Stadt:** Zündquelle für Kerze/Campingkocher — kein offenes Feuer in der Wohnung.
 
 ## Typische Fehler + Folgen
 | Fehler | Folge | Korrektur |
@@ -40,4 +37,4 @@ ART-0085 (Zündquellen-Set), ART-0076 (Zunderkette), ART-0105 (Sonnenzündung), 
 - **Zundernest:** lockeres Geflecht aus Zunder — Funkenfänger, am Körper warm.
 
 ## Übungsbezug
-Anhang C Band 3: Feuerstahl + Zunder **5×**, Ziel: Glut im Nest in **< 1 min**. Mit Monatsprobe (ART-0085) kombinieren. Protokoll ART-0035.
+Üben: 5 Wiederholungen mit dem Feuerstahl (Ziel: Glut im Nest in unter 1 Minute); monatlich zusammen mit der Set-Probe (ART-0085) auffrischen.

@@ -1,8 +1,6 @@
 # ART-0004 — Wie bestimme ich die Himmelsrichtung mit dem Schattenstab?
 
-**Band:** 1 (Grundlagen & Blackout/Urban) · **Status:** geschrieben (D2) · **Ampel:** grün (C2: P 8 / M unbedenklich / V 9)
-**Quelle:** Konzept B1-4.1 (review-v7 Kap. 4.1); C2: 15°/h bestätigt, 60–90 min genauer (2026-11-07)
-**Seitenziel:** 5–7 S. · **Tags:** grundlagen, himmelsrichtung, schattenstab
+**Band:** 1 — Grundlagen & Blackout/Urban · **Tags:** grundlagen, himmelsrichtung, schattenstab
 
 ## Ziel
 
@@ -39,7 +37,7 @@ Du bestimmst Nord und eine ungefähre Uhrzeit nur mit Sonne und Stab: Zwei Schat
 |---|---|
 | Sommerzeit-Korrektur vergessen | Systematischer Richtungsfehler ~15° (bis 30°) |
 | Markierungen unter 15 min | Zu kleine Schattenwanderung, ungenaue Linie |
-| Unebener/schiefer Boden oder Stock | West-Ost-Linie verfälscht um 10–20° (ROHWERT: bei 5 km Laufweg bis 1,5 km Nebenweg) |
+| Unebener/schiefer Boden oder Stock | West-Ost-Linie verfälscht um 10–20° (Richtwert: bei 5 km Laufweg bis 1,5 km Nebenweg) |
 
 ## Warnungen
 
@@ -61,7 +59,7 @@ Du bestimmst Nord und eine ungefähre Uhrzeit nur mit Sonne und Stab: Zwei Schat
 
 ## Übungsbezug
 
-Anhang C Band 1: Schattenstab/Uhr 3×, Erfolg: Nordrichtung mit Polarstern (ART-0010) gegengeprüft, Abweichung < 5°; Protokoll nach ART-0035.
+Üben: vierteljährlich bei Sonne — Nord bestimmen und gegen Kompass oder Polarstern (ART-0010) prüfen. Ziel: Abweichung unter 5°.
 
 ---
-*ART-0004 — Enzyklopaedie v2, Band 1. Ampel grün (C2-factcheck 2026-11-07). review-v7 migriert; nur gruene/gelbe Inhalte.*
+*ART-0004 — Enzyklopaedie v2, Band 1 (Grundlagen & Blackout/Urban).*

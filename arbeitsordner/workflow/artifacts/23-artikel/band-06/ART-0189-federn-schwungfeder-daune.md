@@ -1,8 +1,6 @@
 # ART-0189 — Wie verwende ich Federn (Schwungfeder/Daune)?
 
-**Band:** 6 — Jagd & Fischfang · **Status:** geschrieben (Phase D2) · **Ampel (C2):** grün · P 7 / M unbedenklich / V 9
-**Quelle:** Konzept 5.3 + review-v7 `04-redaktion-band-06.md` 5.3; Chat Tab. 28; geprüft 23-factcheck-artikel/band-06.md
-**Seitenziel:** 5–7 S. · **Abb.:** – · **Warnung:** –
+**Band:** 6 — Jagd & Fischfang
 
 ## Ziel
 Federn eines erlegten/gefundenen Vogels ganz verwerten: Schwungfedern als Werkzeug, Daunen als Isolation.
@@ -34,4 +32,5 @@ ART-0190 (Fell/Sehne/Knochen), ART-0174 (Ganz-Verwertung), ART-0117 (Wärmehaush
 - **Rachis:** Federkiel/Achse.
 
 ## Übungsbezug
-Federn sortieren + trocknen an einem Fundstück; Erfolg: Schwungfeder/Daune/Kleinfeder korrekt getrennt und trocken gelagert.
+
+Üben: Federn an einem Fundstück sortieren, trocknen und lagern — bei jedem Fang.

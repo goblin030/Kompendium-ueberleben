@@ -1,8 +1,6 @@
 # ART-0035 — Wie protokolliere ich Uebungen (Verfalluhr 12 Monate)?
 
-**Band:** 1 (Grundlagen & Blackout/Urban) · **Status:** geschrieben (D2) · **Ampel:** grün (C2: P 8 / M unbedenklich / V 9)
-**Quelle:** Konzept B1-8.2 (review-v7 Kap. 8.2 + Anhang A4/C); 02-factcheck grün
-**Seitenziel:** 5–7 S. · **Tags:** grundlagen, uebungsprotokoll, verfalluhr
+**Band:** 1 — Grundlagen & Blackout/Urban · **Tags:** grundlagen, uebungsprotokoll, verfalluhr
 
 ## Ziel
 
@@ -10,7 +8,7 @@ Du machst deinen Übungsstand prüfbar: Jede Übung wird protokolliert — und n
 
 ## Material + Maße
 
-- Kopiervorlage A4: Datum / Konzept-Nr. / Dauer / Fehler / V-Bewertung / Verfalldatum
+- Vorlage: Datum / Konzept-Nr. / Dauer / Fehler / V-Bewertung / Verfalldatum
 - Stift, Papier
 
 ## Schritte
@@ -18,8 +16,8 @@ Du machst deinen Übungsstand prüfbar: Jede Übung wird protokolliert — und n
 1. Nach jeder Übung sofort protokollieren: Datum, Konzept-Nr., Wiederholungen, Zeitansatz, Fehler, V.
 2. Verfalldatum eintragen: Datum + 12 Monate.
 3. V < 6 → sofortige Übungspflicht einplanen (z. B. ART-0025 Ellbogenprobe).
-4. Neue Konzepte: 3 Wdh. bis V ≥ 8; V < 6: 5 Wdh. (Anhang C).
-5. Abbruch dokumentieren — nicht schönreden (Anhang C).
+4. Neue Konzepte: 3 Wdh. bis V ≥ 8; V < 6: 5 Wdh. .
+5. Abbruch dokumentieren — nicht schönreden .
 
 ## Varianten (Stadt / Land / Klima)
 
@@ -51,7 +49,7 @@ Du machst deinen Übungsstand prüfbar: Jede Übung wird protokolliert — und n
 
 ## Übungsbezug
 
-Eigenes Protokollheft anlegen; Erfolg: CL-B1-24 (Protokoll geführt, Verfalldatum notiert, Übungspflicht bei V < 6 ausgelöst).
+Üben: das kurze Notieren nach jeder Übung einen Monat lang konsequent praktizieren. Ziel: Eintrag dauert unter 2 Minuten und ist vollständig.
 
 ---
-*ART-0035 — Enzyklopaedie v2, Band 1. Ampel grün (C2-factcheck 2026-11-07). review-v7 migriert; nur gruene/gelbe Inhalte.*
+*ART-0035 — Enzyklopaedie v2, Band 1 (Grundlagen & Blackout/Urban).*

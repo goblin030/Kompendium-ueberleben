@@ -1,9 +1,7 @@
 # ART-0126 — Wie plane ich Bauplan und Hüttenmasse (4 Pers.: 2,5 × 2,5 m)?
 
-**Band:** 4 (Unterkunft & Kleidung) · **Seitenziel:** 5–7 S. · **Status:** geschrieben (D2)
-**Ampel (C2):** grün · P 8 / M unbedenklich / V 8 · **Warnpflicht:** nein
-**Quelle:** Konzept B4-4.1 + review-v7 §4.1 + Anhang A.3 (Bauplan) + `22/23` band-04 ART-0126 (02-factcheck Prüfung c: Maße vollständig)
-**Tags:** unterkunft, bauplan, huettenmasse, pers · **Abb.:** 4.6/4.7 · **warn-N:** –
+**Band:** 4 (Unterkunft & Kleidung) · **Seitenziel:** 5–7 S.
+**Tags:** unterkunft, bauplan, huettenmasse, pers · **Abb.:** 4.6/4.7
 
 ## Ziel
 Eine Hütte planen, die mit wenig Material beheizbar ist: klein bauen, gemeinsam schlafen. Zu groß = nicht beheizbar im Winter.
@@ -24,8 +22,8 @@ Eine Hütte planen, die mit wenig Material beheizbar ist: klein bauen, gemeinsam
 1. Personenzahl festlegen → Maße aus der Tabelle wählen.
 2. Grundriss mit Körpermaßen abstecken (siehe ART-0024, Band 1).
 3. Eckpunkte mit Pfosten markieren, Firstpfosten mittig setzen (siehe ART-0131).
-4. Bauplan A.3 führen: Maße, Rechenweg, Bauteile mit Fundstelle und Datum.
-5. Abnahme vor der ersten Nacht: Klangprobe an jedem Pfosten, Handkraftprobe am First — mit Namen im Bauplan (WARN 3).
+4. Bauplan führen: Maße, Rechenweg, Bauteile mit Fundstelle und Datum.
+5. Abnahme vor der ersten Nacht: Klangprobe an jedem Pfosten, Handkraftprobe am First — mit Namen im Bauplan.
 
 ## Varianten (Stadt / Land / Klima)
 - **Land:** Neubau nach Plan. **2 Personen:** 2 × 2 m.
@@ -38,7 +36,7 @@ Eine Hütte planen, die mit wenig Material beheizbar ist: klein bauen, gemeinsam
 - Maße nicht eingehalten → Abnahme verweigert.
 
 ## Warnungen
-WARN 3 (Last/Einsturz): Abnahme mit Namen vor dem ersten Bezug; niemand unter hängender Last (siehe ART-0131).
+Last und Einsturz: Abnahme mit Namen vor dem ersten Bezug; niemand unter hängender Last (siehe ART-0131).
 
 ## Siehe auch (ART-IDs)
 ART-0131 (Pfosten/First/Verbindungen) · ART-0107 (Behelfsdach) · ART-0110 (Wand/Boden/Sockel) · ART-0111 (Dachdeckung) · ART-0112 (Diagnose) · ART-0113 (Wohnung abdichten) · ART-0024 (Körpermaße, Band 1) · ART-0100 (Holzvorrat, Band 3)
@@ -46,7 +44,7 @@ ART-0131 (Pfosten/First/Verbindungen) · ART-0107 (Behelfsdach) · ART-0110 (Wan
 ## Mini-Glossar
 - **Firstspanne:** frei überbrückte Breite unter dem First — bis 3,50 m mit Sparren.
 - **Firstträger:** Balken auf zwei Mittelstützen bei > 3,50 m Spanne.
-- **Bauplan A.3:** Kopiervorlage mit Maßen, Rechenweg und Abnahme.
+- **Bauplan :** Kopiervorlage mit Maßen, Rechenweg und Abnahme.
 
 ## Übungsbezug
-Bauplan A.3 für eine Übungshütte aufstellen (review-v7 Anhang C, Juli). Erfolg: Maße eingehalten, Abnahme mit Namen dokumentiert.
+Üben: Einmal im Jahr im Baufenster (Sommer) einen Bauplan für eine Übungshütte aufstellen und die Abnahme (Klang- und Handkraftprobe) durchführen.

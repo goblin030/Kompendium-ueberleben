@@ -1,8 +1,6 @@
 # ART-0028 — Wie organisiere ich Rollen in der Gruppe (Wochenrollenplan)?
 
-**Band:** 1 (Grundlagen & Blackout/Urban) · **Status:** geschrieben (D2) · **Ampel:** grün (C2: P 8 / M unbedenklich / V 9)
-**Quelle:** Konzept B1-9.2 (review-v7 Kap. 9.2 + Anhang A2); 02-factcheck grün
-**Seitenziel:** 5–7 S. · **Tags:** grundlagen, rollen, gruppe, wochenrollenplan
+**Band:** 1 — Grundlagen & Blackout/Urban · **Tags:** grundlagen, rollen, gruppe, wochenrollenplan
 
 ## Ziel
 
@@ -10,7 +8,7 @@ Du verteilst alle anfallenden Aufgaben doppelt besetzt auf die Gruppe — Krankh
 
 ## Material + Maße
 
-- Kopiervorlage A2: Tabelle 7 Tage × 6 Rollen, jede Zelle 2 Namen
+- Vorlage: Tabelle 7 Tage × 6 Rollen, jede Zelle 2 Namen
 - Aushang (sichtbar, auch im Dunkeln lesbar)
 
 ## Schritte
@@ -19,7 +17,7 @@ Du verteilst alle anfallenden Aufgaben doppelt besetzt auf die Gruppe — Krankh
 2. Jede Rolle doppelt besetzen.
 3. Wochenplan ausfüllen (7 × 6 × 2 Namen) und aushängen.
 4. Wöchentlich wechseln und besprechen (ART-0012).
-5. Konsistenz mit Ämtern des Dorfes (Band 10, 4.1).
+5. Konsistenz mit Ämtern des Dorfes (ART-0312).
 
 ## Varianten (Stadt / Land / Klima)
 
@@ -42,7 +40,7 @@ Du verteilst alle anfallenden Aufgaben doppelt besetzt auf die Gruppe — Krankh
 - ART-0029 (Schlaf/Wache)
 - ART-0012 (Gesprächsordnung)
 - ART-0011 (Protokoll)
-- Band 10: ART-0312 (Ämter des Dorfes)
+- ART-0312 (Ämter des Dorfes)
 
 ## Mini-Glossar
 
@@ -53,7 +51,7 @@ Du verteilst alle anfallenden Aufgaben doppelt besetzt auf die Gruppe — Krankh
 
 ## Übungsbezug
 
-Wochenplan für die eigene Gruppe/WG erstellen; Erfolg: CL-B1-26 (jede Rolle doppelt, Plan ausgehängt); Protokoll ART-0035.
+Üben: wöchentlich den Plan besprechen, monatlich neu verteilen. Ziel: jede Rolle doppelt besetzt.
 
 ---
-*ART-0028 — Enzyklopaedie v2, Band 1. Ampel grün (C2-factcheck 2026-11-07). review-v7 migriert; nur gruene/gelbe Inhalte.*
+*ART-0028 — Enzyklopaedie v2, Band 1 (Grundlagen & Blackout/Urban).*

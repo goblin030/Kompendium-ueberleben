@@ -1,9 +1,7 @@
 # ART-0117 — Wie halte ich den Wärmehaushalt mit Schichten?
 
-**Band:** 4 (Unterkunft & Kleidung) · **Seitenziel:** 5–7 S. · **Status:** geschrieben (D2)
-**Ampel (C2):** grün · P 9 / M unbedenklich / V 9 · **Warnpflicht:** nein
-**Quelle:** Konzept B4-2.1 + review-v7 §2.1 + `22/23` band-04 ART-0117 (C2-2: Wasser leitet ~25× besser als Luft — Taucherpedia/Physik, Abruf 2026-11-07; C2-9: Wolle feucht warm / Baumwolle nass kalt)
-**Tags:** unterkunft, waermehaushalt, schichten · **Abb.:** 4.2 · **warn-N:** WARN 2 (nass schneller kalt)
+**Band:** 4 (Unterkunft & Kleidung) · **Seitenziel:** 5–7 S.
+**Tags:** unterkunft, waermehaushalt, schichten · **Abb.:** 4.2
 
 ## Ziel
 Die Körperwärme mit Kleidung steuern — trocken innen, isolierend in der Mitte, winddicht außen. Zwei Hüllen: die Kleidung als erste enge, das Dach als zweite weite Hülle.
@@ -34,7 +32,7 @@ Die Körperwärme mit Kleidung steuern — trocken innen, isolierend in der Mitt
 - Rettungsdecke als Wärmedecke missverstanden → kühlt zusätzlich ab.
 
 ## Warnungen
-WARN 2 Band 4: nass ist schneller kalt — Unterkühlung auch bei Plusgraden und nach Arbeit.
+Grundregel: nass ist schneller kalt — Unterkühlung auch bei Plusgraden und nach Arbeit.
 
 ## Siehe auch (ART-IDs)
 ART-0114 (Kältegefahr) · ART-0124 (Faserpflege) · ART-0133 (nasse Kleidung trocknen) · ART-0084 (Wärmepaket, Band 3) · ART-0119 (Schlafplatz) · ART-0129 (Schlafen bei Kälte) · ART-0130 (Wetterschutz improvisiert)
@@ -45,4 +43,4 @@ ART-0114 (Kältegefahr) · ART-0124 (Faserpflege) · ART-0133 (nasse Kleidung tr
 - **Crimp:** Kräuselung der Wollfaser — hält Luftpolster auch bei Feuchte.
 
 ## Übungsbezug
-Schichtsystem bei Kälte an- und ausziehen, Feuchteverhalten vergleichen (review-v7 Anhang C). Erfolg: trockene Innenschicht nach 30 min Aktivität, kein Schwitzen in der Pause.
+Üben: Einmal im Jahr im Herbst das Schichtsystem bei Kälte an- und ausziehen und auf Feuchte achten. Vor dem Winter.

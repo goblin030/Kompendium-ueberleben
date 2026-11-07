@@ -1,9 +1,7 @@
 # ART-0057 — Wie fuelle ich bei Stromausfall sofort Wasser auf (Badewanne, Gefaesse)?
 
-**Band:** 2 (Wasser) · **Enzyklopaedie v2, Phase D2** · **Seitenziel:** 5-7 S.
-**Ampel (C2, `artifacts/23-factcheck-artikel/band-02.md`):** gruen · **P/M/V:** P 10 / M unbedenklich / V 10
+**Band:** 2 (Wasser) · Enzyklopaedie v2
 **Tags:** blackout, wasservorrat, sofortmassnahme
-**Quellen:** 18-recherche-blackout.md §4.6 [S3, S2, S2p, K2, Abruf 2026-11-07]; BW10 (19-factcheck-blackout.md); C2: interne Festlegung Minute 3-15 (Band 1 T58/T64, Chat [29cd074c #146])
 
 ## Ziel
 
@@ -11,16 +9,16 @@ Du lernst die wichtigste Sofortmassnahme beim Stromausfall: Sobald der Eintritt 
 
 ## Material + Masse
 
-- Badewanne (ggf. Wassersack lt. [S2])
+- Badewanne (ggf. Wassersack lt.)
 - Alle verfuegbaren Gefaesse: Kochtöpfe, Kuebel, Kanister, Flaschen (ART-0075)
-- Stoppuhr/Zeitpunkt notieren (Protokoll B1-9.1)
+- Stoppuhr/Zeitpunkt notieren (Protokoll ART-0011)
 
 ## Schritte
 
-1. Bei Eintritt Geraete ausschalten/ausstecken, eine Lampe anlassen (18 §4.1).
-2. Minute 3-15: Personen zaehlen, dann sofort alle Behaelter + Badewanne fuellen, solange Druck da (Band 1 T58).
-3. Danach Wasser sparen: Leitungen nicht leerlaufen lassen (Lufteinschluesse -> Pumpschaeden).
-4. Bestand ins Stundenprotokoll eintragen (B1-9.1) und gegen Bedarf rechnen (ART-0049).
+1. Bei Eintritt Geraete ausschalten/ausstecken, eine Lampe anlassen.
+2. Minute 3-15: Personen zaehlen, dann sofort alle Behaelter + Badewanne fuellen, solange Druck da.
+3. Danach Wasser sparen: Leitungen nicht leerlaufen lassen (Lufteinschluesse → Pumpschaeden).
+4. Bestand ins Stundenprotokoll eintragen (ART-0011) und gegen Bedarf rechnen (ART-0049).
 5. Hochhaus: ab 3. OG kein Druck — siehe ART-0047.
 
 ## Varianten (Stadt / Land / Klima)
@@ -33,8 +31,8 @@ Du lernst die wichtigste Sofortmassnahme beim Stromausfall: Sobald der Eintritt 
 
 | Fehler | Folge |
 |---|---|
-| Wasserreste ungenutzt ablaufen lassen | die einzige 'geschenkte' Reserve ist verloren (Band 1 T59) |
-| Leitungen leerlaufen lassen | Lufteinschluesse -> Pumpschaeden |
+| Wasserreste ungenutzt ablaufen lassen | die einzige 'geschenkte' Reserve ist verloren |
+| Leitungen leerlaufen lassen | Lufteinschluesse → Pumpschaeden |
 
 ## Warnungen
 
@@ -51,7 +49,6 @@ ART-0047 (Hochhaus), ART-0064 (Vorrat), ART-0055 (Regen), ART-0075 (Behaelter)
 
 ## Uebungsbezug
 
-Blackout-Drill 1x: Simulation mit gestopfter Uhr; Erfolgskontrolle: in 15 min Badewanne + alle Gefaesse gefuellt, Bestand protokolliert (Band 1 T64). Uebungsrhythmus lt. Anhang C Band 2: mind. 3x hintereinander (V<6: 5x), 45-90 min pro Einheit, max. 2 Einheiten/Tag; messbares Erfolgskriterium notieren; Abbruch bei Verletzung/Wetterumschwung/Materialbruch; Protokoll nach B1-8.2 (Datum, Wiederholungen, Zeit, Beobachtung, Verfalldatum +12 Monate).
+Üben: Blackout-Drill 1x: Simulation mit gestopfter Uhr. Erfolgskontrolle: in 15 min Badewanne + alle Gefaesse gefuellt, Bestand protokolliert. Rhythmus: mindestens 3× hintereinander, 45–90 Minuten pro Einheit, höchstens 2 Einheiten pro Tag.
 
----
-*ART-0057 — erstellt in Phase D2 (editor), Agent research-b02, 2026-11-07. Ampel C2: gruen. Migriert aus review-v7 (`04-redaktion-band-02.md`) + Recherche (`22-recherche-artikel/band-02.md`) + Factcheck (`23-factcheck-artikel/band-02.md`).*
+*ART-0057 — Band 2 (Wasser), Enzyklopaedie v2.*

@@ -1,8 +1,6 @@
 # ART-0179 — Wie lese ich Spuren im Neuschnee?
 
-**Band:** 6 — Jagd & Fischfang · **Status:** geschrieben (Phase D2) · **Ampel (C2):** grün · P 9 / M unbedenklich / V 9
-**Quelle:** Konzept 2.4 + review-v7 `04-redaktion-band-06.md` 2.4 + CL-B6-05; Chat Tab. 15 (Zeiten als Planungsrichtwerte); geprüft 23-factcheck-artikel/band-06.md
-**Seitenziel:** 5–7 S. · **Abb.:** Abb. 2.2 (Winter-Spur) · **Warnung:** –
+**Band:** 6 — Jagd & Fischfang
 
 ## Ziel
 Spuren im Schnee richtig datieren und lesen — Neuschnee ist die „Foto-Platte“ des Reviers.
@@ -14,12 +12,12 @@ Spuren im Schnee richtig datieren und lesen — Neuschnee ist die „Foto-Platte
 1. **Neuschnee datiert:** frische Spur = heute, ältere = vor dem letzten Schneefall. Schneefall-Datum notieren.
 2. In **windgeschützter Zone** lesen — Schneedrift täuscht.
 3. Untergründe unterscheiden (Richtwerte):
-   - **Frisch-Schnee:** alle Zeichnungen scharf — sofort nach dem Fallen lesen.
-   - **Deck-Schnee:** zugedeckte Spur ist älter als der Schneefall — am Morgen danach lesen.
-   - **Schmelz-Kruste:** nur Last, nicht Form (Tiefe täuscht) — früh lesen, ehe die Kruste taut.
-   - **Nass-Sand der Ebbe:** scharf, aber Lebensdauer ~6 h — in den ersten ~2 h nach Ebbe lesen.
-   - **Trocken-Sand:** nur Senkung/Randwurf — früh morgens.
-   - **Torf/Moos:** Senkung, Quetschung, Haar — wochenlang lesbar.
+ - **Frisch-Schnee:** alle Zeichnungen scharf — sofort nach dem Fallen lesen.
+ - **Deck-Schnee:** zugedeckte Spur ist älter als der Schneefall — am Morgen danach lesen.
+ - **Schmelz-Kruste:** nur Last, nicht Form (Tiefe täuscht) — früh lesen, ehe die Kruste taut.
+ - **Nass-Sand der Ebbe:** scharf, aber Lebensdauer ~6 h — in den ersten ~2 h nach Ebbe lesen.
+ - **Trocken-Sand:** nur Senkung/Randwurf — früh morgens.
+ - **Torf/Moos:** Senkung, Quetschung, Haar — wochenlang lesbar.
 4. Erst messen und skizzieren, dann deuten (ART-0180).
 
 ## Varianten (Stadt / Land / Klima)
@@ -41,4 +39,5 @@ ART-0180 (Trittsiegel/Gangbilder), ART-0172 (Wechsel), ART-0167 (Ansitz), ART-01
 - **Tiefgang:** Eindrucktiefe — weicher Untergrund täuscht Größe vor.
 
 ## Übungsbezug
-Nach Schneefall: eine Fährte von der Äsung zum Einstand verfolgen, Alter an der Kante begründen (review-v7 Anhang C, Januar).
+
+Üben: nach jedem Schneefall eine Fährte verfolgen und das Alter an der Kante begründen — jeden Winter.

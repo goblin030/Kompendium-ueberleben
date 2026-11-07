@@ -1,8 +1,5 @@
 # ART-0105 — Wie zünde ich mit der Sonne (Linsen-Abdeckung Pflicht)?
 
-**Band 3 (Feuer & Wärme)** · **Seitenziel:** 6–8 S. · **Ampel (C2):** **gelb — Auflage: Notbehelf (P4)** · **P/M/V:** 4 / unbedenklich / 8 · **WARNPFLICHT:** nein (Brandgefahr-Warnung Linse)
-**Quellen:** review-v7 Kap. 3.4 (gelb, Notbehelf) · `23-factcheck-artikel/band-03.md` ART-0105 (Brennpunkt „mehrere hundert °C“ grün — lumeno.de; Zündtemperatur Zunder ~300 °C — bfa.fobi24.de; Abruf 2026-11-07) · Chat `29cd074c #146` Tab. 35 Nr. 10/37/38 Nr. 9
-
 ## Ziel
 Mit Sonnenlicht und einer Linse Zunder zur Glut bringen — als Notbehelf, wenn alle Zündquellen versagen.
 
@@ -42,4 +39,4 @@ ART-0085 (Zünd-Set = Plan B), ART-0106 (Feuerstahl), ART-0076 (Zunderkette), AR
 - **Linsen-Abdeckung:** Pflicht — unabgedeckte Linse in Sonne = Brandgefahr.
 
 ## Übungsbezug
-März (Irland): Sonnenzündungs-Fenster nach der Front suchen; Dauer von Punkt zu Rauch notieren (Chat Übungsjahr Tab. 36). Protokoll ART-0035.
+Üben: einmal im Jahr (März, nach einer Kaltfront) das Sonnenzündungs-Fenster suchen und die Dauer von Brennpunkt zu Rauch notieren.

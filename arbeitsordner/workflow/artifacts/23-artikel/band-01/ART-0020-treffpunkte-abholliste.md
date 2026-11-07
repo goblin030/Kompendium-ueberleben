@@ -1,8 +1,6 @@
 # ART-0020 — Wie lege ich Treffpunkte und eine Abholliste fest (A/B, schriftlich)?
 
-**Band:** 1 (Grundlagen & Blackout/Urban) · **Status:** geschrieben (D2) · **Ampel:** grün (C2: P 9 / M unbedenklich / V 9)
-**Quelle:** Konzept B1-3.4 (review-v7 Kap. 3.4); 02-factcheck grün
-**Seitenziel:** 5–7 S. · **Tags:** grundlagen, treffpunkte, abholliste
+**Band:** 1 — Grundlagen & Blackout/Urban · **Tags:** grundlagen, treffpunkte, abholliste
 
 ## Ziel
 
@@ -54,7 +52,7 @@ Du machst die Zusammenfindung auch ohne jedes Netz sichergestellt: zwei schriftl
 
 ## Übungsbezug
 
-Plan für den eigenen Haushalt erstellen + 3 Kopien verteilen; Erfolg: CL-B1-06 vollständig (A/B schriftlich, Abholliste vollständig, +60-min-Regel bekannt).
+Üben: halbjährlich Plan prüfen und Kopien erneuern. Ziel: Plan schriftlich bei jedem Mitglied und im Rucksack.
 
 ---
-*ART-0020 — Enzyklopaedie v2, Band 1. Ampel grün (C2-factcheck 2026-11-07). review-v7 migriert; nur gruene/gelbe Inhalte.*
+*ART-0020 — Enzyklopaedie v2, Band 1 (Grundlagen & Blackout/Urban).*

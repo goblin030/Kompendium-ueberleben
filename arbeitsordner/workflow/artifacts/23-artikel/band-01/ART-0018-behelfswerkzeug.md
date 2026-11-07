@@ -1,8 +1,6 @@
 # ART-0018 — Wie improvisiere ich Behelfswerkzeug (deklariert)?
 
-**Band:** 1 (Grundlagen & Blackout/Urban) · **Status:** geschrieben (D2) · **Ampel:** grün (C2: P 6 / M unbedenklich / V 8)
-**Quelle:** Konzept B1-6.4 (review-v7 Kap. 6.4); 02-factcheck grün (deklariert, Grenzen ehrlich)
-**Seitenziel:** 5–7 S. · **Tags:** grundlagen, behelfswerkzeug, deklariert
+**Band:** 1 — Grundlagen & Blackout/Urban · **Tags:** grundlagen, behelfswerkzeug, deklariert
 
 ## Ziel
 
@@ -38,13 +36,13 @@ Du setzt Behelfs-Werkzeug ein, wo das richtige fehlt — und benennst seine Gren
 
 ## Warnungen
 
-- Grenzen einhalten: Sägedraht < 5 cm Weichholz (CL-B1-17).
+- Grenzen einhalten: Sägedraht < 5 cm Weichholz .
 
 ## Siehe auch
 
 - ART-0001 (Messer)
 - ART-0002 (Säge/Axt)
-- Band 9: ART-0270 (Werkzeug-Kiste)
+- ART-0270 (Werkzeug-Kiste)
 
 ## Mini-Glossar
 
@@ -55,7 +53,7 @@ Du setzt Behelfs-Werkzeug ein, wo das richtige fehlt — und benennst seine Gren
 
 ## Übungsbezug
 
-Am wertlosen Übungsstück (Band 9, 1.3): Sägedraht an Weichholz < 5 cm testen; Protokoll nach ART-0035.
+Üben: vierteljährlich einen Behelf am wertlosen Stück testen. Ziel: die Grenzen (z. B. Sägedraht unter 5 cm) werden eingehalten.
 
 ---
-*ART-0018 — Enzyklopaedie v2, Band 1. Ampel grün (C2-factcheck 2026-11-07). review-v7 migriert; nur gruene/gelbe Inhalte.*
+*ART-0018 — Enzyklopaedie v2, Band 1 (Grundlagen & Blackout/Urban).*

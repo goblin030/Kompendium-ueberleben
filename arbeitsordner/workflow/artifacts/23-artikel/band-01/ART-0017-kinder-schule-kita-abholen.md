@@ -1,8 +1,6 @@
 # ART-0017 — Wie hole ich Kinder sicher aus Schule und Kita?
 
-**Band:** 1 (Grundlagen & Blackout/Urban) · **Status:** geschrieben (D2) · **Ampel:** gelb (C2: P 8 / M unbedenklich / V 8)
-**Quelle:** 18-recherche §4 Nr. 2; review-v7 3a.2; 01-recherche Band 1 [29cd074c #146]; C2: Rechtsrahmen § 611/§ 832 BGB, Landes-KitaG (kitazentrale.de 2026-11-07)
-**Seitenziel:** 6–8 S. · **Tags:** familie, kinder, treffpunkt
+**Band:** 1 — Grundlagen & Blackout/Urban · **Tags:** familie, kinder, treffpunkt
 
 ## Ziel
 
@@ -39,11 +37,7 @@ Du holst Kinder aus Schule/Kita zuverlässig ab, auch ohne Netz: schriftlicher T
 
 ## Warnungen
 
-- Rechtlicher Rahmen (C2): Betreuungsvertrag = Dienstvertrag (§ 611 BGB); Aufsichtspflicht der Einrichtung endet nicht von selbst; Haftung § 832 BGB; Landes-KitaG; Abholung nur an berechtigte Personen.
-
-## Auflage (C2 — gelb)
-
-C2 gelb: rechtliche Details (Landes-KitaG, berechtigte Personen je Vertrag) offen → Owner legal. Artikel führt nur organisatorische Abholung.
+- Rechtlicher Rahmen : Betreuungsvertrag = Dienstvertrag (§ 611 BGB); Aufsichtspflicht der Einrichtung endet nicht von selbst; Haftung § 832 BGB; Landes-KitaG; Abholung nur an berechtigte Personen.
 
 ## Siehe auch
 
@@ -62,7 +56,7 @@ C2 gelb: rechtliche Details (Landes-KitaG, berechtigte Personen je Vertrag) offe
 
 ## Übungsbezug
 
-Treffpunkt-Plan mit der Familie durchsprechen + Namenskarte basteln (30 min); Erfolg: Plan schriftlich vorhanden, +60-min-Regel allen bekannt (CL-B1-06).
+Üben: halbjährlich Plan und Namenskarte mit der Familie durchsprechen. Ziel: Treffpunkte A/B und die +60-Minuten-Regel allen bekannt.
 
 ---
-*ART-0017 — Enzyklopaedie v2, Band 1. Ampel gelb (C2-factcheck 2026-11-07). review-v7 migriert; nur gruene/gelbe Inhalte.*
+*ART-0017 — Enzyklopaedie v2, Band 1 (Grundlagen & Blackout/Urban).*

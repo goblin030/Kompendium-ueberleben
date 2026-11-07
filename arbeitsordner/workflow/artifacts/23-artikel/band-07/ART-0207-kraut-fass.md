@@ -1,6 +1,6 @@
 # ART-0207 — Wie lege ich Kraut im Fass ein (Milchsäure/Lake)?
 
-**Band/Domäne:** Band 7 — Vorrat & Konservierung · **Seitenziel:** 5–7 S. · **Ampel (C2):** grün (C2-R8: optimal 18–22 °C ergänzen; Rv7 15–20 °C in unterer Toleranz) · **Warnpflicht:** nein · **Status:** geschrieben (D2) · **Tags:** vorrat, kraut, fass, milchsaeure
+**Band/Domäne:** Band 7 — Vorrat & Konservierung · **Seitenziel:** 5–7 S. · **Tags:** vorrat, kraut, fass, milchsaeure
 
 ## Ziel
 Kraut (Sauerkraut) per Milchsäuregärung haltbar machen: salzen, stampfen, luftdicht ins Fass, 2–4 Wochen bei 15–20 °C (optimal 18–22 °C) reifen lassen — pH sinkt < 4,0, Fremdkeime werden gehemmt.
@@ -23,7 +23,7 @@ Kraut (Sauerkraut) per Milchsäuregärung haltbar machen: salzen, stampfen, luft
 
 ## Typische Fehler + Folgen
 - Nicht luftdicht oder zu warm → Schimmel/Fäulnis statt Gärung; Schimmel → wegwerfen (ART-0197).
-- Kraut mit Streusalz salzen → warn-7c (ART-0215).
+- Kraut mit Streusalz salzen siehe ART-0215.
 
 ## Warnungen
 Keine Warnpflicht (pH < 4,0 durch Gärung sicher); pH-Messung empfohlen (Indikatorpapier, ART-0203).
@@ -32,12 +32,10 @@ Keine Warnpflicht (pH < 4,0 durch Gärung sicher); pH-Messung empfohlen (Indikat
 ART-0215 (Salz), ART-0203 (pH/Einkochen), ART-0208 (sechs Wege: Säuern), ART-0196 (Essig), ART-0197 (Kahmhaut-Urteil), ART-0209 (Kammer), ART-0211 (Fahrplan: Fass Oktober).
 
 ## Übungsbezug
-Kraut-Fass im Oktober stampfen und führen — Erfolg: luftdicht vergoren, 2–4 Wochen gereift (review-v7 CL-B7-10 + Anhang C).
+Übe das Kraut-Fass einmal pro Jahr im Oktober: luftdicht stampfen, 2–4 Wochen bei 15–20 °C reifen lassen, Kahmhaut nach ART-0197 beurteilen.
 
 ## Mini-Glossar
 - **Milchsäuregärung:** Bakterien wandeln Zucker in Säure (pH < 4,0) und halten Fremdkeime unter der Lake fern.
 - **Wasserbund:** Wasser-Rinne am Fassdeckel als luftdichte Sperre.
 - **Kahmhaut:** weißer Film obenauf — harmlos, abnehmbar, Zeichen der Führung.
 
-## Quellen
-review-v7 K 6.1 + CL-B7-10; 01-recherche.md Band 7 T10/T40/T43/T57/T58/T59 [29cd074c #146]; 02-factcheck.md Band-7-Ampel K 6.1 grün; Web 2026-11-07: Fermentation 18–22 °C, pH < 4,0 (C2-R8). C2: ART-0207 grün + Hinweis.

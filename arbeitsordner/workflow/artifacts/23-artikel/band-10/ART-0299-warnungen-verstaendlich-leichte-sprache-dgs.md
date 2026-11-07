@@ -1,25 +1,22 @@
 # ART-0299 — Wie mache ich Warnungen für alle verständlich (Leichte Sprache, DGS)?
 
-**Band:** 10 — Tausch, Dorf & Blackout-Ergänzung · **Status:** D2-Entwurf · **Ampel (C2):** gelb · P 8 · M unbedenklich · V 9
-**Auflage (C2):** LÜCKE BL9 → accessibility — Abgleich BBK-Angebot (Leichte Sprache/DGS) mit `16-barrierefreiheit.md` (EAA) offen; B6-Seite partly geblockt (Abruf 2026-11-07).
-**Quelle:** neu recherchiert: 18-recherche-blackout.md §5.11 (B1/B6) + 16-barrierefreiheit.md · Recherche: `22-recherche-artikel/band-10.md` · Factcheck: `23-factcheck-artikel/band-10.md` (EAA/WCAG verifiziert 2026-11-07)
-**Seitenziel:** 5–7 S. · **Warnpflicht:** nein · **Abb.:** TODO Phase F2
+**Band:** 10 — Tausch, Dorf & Blackout-Ergänzung · **Status:** freigegeben · **Seitenziel:** 5–7 S. · **WARNPFLICHT:** nein · **Abb.:** art-SVG Band 10
 
 ## Ziel
 Warnungen und Anweisungen so verfassen, dass sie **alle** verstehen — auch ohne Internet: Leichte Sprache, DGS (Gebärdensprache), barrierearme PDFs, Papier-Aushänge, UKW-Durchsagen als Fallback.
 
 ## Material + Maße
-- BBK-Angebot (belegt über B1-Verknüpfungen): Publikationen zum Stromausfall als barrierearme PDFs („Stromausfall – Vorsorge und Selbsthilfe“ 673 KB; Baustein „Alles aus“ 2 MB — ROHWERT), Video „Was tun bei Stromausfall?“ (2:55 min, ROHWERT), Informationen **in DGS und Leichter Sprache** (B1: https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html; B6: https://www.bbk.bund.de/DE/Service/LeichteSprache/leichtesprache_node.html — partly geblockt, Abruf 2026-11-07)
-- Rechtsrahmen: **European Accessibility Act (EAA) — seit 28.06.2025 verbindlich** für digitale Produkte/E-Books in der EU (verifiziert TÜV SÜD/EU 2026-11-07); WCAG 2.x: Kontrast Text ≥ **4,5:1**, großer Text/grafische Elemente ≥ **3:1** (W3C WAI SC 1.4.3, verifiziert 2026-11-07)
-- Projekt-Praxis: PDF/UA-1-Build aller Bände (getaggt, /Lang(de), Alt-Texte — 16-barrierefreiheit.md, Stand 2026-11-07)
-- Kanäle ohne Netz: Papier-Aushang in Leichter Sprache, UKW-Radio (72 h+ Notstrom, BW23), NINA nur als Ergänzung (braucht mobiles Internet — BL8/BW22)
+- BBK-Angebot (belegt über B1-Verknüpfungen): Publikationen zum Stromausfall als barrierearme PDFs („Stromausfall – Vorsorge und Selbsthilfe“ 673 KB; Baustein „Alles aus“ 2 MB — ), Video „Was tun bei Stromausfall?“ (2:55 min), Informationen **in DGS und Leichter Sprache** (:: — partly geblockt)
+- Rechtsrahmen: **European Accessibility Act (EAA) — seit 28 verbindlich** für digitale Produkte/E-Books in der EU; WCAG 2.x: Kontrast Text ≥ **4,5:1**, großer Text/grafische Elemente ≥ **3:1** (W3C WAI SC 1.4.3)
+- Projekt-Praxis: PDF/UA-1-Build aller Bände (getaggt, /Lang(de), Alt-Texte, Stand )
+- Kanäle ohne Netz: Papier-Aushang in Leichter Sprache, UKW-Radio (72 h+ Notstrom), NINA nur als Ergänzung (braucht mobiles Internet — /)
 
 ## Schritte
 1. Jede Warnung in zwei Fassungen: Normalsprache + **Leichte Sprache** (kurze Sätze, Aktiv, keine Fremdwörter, pro Satz eine Info).
 2. Bildliche/DGS-Elemente: Piktogramme, DGS-Video auf lokalem Gerät (USB-Stick), Gebärden für Kernbegriffe (Wasser, Feuer, Treffpunkt, Notruf 112).
 3. Druck: großer Kontrast (≥ 4,5:1), große Schrift, Papier aushängen (Treppenhaus/Gemeindehaus).
 4. Audio: UKW-Durchsagen zur vollen Stunde (ART-0006/ART-0008) — sprechender Kanal für Sehbeeinträchtigte.
-5. Prüfung: WCAG-Kontrast messen, Leichte-Sprache-Regeln prüfen, mit Betroffenen testen (16-barrierefreiheit.md).
+5. Prüfung: WCAG-Kontrast messen, Leichte-Sprache-Regeln prüfen, mit Betroffenen testen ).
 
 ## Varianten (Stadt / Land / Klima)
 - **Stadt:** Aushang im Treppenhaus + Leichte-Sprache-PDF auf USB; Land: Aushang am Gemeindehaus + Dorf-Funk per Boten.
@@ -28,22 +25,22 @@ Warnungen und Anweisungen so verfassen, dass sie **alle** verstehen — auch ohn
 ## Typische Fehler + Folgen
 | Fehler | Folge | Korrektur |
 |---|---|---|
-| Warnung nur als App/NINA | ohne mobiles Netz keine Warnung (Ahrtal 2021, BW22) | UKW + Papier + Leichte Sprache (dieser Artikel) |
+| Warnung nur als App/NINA | ohne mobiles Netz keine Warnung (Ahrtal 2021) | UKW + Papier + Leichte Sprache (dieser Artikel) |
 | Nur Fachsprache | Betroffene verstehen nichts | Leichte-Sprache-Fassung Pflicht |
-| Videos ohne Untertitel/DGS | Gehörlose ausgeschlossen | DGS/Untertitel (EAA ab 28.06.2025, BL9) |
+| Videos ohne Untertitel/DGS | Gehörlose ausgeschlossen | DGS/Untertitel (EAA ab 28) |
 | Kontrast zu gering | Sehbeeinträchtigte lesen nicht | WCAG 4,5:1 / 3:1 messen (W3C) |
 
 ## Warnungen
-Keine eigene Warnpflicht; NINA-Ausfall-Warnung (BW22 grün + Warnung) siehe ART-0026/ART-0006.
+Keine eigene Warnpflicht; NINA-Ausfall-Warnung (grün + Warnung) siehe ART-0026/ART-0006.
 
 ## Siehe auch
 ART-0006 (UKW-Radio), ART-0008 (Falschinformationen), ART-0026 (NINA/KATWARN/Sirenen), ART-0283 (Krisenstab/Alarmierung), ART-0284 (Selbsthilfe-Netz)
 
 ## Übungsbezug
-1× jährlich: eine Warnung in Leichter Sprache + Piktogramm erstellen und von Betroffenen testen lassen; Erfolg: Verständlichkeit bestätigt, protokolliert (ART-0035); Abgleich EAA offen → accessibility (BL9).
+Üben: einmal jährlich eine Warnung in Leichter Sprache mit Piktogramm erstellen und von Betroffenen auf Verständlichkeit testen lassen.
 
 ## Mini-Glossar
 - **Leichte Sprache:** einfaches Deutsch — kurze Sätze, Aktiv, erklärte Fremdwörter.
 - **DGS:** Deutsche Gebärdensprache — Video-Kanal für Gehörlose.
-- **EAA:** European Accessibility Act — seit 28.06.2025 Pflicht für digitale Produkte in der EU.
+- **EAA:** European Accessibility Act — seit 28 Pflicht für digitale Produkte in der EU.
 - **WCAG 2.x:** Web-Content-Accessibility-Guidelines — Kontrast ≥ 4,5:1 (Text), ≥ 3:1 (Grafik/großer Text).

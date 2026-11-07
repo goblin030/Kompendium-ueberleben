@@ -1,15 +1,12 @@
 # ART-0087 — Wie heize ich mit Torf und Dung (nur Notstand, Moor-Schwelbrand)?
 
-**Band 3 (Feuer & Wärme)** · **Seitenziel:** 6–8 S. · **Ampel (C2):** **gelb — Auflage: nur Notstand** · **P/M/V:** 6 / **prüfenswert** / 8 · **WARNPFLICHT:** nein (Moor-Schwelbrand-Warnung)
-**Quellen:** review-v7 Kap. 7.2 · `23-factcheck-artikel/band-03.md` ART-0087 (Heizwerte ergänzt: Torf 20–22 MJ/kg ≈ 5,5–6,1 kWh/kg grün — paradigma.de, Abruf 2026-11-07; Dung getrocknet ~12–17 MJ/kg ≈ 3,3–4,7 kWh/kg Richtwert gelb) · Chat `29cd074c #146` Tab. 4/22/37/38 · Querverweis ART-0221 (Räuchern), ART-0083 (Asche)
-
 ## Ziel
 Im absoluten Notstand Wärme aus Torf und getrocknetem Dung gewinnen — ohne Moorbrand und ohne Rechte Dritter zu verletzen.
 
 ## Material + Maße
 - **Torf:** nur oberflächlich abtaken (nie stechen/tief abgraben); Heizwert getrockneter Torf **20–22 MJ/kg (≈ 5,5–6 kWh/kg)**; brennt gleichmäßig, rußt, riecht.
 - **Dung:** nur vollständig getrocknet brennbar; Heizwert **~12–17 MJ/kg (≈ 3,3–4,7 kWh/kg)** — Richtwert.
-- Vereinbarung mit dem Grundstückseigentümer einholen (siehe ART-0307, Band 10).
+- Vereinbarung mit dem Grundstückseigentümer einholen.
 - Küsten-Treibholz (nach Stürmen, Salz ausgewaschen): dichte heiße Glut; **salzhaltige Asche nie zur Lauge** (ART-0083).
 
 ## Schritte (drei Bedingungen — immer alle drei)
@@ -31,14 +28,14 @@ Im absoluten Notstand Wärme aus Torf und getrocknetem Dung gewinnen — ohne Mo
 
 ## Warnungen
 > **Moor-Schwelbrand:** Torf glimmt unter der Oberfläche tagelang weiter. Bei Verdacht: **abgrenzen, melden, sondieren** — nie zertreten.
-CO bei Verbrennung in geschlossenen Räumen (warn-3, ART-0088).
+CO bei Verbrennung in geschlossenen Räumen.
 
 ## Siehe auch
-ART-0100 (Holzvorrat), ART-0083 (Asche), ART-0221 (Räuchern — Torf nur gemischt), ART-0103 (Brennstoffkunde), ART-0088 (CO), ART-0307 (Vertrag, Band 10)
+ART-0100 (Holzvorrat), ART-0083 (Asche), ART-0221 (Räuchern — Torf nur gemischt), ART-0103 (Brennstoffkunde), ART-0088 (CO), ART-0307
 
 ## Mini-Glossar
 - **Moor-Schwelbrand:** unterirdisch glühender Torfkörper — abgrenzen, melden, sondieren statt zertreten.
 - **Torf-Stich:** oberflächliche Torfgewinnung am Moor.
 
 ## Übungsbezug
-August (Irland): Torf-Kochabend mit letztem Herbst-Torf; Qualm-Protokoll gegen Holzasche vergleichen (Chat Übungsjahr Tab. 36). Protokoll ART-0035.
+Üben: im Atlantikklima einmal im Jahr (August) einen Torf-Kochabend machen und Qualm und Geruch mit Holzasche vergleichen; im Binnenland die Regeln jährlich auffrischen.

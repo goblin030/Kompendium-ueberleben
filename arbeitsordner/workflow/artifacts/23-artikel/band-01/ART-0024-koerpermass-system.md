@@ -1,8 +1,6 @@
 # ART-0024 — Wie messe ich ohne Zollstock (Körpermass-System)?
 
-**Band:** 1 (Grundlagen & Blackout/Urban) · **Status:** geschrieben (D2) · **Ampel:** grün (C2: P 8 / M unbedenklich / V 10)
-**Quelle:** Konzept B1-7.1 (review-v7 Kap. 7.1); 02-factcheck grün
-**Seitenziel:** 5–7 S. · **Tags:** grundlagen, zollstock, koerpermass
+**Band:** 1 — Grundlagen & Blackout/Urban · **Tags:** grundlagen, zollstock, koerpermass
 
 ## Ziel
 
@@ -34,13 +32,13 @@ Du misst Strecken und Längen mit deinem eigenen Körper — vorausgesetzt, du h
 
 ## Warnungen
 
-- Die cm-Werte sind Näherungen (ROHWERT) — die Eichung eliminiert den systematischen Fehler.
+- Die cm-Werte sind Näherungen (Richtwert) — die Eichung eliminiert den systematischen Fehler.
 
 ## Siehe auch
 
 - ART-0023 (Mengen)
-- Band 10: ART-0314 (ehrlich wiegen)
-- Band 4: ART-0126 (Hüttenmaße)
+- ART-0314 (ehrlich wiegen)
+- ART-0126 (Hüttenmaße)
 
 ## Mini-Glossar
 
@@ -52,7 +50,7 @@ Du misst Strecken und Längen mit deinem eigenen Körper — vorausgesetzt, du h
 
 ## Übungsbezug
 
-Eichung durchführen (100 m), Erfolg: Schrittfehler < 10 % (CL-B1-19); Protokoll ART-0035.
+Üben: einmalig eichen (100 m), danach vierteljährlich den Schritt prüfen. Ziel: Schrittfehler unter 10 %.
 
 ---
-*ART-0024 — Enzyklopaedie v2, Band 1. Ampel grün (C2-factcheck 2026-11-07). review-v7 migriert; nur gruene/gelbe Inhalte.*
+*ART-0024 — Enzyklopaedie v2, Band 1 (Grundlagen & Blackout/Urban).*

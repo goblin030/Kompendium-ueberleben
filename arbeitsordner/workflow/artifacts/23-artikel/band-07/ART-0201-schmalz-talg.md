@@ -1,6 +1,6 @@
 # ART-0201 — Wie gewinne ich Schmalz und Talg (Ranz-Warnung)?
 
-**Band/Domäne:** Band 7 — Vorrat & Konservierung · **Seitenziel:** 5–7 S. · **Ampel (C2):** grün (Ausbeuten ROHWERT plausibel, C2-R11) · **Warnpflicht:** nein (Ranz funktional) · **Status:** geschrieben (D2) · **Tags:** vorrat, schmalz, talg, ranz
+**Band/Domäne:** Band 7 — Vorrat & Konservierung · **Seitenziel:** 5–7 S. · **Tags:** vorrat, schmalz, talg, ranz
 
 ## Ziel
 Aus Schlachtfett bei niedriger Hitze Schmalz/Talg auslassen, klären und luftdicht kühl-dunkel lagern; ranziges Fett erkennen und wegwerfen.
@@ -30,15 +30,13 @@ Aus Schlachtfett bei niedriger Hitze Schmalz/Talg auslassen, klären und luftdic
 Keine Warnpflicht. Ranz-Warnung funktional: ranziges Fett ist gesundheitsschädlich — wegwerfen.
 
 ## Siehe auch
-ART-0197 (Verderb/Ranz), ART-0203 (Öl-Einlagen, warn-7b), ART-0209 (Kammer), ART-0216 (Feinde Luft/Licht), ART-0217 (Seife aus Resten), ART-0212 (Salzen).
+ART-0197 (Verderb/Ranz), ART-0203 (Öl-Einlagen), ART-0209 (Kammer), ART-0216 (Feinde Luft/Licht), ART-0217 (Seife aus Resten), ART-0212 (Salzen).
 
 ## Übungsbezug
-Aus einem Pfund Reste-Fett Schmalz auslassen, Ausbeute gegen die Tafel halten (01-B7 T60 Nr. 6; review-v7 CL-B7-13).
+Übe das Auslassen einmal pro Schlacht-Saison im September: Ausbeute je Pfund Fett notieren und mit den Richtwerten oben vergleichen.
 
 ## Mini-Glossar
 - **Auslassen:** Fett in sanfter Wärme schmelzen und klären (Wasser und Grieben scheiden).
 - **Flomen:** Innenfett des Schweins — bester Schmalz-Posten. **Grieben:** ausgebratene Fettstücke (Knusper-Ware).
 - **Ranz:** Oxidation von Fett durch Luft/Licht.
 
-## Quellen
-review-v7 K 7.1 + CL-B7-13; 01-recherche.md Band 7 T29/T34/T35/T37/T43/T44/T58 [29cd074c #146]; 02-factcheck.md Band-7-Ampel K 7.1 grün. C2-R11 (Ausbeuten plausibel). C2: ART-0201 grün.

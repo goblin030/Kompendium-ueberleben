@@ -1,15 +1,13 @@
 # ART-0232 — Wie erkenne ich Vergiftungen (Pflanzen/Pilze/Speisen/Tiere, Fristen)?
 
-**Band/Domäne:** Band 8 — Heilkunde · **Status:** Katalog → recherchiert (B2) → geprüft (C2) → geschrieben (D2) · **Ampel (C2):** grün · **P/M/V:** 7 / unbedenklich / 7 · **Seitenziel:** 5–7 S.
-**Quellen:** Konzept 5.1 (review-v7 Kap. 5.1) · Chat `[29cd074c #146]` (T29) · Querverweise warn-5/5b/6b · `22/23` ART-0232
-
+**Band/Domäne:** Band 8 — Heilkunde · **Seitenziel:** 5–7 S.
 ## Ziel
 Vergiftungen anhand von Quelle und Zeitfenster erkennen — Symptome treten je nach Gift nach Minuten bis Tagen auf.
 
 ## Material + Maße
 - Gift-Tafel des Reviers (in der Sanitätsmappe, ART-0243)
 - Reste-Sicherung: Glas/Beutel für Pflanze, Pilz, Erbrochenes, Speisenrest
-- Fristen-Tabelle (T29):
+- Fristen-Tabelle:
 
 | Quelle | Erste Symptome nach | Erste Spur |
 |---|---|---|
@@ -26,7 +24,7 @@ Vergiftungen anhand von Quelle und Zeitfenster erkennen — Symptome treten je n
 
 ## Varianten (Stadt / Land / Klima)
 - **Stadt:** 116 123 / 112 schnell; **Land:** Bote mit Restern und Blatt (ART-0223).
-- **Klima:** Sommer = Lebensmittelverderb schneller (Band 7, ART-0198); Herbst = Pilz-/Pflanzensaison (ART-0143, ART-0162).
+- **Klima:** Sommer = Lebensmittelverderb schneller (ART-0198); Herbst = Pilz-/Pflanzensaison (ART-0143, ART-0162).
 
 ## Typische Fehler + Folgen
 | Fehler | Folge |
@@ -36,14 +34,14 @@ Vergiftungen anhand von Quelle und Zeitfenster erkennen — Symptome treten je n
 | Reste nicht sichern | keine Analyse möglich, Fehldiagnose |
 
 ## Warnungen
-Querverweise: warn-5 (Giftpflanzen, ART-0143), warn-5b (Pilze, ART-0162), warn-6b (Tiere/Tollwut). Behandlung: ART-0235.
+Querverweise: (Giftpflanzen, ART-0143), (Pilze, ART-0162), (Tiere/Tollwut). Behandlung: ART-0235.
 
 ## Siehe auch
-ART-0235 (Vergiftung handeln) · ART-0143 (Giftpflanzen, Band 5) · ART-0162 (Pilze, Band 5) · ART-0198 (verdorbene Lebensmittel, Band 7) · ART-0227 (Insektenstiche)
+ART-0235 (Vergiftung handeln) · ART-0143 (Giftpflanzen) · ART-0162 (Pilze) · ART-0198 (verdorbene Lebensmittel) · ART-0227 (Insektenstiche)
 
 ## Übungsbezug
-Gift-Tafel des Reviers mit der Gruppe durchgehen — 1× jährlich (review-v7 Anhang C). Verfalluhr 12 Monate (ART-0035).
+Üben: 1× jährlich — die Gift-Tafel des eigenen Umfelds mit der Gruppe durchgehen (Pflanzen, Pilze, Speisen, Tiere, Fristen).
 
 ## Mini-Glossar
 - **Latenz** = Zeit zwischen Giftkontakt und ersten Symptomen.
-- **Amatoxine** = hitzestabile Pilzgifte (Knollenblätterpilz) — Abkochen hilft nicht (W16).
+- **Amatoxine** = hitzestabile Pilzgifte (Knollenblätterpilz) — Abkochen hilft nicht.

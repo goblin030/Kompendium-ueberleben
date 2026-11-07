@@ -1,9 +1,7 @@
 # ART-0145 — Wie färbe ich Textilien mit Pflanzen (Beize)?
 
-**Band:** 5 (Botanik) · **Seitenziel:** 5–7 S. · **Ampel (C2):** grün · P 7 / M unbedenklich / V 8
-**Konzept:** review-v7 7.3 Färbe-Pflanzen · **Quellen:** 22-recherche-artikel/band-05.md §ART-0145; 01-recherche.md Band 5 T39 `[29cd074c #146, 2026-10-17T06:37:07.974Z]`; C2 grün
+**Band:** 5 (Botanik) · **Seitenziel:** 5–7 S.
 **Tags:** botanik, faerben, textilien, beize, farbstoffe
-**AUFLAGE (C2-L6):** Beize-Rezepturen (g Alaun/Eisen je l Wasser) und Sicherheitshinweise (Augen/Haut) fehlen — editor/fachlektor ergänzt vor Druck.
 
 ## 1. Ziel
 Textilien mit Pflanzenfarbstoffen haltbar einfärben: Farbstoffe binden erst **mit Beize** an der Faser — ohne Beize wäscht die erste Wäsche die Farbe aus.
@@ -37,7 +35,7 @@ Färbepflanzen-Tabelle (Farbe auf Wolle): Zwiebel-Schalen (ganzjährig, Braun–
 Keine Warnbox. Achtung: Alaun/Eisen reizen Haut/Augen — Rezepturen siehe Auflage oben.
 
 ## 7. Siehe auch
-ART-0149 (Fasern gewinnen), ART-0146 (Bast), ART-0124 (Textilpflege, Band 4)
+ART-0149 (Fasern gewinnen), ART-0146 (Bast), ART-0124 (Textilpflege)
 
 ## 8. Mini-Glossar
 - **Beize:** Vorbad (Alaun/Eisen/asche), das den Farbstoff an der Faser hält — die Hälfte der Färberei
@@ -45,4 +43,4 @@ ART-0149 (Fasern gewinnen), ART-0146 (Bast), ART-0124 (Textilpflege, Band 4)
 - **farbecht:** widersteht dem Waschen (nur mit Beize)
 
 ## 9. Übungsbezug
-Übungsjahr Juni (Irland): Färbe-Tag mit Zwiebel-Schalen. Erfolg: Probe-Strang nach 1. Wäsche Farbe behalten. 3× wiederholen, Protokoll, Verfalluhr 12 Monate.
+Üben im Juni (Irland: Färbe-Tag): 1× pro Jahr einen Probestrang färben, waschen und auf Farbechtheit prüfen.

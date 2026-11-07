@@ -1,10 +1,8 @@
 # ART-0245 — Wie reinige und schließe ich eine Wunde?
 
-**Band/Domäne:** Band 8 — Heilkunde · **Status:** Katalog → recherchiert (B2) → geprüft (C2) → geschrieben (D2) · **Ampel (C2):** grün + Warnrahmen voll verifiziert (STIKO, ≥4 Quellen) · **P/M/V:** 8 / unbedenklich / 8 · **Seitenziel:** 8–10 S. · **WARNPFLICHT**
-**Quellen:** Konzept 2.2 (review-v7 Kap. 2.2) · Chat `[29cd074c #146]` WARN 1 · 02-factcheck W12 · RKI/STIKO + impfakademie + Merck/CDC (Abruf 2026-11-06/07) · `22/23` ART-0245
+**Band/Domäne:** Band 8 — Heilkunde · **Seitenziel:** 8–10 S.
 
-> **WARNRAHMEN [warn-8a] — TETANUS (W12, 09 Nr. 3, verschärft; C2 verifiziert):** **Risikowunden** = verschmutzt, tief, Stich, Biss, Quetschung, Verbrennung, Erfrierung, nekrotisches Gewebe. Maßnahmen: **ausgiebig mit sauberem (gesottenem) Wasser spülen** (ART-0062), Fremdkörper entfernen, **offen halten** — nicht luftdicht verschließen (Sauerstoff hemmt C. tetani). **Booster-Regeln (STIKO):** letzte Td-Auffrischung > 10 J oder unklar → Booster; Risikowunde + letzte Impfung > 5 J → Booster; unvollständiger Impfschutz → **TIG, ärztlich** (ART-0234). Impfstoff kühlkettenpflichtig **2–8 °C** (ART-0236) — ohne Kühlung nach Tagen nicht mehr verlässlich.
-
+> **Warnung — Tetanus (STIKO):** **Risikowunden** = verschmutzt, tief, Stich, Biss, Quetschung, Verbrennung, Erfrierung, nekrotisches Gewebe. Maßnahmen: **ausgiebig mit sauberem (gesottenem) Wasser spülen** (ART-0062), Fremdkörper entfernen, **offen halten** — nicht luftdicht verschließen (Sauerstoff hemmt C. tetani). **Booster-Regeln (STIKO):** letzte Td-Auffrischung > 10 J oder unklar → Booster; Risikowunde + letzte Impfung > 5 J → Booster; unvollständiger Impfschutz → **TIG, ärztlich** (ART-0234). Impfstoff kühlkettenpflichtig **2–8 °C** (ART-0236) — ohne Kühlung nach Tagen nicht mehr verlässlich.
 ## Ziel
 Wunden sauber versorgen und das Tetanus-Risiko aktiv ausschließen.
 
@@ -18,11 +16,11 @@ Wunden sauber versorgen und das Tetanus-Risiko aktiv ausschließen.
 2. Wunde ausgiebig mit gesottenem Wasser spülen.
 3. Fremdkörper mit sauberer Pinzette entfernen.
 4. **Risikowunde: offen lassen**, lockerer Verband — nicht luftdicht.
-5. Impfstatus erfragen; Booster-Regeln anwenden (Warnrahmen / ART-0234).
+5. Impfstatus erfragen; Booster-Regeln anwenden.
 6. Protokoll führen; Abgabe bei Grenze (ART-0225/ART-0223).
 
 ## Varianten (Stadt / Land / Klima)
-- Nur gesottenes Wasser — überall, Stadt wie Land (ART-0062: 1 min sprudelnd, ab 2.000 m 3 min — W3).
+- Nur gesottenes Wasser — überall, Stadt wie Land (ART-0062: 1 min sprudelnd, ab 2.000 m 3 min —).
 - **Klima:** Tropen = höheres Infektionsrisiko, Wunde öfter kontrollieren (ART-0244).
 
 ## Typische Fehler + Folgen
@@ -34,13 +32,13 @@ Wunden sauber versorgen und das Tetanus-Risiko aktiv ausschließen.
 | Impfstatus nicht prüfen | fehlender Booster bei Risikowunde |
 
 ## Warnungen
-> **warn-8a (WARNPFLICHT):** „Schmutzige Wunde offen halten und impfen lassen — Wundstarrkrampf ist tödlich und vermeidbar.“ (review-v7 Baustein)
+> „Schmutzige Wunde offen halten und impfen lassen — Wundstarrkrampf ist tödlich und vermeidbar.“
 
 ## Siehe auch
-ART-0234 (Impfschutz/Tetanus) · ART-0236 (Kühlkette) · ART-0244 (heilende Wunde) · ART-0062 (Abkochen, Band 2) · ART-0229 (Desinfektion) · ART-0181 (Trichinen/Tollwut, Band 6)
+ART-0234 (Impfschutz/Tetanus) · ART-0236 (Kühlkette) · ART-0244 (heilende Wunde) · ART-0062 (Abkochen) · ART-0229 (Desinfektion) · ART-0181 (Trichinen/Tollwut)
 
 ## Übungsbezug
-„Wundversorgung nach warn-8a“ (review-v7 Anhang C): 2× — Risikowunde gespült + offen gehalten, Booster-Regeln abgefragt. Verfalluhr 12 Monate (ART-0035).
+Üben: 2× jährlich — Wundversorgung am Modell: mit abgekochtem Wasser spülen, Risikowunde offen halten, Impfstatus abfragen.
 
 ## Mini-Glossar
 - **Risikowunde** = verschmutzt/tief/Stich/Biss/Quetschung/Verbrennung/Erfrierung/nekrotisch.

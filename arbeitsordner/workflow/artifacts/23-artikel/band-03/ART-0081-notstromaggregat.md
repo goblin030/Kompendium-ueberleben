@@ -1,9 +1,6 @@
 # ART-0081 — Wie betreibe ich ein Notstromaggregat sicher (nur außerhalb des Hauses)?
 
-**Band 3 (Feuer & Wärme)** · **Seitenziel:** 8–10 S. · **Ampel (C2):** grün + Warnrahmen · **P/M/V:** 7 / unbedenklich / 8 · **WARNPFLICHT: JA — warn-3 (CO)**
-**Quellen:** 18-recherche-blackout.md §4.12 (S2 survival-kompass.de/blackout, Abruf 2026-11-07) · 19-factcheck-blackout.md **BW32 grün + Warnrahmen** (DGUV/Feuerwehr) · `02-factcheck.md` **W14 grün + Warnrahmen** · Web 2026-11-07 (BBK via kwhready.com): nur gut belüfteter trockener Platz im Freien; nie Innenräume; Tanken bei abgestelltem Motor; Keller max. 10 kg Benzin / 20 kg Diesel; Einspeisung nur durch Elektrofachbetrieb
-
-> **WARNRAHMEN [warn-3] — KOHLENMONOXID (CO), geruchlos, tödlich (W14, 09 Nr. 2, verschärft):** Ein Aggregat darf **nie in geschlossenen oder teilgeschlossenen Räumen** betrieben werden — **nicht in Wohnung, Garage, Keller, Schuppen, Zelt**. Nur an einem **gut belüfteten, trockenen Platz im Freien**, Abgase vom Haus weg. **Nie über Nacht unbeaufsichtigt laufen lassen.** Tanken nur bei **abgestelltem, abgekühltem Motor** (verschütteter Kraftstoff + heiße Teile = Brandgefahr). Symptome bei mehreren Personen gleichzeitig (Kopfschmerz, Schwindel, Übelkeit, Benommenheit) = **Alarm**: sofort Frischluft, alle raus, Sperrung bis geprüft. CO-Melder (Batterie) in angrenzenden Räumen — siehe ART-0089.
+> **WARNUNG — KOHLENMONOXID (CO), geruchlos, tödlich:** Ein Aggregat darf **nie in geschlossenen oder teilgeschlossenen Räumen** betrieben werden — **nicht in Wohnung, Garage, Keller, Schuppen, Zelt**. Nur an einem **gut belüfteten, trockenen Platz im Freien**, Abgase vom Haus weg. **Nie über Nacht unbeaufsichtigt laufen lassen.** Tanken nur bei **abgestelltem, abgekühltem Motor** (verschütteter Kraftstoff + heiße Teile = Brandgefahr). Symptome bei mehreren Personen gleichzeitig (Kopfschmerz, Schwindel, Übelkeit, Benommenheit) = **Alarm**: sofort Frischluft, alle raus, Sperrung bis geprüft. CO-Melder (Batterie) in angrenzenden Räumen — siehe ART-0089.
 
 ## Ziel
 Bei Stromausfall kurzzeitig Strom erzeugen — ohne Leben zu riskieren. Sicherheit (CO, Brand) geht vor Komfort.
@@ -33,10 +30,10 @@ Bei Stromausfall kurzzeitig Strom erzeugen — ohne Leben zu riskieren. Sicherhe
 | Direkter Anschluss an Hausinstallation ohne Fachbetrieb | Lebensgefahr (Rückspannung ins Netz) | nur Elektrofachbetrieb |
 
 ## Warnungen
-WARNRAHMEN warn-3 oben beachten — CO + Brandgefahr durch Kraftstoff.
+Die WARNUNG oben ist verbindlich — CO und Brandgefahr durch Kraftstoff.
 
 ## Siehe auch
-ART-0089 (CO-Melder), ART-0088 (Notheizung ohne Ofen), ART-0091 (Kochen ohne Strom), ART-0080 (Licht), ART-0037 (Geräte beim Wiederanlaufen, Band 1)
+ART-0089 (CO-Melder), ART-0088 (Notheizung ohne Ofen), ART-0091 (Kochen ohne Strom), ART-0080 (Licht), ART-0037
 
 ## Mini-Glossar
 - **Stromerzeuger/Aggregat:** Verbrennermotor + Generator; produziert Abgas (CO!) und Lärm.
@@ -44,4 +41,4 @@ ART-0089 (CO-Melder), ART-0088 (Notheizung ohne Ofen), ART-0091 (Kochen ohne Str
 - **Rückspannung:** tödliche Gefahr bei unsachgemäßem Hausanschluss.
 
 ## Übungsbezug
-Blackout-Drill (ART-0039): Aggregat einmal pro Jahr probeweise im Freien starten, Last zuschalten, Abschaltung üben — mit CO-Melder im Haus. Protokoll ART-0035.
+Üben: einmal im Jahr das Aggregat probeweise an einem gut belüfteten Platz im Freien starten, eine Last zuschalten und sicher wieder abschalten — mit CO-Melder im Haus (ART-0089).

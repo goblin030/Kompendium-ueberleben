@@ -1,16 +1,13 @@
 # ART-0288 — Wie dokumentiere ich meinen Haushalt für Behörden und Versicherungen?
 
-**Band:** 10 — Tausch, Dorf & Blackout-Ergänzung · **Status:** D2-Entwurf · **Ampel (C2):** gelb · P 8 · M unbedenklich · V 8
-**Auflage (C2):** LÜCKE an legal — die Rechtswirkung „dokumentierte Vorsorge entkräftet den Grobe-Fahrlässigkeits-Einwand“ (krisenfall.eu) ist ungeprüft; im Artikel nur als Nachweis-/Beweismittel führen, nicht als Rechtsfolge.
-**Quelle:** neu recherchiert: 18-recherche-blackout.md §5.6 (K1/K2, BBK) · Recherche: `22-recherche-artikel/band-10.md` · Factcheck: `23-factcheck-artikel/band-10.md`
-**Seitenziel:** 5–7 S. · **Warnpflicht:** nein · **Abb.:** TODO Phase F2
+**Band:** 10 — Tausch, Dorf & Blackout-Ergänzung · **Status:** freigegeben · **Seitenziel:** 5–7 S. · **WARNPFLICHT:** nein · **Abb.:** art-SVG Band 10
 
 ## Ziel
 Haushalt und Vorsorge so dokumentieren, dass bei Behörden und Versicherungen nach einem Schadens-/Krisenfall nachvollziehbar ist, was vorhanden war und welche Vorsorge getroffen wurde — alles in Papierform, wasserdicht, ohne Strom lesbar.
 
 ## Material + Maße
 - Wasserdichte Hülle/Box (oder laminierte Blätter) — Kopien von: Personalausweis/Reisepass, Versicherungsunterlagen, Impfpass, Medikamentenliste (Name/Dosis/Zeit — siehe ART-0301), ärztliche Kurzinfo (Chronik, Allergien), Notfallkontakte in Schriftform
-- Vorsorge-Checkliste mit abgehakten Punkten + Datum (z. B. PDF-Export des krisenfall.eu-Tools, https://krisenfall.eu/tools/blackout-checkliste, Abruf 2026-11-07) als Nachweis der getroffenen Maßnahmen
+- Vorsorge-Checkliste mit abgehakten Punkten + Datum (z. B. PDF-Export einer Online-Checkliste) als Nachweis der getroffenen Maßnahmen
 - Zweite Kopie außerhalb des Hauses (Verwandte, anderer Stadtteil)
 - Bargeld in kleinen Scheinen gehört in dieselbe Mappe (ART-0296)
 
@@ -22,7 +19,7 @@ Haushalt und Vorsorge so dokumentieren, dass bei Behörden und Versicherungen na
 5. Nach dem Ereignis: Schäden dokumentieren (Fotos auf Speicherkarte + Notizen auf Papier mit Datum), Protokoll (ART-0011).
 
 ## Varianten (Stadt / Land / Klima)
-- **Stadt:** zweite Kopie bei Verwandten im anderen Stadtteil ( gleitende Erreichbarkeit); Digitalkopie auf USB-Stick in der wasserdichten Box.
+- **Stadt:** zweite Kopie bei Verwandten im anderen Stadtteil (gleitende Erreichbarkeit); Digitalkopie auf USB-Stick in der wasserdichten Box.
 - **Land:** zweite Kopie im Nachbarhaus; Bankschließfach nur als Ergänzung (Öffnungszeiten können ausfallen).
 - **Klima:** Feuchtigkeit/Schimmel zerstört Papier → dicht, trocken, erhöht lagern.
 
@@ -34,13 +31,13 @@ Haushalt und Vorsorge so dokumentieren, dass bei Behörden und Versicherungen na
 | Checkliste nie aktualisiert | Nachweis lückenhaft | Datum + Unterschrift je Eintrag (ART-0035) |
 
 ## Warnungen
-Keine eigene Warnpflicht. Hinweis: Dokumentation ist Beweismittel, keine Rechtsberatung — bei Deckungsfragen Versicherung/legal konsultieren (LÜCKE → legal).
+Keine eigene Warnpflicht. Hinweis: Dokumentation ist Beweismittel, keine Rechtsberatung — bei Deckungsfragen Versicherung konsultieren.
 
 ## Siehe auch
 ART-0030 (Notfallrucksack), ART-0035 (Protokoll), ART-0011 (24-h-Protokoll), ART-0296 (Bargeld), ART-0301 (Medikamente), ART-0236 (Insulin kühl), ART-0006 (Radio)
 
 ## Übungsbezug
-Halbjährlich: Mappe prüfen (vollständig? wasserdicht? zweite Kopie aktuell?); Erfolg: alle 5 Dokumenttypen vorhanden, Checkliste datiert; protokollieren (ART-0035).
+Üben: halbjährlich die Dokumentenmappe prüfen — vollständig, wasserdicht verpackt, zweite Kopie außerhalb des Hauses aktuell.
 
 ## Mini-Glossar
 - **Dokumentenmappe:** wasserdichte Mappe mit allen wichtigen Kopien, griffbereit im Rucksack.

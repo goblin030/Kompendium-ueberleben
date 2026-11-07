@@ -1,9 +1,7 @@
 # ART-0055 — Wie fange ich Regenwasser auf (First-Abwurf-Pflicht)?
 
-**Band:** 2 (Wasser) · **Enzyklopaedie v2, Phase D2** · **Seitenziel:** 5-7 S.
-**Ampel (C2, `artifacts/23-factcheck-artikel/band-02.md`):** gruen · **P/M/V:** P 9 / M unbedenklich / V 9
+**Band:** 2 (Wasser) · Enzyklopaedie v2
 **Tags:** wasser, regenwasser, first
-**Quellen:** Konzept 3.2 (review-v7); W8 (02-factcheck.md); C2: First-Abwurf 5-10 l/10 m2 = 0,5-1 l/m2 handelsüblich, konservativ vs. 0,2-0,4 l/m2 (W-D1, Abruf 2026-11-07); Chat [29cd074c #146] Abb. 3.2, Fehlerliste Nr. 6
 
 ## Ziel
 
@@ -27,9 +25,9 @@ Du lernst, Regenwasser sicher aufzufangen: Dachflaeche reinigen, First-Abwurf (e
 
 ## Varianten (Stadt / Land / Klima)
 
-- **Land:** Rinne -> Filter -> Tank (volle Dachflaeche).
+- **Land:** Rinne → Filter → Tank (volle Dachflaeche).
 - **Stadt:** Balkon/Innenhof/Fensterbank — deutlich kleinerer Ertrag, mehr Behaelter, oefter sammeln.
-- **Klima:** Sturm — Dach/Behaelter danach pruefen (Januar-Uebung, Anhang C).
+- **Klima:** Sturm — Dach/Behaelter danach pruefen.
 
 ## Typische Fehler + Folgen
 
@@ -54,7 +52,6 @@ ART-0048 (Ertrag), ART-0075 (Behaelter), ART-0074 (Wiederverseuchung), ART-0064 
 
 ## Uebungsbezug
 
-Regen-Auffangkette 1x aufbauen + First-Abwurf-Uebung (April, Anhang C); Erfolgskontrolle: First-Abwurf durchgefuehrt, Behaelter sauber+lebensmittelecht (CL-B2-07). Uebungsrhythmus lt. Anhang C Band 2: mind. 3x hintereinander (V<6: 5x), 45-90 min pro Einheit, max. 2 Einheiten/Tag; messbares Erfolgskriterium notieren; Abbruch bei Verletzung/Wetterumschwung/Materialbruch; Protokoll nach B1-8.2 (Datum, Wiederholungen, Zeit, Beobachtung, Verfalldatum +12 Monate).
+Üben: Regen-Auffangkette 1x aufbauen + First-Abwurf-Uebung. Erfolgskontrolle: First-Abwurf durchgefuehrt, Behaelter sauber+lebensmittelecht. Rhythmus: mindestens 3× hintereinander, 45–90 Minuten pro Einheit, höchstens 2 Einheiten pro Tag.
 
----
-*ART-0055 — erstellt in Phase D2 (editor), Agent research-b02, 2026-11-07. Ampel C2: gruen. Migriert aus review-v7 (`04-redaktion-band-02.md`) + Recherche (`22-recherche-artikel/band-02.md`) + Factcheck (`23-factcheck-artikel/band-02.md`).*
+*ART-0055 — Band 2 (Wasser), Enzyklopaedie v2.*

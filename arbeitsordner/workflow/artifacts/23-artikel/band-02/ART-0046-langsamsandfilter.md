@@ -1,9 +1,7 @@
 # ART-0046 — Wie baue ich einen Langsamsandfilter (40-60 cm Sand, Reife, Nachkochen)?
 
-**Band:** 2 (Wasser) · **Enzyklopaedie v2, Phase D2** · **Seitenziel:** 5-7 S.
-**Ampel (C2, `artifacts/23-factcheck-artikel/band-02.md`):** gruen · **P/M/V:** P 7 / M unbedenklich / V 7
+**Band:** 2 (Wasser) · Enzyklopaedie v2
 **Tags:** wasser, langsamsandfilter, sand, reife
-**Quellen:** Konzept 7.1 (review-v7); W10 (02-factcheck.md: CAWST, WHO HWTS, Eawag); Chat [29cd074c #146] T25 (Wartung), Abb. 7.1
 
 ## Ziel
 
@@ -43,7 +41,7 @@ Du lernst, einen biologisch wirkenden Sandfilter zu bauen und zu warten: 40-60 c
 
 ## Warnungen
 
-- Nachkoch-Pflicht trotz Filter (W10).
+- Nachkoch-Pflicht trotz Filter.
 
 ## Siehe auch
 
@@ -56,7 +54,6 @@ ART-0061 (Klaeren), ART-0062 (Abkochen), ART-0050 (Beurteilen)
 
 ## Uebungsbezug
 
-Filter 1x bauen; Erfolgskontrolle: 40-60 cm Sand, Wasserstand >= 5 cm ueber Sand, Durchfluss messbar (CL-B2-19). Uebungsrhythmus lt. Anhang C Band 2: mind. 3x hintereinander (V<6: 5x), 45-90 min pro Einheit, max. 2 Einheiten/Tag; messbares Erfolgskriterium notieren; Abbruch bei Verletzung/Wetterumschwung/Materialbruch; Protokoll nach B1-8.2 (Datum, Wiederholungen, Zeit, Beobachtung, Verfalldatum +12 Monate).
+Üben: Filter 1x bauen. Erfolgskontrolle: 40-60 cm Sand, Wasserstand >= 5 cm ueber Sand, Durchfluss messbar. Rhythmus: mindestens 3× hintereinander, 45–90 Minuten pro Einheit, höchstens 2 Einheiten pro Tag.
 
----
-*ART-0046 — erstellt in Phase D2 (editor), Agent research-b02, 2026-11-07. Ampel C2: gruen. Migriert aus review-v7 (`04-redaktion-band-02.md`) + Recherche (`22-recherche-artikel/band-02.md`) + Factcheck (`23-factcheck-artikel/band-02.md`).*
+*ART-0046 — Band 2 (Wasser), Enzyklopaedie v2.*

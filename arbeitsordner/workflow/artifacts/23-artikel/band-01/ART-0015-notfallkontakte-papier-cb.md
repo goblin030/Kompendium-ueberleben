@@ -1,8 +1,6 @@
 # ART-0015 — Wie halte ich Notfallkontakte ohne Netz griffbereit (Papier, CB-Funk)?
 
-**Band:** 1 (Grundlagen & Blackout/Urban) · **Status:** geschrieben (D2) · **Ampel:** grün (C2: P 8 / M unbedenklich / V 8)
-**Quelle:** 18-recherche §5.5; BW22/BL8; C2: CB-Reichweite geklärt (12db.de, 2026-11-07)
-**Seitenziel:** 6–8 S. · **Tags:** kommunikation, familie, notfallkontakte
+**Band:** 1 — Grundlagen & Blackout/Urban · **Tags:** kommunikation, familie, notfallkontakte
 
 ## Ziel
 
@@ -21,11 +19,11 @@ Du hast alle wichtigen Kontakte auch ohne Handynetz griffbereit: laminierte Papi
 2. Laminieren, im Rucksack + zuhause deponieren.
 3. CB-Funk: Kanal/Ortsruf-Runde mit Angehörigen vereinbaren (Handgerät 1–5 km, Mobilgerät 10–30 km, Feststation bis 80 km — geländeabhängig).
 4. Achtung: Handmikrofon am Steuer seit 01.07.2021 verboten (wie Handy, 100 €) — Freisprechen nutzen.
-5. Mobilfunk nur 4–8 h nach Blackout (BL4) — Papierliste ist der garantierte Kanal.
+5. Mobilfunk nur 4–8 h nach Blackout — Papierliste ist der garantierte Kanal.
 
 ## Varianten (Stadt / Land / Klima)
 
-- **Stadt:** Nachbarschaftsnetz dichter (Band 10).
+- **Stadt:** Nachbarschaftsnetz dichter (siehe ART-0284).
 - **Land:** CB-Funk als Brücke zwischen Anwesen (Reichweite siehe oben).
 - **Senioren:** großes Tasten-Telefon, programmierte Nummern.
 
@@ -54,11 +52,11 @@ Du hast alle wichtigen Kontakte auch ohne Handynetz griffbereit: laminierte Papi
 |---|---|
 | CB-Funk | Citizen Band — genehmigungsfreier Funk, 80 Kanäle, 26/27 MHz |
 | Laminieren | Papier in Folie einschweißen — wasserfest |
-| BL4 | Planungswert Mobilfunk-Notstrom 4–8 h |
+| | Planungswert Mobilfunk-Notstrom 4–8 h |
 
 ## Übungsbezug
 
-Liste aktualisieren + laminieren (halbjährlich mit Rucksack-Prüfung, CL-B1-04); CB-Funk-Test mit Partner auf Sichtweite 1–5 km.
+Üben: halbjährlich die Kontaktliste aktualisieren und einen CB-Funk-Test mit einem Partner auf Sichtweite machen. Ziel: Liste laminiert griffbereit, Funkverbindung steht.
 
 ---
-*ART-0015 — Enzyklopaedie v2, Band 1. Ampel grün (C2-factcheck 2026-11-07). review-v7 migriert; nur gruene/gelbe Inhalte.*
+*ART-0015 — Enzyklopaedie v2, Band 1 (Grundlagen & Blackout/Urban).*

@@ -1,8 +1,6 @@
 # ART-0023 — Wie messe ich Mengen ohne Waage (EL/TL/20 Tropfen, kg ≠ l)?
 
-**Band:** 1 (Grundlagen & Blackout/Urban) · **Status:** geschrieben (D2) · **Ampel:** grün (C2: P 8 / M unbedenklich / V 9)
-**Quelle:** Konzept B1-7.2 (review-v7 Kap. 7.2); W31 grün; C2: EL 15 ml standardisiert, 20 Tropfen ≈ 1 ml bestätigt (2026-11-07)
-**Seitenziel:** 5–7 S. · **Tags:** grundlagen, mengen, waage
+**Band:** 1 — Grundlagen & Blackout/Urban · **Tags:** grundlagen, mengen, waage
 
 ## Ziel
 
@@ -19,7 +17,7 @@ Du dosierst Mengen ohne Waage zuverlässig mit Haushaltsmaßen — und beachtest
 2. TL ≈ 5 ml.
 3. 20 Tropfen Wasser ≈ 1 ml (Tropfen ~ 0,05 ml — je nach Tropfer/Flüssigkeit variiert).
 4. kg ≠ l: 1 l Wasser = 1 kg; Öl, Mehl, Reis weichen ab (Dichte).
-5. Löffel für Dosierungen (z. B. Chlor, Band 2) markieren.
+5. Löffel für Dosierungen (siehe ART-0052) markieren.
 
 ## Varianten (Stadt / Land / Klima)
 
@@ -30,7 +28,7 @@ Du dosierst Mengen ohne Waage zuverlässig mit Haushaltsmaßen — und beachtest
 
 | Fehler | Folge |
 |---|---|
-| kg mit l verwechseln | Falsche Mengen bei Dosierungen — bei Chlor oder Medikamenten gefährlich (Band 2 warn-2; Band 8) |
+| kg mit l verwechseln | Falsche Mengen bei Dosierungen — bei Chlor oder Medikamenten gefährlich (siehe ART-0052, ART-0240) |
 | Unmarkierte Löffel verwenden | Systematischer Dosierfehler |
 
 ## Warnungen
@@ -40,7 +38,7 @@ Du dosierst Mengen ohne Waage zuverlässig mit Haushaltsmaßen — und beachtest
 ## Siehe auch
 
 - ART-0024 (Körpermaß)
-- Band 2: ART-0052 (Chlor-Desinfektion, warn-2)
+- ART-0052 (Chlor-Desinfektion)
 - ART-0036 (Zeit)
 
 ## Mini-Glossar
@@ -53,7 +51,7 @@ Du dosierst Mengen ohne Waage zuverlässig mit Haushaltsmaßen — und beachtest
 
 ## Übungsbezug
 
-Messübung: 10× 1 EL Wasser in Messbecher — Erfolg: Abweichung < 20 %; Protokoll ART-0035.
+Üben: monatlich 10× 1 EL Wasser abmessen. Ziel: Abweichung unter 20 %.
 
 ---
-*ART-0023 — Enzyklopaedie v2, Band 1. Ampel grün (C2-factcheck 2026-11-07). review-v7 migriert; nur gruene/gelbe Inhalte.*
+*ART-0023 — Enzyklopaedie v2, Band 1 (Grundlagen & Blackout/Urban).*

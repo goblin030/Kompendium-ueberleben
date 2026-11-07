@@ -1,7 +1,6 @@
 # ART-0161 — Wie sammle ich Nüsse und läutere sie (Eicheln, Bucheckern, 3–10 T Wasser)?
 
-**Band:** 5 (Botanik) · **Seitenziel:** 5–7 S. · **Ampel (C2):** grün · P 7 / M unbedenklich / V 8
-**Konzept:** review-v7 5.2 Nüsse & Läuterung · **Quellen:** 22-recherche-artikel/band-05.md §ART-0161; 01-recherche.md Band 5 T26 + Abb. 5.2 `[29cd074c #146, 2026-10-17T06:37:07.974Z]`; C2 grün (Eicheln „mehrere Tage wässern“ + Fagin verifiziert 2026-11-07)
+**Band:** 5 (Botanik) · **Seitenziel:** 5–7 S.
 **Tags:** botanik, nuesse, laeutern, eicheln, buchecker, fagin
 
 ## 1. Ziel
@@ -21,7 +20,7 @@ Herbst-Stärke nutzbar machen: Eicheln, Kastanien, Bucheckern enthalten Gerbstof
 6. Samen (Löwenzahn/Ampfer Jul–Sep): Rispen abreiben, sieben, rösten.
 
 ## 4. Varianten (Stadt / Land / Klima)
-- **Land:** Eiche/Buche (Mast — Band 6 Schwarzwild Sep), Hecken; **Stadt:** Parks (Kastanie, Rosskastanie), Gärten
+- **Land:** Eiche/Buche (Mast — Schwarzwild Sep), Hecken; **Stadt:** Parks (Kastanie, Rosskastanie), Gärten
 - **Klima:** Irland — Hafer/Wildobst an Hecken September; Eicheln Oktober–November
 - Kälte: Nüsse halten sich monatelang trocken
 
@@ -41,7 +40,7 @@ ART-0163 (Beeren), ART-0150 (Wildobst), ART-0147 (Dutzend — Kastanien-Samen nu
 ## 8. Mini-Glossar
 - **Läuterung:** Wässern der Nüsse (3–10 T, täglich wechseln), bis Gerbstoffe/Bitterstoffe raus sind
 - **Fagin:** giftiger Inhaltsstoff der Buchecker — roh in Menge schwach giftig, durch Läutern entfernbar
-- **Mast:** Eichel-/Buchecker-Fruchtfall — Zeit der Nuss-Ernte (und Band 6: Schwarzwild)
+- **Mast:** Eichel-/Buchecker-Fruchtfall — Zeit der Nuss-Ernte (und ART-0174)
 
 ## 9. Übungsbezug
-Übungsjahr September: Läuterungs-Kette einmal führen (ART-0161); Oktober Eichel-Läuterung. Erfolg: Wasser bleibt klar, Gaumen-Probe bestanden. Protokoll, Verfalluhr 12 Monate.
+Üben September/Oktober: 1× pro Jahr die Läuterungs-Kette führen — Wasser bleibt klar, Gaumen-Probe besteht.

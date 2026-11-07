@@ -1,8 +1,6 @@
 # ART-0190 — Wie verwerte ich Fell, Sehne und Knochen (Ganz-Verwertung)?
 
-**Band:** 6 — Jagd & Fischfang · **Status:** geschrieben (Phase D2) · **Ampel (C2):** grün · P 8 / M unbedenklich / V 8
-**Quelle:** Konzept 9.3 + review-v7 `04-redaktion-band-06.md` 9.3 + CL-B6-20; Chat Tab. 48; geprüft 23-factcheck-artikel/band-06.md
-**Seitenziel:** 5–7 S. · **Abb.:** – · **Warnung:** Handschuhe beim Ausnehmen (ART-0181)
+**Band:** 6 — Jagd & Fischfang
 
 ## Ziel
 Vom Fang nichts wegwerfen, was verwertbar ist: Fell, Sehnen, Knochen, Schwarte, Federn — jeder Teil bekommt einen Zielort (Ganz-Verwertung, ART-0174).
@@ -25,7 +23,7 @@ Vom Fang nichts wegwerfen, was verwertbar ist: Fell, Sehnen, Knochen, Schwarte, 
 - Nur das Fleisch nehmen, Rest liegen lassen → Ressource verloren, Aasfresser angelockt, Geruch.
 
 ## Warnungen
-Handschuhe beim Ausnehmen/Zerlegen (warn-6b, ART-0181/0173).
+Handschuhe beim Ausnehmen/Zerlegen (, ART-0181/0173).
 
 ## Siehe auch
 ART-0174 (ethisch jagen), ART-0181 (Zerwirken), ART-0189 (Federn), ART-0200 (Gerben Band 7), ART-0265 (Leim Band 9), ART-0176 (Kühlen)
@@ -37,4 +35,5 @@ ART-0174 (ethisch jagen), ART-0181 (Zerwirken), ART-0189 (Federn), ART-0200 (Ger
 - **Gerben:** Haltbarmachen von Fell (Lohe = gerbstoffhaltige Rinde).
 
 ## Übungsbezug
-Ein Tier (oder größeres Fangstück) vollständig in Teile zerlegen und jedem Teil einen Zielort zuweisen; Erfolg: CL-B6-20 abgehakt.
+
+Üben: ein Stück vollständig zerlegen und jedem Teil einen Zielort zuweisen — bei jedem Stück Wild.

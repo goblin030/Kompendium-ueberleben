@@ -1,6 +1,6 @@
 # ART-0208 — Wie mache ich Lebensmittel haltbar (sechs Wege, Haltbarkeits-Tafeln)?
 
-**Band/Domäne:** Band 7 — Vorrat & Konservierung · **Seitenziel:** 5–7 S. · **Ampel (C2):** grün · **Warnpflicht:** nein (Einkochen/Öl → warn-7b bei ART-0203) · **Status:** geschrieben (D2) · **Tags:** vorrat, lebensmittel, haltbar, sechs
+**Band/Domäne:** Band 7 — Vorrat & Konservierung · **Seitenziel:** 5–7 S. · **Tags:** vorrat, lebensmittel, haltbar, sechs
 
 ## Ziel
 Den passenden Konservierungsweg je Ware wählen — **zwei Wege je Gut** (Haupt-Weg gegen den Feind, Neben-Weg gegen die Gäste; ein Weg allein ist Hoffnung).
@@ -24,20 +24,18 @@ Den passenden Konservierungsweg je Ware wählen — **zwei Wege je Gut** (Haupt-
 
 ## Typische Fehler + Folgen
 - Einen Weg allein reiten (nur geräuchert, nicht gesalzen) → erste warme Woche räumt den halben Speicher.
-- Fleisch im Wasserbad einkochen → Botulismus (warn-7b, ART-0203).
+- Fleisch im Wasserbad einkochen → Botulismus (ART-0203).
 
 ## Warnungen
-Einkochen low-acid → **WARNPFLICHT warn-7b** (ART-0203); Öl-Einlagen → warn-7b (ART-0203).
+Einkochen low-acid → **WARNPFLICHT ** (ART-0203); Öl-Einlagen siehe ART-0203.
 
 ## Siehe auch
 ART-0218/0220 (Trocknen), ART-0213/0221 (Räuchern), ART-0212/0215 (Salzen/Pökeln), ART-0207 (Säuern), ART-0203 (Einkochen), ART-0209 (Kammer), ART-0197 (Verderb), ART-0211 (Fahrplan/Fenster).
 
 ## Übungsbezug
-Jeden Posten des eigenen Regals auf zwei Wege prüfen (review-v7 CL-B7-02; 01-B7 T60 Nr. 2).
+Übe einmal pro Jahr: jeden Posten deines Vorrats auf zwei Konservierungswege prüfen (Hauptweg gegen den Feind, Nebenweg gegen die Gäste).
 
 ## Mini-Glossar
 - **Haltbarkeits-Uhr:** Tafel der sechs Wege — Monate je Weg, Ware und Klima.
 - **Zwei-Wege-Regel:** Haupt-Weg gegen den Feind, Neben-Weg gegen die Gäste.
 
-## Quellen
-review-v7 K 2.2 + Abb. 7.1; 01-recherche.md Band 7 T9/T10/T57/T59 [29cd074c #146]; 02-factcheck.md W25 + Band-7-Ampel K 2.2 grün; Web 2026-11-07: Dörr-Verlust 50–65 % (C2-R7). C2: ART-0208 grün.

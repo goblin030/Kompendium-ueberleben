@@ -1,15 +1,13 @@
 # ART-0120 — Wie lese ich Wetter und Wolken?
 
-**Band:** 4 (Unterkunft & Kleidung) · **Seitenziel:** 5–7 S. · **Status:** geschrieben (D2)
-**Ampel (C2):** grün · P 8 / M unbedenklich / V 8 · **Warnpflicht:** nein
-**Quelle:** Konzept B4-2.2 + review-v7 §2.2 + Band 1 4.4 (Zwei-Zeichen-Regel) + `22/23` band-04 ART-0120
-**Tags:** unterkunft, wetter, wolken · **Abb.:** – · **warn-N:** –
+**Band:** 4 (Unterkunft & Kleidung) · **Seitenziel:** 5–7 S.
+**Tags:** unterkunft, wetter, wolken · **Abb.:** –
 
 ## Ziel
 Wetter ohne Vorhersage einschätzen — mit der **Zwei-Zeichen-Regel**: zwei unabhängige Zeichen (Wolken + Wind) vor jeder Entscheidung, nie nur eines.
 
 ## Material + Maße
-- Wettertagebuch (30 Tage, Kopiervorlage Band 1 A.7): morgens/abends je 2 Zeichen, Prognose 6–24 h, Trefferquote
+- Wettertagebuch (30 Tage, Kopiervorlage Band 1): morgens/abends je 2 Zeichen, Prognose 6–24 h, Trefferquote
 - **Baufenster:** Wetterfenster zwischen zwei Fronten für schwere Bauarbeit — ehrlich lesen, nicht hoffen
 
 ## Schritte
@@ -39,4 +37,4 @@ ART-0021 (Zwei-Zeichen-Regel, Band 1) · ART-0126 (Bauplan/Baufenster) · ART-01
 - **Wärmeinsel:** Stadt ist nachts wärmer als das Umland — Wolkenbilder verschieben sich.
 
 ## Übungsbezug
-Wettertagebuch 30 Tage führen (Band 1 A.7). Erfolg: Trefferquote ≥ 70 % nach 30 Tagen.
+Üben: 30 Tage lang ein Wettertagebuch führen (zwei Zeichen, Prognose, Trefferquote). Im Frühjahr starten.

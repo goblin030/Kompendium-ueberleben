@@ -1,10 +1,8 @@
 # ART-0165 — Wie angle ich in städtischen Gewässern?
 
-**Band:** 6 — Jagd & Fischfang · **Status:** geschrieben (Phase D2) · **Ampel (C2):** gelb · P 6 / M unbedenklich / V 8
-**Quelle:** neu recherchiert (22-recherche-artikel/band-06.md; geprüft 23-factcheck-artikel/band-06.md); review-v7 `04-redaktion-band-06.md` 1.1/6.1; Web G15 (Abruf 2026-11-07)
-**Seitenziel:** 5–7 S. · **Abb.:** – · **Warnung:** Recht-Hinweis (kein Warnrahmen)
+**Band:** 6 — Jagd & Fischfang
 
-> **Auflage (gelb):** Kommunale Regeln (Entnahmemenge, Schonstreifen, Nachtangel-Verbote, freigegebene Ufer) sind je Stadt verschieden — vor dem ersten Ansitz bei der örtlichen Fischereibehörde klären (C2-LÜCKE → legal).
+**Hinweis:** Kommunale Regeln (Entnahmemenge, Schonstreifen, Nachtangel-Verbote, freigegebene Ufer) sind je Stadt verschieden — vor dem ersten Angeln bei der örtlichen Fischereibehörde klären.
 
 ## Ziel
 In städtischen Gewässern (Angelsteg, Hafenbecken, Stadtfluss) legal, sicher und erfolgreich angeln — auch ohne Strom (Gewässer sind pumpenunabhängig erreichbar).
@@ -25,7 +23,7 @@ In städtischen Gewässern (Angelsteg, Hafenbecken, Stadtfluss) legal, sicher un
 ## Varianten (Stadt / Land / Klima)
 - **Stadt:** Steg/Hafen/Stadtfluss; oft mit Wegebeleuchtung; im Blackout normal nutzbar.
 - **Land:** Bach, Teich, See — siehe ART-0168 (Reuse) und ART-0191 (Köder).
-- **Klima Irland/Atlantik:** Küstennahe Stadtgewässer mit Muschelfleisch-Köder (Jan–Feb, Nov–Dez) besser (C2/Tab. 32).
+- **Klima Irland/Atlantik:** Küstennahe Stadtgewässer mit Muschelfleisch-Köder (Jan–Feb, Nov–Dez) besser.
 
 ## Typische Fehler + Folgen
 - Ohne Schein oder ohne Gewässer-Erlaubnis angeln → strafbar/Ordnungsgeld, Gerät beschlagnahmt.
@@ -33,7 +31,7 @@ In städtischen Gewässern (Angelsteg, Hafenbecken, Stadtfluss) legal, sicher un
 - Knoten nicht geprüft → Fisch mit Haken verloren; Haken im eigenen Finger (siehe Band 8).
 
 ## Warnungen
-**Recht:** Fischereischein + Erlaubnis des Gewässerpächters sind Pflicht (Landesfischereigesetze, G15). Ohne Schein: Fanggerät beschlagnahmt, Verfahren.
+**Recht:** Fischereischein + Erlaubnis des Gewässerpächters sind Pflicht (Landesfischereigesetze). Ohne Schein: Fanggerät beschlagnahmt, Verfahren.
 
 ## Siehe auch
 ART-0166 (Schnur/Haken/Pose), ART-0191 (Köder), ART-0168 (Reuse/Fischwehr), ART-0169 (Ausland), ART-0047 (Wasser im Hochhaus)
@@ -45,4 +43,5 @@ ART-0166 (Schnur/Haken/Pose), ART-0191 (Köder), ART-0168 (Reuse/Fischwehr), ART
 - **Schonstreifen:** geschützte Ufer-/Gewässerzonen, in denen nicht geangelt werden darf.
 
 ## Übungsbezug
-Knoten-Übung: 5× Achterknoten mit Zugprobe 5 kg (review-v7 Anhang C Band 6); Protokoll führen (Datum/Gewässer/Fang).
+
+Üben: Knoten binden und Zugprobe (5 kg) vor jedem Einsatz; Fang und Aufwand schriftlich festhalten (Datum, Gewässer, Fang). Alle paar Monate wiederholen, bis der Knoten sitzt.

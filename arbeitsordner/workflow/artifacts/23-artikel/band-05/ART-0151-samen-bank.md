@@ -1,11 +1,10 @@
 # ART-0151 — Wie lege ich eine Samen-Bank an (10 % Streu-Rückgabe)?
 
-**Band:** 5 (Botanik) · **Seitenziel:** 5–7 S. · **Ampel (C2):** grün · P 8 / M unbedenklich / V 9
-**Konzept:** review-v7 1.3 Samen-Bank · **Quellen:** 22-recherche-artikel/band-05.md §ART-0151; 01-recherche.md Band 5 T4/54 `[29cd074c #146, 2026-10-17T06:37:07.974Z]`; C2 grün
+**Band:** 5 (Botanik) · **Seitenziel:** 5–7 S.
 **Tags:** botanik, samen, bank, streu, rueckgabe, saatgut
 
 ## 1. Ziel
-Beim Sammeln **10 % der Samen/Früchte zurückstreuen** — in die Mitte des Bestands, nicht an den Weg — und das Saatgut trocken lagern, damit nächstes Jahr dieselbe Sorte trägt. **Nie Saatgut essen** (Band 7, ART-0195).
+Beim Sammeln **10 % der Samen/Früchte zurückstreuen** — in die Mitte des Bestands, nicht an den Weg — und das Saatgut trocken lagern, damit nächstes Jahr dieselbe Sorte trägt. **Nie Saatgut essen** (ART-0195).
 
 ## 2. Material + Maße
 - 10 % der geernteten Samen/Früchte zurückstreuen (Richtwert)
@@ -35,7 +34,7 @@ Beim Sammeln **10 % der Samen/Früchte zurückstreuen** — in die Mitte des Bes
 Keine Warnbox.
 
 ## 7. Siehe auch
-ART-0158 (Keimprobe), ART-0195 (Saatgut aufbewahren, Band 7), ART-0152 (Balkon), ART-0153 (Wildgarten)
+ART-0158 (Keimprobe), ART-0195 (Saatgut aufbewahren), ART-0152 (Balkon), ART-0153 (Wildgarten)
 
 ## 8. Mini-Glossar
 - **Streu-Rückgabe:** 10 % der Samen zurück in die Bestandsmitte
@@ -43,4 +42,4 @@ ART-0158 (Keimprobe), ART-0195 (Saatgut aufbewahren, Band 7), ART-0152 (Balkon),
 - **Samen-Bank:** Rücklage an samenfestem Saatgut als Versicherung gegen das leere Jahr
 
 ## 9. Übungsbezug
-Übungsjahr November: Samen-Bank bedienen (Streu-Rückgabe + Lücken-Saat); Oktober Saatgut-Ernte. Keimprobe 1× mit 50 Körnern legen. Protokoll, Verfalluhr 12 Monate.
+Üben Oktober/November: 1× pro Jahr 10 % Samen zurückstreuen und eine Keimprobe (ART-0158) legen.

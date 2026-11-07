@@ -1,12 +1,10 @@
 # ART-0125 — Wie pflege ich Schuhwerk im Feld (eines tragen, eines trocknen)?
 
-**Band:** 4 (Unterkunft & Kleidung) · **Seitenziel:** 5–7 S. · **Status:** geschrieben (D2)
-**Ampel (C2):** grün · P 7 / M unbedenklich / V 8 · **Warnpflicht:** nein
-**Quelle:** Konzept B4-8.3 + review-v7 §8.3 + `22/23` band-04 ART-0125 (C2-8: Leder wird bei Hitze hart/brüchig — hoerner-group.de Lederpflege, Abruf 2026-11-07)
-**Tags:** unterkunft, pflege, schuhwerk, feld · **Abb.:** 4.13 · **warn-N:** –
+**Band:** 4 (Unterkunft & Kleidung) · **Seitenziel:** 5–7 S.
+**Tags:** unterkunft, pflege, schuhwerk, feld · **Abb.:** 4.13
 
 ## Ziel
-Immer ein trockenes, heiles Paar Schuhe — nasse Schuhe sind ein Gesundheitsrisiko (WARN 2: nass schneller kalt).
+Immer ein trockenes, heiles Paar Schuhe — nasse Schuhe sind ein Gesundheitsrisiko (nass ist schneller kalt).
 
 ## Material + Maße
 - **2 Paar Schuhe pro Person**, wechselnd getragen
@@ -16,7 +14,7 @@ Immer ein trockenes, heiles Paar Schuhe — nasse Schuhe sind ein Gesundheitsris
 ## Schritte
 1. **Eines tragen, eines trocknen** — nie beide gleichzeitig nass.
 2. Nasse Schuhe bei **Raumtemperatur** trocknen, Zeitung als Einlage wechseln.
-3. **Nie direkt am Feuer trocknen** — Leder wird spröde und bricht (C2-8).
+3. **Nie direkt am Feuer trocknen** — Leder wird spröde und bricht.
 4. Schuh-Platz unterm Vordach einrichten, nicht in der Schlafzone.
 5. Behelf-Schuhe testen: 0,5 km gehen, Druckstellen notieren, nachbessern.
 6. Stadt: Abstand zur Heizung halten.
@@ -42,4 +40,4 @@ ART-0124 (Faser/Leder-Pflege) · ART-0130 (Wetterschutz improvisiert) · ART-013
 - **Fellumwicklung:** Leder/Fell um den Fuß als Nässeschutz.
 
 ## Übungsbezug
-Wechselrhythmus eine Woche durchhalten, nasse Schuhe trocknen (review-v7 Anhang C, Januar/Okt). Erfolg: immer ein trockenes Paar, keine Druckstellen.
+Üben: Eine Woche im Januar den Schuh-Wechselrhythmus durchhalten; nasse Schuhe richtig trocknen.

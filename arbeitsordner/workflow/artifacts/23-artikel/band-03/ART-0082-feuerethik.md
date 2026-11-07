@@ -1,8 +1,5 @@
 # ART-0082 — Wie gehe ich ethisch mit Feuer um (nie ohne Wache)?
 
-**Band 3 (Feuer & Wärme)** · **Seitenziel:** 5–7 S. · **Ampel (C2):** grün · **P/M/V:** 9 / unbedenklich / 10 · **WARNPFLICHT:** nein
-**Quellen:** review-v7 Kap. 1.1 · 03-planung.md Band 3 (1.1 grün) · ethische Leitlinie README („Überleben ohne zu verrohen“) · Chat `29cd074c #146` Tab. 35 Nr. 2
-
 ## Ziel
 Die drei Feuerregeln der Reihe verinnerlichen — sie gelten für alle anderen Bände: Feuer ist Wärmequelle nur mit Wache, sonst Brandquelle.
 
@@ -17,7 +14,7 @@ Kein Material — Haltung. Dazu: freigegebener Feuerplatz (ART-0092), doppelte W
 > **Baustein:** Feuer ohne Wache ist Feind. Wache ohne Feuer ist nur kalt.
 
 ## Varianten (Stadt / Land / Klima)
-- **Stadt:** kein offenes Feuer in der Wohnung (CO, warn-3 — ART-0088); Balkon nur nach Hausordnung. **Land:** Außenplatz nach Zonenplan (ART-0092).
+- **Stadt:** kein offenes Feuer in der Wohnung ; Balkon nur nach Hausordnung. **Land:** Außenplatz nach Zonenplan (ART-0092).
 
 ## Typische Fehler + Folgen
 | Fehler | Folge | Korrektur |
@@ -29,10 +26,10 @@ Kein Material — Haltung. Dazu: freigegebener Feuerplatz (ART-0092), doppelte W
 Ein unbeaufsichtigtes Feuer ist eine Brandquelle, keine Wärmequelle.
 
 ## Siehe auch
-ART-0092 (Feuerplatz), ART-0099 (Feuerwache), ART-0101 (Glut-Botschaft), ART-0079 (Brandbekämpfung), ART-0088 (CO), ART-0285 (Wert/Tausch, Band 10)
+ART-0092 (Feuerplatz), ART-0099 (Feuerwache), ART-0101 (Glut-Botschaft), ART-0079 (Brandbekämpfung), ART-0088 (CO), ART-0285
 
 ## Mini-Glossar
 - **Feuerethik:** Feuer nur mit Wache, am freigegebenen Platz, mit sauberer Übergabe (Glut-Botschaft).
 
 ## Übungsbezug
-Wache in der ersten Nacht organisieren (ART-0029); Protokoll führen (ART-0035).
+Üben: in der ersten Nacht im Lager die Wache bewusst zu zweit einteilen (ART-0029) und die Übergabe einmal durchspielen.

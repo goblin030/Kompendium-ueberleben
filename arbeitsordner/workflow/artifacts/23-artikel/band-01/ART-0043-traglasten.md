@@ -1,8 +1,6 @@
 # ART-0043 — Wie verteile ich Traglasten (15-20 % / 30 % / Kinder 10-15 %)?
 
-**Band:** 1 (Grundlagen & Blackout/Urban) · **Status:** geschrieben (D2) · **Ampel:** grün (C2: P 8 / M unbedenklich / V 9)
-**Quelle:** Konzept B1-6.5 (review-v7 Kap. 6.5 + CL-B1-18); W20 grün (≥ 3 Traditionen)
-**Seitenziel:** 5–7 S. · **Tags:** grundlagen, traglasten, kinder
+**Band:** 1 — Grundlagen & Blackout/Urban · **Tags:** grundlagen, traglasten, kinder
 
 ## Ziel
 
@@ -19,8 +17,8 @@ Du verteilst Lasten so, dass niemand zusammenbricht: 15–20 % des Körpergewich
 2. Kurz < 30 min (z. B. Sprint zur Deckung): max. 30 %.
 3. Kinder/Ältere: 10–15 %.
 4. Gelände: Ebene 20 %, bergab 15 % (Gelenke).
-5. Konsistenz prüfen: 10-l-Wasserkanister = 10 kg einseitig (Band 2, 4.2); Sanitätsmappe < 3 kg (Band 8, 8.1); Werkzeugkiste ≤ ¼ KG (Band 9, 8.1).
-6. Last gewogen/ geschätzt und gegen Tabelle geprüft (CL-B1-18).
+5. Konsistenz prüfen: 10-l-Wasserkanister = 10 kg einseitig (ART-0073); Sanitätsmappe < 3 kg (ART-0243); Werkzeugkiste ≤ ¼ KG (ART-0270).
+6. Last gewogen/ geschätzt und gegen Tabelle geprüft .
 
 ## Varianten (Stadt / Land / Klima)
 
@@ -43,9 +41,9 @@ Du verteilst Lasten so, dass niemand zusammenbricht: 15–20 % des Körpergewich
 
 - ART-0030 (Rucksack < 12 kg)
 - ART-0031 (Profile)
-- Band 2: ART-0073 (Wassertransport allein)
-- Band 8: ART-0243 (Sanitätsmappe < 3 kg)
-- Band 9: ART-0270 (Werkzeugkiste ≤ ¼)
+- ART-0073 (Wassertransport allein)
+- ART-0243 (Sanitätsmappe < 3 kg)
+- ART-0270 (Werkzeugkiste ≤ ¼)
 
 ## Mini-Glossar
 
@@ -56,7 +54,7 @@ Du verteilst Lasten so, dass niemand zusammenbricht: 15–20 % des Körpergewich
 
 ## Übungsbezug
 
-Rucksack wiegen + Prozent-Regel anwenden 3×; Erfolg: CL-B1-18 (Last geprüft, schwere Last auf dem Rücken); Protokoll ART-0035.
+Üben: halbjährlich Rucksack wiegen und Prozent-Regel anwenden. Ziel: Last auf dem Rücken, Dauerlast unter 20 %.
 
 ---
-*ART-0043 — Enzyklopaedie v2, Band 1. Ampel grün (C2-factcheck 2026-11-07). review-v7 migriert; nur gruene/gelbe Inhalte.*
+*ART-0043 — Enzyklopaedie v2, Band 1 (Grundlagen & Blackout/Urban).*

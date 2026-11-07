@@ -1,8 +1,6 @@
 # ART-0013 — Wie gebe ich Notrufzeichen — auch mit der Pfeife (3 Signale/min)?
 
-**Band:** 1 (Grundlagen & Blackout/Urban) · **Status:** geschrieben (D2) · **Ampel:** grün (C2: P 9 / M unbedenklich / V 10)
-**Quelle:** Konzept B1-5.1 (review-v7 Kap. 5.1); 02-factcheck grün; international konsistent
-**Seitenziel:** 5–7 S. · **Tags:** grundlagen, notrufzeichen, pfeife
+**Band:** 1 — Grundlagen & Blackout/Urban · **Tags:** grundlagen, notrufzeichen, pfeife
 
 ## Ziel
 
@@ -25,7 +23,7 @@ Du setzt ein Notzeichen, das international erkannt wird: drei Signale, Pause, wi
 ## Varianten (Stadt / Land / Klima)
 
 - **Tag:** Rauch, Spiegel, farbige Tücher.
-- **Nacht:** Lichtzeichen oder Signalfeuer (3 Feuer = Notzeichen, Band 3).
+- **Nacht:** Lichtzeichen oder Signalfeuer (3 Feuer = Notzeichen, siehe ART-0094).
 - **Nebel/dichter Wald:** Pfeife oder Schläge auf Metall — Schall trägt weiter als Sicht.
 
 ## Typische Fehler + Folgen
@@ -42,7 +40,7 @@ Du setzt ein Notzeichen, das international erkannt wird: drei Signale, Pause, wi
 ## Siehe auch
 
 - ART-0027 (Boten +60-min-Regel)
-- Band 3: ART-0094 (Signalfeuer, 3 Feuer)
+- ART-0094 (Signalfeuer, 3 Feuer)
 - ART-0020 (Treffpunkte)
 
 ## Mini-Glossar
@@ -54,7 +52,7 @@ Du setzt ein Notzeichen, das international erkannt wird: drei Signale, Pause, wi
 
 ## Übungsbezug
 
-Anhang C Band 1: 3-Signal-Rhythmus 3× üben (CL-B1-12), tags und nachts unterscheidbar; Protokoll nach ART-0035.
+Üben: monatlich 3× das Drei-Signal-Muster, tags und nachts. Ziel: Rhythmus sitzt, Antwort-Codes (2 = verstanden, 1 = nein) klar.
 
 ---
-*ART-0013 — Enzyklopaedie v2, Band 1. Ampel grün (C2-factcheck 2026-11-07). review-v7 migriert; nur gruene/gelbe Inhalte.*
+*ART-0013 — Enzyklopaedie v2, Band 1 (Grundlagen & Blackout/Urban).*

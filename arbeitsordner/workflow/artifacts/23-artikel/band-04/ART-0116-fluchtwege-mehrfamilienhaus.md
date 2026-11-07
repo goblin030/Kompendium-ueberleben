@@ -1,12 +1,9 @@
 # ART-0116 — Wie finde und nutze ich Fluchtwege im Mehrfamilienhaus (Aufzug meiden)?
 
-**Band:** 4 (Unterkunft & Kleidung) · **Seitenziel:** 5–7 S. · **Status:** geschrieben (D2)
-**Ampel (C2):** **gelb** · P 7 / M unbedenklich / V 8 · **Warnpflicht:** nein
-**Quelle:** neu recherchiert: `17-marktanalyse-beyondcamping.md` V6 + `18-recherche-blackout.md` §4 Nr. 1/5 + §5.9 (BW33 grün) + `22/23` band-04 ART-0116
-**Tags:** fluchtweg, urban, treppenhaus · **Abb.:** – · **warn-N:** –
-**URLs (Abruf 2026-11-07):** beyondcamping.de/survival-buch (V6), krisenfall.eu, survival-kompass.de/blackout — siehe 17/18
+**Band:** 4 (Unterkunft & Kleidung) · **Seitenziel:** 5–7 S.
+**Tags:** fluchtweg, urban, treppenhaus · **Abb.:** –
 
-> **AUFLAGE (gelb):** V6 ist Marktanalyse-Sekundärquelle; baurechtliche Mindestmaße (Treppenhaus-Breite, Brandschutz) offen → Owner legal + SME Feuerwehr (C2).
+> **Hinweis:** V6 ist Marktanalyse-Sekundärquelle; baurechtliche Mindestmaße (Treppenhaus-Breite, Brandschutz) offen → Owner legal + Feuerwehr (C2).
 
 ## Ziel
 Im Mehrfamilienhaus bei Stromausfall/Brand sicher hinaus — ohne Aufzug, mit bekanntem Fluchtweg.
@@ -25,14 +22,14 @@ Im Mehrfamilienhaus bei Stromausfall/Brand sicher hinaus — ohne Aufzug, mit be
 6. Sammelpunkt außerhalb festlegen (Treffpunkt A/B siehe ART-0020, Band 1).
 
 ## Varianten (Stadt / Land / Klima)
-- **Stadt/Hochhaus:** Treppenhaus bei Mobilitätseinschränkung = Falle (BW33) — frühzeitig planen, Hilfe organisieren; Brandschutz bei Kerzenlicht; Nachbarschaftsnetz dichter.
+- **Stadt/Hochhaus:** Treppenhaus bei Mobilitätseinschränkung = Falle — frühzeitig planen, Hilfe organisieren; Brandschutz bei Kerzenlicht; Nachbarschaftsnetz dichter.
 - **Keller:** bei Abwasser-Rückstau nicht betreten (Rückstauklappen prüfen, siehe ART-0072, Band 2).
 - **Land:** Gebäude sichern, Garten/Wald als Ausweichfläche.
 
 ## Typische Fehler + Folgen
 - Aufzug im Blackout benutzt → eingeschlossen.
 - Fluchtweg nicht vorher geplant → Panik, Sackgassen im Dunkeln.
-- Keller betreten bei Rückstau → Gesundheitsgefahr (BW13).
+- Keller betreten bei Rückstau → Gesundheitsgefahr.
 
 ## Warnungen
 Eingeschlossene im Aufzug: Rettungsruf (112), nicht selbst befreien. Gasgeruch-Regel siehe Schritt 5.
@@ -46,4 +43,4 @@ ART-0014 (Aufzug, Band 1) · ART-0037 (Elektrogeräte Wiederanlaufen, Band 1) ·
 - **Rückstau:** Abwasser drückt in den Keller, wenn Hebeanlagen ausfallen.
 
 ## Übungsbezug
-Fluchtweg bei Tageslicht und mit verbundenen Augen (Partner sichert) abgehen; Sammelpunkt testen (review-v7 Anhang C urban). Erfolg: Weg in < 2 min, ohne Anstoßen.
+Üben: Zweimal im Jahr den Fluchtweg bei Tageslicht und — mit Sicherung — im Dunkeln abgehen; den Sammelpunkt testen.

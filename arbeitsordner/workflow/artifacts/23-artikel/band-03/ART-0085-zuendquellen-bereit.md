@@ -1,8 +1,5 @@
 # ART-0085 — Wie halte ich Zündquellen bereit (3 Sets + Monatsprobe)?
 
-**Band 3 (Feuer & Wärme)** · **Seitenziel:** 5–7 S. · **Ampel (C2):** grün · **P/M/V:** 9 / unbedenklich / 9 · **WARNPFLICHT:** nein
-**Quellen:** review-v7 Kap. 3.1 · Chat `29cd074c #146` Tab. 34/38 · Querverweis ART-0030 (Rucksack), ART-0035 (Übungsprotokoll)
-
 ## Ziel
 Mehrere redundante Zündquellen an getrennten Orten — ein einziges Missgeschick (nasser Rucksack, Defekt) darf nicht alle Optionen löschen. Nie alle Zündquellen an einem Ort.
 
@@ -18,7 +15,7 @@ Jedes **Set = Feuerzeug + Feuerstahl + wasserdichte Dose mit Zunder** (2 Zundern
 2. **Monatsprobe:** jedes Set einmal im Monat testen — Ziel: **Zündung in < 30 s** (Übungskriterium).
 3. Feuer in unter 3 min aus Set 1 als Übungsstand notieren (Datum).
 4. Zunder trocken und warm halten (Winter: am Körper, ART-0106).
-5. Verbrauch dokumentieren (Protokoll, ART-0035; Verfalluhr 12 Monate).
+5. Verbrauch dokumentieren (ART-0035).
 
 > **Baustein:** Drei Sets, drei Orte, monatlich geprüft.
 
@@ -43,4 +40,4 @@ ART-0106 (Feuerstahl & Zundermulm), ART-0076 (Zunderkette), ART-0105 (Sonnenzün
 - **Monatsprobe:** regelmäßiger Funktionstest aller Sets.
 
 ## Übungsbezug
-Anhang C Band 3: Set-Test 1×/Set, Ziel < 30 s; Feuerstahl 5×, Ziel Glut im Nest < 1 min. Verfalluhr 12 Monate (ART-0035).
+Üben: monatlich jedes der drei Sets einmal testen (Ziel: Zündung in unter 30 Sekunden) und das Ergebnis kurz notieren.

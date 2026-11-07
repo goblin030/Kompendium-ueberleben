@@ -1,9 +1,9 @@
 # ART-0216 — Wie schütze ich Vorräte vor den fünf Feinden (Wasser/Wärme/Luft/Licht/Gäste)?
 
-**Band/Domäne:** Band 7 — Vorrat & Konservierung · **Seitenziel:** 5–7 S. · **Ampel (C2):** grün · **Warnpflicht:** nein · **Status:** geschrieben (D2) · **Tags:** vorrat, vorraete, fuenf, feinden
+**Band/Domäne:** Band 7 — Vorrat & Konservierung · **Seitenziel:** 5–7 S. · **Tags:** vorrat, vorraete, fuenf, feinden
 
 ## Ziel
-Die **fünf Feinde des Vorrats — Wasser, Wärme, Luft, Licht, Gäste** — kennen, ihre Spuren erkennen und je Feind das richtige Mittel aus Band 7 einsetzen.
+Die **fünf Feinde des Vorrats — Wasser, Wärme, Luft, Licht, Gäste** — kennen, ihre Spuren erkennen und je Feind das richtige Mittel aus diesem Band einsetzen.
 
 ## Material + Maße
 - Kammer-Plan A3 (Zonen, ART-0209), dichte Behälter (Blech, Gläser, Deckel), Tuch/Ton-Krug gegen Licht, Kälte.
@@ -31,11 +31,9 @@ Keine Warnpflicht; Solanin-Hinweis (grüne Kartoffel großzügig wegschneiden) s
 ART-0209 (Kammer-Zonen), ART-0205 (Getreide/Gäste), ART-0197 (Verderb), ART-0201 (Ranz), ART-0218 (Dörren), ART-0203 (luftdicht einkochen).
 
 ## Übungsbezug
-Fünf Feinde am eigenen Lagerort kartieren (01-B7 T60 Nr. 7; review-v7 K 2.1).
+Übe einmal pro Jahr: die fünf Feinde am eigenen Lagerort kartieren (ART-0209) und jedem Feind sein Gegenmittel zuordnen.
 
 ## Mini-Glossar
 - **Fünf Feinde:** Wasser, Wärme, Luft, Licht, Gäste — jeder zerstört Lebensmittel auf eigene Art.
 - **aw (Wasseraktivität):** Maß für verfügbares Wasser; niedrig = konservierend.
 
-## Quellen
-review-v7 K 2.1; 01-recherche.md Band 7 T7/T42/T55 + Abb. 2.2 [29cd074c #146]; 02-factcheck.md Band-7-Ampel K 2.1 grün. C2: ART-0216 grün.

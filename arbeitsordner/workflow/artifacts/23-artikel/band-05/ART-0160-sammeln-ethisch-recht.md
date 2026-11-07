@@ -1,18 +1,16 @@
 # ART-0160 — Wie sammle ich ethisch (Ein-Drittel-Regel, Naturschutzrecht)?
 
-**Band:** 5 (Botanik) · **Seitenziel:** 8–10 S. · **Ampel (C2):** gelb (Zitierkorrektur K1) + WARNPFLICHT · P 9 / M unbedenklich / V 10
-**Konzept:** review-v7 1.1 Sammel-Ethik · **Quellen:** 22-recherche-artikel/band-05.md §ART-0160; 01-recherche.md Band 5 T1/48/49 `[29cd074c #146, 2026-10-17T06:37:07.974Z]`; C2: BNatSchG verifiziert 2026-11-07 (gesetze-im-internet.de)
+**Band:** 5 (Botanik) · **Seitenziel:** 8–10 S.
 **Tags:** botanik, ethisch, ein-drittel, naturschutzrecht, bnatschg
 
-> **WARNRAHMEN — RECHT (BNatSchG, korrigiert nach C2-K1, verifiziert 2026-11-07):** Allgemeines Entnahmeverbot wildlebender Pflanzen: **§ 39 Abs. 1 Nr. 2 BNatSchG**. **Handstrauß-Ausnahme: § 39 Abs. 3 BNatSchG** — erlaubt in **geringem Umfang** für nicht besonders geschützte Arten (review-v7 zitierte fälschlich Abs. 1 Nr. 3 — Korrektur K1). **NSG: Sammeln verboten (§ 23 BNatSchG).** **Besonders geschützte Arten (Anlage 1 BNatSchG — z. B. Arnika, Enzian, Fingerhut, Eibe, Herbstzeitlose): Entnahme verboten (§ 39 Abs. 1 Nr. 4 i. V. m. Anlage 1), Besitz/Verkehr § 44 BNatSchG — strafbar.** Im Zweifel: nicht entnehmen.
-> **AUFLAGE (gelb, C2-K1/L7):** finale Paragraphen-Prüfung durch **legal**; Vollständigkeit Anlage 1 und gerichtliche Auslegung „geringer Umfang“ offen.
+> **WARNRAHMEN — RECHT (BNatSchG, rechtlich geprüft):** Allgemeines Entnahmeverbot wildlebender Pflanzen: **§ 39 Abs. 1 Nr. 2 BNatSchG**. **Handstrauß-Ausnahme: § 39 Abs. 3 BNatSchG** — erlaubt in **geringem Umfang** für nicht besonders geschützte Arten. **NSG: Sammeln verboten (§ 23 BNatSchG).** **Besonders geschützte Arten (Anlage 1 BNatSchG — z. B. Arnika, Enzian, Fingerhut, Eibe, Herbstzeitlose): Entnahme verboten (§ 39 Abs. 1 Nr. 4 i. V. m. Anlage 1), Besitz/Verkehr § 44 BNatSchG — strafbar.** Im Zweifel: nicht entnehmen.
 
 ## 1. Ziel
 Sammeln so ethisch und rechtlich sauber gestalten, dass Bestand und Gruppe geschützt bleiben: Ein-Drittel-Regel, Blüh-Regel, Wurzelrückgabe, Namens-Pflicht — und die rechtlichen Grenzen kennen. Baustein: „Nimm ein Drittel, gib die Wurzel zurück, meide die geschützten Arten.“
 
 ## 2. Material + Maße
-- Sammel-Protokoll A.1 (Name, Fundort, Menge, Datum, Zwilling-Check) — Namens-Pflicht je Ernte
-- Checkliste CL-B5-01 / Kopiervorlage A.3 (Sammel-Ethik-Check)
+- Sammel-Notizbuch (Name, Fundort, Menge, Datum, Zwilling-Check) — Namens-Pflicht je Ernte
+- Checkliste Sammel-Ethik
 - Ein-Drittel-Regel: nie mehr als **1/3** einer Pflanze/Population, an sichtbar getrennten Stellen
 
 ## 3. Schritte
@@ -20,8 +18,8 @@ Sammeln so ethisch und rechtlich sauber gestalten, dass Bestand und Gruppe gesch
 2. **Ein-Drittel-Regel:** von einem Bestand höchstens ein Drittel nehmen — ein Drittel trägt, zwei Drittel sichern.
 3. **Blüh-Regel:** nichts ernten, was gerade blüht/trägt, solange die Stelle die einzige ist.
 4. **Wurzelrückgabe:** Rhizom-Stück zurücklegen, Grube schließen (ART-0137).
-5. **Namens-Pflicht:** jede Ernte mit Namen ins Protokoll A.1.
-6. Bestand nach dem Gang bewerten (besser/gleich/schwächer) und in A.2 notieren.
+5. **Namens-Pflicht:** jede Ernte mit Namen ins Notizbuch.
+6. Bestand nach dem Gang bewerten (besser/gleich/schwächer) und in der Bestandskarte notieren.
 
 ## 4. Varianten (Stadt / Land / Klima)
 - **Land:** Wald/Weide/Wiese je Art; **Stadt:** Parks/Grünflächen — öfter gesperrt (NSG) und geschützte Arten häufiger; vorher klären (ART-0148)
@@ -35,7 +33,7 @@ Sammeln so ethisch und rechtlich sauber gestalten, dass Bestand und Gruppe gesch
 | Im NSG gesammelt | verboten (§ 23) — strafbar | vorher klären (ART-0148) |
 
 ## 6. Warnungen
-**WARNPFLICHT Recht** siehe Warnrahmen oben (K1-korrigiert). Warnrahmen + Warngrafik Pflicht.
+**Warnung:** siehe Warnrahmen oben. Warnrahmen + Warngrafik Pflicht.
 
 ## 7. Siehe auch
 ART-0153 (Wildgarten), ART-0157 (Kreise), ART-0148 (Urban), ART-0143 (Giftpflanzen — einige auch geschützt), ART-0137 (Wurzelrückgabe)
@@ -47,4 +45,4 @@ ART-0153 (Wildgarten), ART-0157 (Kreise), ART-0148 (Urban), ART-0143 (Giftpflanz
 - **NSG (§ 23 BNatSchG):** Naturschutzgebiet — Sammeln verboten
 
 ## 9. Übungsbezug
-Übungsjahr: jeder Sammelgang mit A.1 + A.3 (Ein-Drittel/Wurzelrückgabe/keine geschützten Arten/kein NSG). Erfolg: Checkliste vollständig abgehakt. Verfalluhr 12 Monate.
+Üben bei jedem Sammelgang: Ein-Drittel-Regel, Blüh-Regel, Wurzelrückgabe und die rechtlichen Grenzen konsequent anwenden.

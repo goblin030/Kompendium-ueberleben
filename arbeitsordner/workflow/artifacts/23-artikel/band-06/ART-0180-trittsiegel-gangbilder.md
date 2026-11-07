@@ -1,8 +1,6 @@
 # ART-0180 — Wie lese ich Trittsiegel und Gangbilder (Fuchs/Hund/Reh/Hase)?
 
-**Band:** 6 — Jagd & Fischfang · **Status:** geschrieben (Phase D2) · **Ampel (C2):** grün · P 9 / M unbedenklich / V 8
-**Quelle:** Konzept 2.1 + review-v7 `04-redaktion-band-06.md` 2.1 + CL-B6-04; Chat Tab. 7/12 (Maße als Planungsrichtwerte); geprüft 23-factcheck-artikel/band-06.md
-**Seitenziel:** 5–7 S. · **Abb.:** Abb. 6.1 (Trittsiegel im Vergleich) · **Warnung:** –
+**Band:** 6 — Jagd & Fischfang
 
 ## Ziel
 Trittsiegel und Gangbilder sicher Fuchs, Hund, Reh und Hase zuordnen — erst messen, dann deuten.
@@ -34,9 +32,10 @@ ART-0179 (Neuschnee), ART-0178 (Losung/Riss), ART-0172 (Bauten/Wechsel), ART-016
 ## Mini-Glossar
 - **Trittsiegel:** Fußabdruck des Wilds.
 - **Gangbild:** Folge der Tritte — Linie, Weite, Rhythmus.
-- **Passgang:** Trab des Dachses (gleichseitig). 
+- **Passgang:** Trab des Dachses (gleichseitig).
 - **Tranpel:** langsamer Gang des Rehwilds.
 - **Afterklauen:** kleine Nebenklauen des Schwarzwilds hinter den Schalen.
 
 ## Übungsbezug
-3 Begehungen; Erfolg: Trittsiegel/Gangbild richtig zugeordnet (Fuchs/Hund/Reh/Hase) — review-v7 Anhang C.
+
+Üben: auf 3 Begehungen Trittsiegel messen, skizzieren und zuordnen (Fuchs/Hund/Reh/Hase) — monatlich in der Saison.

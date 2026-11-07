@@ -1,10 +1,8 @@
 # ART-0169 — Wie beachte ich Fischereirechte im Ausland (z. B. Ireland rod licence)?
 
-**Band:** 6 — Jagd & Fischfang · **Status:** geschrieben (Phase D2) · **Ampel (C2):** gelb + WARNPFLICHT · P 6 / M prüfenswert / V 7
-**Quelle:** neu recherchiert (22/23); review-v7 7.1; **C2-Korrektur eingebaut:** IFI/DAERA (G8, Abruf 2026-11-07)
-**Seitenziel:** 8–10 S. · **Abb.:** – · **WARNPFLICHT:** ja — Warnrahmen + Warngrafik Pflicht
+**Band:** 6 — Jagd & Fischfang
 
-> **Auflage (gelb):** Strafen und Detailregeln je Land vor Reiseantritt bei der zuständigen Behörde prüfen (→ legal). Jährliche Änderungen der Lizenzarten/-preise möglich.
+**Hinweis:** Strafen und Detailregeln je Land vor Reiseantritt bei der zuständigen Behörde prüfen; jährliche Änderungen der Lizenzarten und -preise möglich.
 
 ## Ziel
 Im Ausland (Fokus Irland/Atlantik — zweite Ausgangslagen des Kompendiums) legal angeln: welche Lizenz, welches Permit, welche Papiere.
@@ -31,7 +29,7 @@ Im Ausland (Fokus Irland/Atlantik — zweite Ausgangslagen des Kompendiums) lega
 - Permit des falschen Besitzers → Hausfriedensbruch + Verfahren.
 
 ## Warnungen
-> **WARNRAHMEN [Recht] — Ausländische Fischereirechte:** Je Land eigene Scheine/Genehmigungen Pflicht (IR: IFI State Licence für Lachs/Meerforelle + Permit des Fishery Owners; NI: DAERA rod licence; DE: Fischereischein + Erlaubnis). Ohne gültige Papiere: Straf-/Ordnungsgeld, Beschlagnahme. Giftnotruf IE +353 1 809 2166, DE 116 123, EU 112.
+> **WARNRAHMEN — Ausländische Fischereirechte:** Je Land eigene Scheine/Genehmigungen Pflicht (IR: IFI State Licence für Lachs/Meerforelle + Permit des Fishery Owners; NI: DAERA rod licence; DE: Fischereischein + Erlaubnis). Ohne gültige Papiere: Straf-/Ordnungsgeld, Beschlagnahme. Giftnotruf IE +353 1 809 2166, DE 116 123, EU 112.
 
 ## Siehe auch
 ART-0165 (Stadtgewässer), ART-0168 (Reuse/Stellnetz), ART-0186 (Netz), ART-0235 (Vergiftung/Giftnotruf)
@@ -43,4 +41,5 @@ ART-0165 (Stadtgewässer), ART-0168 (Reuse/Stellnetz), ART-0186 (Netz), ART-0235
 - **Logbuch:** Pflicht-Fangbuch für Lachs/Meerforelle (sofortiger Eintrag, 12 Monate aufbewahren).
 
 ## Übungsbezug
-Papiere für ein Zielland exemplarisch zusammensuchen (Checkliste); Erfolg: Lizenz + Permit + Logbuch-Pflicht bekannt.
+
+Üben: die Papiere für ein Zielland exemplarisch zusammentragen (Lizenz, Permit, Meldepflichten) — vor jeder Auslandsreise erneut prüfen.

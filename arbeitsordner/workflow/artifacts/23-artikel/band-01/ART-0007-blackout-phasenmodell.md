@@ -1,8 +1,6 @@
 # ART-0007 — Wie erkenne ich die Phasen eines Blackouts (Saurugg-Modell)?
 
-**Band:** 1 (Grundlagen & Blackout/Urban) · **Status:** geschrieben (D2) · **Ampel:** gelb (C2: P 8 / M unbedenklich / V 9)
-**Quelle:** review-v7 Kap. 3a.1 + 18-recherche §3; 19-factcheck BW9 (gelb: Planungsannahme); saurugg.net Original bestätigt (2026-11-07)
-**Seitenziel:** 6–8 S. · **Tags:** blackout, phasenmodell, szenario
+**Band:** 1 — Grundlagen & Blackout/Urban · **Tags:** blackout, phasenmodell, szenario
 
 ## Ziel
 
@@ -15,8 +13,8 @@ Du ordnest die Lage in Phasen ein und richtest deine Autonomie-Dauer danach: Str
 
 ## Schritte
 
-1. Phase 1: Wiederherstellung einer weitgehend stabilen Stromversorgung (Planungsannahme: ~1 Woche — ROHWERT).
-2. Phase 2: Wiederherstellung weitgehend funktionierender Telekommunikation (Handy, Internet) — Strom da, aber keine Normalität: Geräte schonen, nicht alles auf einmal einschalten (Planungsannahme: ~2–4 Wochen — ROHWERT).
+1. Phase 1: Wiederherstellung einer weitgehend stabilen Stromversorgung (Planungsannahme: ~1 Woche — Richtwert).
+2. Phase 2: Wiederherstellung weitgehend funktionierender Telekommunikation (Handy, Internet) — Strom da, aber keine Normalität: Geräte schonen, nicht alles auf einmal einschalten (Planungsannahme: ~2–4 Wochen — Richtwert).
 3. Phase 3: umfassender Wiederanlauf der Versorgung mit lebenswichtigen Gütern (Lebensmittel, Medikamente, Treibstoff) — frühestens ~2 Wochen nach Primärereignis (Saurugg-Original bestätigt).
 4. Planungsgrundsatz: 72 h komplett autark planen (kein Strom, kein fließendes Wasser, kein Mobilfunk, keine offenen Geschäfte).
 5. Vorsorgeziel: 14 Tage Autonomie (siehe ART-0032).
@@ -36,11 +34,7 @@ Du ordnest die Lage in Phasen ein und richtest deine Autonomie-Dauer danach: Str
 
 ## Warnungen
 
-- Phasenmodell = Konsens-Heuristik (BW9), keine amtliche Prognose — als Planungsannahme kennzeichnen.
-
-## Auflage (C2 — gelb)
-
-C2 gelb: Phasen-Zeithorizonte (~1 Wo / ~2–4 Wo / frühestens ~2 Wo) als Planungsannahme/ROHWERT (BL6) kennzeichnen, nicht als amtliche Prognose.
+- Phasenmodell = Konsens-Heuristik , keine amtliche Prognose — als Planungsannahme kennzeichnen.
 
 ## Siehe auch
 
@@ -59,7 +53,7 @@ C2 gelb: Phasen-Zeithorizonte (~1 Wo / ~2–4 Wo / frühestens ~2 Wo) als Planun
 
 ## Übungsbezug
 
-Blackout-Drill (ART-0039) durchspielen mit Phasen-Denken: Wann wäre welches Gut kritisch?
+Üben: jährlich im Drill (ART-0039) das Phasen-Denken durchsprechen — was wäre wann kritisch? Ziel: Autonomie-Plan auf 14 Tage (ART-0032) geprüft.
 
 ---
-*ART-0007 — Enzyklopaedie v2, Band 1. Ampel gelb (C2-factcheck 2026-11-07). review-v7 migriert; nur gruene/gelbe Inhalte.*
+*ART-0007 — Enzyklopaedie v2, Band 1 (Grundlagen & Blackout/Urban).*

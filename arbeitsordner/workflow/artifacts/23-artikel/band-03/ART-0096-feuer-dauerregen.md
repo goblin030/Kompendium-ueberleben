@@ -1,14 +1,11 @@
 # ART-0096 — Wie mache ich Feuer im Dauerregen?
 
-**Band 3 (Feuer & Wärme)** · **Seitenziel:** 5–7 S. · **Ampel (C2):** grün · **P/M/V:** 7 / unbedenklich / 9 · **WARNPFLICHT:** nein
-**Quellen:** review-v7 Kap. 4.3 · Chat `29cd074c #146` Tab. 36 (November-Übung) · Querverweis ART-0119 (Kleidung trocken, Band 4)
-
 ## Ziel
 Auch bei Dauerregen ein Feuer zustande bringen — entscheidend ist eine trockene Plattform und eine trockene Zunderkette aus dem Körper-Päck.
 
 ## Material + Maße
 - Plattform aus **trockenem Unterholz, Grünholz oder Steinen** (ART-0078).
-- **Trockene Zunderkette aus dem Körper-Päck** — Innenseite der Kleidung trocken halten (ART-0119, Band 4).
+- **Trockene Zunderkette aus dem Körper-Päck** — Innenseite der Kleidung trocken halten.
 - Überstand/Dach (Tarp, Felsvorsprung, dichtes Nadelreisig).
 
 ## Schritte
@@ -19,7 +16,7 @@ Auch bei Dauerregen ein Feuer zustande bringen — entscheidend ist eine trocken
 5. Glut-Reserve füllen, bevor der Regen wieder zunimmt.
 
 ## Varianten (Stadt / Land / Klima)
-- **Land:** Plattform + Behang/Tarp. **Stadt:** überdachter Balkon; in der Wohnung kein offenes Feuer (warn-3, ART-0088) — Zündkette am Campingkocher (ART-0091).
+- **Land:** Plattform + Behang/Tarp. **Stadt:** überdachter Balkon; in der Wohnung kein offenes Feuer — Zündkette am Campingkocher (ART-0091).
 
 ## Typische Fehler + Folgen
 | Fehler | Folge | Korrektur |
@@ -31,10 +28,10 @@ Auch bei Dauerregen ein Feuer zustande bringen — entscheidend ist eine trocken
 Unterkühlungsrisiko bei vergeblichem Anzünden (ART-0114) — rechtzeitig abbrechen und wärmen (ART-0084).
 
 ## Siehe auch
-ART-0078 (Plattform-Feuerbau), ART-0076 (Zunderkette), ART-0085 (trockene Zünd-Sets), ART-0084 (Wärmepaket), ART-0114 (Kältegefahr), ART-0119 (Isolierung, Band 4)
+ART-0078 (Plattform-Feuerbau), ART-0076 (Zunderkette), ART-0085 (trockene Zünd-Sets), ART-0084 (Wärmepaket), ART-0114 (Kältegefahr), ART-0119
 
 ## Mini-Glossar
 - **Körper-Päck:** die am Körper getragene trockene Reserve (Innentasche) — Zunder, Ersatzkleidung.
 
 ## Übungsbezug
-November: Regen-Abendübung — Behang zuerst, Kette vom Körper, Glut-Reserve füllen (Chat Übungsjahr Tab. 36). Protokoll ART-0035.
+Üben: einmal im Jahr (November) eine Regen-Abendübung: Behang zuerst aufbauen, Zündkette aus dem Körper-Päck, Glut-Reserve füllen.

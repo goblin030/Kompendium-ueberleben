@@ -1,8 +1,6 @@
 # ART-0166 — Wie angle ich mit Schnur, Haken und Pose (Knoten-Prüfung)?
 
-**Band:** 6 — Jagd & Fischfang · **Status:** geschrieben (Phase D2) · **Ampel (C2):** grün · P 8 / M unbedenklich / V 9
-**Quelle:** Konzept 6.1 (03-planung.md) + review-v7 `04-redaktion-band-06.md` 6.1 + Anhang C; geprüft 23-factcheck-artikel/band-06.md
-**Seitenziel:** 5–7 S. · **Abb.:** Abb. 6.6 (Behelfs-Angel) · **Warnung:** –
+**Band:** 6 — Jagd & Fischfang
 
 ## Ziel
 Eine behelfsmäßige Angel aus Schnur, Haken und selbst geschnitzter Pose sicher aufbauen — jeder Knoten hält.
@@ -41,4 +39,5 @@ ART-0019 (Serienknoten), ART-0191 (Köder), ART-0165 (Stadtgewässer), ART-0168 
 - **Vorfach:** dünne Schnur zwischen Hauptschnur und Haken.
 
 ## Übungsbezug
-5× Achterknoten binden, Erfolg: Knoten hält 5 kg Zugprobe (review-v7 Anhang C); Verfalluhr 12 Monate (ART-0035).
+
+Üben: Achterknoten 5× hintereinander binden und mit 5 kg Zugprobe prüfen — vor jedem Angeltag wiederholen, bis er ohne Nachdenken sitzt.

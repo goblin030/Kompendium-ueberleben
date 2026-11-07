@@ -1,8 +1,6 @@
 # ART-0001 — Wie arbeite ich sicher mit dem Messer (Schnitt weg vom Körper)?
 
-**Band:** 1 (Grundlagen & Blackout/Urban) · **Status:** geschrieben (D2) · **Ampel:** grün (C2: P 9 / M unbedenklich / V 9)
-**Quelle:** Konzept B1-6.1 (review-v7 Kap. 6.1); Chat [29cd074c #146, 2026-10-17T06:37:07.974Z]; 22/23-factcheck Band 1
-**Seitenziel:** 5–7 S. · **Tags:** grundlagen, sicher, messer, schnitt
+**Band:** 1 — Grundlagen & Blackout/Urban · **Tags:** grundlagen, sicher, messer, schnitt
 
 ## Ziel
 
@@ -13,7 +11,7 @@ Du arbeitest mit dem Messer so, dass die Klinge immer weg vom Körper zeigt, das
 - 1 robustes Messer (ein gutes Küchenmesser genügt als Minimum)
 - Unterlage / Schneidbrett oder Knie als Schraubstock
 - Wetz-/Schleifstein (siehe ART-0264, ART-0276)
-- Reinigung: Wasser, Tuch, ein Tropfen Öl (Pflege siehe Band 9, 7.3)
+- Reinigung: Wasser, Tuch, ein Tropfen Öl (Pflege siehe ART-0272)
 - 1 Blatt Papier für den Schärfetest
 
 ## Schritte
@@ -62,7 +60,7 @@ Du arbeitest mit dem Messer so, dass die Klinge immer weg vom Körper zeigt, das
 
 ## Übungsbezug
 
-Anhang C Band 1: Messer-Führung 3× üben, Erfolg: kontrollierter Schnitt bei fixiertem Werkstück ohne Richtungswechsel; Protokoll nach ART-0035 (Verfalluhr 12 Monate).
+Üben: alle 4 Wochen 10 min am wertlosen Holz — Schnittweg planen, Werkstück fixieren, Schnitt ausführen. Ziel: Die Klinge geht immer weg vom Körper, auch wenn du müde bist.
 
 ---
-*ART-0001 — Enzyklopaedie v2, Band 1. Ampel grün (C2-factcheck 2026-11-07). review-v7 migriert; nur gruene/gelbe Inhalte.*
+*ART-0001 — Enzyklopaedie v2, Band 1 (Grundlagen & Blackout/Urban).*

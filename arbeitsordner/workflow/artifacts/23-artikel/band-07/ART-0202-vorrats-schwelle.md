@@ -1,6 +1,6 @@
 # ART-0202 — Wie halte ich die Vorrats-Schwelle?
 
-**Band/Domäne:** Band 7 — Vorrat & Konservierung · **Seitenziel:** 5–7 S. · **Ampel (C2):** grün · **Warnpflicht:** nein · **Status:** geschrieben (D2) · **Tags:** vorrat, vorrats, schwelle
+**Band/Domäne:** Band 7 — Vorrat & Konservierung · **Seitenziel:** 5–7 S. · **Tags:** vorrat, vorrats, schwelle
 
 ## Ziel
 Die Schwelle zwischen frischem Ertrag und Winter-Speicher ordnen: **Fang/Wildertrag/Ernte geht zuerst in den Tageskreis, der Überschuss sofort in die Konservierung (Winter-Speicher)** — nichts liegt herum (Fäulnis, Aasfresser, Diebstahl).
@@ -16,23 +16,21 @@ Die Schwelle zwischen frischem Ertrag und Winter-Speicher ordnen: **Fang/Wildert
 5. Kontrolle nach Verderb-Atlas (ART-0197).
 
 ## Varianten (Stadt/Land/Klima)
-- **Land:** direkt nach Jagd/Ernte in die Konservierung (Band 6, ART-0176).
+- **Land:** direkt nach Jagd/Ernte in die Konservierung (ART-0176).
 - **Stadt:** Einkauf → Tageskreis (Schrank), Überschuss → Wochen-/Winterkreis (Keller/Treppenhaus).
 
 ## Typische Fehler + Folgen
 - Fang „bis morgen“ liegen lassen → Verderb, Tiere, Diebstahl.
 
 ## Warnungen
-Keine Warnpflicht. Wildbret-Sicherheit (Trichinen, Durchgaren ≥ 71 °C; Tollwut) siehe ART-0181 (Band 6, warn-6b).
+Keine Warnpflicht. Wildbret-Sicherheit (Trichinen, Durchgaren ≥ 71 °C; Tollwut) siehe ART-0181.
 
 ## Siehe auch
-ART-0210 (drei Kreise), ART-0208 (sechs Wege), ART-0211 (Fahrplan), ART-0176 (Fang konservieren, Band 6), ART-0181 (Wild ausnehmen, Band 6).
+ART-0210 (drei Kreise), ART-0208 (sechs Wege), ART-0211 (Fahrplan), ART-0176 (Fang konservieren), ART-0181 (Wild ausnehmen).
 
 ## Übungsbezug
-Nach jeder Ernte/jedem Fang sofort verarbeiten üben — Chargen-Karte führen.
+Übe nach jeder Ernte und jedem Fang die sofortige Verarbeitung: Charge datieren und gewählten Konservierungsweg (ART-0208) notieren.
 
 ## Mini-Glossar
 - **Schwelle:** Übergabepunkt vom frischen Ertrag (Tageskreis) in den Winter-Speicher.
 
-## Quellen
-review-v7 K 9.2 (+ K 1.2); 02-factcheck.md Band-7-Ampel K 9.2 grün (P8/V10, konsistent Band 6). C2: ART-0202 grün.

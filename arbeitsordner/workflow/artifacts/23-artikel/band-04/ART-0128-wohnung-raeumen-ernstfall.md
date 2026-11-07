@@ -1,16 +1,13 @@
 # ART-0128 — Wie räume ich die Wohnung im Ernstfall (Rucksack griffbereit, Flucht)?
 
-**Band:** 4 (Unterkunft & Kleidung) · **Seitenziel:** 5–7 S. · **Status:** geschrieben (D2)
-**Ampel (C2):** grün · P 8 / M unbedenklich / V 8 · **Warnpflicht:** nein
-**Quelle:** neu recherchiert: `17-marktanalyse-beyondcamping.md` V6 + `18-recherche-blackout.md` §4 Nr. 1/3/5/10 (BW10/BW33 grün) + `22/23` band-04 ART-0128
-**Tags:** flucht, wohnung, urban · **Abb.:** – · **warn-N:** –
-**URLs (Abruf 2026-11-07):** survival-kompass.de/blackout + PDF-Checkliste (S2/S2p), krisenfall.eu/blackout-vorbereitung (K2), saurugg.net Checkliste (S3), beyondcamping.de (V6)
+**Band:** 4 (Unterkunft & Kleidung) · **Seitenziel:** 5–7 S.
+**Tags:** flucht, wohnung, urban · **Abb.:** –
 
 ## Ziel
 Bei Eintritt eines Ernstfalls die Wohnung geordnet verlassen oder sicher einsperren — mit griffbereitem Rucksack und bekanntem Fluchtweg.
 
 ## Material + Maße
-- Notfallrucksack **griffbereit**: < 12 kg, in 10 min gepackt, 72-h-Inventur (siehe ART-0030, Band 1; W21 grün)
+- Notfallrucksack **griffbereit**: < 12 kg, in 10 min gepackt, 72-h-Inventur (siehe ART-0030, Band 1; grün)
 - Taschenlampen, Kerzen, Streichhölzer, Wärmequellen, Kochmöglichkeit — an einem **auch im Dunkeln findbaren Ort** bereitlegen
 - Dokumente wasserdicht (siehe ART-0288, Band 10)
 
@@ -33,7 +30,7 @@ Bei Eintritt eines Ernstfalls die Wohnung geordnet verlassen oder sicher einsper
 - Fluchtweg unbekannt → Panik im Dunkeln.
 
 ## Warnungen
-WARN 1 (Band 1): erste Stunde — bei akuter Gebäudegefahr sofort geordnet verlassen; Gasgeruch-Regel.
+Grundregel: erste Stunde — bei akuter Gebäudegefahr sofort geordnet verlassen; Gasgeruch-Regel.
 
 ## Siehe auch (ART-IDs)
 ART-0030 (Rucksack 72 h, Band 1) · ART-0037 (Elektrogeräte, Band 1) · ART-0017 (Kinder abholen, Band 1) · ART-0020 (Treffpunkte, Band 1) · ART-0006 (Radio, Band 1) · ART-0116 (Fluchtwege) · ART-0113 (Wohnung abdichten) · ART-0041 (Urban Survival, Band 1) · ART-0288 (Dokumente, Band 10)
@@ -44,4 +41,4 @@ ART-0030 (Rucksack 72 h, Band 1) · ART-0037 (Elektrogeräte, Band 1) · ART-001
 - **Sammelpunkt A/B:** Haupt- und Ausweich-Treffpunkt außerhalb.
 
 ## Übungsbezug
-72-h-Trockenübung aus dem eigenen Rucksack (siehe ART-0039, Band 1). Erfolg: Rucksack in 10 min gepackt, < 12 kg, Dokumente wasserdicht, Checkliste vollständig.
+Üben: Halbjährlich den Notfallrucksack in 10 Minuten packen (< 12 kg) und eine 72-Stunden-Trockenübung aus dem Rucksack machen. Vor dem Winter und im Frühjahr.

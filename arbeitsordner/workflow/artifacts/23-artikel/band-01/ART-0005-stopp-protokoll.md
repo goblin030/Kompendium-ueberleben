@@ -1,8 +1,6 @@
 # ART-0005 — Wie bleibe ich in der ersten Schockminute handlungsfähig (STOPP-Protokoll)?
 
-**Band:** 1 (Grundlagen & Blackout/Urban) · **Status:** geschrieben (D2) · **Ampel:** grün (C2: P 10 / M unbedenklich / V 9)
-**Quelle:** Konzept B1-2.1 (review-v7 Kap. 2.1); C2: Kampf-oder-Flucht 1–1,5 min bestätigt (2026-11-07)
-**Seitenziel:** 5–7 S. · **Tags:** grundlagen, schockminute, handlungsfaehig
+**Band:** 1 — Grundlagen & Blackout/Urban · **Tags:** grundlagen, schockminute, handlungsfaehig
 
 ## Ziel
 
@@ -32,7 +30,7 @@ Du stoppst die Impulsreaktion in der ersten Schockminute: Schock aktiviert das s
 | Fehler | Folge |
 |---|---|
 | Sofort loslaufen | Sekundärgefahren (Einsturz, CO, Stolpern) werden übersehen; Panik überträgt sich auf die Gruppe |
-| Keine drei Handlungen notieren | Zielloses Handeln; CL-B1-01 nicht erfüllt |
+| Keine drei Handlungen notieren | Zielloses Handeln; nicht erfüllt |
 
 ## Warnungen
 
@@ -54,7 +52,7 @@ Du stoppst die Impulsreaktion in der ersten Schockminute: Schock aktiviert das s
 
 ## Übungsbezug
 
-Anhang C Band 1: STOPP + Atem 4–6, 10 Zyklen; Protokoll nach ART-0035.
+Üben: monatlich 10× STOPP in einer absichtlich stressigen Situation. Ziel: drei Gefahren und drei nächste Handlungen sofort benannt.
 
 ---
-*ART-0005 — Enzyklopaedie v2, Band 1. Ampel grün (C2-factcheck 2026-11-07). review-v7 migriert; nur gruene/gelbe Inhalte.*
+*ART-0005 — Enzyklopaedie v2, Band 1 (Grundlagen & Blackout/Urban).*

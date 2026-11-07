@@ -1,8 +1,6 @@
 # ART-0229 — Wie desinfiziere ich medizinisches Gerät und Wunden ohne Strom?
 
-**Band/Domäne:** Band 8 — Heilkunde · **Status:** Katalog → recherchiert (B2) → geprüft (C2) → geschrieben (D2) · **Ampel (C2):** grün (ROHWERTE C2 geprüft: KRINKO + RKI + Hersteller) · **P/M/V:** 8 / unbedenklich / 8 · **Seitenziel:** 5–7 S.
-**Quellen:** 17-marktanalyse V9 + 18-recherche-blackout §5.7 + review-v7 6.2 (T34) · Web (Abruf 2026-11-07): RKI KRINKO Haendehyg_Rili.pdf, BBK Hausapotheke · `22/23` ART-0229
-
+**Band/Domäne:** Band 8 — Heilkunde · **Seitenziel:** 5–7 S.
 ## Ziel
 Keimbelastung von Gerät, Wunden und Flächen ohne Strom wirksam senken — mit Mitteln, die vorrätig sind.
 
@@ -11,9 +9,9 @@ Keimbelastung von Gerät, Wunden und Flächen ohne Strom wirksam senken — mit 
 - **Seife:** Hände, Haut, Umgebung — wäscht, tötet nicht alles, genügt meist
 - **Essig:** nur als Scheuerwasser für **Flächen**, nie in die Wunde
 - **Sonne:** Decken/Lagertücher in Mittagssonne lüften und bürsten
-- Wundantiseptika (verletztes Gewebe): **Octenidin, Chlorhexidin oder Povidon-Iod** (C2 geprüft, KRINKO-basiert)
-- Hände/Flächen: alkoholisches Desinfektionsmittel **60–90 Vol.-%**, Einwirkzeit produktabhängig (Richtwert 30 s–2 min, C2 geprüft)
-- Blackout-Hygiene-Set: Feuchttücher, Desinfektionsmittel, Haushaltshandschuhe, Müllsäcke (18 §5.7)
+- Wundantiseptika (verletztes Gewebe): **Octenidin, Chlorhexidin oder Povidon-Iod** (geprüft, KRINKO-basiert)
+- Hände/Flächen: alkoholisches Desinfektionsmittel **60–90 Vol.-%**, Einwirkzeit produktabhängig (Richtwert 30 s–2 min, geprüft)
+- Blackout-Hygiene-Set: Feuchttücher, Desinfektionsmittel, Haushaltshandschuhe, Müllsäcke 
 
 ## Schritte
 1. Instrumente/Verbandzeug/Metall in einen Topf, mit Wasser bedecken, **15 min sprudelnd kochen**, abkühlen lassen.
@@ -23,7 +21,7 @@ Keimbelastung von Gerät, Wunden und Flächen ohne Strom wirksam senken — mit 
 5. Wäsche des Kranken gesondert, gesotten (ART-0254).
 
 ## Varianten (Stadt / Land / Klima)
-- **Stadt:** Leitungswasser → Kanister, dann abkochen (ART-0062: 1 min sprudelnd, ab 2.000 m 3 min — W3); **Land:** Brunnenwasser erst abkochen.
+- **Stadt:** Leitungswasser → Kanister, dann abkochen (ART-0062: 1 min sprudelnd, ab 2.000 m 3 min —); **Land:** Brunnenwasser erst abkochen.
 - **Klima:** Sommer = höhere Keimlast, strengere 1-Tag-Regeln; Winter = Sonne schwächer, dafür Kälte konservierend.
 
 ## Typische Fehler + Folgen
@@ -35,13 +33,13 @@ Keimbelastung von Gerät, Wunden und Flächen ohne Strom wirksam senken — mit 
 | Instrumente nur „abgewischt“ | Kreuzinfektion |
 
 ## Warnungen
-Keine eigene Warnpflicht; Querverweis warn-8a (Wunden nur mit gesottenem Wasser, ART-0245).
+Keine eigene Warnpflicht; Querverweis (Wunden nur mit gesottenem Wasser, ART-0245).
 
 ## Siehe auch
-ART-0245 (Wunde reinigen) · ART-0254 (Wäsche/Schmutz) · ART-0062 (Abkochen) · ART-0051 (Geschirr/Oberflächen, Band 2) · ART-0243 (Sanitätsmappe)
+ART-0245 (Wunde reinigen) · ART-0254 (Wäsche/Schmutz) · ART-0062 (Abkochen) · ART-0051 (Geschirr/Oberflächen) · ART-0243 (Sanitätsmappe)
 
 ## Übungsbezug
-„Die Lager-Probe“ (review-v7 Anhang C, November): Wäsche gesotten, Hände desinfiziert — am Blatt protokollieren. Verfalluhr 12 Monate (ART-0035).
+Üben: 1× monatlich — Instrumente 15 Minuten sieden und die Händedesinfektion am eigenen Material durchspielen.
 
 ## Mini-Glossar
 - **Gesotten** = ≥ 15 min in sprudelndem Wasser gekocht (Keimarmut).
