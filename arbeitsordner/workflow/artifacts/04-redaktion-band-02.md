@@ -23,6 +23,11 @@ Wasser wird nach Bedarf verteilt, nicht nach Status oder Stärke.
 
 **Querverweise:** siehe Konzept 2.1, siehe Konzept 2.2, siehe Konzept B10-1.1, Schuld & Geschenk.
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Wasser ist knapp und lebensnotwendig; Verteilung nach Bedarf (nicht nach Status) maximiert das Überleben der Gruppe und verhindert Konflikte.
+- **Situationsvarianten (wann welche):** Stadt: Flaschen/Behälter gerecht nach Personen aufteilen. Land: Entnahmestelle kontingentieren.
+- **Typische Fehler (warum + Folge):** Nach Status oder „wer zuerst kommt“. Folge: Konflikte, Umsturz der Ordnung, Gefährdung von Kindern/Kranken.
 ### 1.2 Zonenplan — **gelb (W7)** · P 9 · M unbedenklich · V 9 · Abb. 2.1
 
 Der Zonenplan trennt Wasserentnahme, Grauwasser und Latrine im Gelände. **Korrektur W7:** Latrine–Wasser **≥ 30 m (besser 50 m), stets unterhalb/hangabwärts** der Entnahmestelle (Sphere/WHO; 20 m waren zu wenig).
@@ -50,6 +55,11 @@ Der Zonenplan trennt Wasserentnahme, Grauwasser und Latrine im Gelände. **Korre
 
 ## Kapitel 2 — Bedarf & Bilanz
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Hangabwärts fließt Oberflächen- und Sickerwasser — alles unterhalb (Latrine, Grauwasser) kann die Entnahme kontaminieren. ≥ 30 m Abstand (besser 50 m) ist das Sphere/WHO-Minimum (W7).
+- **Situationsvarianten (wann welche):** Hangiges Gelände: Entnahme oben, Latrine unten. Flaches Gelände: 50 m in Gegenwindrichtung. Stadt: siehe 9.1 Stadt-Variante.
+- **Typische Fehler (warum + Folge):** Latrine zu nah oder hangaufwärts anlegen. Folge: Fäkalkeime im Trinkwasser, Durchfall-Epidemie in der Gruppe.
 ### 2.1 Bedarfsrechnung — grün · P 9 · M unbedenklich · V 9 · Abb. 2.2
 
 Werte (W1/W2/L8): Trinkminimum **2–3 l/Person/Tag** (Kinder 1–1,5 l); Notfallstandard **7,5–10 l/Tag** (Trinken+Kochen+Hygiene, WHO-Untergrenze); Haushaltsstandard **15–20 l/Tag**; bei Fieber/Leistung **4–6 l** Trinkanteil.
@@ -65,6 +75,11 @@ Werte (W1/W2/L8): Trinkminimum **2–3 l/Person/Tag** (Kinder 1–1,5 l); Notfal
 
 **Querverweise:** siehe Konzept 2.2, siehe Konzept 2.3, siehe Konzept 8.1, siehe Konzept B8-4.2, Wärme-Regie 2–4 l/Tag.
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Der Wasserbedarf ist physiologisch: 2–3 l/Tag Trinkminimum, 7,5–10 l Notfall (Trinken+Kochen), 15–20 l Haushalt (WHO/Sphere). Fieber/Leistung erhöht den Bedarf.
+- **Situationsvarianten (wann welche):** Kinder 1–1,5 l (dehydrieren schneller), Fieber + 1–2 l (B8-4.2), schwere Arbeit 4–6 l. Sommer: Bedarf steigt.
+- **Typische Fehler (warum + Folge):** Nur Trinkminimum rechnen. Folge: zu kleiner Vorrat; bei Hitze/Durchfall Dehydratation.
 ### 2.2 Bedarfsprofile — grün · P 9 · M unbedenklich · V 9
 
 | Profil | Zuschlag |
@@ -78,6 +93,11 @@ Werte (W1/W2/L8): Trinkminimum **2–3 l/Person/Tag** (Kinder 1–1,5 l); Notfal
 
 **Querverweise:** siehe Konzept 2.1, siehe Konzept B8-4.2.
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Personengruppen haben systematisch unterschiedlichen Bedarf; Profile machen den Bedarf planbar statt schätzbar.
+- **Situationsvarianten (wann welche):** Schwangere/Stillende + 1 l; Leistungsträger 4–6 l; Kranke siehe B8-4.2.
+- **Typische Fehler (warum + Folge):** Alle mit gleichem Satz rechnen. Folge: Unterversorgung der Risikogruppen (Kinder, Fieberkranke).
 ### 2.3 Ertragsrechnung — grün · P 8 · M unbedenklich · V 8 · Abb. 2.3
 
 Regenformel (W8): **1 mm Niederschlag × 1 m² Fläche = 1 l** (exakt, vor Verlusten).
@@ -97,6 +117,11 @@ Regenformel (W8): **1 mm Niederschlag × 1 m² Fläche = 1 l** (exakt, vor Verlu
 
 ## Kapitel 3 — Wasser finden
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Niederschlag ist linear: 1 mm auf 1 m² ergibt exakt 1 l. Verluste (First-Abwurf, Verdunstung, Überlauf) kommen als 20–30 % Abzug dazu.
+- **Situationsvarianten (wann welche):** Großes Dach (Land) = hoher Ertrag; Balkon (Stadt) = kleiner Ertrag, mehr Behälter nötig. Vor dem Regen rechnen.
+- **Typische Fehler (warum + Folge):** Ohne Verlustabzug rechnen. Folge: Tank läuft über; Glaube an „genug Wasser“ täuscht.
 ### 3.1 Oberflächenwasser lesen — grün · P 8 · M unbedenklich · V 9
 
 Fließend vor stehend. Ölfilm oder Chemiegeruch = **verwerfen** (W4: Abkochen tötet keine chemischen Gifte).
@@ -106,6 +131,11 @@ Fließend vor stehend. Ölfilm oder Chemiegeruch = **verwerfen** (W4: Abkochen t
 
 **Querverweise:** siehe Konzept 5.1, siehe Konzept 6.2 (Abkochen tötet keine Gifte).
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Fließendes Wasser erneuert und verdünnt Kontamination; stehendes Wasser konzentriert Keime. Ölfilm/Chemie sind durch Kochen nicht entfernbar (W4).
+- **Situationsvarianten (wann welche):** Bach oberhalb der Siedlung bevorzugen; stehendes Gewässer nur nach Aufbereitung (Kap. 6/7). Stadt: Leitungsreste, Regen (3.2).
+- **Typische Fehler (warum + Folge):** Stehendes trübes Gewässer bevorzugen. Folge: Keime/Chemie im Trinkwasser; Kochen allein reicht bei Chemie nicht (W4).
 ### 3.2 Regen auffangen (First-Abwurf-Pflicht) — grün · P 9 · M unbedenklich · V 9 · Abb. 2.4
 
 1. Dachrinne/Auffangplane reinigen.
@@ -129,6 +159,11 @@ Fließend vor stehend. Ölfilm oder Chemiegeruch = **verwerfen** (W4: Abkochen t
 
 **Querverweise:** siehe Konzept 2.3, siehe Konzept 4.1, siehe Konzept 8.2 (Wiederverseuchung).
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Regen ist am wenigsten kontaminiert, wenn die erste Schmutzschicht (First-Abwurf) verworfen wird; die Dachfläche bestimmt den Ertrag (siehe 2.3).
+- **Situationsvarianten (wann welche):** Land: Dachrinne → Filter → Tank. Stadt: Plane über Balkonbrüstung + Eimer; erstes Wasser verwerfen. Winter: Schnee schmelzen (3.7).
+- **Typische Fehler (warum + Folge):** First-Abwurf vergessen. Folge: Vogelkot/Staub im Trinkwasser; Filter setzen sich sofort zu.
 ### 3.3 Quellen & Brunnen (Oberhalb-Check) — grün · P 8 · M unbedenklich · V 9
 
 1. Oberhalb der Quelle prüfen: Vieh, Latrine, Müll innerhalb 50 m hangaufwärts?
@@ -140,6 +175,11 @@ Fließend vor stehend. Ölfilm oder Chemiegeruch = **verwerfen** (W4: Abkochen t
 
 **Querverweise:** siehe Konzept 1.2, siehe Konzept 9.1.
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Quellen entstehen, wo Grundwasser austritt; oberhalb liegende Nutzungen (Vieh, Latrine, Müll) kontaminieren sie hangaufwärts (siehe 1.2).
+- **Situationsvarianten (wann welche):** Land: Waldquelle oberhalb des Lagers. Stadt: meist kein Zugang — Regen (3.2) und Leitungsreste nutzen.
+- **Typische Fehler (warum + Folge):** Oberhalb-Check auslassen. Folge: kontaminierte Quelle, chronische Durchfälle.
 ### 3.4 Sickergrube / Behelfsbrunnen — grün · P 7 · M unbedenklich · V 8
 
 1. Stelle mit feuchtem Boden/ Vegetation suchen (hangabwärts einer Mulde).
@@ -154,6 +194,11 @@ Fließend vor stehend. Ölfilm oder Chemiegeruch = **verwerfen** (W4: Abkochen t
 
 **Querverweise:** siehe Konzept 6.1, siehe Konzept 6.2.
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Sickerwasser sammelt sich in Senken; die oberste Schicht ist aufgewirbelter Schlamm — Erstwasser verwerfen, das Nachsickernde ist klarer.
+- **Situationsvarianten (wann welche):** Nur Land mit Grundstück. Stadt: nicht graben (Leitungen, Keller, Nachbarn) — siehe Stadt-Variante.
+- **Typische Fehler (warum + Folge):** Erstwasser nicht verwerfen. Folge: stark trübes Wasser; Filter/SODIS versagen (siehe 5.1).
 ### 3.5 Solarstill — **gelb (Notbehelf, P = 4)** · P 4 · M unbedenklich · V 8 · Abb. 2.5
 
 Der Solarstill ist ein Notbehelf (W11): Ertrag konservativ **0,3–1,5 l/Tag**, nur als Klarwasser-Nachbehandlung.
@@ -170,6 +215,11 @@ Der Solarstill ist ein Notbehelf (W11): Ertrag konservativ **0,3–1,5 l/Tag**, 
 
 **Querverweise:** siehe Konzept 6.2, siehe Konzept 7.2.
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Verdunstung kondensiert an der kühleren Folie; der Ertrag hängt von Sonne und Temperaturdifferenz ab (0,3–1,5 l/Tag). Nur als Nachbehandlung von Klarwasser (W11).
+- **Situationsvarianten (wann welche):** Sonne/trockene Luft: beste Ausbeute. Bewölkt/kalt: Ertrag gegen null — dann kochen (6.2).
+- **Typische Fehler (warum + Folge):** Solarstill als Hauptquelle planen. Folge: zu wenig Wasser, Zeitverlust. Im Zweifel kochen (6.2).
 ### 3.6 — *nicht vergeben (im Redaktionsstand gestrichen)*
 
 ### 3.7 Winterwasser — grün · P 7 · M unbedenklich · V 9 · Abb. 2.6
@@ -189,6 +239,11 @@ Schmelze statt Schnee essen (W9): Pulverschnee ≈ 1:10, Altschnee 2–3:10, Kru
 
 ## Kapitel 4 — Behälter & Transport
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Schnee enthält Luft; Schmelzen liefert das reale Wasservolumen (Pulverschnee 1:10 bis Eis 1:9). Schneessen senkt die Kerntemperatur.
+- **Situationsvarianten (wann welche):** Tausalz-Schnee (Straßenrand) ist chemisch belastet — verwerfen (warn-7c). Sauberen Schnee von Feld/Dach nehmen.
+- **Typische Fehler (warum + Folge):** Schnee direkt essen. Folge: Unterkühlung, Energieverlust; bei Tausalz: Vergiftung.
 ### 4.1 Behälterkunde — grün · P 8 · M unbedenklich · V 9
 
 | Werkstoff | Trinkwasser | Anmerkung |
@@ -203,6 +258,11 @@ Schmelze statt Schnee essen (W9): Pulverschnee ≈ 1:10, Altschnee 2–3:10, Kru
 
 **Querverweise:** siehe Konzept 8.2 (Wiederverseuchung).
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Nur lebensmittelechte Materialien (HDPE, Edelstahl) sind trinkwassersicher; Zink löst Metallionen (nur Nutzwasser); unbekannte Fässer können Chemie-/Ölreste enthalten.
+- **Situationsvarianten (wann welche):** Stadt: Kanister/Flaschen kennzeichnen. Land: Regentonne, Brunnenbehälter. Kennzeichnung „Trinkwasser/Nutzwasser“.
+- **Typische Fehler (warum + Folge):** Ungekennzeichnete Behälter mischen. Folge: Kreuzkontamination — sauberes Wasser wird wieder dreckig (8.2).
 ### 4.2 Transportkette (10 l einseitig) — grün · P 8 · M unbedenklich · V 9 · Abb. 2.7
 
 Konsistent mit Traglast (W20, siehe Konzept B1-6.5): 10 l Wasser = 10 kg = eine Seite, ein Arm.
@@ -216,6 +276,11 @@ Konsistent mit Traglast (W20, siehe Konzept B1-6.5): 10 l Wasser = 10 kg = eine 
 
 **Querverweise:** siehe Konzept B1-6.5, siehe Konzept 4.3.
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** 10 l Wasser = 10 kg — einseitig belastet das die Wirbelsäule asymmetrisch; auf dem Rücken (Trageriemen) geht die Last auf das Becken. Konsistent mit B1-6.5.
+- **Situationsvarianten (wann welche):** Kurze Strecke: einseitig 10 l ok. Lange Strecke/Marsch: Rucksacktrage. Gruppe: Zwischentank (4.3).
+- **Typische Fehler (warum + Folge):** Mehr als 10 l einseitig tragen. Folge: Rückenschaden, unsicherer Tritt, Sturz.
 ### 4.3 Gruppenkette (Zwischentank) — grün · P 8 · M unbedenklich · V 8
 
 1. Zwischentank am Ziel aufstellen (sauber, siehe Konzept 4.1).
@@ -231,6 +296,11 @@ Konsistent mit Traglast (W20, siehe Konzept B1-6.5): 10 l Wasser = 10 kg = eine 
 
 ## Kapitel 5 — Beurteilen ohne Labor
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Ein Zwischentank entkoppelt Transport und Verbrauch: alle schöpfen aus einem sauberen Behälter mit definierter Entnahme (siehe 8.2), nicht aus Einzelflaschen.
+- **Situationsvarianten (wann welche):** Am Zielort aufstellen, bevor die Gruppe eintrifft. Stadt: Abstellraum/Treppenhaus.
+- **Typische Fehler (warum + Folge):** Direkt aus Transportkanistern trinken. Folge: Wiederverseuchung des ganzen Vorrats (8.2).
 ### 5.1 Wasser beurteilen (Befund-Tabelle, Blaualgen) — grün · P 7 · M unbedenklich · V 9
 
 | Befund | Bedeutung | Maßnahme |
@@ -260,6 +330,11 @@ Konsistent mit Traglast (W20, siehe Konzept B1-6.5): 10 l Wasser = 10 kg = eine 
 
 ## Kapitel 6 — Aufbereitung I: Klären, Filtern, Kochen
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Ohne Labor misst du Trübung optisch (Secchi-Teller/Sichttiefe), Chemie geruchlich (Öl, Chlor), Biologie an Algen/Teichen. Die Sichttiefe koppelt an die NTU-Schwellen in der Tabelle.
+- **Situationsvarianten (wann welche):** Klares Quellwasser: Sichttiefe > 30 cm. Trübes Sickerwasser: erst klären (6.1). Blaualgen: nicht trinken, nicht baden.
+- **Typische Fehler (warum + Folge):** Nur „sieht klar aus“. Folge: Keime/Chemie unbemerkt; SODIS/Chlor falsch dosiert.
 ### 6.1 Klären / Vorfiltern — grün · P 8 · M unbedenklich · V 9 · Abb. 2.8
 
 1. Wasser 30 min absetzen lassen.
@@ -272,6 +347,11 @@ Konsistent mit Traglast (W20, siehe Konzept B1-6.5): 10 l Wasser = 10 kg = eine 
 
 **Querverweise:** siehe Konzept 6.3 (SODIS nur < 30 NTU), siehe Konzept 7.3.
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Absetzen nutzt die Schwerkraft (Partikel sinken); Tuch/Aktivkohle halten feinere Partikel zurück. Ziel: Sichttiefe > 10 cm vor chemischer Aufbereitung.
+- **Situationsvarianten (wann welche):** Stark trüb: 30 min absetzen + Tuch. Leicht trüb: Kohlefilter. Kaltes Wasser (Winter): setzt langsamer ab — länger warten.
+- **Typische Fehler (warum + Folge):** Nicht klären, direkt SODIS/Chemie. Folge: Trübung blockiert die Desinfektion (> 30 NTU).
 ### 6.2 Abkochen — grün · P 9 · M unbedenklich · V 10 · Abb. 2.9
 
 Wert (W3, CDC/WHO): **1 Minute sprudelnd kochen; ab 2.000 m Höhe 3 Minuten.**
@@ -288,6 +368,11 @@ Wert (W3, CDC/WHO): **1 Minute sprudelnd kochen; ab 2.000 m Höhe 3 Minuten.**
 
 **Querverweise:** siehe Konzept 5.1, siehe Konzept 7.2, siehe Glossar „gesottenes Wasser" (Band 1 Anhang D); Querschnitt B7/B8 (kochen vor Konservieren/Wundspülen).
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Am Siedepunkt (100 °C, ab 2.000 m niedriger) sterben praktisch alle pathogenen Keime/Viren/Parasiten ab; 1 min sprudelnd reicht, ab 2.000 m 3 min (W3). Chemische Gifte (W4) entfernt Kochen nicht.
+- **Situationsvarianten (wann welche):** Immer anwendbar mit Topf + Brennstoff. Höhenlage von der Karte ablesen. Im Zweifel länger kochen.
+- **Typische Fehler (warum + Folge):** Nur „ein bisschen erwärmen“. Folge: Keime überleben — Durchfall, Typhus, Hepatitis A.
 ### 6.3 SODIS — **gelb** · P 6 · M unbedenklich · V 8 · Abb. 2.10
 
 Nur bei **klarem Wasser — Sichttiefe > 30 cm (≈ < 10 NTU, Feldmethode siehe Konzept 5.1)**, PET-Flaschen **1–2 l**, **6 h volle Sonne / 2 Tage bewölkt** (W6). **Im Zweifel kochen** (siehe Konzept 6.2).
@@ -309,6 +394,11 @@ Nur bei **klarem Wasser — Sichttiefe > 30 cm (≈ < 10 NTU, Feldmethode siehe 
 
 ## Kapitel 7 — Aufbereitung II: Sandfilter, Destillation, Chemie
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** UV-A + Sauerstoff im PET bauen Keime in 6 h ab; 1–2-l-Flaschen erwärmen sich genug. Nur bei Sichttiefe > 30 cm (≈ < 10 NTU) wirksam (W6).
+- **Situationsvarianten (wann welche):** Sonne pur: 6 h. Bewölkt: 2 Tage. Trüber: ungeeignet — dann kochen (6.2) oder Chlor (7.3). Flaschen schütteln (Sauerstoff).
+- **Typische Fehler (warum + Folge):** SODIS bei trübem Wasser anwenden. Folge: Desinfektion unvollständig; Keime überleben.
 ### 7.1 Langsamsandfilter — grün · P 7 · M unbedenklich · V 7 · Abb. 2.11
 
 Maße (W10): **40–60 cm Sand**, Wasserstand nie unter **5 cm über Sand**, **Reife 1–2 Wochen**, danach **Filtrat noch abkochen**.
@@ -325,6 +415,11 @@ Maße (W10): **40–60 cm Sand**, Wasserstand nie unter **5 cm über Sand**, **R
 
 **Querverweise:** siehe Konzept 6.2.
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Der Langsamsandfilter wirkt biologisch: die oberste Sandschicht bildet eine Biohaut, die Keime abbaut; 40–60 cm Sand und stehender Wasserstand (≥ 5 cm) sind nötig. Reife 1–2 Wochen; Filtrat trotzdem nachkochen (W10).
+- **Situationsvarianten (wann welche):** Langsamer Durchfluss = besser. Wartung: oberste 0,5–1 cm abschaben. Frost: Filter entleeren.
+- **Typische Fehler (warum + Folge):** Frisch gebaut sofort trinken. Folge: Biohaut fehlt — Filter wirkt nur mechanisch, Keime passieren.
 ### 7.2 Destillation (Topf-Destille, Solarstill) — **gelb (Notbehelf-Grenze, P = 5)** · P 5 · M unbedenklich · V 8 · Abb. 2.12
 
 Ertrag konservativ (W11): Topf-Destille **0,5–1,5 l/h**, Solarstill 0,3–1,5 l/Tag. **Salz und Metalle gehen über, Keime erst durch Nachkochen** (siehe Konzept 6.2).
@@ -340,6 +435,11 @@ Ertrag konservativ (W11): Topf-Destille **0,5–1,5 l/h**, Solarstill 0,3–1,5 
 
 **Querverweise:** siehe Konzept 3.5, siehe Konzept 6.2.
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Verdampfen trennt Wasser von Salz/Metallen; Keime verdampfen nicht mit, gelangen aber über Luft/Auffanggefäß ins Destillat — deshalb nachkochen (W11).
+- **Situationsvarianten (wann welche):** Notbehelf (0,5–1,5 l/h). Salzwasser/Meerwasser: ja. Solarstill (3.5) für Kleinstmengen.
+- **Typische Fehler (warum + Folge):** Destillat ohne Nachkochen trinken. Folge: Keime aus dem Auffanggefäß — Durchfall.
 ### 7.3 Chemische Desinfektion (Chlor, Notstand) — **gelb** · P 6 · M prüfenswert · V 7 · Abb. 2.13
 
 Dosis (W5): **~2 Tropfen 5–6%ige Bleiche pro Liter**; trüb oder kalt: **doppelt (4 Tropfen)**, Wartezeit **30 min (kalt 60 min)**, dann Geruchsprobe.
@@ -368,6 +468,11 @@ Dosis (W5): **~2 Tropfen 5–6%ige Bleiche pro Liter**; trüb oder kalt: **doppe
 
 ## Kapitel 8 — Lagerung & Haushaltsvorrat
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Hypochlorige Säure (NaOCl) tötet Keime in 30 min; die Dosis hängt von der Konzentration ab (5–6 %: 2 Tropfen/l; 36° chl. ≈ 9,6 %: 1 Tropfen/l). Trüb/kalt: doppelte Dosis und Zeit. Chlorgas bei Säure-/Ammoniak-Kontakt ist tödlich (warn-2).
+- **Situationsvarianten (wann welche):** Nur im Notstand. Konzentration prüfen (°chl. ↔ %, Tabelle). Kinder: Dosis nie halbieren (W5) — im Zweifel kochen (6.2).
+- **Typische Fehler (warum + Folge):** Konzentration nicht umgerechnet (z. B. Javel 36° mit 2 Tropfen). Folge: doppelte Dosis (Reizung) oder bei Säure-/Ammoniak-Mischung lebensgefährliches Chlorgas.
 ### 8.1 Haushaltsvorrat (2 l × 14 T) — grün · P 9 · M unbedenklich · V 10 · Abb. 2.14
 
 BBK-Wert (W21): **2 l Trinkwasser pro Person × 14 Tage**. Konsistent mit Konzept B1-9.1 (Stundenprotokoll: Verbrauch dokumentieren).
@@ -386,6 +491,11 @@ BBK-Wert (W21): **2 l Trinkwasser pro Person × 14 Tage**. Konsistent mit Konzep
 
 **Querverweise:** siehe Konzept 2.1, siehe Konzept 4.1, siehe Konzept B1-9.1.
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** 2 l × 14 Tage × Personen ist der BBK-Mindestvorrat; Rotation alle 6 Monate hält das Wasser keimarm (Biofilm bildet sich in Behältern).
+- **Situationsvarianten (wann welche):** Land: kühler Keller. Stadt: kühlster Schrank am Treppenhaus, nie über Heizung/Sonne. Verbrauch protokollieren (B1-9.1).
+- **Typische Fehler (warum + Folge):** Vorrat warm lagern. Folge: Keimwachstum im Behälter; abgestandenes Wasser.
 ### 8.2 Wiederverseuchung (Ausgießbehälter) — grün · P 8 · M unbedenklich · V 9
 
 Sauberes Wasser wird am Behälter wieder dreckig. Dagegen: **Ausgießbehälter**.
@@ -403,6 +513,11 @@ Sauberes Wasser wird am Behälter wieder dreckig. Dagegen: **Ausgießbehälter**
 
 ## Kapitel 9 — Abwasser & Latrinen
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Der häufigste Fehler ist die Wiederverseuchung sauberer Vorräte an der Entnahme: Eintauchen von Schmutz kontaminiert alles. Ausgießhahn/-becher und Deckel-Disziplin verhindern das.
+- **Situationsvarianten (wann welche):** Immer Ausgießbehälter verwenden; nie mit dem Trinkbecher schöpfen. Deckel nach jeder Entnahme schließen.
+- **Typische Fehler (warum + Folge):** Mit schmutzigem Becher in den Kanister langen. Folge: gesamter Vorrat kippt innerhalb von Tagen.
 ### 9.1 Latrine — **gelb (W7)** · P 9 · M unbedenklich · V 9 · Abb. 2.15
 
 **Korrektur W7:** Abstand zur Wasserstelle **≥ 30 m (besser 50 m), unterhalb/hangabwärts** — siehe Konzept 1.2.
@@ -428,6 +543,11 @@ Sauberes Wasser wird am Behälter wieder dreckig. Dagegen: **Ausgießbehälter**
 
 **Querverweise:** siehe Konzept 1.2, siehe Konzept 2.6.2, siehe Glossar „Latrine“ (Band 1 Anhang D), siehe Konzept B4-1.2.
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Die Latrine schützt das Trinkwasser: Abstand ≥ 30 m (besser 50 m), hangabwärts, windabwärts (W7). Grabtiefe 25–30 cm deckt Ausscheidungen ab (Geruch, Insekten).
+- **Situationsvarianten (wann welche):** Land: Grube im Gelände. Stadt: Trocken-Trenn-Toilette/Eimer mit Deckel + Sägespäne; Beutel luftdicht, kommunale Entsorgung oder weit außerhalb.
+- **Typische Fehler (warum + Folge):** Zu nah am Wasser oder hangaufwärts. Folge: Fäkalkeime im Trinkwasser — Gruppendurchfall.
 ### 9.2 Grauwasser-Kette — grün · P 7 · M unbedenklich · V 9 · Abb. 2.16
 
 Kaskade: erst Waschen (Körper), dann Spülen (Geschirr), dann Boden wischen. **Lauge nie an Haut oder Wunden** (siehe Konzept B8-2.2).
@@ -499,3 +619,9 @@ Q2 siehe Konzept B1-8.1: Wasseraufbereitung üben — Abkochen (6.2), Sandfilter
 | 9.2 Grauwasser | 7 | unbedenklich | 9 | grün |
 
 > **Devise Band 2:** „Finde das Wasser oben, halte die Latrine unten und fern — und koche im Zweifel immer ab.“
+
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Die Grauwasser-Kaskade nutzt Wasser mehrfach (erst Körper, dann Geschirr, dann Boden) und versickert es unterhalb der Entnahme. Lauge reizt Haut/Wunden — nie an Personen (B8-2.2).
+- **Situationsvarianten (wann welche):** Land: Versickerungsgrube 30 cm tief mit Steinen. Stadt: Eimer sammeln, außerhalb entsorgen (nicht ins WC — Verstopfung).
+- **Typische Fehler (warum + Folge):** Grauwasser oberhalb der Entnahme kippen. Folge: Kontamination der eigenen Quelle; Lauge an Wunden: Heilungsstörung.

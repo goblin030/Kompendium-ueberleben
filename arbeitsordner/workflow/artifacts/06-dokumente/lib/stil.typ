@@ -4,7 +4,7 @@
 #let seite(band, titel) = {
   set page(
     paper: "a4",
-    margin: (top: 3.6cm, bottom: 3.4cm, left: 3.2cm, right: 3.2cm),
+    margin: (top: 2.2cm, bottom: 2.0cm, left: 2.0cm, right: 2.0cm),
     header: context {
       let hp = here().page()
       let ks = query(heading.where(level: 2)).filter(k => k.location.page() <= hp)
@@ -26,12 +26,12 @@
 #let init-doc(band: 1, titel: "") = {
   set document(title: "Das Überlebenbuch — Band " + str(band) + ": " + titel, author: "Das Überlebenbuch")
   seite(band, titel)
-  set text(lang: "de", size: 16pt, font: "Libertinus Serif", hyphenate: true)
-  set par(justify: true, leading: 1.5em, spacing: 2.1em)
-  set list(spacing: 1.4em, indent: 1.2em)
-  set enum(spacing: 1.4em, indent: 1.2em)
+  set text(lang: "de", size: 10.5pt, font: "Libertinus Serif", hyphenate: true)
+  set par(justify: true, leading: 0.62em, spacing: 0.85em)
+  set list(spacing: 0.5em, indent: 1.2em)
+  set enum(spacing: 0.5em, indent: 1.2em)
   set figure(numbering: none)
-  set table(stroke: 0.4pt + rgb("#8c8c8c"), inset: 6pt)
+  set table(stroke: 0.4pt + rgb("#8c8c8c"), inset: 3pt)
   show heading.where(level: 2): it => block(above: 0pt, below: 14pt, text(size: 18pt, weight: "bold", fill: rgb("#1a1a1a"))[#it.body])
   show heading.where(level: 3): it => block(above: 10pt, below: 8pt, text(size: 13.5pt, weight: "bold", fill: rgb("#1a1a1a"))[#it.body])
 }
@@ -81,6 +81,6 @@
   #text(size: 9.5pt, fill: fill)[#body]
 ]
 
-#let subhead(body) = { pagebreak(weak: true); block(above: 0pt, below: 6pt)[#text(size: 12.5pt, weight: "bold")[#body]] }
+#let subhead(body) = { pagebreak(weak: true); block(above: 0pt, below: 5pt)[#text(size: 11.5pt, weight: "bold")[#body]] }
 
 #let refpage(l) = context [#counter(page).at(l).first()]

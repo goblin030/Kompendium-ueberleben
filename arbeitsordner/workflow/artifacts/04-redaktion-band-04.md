@@ -18,7 +18,11 @@ Unterkunft wird dort gebaut, wo sie niemanden gefährdet und niemands Lebensgrun
 > **BAUSTEIN:** Frage vor dem Bauen, nicht danach.
 
 **Querverweise:** siehe Konzept B10-5.2, siehe Konzept B10-1.1.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Unterkunft ohne Zustimmung oder auf fremdem Grund schafft Konflikte und rechtliche Probleme (Hausrecht § 123 StGB, B10-5.2); friedliche Lösung (Tausch, Miete, Erlaubnis) hält die Gruppe handlungsfähig.
+- **Situationsvarianten (wann welche):** Land: eigenes/verpachtetes Grundstück, Scheune. Stadt: eigene Wohnung; Garage/Keller mit Erlaubnis des Vermieters.
+- **Typische Fehler (warum + Folge):** Ohne Absprache einziehen. Folge: Anzeige, Rauswurf, Gewalteskalation — gegen die Leitlinie.
 ### 1.2 Lagerplatz — grün · P 9 · M unbedenklich · V 9 · Abb. 4.1
 
 1. **Kaltluftsee meiden:** Tallagen sammeln nachts Kälte (2–5 °C kälter) — Hanglage bevorzugen.
@@ -42,7 +46,11 @@ Unterkunft wird dort gebaut, wo sie niemanden gefährdet und niemands Lebensgrun
 ---
 
 ## Kapitel 2 — Wärmehaushalt
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Kaltluft sinkt nachts in Senken (Talgrund 2–5 °C kälter); Hochwasser erreicht die Flutlinie (Treibgut, kahle Steine markieren sie); Lee schützt vor Wind. Kombination aus Hanglage + 30 m Abstand zum Gewässer + Lee ist optimal.
+- **Situationsvarianten (wann welche):** Land: Hanglage wählen. Stadt: Wohnung = Lagerplatz; wärmster Innenraum, Fluchtwege frei (siehe Stadt-Variante). Küste: Deichlinie meiden.
+- **Typische Fehler (warum + Folge):** Im Talgrund oder unter der Hochwassermarke lagern. Folge: nächtliche Unterkühlung oder Flut — Personenverlust.
 ### 2.1 Wärmehaushalt & Schichten — grün · P 9 · M unbedenklich · V 9 · Abb. 4.2
 
 Konsistent mit Konzept B3-6.1, Wärmepaket: innen trocken, Mitte isolierend, außen winddicht.
@@ -55,7 +63,11 @@ Konsistent mit Konzept B3-6.1, Wärmepaket: innen trocken, Mitte isolierend, au�
 - [ ] Isolation ausreichend
 
 **Querverweise:** siehe Konzept B3-6.1, siehe Konzept 6.3, siehe Konzept 7.1.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Wärmeverlust entsteht durch Leitung (Boden), Strahlung, Konvektion (Wind), Verdunstung (Schweiß/Feuchte). Schichten wirken dagegen: Isolation speichert Luft, Außenschicht blockt Wind, Innenschicht bleibt trocken (Wasser leitet Wärme 25× besser als Luft).
+- **Situationsvarianten (wann welche):** Kalt/trocken: Wolle innen, Daune Mitte, winddichte Jacke außen. Feucht: Synthetik außen. Stadt: Wohnungstextilien + Kerze mit Abstand (nie unbeaufsichtigt, B3-6.3).
+- **Typische Fehler (warum + Folge):** Feuchte Innenschicht tragen. Folge: schneller Wärmeverlust, Unterkühlung (B3-6.3, B4-2.4).
 ### 2.2 Wetter-/Wolkenlesen — grün · P 8 · M unbedenklich · V 8
 
 Konsistent mit Konzept B1-4.4: Zwei-Zeichen-Regel.
@@ -63,7 +75,11 @@ Konsistent mit Konzept B1-4.4: Zwei-Zeichen-Regel.
 - [ ] Zwei Zeichen vor jeder Entscheidung
 
 **Querverweise:** siehe Konzept B1-4.4.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Zwei unabhängige Wetterzeichen (Wolken + Wind) sind zuverlässiger als eines (B1-4.4). Konsistenz mit B1-4.4 halten.
+- **Situationsvarianten (wann welche):** Gebirge: kürzere Vorwarnzeit. Küste: Nebel. Stadt: Wärmeinsel — Wolken bevorzugen.
+- **Typische Fehler (warum + Folge):** Nur Temperatur/Fingerspitzen-Gefühl. Folge: Fehlentscheid bei Wetterumschwung.
 ### 2.3 Werkstoffkunde Dach/Wand — grün · P 8 · M unbedenklich · V 8 · Abb. 4.3
 
 Konsistent mit Band 9 (W28, Trocknung) und Band 5 (Ried/Stroh, siehe Konzept B5-8.1):
@@ -77,7 +93,11 @@ Konsistent mit Band 9 (W28, Trocknung) und Band 5 (Ried/Stroh, siehe Konzept B5-
 | Holz | Tragwerk | Trocknung ~1 J je Daumen (W28, siehe Konzept B9-3.2) |
 
 **Querverweise:** siehe Konzept 5.1, siehe Konzept B5-8.1, siehe Konzept B9-3.2.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Werkstoffe unterscheiden sich in Dichte, Festigkeit, Wasseraufnahme: Ried/Stroh leicht und wasserdicht geschichtet; Holz fest aber schwer (Trocknung ~1 J/Daumen, W28); Lehm/Stein Sockel gegen Feuchte/Nager.
+- **Situationsvarianten (wann welche):** Wald: Holz + Rinde. Feuchtgebiet: Ried. Stadt: vorhandene Möbel/Textilien, Holz aus Abbruch.
+- **Typische Fehler (warum + Folge):** Frisch geschlagenes Holz bauen. Folge: Rissbildung beim Trocknen, undicht, Wärmeverlust.
 ### 2.4 Kältegefahr erkennen — grün · P 8 · M unbedenklich · V 9
 
 **Zittern hört auf = Umschlag** in die gefährliche Phase (Hypothermie): Person fröstelt nicht mehr, wird verwirrt, müde.
@@ -96,7 +116,11 @@ Konsistent mit Band 9 (W28, Trocknung) und Band 5 (Ried/Stroh, siehe Konzept B5-
 ---
 
 ## Kapitel 3 — Die erste Nacht
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Unterkühlung verläuft in Stufen: Zittern (Wärmeproduktion), dann Verwirrung, dann das Zittern hört auf — die gefährlichste Phase (Körperkerntemperatur sinkt weiter ohne Gegenregulation). Früh handeln.
+- **Situationsvarianten (wann welche):** Winter/nass: alle nasse Kleidung sofort wechseln (B8-2.2 Konzept „Wäsche“ analog). Warme Getränke, Bewegung, trockene Schichten.
+- **Typische Fehler (warum + Folge):** „Wird schon gehen“. Folge: Bewusstlosigkeit, Herzrhythmusstörungen — lebensgefährlich ab < 32 °C Kern.
 ### 3.1 Windbruch (Klangprobe) — grün · P 7 · M unbedenklich · V 8
 
 1. Tote/stehende Bäume über dem Lagerplatz mit dem Messerklang prüfen: hohler Klang = morsches Holz = Windbruchgefahr.
@@ -106,7 +130,11 @@ Konsistent mit Band 9 (W28, Trocknung) und Band 5 (Ried/Stroh, siehe Konzept B5-
 - [ ] Besetzter Bau bleibt besetzt
 
 **Querverweise:** siehe Konzept B9-3.1, `warn-9a`.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Totes Holz klingt beim Anschlag hohl (geringere Dichte durch Zersetzung); morsch = Windbruchgefahr. Besetzter Bau bleibt besetzt: darunter wird nicht gefällt (tödliche Minute, B9-3.1 warn-9a).
+- **Situationsvarianten (wann welche):** Wald: alle toten Bäume über dem Platz prüfen. Stadt: keine Bäume — Dachbalken/Sparren prüfen (Altersrisse).
+- **Typische Fehler (warum + Folge):** Unter einem toten Baum lagern. Folge: nächtlicher Windbruch auf Zelt/Personen — tödlich.
 ### 3.2 Behelfsdach — grün · P 7 · M unbedenklich · V 9 · Abb. 4.4
 
 **Steillage 30/45/50°** nach Wetter: 30° bei Nieselregen, 45° bei Dauerregen, 50° bei Schnee.
@@ -119,7 +147,11 @@ Konsistent mit Band 9 (W28, Trocknung) und Band 5 (Ried/Stroh, siehe Konzept B5-
 - [ ] Sparrenabstand 50–60 cm
 
 **Querverweise:** siehe Konzept 5.1, siehe Konzept B1-6.3.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Die Steillage (First + Sparren) trägt die Dachhaut; die Neigung bestimmt, wie schnell Wasser/Schnee abläuft: 30° (Rinde) bei wenig Niederschlag, 45° (Ried/Stroh) Standard, 50° (Zweige) bei Schnee/Starkregen.
+- **Situationsvarianten (wann welche):** Starkregen: 50°. Schnee: 50° + feste Unterlage. Stadt: Flachdach — Plane spannen, regelmäßig Schnee räumen.
+- **Typische Fehler (warum + Folge):** Zu flach für das Material. Folge: Wassereintritt/Schneebruch — Einsturzgefahr.
 ### 3.3 Winter-Unterkunft (Schneehöhle) — **gelb** · P 6 · M unbedenklich · V 7 · Abb. 4.5
 
 > **Einsturzrisiko — zu zweit bauen.** Niemals allein.
@@ -139,7 +171,11 @@ Konsistent mit Band 9 (W28, Trocknung) und Band 5 (Ried/Stroh, siehe Konzept B5-
 ---
 
 ## Kapitel 4 — Hüttenbau I: Bauplan & Rohbau
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Schneehöhle isoliert durch Schnee (Luftporen, ~0,1 W/mK); Einsturzgefahr macht den Bau zu zweit nötig. Kugelprobe: Schnee ballt sich und hält = baubar. Luftloch verhindert CO-Anreicherung der Atemluft; Podest hebt die Liegefläche über die kalte Senke.
+- **Situationsvarianten (wann welche):** Starkwindverwehung nutzen. Zu wenig Schnee: Iglu aus Schneoblöcken oder Biwakzsack.
+- **Typische Fehler (warum + Folge):** Allein bauen oder Luftloch vergessen. Folge: Einsturz oder Ersticken im Schlaf.
 ### 4.1 Bauplan & Hüttenmaße — grün · P 8 · M unbedenklich · V 8 · Abb. 4.6
 
 Maße für 4 Personen: **2,5 × 2,5 m Grundfläche, Firsthöhe 1,20 m, Firstspanne ≤ 3,50 m**.
@@ -154,7 +190,11 @@ Maße für 4 Personen: **2,5 × 2,5 m Grundfläche, Firsthöhe 1,20 m, Firstspan
 - [ ] Firstspanne ≤ 3,50 m
 
 **Querverweise:** siehe Konzept 4.2, siehe Konzept B1-7.1.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Die Hüttenmaße ergeben sich aus der Personenzahl (4 Pers.: 2,5 × 2,5 m, First 1,20 m, Firstspanne ≤ 3,50 m): genug Liegefläche, aber nicht zu viel Volumen zum Heizen. Größer = mehr Material, mehr Heizenergie.
+- **Situationsvarianten (wann welche):** Land: Neubau nach Plan. Stadt: Wohnung abdichten (Fensterfolie, Türschwelle), Bett/Pritsche statt Boden (6.1), Vorrat im Treppenhaus (B7-8.1). 2 Personen: 2 × 2 m.
+- **Typische Fehler (warum + Folge):** Zu groß bauen. Folge: nicht beheizbar im Winter, Materialverschwendung.
 ### 4.2 Pfosten / First / Verbindungen — grün · P 8 · M unbedenklich · V 8 · Abb. 4.7
 
 1. Pfostenlöcher **30 cm tief**, **Steinkranz** um jedes Loch (Fundament).
@@ -170,7 +210,11 @@ Maße für 4 Personen: **2,5 × 2,5 m Grundfläche, Firsthöhe 1,20 m, Firstspan
 ---
 
 ## Kapitel 5 — Hüttenbau II: Dach, Wand, Diagnose
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Pfosten müssen Frost und Last tragen: 30 cm Tiefe (unter Frostgrenze lokal), Steinkranz gegen Unterspülung. Sattelkerbe gives Formschluss — der Balken kann nicht seitlich wegrutschen; Seil ergänzt.
+- **Situationsvarianten (wann welche):** Lehmboden: tiefer (40 cm). Sand: Steinkranz größer. Stadt: vorhandene Balken/Ressourcen nutzen.
+- **Typische Fehler (warum + Folge):** Zu flach oder ohne Fundament. Folge: Hütte kippt bei Sturm/Windlast.
 ### 5.1 Dachdeckung & Neigung — grün · P 7 · M unbedenklich · V 8 · Abb. 4.8
 
 | Material | Mindestneigung |
@@ -184,7 +228,11 @@ Konsistent mit Konzept B5-8.1, Materialquelle.
 - [ ] Neigung nach Material
 
 **Querverweise:** siehe Konzept B5-8.1, siehe Konzept 3.2.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Die Dachneigung muss Niederschlag schneller ableiten als das Material aufsaugt: Ried/Stroh 45°, Zweige 50°, Rinde 30°. Zu flach: Wasser dringt ein; zu steil: Material rutscht ab.
+- **Situationsvarianten (wann welche):** Viel Regen/Schnee: steiler (50°). Material Rinde: 30° möglich (B5-8.1). Stadt: Flachdach-Plane regelmäßig spannen/räumen.
+- **Typische Fehler (warum + Folge):** Neigung nach Material nicht beachten. Folge: Wasserschaden, Dachgewicht (nasser Schnee), Einsturz.
 ### 5.2 Wand / Boden / Sockel — grün · P 7 · M unbedenklich · V 8 · Abb. 4.9
 
 1. **Sockel 20 cm** hoch (Stein/Lehm) gegen Bodenfeuchte und Nager.
@@ -195,7 +243,11 @@ Konsistent mit Konzept B5-8.1, Materialquelle.
 - [ ] Ringgraben gezogen
 
 **Querverweise:** siehe Konzept 6.1, siehe Konzept B2-9.2, Grauwasser.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Sockel 20 cm schützt vor Spritzwasser und Nagern; Ringgraben (30 × 20 cm) leitet Oberflächenwasser um die Hütte herum; Boden innen mit Sand/Spänen trocken halten.
+- **Situationsvarianten (wann welche):** Hang: Graben bergseitig tiefer. Stadt: Wohnung — Türschwelle abdichten, Feuchtigkeitsfallen (Keller) meiden.
+- **Typische Fehler (warum + Folge):** Kein Ringgraben. Folge: Unterspülung des Sockels, feuchter Boden, Schimmel, Kälte.
 ### 5.3 Hüttendiagnose (sechs Schwachstellen) — grün · P 8 · M unbedenklich · V 9
 
 Checkliste (Kopiervorlage Anhang A): Dach dicht? Sockel trocken? Ringgraben frei? Zugloch verstopft? Schlafplattform trocken? Eingang wetterfest?
@@ -210,7 +262,11 @@ Checkliste (Kopiervorlage Anhang A): Dach dicht? Sockel trocken? Ringgraben frei
 ---
 
 ## Kapitel 6 — Isolierung & Schlafplätze
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Regelmäßige Diagnose (6 Schwachstellen) fängt Schäden früh, bevor sie kritisch werden — Wartung ist fortgesetzte Abnahme. Kopiervorlage Anhang A1.
+- **Situationsvarianten (wann welche):** Wöchentlich, nach jedem Sturm, vor Winter.
+- **Typische Fehler (warum + Folge):** Nur bei sichtbarem Schaden schauen. Folge: Dachbruch bei Schnee, Wassereinbruch bei Regen.
 ### 6.1 Schlafplatz & Bodenisolierung — grün · P 9 · M unbedenklich · V 9 · Abb. 4.10
 
 **Unten-zuerst-Regel:** erst die Bodenisolation, dann die Decke. Kälte kommt von unten.
@@ -225,7 +281,11 @@ Checkliste (Kopiervorlage Anhang A): Dach dicht? Sockel trocken? Ringgraben frei
 > **BAUSTEIN:** Der Boden stiehlt die Wärme zuerst. Isolier ihn zuerst.
 
 **Querverweise:** siehe Konzept 6.2, siehe Konzept 2.1, siehe Konzept 3.3.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Kälte kommt zuerst vom Boden (Leitung). Unten-zuerst: 12–18 Armvoll trockenes Material (Gras, Laub, Nadelreisig), dann luftdichte Schicht, dann Liegefläche. Nie direkt auf nacktem Boden.
+- **Situationsvarianten (wann welche):** Wald: Nadelreisig/Laub. Wiese: Gras/Heu. Stadt: Matratze/Bett + Decke auf dem wärmsten Boden (nicht Keller). Feuchte: Plane drunter.
+- **Typische Fehler (warum + Folge):** Ohne Bodenisolation schlafen. Folge: nächtlicher Wärmeverlust über den Boden — Unterkühlung trotz Decke.
 ### 6.2 Nachtwärme & Deckenbilanz — grün · P 8 · M unbedenklich · V 9
 
 Konsistent mit Konzept B1-2.3, Wachenplan.
@@ -236,7 +296,11 @@ Konsistent mit Konzept B1-2.3, Wachenplan.
 - [ ] Pro Person Decke + Wärmequelle
 
 **Querverweise:** siehe Konzept B1-2.3, siehe Konzept B3-6.2, siehe Konzept 6.3.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Über Nacht werden Decke + Wärmequelle pro Person kalkuliert (heißer Stein B3-6.2, Wärmflasche). Stoßlüftung vor dem Schlafen entfernt Feuchtigkeit (siehe 6.3), dann schließen.
+- **Situationsvarianten (wann welche):** Winter: 2 Decken + Stein. Sommer: 1 Decke. Stadt: Kerze nur beaufsichtigt (B3-6.3).
+- **Typische Fehler (warum + Folge):** Keine Wärmequelle einplanen. Folge: Auskühlen in der zweiten Nachthälfte (Zittern hört auf — B4-2.4).
 ### 6.3 Feuchtebilanz & Lüftung — grün · P 8 · M unbedenklich · V 8 · Abb. 4.11
 
 **½ l Atemfeuchtigkeit pro Person und Nacht.** Stoßlüftung: 2× täglich 5 min komplett durchlüften, dann schließen.
@@ -252,7 +316,11 @@ Konsistent mit Konzept B1-2.3, Wachenplan.
 ---
 
 ## Kapitel 7 — Textilkunde
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Jeder Mensch gibt ~½ l Feuchtigkeit/Nacht über die Atmung ab; ohne Lüftung kondensiert sie an Wänden/Decke (Schimmel, nasse Isolation). Stoßlüftung 2× täglich tauscht die Luft schnell. CO-Regel: keine Verbrennung im geschlossenen Raum (B3-6.3, warn-3).
+- **Situationsvarianten (wann welche):** Winter: kurz stoßlüften (5 min), nicht Dauerlüftung (auskühlen). Stadt: Wohnung = geschlossener Raum — Kerze/kocher nie unbeaufsichtigt.
+- **Typische Fehler (warum + Folge):** Nicht lüften oder Heizung im Raum. Folge: Schimmel/nasse Kleidung; bei Heizung: CO-Vergiftung (warn-3).
 ### 7.1 Faserkunde & Pflege — grün · P 8 · M unbedenklich · V 8 · Abb. 4.12
 
 | Faser | Feucht | Nass | Hitze/Funken |
@@ -267,7 +335,11 @@ Konsistent mit Konzept B1-2.3, Wachenplan.
 - [ ] Fasereigenschaften bekannt
 
 **Querverweise:** siehe Konzept 8.3, siehe Konzept B3-2.2, siehe Konzept B5-7.1, Fasergewinnung.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Fasern unterscheiden sich im Verhalten bei Nässe: Wolle isoliert auch feucht (körpereigene Crimp-Struktur hält Luft), Baumwolle kühlt nass (Wasser leitet), Synthetik schmilzt am Funken (B3-2.2). Pflege: Wolle auswringen, nicht rubbeln.
+- **Situationsvarianten (wann welche):** Winter: Wolle innen. Funkennahe Arbeit (Feuer): Baumwolle außen, nie Synthetik.
+- **Typische Fehler (warum + Folge):** Synthetik ans Feuer halten. Folge: schmelzende Kunststofftropfen auf der Haut — schwere Verbrennungen.
 ### 7.2 Nadel & Faden — grün · P 8 · M unbedenklich · V 9
 
 Soll: **2 Nadeln, 10–15 m Zwirn** (konsistent mit Faserertrag, siehe Konzept B5-7.1).
@@ -282,7 +354,11 @@ Soll: **2 Nadeln, 10–15 m Zwirn** (konsistent mit Faserertrag, siehe Konzept B
 ---
 
 ## Kapitel 8 — Kleidung im Ernstfall
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Nadel und Zwirn sind Verschleißteile: 2 Nadeln (eine bricht/verbiegt), 10–15 m Zwirn. Pflanzlicher Zwirn aus Fasern (B5-7.1) oder aus alter Kleidung gelöst.
+- **Situationsvarianten (wann welche):** Stadt: Nähset kaufen/vorrat; Land: selbst gedreht (B5-7.1).
+- **Typische Fehler (warum + Folge):** Kein Ersatzfaden. Folge: Kleidung nicht reparabel — Löcher, Wärmeverlust, Schuhwerk defekt.
 ### 8.1 Kleidungssatz & Eigentum — **gelb (prüfenswert)** · P 7 · M prüfenswert · V 9
 
 Jeder führt einen vollständigen Satz: Unterwäsche, Socken, Hose, Pullover, Jacke, Kopfbedeckung, Handschuhe, Schuhwerk.
@@ -293,7 +369,11 @@ Jeder führt einen vollständigen Satz: Unterwäsche, Socken, Hose, Pullover, Ja
 - [ ] Eigentumsfragen nach Band 10 gelöst
 
 **Querverweise:** siehe Konzept B10-5.2, siehe Konzept B10-4.2.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Ein kompletter Satz pro Person (Unterwäsche, Socken, Hose, Pullover, Jacke, Kopfbedeckung, Handschuhe, Schuhe) ist das Minimum; nasse Kleidung ist das häufigste Gesundheitsrisiko. Eigentum: Entnahme fremder Kleidung nur im Notstand §§ 34/35 StGB (B10-5.2), sonst Tausch.
+- **Situationsvarianten (wann welche):** Winter: Zwiebelschichten im Rucksack (B1-3.2). Stadt: Schrank/Depot. Land: Truhe + Wäscheleine.
+- **Typische Fehler (warum + Folge):** Nur das Nötigste. Folge: bei Nässe/Kälte Unterkühlung (2.4); Ersatz nicht verfügbar.
 ### 8.2 Wettergrenzen improvisiert (Verfallsdatum) — grün · P 7 · M unbedenklich · V 9
 
 Jeder Behelf (z. B. Poncho aus Müllsack, Gamaschen aus Dosenblech) bekommt ein **Verfallsdatum** — bei Erreichen prüfen/ersetzen.
@@ -301,7 +381,11 @@ Jeder Behelf (z. B. Poncho aus Müllsack, Gamaschen aus Dosenblech) bekommt ein 
 - [ ] Verfallsdatum auf jedem Behelf notiert
 
 **Querverweise:** siehe Konzept 8.1, siehe Konzept B9-6.2, Flicken als Methode.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Jeder Behelf (Poncho aus Müllsack, Gamaschen) hat eine Gebrauchsdauer; das Verfallsdatum erzwingt Prüfung/Ersatz, bevor er versagt.
+- **Situationsvarianten (wann welche):** Material depending: Müllsack reißt schnell (kurzes Datum), Blech hält länger.
+- **Typische Fehler (warum + Folge):** Behelf ohne Verfallsdatum. Folge: Versagen genau im Einsatz (Regen, Schlamm).
 ### 8.3 Schuhwerk — grün · P 7 · M unbedenklich · V 8 · Abb. 4.13
 
 **Eines trägt, eines trocknet.** Nie nasse Schuhe ans Feuer stellen (Leder bricht, siehe Konzept 7.1).
@@ -318,7 +402,11 @@ Jeder Behelf (z. B. Poncho aus Müllsack, Gamaschen aus Dosenblech) bekommt ein 
 ---
 
 ## Kapitel 9 — Lagerorganisation
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Leder wird bei direkter Hitze spröde und bricht (Eiweiß denaturiert); nasse Schuhe trocknen am besten bei Raumtemperatur mit Zeitung. Wechsel: eines tragen, eines trocknen.
+- **Situationsvarianten (wann welche):** Winter: 2 Paar. Barfußschuhe: Fußbett einlegen. Stadt: Heizung nicht direkt — Abstand halten.
+- **Typische Fehler (warum + Folge):** Nasse Schuhe ans Feuer. Folge: Lederbruch, Brandverletzung am Fuß, kein trockenes Schuhwerk.
 ### 9.1 Behelfstrage — grün · P 7 · M unbedenklich · V 8
 
 Konsistent mit Trage-Regeln Band 8 (siehe Konzept B8-6.1) und Traglast (siehe Konzept B1-6.5).
@@ -331,7 +419,11 @@ Konsistent mit Trage-Regeln Band 8 (siehe Konzept B8-6.1) und Traglast (siehe Ko
 - [ ] Zwei Träger
 
 **Querverweise:** siehe Konzept B1-6.5, siehe Konzept B8-6.1, siehe Konzept B9-3.3.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Die Behelfstrage verteilt das Gewicht auf zwei Stangen auf beide Schultern; zwei Träger mit Ablösung alle 30 min verhindern Überlastung (Traglast B1-6.5; Trage-Regeln B8-7.2 analog).
+- **Situationsvarianten (wann welche):** Enger Waldweg: einer vorn, einer hinten (B10-5.3). Stadt: Treppenhaus — Aufzug? Treppe tragen.
+- **Typische Fehler (warum + Folge):** Eine Person allein tragen lassen. Folge: Bandscheibenvorfall, Sturz auf der Treppe.
 ### 9.2 Lager bei Dunkelheit (Restlicht-1-h) — grün · P 8 · M unbedenklich · V 9
 
 Konsistent mit Konzept B1-7.3: eine Stunde vor Dunkelheit alle Arbeiten einstellen, die Licht brauchen.
@@ -400,3 +492,8 @@ Behelfsdach (3.2) und Schneehöhle (3.3, zu zweit) üben; Hüttendiagnose (5.3) 
 | 9.2 Lager bei Dunkelheit | 8 | unbedenklich | 9 | grün |
 
 > **Devise Band 4:** „Der Boden nimmt die Wärme zuerst — isoliere ihn zuerst. Und was du zum Schlafen brauchst, bleibt draußen vor dem Feuer.“
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Restlicht-1-h: eine Stunde vor Dunkelheit nur noch Lampenarbeit; Pfade mit Steinen markieren verhindert Stolpern/Unfälle bei Dunkelheit (B1-7.3).
+- **Situationsvarianten (wann welche):** Winter (frühe Dunkelheit): früher beginnen. Stadt: Treppenhausbeleuchtung? Kerze mitnehmen.
+- **Typische Fehler (warum + Folge):** Im Dunkeln weiterarbeiten. Folge: Verletzungen, verlorenes Werkzeug, Feuer ohne Sicht.

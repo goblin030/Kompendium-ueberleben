@@ -29,7 +29,7 @@ Jede Band-Datei folgt dem gleichen Schema: Kapitelüberschrift → Konzeptübers
 ## 1. Stilkonventionen (verbindlich für alle Teil-Dateien)
 
 1. **Kurze Sätze. Imperativ.** „Grabe die Grube 60 cm tief." Konkrete Maße, Mengen, Zeiten in jeder Anleitung.
-2. **Max. 2–3 einleitende Sätze pro Abschnitt**, dann Anleitung. Keine Motivationsprosa, keine Geschichts-Exkurse, keine Erzählübergänge.
+2. **Max. 2–3 einleitende Sätze pro Abschnitt**, dann Anleitung. Keine Motivationsprosa, keine Geschichts-Exkurse, keine Erzählübergänge. **Ergänzung nach Review v1 (review-v1/FEEDBACK.md):** Pro Konzept zusätzlich ein erklärender Block `**Erklärung:**` mit drei Punkten — Prinzip (warum funktioniert das physikalisch/biologisch/chemisch), Situationsvarianten (Stadt/Land, Wetter, Jahreszeit, verfügbares Material — wann welche Variante), typische Fehler (warum passiert der Fehler, Folge). Sachlich-nüchtern, kein Erzählstil; Imperativ bleibt in den Anleitungen.
 3. **Wiederholung schlägt Verweis:** Kurzregeln stehen mehrfach (Kapitel + Checkliste + Anhang).
 4. **Querverweise immer über Nummern** — einheitliches Schema (B-5, Feedback 10-testleser): innerhalb eines Bandes „Konzept X.Y“; **zwischen Bänden „Konzept B<Band>-X.Y“** (z. B. B3-6.3 = Band 3, Kapitel 6, Konzept 3). Nie „weiter oben", nie „siehe Seite". Kaputte Verweise sind verboten (Register §3 wird gegen die Band-Dateien abgeglichen).
 5. **Formate:**
@@ -193,6 +193,18 @@ Text-only-Warnrahmen (kein eigenes Symbol): kein induziertes Erbrechen (B8 5.2, 
 | m-1…m-14 | Minor (Typos, Wachenplan-Regel, aw-Erklärung, Ei-Test, Pfund=500 g, Ster-Holzarten, Bestattungstiefe 60–80 cm, Zeit-Sprechen-Definition, ±300-m-Kartenfehler, Blaetter-Typo, 4.8.3→8.3) | alle in den Band-Dateien gefixt (m-1 B1 2.3, m-2 B1 6.3, m-3 B9 2.1, m-4 B10 6.1, m-5 B7 7.2, m-6 B7 3.2, m-7 B3 2.2, m-8 B7 5.2, m-9 B8 9.2, m-10 B10 2.1, m-11 B1 7.3, m-12 B1 4.3, m-13 B2 3.5, m-14 B8 1.2 via B-Schema) | erledigt |
 
 **Zielerreichung:** Alle 5 BLOCKER und 12 MAJOR umgesetzt. Kapitel-Scores des Testlesers nach Einarbeitung: B2 K5 (NTU), B5 K8 (Keimprobe), B6 K1/K3/K5/K6/K9, B7 K6/K7/K8/K9, B8 K4/K8/K9, B1 K2/K4, B10 K2/K8 — die Ursachen sind adressiert; Ziel alle Kapitel ≥ 8 wird damit erreicht (Nachmessung durch testleser in der nächsten Runde vorgesehen).
+
+---
+
+## 9. Review-Feedback v1 — Einarbeitung (Quelle: `review-v1/FEEDBACK.md`, Projektowner 2026-11-07)
+
+| Befund (Review v1) | Zuständig | Maßnahme editor |
+|---|---|---|
+| Zu wenig erklärende Passagen (fast nur Tabellen/Checklisten) | editor (dieser Turn) | **Erledigt:** Pro Konzept in allen 10 Band-Dateien ein Block `**Erklärung:**` mit (1) **Prinzip** (physikalisch/biologisch/chemisch kurz), (2) **Situationsvarianten** (Stadt/Land, Wetter, Jahreszeit, verfügbares Material — wann welche Variante), (3) **Typische Fehler** (Ursache + Folge). 244/244 Konzepte versorgt (Ausnahmen: B2 3.6 unbesetzt, B6 5.1 ROT gestrichen). Stil bleibt sachlich-nüchtern, Imperativ in den Anleitungen; Beispiel Feuer (Band 3 4.2): Pyramide/Stern/Plattform je Situation mit Begründung erklärt |
+| Leerraum/Satzspiegel (16 pt, Ränder 3,2–3,6 cm) | doc-builder | nicht editor — an `lib/stil.typ` verwiesen (kompakterer Satz ~10,5–11 pt, Ränder ~2–2,5 cm) |
+| Zu schematische Zeichnungen | illustrator | nicht editor — situative Detail-Skizzen (z. B. Feuerbau-Varianten mit Maßen) an illustrator verwiesen |
+
+Umfang nach Einarbeitung: ~5.340 Zeilen in `04-redaktion*.md` (vorher ~4.300). Nächster Schritt: format-reviewer Re-Review → `review-v2/`.
 
 ---
 *Ende 04-redaktion.md — nächster Schritt laut WORKFLOW.md: Phase F testleser (Input: dieses Artefakt + Teil-Dateien), parallel illustrator (abb-*.svg).*

@@ -18,7 +18,11 @@ Warnungen umgesetzt: 5.1 `warn-10a` (Furt), 7.1 `warn-10b` (Brand im Zeughaus). 
 > **BAUSTEIN:** Ein Geschenk, das gemahnt wird, ist eine Rechnung. Nur eine davon bleibt freiwillig.
 
 **Querverweise:** siehe Konzept 1.2, siehe Konzept 2.1.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Gabe und Schuld sind sozial verschieden: eine Gabe darf nie eingefordert werden (Vertrauensbruch), eine Schuld ist eine vereinbarte Leistung mit Frist — schriftlich (1.2). Das hält Kooperation stabil.
+- **Situationsvarianten (wann welche):** Dorf und Stadt (Nachbarschaft) gleich. In der Krise: Gaben statt Schulden bevorzugen.
+- **Typische Fehler (warum + Folge):** Gabe mahnen. Folge: Gaben versiegen — niemand hilft mehr freiwillig.
 ### 1.2 Wort & Vertrag — grün · P 7 · M unbedenklich · V 8
 
 **Zwei Zeugen + Frist** — mündlich gilt, schriftlich hält. Protokoll: Anhang A Band 10 (Tausch-Protokoll mit Zeugen).
@@ -27,7 +31,11 @@ Warnungen umgesetzt: 5.1 `warn-10a` (Furt), 7.1 `warn-10b` (Brand im Zeughaus). 
 - [ ] Frist notiert
 
 **Querverweise:** siehe Konzept 2.3, siehe Anhang A.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Mündliche Verabredung mit zwei Zeugen + Frist ist ohne Netz durchsetzbar; das Protokoll (Anhang A1) verhindert „habe ich nicht gesagt“-Streit.
+- **Situationsvarianten (wann welche):** Jeder Tausch/Vertrag protokollieren. Stadt/Land gleich.
+- **Typische Fehler (warum + Folge):** Ohne Zeugen/Frist. Folge: Streit, Eskalation, Vertrauensverlust (siehe 4.2).
 ### 1.3 Das Mahl (Ehren-Platz-Regel) — grün · P 7 · M unbedenklich · V 9
 
 Gäste sitzen auf dem Ehrenplatz (wärmster/sicherster Platz, beste Portion). Gastgeber isst zuletzt.
@@ -39,7 +47,11 @@ Gäste sitzen auf dem Ehrenplatz (wärmster/sicherster Platz, beste Portion). Ga
 ---
 
 ## Kapitel 2 — Tausch
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Das gemeinsame Mahl ist soziales Kapital: Ehrenplatz für Gäste (wärmster Platz, beste Portion), Gastgeber isst zuletzt — signalisiert Großzügigkeit und Schutz.
+- **Situationsvarianten (wann welche):** Jede Gruppe gleich. Stadt: Wohnungsküche.
+- **Typische Fehler (warum + Folge):** Gäste vergessen/schlecht behandeln. Folge: keine Allianzen, keine Hilfe in der Not.
 ### 2.1 Der Wert — grün · P 8 · M unbedenklich · V 7 · Abb. 10.1
 
 **Korridor: Stunde / Seltenheit / Not.** Elle, Ruthe und Mandel waren historische Hohlmaße (Elle ≈ 45 cm, siehe B1-7.1); „15/Zehnt“ heißt: 15 Teile Maß = ein Zehnt Aufschlag — historischer Vergleich, heute nicht mehr gebräuchlich.
@@ -51,7 +63,11 @@ Gäste sitzen auf dem Ehrenplatz (wärmster/sicherster Platz, beste Portion). Ga
 - [ ] Korridor angewendet
 
 **Querverweise:** siehe Konzept B1-7.1, siehe Konzept 2.2, siehe Konzept 2.4, siehe Konzept 3.2.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Wert ist kein fester Preis, sondern ein Korridor: Arbeitszeit (Stunde), Seltenheit, Notlage. Elle/Ruthe/Mandel waren historische Hohlmaße (Elle ≈ 45 cm, B1-7.1); „15/Zehnt“ = 15 Teile plus ein Zehnt Aufschlag — historischer Vergleich. In der Not zählt der Bedarf des anderen, nicht der eigene Besitz.
+- **Situationsvarianten (wann welche):** Normalzeit: Stunden-Tafel 1:1 (3.2). Not: gegenseitiger Bedarf. Stadt/Land gleich.
+- **Typische Fehler (warum + Folge):** Jeden nach eigenem Maßstab bewerten. Folge: unfaire Tauschgeschäfte, Konflikte.
 ### 2.2 Ehrliche Waage — grün · P 7 · M unbedenklich · V 8 · Abb. 10.2
 
 **Gestriche n messen** (randvoll, nicht gehäuft); **Bürger-Maß** (bekanntes Gefäß als Referenz). Waage balanciert prüfen.
@@ -60,7 +76,11 @@ Gäste sitzen auf dem Ehrenplatz (wärmster/sicherster Platz, beste Portion). Ga
 - [ ] Referenzmaß geeicht
 
 **Querverweise:** siehe Konzept 2.1.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Fairness beim Messen verhindert verdeckten Betrug: gestrichen messen (randvoll), geeichtes Bürger-Maß (bekanntes Gefäß). Waage vor Gebrauch balancieren.
+- **Situationsvarianten (wann welche):** Jeder Tausch wägen/messen. Produktives Vertrauen statt Misstrauen — aber prüfen.
+- **Typische Fehler (warum + Folge):** Gehäuft messen oder ungeeichte Waage. Folge: einer zahlt doppelt — Streit (4.2).
 ### 2.3 Tausch-Platz — **gelb (prüfenswert)** · P 7 · M prüfenswert · V 8
 
 Markt mit **Fristen** (Anfang/Ende angesagt); Ordnung aufrechterhalten (Wachen, siehe Konzept B3-9.3 und Konzept B1-9.2).
@@ -69,7 +89,11 @@ Markt mit **Fristen** (Anfang/Ende angesagt); Ordnung aufrechterhalten (Wachen, 
 - [ ] Ordnungsposten besetzt
 
 **Querverweise:** siehe Konzept B3-9.3, siehe Konzept B1-9.2, siehe Konzept 4.1.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Der Tauschplatz braucht Ordnung (Wachen, feste Zeiten/Fristen), sonst wird er zum Schwarzmarkt; Markt-Fristen vorher ansagen.
+- **Situationsvarianten (wann welche):** Dorf: fester Platz am Dorfanger. Stadt: Treppenhaus/Hof zu festen Zeiten.
+- **Typische Fehler (warum + Folge):** Unbegrenzter Markt. Folge: Diebstahl, Gewalt, Chaos.
 ### 2.4 Wucher — **gelb** · P 7 · M prüfenswert · V 8
 
 **Not-Preis nach der Not** — ethisch vertretbar, rechtlich Grauzone:
@@ -84,7 +108,11 @@ Markt mit **Fristen** (Anfang/Ende angesagt); Ordnung aufrechterhalten (Wachen, 
 ---
 
 ## Kapitel 3 — Handels-Ware
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Wucher (krasses Missverhältnis in Zwangslage) ist strafbar (§ 291 StGB) und der Vertrag nichtig (§ 138 Abs. 2 BGB). Ethisch ok ist der Not-Preis nach der Not — aber im Korridor (2.1) bleiben.
+- **Situationsvarianten (wann welche):** Notlage: Preis nach Bedarf des anderen. Normale Lage: fairer Tausch.
+- **Typische Fehler (warum + Folge):** In der Not Mondpreise verlangen. Folge: strafbar, Dorf ächtet dich, futuras Hilfe aus.
 ### 3.1 Ware des Hauses — grün · P 7 · M unbedenklich · V 8
 
 Nur **haltbare Ware** handeln (siehe Band 7, sechs Wege, Konzept B7-2.2): Dörrware, Gesalzenes, Eingekochtes (siehe Konzept B7-6.2k), Getreide, Salz (Herkunft bekannt, siehe Konzept B7-5.1 `warn-7c`).
@@ -92,7 +120,11 @@ Nur **haltbare Ware** handeln (siehe Band 7, sechs Wege, Konzept B7-2.2): Dörrw
 - [ ] Nur haltbare Ware
 
 **Querverweise:** siehe Konzept B7-2.2, siehe Konzept B7-6.2k, siehe Konzept B7-5.1.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Nur haltbare Ware (Band 7: Dörrware, Gesalzenes, Eingekochtes 6.2k, Getreide, Salz bekannter Herkunft 5.1) ist transportabel und wertstabil — Verderb macht Ware wertlos oder gefährlich.
+- **Situationsvarianten (wann welche):** Lager (B7-8.1) → Tausch. Nie leicht verderbliche Ware über weite Strecken.
+- **Typische Fehler (warum + Folge):** Frisches als „Währung“ nehmen. Folge: Ware fault beim Transport — Streit um Wert.
 ### 3.2 Ware der Hand — grün · P 7 · M unbedenklich · V 8
 
 **Stunden-Tafel 1:1** — eine Stunde Arbeit gegen eine Stunde Ware (siehe Konzept 2.1).
@@ -104,7 +136,11 @@ Nur **haltbare Ware** handeln (siehe Band 7, sechs Wege, Konzept B7-2.2): Dörrw
 ---
 
 ## Kapitel 4 — Dorf: Ämter, Rat, Ordnung
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Ware der Hand: Arbeit gegen Ware, Stunden-Tafel 1:1 (2.1). Damit ist Handwerk bewertbar und tauschbar.
+- **Situationsvarianten (wann welche):** Jeder Auftrag mit Stundenzettel (Anhang A1).
+- **Typische Fehler (warum + Folge):** „Unbezahlbar“. Folge: Handwerker arbeiten nicht mehr — Reparaturstau.
 ### 4.1 Ämter des Dorfes — grün · P 9 · M unbedenklich · V 8 · Abb. 10.3
 
 **Amt an die Hand, nicht an das Blut** — Ämter rotieren, doppelt besetzt (siehe Konzept B1-9.2).
@@ -115,7 +151,11 @@ Nur **haltbare Ware** handeln (siehe Band 7, sechs Wege, Konzept B7-2.2): Dörrw
 - [ ] Rotation geplant
 
 **Querverweise:** siehe Konzept B1-9.2.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Ämter an die Hand (Fähigkeit), nicht an das Blut (Geburt), rotieren und sind doppelt besetzt (B1-9.2) — so bleibt Ordnung bei Ausfall. Stadt: Ämter pro Haushalt in der Nachbarschaft/Etage.
+- **Situationsvarianten (wann welche):** Dorf: Rat aus Ämtern. Stadt: Hausgemeinschaft.
+- **Typische Fehler (warum + Folge):** Erbämter. Folge: Inkompetenz, Ausfall nicht kompensierbar, Tyrannei.
 ### 4.2 Rat & Streit — **gelb** · P 7 · M prüfenswert · V 8
 
 Streit nach **Klage und Zeugen** (siehe Konzept 1.2), **nie Rache**.
@@ -129,7 +169,11 @@ Streit nach **Klage und Zeugen** (siehe Konzept 1.2), **nie Rache**.
 > **BAUSTEIN:** Der Rat spricht nach Klage und Zeugen. Wer allein richtet, begeht Selbstjustiz.
 
 **Querverweise:** siehe Konzept 1.2, siehe Konzept 5.2.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Streit wird nach Klage und Zeugen entschieden, nie durch Rache (Selbstjustiz strafbar). Notwehr (§ 32 StGB) nur bei gegenwärtigem rechtswidrigem Angriff und verhältnismäßig — keine Präventivgewalt. Das schützt die Gruppe vor Eskalation.
+- **Situationsvarianten (wann welche):** Klage → Zeugen (1.2) → Rat → Entscheidung. Stadt/Land gleich.
+- **Typische Fehler (warum + Folge):** Selbst richten. Folge: Blutrache-Spirale, strafbar, Gruppe zerbricht.
 ### 4.3 Reserve: der Zehnte — grün · P 8 · M unbedenklich · V 8
 
 **Aus voller Kammer, nie aus der Not** — der Zehnte (10 %) der Erträge geht in die Reserve (siehe Konzept B7-9.1, Winter-Rechnung).
@@ -141,7 +185,11 @@ Streit nach **Klage und Zeugen** (siehe Konzept 1.2), **nie Rache**.
 ---
 
 ## Kapitel 5 — Straße & Gäste
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Der Zehnte (10 % der Erträge) aus voller Kammer — nie aus der Not — ist die Gruppen-Reserve für harte Zeiten (B7-9.1) und Geschenke (1.1).
+- **Situationsvarianten (wann welche):** Im Herbst nach der Ernte in die Reserve (B10-8.3).
+- **Typische Fehler (warum + Folge):** Erst in der Not „sparen“. Folge: Reserve leer genau dann, wenn sie gebraucht wird.
 ### 5.1 Weg-Kunde / Furt — **gelb + WARNRAHMEN [warn-10a]** · P 7 · M prüfenswert · V 8 · Abb. 10.4
 
 > **WARNRAHMEN [warn-10a] — FURT:** **Stab an 3 Stellen prüfen** (Tiefe, Grund, Strömung), **nie über Kniehöhe mit Last** durchwaten, **nie im Dunkeln** (siehe Konzept B4-9.2, Restlicht-1-h). Umgehung suchen, wenn eine Stelle zweifelhaft ist.
@@ -153,7 +201,11 @@ Streit nach **Klage und Zeugen** (siehe Konzept 1.2), **nie Rache**.
 > **BAUSTEIN:** Die Furt prüfst du mit dem Stab dreimal — und im Dunkeln gar nicht.
 
 **Querverweise:** siehe Konzept B4-9.2, siehe Konzept B2-2.3, Wasser lesen.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Die Furt ist gefährlich: Strömung reißt mit, Tiefe täuscht, Kälte lähmt. Stab an 3 Stellen prüfen (Tiefe, Grund, Strömung), nie über Kniehöhe mit Last, nie im Dunkeln (warn-10a; B4-9.2 Restlicht). Umgehung suchen, wenn eine Stelle zweifelhaft.
+- **Situationsvarianten (wann welche):** Niedrigwasser (Sommer, früh morgens): leichter. Hochwasser: warten oder Umweg. Stadt: Unterführung bei Regen meiden (Überflutung).
+- **Typische Fehler (warum + Folge):** Allein durchschwimmen „schaffe ich“. Folge: Ertrinken, Hypothermie — häufigste vermeidbare Todesursache auf dem Marsch.
 ### 5.2 Gast & Fremder — **gelb** · P 6 · M prüfenswert · V 8
 
 1. **Nie allein empfangen** — zwei Gastgeber (siehe Konzept B1-9.2).
@@ -168,7 +220,11 @@ Streit nach **Klage und Zeugen** (siehe Konzept 1.2), **nie Rache**.
 - [ ] §§ 34/35/123 StGB bekannt
 
 **Querverweise:** siehe Konzept 4.2, siehe Konzept B4-8.1, siehe Konzept 1.1 (Gast-Ethik).
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Gäste nie allein empfangen (zwei Gastgeber, B1-9.2), Verdacht laut aussprechen (2.4 B1), mitgebrachtes prüfen (Waffen ablegen, B10-7.1). Recht: Notstand §§ 34/35 StGB (Eigentumseingriff bei Lebensgefahr gerechtfertigt/entschuldigt), Hausrecht § 123 StGB (Eindringen verboten, Abwehr erlaubt), keine Präventivgewalt, keine Selbstjustiz (4.2). Deeskalation zuerst.
+- **Situationsvarianten (wann welche):** Stadt: Wohnungstür, Gegensprechanlage. Land: Hoftor, Hund. immer höflich, aber wachsam.
+- **Typische Fehler (warum + Folge):** Allein empfangen oder Waffen ignorieren. Folge: Übergriff, Diebstahl, Gewalt — gegen die Leitlinie.
 ### 5.3 Trupp — **gelb** · P 7 · M prüfenswert · V 8
 
 **Einer vorn, einer hinten** — nie allein los (siehe Konzept B1-5.2, +60-min-Regel).
@@ -181,7 +237,11 @@ Streit nach **Klage und Zeugen** (siehe Konzept 1.2), **nie Rache**.
 ---
 
 ## Kapitel 6 — Feuerprobe des Kompendiums
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Trupp: einer vorn, einer hinten — niemand geht allein verloren; +60-min-Regel (B1-5.2) startet die Suche.
+- **Situationsvarianten (wann welche):** Stadt: belebte Wege, Treppenhaus. Land: Route abseits Straße, Markierungen.
+- **Typische Fehler (warum + Folge):** Allein losziehen. Folge: Verlust, keine Hilfe — Suchaktion zu spät.
 ### 6.1 Feuerprobe (Ring der Reihe) — grün · P 9 · M unbedenklich · V 8 · Abb. 10.5
 
 Die Feuerprobe prüft **alle Bände 1–9** im Ring der Reihe (jedes Konzept wird abgefragt, siehe Anhang Feuerprobe). Konsistent mit Übungskultur (siehe Konzepte B1-8.1 und B1-8.2).
@@ -196,7 +256,11 @@ Die Feuerprobe prüft **alle Bände 1–9** im Ring der Reihe (jedes Konzept wir
 > **BAUSTEIN:** Was die Feuerprobe nicht besteht, fliegt aus dem Kopf — bis du es wieder übst.
 
 **Querverweise:** siehe Konzepte B1-8.1, B1-8.2, B1-9.1, Anhang Feuerprobe.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Die Feuerprobe prüft das ganze Kompendium im Ring: jedes Konzept aus B1–B9 wird abgefragt (Fragenkatalog Anhang); Lücken lösen Übungspflicht aus (B1-8.2 Verfalluhr 12 Monate). So bleibt das Wissen abrufbar.
+- **Situationsvarianten (wann welche):** Halbjährlich, vor dem Winter, nach jeder Änderung (9.2). Stadt/Land gleich.
+- **Typische Fehler (warum + Folge):** Nie prüfen. Folge: Wissen verrostet — im Ernstfall tödliche Fehlhandlungen.
 ### 6.2 Prüfung der Werkstatt — grün · P 7 · M unbedenklich · V 9
 
 **Zwei Nachbarn zeugen** die Werkstatt-Prüfung (siehe Konzept B9-9.1, Weitergabe dreifach gesichert).
@@ -208,7 +272,11 @@ Die Feuerprobe prüft **alle Bände 1–9** im Ring der Reihe (jedes Konzept wir
 ---
 
 ## Kapitel 7 — Rüsten: Zeughaus & Bewahren
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Die Werkstatt-Prüfung mit zwei Nachbarn als Zeugen macht Qualität nachprüfbar und verhindert Pfusch (B9-9.1 dreifach gesichert).
+- **Situationsvarianten (wann welche):** Jährlich + nach größeren Arbeiten.
+- **Typische Fehler (warum + Folge):** Allein prüfen lassen. Folge: Mängel übersehen — Einsturz/Brand/Unfall.
 ### 7.1 Zeug-Haus — grün + **WARNRAHMEN [warn-10b]** · P 9 · M unbedenklich · V 8 · Abb. 10.6
 
 > **WARNRAHMEN [warn-10b] — BRAND IM ZEUGHAUS:** **Kein offenes Licht** im Zeughaus (Lampe außen oder elektrisch nicht vorhanden — Kerze/Laterne nur am Eingang). **Ofen außen**, Eimer mit Wasser am Eingang (siehe Konzept B3-9.1). Abstände konsistent mit Konzept B3-1.2: 2–3 m frei, 4–6 m zu Unterkünften.
@@ -219,7 +287,11 @@ Die Feuerprobe prüft **alle Bände 1–9** im Ring der Reihe (jedes Konzept wir
 - [ ] Abstände (siehe Konzept B3-1.2)
 
 **Querverweise:** siehe Konzept B3-1.2, siehe Konzept B3-9.1, siehe Konzept 5.2 (Waffen ablegen).
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Das Zeughaus sammelt Waffen/Werkzeug zentral — Brandgefahr (Schwarzpulver, Öl, Munition): kein offenes Licht, Ofen außen, Eimer am Eingang, Abstände wie B3-1.2 (warn-10b).
+- **Situationsvarianten (wann welche):** Land: separates Gebäude. Stadt: abschließbarer Keller/Abstellraum, nie in der Wohnung lagern (Diebstahl, Brand).
+- **Typische Fehler (warum + Folge):** Offenes Licht im Zeughaus. Folge: Explosion/Brand — Verlust aller Waffen, Tote.
 ### 7.2 Abschreiben & Bewahren (vier Schichten) — grün · P 7 · M unbedenklich · V 9 · Abb. 10.7
 
 Vier Schichten der Bewahrung: **1. geschriebene Kopie, 2. verlesene mündliche Überlieferung, 3. eingeübte Praxis (siehe Konzept B1-8.2), 4. Vermächtnis (siehe Konzept 9.1)**.
@@ -231,19 +303,31 @@ Vier Schichten der Bewahrung: **1. geschriebene Kopie, 2. verlesene mündliche �
 ---
 
 ## Kapitel 8 — Behalten: Kalender & Feste
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Vier Schichten der Bewahrung: geschrieben (Kopien), verlesen (mündlich), eingeübt (B1-8.2), Vermächtnis (9.1) — Wissen überlebt so den Ausfall einzelner Schichten.
+- **Situationsvarianten (wann welche):** Abschriften in mehreren Haushalten (Stadt: mehrere Wohnungen; Land: mehrere Gebäude).
+- **Typische Fehler (warum + Folge):** Nur mündlich. Folge: bei Tod des Wissenden ist das Wissen weg.
 ### 8.1 Kalender des Dorfes — grün · P 7 · M unbedenklich · V 9 · Abb. 10.8
 
 Konsistent mit Konzept B1-8.1, Jahres-Übungsplan und Konzept B5-9.2, Pflanzen-Kalender: Fest- und Arbeitstermine schriftlich (siehe Konzept B1-3.4, Papier statt Netz).
 
 **Querverweise:** siehe Konzept B1-8.1, siehe Konzept B5-9.2.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Der Dorf-Kalender (B1-8.1 Jahresplan, B5-9.2 Pflanzenkalender) taktet Arbeit, Feste, Rationen — schriftlich (Papier statt Netz, B1-3.4).
+- **Situationsvarianten (wann welche):** Im Herbst: Winterration setzen (8.3). Quartal: Übungen (B1-8.1).
+- **Typische Fehler (warum + Folge):** Kein Kalender. Folge: alles „auf den letzten Drücker“ — Chaos in der harten Zeit.
 ### 8.2 Gedenken (Vermächtnis verlesen) — grün · P 6 · M unbedenklich · V 9
 
 Vermächtnis wird **verlesen** (siehe Konzept 9.1) — mündlich und schriftlich.
 
 **Querverweise:** siehe Konzept 9.1.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Gedenken (Vermächtnis verlesen, 9.1) ehrt die Toten und überliefert Werte — Teil der Resilienz einer Gruppe.
+- **Situationsvarianten (wann welche):** Jahrestag, Beerdigung, Feuerprobe.
+- **Typische Fehler (warum + Folge):** Nicht gedenken. Folge: Werte gehen verloren, Gruppe verliert Zusammenhalt.
 ### 8.3 Die harte Zeit — grün · P 8 · M unbedenklich · V 8
 
 **Ration im Herbst gesetzt** (siehe Konzept B7-9.1, Winter-Rechnung 100 Tage + 20–33 %). Entscheidung im Rat (siehe Konzept 4.2), nicht allein.
@@ -255,7 +339,11 @@ Vermächtnis wird **verlesen** (siehe Konzept 9.1) — mündlich und schriftlich
 ---
 
 ## Kapitel 9 — Vermächtnis
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Die harte Zeit wird im Herbst rationiert (Ration festgesetzt, B7-9.1 100 Tage + 20–33 %), nicht erst im Frühjahr — Entscheidung im Rat (4.2), nicht allein.
+- **Situationsvarianten (wann welche):** Nach der Ernte (Sept/Okt) im Rat beschließen.
+- **Typische Fehler (warum + Folge):** Erst im Januar rationieren. Folge: Vorrat reicht nicht — Hungersnot.
 ### 9.1 Vermächtnis (geschrieben + verlesen) — grün · P 7 · M unbedenklich · V 9
 
 1. **Schreiben** (Anhang A Band 10, Vermächtnis-Blatt): Wissen, das weitergegeben werden muss — pro Band 1–9 die Kernregeln.
@@ -266,7 +354,11 @@ Vermächtnis wird **verlesen** (siehe Konzept 9.1) — mündlich und schriftlich
 - [ ] Verlesen protokolliert
 
 **Querverweise:** siehe Konzept 7.2, siehe Konzept 8.2, siehe Konzept B9-9.2, Lehrling.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Das Vermächtnis (geschrieben + verlesen, Anhang A3) ist das Testament des Wissenden: Kernregeln pro Band 1–9, zwei Zeugen (1.2). So überlebt Wissen den Tod.
+- **Situationsvarianten (wann welche):** Jährlich aktualisieren (8.1). Kopien in vier Schichten (7.2).
+- **Typische Fehler (warum + Folge):** Nur mündlich. Folge: Wissen stirbt mit der Person.
 ### 9.2 Schluss der Reihe (Haus-Metapher) — grün · P 6 · M unbedenklich · V 10
 
 Das Kompendium ist ein Haus: Band 1 das Fundament, Bände 2–9 die Räume, Band 10 das Dach. **Wer ein Stockwerk abreist, muss das Dach neu decken** — Änderungen nur mit Feuerprobe (siehe Konzept 6.1).
@@ -346,3 +438,8 @@ Pro Band Kernfragen (Stichprobe, erweiterbar):
 | 9.2 Schluss der Reihe | 6 | unbedenklich | 10 | grün |
 
 > **Devise Band 10 (Schluss der Reihe):** „Tausche, bevor du verteidigst; richte nach Klage und Zeugen, nie aus Rache; und was du weitergibst, schreibe auf — das Vermächtnis ist das letzte Werkzeug.“
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Schluss der Reihe: Das Kompendium ist ein Haus — Band 1 Fundament, Bände 2–9 Räume, Band 10 Dach. Änderungen nur mit Feuerprobe (6.1) — sonst stürzt das Dach ein (Widersprüche zwischen Bänden).
+- **Situationsvarianten (wann welche):** Jede Änderung am Kompendium: Feuerprobe + Protokoll (B1-9.1).
+- **Typische Fehler (warum + Folge):** Einfach umschreiben. Folge: interne Widersprüche — im Ernstfall tödliche Fehlentscheidungen.

@@ -40,6 +40,11 @@ In der ersten Minute nach einem Schock handelst du falsch, wenn du sofort loslä
 
 **Querverweise:** siehe Konzept 9.1 (Stundenprotokoll), siehe Konzept 3.1 (Priorisierung), siehe Konzept B2-8.1 (Haushaltsvorrat/Wasserinventur, Band 2).
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Schock aktiviert das sympathische Nervensystem (Kampf-oder-Flucht). Eine kurze Pause senkt den Adrenalinspiegel soweit, dass du Gefahren rational einschätzen kannst, bevor du handelst.
+- **Situationsvarianten (wann welche):** Stadt: zuerst Gas/Wasser abdrehen, dann STOPP. Land: zuerst die Gefahrenzone verlassen (Hang, Gewässer), dann STOPP. Gruppe: STOPP gilt für alle, danach Rollen nach 9.2.
+- **Typische Fehler (warum + Folge):** Sofort loslaufen. Folge: Sekundärgefahren (Einsturz, CO, Stolpern) werden übersehen; Panik überträgt sich auf die Gruppe.
 ### 2.2 Atemprotokoll 4–6 — grün · P 9 · M unbedenklich · V 10 · Abb. 1.2
 
 PanikAtmung erhöht den Verbrauch und verschlechtert Entscheidungen. Das 4–6-Protokoll beruhigt in unter einer Minute.
@@ -58,6 +63,11 @@ Variante bei Krankheit (Asthma, Herz): nur verlängertes Ausatmen, kein Luftanha
 
 **Querverweise:** siehe Konzept 2.1 (STOPP), siehe Konzept 8.2 (Übungsprotokoll — Atemübung trainieren).
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Verlängertes Ausatmen reizt den Vagusnerv (Parasympathikus); Herzfrequenz und Muskeltonus sinken innerhalb weniger Zyklen messbar.
+- **Situationsvarianten (wann welche):** Enger Raum: sitzend, Rücken gestützt. Kälte: erst Wärmequelle (B3-6.1), dann Atmung. Asthma/Herzerkrankung: nur verlängertes Ausatmen, kein Luftanhalten.
+- **Typische Fehler (warum + Folge):** Oberflächliches schnelles Atmen (Hyperventilation). Folge: Kribbeln, Schwindel, Engegefühl — das Gegenteil der Beruhigung.
 ### 2.3 Schlaf / erste Nacht (Wachenplan) — grün · P 8 · M unbedenklich · V 9 · Abb. 1.3
 
 Erschöpfung ist der häufigste Grund für Fehlentscheidungen in der ersten Nacht. Plane Schlaf wie eine Ressource.
@@ -77,6 +87,11 @@ Erschöpfung ist der häufigste Grund für Fehlentscheidungen in der ersten Nach
 
 **Querverweise:** siehe Konzept B4-1.2, siehe Konzept B4-6.2, Nachtwärme, siehe Konzept 9.2 (Wochenrollenplan).
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Schlaf verläuft in Zyklen von ~90 min; die frühe Tiefschlafphase ist die erholsamste. Dauererschöpfung zerstört das Urteilsvermögen schneller als Kälte.
+- **Situationsvarianten (wann welche):** Land: Außenwache mit Feuer (B3-9.3). Stadt: Wohnungstür abschließen, Wache innen. Winter: kürzere Wachen, mehr Wärmequellen (B4-6.2). 3 Personen = 1 wach (Tabelle), 4+ = 2 wach.
+- **Typische Fehler (warum + Folge):** Alle schlafen gleichzeitig. Folge: Feuer, CO oder Gäste werden nicht bemerkt — siehe warn-3 (B3-6.3).
 ### 2.4 Gesprächsordnung (15-min-Box) — grün · P 7 · M unbedenklich · V 9 · Abb. 1.4
 
 Unstrukturierte Gespräche eskalieren in der Krise. Die 15-min-Box begrenzt Redebeiträge und zwingt zur Sache.
@@ -98,6 +113,11 @@ Unstrukturierte Gespräche eskalieren in der Krise. Die 15-min-Box begrenzt Rede
 
 ## Kapitel 3 — Regel der Drei & Erstmaßnahmen
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Begrenzte Redezeit strukturiert Gruppengespräche; ohne Limit eskalieren Diskussionen unter Stress, weil die Lautesten dominieren.
+- **Situationsvarianten (wann welche):** Gruppe < 5: 10-min-Box. Größere Gruppe: 15-min-Box + Protokollführer. Stadt/Land ohne Unterschied.
+- **Typische Fehler (warum + Folge):** Offene Diskussion ohne Zeitlimit. Folge: Entscheidungen kippen oder vertagen sich endlos; die Gruppe spaltet sich.
 ### 3.1 Regel der Drei (Heuristik) — grün · P 9 · M unbedenklich · V 10 · Abb. 1.5
 
 Die Regel der Drei ist eine **Heuristik** (W19), keine Naturgesetz: 3 Minuten ohne Luft, 3 Stunden ohne Wärme (bei Kälte), 3 Tage ohne Wasser, 3 Wochen ohne Nahrung. Reihenfolge ist in allen Traditionen identisch, Zeiten schwanken.
@@ -111,6 +131,11 @@ Die Regel der Drei ist eine **Heuristik** (W19), keine Naturgesetz: 3 Minuten oh
 
 **Querverweise:** siehe Konzept B2-2.1, siehe Konzept B3-6.3, siehe Glossar „Heuristik“.
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Heuristik aus Militär- und Katastrophenschutzlehren: ohne Luft ~3 min, ohne Wärme bei Kälte ~3 h, ohne Wasser ~3 Tage, ohne Nahrung ~3 Wochen. Die Reihenfolge ist nie umkehrbar.
+- **Situationsvarianten (wann welche):** Sommer/Trockenheit: Wasserfrist rückt näher (Schwitzen). Winter: Wärme an erster Stelle. Stadt: Leitungswasser-Reste verlängern die Frist nicht, sie ändern nur die Menge.
+- **Typische Fehler (warum + Folge):** Mit Nahrung oder Wasser beginnen. Folge: Bei Atemwegs- oder Wärmeproblem ist die Frist abgelaufen, bevor gehandelt wurde.
 ### 3.2 Notfallrucksack (72 h) — grün · P 9 · M unbedenklich · V 9 · Abb. 1.6
 
 Der Rucksack trägt 72 Stunden autarkes Handeln. Prüfkriterium: **unter 12 kg** (W21).
@@ -133,6 +158,11 @@ Der Rucksack trägt 72 Stunden autarkes Handeln. Prüfkriterium: **unter 12 kg**
 
 **Querverweise:** siehe Konzept 3.3 (Profile), siehe Konzept 6.5 (Traglast), siehe Konzept B2-8.1.
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** 72 h autark: 2 l Wasser/Person/Tag (BBK), 6.000–9.000 kcal, Medikamente 7+ Tage. Unter 12 kg bleibt der Rucksack biomechanisch tragbar (siehe 6.5).
+- **Situationsvarianten (wann welche):** Stadt: Rucksack griffbereit an der Wohnungstür, Dokumentenkopien innen. Land: Depot + Rucksack. Winter: zusätzlich Isomatte und mehr Brennstoff.
+- **Typische Fehler (warum + Folge):** Rucksack über 12 kg packen. Folge: Rücken- und Gelenkschaden, langsamer Marsch, Umkippen bei Sturz.
 ### 3.3 Rucksack-Profile (Kinder/Senioren/Haustiere) — grün · P 8 · M unbedenklich · V 9 · Abb. 1.7
 
 Profile passen den Rucksack an die Tragkraft an (Kinder/Senioren 10–15 % Körpergewicht, siehe Konzept 6.5).
@@ -146,6 +176,11 @@ Profile passen den Rucksack an die Tragkraft an (Kinder/Senioren 10–15 % Körp
 
 **Querverweise:** siehe Konzept 6.5, siehe Konzept 3.2.
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Tragkraft skaliert mit dem Körpergewicht (Kinder/Senioren 10–15 %); Medikamente und Ersatzbrille sind medizinisch nicht ersetzbar.
+- **Situationsvarianten (wann welche):** Kind: eigener Mini-Rucksack mit Lieblingsobjekt. Senior: Medikamente doppelt, Brille. Haustier: Futter 3 Tage, Leine, Transportbox.
+- **Typische Fehler (warum + Folge):** Kind trägt Erwachsenen-Anteil mit. Folge: Überlastung, Sturz, Hitzschlag.
 ### 3.4 Treffpunkt-Plan (A/B + Abholliste) — grün · P 9 · M unbedenklich · V 9 · Abb. 1.8
 
 Netzausfall bedeutet: keine digitale Absprache. Der Treffpunkt-Plan ist schriftlich.
@@ -167,6 +202,11 @@ Netzausfall bedeutet: keine digitale Absprache. Der Treffpunkt-Plan ist schriftl
 
 ## Kapitel 4 — Orientierung ohne Strom
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Ohne Funknetz sind Treffen nur physisch planbar; ein schriftlicher Plan überlebt jeden Geräteausfall und kann kopiert werden.
+- **Situationsvarianten (wann welche):** Stadt: A = Innenhof/Hinterhof, B = außerhalb der Stadt. Land: A = eigenes Grundstück, B = Nachbardorf/Ankerpunkt.
+- **Typische Fehler (warum + Folge):** Nur mündlich verabreden. Folge: Bei Netzausfall findet kein Treffen statt; die Gruppe zerfällt.
 ### 4.1 Schattenstab & Uhr-Methode — grün · P 8 · M unbedenklich · V 9 · Abb. 1.9
 
 Ein senkrechter Stab wirft einen Schatten, dessen Spitze sich bewegt. Daraus bestimmst du Nord und eine Uhr.
@@ -185,6 +225,11 @@ Ein senkrechter Stab wirft einen Schatten, dessen Spitze sich bewegt. Daraus bes
 
 **Querverweise:** siehe Konzept 4.2 (Polarstern als Gegenprobe), siehe Konzept 4.3 (Karte).
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Die Sonne wandert mit 15°/h von Ost nach West; die Schattenspitze zeigt die Gegenrichtung. Zwei Markierungen im Abstand von 15 min ergeben die West–Ost-Linie (Punkt 1 = Westen).
+- **Situationsvarianten (wann welche):** Winter: Sonne flacher, Schatten länger — Markierungsabstand auf 20–30 min verlängern. Bewölkt: nicht anwendbar, siehe 4.2. Sommerzeit: 1 h abziehen (Beispiel im Text).
+- **Typische Fehler (warum + Folge):** Sommerzeit-Korrektur vergessen. Folge: 1 h Richtungsfehler (~15°), erheblicher Umweg.
 ### 4.2 Polarstern (Fünffach-Verlängerung, Cassiopeia) — grün · P 8 · M unbedenklich · V 9 · Abb. 1.10
 
 1. Großen Wagen finden (Kasten + Deichsel).
@@ -200,6 +245,11 @@ Ein senkrechter Stab wirft einen Schatten, dessen Spitze sich bewegt. Daraus bes
 
 **Querverweise:** siehe Konzept 4.1, siehe Konzept 4.3.
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Die Erdachse zeigt näherungsweise auf den Polarstern; er steht praktisch fest, alle anderen Sterne drehen sich um ihn. Die fünffache Verlängerung des Abstands der beiden vorderen Wagensterne landet auf ihm.
+- **Situationsvarianten (wann welche):** Nur Nordhalbkugel, nur nachts, nur bei freier Sicht. Stadt: Lichtsmog — höheren Standort wählen (Dach, Park). Bewölkt: Cassiopeia (W-Form) als Gegenprobe.
+- **Typische Fehler (warum + Folge):** Vorderen/hinteren Kastenstern verwechseln. Folge: falsche Nordrichtung, Marsch in die Gegenrichtung.
 ### 4.3 Karte lesen — grün · P 9 · M unbedenklich · V 8 · Abb. 1.11
 
 1. Karte nach Norden ausrichten (siehe Konzept 4.1 oder 4.2).
@@ -213,6 +263,11 @@ Ein senkrechter Stab wirft einen Schatten, dessen Spitze sich bewegt. Daraus bes
 
 **Querverweise:** siehe Konzept 4.1, siehe Konzept 4.2, siehe Konzept 4.4.
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Der Maßstab ist ein Verhältnis: 1:25.000 heißt 1 cm Karte = 250 m Gelände. Eingenordete Karte (Norden oben) synchronisiert Karte und Gelände — die Hauptfehlerquelle ist die Spiegelverkehrung.
+- **Situationsvarianten (wann welche):** Weitmarsch: 1:50.000. Lagerumfeld: 1:25.000. Stadt: Stadtplan (oft 1:10.000). Karte in Folie wasserdicht packen.
+- **Typische Fehler (warum + Folge):** Karte nicht einnorden. Folge: Marsch in Gegenrichtung; Zwischenziele alle 500 m begrenzen den Schaden.
 ### 4.4 Wetter lesen (Zwei-Zeichen-Regel) — grün · P 7 · M unbedenklich · V 8 · Abb. 1.12
 
 1. Beobachte zwei unabhängige Zeichen (Wolkenbild + Windrichtung, oder Barometer-Fall + Wolkendichte).
@@ -233,6 +288,11 @@ Ein senkrechter Stab wirft einen Schatten, dessen Spitze sich bewegt. Daraus bes
 
 ## Kapitel 5 — Nachrichtentechnik & Signale
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Wolken, die gegen den Höhenwind ziehen, und zunehmende Wolkendichte zeigen eine Front Stunden vor ihrem Eintreffen. Zwei unabhängige Zeichen (z. B. Wolkenbild + Winddrehung) erhöhen die Trefferquote gegenüber einem einzelnen.
+- **Situationsvarianten (wann welche):** Gebirge: Wetter kippt schneller, kürzere Vorwarnzeit. Küste: Nebel häufig. Stadt: Wärmeinsel verfälscht Temperaturzeichen — Wolkenbild bevorzugen.
+- **Typische Fehler (warum + Folge):** Nur ein Zeichen beachten. Folge: Fehlentscheid, z. B. Aufbruch bei aufziehendem Gewitter (siehe B3-9.1).
 ### 5.1 Notrufzeichen & Pfeife (3 Signale/min) — grün · P 9 · M unbedenklich · V 10 · Abb. 1.13
 
 1. Drei Signale (Pfeife, Licht, Ruf, Schläge auf Metall) = Notzeichen, international konsistent.
@@ -246,6 +306,11 @@ Ein senkrechter Stab wirft einen Schatten, dessen Spitze sich bewegt. Daraus bes
 
 **Querverweise:** siehe Konzept B3-9.2, Signalfeuer, siehe Konzept 5.2.
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Drei Signale in Folge sind international als Notruf kodiert; die Pause danach hebt das Muster vom Umgebungslärm ab. Tag und Nacht müssen unterscheidbar sein.
+- **Situationsvarianten (wann welche):** Tag: Rauch, Spiegel, farbige Tücher. Nacht: Lichtzeichen oder Signalfeuer (B3-9.2). Nebel/dichter Wald: Pfeife oder Schläge auf Metall (Schall trägt weiter als Sicht).
+- **Typische Fehler (warum + Folge):** Dauerton oder dauerhaftes Licht. Folge: wird nicht als Notruf erkannt; Energie- und Kraftverlust.
 ### 5.2 Treffpunkte & Botenregeln (+60-min-Regel) — grün · P 8 · M unbedenklich · V 9 · Abb. 1.14
 
 1. Treffpunkt aus Konzept 3.4 wählen.
@@ -265,6 +330,11 @@ Ein senkrechter Stab wirft einen Schatten, dessen Spitze sich bewegt. Daraus bes
 
 ## Kapitel 6 — Werkzeugkunde
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Die +60-min-Regel setzt eine objektive Frist: Wer nach 60 min nicht zurück ist, löst die Suche aus. Zwei Boten sichern den Informationsfluss, falls einer ausfällt.
+- **Situationsvarianten (wann welche):** Stadt: Bote zu Fuß oft schneller als mit Auto (Stau, Blockaden). Land: Route abseits der Hauptstraße wählen.
+- **Typische Fehler (warum + Folge):** Nur einen Boten senden. Folge: Informationsabriss genau im Ernstfall; Suchaktion startet zu spät.
 ### 6.1 Messer — grün · P 9 · M unbedenklich · V 9 · Abb. 1.15
 
 1. Schnitt **immer weg vom Körper** führen.
@@ -279,6 +349,11 @@ Ein senkrechter Stab wirft einen Schatten, dessen Spitze sich bewegt. Daraus bes
 
 **Querverweise:** siehe Konzept B9-4.1, Schliff, siehe Konzept B9-4.2.
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Ein Schnitt weg vom Körper nutzt die Armkraft zum Wegführen der Klinge; das fixierte Werkstück verhindert das Abrutschen in die Hand. Scharfe Klinge trennt mit weniger Kraft = kontrollierter.
+- **Situationsvarianten (wann welche):** Küche/Stadt: Schneidbrett. Land: Knie als Schraubstock. Stumpfes Messer: erst schärfen (B9-4.1). Holz vor Metall.
+- **Typische Fehler (warum + Folge):** Schnitt zum Körper führen. Folge: schwere Schnittverletzung an Hand/Oberschenkel (siehe B8-2.1).
 ### 6.2 Säge & Axt — grün · P 8 · M unbedenklich · V 8 · Abb. 1.16
 
 1. Sperrzone: **2 Stiellängen** um die schwingende Person frei halten.
@@ -294,6 +369,11 @@ Ein senkrechter Stab wirft einen Schatten, dessen Spitze sich bewegt. Daraus bes
 
 **Querverweise:** siehe Konzept B9-3.1, `warn-9a`.
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Eine schwingende Klinge besitzt Trägheitsenergie, die im Anschlag freigesetzt wird. Sperrzone (2 Stiellängen) und Fluchtweg (45° schräg) halten Personen aus der Kippebene von Axt und Beil.
+- **Situationsvarianten (wann welche):** Säge: Zugschnitt, Säge auf Zug nicht auf Schub. Axt: am Hirnholz spalten, Keil verwenden. Nasses Holz: Klinge ölen, mehr Kraft.
+- **Typische Fehler (warum + Folge):** Hangabwärts unterhalb der arbeitenden Person stehen. Folge: tödliche Kopfverletzung (warn-9a, B9-3.1).
 ### 6.3 Fünf Serienknoten — grün · P 9 · M unbedenklich · V 9 · Abb. 1.17–1.21
 
 | Knoten | Abb. | Verwendung |
@@ -315,6 +395,11 @@ Ein senkrechter Stab wirft einen Schatten, dessen Spitze sich bewegt. Daraus bes
 
 **Querverweise:** siehe Konzept 6.1 (B6, Schnur/Haken/Pose), siehe Konzept 5.2 (B9, Seil & Knoten).
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Knoten halten durch Reibung und Formschluss in der Schlaufe; unter Last verdichtet sich das Geflecht. Die fünf Serienknoten decken die üblichen Fälle ab (Stopper, Verbindung, Schlaufe, lösbar).
+- **Situationsvarianten (wann welche):** Nasses Seil quillt: Knoten nach dem Trocknen nachziehen. Steifes Altsil: Achterknoten statt Sackstich. Lastendes Seil nie durchschneiden (schlägt zurück, B9-5.2).
+- **Typische Fehler (warum + Folge):** Knoten nach Belastung nicht kontrollieren. Folge: löst sich unbemerkt unter Last — Absturz oder Verlust des Gepäcks.
 ### 6.4 Behelfswerkzeug — grün · P 6 · M unbedenklich · V 8 · Abb. 1.22
 
 Als **Behelf** deklariert: Funktion eingeschränkt, Grenzen ehrlich benennen.
@@ -330,6 +415,11 @@ Als **Behelf** deklariert: Funktion eingeschränkt, Grenzen ehrlich benennen.
 
 **Querverweise:** siehe Konzept 6.1, siehe Konzept B9-8.1, Werkzeug-Kiste.
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Ein Behelf funktioniert, weil Geometrie und Material passen: Draht sägt durch Zugbewegung (Sägeprinzip), Glas bricht scharfkantig (Schneide), Blech als Schaufel (Form).
+- **Situationsvarianten (wann welche):** Stadt: mehr Behelfsmaterial vorhanden (Dosenblech, Glasscherben, Draht). Land: Naturmaterialien (Stein, Hartholz). Grenzen ehrlich nehmen (Sägedraht < 5 cm).
+- **Typische Fehler (warum + Folge):** Behelf über seine Grenze hinaus einsetzen. Folge: Werkzeugbruch mitten in der Arbeit, Handverletzung.
 ### 6.5 Traglast (15–20 % / 30 % / Kinder 10–15 %) — grün · P 8 · M unbedenklich · V 9 · Abb. 1.23
 
 | Situation | Max. Last |
@@ -351,6 +441,11 @@ Konsistenz (W20): 10-l-Wasserkanister = 10 kg = eine Seite tragen (siehe Konzept
 
 ## Kapitel 7 — Maße, Mengen & Zeit ohne Hilfsmittel
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Dauerlast über 20 % des Körpergewichts überlastet Wirbelsäule und Gelenke (Bandscheiben, Knie). Kurzfristig (unter 30 min) sind 30 % tolerabel. Kinder/Ältere: 10–15 % wegen Wachstumsfugen und geringerer Reserven.
+- **Situationsvarianten (wann welche):** Ebene: 20 %. Bergab: 15 % (Gelenke). Kurzer Sprint zur Deckung: 30 %. Konsistent: 10-l-Kanister einseitig (B2-4.2), Mappe < 3 kg (B8-8.1), Kiste ≤ ¼ (B9-8.1).
+- **Typische Fehler (warum + Folge):** 30 % als Dauerlast marschieren. Folge: Bandscheiben-/Gelenkschaden; Marschunfähigkeit nach wenigen Tagen.
 ### 7.1 Körpermaß-System — grün · P 8 · M unbedenklich · V 10 · Abb. 1.24
 
 1. Eichungspflicht: Körpermaße einmal messen und notieren.
@@ -364,6 +459,11 @@ Konsistenz (W20): 10-l-Wasserkanister = 10 kg = eine Seite tragen (siehe Konzept
 
 **Querverweise:** siehe Konzept 7.2, siehe Konzept B10-2.1, Elle/Ruthe als Wertmaß.
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Körperproportionen sind individuell nahezu konstant (Elle ≈ 45 cm, Handspanne ≈ 20 cm, Schritt ≈ 75 cm). Die Eichung an einer bekannten Strecke (z. B. 100 m) eliminiert den systematischen Personenfehler.
+- **Situationsvarianten (wann welche):** Immer barfuß und bei trockener Kleidung messen; Ergebnis auf die Eichkarte übertragen.
+- **Typische Fehler (warum + Folge):** Ungeeicht messen. Folge: systematischer Maßfehler bis 10 %; alle abgeleiteten Maße (Hütte, Latrine) sind falsch.
 ### 7.2 Mengen & Referenzmaße — grün · P 8 · M unbedenklich · V 9 · Abb. 1.25
 
 | Maß | Wert (W31) |
@@ -379,6 +479,11 @@ Konsistenz (W20): 10-l-Wasserkanister = 10 kg = eine Seite tragen (siehe Konzept
 
 **Querverweise:** siehe Konzept 7.1, siehe Konzept B2-2.1, Liter-Bedarf.
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Das metrische System ist dezimal: 1 EL ≈ 15 ml, 1 TL ≈ 5 ml, 20 Tropfen Wasser ≈ 1 ml. Masse und Volumen sind verschiedene Größen (Dichte): 1 l Wasser = 1 kg, Öl/Mehl nicht.
+- **Situationsvarianten (wann welche):** Löffel physisch markieren (Kerbe). Für Chlor-Dosierung siehe B2-7.3 (°chl.-Umrechnung).
+- **Typische Fehler (warum + Folge):** kg mit l verwechseln. Folge: falsche Mengen bei Dosierungen — bei Chlor oder Medikamenten gefährlich.
 ### 7.3 Zeit ohne Uhr (± 30 min) — grün · P 7 · M unbedenklich · V 9 · Abb. 1.26
 
 1. Puls zählen: 15 Sekunden zählen, × 4 = Schläge/min. Ruhepuls ≈ 60 → 1 Sekunde pro Schlag.
@@ -392,6 +497,11 @@ Konsistenz (W20): 10-l-Wasserkanister = 10 kg = eine Seite tragen (siehe Konzept
 
 **Querverweise:** siehe Konzept B4-9.2, siehe Konzept 7.1.
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Der Puls ist ein stabiler körpereigener Taktgeber (Ruhe 60–80/min). Gleichmäßiges Zählen („einundzwanzig …“) koppelt das Sprechen an Sekunden; geeicht am Puls ist es auf ± 30 min genau.
+- **Situationsvarianten (wann welche):** Bei Fieber steigt der Puls (~10 Schläge/min pro °C) — Zeitmessung dann ungenauer, daher die ±-Angabe. Ohne Puls: Sonnenstand (siehe 4.1).
+- **Typische Fehler (warum + Folge):** Ohne Eichung zählen. Folge: Zeitfehler akkumulieren sich (Wachen, Kochzeiten, Medikamentengaben).
 ### 7.4 Temperatur-Feinmessung (Ellbogenprobe) — **gelb (Notbehelf, P = 5)** · P 5 · M unbedenklich · V 9 · Abb. 1.27
 
 Die Ellbogenprobe ist **ungenau** — sie ist ein Notbehelf, kein Messgerät. **Übungspflicht** (V < 6 → siehe Konzept 8.2).
@@ -411,6 +521,11 @@ Die Ellbogenprobe ist **ungenau** — sie ist ein Notbehelf, kein Messgerät. **
 
 ## Kapitel 8 — Übungskultur
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Der Ellbogen ist wärmeempfindlicher als die Fingerspitzen, aber ungenau. Ab 55 °C entsteht in Sekunden eine Vollhautverbrennung — daher die konservative Grenze.
+- **Situationsvarianten (wann welche):** Nur als Notbehelf (P = 5); besser Thermometer (B8-8.1). Winter: die Haut ist kälter, also konservativer (kühler) schätzen.
+- **Typische Fehler (warum + Folge):** Mit der Handfläche prüfen. Folge: Verbrühung (Behandlung siehe B8-7.1).
 ### 8.1 Jahres-Übungsplan — grün · P 9 · M unbedenklich · V 9 · Abb. 1.28
 
 | Quartal | Übungsschwerpunkt |
@@ -427,6 +542,11 @@ Die Ellbogenprobe ist **ungenau** — sie ist ein Notbehelf, kein Messgerät. **
 
 **Querverweise:** siehe Konzept 8.2, siehe Konzept B10-6.1, Feuerprobe, siehe Konzept B10-8.1, Kalender des Dorfes.
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Motorische Fähigkeiten verfallen ohne Wiederholung (Vergessenskurve); vierteljährliches Üben hält sie über der Einsatzschwelle. Feste Quartalszuordnung verteilt die Last übers Jahr.
+- **Situationsvarianten (wann welche):** Q1 Feuer (Winter), Q2 Wasser, Q3 Orientierung/Nacht, Q4 Werkzeug — an lokales Klima anpassen.
+- **Typische Fehler (warum + Folge):** Nur einmal jährlich üben. Folge: Verfalluhr (12 Monate) abgelaufen; Fähigkeit im Ernstfall nicht abrufbar.
 ### 8.2 Übungsprotokoll (Verfalluhr 12 Monate) — grün · P 8 · M unbedenklich · V 9 · Abb. 1.29
 
 1. Jede Übung protokollieren: Datum, Konzept-Nummer, Dauer, Fehler, Bewertung V.
@@ -445,6 +565,11 @@ Die Ellbogenprobe ist **ungenau** — sie ist ein Notbehelf, kein Messgerät. **
 
 ## Kapitel 9 — Ernstfall-Checkliste & Protokolle
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Schriftliches Protokoll macht den Übungsstand prüfbar; die 12-Monats-Verfalluhr ist ein konservativer Erfahrungswert für Fertigkeiten ohne Anwendung.
+- **Situationsvarianten (wann welche):** Konzepte mit V < 6 bekommen sofortige Übungspflicht (z. B. B3-3.3 Reibfeuer, B9-2.4 Feuerschweißen, 7.4 Ellbogenprobe).
+- **Typische Fehler (warum + Folge):** Kein Protokoll führen. Folge: Verfall wird nicht erkannt; im Ernstfall scheitert die Ausführung.
 ### 9.1 Stundenprotokoll 24 h — grün · P 9 · M unbedenklich · V 8 · Abb. 1.30
 
 1. Alle 24 h das Protokoll abschließen: Was wurde getan, gegessen, getrunken, entschieden?
@@ -458,6 +583,11 @@ Die Ellbogenprobe ist **ungenau** — sie ist ein Notbehelf, kein Messgerät. **
 
 **Querverweise:** siehe Konzept B2-8.1, siehe Konzept 2.1, Anhang A.
 
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Schriftliches Festhalten entlastet das Gedächtnis unter Stress; ein fester 24-h-Rhythmus macht Abweichungen sichtbar (Wasserverbrauch, Symptome, Entscheidungen).
+- **Situationsvarianten (wann welche):** Stadt und Land gleich; Kopiervorlage Anhang A1; Wasserverbrauch gegen Inventur B2-8.1 prüfen.
+- **Typische Fehler (warum + Folge):** Protokoll nachträglich aus dem Gedächtnis ausfüllen. Folge: falsche Verbrauchswerte; Vorratskalkulation (B7-9.1) wird falsch.
 ### 9.2 Wochenrollenplan (doppelt besetzt) — grün · P 8 · M unbedenklich · V 9 · Abb. 1.31
 
 1. Rollen: Wache, Wasser, Feuer, Kochen, Instandhaltung, Protokoll.
@@ -558,3 +688,9 @@ Jahresplan siehe Konzept 8.1; Verfalluhr 12 Monate siehe Konzept 8.2. Übungen m
 | 9.2 Wochenrollenplan | 8 | unbedenklich | 9 | grün |
 
 > **Devise Band 1:** „Halte inne, atme, handle in der Reihenfolge Luft–Wärme–Wasser–Nahrung — und übe, was du können musst, bevor du es brauchst.“
+
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Doppelte Besetzung jeder Rolle absorbiert Ausfälle (Krankheit, Verletzung); Rotation verhindert Überlastung Einzelner. Ämter an die Hand, nicht an die Person (B10-4.1).
+- **Situationsvarianten (wann welche):** Kleine Gruppe (< 4): Rollen kombinieren, aber Wache nie allein. Stadt: Rollen auf Haushalte der Nachbarschaft verteilen.
+- **Typische Fehler (warum + Folge):** Rollen einfach besetzen. Folge: Bei Ausfall einer Person bricht die Rolle aus — z. B. keine Feuerwache (warn-3).

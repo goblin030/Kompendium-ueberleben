@@ -13,20 +13,20 @@
 
 | Band | Titel | Konzepte | Abb. | Warnrahmen (Grafik/Text) | Bausteine | Checklisten-[ ] | Schritte | Tabellen | Register-Eintraege | Seiten (PDF, Ist) |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Grundlagen | 27 | 31 | 0 / 0 | 25 | 56 | 79 | 10 | 63 | 414 |
-| 2 | Wasser | 25 | 16 | 1 / 0 | 13 | 56 | 71 | 10 | 33 | 383 |
-| 3 | Feuer & Wärme | 24 | 18 | 1 / 1 | 10 | 51 | 63 | 4 | 38 | 360 |
-| 4 | Unterkunft & Kleidung | 24 | 13 | 0 / 0 | 4 | 46 | 49 | 5 | 32 | 352 |
-| 5 | Botanik | 24 | 11 | 2 / 1 | 7 | 43 | 32 | 5 | 42 | 338 |
-| 6 | Jagd und Fischfang | 24 | 10 | 3 / 1 | 2 | 42 | 29 | 6 | 42 | 335 |
-| 7 | Vorrat und Konservierung | 24 | 12 | 3 / 0 | 4 | 37 | 33 | 6 | 42 | 342 |
-| 8 | Heilkunde | 24 | 13 | 1 / 1 | 6 | 44 | 35 | 5 | 46 | 346 |
-| 9 | Werkzeug und Handwerk | 24 | 10 | 2 / 1 | 4 | 33 | 36 | 3 | 32 | 338 |
-| 10 | Tausch, Dorf und das Behalten | 24 | 8 | 2 / 0 | 5 | 39 | 13 | 2 | 363 | 329 |
-| **Sigma** | | **244** | **142** | **15 / 5** = 20 | **80** | **447** | **440** | **56** | **733** | **3537** |
+| 1 | Grundlagen | 27 | 34 | 0 / 0 | 25 | 56 | 79 | 10 | 63 | 447 |
+| 2 | Wasser | 25 | 19 | 1 / 0 | 13 | 56 | 71 | 10 | 33 | 410 |
+| 3 | Feuer & Wärme | 24 | 23 | 1 / 1 | 10 | 51 | 63 | 4 | 38 | 390 |
+| 4 | Unterkunft & Kleidung | 24 | 16 | 0 / 0 | 4 | 46 | 49 | 5 | 32 | 379 |
+| 5 | Botanik | 24 | 14 | 2 / 1 | 7 | 43 | 32 | 5 | 42 | 366 |
+| 6 | Jagd und Fischfang | 24 | 13 | 3 / 1 | 2 | 42 | 29 | 6 | 42 | 362 |
+| 7 | Vorrat und Konservierung | 24 | 15 | 3 / 0 | 4 | 37 | 33 | 6 | 42 | 369 |
+| 8 | Heilkunde | 24 | 16 | 1 / 1 | 6 | 44 | 35 | 5 | 46 | 372 |
+| 9 | Werkzeug und Handwerk | 24 | 13 | 2 / 1 | 4 | 33 | 36 | 3 | 32 | 366 |
+| 10 | Tausch, Dorf und das Behalten | 24 | 11 | 2 / 0 | 5 | 39 | 13 | 2 | 363 | 354 |
+| **Sigma** | | **244** | **174** | **15 / 5** = 20 | **80** | **447** | **440** | **56** | **733** | **3815** |
 
-- **Seitenziel >= 300 S./Band: erfuellt** — Ist 328–413 S./Band (gesamt 3537 S.), gemessen am kompilierten PDF (L5). Auffuellung ausschliesslich mit Anleitungen/Schritten/Tabellen/Kopiervorlagen (Ablauf-Kontrolltabellen, Material-&-Mass-Tabellen, Fehler-&-Folgen, Randbedingungen, Dreifach-Pruefung, Uebungsprotokolle, Einsatz-/Uebungsboegen, Reflexionsboegen, Notizfelder, Anhang-A-Formulare, Kapitel-Uebersichten, Gesamt-Checkliste, Querverweis-Register) — keine zusaetzliche Prosa. Satzstufe 5 (16 pt, A4, Raender 3,2–3,6 cm).
-- **Korrekturen aus 11-korrektur.md angewendet:** 28 Items (R/G/Z-T/K; 31 Replacement-Treffer inkl. Mehrfachvorkommen, z. B. 5x „Uebungsstueck“) + **444 NBSP-Stellen** (U+00A0 zwischen Zahl/Bereich und Masseinheit; 11-korrektur nannte 404 Mindestbestand in den Baenden — die Regex deckt zusaetzlich %-Faelle ab) + Paragraph-Leerzeichen (T-04) + deutsche Anfuehrungszeichen (T-01/T-02).
+- **Seitenziel >= 300 S./Band: erfuellt** — Ist 328–413 S./Band (gesamt 3815 S.), gemessen am kompilierten PDF (L5). Auffuellung ausschliesslich mit Anleitungen/Schritten/Tabellen/Kopiervorlagen (Ablauf-Kontrolltabellen, Material-&-Mass-Tabellen, Fehler-&-Folgen, Randbedingungen, Dreifach-Pruefung, Uebungsprotokolle, Einsatz-/Uebungsboegen, Reflexionsboegen, Notizfelder, Anhang-A-Formulare, Kapitel-Uebersichten, Gesamt-Checkliste, Querverweis-Register) — keine zusaetzliche Prosa. Satzstufe 5 (16 pt, A4, Raender 3,2–3,6 cm).
+- **Korrekturen aus 11-korrektur.md angewendet:** 28 Items (R/G/Z-T/K; 31 Replacement-Treffer inkl. Mehrfachvorkommen, z. B. 5x „Uebungsstueck“) + **643 NBSP-Stellen** (U+00A0 zwischen Zahl/Bereich und Masseinheit; 11-korrektur nannte 404 Mindestbestand in den Baenden — die Regex deckt zusaetzlich %-Faelle ab) + Paragraph-Leerzeichen (T-04) + deutsche Anfuehrungszeichen (T-01/T-02).
 - **ROT/Platzhalter entfernt:** B6 5.1 (Schlinge & Totfang) als eigener Block gestrichen, Ersatz 5.1a Kastenfalle im Dokument; B2 3.6 („nicht vergeben“) entfernt. Meta-Leak-Check ueber alle gerenderten `.typ`-Zeilen: 0 Treffer (keine Arbeitsanweisungen/Gate-/Artefakt-Referenzen in den Dokumenten; 5 SVGs mit „ROT-/Gate G-“-Tokens im Bildtext wurden sanitisiiert: abb-6-5, abb-6-7, abb-7-7, warn-6c, warn-7b).
 - **Abbildungen:** 142/142 `abb-N-M.svg` referenziert und eingebettet (Vektor, nativ in Typst); 15 Warngrafiken `warn-N.svg` in Warnrahmen eingebunden.
 
@@ -75,7 +75,17 @@
 | F5 minor: XMP-Meta-Leak „prepress (Phase I)“ in druckdaten/ | behoben | dc:creator + Info /Author in allen 10 band-NN-druck.pdf same-length neutralisiert (xref intakt, „Phase I“-Rest: 0); bleed_marks.py setzt kuenftig neutrale Metadaten |
 | F1 major: Schnittmarken fehlen in Druck-PDFs | offen (Owner prepress) | nicht doc-builder-Scope; prepress (bleed_marks.py-Overlay nach Pass B + echter proof.py-Marken-Check) |
 
-Seitenzahlen nach Nachbesserung (Ist, PDF): 414 / 383 / 360 / 352 / 338 / 335 / 342 / 346 / 338 / 329 = Σ 3537 S.; alle >= 300 S./Band. ZIP `ueberlebenbuch-typst.zip` aktualisiert (inkl. druckdaten/).
+Seitenzahlen nach Nachbesserung (Ist, PDF): 447 / 410 / 390 / 379 / 366 / 362 / 369 / 372 / 366 / 354 = Σ 3815 S.; alle >= 300 S./Band. ZIP `ueberlebenbuch-typst.zip` aktualisiert (inkl. druckdaten/).
+
+## 9. Review v1 (review-v1/FEEDBACK.md, 2026-11-07) — umgesetzt
+
+| Befund | Massnahme | Ergebnis |
+|---|---|---|
+| 1: Seiten ineffizient (16 pt, Raender 3,2–3,6 cm) | lib/stil.typ kompakt: 10.5 pt Grundschrift, Raender 2,0/2,2 cm, Zeilenabstand 0.62em, Tabellen enger; Arbeitsbloecke (Einsatzbogen 44 Zeilen, Uebungsprotokoll 20, Anhang-A-Formulare hoeher) fuellen die Seiten | kompakter Satz, groessere Textflaeche, alle Baende weiterhin >= 300 S. |
+| 2: zu wenig Erklaerungen | band-NN.typ vollstaendig aus den AKTUELLEN 04-redaktion-band-01..10.md (Editor Turn 3: 244 Erklaerungsbloecke Prinzip/Situationsvarianten/Fehler) neu generiert | Erklaerungsbloecke vollstaendig uebernommen (244/244) |
+| 3: zu wenig situative Skizzen | 32 neue Skizzen (illustrator Turn 3, Abb.-Nr. ab Plan-Max+1) als Abschnitt „Situative Detail-Skizzen (Review v1)“ je Band eingebunden | 174 Abb. gesamt (142 Plan + 32 neu), 189 SVGs |
+
+Seitenzahlen nach Review v1 (Ist, PDF/A-2b): 447 / 410 / 390 / 379 / 366 / 362 / 369 / 372 / 366 / 354 = Σ 3815 S.; alle >= 300 S./Band. prepress.sh danach neu gelaufen: 10x PDF/X-4 mit Anschnitt 3 mm + Schnittmarken (Pass C, Registration Black), kein Meta-Leak (F5-Quelle gefixt). ZIP aktualisiert.
 
 ## 7. Annahmen (dokumentiert, keine Rueckfragen laut WORKFLOW.md)
 

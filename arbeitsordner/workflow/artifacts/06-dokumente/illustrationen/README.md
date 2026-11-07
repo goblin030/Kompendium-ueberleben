@@ -1,15 +1,16 @@
-# Illustrationen – Übersicht (Agent illustrator, Phase E)
+# Illustrationen – Übersicht (Agent illustrator)
 
 Selbstenthaltene, deutsch beschriftete SVG-Abbildungen für „Das Überlebenbuch“ (10 Bände).
 Einheitlicher Stil: Graustufen-Palette (Tinte #1a1a1a, Graustufen #4d4d4d/#8c8c8c/#bfbfbf, Füllungen #f4f4f4–#7a7a7a),
 Schrift `sans-serif`, Strichstärken 1–3 pt, `viewBox` statt Pixelmaßen (skalierbar, Typst bindet nativ verlustfrei ein).
 Jede Grafik trägt oben links ihre Nummer (Abb. N.M bzw. warn-N) und unten die Unterschrift; dazu `<title>`/aria-label.
-Graustufentauglich: Informationen nie nur über Farbe – stattdessen Muster (Schraffur/Kreuz/Punkte), Linienstil (durchgezogen/gestrichelt) und Text.
-Selbstenthalten: keine externen Referenzen (keine verlinkten Schriften/Bilder/CSS, keine Skripte); nur interne `url(#…)`-Verweise auf eigene defs.
+Graustufentauglich: Informationen nie nur über Farbe – stattdessen Muster (Schraffur/Kreuz/Punkte), Linienstil und Text.
+Selbstenthalten: keine externen Referenzen (keine verlinkten Schriften/Bilder/CSS, keine Skripte); nur interne `url(#…)`-Verweise.
 
-Nummerierung gemäß `artifacts/03-planung.md` §2 Spalte „Abb.“ und §7: Datei `abb-<Band>-<Nr>.svg` ↔ „Abb. <Band>.<Nr>“.
+Nummerierung: `abb-<Band>-<Nr>.svg` ↔ „Abb. <Band>.<Nr>“. Abb. 1–<Plan-Max> je Band gemäß `artifacts/03-planung.md` §2/§7.3;
+die Nummern **ab dem Plan-Maximum + 1** sind situative Detail-Skizzen aus Review v1 (siehe Abschnitt „Änderungen“).
 
-## Band 1 – 31 Abb. (HTML-Mindestbestand L11: 26)
+## Band 1 – 34 Abb. (davon 3 situativ, Review v1; HTML-Mindestbestand L11: 26)
 
 | Abb. | Datei | Unterschrift |
 |---|---|---|
@@ -44,8 +45,11 @@ Nummerierung gemäß `artifacts/03-planung.md` §2 Spalte „Abb.“ und §7: Da
 | Abb. 1.29 | `abb-1-29.svg` | Übungsprotokoll & Verfalluhr: 12 Monate gültig, V < 6 verpflichtet zur Übung (Konzept 8.2). |
 | Abb. 1.30 | `abb-1-30.svg` | Stundenprotokoll 24 h: jede Stunde Tätigkeit, Wasser, Auffälliges notieren (Konzept 9.1). |
 | Abb. 1.31 | `abb-1-31.svg` | Wochenrollenplan: jeder Dienst doppelt besetzt, konsistent mit den Ämtern des Dorfes (B10 4.1) (Konzept 9.2). |
+| Abb. 1.32 | `abb-1-32.svg` | Lagebeurteilung situativ: drei Szenarien – jeweils zuerst die größte Frist nach der Regel der Drei handeln (Ergänzung zu Abb. 1.1/1.5, Review v1). *(situativ, Review v1)* |
+| Abb. 1.33 | `abb-1-33.svg` | Rucksack-Packvarianten nach Einsatzdauer und Person (Ergänzung zu Abb. 1.6/1.7, Review v1). *(situativ, Review v1)* |
+| Abb. 1.34 | `abb-1-34.svg` | Orientierung situativ: Schattenstab morgens/abends, Sommerzeit-Korrektur, nachts Polarstern (Ergänzung zu Abb. 1.9/1.10, Review v1). *(situativ, Review v1)* |
 
-## Band 2 – 16 Abb. (HTML-Mindestbestand L11: 11)
+## Band 2 – 19 Abb. (davon 3 situativ, Review v1; HTML-Mindestbestand L11: 11)
 
 | Abb. | Datei | Unterschrift |
 |---|---|---|
@@ -65,8 +69,11 @@ Nummerierung gemäß `artifacts/03-planung.md` §2 Spalte „Abb.“ und §7: Da
 | Abb. 2.14 | `abb-2-14.svg` | Haushaltsvorrat: 2 l pro Person und Tag × 14 Tage = 28 l pro Person (Konzept 8.1, W21/BBK). |
 | Abb. 2.15 | `abb-2-15.svg` | Latrine: Grab 25–30 cm tief, abgedeckt – Abstand zur Wasserstelle ≥ 30 m, besser 50 m, hangabwärts (Konzept 9.1, W7). |
 | Abb. 2.16 | `abb-2-16.svg` | Grauwasser-Kette: Küche/Wäsche → Sieb → Beet/Versickerung – nie an Haut oder Wunden (Konzept 9.2). |
+| Abb. 2.17 | `abb-2-17.svg` | Regen auffangen situativ: drei Auffang-Setups mit Ertrag (1 mm × 1 m² = 1 l, W8) (Ergänzung zu Abb. 2.3/2.4, Review v1). *(situativ, Review v1)* |
+| Abb. 2.18 | `abb-2-18.svg` | Aufbereitung je Wasserbefund situativ: klar/trüb/kalt/salzig → passende Methode (Ergänzung zu Abb. 2.8–2.13, Review v1). *(situativ, Review v1)* |
+| Abb. 2.19 | `abb-2-19.svg` | Latrine situativ: Grabenlatrine / Klapplatrine / Eimer-Lösung – immer ≥ 30 m (besser 50 m) hangabwärts der Wasserquelle (W7) (Ergänzung zu Abb. 2.15, Review v1). *(situativ, Review v1)* |
 
-## Band 3 – 18 Abb. (HTML-Mindestbestand L11: 11)
+## Band 3 – 23 Abb. (davon 5 situativ, Review v1; HTML-Mindestbestand L11: 11)
 
 | Abb. | Datei | Unterschrift |
 |---|---|---|
@@ -88,8 +95,13 @@ Nummerierung gemäß `artifacts/03-planung.md` §2 Spalte „Abb.“ und §7: Da
 | Abb. 3.16 | `abb-3-16.svg` | Asche-Ordnung: 24 h ruhen lassen, dann Lauge – 2 Hände Asche auf 10 l Wasser (Konzept 8.2). |
 | Abb. 3.17 | `abb-3-17.svg` | Brandbekämpfung – 60-Sekunden-Regel: klein entdecken, klein löschen (Konzept 9.1, konsistent B1 2.1 STOPP). |
 | Abb. 3.18 | `abb-3-18.svg` | Signalfeuer: drei Feuer im Dreieck = internationales Notzeichen (Konzept 9.2). |
+| Abb. 3.19 | `abb-3-19.svg` | Sternfeuer (Draufsicht): sparsam, lange Brenndauer – Arme 60–80 cm, Ø 8–12 cm, Glut in der Mitte (Variante zu Abb. 3.8, Review v1). *(situativ, Review v1)* |
+| Abb. 3.20 | `abb-3-20.svg` | Tipi-/Pyramidenfeuer (Seitenansicht): schnell heiß – Grundfläche 40 × 40 cm, Höhe ~ 50 cm, Zunder innen (Variante zu Abb. 3.8, Review v1). *(situativ, Review v1)* |
+| Abb. 3.21 | `abb-3-21.svg` | Jägerfeuer / Reflektorfeuer: zwei Stämme 1 m lang, 30 cm Abstand – Wärme reflektiert zum Liegen (Variante zu Abb. 3.10, Review v1). *(situativ, Review v1)* |
+| Abb. 3.22 | `abb-3-22.svg` | Wärmefeuer über Nacht (Banked Fire): Glut mit Asche/Erde 10 cm bedecken – morgens aufdecken und anblasen (Review v1). *(situativ, Review v1)* |
+| Abb. 3.23 | `abb-3-23.svg` | Situationsmatrix Feuerbau: welche Variante bei welchem Wetter – Wind, Nässe, Kälte, wenig Holz (Review v1). *(situativ, Review v1)* |
 
-## Band 4 – 13 Abb. (HTML-Mindestbestand L11: 9)
+## Band 4 – 16 Abb. (davon 3 situativ, Review v1; HTML-Mindestbestand L11: 9)
 
 | Abb. | Datei | Unterschrift |
 |---|---|---|
@@ -106,8 +118,11 @@ Nummerierung gemäß `artifacts/03-planung.md` §2 Spalte „Abb.“ und §7: Da
 | Abb. 4.11 | `abb-4-11.svg` | Feuchtebilanz & Lüftung: ½ l Atemfeuchte pro Nacht – Stoßlüftung, nie Dauerzug (Konzept 6.3, Querverweis B3 6.3 CO). |
 | Abb. 4.12 | `abb-4-12.svg` | Faserkunde: Wolle wärmt auch feucht, Baumwolle kühlt nass, Synthetik schmilzt am Funken (Konzept 7.1). |
 | Abb. 4.13 | `abb-4-13.svg` | Schuhwerk: eines tragen, eines trocknen – nie direkt ans Feuer (Konzept 8.3). |
+| Abb. 4.14 | `abb-4-14.svg` | Lagerplatz situativ: Sommer / Winter / Hang – Zeltposition je Jahreszeit (Ergänzung zu Abb. 4.1, Review v1). *(situativ, Review v1)* |
+| Abb. 4.15 | `abb-4-15.svg` | Winter-Unterkunft situativ: Schneehöhle / Biwak mit Tarp / Hütte – Wahl nach Schnee, Wind, Zeit (Ergänzung zu Abb. 4.5/4.6, Review v1). *(situativ, Review v1)* |
+| Abb. 4.16 | `abb-4-16.svg` | Hüttendiagnose situativ: sechs Schwachstellen im Grundriss und Schnitt lokalisieren (Ergänzung zu Konzept 5.3, Review v1). *(situativ, Review v1)* |
 
-## Band 5 – 11 Abb. (HTML-Mindestbestand L11: 8)
+## Band 5 – 14 Abb. (davon 3 situativ, Review v1; HTML-Mindestbestand L11: 8)
 
 | Abb. | Datei | Unterschrift |
 |---|---|---|
@@ -122,8 +137,11 @@ Nummerierung gemäß `artifacts/03-planung.md` §2 Spalte „Abb.“ und §7: Da
 | Abb. 5.9 | `abb-5-9.svg` | Saatgut-Keimprobe: 50 Körner auf feuchtem Tuch, 7–14 Tage, zählen (Konzept 8.3). |
 | Abb. 5.10 | `abb-5-10.svg` | Pilze: Knollenblätterpilz erkennen – Ring, Knolle (Volva), weiße Lamellen; Amatoxine hitzestabil, nie roh (Konzept 9.1, warn-5b, W16). |
 | Abb. 5.11 | `abb-5-11.svg` | Pflanzen-Kalender (Monatsfenster für ME/Irland): Ernte, wann was reif ist (Konzept 9.2). |
+| Abb. 5.12 | `abb-5-12.svg` | Sammelgang situativ: Kreise um das Lager – 500 m (täglich) und 2–5 km (bei Anlass) (Ergänzung zu Konzept 1.2, Review v1). *(situativ, Review v1)* |
+| Abb. 5.13 | `abb-5-13.svg` | Bestimmung situativ am Beispiel Bärlauch: drei sichere Merkmale vs. die drei Doppelgänger (Ergänzung zu Abb. 5.2, Review v1). *(situativ, Review v1)* |
+| Abb. 5.14 | `abb-5-14.svg` | Pilz-Merkmale am Fruchtkörper: Ring, Knolle (Volva), Lamellen, Hut, Stiel – Bestimmung nur mit lebendiger Anleitung (Ergänzung zu Abb. 5.10, warn-5b, Review v1). *(situativ, Review v1)* |
 
-## Band 6 – 10 Abb. (HTML-Mindestbestand L11: 7)
+## Band 6 – 13 Abb. (davon 3 situativ, Review v1; HTML-Mindestbestand L11: 7)
 
 | Abb. | Datei | Unterschrift |
 |---|---|---|
@@ -137,8 +155,11 @@ Nummerierung gemäß `artifacts/03-planung.md` §2 Spalte „Abb.“ und §7: Da
 | Abb. 6.8 | `abb-6-8.svg` | Reuse / Fischwehr / Stellnetz: Drei-Tage-Regel, täglich kontrollieren bei Wärme (Konzept 7.2). |
 | Abb. 6.9 | `abb-6-9.svg` | Muscheln der Gezeiten: nur amtlich überwachte Gewässer – PSP/DSP hitzestabil, Blaualgen meiden (Konzept 8.1, warn-6, W17). |
 | Abb. 6.10 | `abb-6-10.svg` | Ausnehmen & Zerwirken: Trichinen-Untersuchung + Kern ≥ 71 °C – kranke Tiere meiden, Fledermäuse nie mit bloßen Händen (Konzept 9.1, warn-6b, W18). |
+| Abb. 6.11 | `abb-6-11.svg` | Ansitz situativ: Hochsitz / Bodensitz / Pirsch – Wahl nach Wind, Deckung, Gelände (Ergänzung zu Abb. 6.3, Review v1). *(situativ, Review v1)* |
+| Abb. 6.12 | `abb-6-12.svg` | Kastenfalle im Gelände situativ: Tarnung, Kontrollweg, nie an Menschenpfaden (Ergänzung zu Abb. 6.5, Review v1). *(situativ, Review v1)* |
+| Abb. 6.13 | `abb-6-13.svg` | Angel situativ: stehendes vs. fließendes Gewässer – Pose, Gewicht, Position (Ergänzung zu Abb. 6.6, Review v1). *(situativ, Review v1)* |
 
-## Band 7 – 12 Abb. (HTML-Mindestbestand L11: 7)
+## Band 7 – 15 Abb. (davon 3 situativ, Review v1; HTML-Mindestbestand L11: 7)
 
 | Abb. | Datei | Unterschrift |
 |---|---|---|
@@ -154,8 +175,11 @@ Nummerierung gemäß `artifacts/03-planung.md` §2 Spalte „Abb.“ und §7: Da
 | Abb. 7.10 | `abb-7-10.svg` | Die kalte Kammer: Zonen kühl (0–8 °C), trocken, dunkel, luftig – Abstände zum Feuer wie B3 (Konzept 8.1). |
 | Abb. 7.11 | `abb-7-11.svg` | Verderb-Atlas: retten / essen / wegwerfen – verschimmeltes Korn, Brot, Nüsse NIEMALS retten (Mykotoxine penetrieren) (Konzept 8.2). |
 | Abb. 7.12 | `abb-7-12.svg` | Winter-Rechnung: 100 stille Tage + 20–33 % Zugabe auf den Tagesbedarf (Konzept 9.1). |
+| Abb. 7.13 | `abb-7-13.svg` | Dörr-Varianten situativ: Dörrschrank / Solar-Dörrer / Räucherofen – Wahl nach Wetter und Menge (Ergänzung zu Abb. 7.2/7.3, Review v1). *(situativ, Review v1)* |
+| Abb. 7.14 | `abb-7-14.svg` | Einkochen situativ: pH-Fälle im Detail – Wasserbad nur sauer, low-acid nur Druckkocher (Ergänzung zu Abb. 7.7, warn-7b, Review v1). *(situativ, Review v1)* |
+| Abb. 7.15 | `abb-7-15.svg` | Kammer situativ: Grundriss mit Zonen, Tür, Lüftung und Feuer-Abstand (Ergänzung zu Abb. 7.10, Review v1). *(situativ, Review v1)* |
 
-## Band 8 – 13 Abb. (HTML-Mindestbestand L11: 7)
+## Band 8 – 16 Abb. (davon 3 situativ, Review v1; HTML-Mindestbestand L11: 7)
 
 | Abb. | Datei | Unterschrift |
 |---|---|---|
@@ -172,8 +196,11 @@ Nummerierung gemäß `artifacts/03-planung.md` §2 Spalte „Abb.“ und §7: Da
 | Abb. 8.11 | `abb-8-11.svg` | Brandwunde & Frostbeule: 10–20 min kühles fließendes Wasser – nie Fett, nie Eis (Konzept 7.1, W22: 55 °C-Grenze). |
 | Abb. 8.12 | `abb-8-12.svg` | Schmerz-Küche: Weidenrinde (Salicyl) – nicht unter 16 Jahren (Reye-Syndrom) (Konzept 7.3, SME-Korrektur). |
 | Abb. 8.13 | `abb-8-13.svg` | Sanitätsmappe: < 3 kg, Inventar geführt – Antibiotika nur bei klarer bakterieller Indikation, volle Kursdauer (Konzept 8.1, W20). |
+| Abb. 8.14 | `abb-8-14.svg` | Wundversorgung situativ: saubere Schnittwunde vs. Risikowunde – Naht ja/nein, Tetanus-Regeln (Ergänzung zu Abb. 8.3, warn-8a, Review v1). *(situativ, Review v1)* |
+| Abb. 8.15 | `abb-8-15.svg` | Fieber-Verläufe situativ: drei Kurven mit Maßnahme je Verlauf (Ergänzung zu Abb. 8.7, Review v1). *(situativ, Review v1)* |
+| Abb. 8.16 | `abb-8-16.svg` | Vergiftung situativ: vier Quellen – Pflanze, Pilz, Speise, Tier – jeweils Sofortmaßnahme (Ergänzung zu Abb. 8.10, Review v1). *(situativ, Review v1)* |
 
-## Band 9 – 10 Abb. (HTML-Mindestbestand L11: 7)
+## Band 9 – 13 Abb. (davon 3 situativ, Review v1; HTML-Mindestbestand L11: 7)
 
 | Abb. | Datei | Unterschrift |
 |---|---|---|
@@ -187,8 +214,11 @@ Nummerierung gemäß `artifacts/03-planung.md` §2 Spalte „Abb.“ und §7: Da
 | Abb. 9.8 | `abb-9-8.svg` | Selbst gemachter Leim: Wasserbad 2–4 h, nie sieden – haltbar ~1 Woche (Konzept 7.2). |
 | Abb. 9.9 | `abb-9-9.svg` | Riemen, Fett, Öl: Leinöl-Lappen nie zerknüllt wegwerfen – Selbstentzündung (Konzept 7.3, warn-9b, W30). |
 | Abb. 9.10 | `abb-9-10.svg` | Die Werkzeug-Kiste: 3 Schichten, ≤ ¼ Körpergewicht (Konzept 8.1, W20). |
+| Abb. 9.11 | `abb-9-11.svg` | Fällen situativ: Hang vs. Ebene – Fluchtwege immer hangaufwärts/seitlich, nie hangabwärts (Ergänzung zu Abb. 9.3, warn-9a, Review v1). *(situativ, Review v1)* |
+| Abb. 9.12 | `abb-9-12.svg` | Härten situativ: Abschreckmedium-Vergleich Öl vs. Wasser mit Anlassfarben-Streifen (Ergänzung zu Abb. 9.2, W29, Review v1). *(situativ, Review v1)* |
+| Abb. 9.13 | `abb-9-13.svg` | Werkzeug-Kiste situativ gepackt: 3 Schichten nach Zugriffshäufigkeit, ≤ ¼ Körpergewicht (Ergänzung zu Abb. 9.10, Review v1). *(situativ, Review v1)* |
 
-## Band 10 – 8 Abb. (HTML-Mindestbestand L11: 7)
+## Band 10 – 11 Abb. (davon 3 situativ, Review v1; HTML-Mindestbestand L11: 7)
 
 | Abb. | Datei | Unterschrift |
 |---|---|---|
@@ -200,11 +230,14 @@ Nummerierung gemäß `artifacts/03-planung.md` §2 Spalte „Abb.“ und §7: Da
 | Abb. 10.6 | `abb-10-6.svg` | Zeughaus: kein offenes Licht, Ofen außen, Eimer am Eingang – Abstände wie B3 1.2 (Konzept 7.1, warn-10b). |
 | Abb. 10.7 | `abb-10-7.svg` | Abschreiben & Bewahren: vier Schichten – Original, Abschrift, Siegel, Ort (Konzept 7.2). |
 | Abb. 10.8 | `abb-10-8.svg` | Kalender des Dorfes: 12 Monate – Feste, Rationen, Markt-Fristen, Übungstermine (Konzept 8.1, konsistent B1 8.1). |
+| Abb. 10.9 | `abb-10-9.svg` | Furt situativ: drei Sondierstellen am Querschnitt – Tiefe und Grund variieren (Ergänzung zu Abb. 10.4, warn-10a, Review v1). *(situativ, Review v1)* |
+| Abb. 10.10 | `abb-10-10.svg` | Tausch situativ: Markt mit Frist / Not-Tausch / Wucher-Grenze – drei Situationen (Ergänzung zu Abb. 10.1/10.2, Review v1). *(situativ, Review v1)* |
+| Abb. 10.11 | `abb-10-11.svg` | Dorf-Zonenplan situativ: Quelle oben, Wohnen, Zeughaus mit Brand-Abständen, Feuerstelle, Latrine hangabwärts (Ergänzung zu Abb. 2.1/3.1/10.6, Review v1). *(situativ, Review v1)* |
 
 ## Warngrafiken – 15 Dateien (Warnrahmen-Pflicht, 03-planung §7.2)
 
-| Datei | Thema | Stelle | Unterschrift |
-|---|---|---|---|
+| Datei | Thema | Unterschrift |
+|---|---|---|
 | `warn-2.svg` | Chlorgas: Bleiche + Säure oder Ammoniak | B2 7.3: Chlorgas nie mischen – tödlich (W5). |
 | `warn-3.svg` | Kohlenmonoxid (CO): geruchlos, tödlich | B3 6.3: keine Verbrennung in geschlossenen Räumen, nie über Nacht (W14). |
 | `warn-5.svg` | Giftpflanzen: erkennen vor dem Essen | B5 2.2: keine Mahlzeit ohne Namen + zweites Merkmal (W15). |
@@ -223,8 +256,41 @@ Nummerierung gemäß `artifacts/03-planung.md` §2 Spalte „Abb.“ und §7: Da
 
 ## Bestand
 
-- Abbildungen gesamt: **142** (geplant 142, 03-planung §7.3)
-- Warngrafiken: **15** (geplant 15)
-- Pro Band: B1 31, B2 16, B3 18, B4 13, B5 11, B6 10, B7 12, B8 13, B9 10, B10 8
+- Abbildungen gesamt: **174** (142 geplant nach 03-planung §7.3 + 32 situative Ergänzungen aus Review v1)
+- Warngrafiken: **15** (unverändert, geplant 15)
+- Pro Band: B1 34, B2 19, B3 23, B4 16, B5 14, B6 13, B7 15, B8 16, B9 13, B10 11
 
-Erzeugt 2026-11-06 durch Agent `illustrator` (Phase E). Validierung: XML-wohlgeformt, selbstenthalten (keine externen Referenzen), Nummerierung gegen 03-planung §2 abgeglichen.
+## Änderungen
+
+### 2026-11-07 – Review v1 (Befund 3: zu wenig situative Skizzen)
+
+32 situative Detail-Skizzen ergänzt, die Möglichkeiten in verschiedenen Situationen verdeutlichen (Varianten + Maße + Situationskontext),
+Nummerierung fortgesetzt ab der nächsten freien Abb.-Nr. pro Band (Plan-Maximum aus 03-planung §7.3 + 1):
+
+| Band | Neue Abb. | Inhalt |
+|---|---|---|
+| 1 | 1.32–1.34 | Lagebeurteilung in 3 Szenarien; Rucksack-Packvarianten nach Dauer; Orientierung morgens/abends/Nacht |
+| 2 | 2.17–2.19 | Regen-Auffang-Setups mit Ertrag; Aufbereitung je Wasserbefund; Latrine-Varianten situativ |
+| 3 | 3.19–3.23 | **Feuer-Varianten lt. Feedback-Beispiel:** Sternfeuer, Tipi/Pyramide, Jägerfeuer, Banked Fire (Wärmenacht) mit Maßen + Situationsmatrix Wind/Nässe/Kälte |
+| 4 | 4.14–4.16 | Lagerplatz Sommer/Winter/Hang; Winter-Unterkunft-Varianten; Hüttendiagnose (6 Schwachstellen) |
+| 5 | 5.12–5.14 | Sammelgang-Kreise; Bärlauch-Bestimmung vs. Doppelgänger; Pilz-Merkmale am Fruchtkörper |
+| 6 | 6.11–6.13 | Ansitz-Varianten (Hochsitz/Bodensitz/Pirsch); Kastenfalle im Gelände; Angel stehend/fließend |
+| 7 | 7.13–7.15 | Dörr-Varianten nach Wetter; Einkochen pH-Fälle im Detail; Kammer-Grundriss mit Zonen |
+| 8 | 8.14–8.16 | Wundversorgung sauber/Risiko; Fieber-Verläufe mit Maßnahme; Vergiftung nach 4 Quellen |
+| 9 | 9.11–9.13 | Fällen Hang vs. Ebene mit Fluchtwegen; Abschreckmedien + Anlassfarben; Kiste situativ gepackt |
+| 10 | 10.9–10.11 | Furt mit 3 Sondierstellen; Tausch-Situationen (Markt/Not/Wucher-Grenze); Dorf-Zonenplan |
+
+### 2026-11-06 – Phase-J-Nachbesserung nach `05-format-review.md`
+
+Befunde F2 (major) und F3 (minor) aus dem Format-Review, beide Generator-Ursachen, behoben und alle SVGs neu erzeugt:
+
+| Befund | Datei(en) | Ursache | Fix |
+|---|---|---|---|
+| F2 major: `y="undefined"`, `y="NaN"`, `fill="undefined"`, Text „undefined“ | `abb-9-10.svg` | `layers`-Array falsch geklammert | Array korrigiert; 3 Schichten wieder korrekt |
+| F3 minor: `fill="2"`, `stroke-width="url(#…)"` | `abb-4-5.svg`, `abb-6-2.svg`, `abb-7-4.svg` | vertauschte `pth(d, sw, fill)`-Argumente | Argumentreihenfolge korrigiert |
+| zusätzlich: `stroke-width="0"` (formal ungültig) | 25 Dateien | Füll-only-Formen mit sw=0 | Generator emittiert `stroke="none"` ohne width |
+
+Re-Validierung 2026-11-07: **189/189 SVGs wohlgeformtes XML**, Attributwerte gültig (numerisch, fill/stroke nur Hex/none/url(#…), stroke-width > 0),
+keine undefined/NaN-Artefakte, selbstenthalten, viewBox gesetzt, Abb.-Nr./warn-id im Bildtext, Nummerierung lückenlos 1..N je Band (Plan + Review-v1-Ergänzung).
+
+Erzeugt 2026-11-06 durch Agent `illustrator` (Phase E); Nachbesserungen Phase J (2026-11-06) und Review v1 (2026-11-07).

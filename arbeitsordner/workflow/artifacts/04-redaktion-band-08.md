@@ -18,7 +18,11 @@ Behandle nur, was du **können** (Übung), was die **Frist** erlaubt und was der
 > **BAUSTEIN:** Erst das Können, dann die Frist, dann die Tat.
 
 **Querverweise:** siehe Konzept 1.2, siehe Konzept 1.3.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Behandle nur innerhalb deiner Grenze (Können, Frist, Zustand des Patienten); alles andere wird an das Helfer-Netz abgegeben (1.2/1.3). Überschätzung ist die häufigste Schadensursache.
+- **Situationsvarianten (wann welche):** Gruppe mit zwei Wissenden: Grenze höher. Allein: konservativ, früh abgeben.
+- **Typische Fehler (warum + Folge):** „Ich schaff das schon“ bei unbekannter Verletzung. Folge: Fehldiagnose, verschleppte Behandlung, Schaden.
 ### 1.2 Sanitäts-Kette — grün · P 9 · M unbedenklich · V 9 · Abb. 8.1
 
 **Ruhe – Blick – Frage – Hand – Blatt:**
@@ -34,7 +38,11 @@ Behandle nur, was du **können** (Übung), was die **Frist** erlaubt und was der
 - [ ] Protokoll geführt
 
 **Querverweise:** siehe Konzept 1.1, siehe Konzept 1.3, siehe Konzept B1-2.1.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Die Sanitäts-Kette (Ruhe–Blick–Frage–Hand–Blatt–Abgabe) standardisiert die Erstversorgung: Reihenfolge verhindert Übersehen (ABC: Airway, Breathing, Circulation), das Blatt dokumentiert für die Übergabe.
+- **Situationsvarianten (wann welche):** Jede Situation gleich abarbeiten. Protokoll: Anhang A1/A2. Puls/Zeit siehe B1-7.3.
+- **Typische Fehler (warum + Folge):** Ohne System untersuchen. Folge: lebensbedrohliche Befunde (Blutung, Atemweg) werden übersehen.
 ### 1.3 Helfer-Netz — grün · P 8 · M unbedenklich · V 9
 
 **Zwei Wissende, zwei Wege, ein Bote** (siehe Konzept B1-5.2): mind. zwei Personen mit Erster Hilfe, zwei Flucht-/Transportwege, ein Bote für Hilfe.
@@ -47,7 +55,11 @@ Behandle nur, was du **können** (Übung), was die **Frist** erlaubt und was der
 ---
 
 ## Kapitel 2 — Die Wunde
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Zwei Wissende + zwei Wege + ein Bote (B1-5.2): auch wenn eine Person ausfällt oder ein Weg blockiert ist, bleibt Hilfe erreichbar.
+- **Situationsvarianten (wann welche):** Stadt: Nachbarn/Notruf 112; Land: Bote zur Straße (B1-5.2 +60-min-Regel).
+- **Typische Fehler (warum + Folge):** Nur eine Person als Helfer. Folge: bei deren Ausfall keine Versorgung mehr.
 ### 2.1 Blutung stillen (Druckverband 15 min) — grün · P 9 · M unbedenklich · V 9 · Abb. 8.2
 
 ERC-konsistent:
@@ -64,7 +76,11 @@ ERC-konsistent:
 > **BAUSTEIN:** Druck, 15 Minuten, nicht nachsehen. Blut stoppt unter Druck.
 
 **Querverweise:** siehe Konzept 2.2, siehe Konzept B4-2.1.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Direkter Druck komprimiert das Gefäß und stillt die Blutung (mechanisch); 15 min ohne Lösen lässt Gerinnung wirken. Hochlagern senkt den Druck am Wundort. ERC-konsistent.
+- **Situationsvarianten (wann welche):** Starke Blutung: Druckverband, bei Durchblutung zweiter Verband darüber. Schockzeichen: Flachlagerung, Beine hoch, Wärme (B4-2.1).
+- **Typische Fehler (warum + Folge):** Vor 15 min nachsehen. Folge: Gerinnsel wird weggespült — Blutung läuft weiter.
 ### 2.2 Wunde reinigen & schließen — grün + **WARNRAHMEN [warn-8a]** · P 8 · M unbedenklich · V 8 · Abb. 8.3
 
 > **WARNRAHMEN [warn-8a] — TETANUS (W12, 09 Nr. 3, verschärft):** **Risikowunden** = verschmutzt, tief, Stich, Biss, Quetschung, Verbrennung, Erfrierung, nekrotisches Gewebe. Maßnahmen: **ausgiebig mit sauberem (gesottenem) Wasser spülen** (siehe Konzept B2-6.2), Fremdkörper entfernen, **offen halten** — nicht luftdicht verschließen. **Booster-Regeln (STIKO):** letzte Td-Auffrischung > 10 Jahre oder unklar → Booster; bei Risikowunde und letzter Impfung > 5 Jahre → Booster; bei unvollständigem Impfschutz postexpositionell **Tetanus-Immunglobulin (TIG), ärztlich**. Impfstoff ist **kühlkettenpflichtig 2–8 °C** — ohne Kühlung nach Tagen nicht mehr verlässlich. **Kühlkette 2–8 °C ohne Strom:** kühlsten Ort nutzen — Erdkeller/Tiefe > 1,5 m (Land, 4–10 °C), kühler Treppenhaus-Keller oder Abstellraum (Stadt), Brunnenschacht (Land); im Winter Außentemperatur < 8 °C mit isolierter Box (Styropor/Kiste + Decken); Verdunstungskühlung (feuchtes Tuch um den Behälter, Schatten, Luftzug) senkt um 5–10 °C unter Umgebungstemperatur — für Impfstoff nur als Übergang. Tägliche Temperatur mit Thermometer prüfen (siehe 8.1), Verfallsdatum notieren.
@@ -82,7 +98,11 @@ ERC-konsistent:
 > **BAUSTEIN:** Schmutzige Wunde offen halten und impfen lassen — Wundstarrkrampf ist tödlich und vermeidbar.
 
 **Querverweise:** siehe Konzept B2-6.2, siehe Konzept 2.3, siehe Konzept B6-6.1, `warn-6b` postexpositionell.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Wundstarrkrampf (Tetanus) wird durch C. tetani-Sporen verursacht, die in Risikowunden (verschmutzt, tief, Stich, Biss, Quetschung, Verbrennung, Erfrierung, nekrotisch) auskeimen. Ausgiebig spülen, Fremdkörper entfernen, offen halten (Sauerstoff hemmt die Anaerobier). Booster-Regeln STIKO: letzte Impfung > 10 J oder unklar → Booster; Risikowunde + letzte Impfung > 5 J → Booster; unvollständig → TIG ärztlich. Impfstoff kühlkettenpflichtig 2–8 °C (Kühlkette siehe Erklärung) (warn-8a, W12, 09 Nr. 3).
+- **Situationsvarianten (wann welche):** Spülen mit gesottenem Wasser (B2-6.2). Nur gesottenes Wasser — nie Leitungswasser in Wunden. Kühlkette: Erdkeller/Treppenhaus/Brunnen/Winterbox/Verdunstungskühlung (siehe oben).
+- **Typische Fehler (warum + Folge):** Risikowunde luftdicht verschließen oder mit Leitungswasser spülen. Folge: Tetanus — Muskelkrämpfe, Kieferklemme, tödlich.
 ### 2.3 Die heilende Wunde — grün · P 9 · M unbedenklich · V 9 · Abb. 8.4
 
 **Fünf Eiter-Zeichen** (ärztliche Vorstellung): zunehmende Rötung, Schwellung, Schmerz, Wärme, Eiterabsonderung.
@@ -97,7 +117,11 @@ ERC-konsistent:
 ---
 
 ## Kapitel 3 — Kräuter-Apotheke
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Heilung läuft in Phasen (Entzündung → Granulation → Epithelisierung); fünf Eiter-Zeichen (zunehmende Rötung, Schwellung, Schmerz, Wärme, Eiter) zeigen eine Infektion — dann ärztlich. Naht nur bei sauberer Schnittwunde < 6–12 h durch erfahrene Person, sonst offen sekundär heilen lassen (Narbenzug vermeiden).
+- **Situationsvarianten (wann welche):** Saubere Schnittwunde < 6 h: Naht möglich. Biss-/Quetschwunde: offen lassen (2.2).
+- **Typische Fehler (warum + Folge):** Zu spät nähen oder unsaubere Wunde nähen. Folge: eingekapselte Infektion, Abszess.
 ### 3.1 Kräuter-Lese — **gelb** · P 7 · M prüfenswert · V 7
 
 **Zwei Zeugen je Pflanze** (W15): eine zweite Person bestätigt die Bestimmung (siehe Konzept B5-2.2, `warn-5`).
@@ -108,7 +132,11 @@ ERC-konsistent:
 - [ ] Beinwell nur äußerlich
 
 **Querverweise:** siehe Konzept B5-2.2, `warn-5`, siehe Konzept B5-6.1.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Kräuter wirken über Pflanzenstoffe (Wirkstoffprinzip); zwei Zeugen bei der Bestimmung verhindern tödliche Verwechslungen (B5-2.2, warn-5). Beinwell nur äußerlich auf intakter Haut (Pyrrolizidinalkaloide, Leberschaden, EMA/HMPC).
+- **Situationsvarianten (wann welche):** Frisch gesammelt (9.2 Kalender). Trocknen für Vorrat. Stadt: Apotheke/Garten.
+- **Typische Fehler (warum + Folge):** Ohne zweiten Zeugen bestimmen. Folge: Giftpflanze als Heilpflanze — Vergiftung (warn-5).
 ### 3.2 Aufgüsse / Absud / Kaltauszug — grün · P 9 · M unbedenklich · V 9 · Abb. 8.5
 
 | Zubereitung | Zeit | Anwendung |
@@ -124,7 +152,11 @@ ERC-konsistent:
 - [ ] Dosierung nicht verdoppelt
 
 **Querverweise:** siehe Konzept B5-6.2.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Wasserlösliche Wirkstoffe gehen beim Aufguss (5–10 min) in Lösung; harte Teile brauchen Absud (15 min köcheln); empfindliche Stoffe Kaltauszug (2–8 h). Jeder Ansatz hält 1 Tag (kühl). Frisch = 1,5× getrocknet, nie doppelt.
+- **Situationsvarianten (wann welche):** Dosierung mit markiertem Löffel (B1-7.2). Zeiten messen (B1-7.3).
+- **Typische Fehler (warum + Folge):** Alles 15 min kochen oder Dosis verdoppeln. Folge: Nebenwirkungen (zu stark) oder wirkungslos (zerstörte Wirkstoffe).
 ### 3.3 Tinkturen / Salben / Öle — **gelb** · P 6 · M unbedenklich · V 7 · Abb. 8.6
 
 > **Botulismus-Falle (09 §2.1):** **Öl-Auszug nur gesäuert (pH < 4,6, gemessen) oder vollständig getrocknet** — siehe Konzept B7-6.2k, `warn-7b`. **Datum am Gefäß.**
@@ -133,7 +165,11 @@ ERC-konsistent:
 - [ ] Datum am Gefäß
 
 **Querverweise:** siehe Konzept B7-6.2k, `warn-7b`, siehe Konzept B5-6.2.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Alkohol/Oil lösen andere Wirkstoffe als Wasser; Öl-Auszüge sind anaerob — ohne Säuerung (pH < 4,6, gemessen) oder vollständige Trocknung wächst C. botulinum (Botulismus, siehe B7-6.2k warn-7b). Datum am Gefäß.
+- **Situationsvarianten (wann welche):** Tinkturen dunkel lagern. Salben aus Fett (B7-7.1) + Wirkstoff.
+- **Typische Fehler (warum + Folge):** Öl-Auszug monatelang ungeprüft lagern. Folge: Botulismus beim Auftragen/Verzehr.
 ### 3.4 Umschlag-Buch — grün · P 7 · M unbedenklich · V 8
 
 Brei **lauwarm, nie heiß** (Verbrühungsgrenze 55 °C, siehe Konzept B1-7.4, W22). Dampf-Umschlag mit Distanz (nicht direkt auf Haut).
@@ -145,7 +181,11 @@ Brei **lauwarm, nie heiß** (Verbrühungsgrenze 55 °C, siehe Konzept B1-7.4, W2
 ---
 
 ## Kapitel 4 — Fieber & Infektion
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Umschläge wirken lokal durch Wärme (Durchblutung) und Wirkstoffe aus dem Brei; lauwarm (nie heiß — Verbrühung ab 55 °C, B1-7.4, W22), nie auf offene Wunden (siehe 2.2).
+- **Situationsvarianten (wann welche):** Brei aus gekochten Pflanzen (3.2). Dampf-Umschlag mit Abstand.
+- **Typische Fehler (warum + Folge):** Heißen Brei auf die Haut. Folge: Verbrühung zusätzlich zur Verletzung.
 ### 4.1 Fieber lesen — grün · P 8 · M unbedenklich · V 9 · Abb. 8.7
 
 Verlauf beobachten: **Anstieg – Höhe – Abfall**. **Nie kalt gegen den Anstieg** (Kälteschock).
@@ -158,7 +198,11 @@ Verlauf beobachten: **Anstieg – Höhe – Abfall**. **Nie kalt gegen den Ansti
 - [ ] Kein Kaltwasser gegen Anstieg
 
 **Querverweise:** siehe Konzept 4.2, siehe Konzept B1-7.4.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Fieber ist eine geregelte Erhöhung der Kerntemperatur (Sollwert-Anhebung durch Pyrogene) — Abwehrreaktion. Anstieg mit Schüttelfrost, Höhe, Abfall. Nie kalt gegen den Anstieg (Schock). Ohne Thermometer: Handrücken-Vergleich Stirn/Wange + Puls-Regel (> 100/min in Ruhe = Fieber wahrscheinlich, B1-7.3) + Schüttelfrost; Verlauf beobachten.
+- **Situationsvarianten (wann welche):** Mit Thermometer (8.1): messen. Ohne: Puls + Schüttelfrost + Verlauf. Ab geschätzten 39 °C: Maßnahmen 4.2.
+- **Typische Fehler (warum + Folge):** Kaltes Wasser gegen Fieberanstieg. Folge: Schüttelfrost-Schock, Kreislaufkollaps.
 ### 4.2 Wärme-Regie — grün · P 8 · M unbedenklich · V 8 · Abb. 8.8
 
 **2–4 l/Tag lauwarm** trinken (Wasserbedarf siehe Konzept B2-2.1).
@@ -169,7 +213,11 @@ Verlauf beobachten: **Anstieg – Höhe – Abfall**. **Nie kalt gegen den Ansti
 - [ ] ORS-Rezept bekannt
 
 **Querverweise:** siehe Konzept B2-2.1, siehe Konzept B2-6.2, abgekocht.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Bei Fieber verlierst du Flüssigkeit durch Schwitzen — 2–4 l/Tag lauwarm trinken (B2-2.1). ORS (1 l abgekochtes Wasser + 6 gestrichene TL Zucker + ½ TL Salz, schluckweise) ersetzt bei Durchfall/Erbrechen Elektrolyte und Wasser (Glucose kotransportiert Natrium — Aufnahme im Darm).
+- **Situationsvarianten (wann welche):** Schluckweise, nicht literweise. Kühle Getränke bei Hitze, lauwarme bei Schüttelfrost.
+- **Typische Fehler (warum + Folge):** Nur Wasser ohne Elektrolyte bei Durchfall. Folge: Hyponatriämie, Kreislaufkollaps.
 ### 4.3 Atem & Atem-Not — grün · P 8 · M unbedenklich · V 8 · Abb. 8.9
 
 **12–20 Atemzüge/min** (Erwachsene, W23). **Blaue Lippen = sofort handeln.**
@@ -189,13 +237,21 @@ Verlauf beobachten: **Anstieg – Höhe – Abfall**. **Nie kalt gegen den Ansti
 ---
 
 ## Kapitel 5 — Gift & Verdauung
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Atemfrequenz 12–20/min (W23). Blaue Lippen (Zyanose) = Sauerstoffmangel im Blut — sofort handeln: Atemwege frei, frische Luft, Oberkörper hoch.
+- **Situationsvarianten (wann welche):** Zählen über 1 min (B1-7.3). CO-Verdacht (mehrere betroffen, Kopfschmerz): siehe B3-6.3 warn-3 — sofort lüften, raus.
+- **Typische Fehler (warum + Folge):** „Atmet doch noch“ abwarten. Folge: Atemstillstand — Reanimation zu spät.
 ### 5.1 Gift erkennen — grün · P 7 · M unbedenklich · V 7
 
 Pflanzen (siehe Konzept B5-2.2, `warn-5`), Pilze (siehe Konzept B5-9.1, `warn-5b`), Speisen (siehe Band 7), Tiere (siehe Konzept B6-9.1, `warn-6b`). Fristen: Symptome oft erst nach Stunden (Pilze bis 24–48 h).
 
 **Querverweise:** siehe Konzept B5-2.2, siehe Konzept B5-9.1, siehe Konzepte B6-8.1 und B6-9.1.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Gifte wirken über Dosis und Zielorgan; Symptome treten je nach Gift nach Minuten (Schierling) bis Tagen (Pilze) auf. Erkennen über Pflanze/Pilz/Speise/Tier (B5-2.2 warn-5, B5-9.1 warn-5b, B6-8.1 warn-6, B6-9.1 warn-6b, Band 7).
+- **Situationsvarianten (wann welche):** Reste sichern für die Analyse. Giftnotruf früh kontaktieren (5.2).
+- **Typische Fehler (warum + Folge):** „Wird schon nichts sein“. Folge: Organschaden (Leber/Niere), Tod.
 ### 5.2 Der vergiftete Leib — **gelb (Text präzisiert, 09 Nr. 11)** · P 6 · M prüfenswert · V 7 · Abb. 8.10
 
 > **WARNUNG (angeglichen an Band 5, 02 §2):** **Generell kein induziertes Erbrechen** — auch nicht mit Salzwasser oder Finger. **Ausnahme nur nach telefonischer Rücksprache Giftnotruf: 116 123 (DE) / +353 1 809 2166 (IE) / 112 (EU).** Aktivkohle nur nach Rücksprache mit dem Giftnotruf. **Reste sichern** (Glas, Pflanze, Erbrochenes) für die Analyse.
@@ -216,7 +272,11 @@ Pflanzen (siehe Konzept B5-2.2, `warn-5`), Pilze (siehe Konzept B5-9.1, `warn-5b
 ---
 
 ## Kapitel 6 — Krankenlager
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Induziertes Erbrechen schadet mehr als es nutzt (Aspiration in die Lunge, Verätzung der Speiseröhre bei Wieder austritt) — moderne Leitlinie: generell keins, Ausnahme nur nach telefonischer Rücksprache Giftnotruf (116 123 DE / +353 1 809 2166 IE / 112 EU). Aktivkohle nur nach Rücksprache (bindet Gift im Darm, nicht bei allen Giften wirksam). Reste sichern.
+- **Situationsvarianten (wann welche):** Ruhigstellen (B1-2.1), Vitalzeichen (4.3), Giftnotruf anrufen — Nummern oben.
+- **Typische Fehler (warum + Folge):** Finger in den Hals oder Salzwasser geben. Folge: Aspirationspneumonie, Speiseröhrenriss — lebensgefährlich.
 ### 6.1 Krankenlager (Wache 2–3 h) — grün · P 9 · M unbedenklich · V 9
 
 1. Separater, ruhiger Platz (siehe Konzept B4-6.1).
@@ -226,13 +286,21 @@ Pflanzen (siehe Konzept B5-2.2, `warn-5`), Pilze (siehe Konzept B5-9.1, `warn-5b
 - [ ] Wache 2–3 h eingeteilt
 
 **Querverweise:** siehe Konzept B4-6.1, siehe Konzept B1-9.2.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Das Krankenlager isoliert den Patienten (Ansteckung, Ruhe) und erlaubt Wache alle 2–3 h (B1-9.2). Separater Platz, eigene Wäsche (6.2), Protokoll (1.2).
+- **Situationsvarianten (wann welche):** Stadt: Zimmer in der Wohnung, Tür zu. Land: separates Zelt/Abteil.
+- **Typische Fehler (warum + Folge):** Kranken im Gemeinschaftsraum lassen. Folge: Ansteckung der Gruppe (Durchfall, Atemweg) — Kollaps der Arbeitskraft.
 ### 6.2 Wäsche & Schmutz — grün · P 9 · M unbedenklich · V 9
 
 Krankenwäsche **gesondert** sammeln und **gesotten** waschen (siehe Konzept B2-6.2). Ausscheidungen in Latrine (siehe Konzept B2-9.1, W7-Abstand).
 
 **Querverweise:** siehe Konzept B2-6.2, siehe Konzept B2-9.1.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Krankenwäsche und Ausscheidungen enthalten Keime — gesondert sammeln und gesotten waschen (B2-6.2). Latrine mit Abstand (B2-9.1). Hände desinfizieren (B2-7.3).
+- **Situationsvarianten (wann welche):** Eimer mit Deckel für Ausscheidungen, wenn keine Latrine erreichbar.
+- **Typische Fehler (warum + Folge):** Gemeinsam mit gesunder Wäsche waschen. Folge: Kreuzinfektion in der Gruppe.
 ### 6.3 Ruhe als Arznei — grün · P 9 · M unbedenklich · V 9
 
 Schlaf und Ruhe sind die häufigste vergessene Medizin (siehe Konzept B1-2.3, Wachenplan — der Kranke schläft, die Wache wacht).
@@ -242,7 +310,11 @@ Schlaf und Ruhe sind die häufigste vergessene Medizin (siehe Konzept B1-2.3, Wa
 ---
 
 ## Kapitel 7 — Gebrechen des Alltags
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Ruhe senkt den Energieverbrauch und unterstützt das Immunsystem — Schlaf ist die wirksamste „Arznei“ ohne Nebenwirkungen (B1-2.3 Wachenplan: der Kranke schläft, die Wache wacht).
+- **Situationsvarianten (wann welche):** Kranke von Arbeit befreien; Wache regelt (6.1).
+- **Typische Fehler (warum + Folge):** Kranken „durchhalten“ lassen. Folge: Erschöpfung, verlängerte Krankheit, Fehler bei anderen.
 ### 7.1 Brandwunde & Frostbeule — grün · P 8 · M unbedenklich · V 8 · Abb. 8.11
 
 **10–20 min kühles fließendes Wasser** (W22: ab 55 °C Verbrühung in Sekunden — siehe Konzept B1-7.4). **Nie Fett, nie Eis, nie Hausmittel** auf frische Brandwunden. Blasen nicht aufstechen. Frostbeule: **langsam aufwärmen** (lauwarmes Wasser), nie reiben, nie direkte Hitze.
@@ -253,7 +325,11 @@ Schlaf und Ruhe sind die häufigste vergessene Medizin (siehe Konzept B1-2.3, Wa
 > **BAUSTEIN:** Kühlen ja, aber nie eisig. 55 Grad verbrüht — alles darüber ist Feind.
 
 **Querverweise:** siehe Konzept B1-7.4, W22.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Verbrennungen werden nach Tiefenausdehnung beurteilt; sofortiges Kühlen (10–20 min fließendes kühles Wasser) stoppt die Nachbrennung im Gewebe (Hitze schädigt tiefer, solange Temperatur > 45 °C). Nie Fett/Eis/Hausmittel (Infektionsrisiko, Unterkühlung). Blasen nicht aufstechen (Infektionsschutz). Frostbeule: langsam aufwärmen (lauwarm), nie reiben/direkte Hitze (Gefäßschaden) (W22).
+- **Situationsvarianten (wann welche):** Grad 1 (Rötung): kühlen, Creme. Grad 2 (Blasen): kühlen, steriler Verband. Grad 3 (weiß/schwarz): kühlen, Klinik.
+- **Typische Fehler (warum + Folge):** Eis oder Fett auf die Brandwunde. Folge: Infektionsrisiko, tiefere Schädigung.
 ### 7.2 Bruch & Verrenkung — **gelb** · P 6 · M prüfenswert · V 7
 
 1. **Richten nur durch Wissende** — sonst Schienen in der vorgefundenen Stellung.
@@ -264,7 +340,11 @@ Schlaf und Ruhe sind die häufigste vergessene Medizin (siehe Konzept B1-2.3, Wa
 - [ ] Schiene angelegt
 
 **Querverweise:** siehe Konzept 1.2, siehe Konzept B4-9.1, Behelfstrage.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Bruch/Verrenkung: Ruhigstellung in vorgefundener Stellung verhindert Nerv-/Gefäßschäden; richten nur durch Wissende (Fehllage verschlimmert). Schiene: stabil, gepolstert, Gelenke ober- und unterhalb fixieren. Abgabe-Regel bei Taubheit/Durchblutungsstörung sofort (1.2).
+- **Situationsvarianten (wann welche):** Arm: Dreieckstuch. Bein: Schiene aus Brettern/Stöcken + Polsterung.
+- **Typische Fehler (warum + Folge):** Selbst richten. Folge: Nervenschaden, Durchblutungsstörung — Gliedmaßenverlust möglich.
 ### 7.3 Schmerz-Küche — **gelb (SME: nicht < 16 J)** · P 6 · M unbedenklich · V 7 · Abb. 8.12
 
 > **SME-Korrektur (09 §4.4):** **Weidenrinde (Salicylate) nicht bei Kindern/Jugendlichen < 16 Jahre** — Reye-Syndrom (wie ASS). Dosierung beibehalten.
@@ -283,7 +363,11 @@ Schlaf und Ruhe sind die häufigste vergessene Medizin (siehe Konzept B1-2.3, Wa
 ---
 
 ## Kapitel 8 — Sanitätsmappe
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Weidenrinde enthält Salicylate (wie ASS) — schmerzlindernd/fiebersenkend, aber bei < 16 J Reye-Syndrom-Gefahr (Leber-/Hirnschaden) — deshalb kontraindiziert (09 §4.4). Dosierung nicht überschreiten (Magenschleimhaut, Blutung).
+- **Situationsvarianten (wann welche):** Erwachsene: Absud nach 3.2. Alternative ohne Salicylat: Kamille, Ruhe (6.3).
+- **Typische Fehler (warum + Folge):** Kindern Weidenrinde geben. Folge: Reye-Syndrom — tödlich möglich.
 ### 8.1 Sanitätsmappe (< 3 kg) — grün · P 8 · M unbedenklich · V 9 · Abb. 8.13
 
 Konsistent mit Traglast (W20, siehe Konzept B1-6.5): **< 3 kg**.
@@ -308,7 +392,11 @@ Konsistent mit Traglast (W20, siehe Konzept B1-6.5): **< 3 kg**.
 ---
 
 ## Kapitel 9 — Die letzte Grenze
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Die Sanitätsmappe ist das mobile „Krankenhaus“: < 3 kg (Traglast B1-6.5). Wichtigstes Messgerät: Fieber-/Fleischthermometer (Fieber 4.1, Kerntemperatur ≥ 71 °C B6-9.1/B7-3.2). Impfstoff kühlkettenpflichtig 2–8 °C — ohne Strom: kühlster Ort (Erdkeller/Treppenhaus/Brunnen/Winterbox/Verdunstungskühlung), täglich Temperatur prüfen (s. 2.2). Antibiotika nur bei klarer bakterieller Indikation, volle Kursdauer, Allergie beachten.
+- **Situationsvarianten (wann welche):** Stadt: Mappe griffbereit in der Wohnung, Kühlbox im Treppenhaus. Land: Hütte, Kühlbox im Brunnen/Erdkeller.
+- **Typische Fehler (warum + Folge):** Kein Thermometer/Impfstoff ohne Kühlung. Folge: Fieber falsch eingeschätzt; Impfstoff nach Tagen unwirksam (warn-8a).
 ### 9.1 Sterben begleiten (Würde-Regeln) — grün · P 7 · M unbedenklich · V 9
 
 1. Ruhe, Anwesenheit, Hand halten (siehe Konzept 1.2).
@@ -318,7 +406,11 @@ Konsistent mit Traglast (W20, siehe Konzept B1-6.5): **< 3 kg**.
 - [ ] Würde gewahrt
 
 **Querverweise:** siehe Konzept B10-9.1.
+**Erklärung:**
 
+- **Prinzip (warum das funktioniert):** Sterben hat Würde verdient: Ruhe, Anwesenheit, Schmerzlinde (7.3 mit Grenzen), letzte Wünsche notieren (Vermächtnis B10-9.1).
+- **Situationsvarianten (wann welche):** Ein Helfer bleibt, andere rotieren (B1-9.2).
+- **Typische Fehler (warum + Folge):** Alleine lassen oder Schmerzen ignorieren. Folge: unnötiges Leiden, schlechtes Gruppenklima.
 ### 9.2 Abschied (Blatt bis zuletzt) — grün · P 7 · M unbedenklich · V 8
 
 Protokoll bis zuletzt führen (siehe Konzept 1.2); Toten waschen, kleiden, Totenwache (siehe B1-9.2). **Bestattung:** Land = 60–80 cm tief, außerhalb des Lagers, Abstand ≥ 30 m zu Wasser (siehe B2-9.1), Stelle markieren. **Stadt:** Bestattungspflicht/Friedhof — Behörde informieren, sobald erreichbar; bis dahin kühler Raum (Treppenhaus/Keller), nicht in der Wohnung aufbewahren.
@@ -387,3 +479,8 @@ Druckverband (2.1) und Wundversorgung mit `warn-8a`-Regeln (2.2) vierteljährlic
 | 9.2 Abschied | 7 | unbedenklich | 8 | grün |
 
 > **Devise Band 8:** „Spüle mit gesottenem Wasser, halte Risikowunden offen, impfe gegen Tetanus — und bei Vergiftung rufst du zuerst den Giftnotruf, bevor du irgendetwas induzierst.“
+**Erklärung:**
+
+- **Prinzip (warum das funktioniert):** Abschied: Protokoll bis zuletzt (1.2), Toten waschen/kleiden, Totenwache. Bestattung Land: 60–80 cm tief, außerhalb des Lagers, ≥ 30 m zu Wasser (B2-9.1), markiert. Stadt: Bestattungspflicht — Behörde/Friedhof melden, bis dahin kühler Raum (Treppenhaus/Keller), nicht in der Wohnung.
+- **Situationsvarianten (wann welche):** Hygienisch: Handschuhe, Hände desinfizieren (B2-7.3).
+- **Typische Fehler (warum + Folge):** Oberflächlich oder nahe am Wasser bestatten. Folge: Geruch, Aasfresser, Grundwasserkontamination, Seuchengefahr.
