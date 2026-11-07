@@ -153,6 +153,11 @@ Seitenzahlen nach Review v1 (Ist, PDF/A-2b): 445 / 361 / 342 / 329 / 317 / 310 /
 - E2-Fixes zentral per Regex: NBSP Zahl–Einheit (U+00A0); interne Pruef-IDs (BW/BL/W/L/C2/G1-18/review-vN/Tab. NN/ROHWERT/TODO/LÜCKE/factcheck-Kuerzel) entfernt — nur ART-IDs bleiben; 3 falsche ART-Querverweise gefixt (ART-0283 -> ART-0284, ART-0314 -> ART-0023, ART-0153 ff. -> ART-0132/0284/0290/0307); Fremdwort + Redaktionsnotizen + Kiel/Keil gefixt. Meta-Scan v2: 0.
 - Kompiliert (PDF/A-2b, fehlerfrei): 179 / 134 / 127 / 123 / 115 / 114 / 133 / 130 / 131 / 137 = Σ 1323 S. (~4 S./Artikel). prepress-Paesse fuer v2 nach v2/druckdaten/ (PDF/X-4 + Schnittmarken) + prepress.sh fuer v1. ZIP v2: v2/ueberlebenbuch-artikel-v2.zip.
 
+## 20. Turn 15 — Rebuild v2.1 nach D3 + E2 (06-dokumente/v2.1/)
+
+- v2.1 gebaut: band-NN-v2.typ + pdf in v2.1/ (TOC mit ART-IDs + Seiten, Artikel alphabetisch, ART-Querverweise mit refpage). Aenderungen gegen v2: 29 art-NNNN-abb-M.svg als Artikel-Abbildungen eingebunden (T8-2), warn-art-NNNN.svg (6 Stueck) als Warn-Grafiken in Warnrahmen verwendet; Fremdwoerter gefixt (según, electronic payment,movilidadseingeschränkt -> mobilitätseingeschränkt), Trennfehler (Gestriche n -> Gestrichen), falsche ART-Querverweise (ART-0283->ART-0284, ART-0314->ART-0023, ART-0153 ff.), NBSP Zahl–Einheit per Regex. Meta-Scan v2.1: 0 (nur ART-IDs).
+- Kompiliert (PDF/A-2b, 10/10 fehlerfrei): 178 / 131 / 127 / 123 / 115 / 114 / 123 / 130 / 123 / 154 = Σ 1318 S. (314 Artikel). prepress-Paesse fuer v2.1 nach v2.1/druckdaten/ inkl. proof.json + proof-bericht.md (T8-3): 10x PDF/X-4 + 3-mm-Anschluss + Schnittmarken, 0 Probleme. ZIP: v2.1/ueberlebenbuch-artikel-v2.1.zip (unzip -t ok).
+
 ## 7. Annahmen (dokumentiert, keine Rueckfragen laut WORKFLOW.md)
 
 1. Register: pro Band Auszug mit eigenen Seitenzahlen; Gesamtregister in Band 10 (Schlussband der Reihe).
