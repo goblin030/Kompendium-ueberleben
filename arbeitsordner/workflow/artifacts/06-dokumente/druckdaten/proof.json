@@ -1,8 +1,8 @@
 [
   {
     "file": "/Users/otacon/git/Kompendium-ueberleben/arbeitsordner/workflow/artifacts/06-dokumente/druckdaten/band-01-druck.pdf",
-    "size_mb": 5.58,
-    "pages": 446,
+    "size_mb": 5.61,
+    "pages": 445,
     "media_mm": [
       216.0,
       303.0
@@ -22,8 +22,8 @@
     "annots_any": false,
     "outputintents": true,
     "crop_marks_content": {
-      "pages_with_marks": 446,
-      "pages_total": 446,
+      "pages_with_marks": 445,
+      "pages_total": 445,
       "registration_black": true,
       "min_stroke_width_pt": 0.3,
       "mark_segments_per_marks_page": 8,
@@ -40,8 +40,8 @@
       "DeviceCMYK_named": 0,
       "DeviceGray_named": 0,
       "rgb_ops": 0,
-      "cmyk_ops": 2436,
-      "gray_ops": 57,
+      "cmyk_ops": 2537,
+      "gray_ops": 73,
       "cmyk_only": true
     },
     "GTS_PDFXVersion_xmp": "PDF/X-4",
@@ -51,20 +51,20 @@
     "raster_images": 0,
     "min_effective_dpi": null,
     "grayscale": {
-      "pages_measured": 446,
+      "pages_measured": 445,
       "C_max": 0.0,
       "M_max": 0.0,
       "Y_max": 0.0,
       "K_min": 0.001,
-      "K_max": 0.1247,
-      "K_mean": 0.0289,
+      "K_max": 0.1305,
+      "K_mean": 0.0296,
       "k_only": true
     }
   },
   {
     "file": "/Users/otacon/git/Kompendium-ueberleben/arbeitsordner/workflow/artifacts/06-dokumente/druckdaten/band-02-druck.pdf",
-    "size_mb": 4.49,
-    "pages": 362,
+    "size_mb": 4.5,
+    "pages": 361,
     "media_mm": [
       216.0,
       303.0
@@ -84,8 +84,8 @@
     "annots_any": false,
     "outputintents": true,
     "crop_marks_content": {
-      "pages_with_marks": 362,
-      "pages_total": 362,
+      "pages_with_marks": 361,
+      "pages_total": 361,
       "registration_black": true,
       "min_stroke_width_pt": 0.3,
       "mark_segments_per_marks_page": 8,
@@ -102,8 +102,8 @@
       "DeviceCMYK_named": 0,
       "DeviceGray_named": 0,
       "rgb_ops": 0,
-      "cmyk_ops": 1918,
-      "gray_ops": 27,
+      "cmyk_ops": 1993,
+      "gray_ops": 36,
       "cmyk_only": true
     },
     "GTS_PDFXVersion_xmp": "PDF/X-4",
@@ -113,19 +113,19 @@
     "raster_images": 0,
     "min_effective_dpi": null,
     "grayscale": {
-      "pages_measured": 362,
+      "pages_measured": 361,
       "C_max": 0.0,
       "M_max": 0.0,
       "Y_max": 0.0,
       "K_min": 0.0009,
-      "K_max": 0.1049,
-      "K_mean": 0.028,
+      "K_max": 0.1266,
+      "K_mean": 0.0289,
       "k_only": true
     }
   },
   {
     "file": "/Users/otacon/git/Kompendium-ueberleben/arbeitsordner/workflow/artifacts/06-dokumente/druckdaten/band-03-druck.pdf",
-    "size_mb": 4.23,
+    "size_mb": 4.27,
     "pages": 342,
     "media_mm": [
       216.0,
@@ -164,8 +164,8 @@
       "DeviceCMYK_named": 0,
       "DeviceGray_named": 0,
       "rgb_ops": 0,
-      "cmyk_ops": 1768,
-      "gray_ops": 33,
+      "cmyk_ops": 1899,
+      "gray_ops": 63,
       "cmyk_only": true
     },
     "GTS_PDFXVersion_xmp": "PDF/X-4",
@@ -180,14 +180,14 @@
       "M_max": 0.0,
       "Y_max": 0.0,
       "K_min": 0.0013,
-      "K_max": 0.1529,
-      "K_mean": 0.0276,
+      "K_max": 0.1545,
+      "K_mean": 0.0284,
       "k_only": true
     }
   },
   {
     "file": "/Users/otacon/git/Kompendium-ueberleben/arbeitsordner/workflow/artifacts/06-dokumente/druckdaten/band-04-druck.pdf",
-    "size_mb": 4.11,
+    "size_mb": 4.12,
     "pages": 329,
     "media_mm": [
       216.0,
@@ -226,8 +226,8 @@
       "DeviceCMYK_named": 0,
       "DeviceGray_named": 0,
       "rgb_ops": 0,
-      "cmyk_ops": 1639,
-      "gray_ops": 32,
+      "cmyk_ops": 1705,
+      "gray_ops": 31,
       "cmyk_only": true
     },
     "GTS_PDFXVersion_xmp": "PDF/X-4",
@@ -242,14 +242,14 @@
       "M_max": 0.0,
       "Y_max": 0.0,
       "K_min": 0.0009,
-      "K_max": 0.1083,
-      "K_mean": 0.0276,
+      "K_max": 0.1426,
+      "K_mean": 0.0283,
       "k_only": true
     }
   },
   {
     "file": "/Users/otacon/git/Kompendium-ueberleben/arbeitsordner/workflow/artifacts/06-dokumente/druckdaten/band-05-druck.pdf",
-    "size_mb": 4.11,
+    "size_mb": 4.13,
     "pages": 317,
     "media_mm": [
       216.0,
@@ -288,7 +288,7 @@
       "DeviceCMYK_named": 0,
       "DeviceGray_named": 0,
       "rgb_ops": 0,
-      "cmyk_ops": 1672,
+      "cmyk_ops": 1735,
       "gray_ops": 38,
       "cmyk_only": true
     },
@@ -304,14 +304,14 @@
       "M_max": 0.0,
       "Y_max": 0.0,
       "K_min": 0.0013,
-      "K_max": 0.1589,
-      "K_mean": 0.0293,
+      "K_max": 0.1606,
+      "K_mean": 0.0301,
       "k_only": true
     }
   },
   {
     "file": "/Users/otacon/git/Kompendium-ueberleben/arbeitsordner/workflow/artifacts/06-dokumente/druckdaten/band-06-druck.pdf",
-    "size_mb": 4.07,
+    "size_mb": 4.08,
     "pages": 310,
     "media_mm": [
       216.0,
@@ -350,8 +350,8 @@
       "DeviceCMYK_named": 0,
       "DeviceGray_named": 0,
       "rgb_ops": 0,
-      "cmyk_ops": 1525,
-      "gray_ops": 32,
+      "cmyk_ops": 1605,
+      "gray_ops": 34,
       "cmyk_only": true
     },
     "GTS_PDFXVersion_xmp": "PDF/X-4",
@@ -366,8 +366,8 @@
       "M_max": 0.0,
       "Y_max": 0.0,
       "K_min": 0.0013,
-      "K_max": 0.1714,
-      "K_mean": 0.0296,
+      "K_max": 0.1732,
+      "K_mean": 0.0304,
       "k_only": true
     }
   },
@@ -412,7 +412,7 @@
       "DeviceCMYK_named": 0,
       "DeviceGray_named": 0,
       "rgb_ops": 0,
-      "cmyk_ops": 1610,
+      "cmyk_ops": 1657,
       "gray_ops": 24,
       "cmyk_only": true
     },
@@ -428,14 +428,14 @@
       "M_max": 0.0,
       "Y_max": 0.0,
       "K_min": 0.0013,
-      "K_max": 0.1663,
-      "K_mean": 0.029,
+      "K_max": 0.1683,
+      "K_mean": 0.0297,
       "k_only": true
     }
   },
   {
     "file": "/Users/otacon/git/Kompendium-ueberleben/arbeitsordner/workflow/artifacts/06-dokumente/druckdaten/band-08-druck.pdf",
-    "size_mb": 4.15,
+    "size_mb": 4.16,
     "pages": 325,
     "media_mm": [
       216.0,
@@ -474,8 +474,8 @@
       "DeviceCMYK_named": 0,
       "DeviceGray_named": 0,
       "rgb_ops": 0,
-      "cmyk_ops": 1623,
-      "gray_ops": 19,
+      "cmyk_ops": 1684,
+      "gray_ops": 24,
       "cmyk_only": true
     },
     "GTS_PDFXVersion_xmp": "PDF/X-4",
@@ -490,14 +490,14 @@
       "M_max": 0.0,
       "Y_max": 0.0,
       "K_min": 0.0013,
-      "K_max": 0.2314,
-      "K_mean": 0.0292,
+      "K_max": 0.2331,
+      "K_mean": 0.03,
       "k_only": true
     }
   },
   {
     "file": "/Users/otacon/git/Kompendium-ueberleben/arbeitsordner/workflow/artifacts/06-dokumente/druckdaten/band-09-druck.pdf",
-    "size_mb": 4.02,
+    "size_mb": 4.03,
     "pages": 320,
     "media_mm": [
       216.0,
@@ -536,8 +536,8 @@
       "DeviceCMYK_named": 0,
       "DeviceGray_named": 0,
       "rgb_ops": 0,
-      "cmyk_ops": 1570,
-      "gray_ops": 23,
+      "cmyk_ops": 1621,
+      "gray_ops": 24,
       "cmyk_only": true
     },
     "GTS_PDFXVersion_xmp": "PDF/X-4",
@@ -552,14 +552,14 @@
       "M_max": 0.0,
       "Y_max": 0.0,
       "K_min": 0.0013,
-      "K_max": 0.139,
-      "K_mean": 0.0275,
+      "K_max": 0.1406,
+      "K_mean": 0.0282,
       "k_only": true
     }
   },
   {
     "file": "/Users/otacon/git/Kompendium-ueberleben/arbeitsordner/workflow/artifacts/06-dokumente/druckdaten/band-10-druck.pdf",
-    "size_mb": 4.38,
+    "size_mb": 4.39,
     "pages": 305,
     "media_mm": [
       216.0,
@@ -598,7 +598,7 @@
       "DeviceCMYK_named": 0,
       "DeviceGray_named": 0,
       "rgb_ops": 0,
-      "cmyk_ops": 1507,
+      "cmyk_ops": 1575,
       "gray_ops": 29,
       "cmyk_only": true
     },
@@ -614,8 +614,8 @@
       "M_max": 0.0,
       "Y_max": 0.0,
       "K_min": 0.0014,
-      "K_max": 0.1212,
-      "K_mean": 0.0305,
+      "K_max": 0.1409,
+      "K_mean": 0.0313,
       "k_only": true
     }
   }

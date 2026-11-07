@@ -35,6 +35,12 @@ Phase A (parallel):   project-manager ─┐
 Urteil „rot" in `20-visual-qa.md` → Rebuild-Pflicht, keine Imprimatur. Interne
 Prüfprotokolle (W-IDs, Artefakt-IDs) dürfen nie in `band-NN.typ` stehen — nur das
 öffentliche Quellenverzeichnis (Organisation/Titel/URL).
+
+**Farbregel (seit Review v6):** Farbe ist erlaubt und erwünscht (Grafiken + Textlayout),
+aber: (1) Informationen nie NUR über Farbe kodieren (Muster/Linienstil/Beschriftung als
+zweiter Kanal — Graustufen-/S/W-Druck muss voll lesbar bleiben, prepress-proof prüft das);
+(2) WCAG-AA-Kontrast: Text ≥ 4,5:1, Grafiken ≥ 3:1 (accessibility + visual-qa prüfen);
+(3) Druckdaten bleiben CMYK, barrierefreie Fassungen PDF/UA.
 | K – Publishing (parallel) | legal, cover-designer, publisher, marketing, accessibility | `06-dokumente/`, `13-rechtstexte.md` (legal zuerst), Go-to-Market aus Haupt-Chat | `13-rechtstexte.md`, `cover/`, `14-publikation.md`, `15-marketing.md`, `16-barrierefreiheit.md` |
 
 ## Agent-Übersicht

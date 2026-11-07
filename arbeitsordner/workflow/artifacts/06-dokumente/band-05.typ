@@ -1,9 +1,9 @@
 // band-05.typ — Das Überlebenbuch, Band 5: Botanik
 // erzeugt durch doc-builder (Phase H) aus artifacts/04-redaktion-band-05.md + 11-korrektur.md + 12-register.md
 #import "lib/stil.typ": *
-#init-doc(band: 5, titel: "Botanik")
+#init-doc(band: 5, titel: "Botanik", farbe: "#2e7d32", tint: "#e6efe6")
 #set page(header: none, footer: none)
-#titlepage(5, "Botanik")
+#titlepage(5, "Botanik", farbe: "#2e7d32")
 #pagebreak()
 #seite(5, "Botanik")
 == Inhalt <inhalt>
@@ -4487,7 +4487,7 @@ Alle Checklisten des Bandes, gesammelt am Bandende. Im Kapiteltext steht jeweils
   [CL-B5-23], [— 9.1 Pilze], [], [], [], [grün], [–],
   [CL-B5-24], [— 9.2 Pflanzen-Kalender (Monatsfenster ME/Irland)], [], [], [], [grün], [–],
 )
-=== CL-B5-01 — 1.1 Sammel-Ethik <cl-b5-01>
+#block(width: 100%, fill: rgb("#e6efe6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B5-01 — 1.1 Sammel-Ethik <cl-b5-01>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - NSG = Naturschutzgebiet; Sammeln verboten (§ 23 BNatSchG)
@@ -4495,61 +4495,61 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.1 �
 - [ ] Ein-Drittel-Regel eingehalten
 - [ ] Keine geschützten Arten gesammelt
 - [ ] Kein NSG betreten zum Sammeln
-=== CL-B5-02 — 1.2 Sammelgang (Kreise: 500 m / 2–5 km) <cl-b5-02>
+#block(width: 100%, fill: rgb("#e6efe6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B5-02 — 1.2 Sammelgang (Kreise: 500 m / 2–5 km) <cl-b5-02>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.2 „Sammelgang (Kreise: 500 m / 2–5 km)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Kreisgrenzen vereinbart
 - [ ] Trupp-Regel eingehalten
-=== CL-B5-03 — 1.3 Samen-Bank (10 % Streu-Rückgabe) <cl-b5-03>
+#block(width: 100%, fill: rgb("#e6efe6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B5-03 — 1.3 Samen-Bank (10 % Streu-Rückgabe) <cl-b5-03>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - Keimprobe = 50 Körner, Schwelle 30/50 (B5-8.3/B7-9.3)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.3 „Samen-Bank (10 % Streu-Rückgabe)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] 10 % zurückgestreut
 - [ ] Keimprobe geplant
-=== CL-B5-04 — 2.1 Merkmale & Familien (5 Merkmale) <cl-b5-04>
+#block(width: 100%, fill: rgb("#e6efe6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B5-04 — 2.1 Merkmale & Familien (5 Merkmale) <cl-b5-04>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.1 „Merkmale & Familien (5 Merkmale)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Fünf Merkmale notiert
 - [ ] Familie eingegrenzt
-=== CL-B5-05 — 2.2 Verwechslungs-Paare & Giftpflanzen <cl-b5-05>
+#block(width: 100%, fill: rgb("#e6efe6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B5-05 — 2.2 Verwechslungs-Paare & Giftpflanzen <cl-b5-05>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.2 „Verwechslungs-Paare & Giftpflanzen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Name + zweites Merkmal vor jeder Mahlzeit
 - [ ] Giftpflanzen-Liste bekannt
-=== CL-B5-06 — 2.3 Gehölze: Saft / Rinde / Harz <cl-b5-06>
+#block(width: 100%, fill: rgb("#e6efe6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B5-06 — 2.3 Gehölze: Saft / Rinde / Harz <cl-b5-06>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.3 „Gehölze: Saft / Rinde / Harz“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Saft-Fenster beachtet
 - [ ] Pflock statt Ring
-=== CL-B5-07 — 2.4 Winter-Bestimmung (Knospe/Rinde/Stand) <cl-b5-07>
+#block(width: 100%, fill: rgb("#e6efe6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B5-07 — 2.4 Winter-Bestimmung (Knospe/Rinde/Stand) <cl-b5-07>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.4 „Winter-Bestimmung (Knospe/Rinde/Stand)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Knospe + Rinde + Stand geprüft
-=== CL-B5-08 — 3.1 Das sichere Dutzend (12 Arten) <cl-b5-08>
+#block(width: 100%, fill: rgb("#e6efe6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B5-08 — 3.1 Das sichere Dutzend (12 Arten) <cl-b5-08>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.1 „Das sichere Dutzend (12 Arten)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] 12 Arten mit Merkmalen beherrscht
 - [ ] Keine geschützte Art in der Liste
-=== CL-B5-09 — 3.2 Duldungsgrenzen (Oxalsäure-Handregel) <cl-b5-09>
+#block(width: 100%, fill: rgb("#e6efe6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B5-09 — 3.2 Duldungsgrenzen (Oxalsäure-Handregel) <cl-b5-09>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.2 „Duldungsgrenzen (Oxalsäure-Handregel)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Handregel bei Oxalsäure-Pflanzen
-=== CL-B5-10 — 4.1 Grabstock-Kunde <cl-b5-10>
+#block(width: 100%, fill: rgb("#e6efe6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B5-10 — 4.1 Grabstock-Kunde <cl-b5-10>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
@@ -4557,86 +4557,86 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.1 �
 - [ ] Drei Merkmale stimmen
 - [ ] Hebeltechnik
 - [ ] Wurzelrückgabe
-=== CL-B5-11 — 4.2 Strand & Watt <cl-b5-11>
+#block(width: 100%, fill: rgb("#e6efe6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B5-11 — 4.2 Strand & Watt <cl-b5-11>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.2 „Strand & Watt“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Knollen gekocht
 - [ ] Algen-Sperre beachtet
-=== CL-B5-12 — 5.1 Beeren <cl-b5-12>
+#block(width: 100%, fill: rgb("#e6efe6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B5-12 — 5.1 Beeren <cl-b5-12>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.1 „Beeren“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Holunder/Vogelbeere/Schlehe gekocht vor dem Verzehr
-=== CL-B5-13 — 5.2 Nüsse & Läuterung <cl-b5-13>
+#block(width: 100%, fill: rgb("#e6efe6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B5-13 — 5.2 Nüsse & Läuterung <cl-b5-13>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.2 „Nüsse & Läuterung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Läuterungszeit 3–10 T eingehalten
 - [ ] Wasser täglich gewechselt
-=== CL-B5-14 — 5.3 Wildobst-Küche <cl-b5-14>
+#block(width: 100%, fill: rgb("#e6efe6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B5-14 — 5.3 Wildobst-Küche <cl-b5-14>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.3 „Wildobst-Küche“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Frost abgewartet oder Gefriertruhe genutzt
-=== CL-B5-15 — 6.1 Die fünf Haus-Pflanzen <cl-b5-15>
+#block(width: 100%, fill: rgb("#e6efe6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B5-15 — 6.1 Die fünf Haus-Pflanzen <cl-b5-15>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.1 „Die fünf Haus-Pflanzen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Beinwell nur äußerlich
 - [ ] Weidenrinde nicht \< 16 J
-=== CL-B5-16 — 6.2 Dosierung & rote Liste <cl-b5-16>
+#block(width: 100%, fill: rgb("#e6efe6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B5-16 — 6.2 Dosierung & rote Liste <cl-b5-16>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.2 „Dosierung & rote Liste“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Frische Dosis = 1,5× getrocknete, nie doppelt (siehe Konzept B8-3.2)
 - [ ] Öl-Auszug nur gesäuert/getrocknet
-=== CL-B5-17 — 7.1 Faseraufschluss (Röste) <cl-b5-17>
+#block(width: 100%, fill: rgb("#e6efe6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B5-17 — 7.1 Faseraufschluss (Röste) <cl-b5-17>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.1 „Faseraufschluss (Röste)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Röste-Frist eingehalten
 - [ ] Fasern sauber gelöst
-=== CL-B5-18 — 7.2 Binden / Körbe / Bast <cl-b5-18>
+#block(width: 100%, fill: rgb("#e6efe6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B5-18 — 7.2 Binden / Körbe / Bast <cl-b5-18>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.2 „Binden / Körbe / Bast“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Bast nur von Totholz
-=== CL-B5-19 — 7.3 Färbe-Pflanzen (Beize) <cl-b5-19>
+#block(width: 100%, fill: rgb("#e6efe6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B5-19 — 7.3 Färbe-Pflanzen (Beize) <cl-b5-19>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.3 „Färbe-Pflanzen (Beize)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Beize verwendet
-=== CL-B5-20 — 8.1 Ried / Stroh / Binse (Dachdeckung) <cl-b5-20>
+#block(width: 100%, fill: rgb("#e6efe6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B5-20 — 8.1 Ried / Stroh / Binse (Dachdeckung) <cl-b5-20>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.1 „Ried / Stroh / Binse (Dachdeckung)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Dachneigung nach Material (siehe Konzept B4-5.1)
-=== CL-B5-21 — 8.2 Wildgarten <cl-b5-21>
+#block(width: 100%, fill: rgb("#e6efe6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B5-21 — 8.2 Wildgarten <cl-b5-21>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - NSG = Naturschutzgebiet; Sammeln verboten (§ 23 BNatSchG)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.2 „Wildgarten“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Zustimmung eingeholt
 - [ ] Kein NSG, keine geschützten Arten
-=== CL-B5-22 — 8.3 Saatgut-Keimprobe (50 Körner / 7–14 T) <cl-b5-22>
+#block(width: 100%, fill: rgb("#e6efe6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B5-22 — 8.3 Saatgut-Keimprobe (50 Körner / 7–14 T) <cl-b5-22>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - Keimprobe = 50 Körner, Schwelle 30/50 (B5-8.3/B7-9.3)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.3 „Saatgut-Keimprobe (50 Körner / 7–14 T)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] 50 Körner, 7–14 T
 - [ ] Schwelle 60 % beachtet
-=== CL-B5-23 — 9.1 Pilze <cl-b5-23>
+#block(width: 100%, fill: rgb("#e6efe6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B5-23 — 9.1 Pilze <cl-b5-23>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - Amatoxine = hitzestabiles Pilzgift; Kochen rettet nicht (warn-5b)
@@ -4644,7 +4644,7 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.1 �
 - [ ] Drei Merkmale bestätigt
 - [ ] Nie roh
 - [ ] Amatoxin-Verdacht → Giftnotruf, siehe Konzept B8-5.2
-=== CL-B5-24 — 9.2 Pflanzen-Kalender (Monatsfenster ME/Irland) <cl-b5-24>
+#block(width: 100%, fill: rgb("#e6efe6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B5-24 — 9.2 Pflanzen-Kalender (Monatsfenster ME/Irland) <cl-b5-24>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)

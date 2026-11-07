@@ -1,9 +1,9 @@
 // band-10.typ — Das Überlebenbuch, Band 10: Tausch, Dorf und das Behalten
 // erzeugt durch doc-builder (Phase H) aus artifacts/04-redaktion-band-10.md + 11-korrektur.md + 12-register.md
 #import "lib/stil.typ": *
-#init-doc(band: 10, titel: "Tausch, Dorf und das Behalten")
+#init-doc(band: 10, titel: "Tausch, Dorf und das Behalten", farbe: "#7a3fa0", tint: "#efe8f4")
 #set page(header: none, footer: none)
-#titlepage(10, "Tausch, Dorf und das Behalten")
+#titlepage(10, "Tausch, Dorf und das Behalten", farbe: "#7a3fa0")
 #pagebreak()
 #seite(10, "Tausch, Dorf und das Behalten")
 == Inhalt <inhalt>
@@ -4301,47 +4301,47 @@ Alle Checklisten des Bandes, gesammelt am Bandende. Im Kapiteltext steht jeweils
   [CL-B10-20], [— 8.3 Die harte Zeit], [], [], [], [grün], [–],
   [CL-B10-21], [— 9.1 Vermächtnis (geschrieben + verlesen)], [], [], [], [grün], [–],
 )
-=== CL-B10-01 — 1.1 Schuld & Geschenk <cl-b10-01>
+#block(width: 100%, fill: rgb("#efe8f4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B10-01 — 1.1 Schuld & Geschenk <cl-b10-01>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.1 „Schuld & Geschenk“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Gaben nicht eingefordert
 - [ ] Schulden mit Frist schriftlich
-=== CL-B10-02 — 1.2 Wort & Vertrag <cl-b10-02>
+#block(width: 100%, fill: rgb("#efe8f4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B10-02 — 1.2 Wort & Vertrag <cl-b10-02>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.2 „Wort & Vertrag“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Zwei Zeugen dabei
 - [ ] Frist notiert
-=== CL-B10-03 — 1.3 Das Mahl (Ehren-Platz-Regel) <cl-b10-03>
+#block(width: 100%, fill: rgb("#efe8f4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B10-03 — 1.3 Das Mahl (Ehren-Platz-Regel) <cl-b10-03>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.3 „Das Mahl (Ehren-Platz-Regel)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Ehrenplatz-Regel bekannt
-=== CL-B10-04 — 2.1 Der Wert <cl-b10-04>
+#block(width: 100%, fill: rgb("#efe8f4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B10-04 — 2.1 Der Wert <cl-b10-04>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.1 „Der Wert“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Korridor angewendet
-=== CL-B10-05 — 2.2 Ehrliche Waage <cl-b10-05>
+#block(width: 100%, fill: rgb("#efe8f4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B10-05 — 2.2 Ehrliche Waage <cl-b10-05>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.2 „Ehrliche Waage“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Gestrichen gemessen
 - [ ] Referenzmaß geeicht
-=== CL-B10-06 — 2.3 Tausch-Platz <cl-b10-06>
+#block(width: 100%, fill: rgb("#efe8f4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B10-06 — 2.3 Tausch-Platz <cl-b10-06>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.3 „Tausch-Platz“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Markt-Fristen angesagt
 - [ ] Ordnungsposten besetzt
-=== CL-B10-07 — 2.4 Wucher <cl-b10-07>
+#block(width: 100%, fill: rgb("#efe8f4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B10-07 — 2.4 Wucher <cl-b10-07>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - Strafgesetzbuch; § 32 Notwehr, §§ 34/35 Notstand, § 123 Hausrecht, § 291 Wucher
@@ -4349,26 +4349,26 @@ _Begriffe (Mini-Glossar):_
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.4 „Wucher“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Not-Preis nur nach der Not
 - [ ] §§ 291 StGB / 138 Abs. 2 BGB bekannt
-=== CL-B10-08 — 3.1 Ware des Hauses <cl-b10-08>
+#block(width: 100%, fill: rgb("#efe8f4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B10-08 — 3.1 Ware des Hauses <cl-b10-08>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.1 „Ware des Hauses“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Nur haltbare Ware
-=== CL-B10-09 — 3.2 Ware der Hand <cl-b10-09>
+#block(width: 100%, fill: rgb("#efe8f4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B10-09 — 3.2 Ware der Hand <cl-b10-09>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.2 „Ware der Hand“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Stunden-Tafel geführt
-=== CL-B10-10 — 4.1 Ämter des Dorfes <cl-b10-10>
+#block(width: 100%, fill: rgb("#efe8f4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B10-10 — 4.1 Ämter des Dorfes <cl-b10-10>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.1 „Ämter des Dorfes“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Ämter vergeben und doppelt besetzt
 - [ ] Rotation geplant
-=== CL-B10-11 — 4.2 Rat & Streit <cl-b10-11>
+#block(width: 100%, fill: rgb("#efe8f4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B10-11 — 4.2 Rat & Streit <cl-b10-11>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - Strafgesetzbuch; § 32 Notwehr, §§ 34/35 Notstand, § 123 Hausrecht, § 291 Wucher
@@ -4376,13 +4376,13 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.2 �
 - [ ] Klage + Zeugen vor Entscheidung
 - [ ] Nie Rache
 - [ ] § 32 StGB bekannt
-=== CL-B10-12 — 4.3 Reserve: der Zehnte <cl-b10-12>
+#block(width: 100%, fill: rgb("#efe8f4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B10-12 — 4.3 Reserve: der Zehnte <cl-b10-12>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.3 „Reserve: der Zehnte“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Zehnte aus voller Kammer
-=== CL-B10-13 — 5.1 Weg-Kunde / Furt <cl-b10-13>
+#block(width: 100%, fill: rgb("#efe8f4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B10-13 — 5.1 Weg-Kunde / Furt <cl-b10-13>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
@@ -4390,7 +4390,7 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.1 �
 - [ ] Stab-Prüfung an 3 Stellen
 - [ ] Nie über Knie mit Last
 - [ ] Nie im Dunkeln
-=== CL-B10-14 — 5.2 Gast & Fremder <cl-b10-14>
+#block(width: 100%, fill: rgb("#efe8f4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B10-14 — 5.2 Gast & Fremder <cl-b10-14>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - Strafgesetzbuch; § 32 Notwehr, §§ 34/35 Notstand, § 123 Hausrecht, § 291 Wucher
@@ -4398,27 +4398,27 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.2 �
 - [ ] Nie allein empfangen
 - [ ] Mitgebrachtes geprüft
 - [ ] §§ 34/35/123 StGB bekannt
-=== CL-B10-15 — 5.3 Trupp <cl-b10-15>
+#block(width: 100%, fill: rgb("#efe8f4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B10-15 — 5.3 Trupp <cl-b10-15>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.3 „Trupp“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Trupp doppelt besetzt
 - [ ] +60-min-Regel aktiv (siehe Konzept B1-5.2)
-=== CL-B10-16 — 6.1 Feuerprobe (Ring der Reihe) <cl-b10-16>
+#block(width: 100%, fill: rgb("#efe8f4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B10-16 — 6.1 Feuerprobe (Ring der Reihe) <cl-b10-16>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.1 „Feuerprobe (Ring der Reihe)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Alle 9 Bände durchgeprüft
 - [ ] Lücken als Übungspflicht notiert (siehe Konzept B1-8.2)
-=== CL-B10-17 — 6.2 Prüfung der Werkstatt <cl-b10-17>
+#block(width: 100%, fill: rgb("#efe8f4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B10-17 — 6.2 Prüfung der Werkstatt <cl-b10-17>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.2 „Prüfung der Werkstatt“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Zwei Zeugen anwesend
-=== CL-B10-18 — 7.1 Zeug-Haus <cl-b10-18>
+#block(width: 100%, fill: rgb("#efe8f4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B10-18 — 7.1 Zeug-Haus <cl-b10-18>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
@@ -4427,19 +4427,19 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.1 �
 - [ ] Ofen außen
 - [ ] Eimer am Eingang
 - [ ] Abstände (siehe Konzept B3-1.2)
-=== CL-B10-19 — 7.2 Abschreiben & Bewahren (vier Schichten) <cl-b10-19>
+#block(width: 100%, fill: rgb("#efe8f4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B10-19 — 7.2 Abschreiben & Bewahren (vier Schichten) <cl-b10-19>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.2 „Abschreiben & Bewahren (vier Schichten)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Vier Schichten vorhanden
-=== CL-B10-20 — 8.3 Die harte Zeit <cl-b10-20>
+#block(width: 100%, fill: rgb("#efe8f4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B10-20 — 8.3 Die harte Zeit <cl-b10-20>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.3 „Die harte Zeit“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Ration im Herbst beschlossen
-=== CL-B10-21 — 9.1 Vermächtnis (geschrieben + verlesen) <cl-b10-21>
+#block(width: 100%, fill: rgb("#efe8f4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B10-21 — 9.1 Vermächtnis (geschrieben + verlesen) <cl-b10-21>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)

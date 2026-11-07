@@ -1,9 +1,9 @@
 // band-08.typ — Das Überlebenbuch, Band 8: Heilkunde
 // erzeugt durch doc-builder (Phase H) aus artifacts/04-redaktion-band-08.md + 11-korrektur.md + 12-register.md
 #import "lib/stil.typ": *
-#init-doc(band: 8, titel: "Heilkunde")
+#init-doc(band: 8, titel: "Heilkunde", farbe: "#a12656", tint: "#f4e5eb")
 #set page(header: none, footer: none)
-#titlepage(8, "Heilkunde")
+#titlepage(8, "Heilkunde", farbe: "#a12656")
 #pagebreak()
 #seite(8, "Heilkunde")
 == Inhalt <inhalt>
@@ -4587,35 +4587,35 @@ Alle Checklisten des Bandes, gesammelt am Bandende. Im Kapiteltext steht jeweils
   [CL-B8-20], [— 9.1 Sterben begleiten (Würde-Regeln)], [], [], [], [grün], [–],
   [CL-B8-21], [— 9.2 Abschied (Blatt bis zuletzt)], [], [], [], [grün], [–],
 )
-=== CL-B8-01 — 1.1 Grenze des Behandelns <cl-b8-01>
+#block(width: 100%, fill: rgb("#f4e5eb"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B8-01 — 1.1 Grenze des Behandelns <cl-b8-01>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.1 „Grenze des Behandelns“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Können ehrlich eingeschätzt
 - [ ] Frist bekannt
-=== CL-B8-02 — 1.2 Sanitäts-Kette <cl-b8-02>
+#block(width: 100%, fill: rgb("#f4e5eb"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B8-02 — 1.2 Sanitäts-Kette <cl-b8-02>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.2 „Sanitäts-Kette“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Fünf Stationen durchlaufen
 - [ ] Protokoll geführt
-=== CL-B8-03 — 1.3 Helfer-Netz <cl-b8-03>
+#block(width: 100%, fill: rgb("#f4e5eb"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B8-03 — 1.3 Helfer-Netz <cl-b8-03>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.3 „Helfer-Netz“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Zwei Wissende benannt
 - [ ] Zwei Wege geplant
-=== CL-B8-04 — 2.1 Blutung stillen (Druckverband 15 min) <cl-b8-04>
+#block(width: 100%, fill: rgb("#f4e5eb"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B8-04 — 2.1 Blutung stillen (Druckverband 15 min) <cl-b8-04>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - Druckverband = fester Verband bei Blutung; 15 min nicht lösen (B8-2.1)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.1 „Blutung stillen (Druckverband 15 min)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] 15 min Druckverband
 - [ ] Nie zwischenzeitlich gelöst
-=== CL-B8-05 — 2.2 Wunde reinigen & schließen <cl-b8-05>
+#block(width: 100%, fill: rgb("#f4e5eb"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B8-05 — 2.2 Wunde reinigen & schließen <cl-b8-05>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - Booster = Auffrischimpfung; Tetanus alle 10 J, Risikowunde \> 5 J (warn-8a)
@@ -4625,21 +4625,21 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.2 �
 - [ ] Risikowunde offen gehalten
 - [ ] Booster-Regeln geprüft
 - [ ] Impfstoff kühl (2–8 °C) gelagert
-=== CL-B8-06 — 2.3 Die heilende Wunde <cl-b8-06>
+#block(width: 100%, fill: rgb("#f4e5eb"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B8-06 — 2.3 Die heilende Wunde <cl-b8-06>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.3 „Die heilende Wunde“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Fünf Zeichen beobachtet
 - [ ] Naht nur \< 6–12 h sauber
-=== CL-B8-07 — 3.1 Kräuter-Lese <cl-b8-07>
+#block(width: 100%, fill: rgb("#f4e5eb"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B8-07 — 3.1 Kräuter-Lese <cl-b8-07>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.1 „Kräuter-Lese“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Zwei Zeugen
 - [ ] Beinwell nur äußerlich
-=== CL-B8-08 — 3.2 Aufgüsse / Absud / Kaltauszug <cl-b8-08>
+#block(width: 100%, fill: rgb("#f4e5eb"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B8-08 — 3.2 Aufgüsse / Absud / Kaltauszug <cl-b8-08>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
@@ -4647,41 +4647,41 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.2 �
 - [ ] Zeiten eingehalten
 - [ ] 1-Tag-Frist beachtet
 - [ ] Dosierung nicht verdoppelt
-=== CL-B8-09 — 3.3 Tinkturen / Salben / Öle <cl-b8-09>
+#block(width: 100%, fill: rgb("#f4e5eb"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B8-09 — 3.3 Tinkturen / Salben / Öle <cl-b8-09>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.3 „Tinkturen / Salben / Öle“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Öl-Auszug nur gesäuert/getrocknet
 - [ ] Datum am Gefäß
-=== CL-B8-10 — 3.4 Umschlag-Buch <cl-b8-10>
+#block(width: 100%, fill: rgb("#f4e5eb"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B8-10 — 3.4 Umschlag-Buch <cl-b8-10>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.4 „Umschlag-Buch“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Lauwarm, nie heiß
-=== CL-B8-11 — 4.1 Fieber lesen <cl-b8-11>
+#block(width: 100%, fill: rgb("#f4e5eb"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B8-11 — 4.1 Fieber lesen <cl-b8-11>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.1 „Fieber lesen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Kurve geführt
 - [ ] Kein Kaltwasser gegen Anstieg
-=== CL-B8-12 — 4.2 Wärme-Regie <cl-b8-12>
+#block(width: 100%, fill: rgb("#f4e5eb"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B8-12 — 4.2 Wärme-Regie <cl-b8-12>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - ORS = 1 l abgekochtes Wasser + 6 gestrichene TL Zucker + ½ TL Salz (B8-4.2)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.2 „Wärme-Regie“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] 2–4 l/Tag lauwarm
 - [ ] ORS-Rezept bekannt
-=== CL-B8-13 — 4.3 Atem & Atem-Not <cl-b8-13>
+#block(width: 100%, fill: rgb("#f4e5eb"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B8-13 — 4.3 Atem & Atem-Not <cl-b8-13>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - Zyanose = Sauerstoffmangel; blaue Lippen = sofort handeln (B8-4.3)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.3 „Atem & Atem-Not“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Frequenz gezählt
 - [ ] Blaue Lippen = Alarm
-=== CL-B8-14 — 5.2 Der vergiftete Leib <cl-b8-14>
+#block(width: 100%, fill: rgb("#f4e5eb"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B8-14 — 5.2 Der vergiftete Leib <cl-b8-14>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
@@ -4689,34 +4689,34 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.2 �
 - [ ] Giftnotruf kontaktiert
 - [ ] _Kein Erbrechen induziert_ (außer nach Giftnotruf-Anweisung)
 - [ ] Reste gesichert
-=== CL-B8-15 — 6.1 Krankenlager (Wache 2–3 h) <cl-b8-15>
+#block(width: 100%, fill: rgb("#f4e5eb"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B8-15 — 6.1 Krankenlager (Wache 2–3 h) <cl-b8-15>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.1 „Krankenlager (Wache 2–3 h)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Wache 2–3 h eingeteilt
-=== CL-B8-16 — 7.1 Brandwunde & Frostbeule <cl-b8-16>
+#block(width: 100%, fill: rgb("#f4e5eb"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B8-16 — 7.1 Brandwunde & Frostbeule <cl-b8-16>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.1 „Brandwunde & Frostbeule“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] 10–20 min kühles Wasser
 - [ ] Nie Fett/nie Eis
-=== CL-B8-17 — 7.2 Bruch & Verrenkung <cl-b8-17>
+#block(width: 100%, fill: rgb("#f4e5eb"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B8-17 — 7.2 Bruch & Verrenkung <cl-b8-17>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.2 „Bruch & Verrenkung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Nicht gerichtet ohne Wissen
 - [ ] Schiene angelegt
-=== CL-B8-18 — 7.3 Schmerz-Küche <cl-b8-18>
+#block(width: 100%, fill: rgb("#f4e5eb"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B8-18 — 7.3 Schmerz-Küche <cl-b8-18>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.3 „Schmerz-Küche“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Weidenrinde nicht \< 16 J
 - [ ] Dosierung eingehalten
-=== CL-B8-19 — 8.1 Sanitätsmappe (\< 3 kg) <cl-b8-19>
+#block(width: 100%, fill: rgb("#f4e5eb"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B8-19 — 8.1 Sanitätsmappe (\< 3 kg) <cl-b8-19>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - Kühlkette = ununterbrochene Kühlung 2–8 °C (Impfstoff); ohne Strom: kühlster Ort (B8-2.2)
@@ -4724,13 +4724,13 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.1 �
 - [ ] \< 3 kg gewogen (siehe Konzept B1-6.5)
 - [ ] Kühlkette 2–8 °C organisiert (`warn-8a`)
 - [ ] Antibiotika-Regel bekannt
-=== CL-B8-20 — 9.1 Sterben begleiten (Würde-Regeln) <cl-b8-20>
+#block(width: 100%, fill: rgb("#f4e5eb"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B8-20 — 9.1 Sterben begleiten (Würde-Regeln) <cl-b8-20>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.1 „Sterben begleiten (Würde-Regeln)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Würde gewahrt
-=== CL-B8-21 — 9.2 Abschied (Blatt bis zuletzt) <cl-b8-21>
+#block(width: 100%, fill: rgb("#f4e5eb"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B8-21 — 9.2 Abschied (Blatt bis zuletzt) <cl-b8-21>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)

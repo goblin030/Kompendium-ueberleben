@@ -23,9 +23,10 @@
   )
 }
 
-#let init-doc(band: 1, titel: "") = {
+#let init-doc(band: 1, titel: "", farbe: "#1a5fb4", tint: "#e8f0fa") = {
   set document(title: "Das Überlebenbuch — Band " + str(band) + ": " + titel, author: "Das Überlebenbuch")
   seite(band, titel)
+  let fc = rgb(farbe)   // Bandfarbe (Review v6 Farbregel, WCAG AA >= 4,5:1 gegen Weiss)
   set text(lang: "de", size: 10pt, font: "Libertinus Serif", hyphenate: true)
   set par(justify: true, leading: 0.58em, spacing: 0.72em)
   set list(spacing: 0.42em, indent: 1.2em)
@@ -34,16 +35,16 @@
   show figure: set block(breakable: false)   // Review v4: Bild + Caption unteilbar, nie innerhalb eines Box-Rahmens
   show figure.caption: set block(above: 3pt)
   set table(stroke: 0.4pt + rgb("#8c8c8c"), inset: 2pt)
-  show heading.where(level: 2): it => block(above: 0pt, below: 10pt, text(size: 16pt, weight: "bold", fill: rgb("#1a1a1a"))[#it.body])
-  show heading.where(level: 3): it => block(above: 7pt, below: 4pt, text(size: 12pt, weight: "bold", fill: rgb("#1a1a1a"))[#it.body])
+  show heading.where(level: 2): it => block(above: 0pt, below: 10pt, text(size: 16pt, weight: "bold", fill: fc)[#it.body])
+  show heading.where(level: 3): it => block(above: 7pt, below: 4pt, text(size: 12pt, weight: "bold", fill: fc)[#it.body])
 }
 
-#let titlepage(band, titel) = [
+#let titlepage(band, titel, farbe: "#1a5fb4") = [
   #align(center)[
     #v(3.2cm)
     #text(13pt, tracking: 2pt)[DAS ÜBERLEBENBUCH]
     #v(0.5cm)
-    #text(30pt, weight: "bold")[Band #band]
+    #text(30pt, weight: "bold", fill: rgb(farbe))[Band #band]
     #v(0.25cm)
     #text(20pt)[#titel]
     #v(1.4cm)
@@ -56,23 +57,23 @@
   ]
 ]
 
-#let baustein(body) = block(width: 100%, breakable: false, inset: (x: 7pt, y: 5pt), fill: rgb("#f0f0f0"),
-  stroke: (left: 3pt + rgb("#1a1a1a"), rest: 0.5pt + rgb("#8c8c8c")), above: 9pt, below: 9pt)[
+#let baustein(body) = block(width: 100%, breakable: false, inset: (x: 7pt, y: 5pt), fill: rgb("#eef4f8"),
+  stroke: (left: 3pt + rgb("#3f6f96"), rest: 0.5pt + rgb("#a9c3d6")), above: 9pt, below: 9pt)[
   #text(weight: "bold")[BAUSTEIN:] #body
 ]
 
 #let warnrahmen(id: none, title: [], body) = block(width: 100%, breakable: false, inset: (x: 7pt, y: 6pt),
-  fill: rgb("#f7eeee"), stroke: 1.6pt + rgb("#7a0000"), above: 9pt, below: 9pt)[
+  fill: rgb("#fdf1ea"), stroke: 1.6pt + rgb("#bd531a"), above: 9pt, below: 9pt)[
   #if id != none [
     #grid(columns: (40pt, 1fr), column-gutter: 8pt, align: horizon,
       image("../illustrationen/" + id + ".svg", width: 40pt),
-      [#text(weight: "bold", fill: rgb("#7a0000"))[WARNUNG #if title != [] [— #title]] #body])
+      [#text(weight: "bold", fill: rgb("#8a3a10"))[WARNUNG #if title != [] [— #title]] #body])
   ] else [
-    #text(weight: "bold", fill: rgb("#7a0000"))[WARNUNG #if title != [] [— #title]] #body
+    #text(weight: "bold", fill: rgb("#8a3a10"))[WARNUNG #if title != [] [— #title]] #body
   ]
 ]
 
-#let kasten(title, body) = block(width: 100%, breakable: false, inset: (x: 7pt, y: 5pt), fill: rgb("#f0f0f0"), stroke: 0.5pt + rgb("#8c8c8c"), above: 9pt, below: 9pt)[
+#let kasten(title, body) = block(width: 100%, breakable: false, inset: (x: 7pt, y: 5pt), fill: rgb("#eef4f8"), stroke: (left: 3pt + rgb("#3f6f96"), rest: 0.5pt + rgb("#a9c3d6")), above: 9pt, below: 9pt)[
   #text(weight: "bold")[#title] #body
 ]
 

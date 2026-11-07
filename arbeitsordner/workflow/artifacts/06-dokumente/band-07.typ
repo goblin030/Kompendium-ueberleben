@@ -1,9 +1,9 @@
 // band-07.typ — Das Überlebenbuch, Band 7: Vorrat und Konservierung
 // erzeugt durch doc-builder (Phase H) aus artifacts/04-redaktion-band-07.md + 11-korrektur.md + 12-register.md
 #import "lib/stil.typ": *
-#init-doc(band: 7, titel: "Vorrat und Konservierung")
+#init-doc(band: 7, titel: "Vorrat und Konservierung", farbe: "#8a6d00", tint: "#f1ede0")
 #set page(header: none, footer: none)
-#titlepage(7, "Vorrat und Konservierung")
+#titlepage(7, "Vorrat und Konservierung", farbe: "#8a6d00")
 #pagebreak()
 #seite(7, "Vorrat und Konservierung")
 == Inhalt <inhalt>
@@ -4523,26 +4523,26 @@ Alle Checklisten des Bandes, gesammelt am Bandende. Im Kapiteltext steht jeweils
   [CL-B7-18], [— 9.1 Winter-Rechnung], [], [], [], [grün], [–],
   [CL-B7-19], [— 9.3 Die Saat], [], [], [], [grün], [–],
 )
-=== CL-B7-01 — 1.1 Grenze des Vorrats <cl-b7-01>
+#block(width: 100%, fill: rgb("#f1ede0"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B7-01 — 1.1 Grenze des Vorrats <cl-b7-01>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.1 „Grenze des Vorrats“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Vorratsziel nach Bedarf (siehe Konzept 9.1), nicht nach Angst
-=== CL-B7-02 — 1.3 Vorrats-Fahrplan (sechs Stationen) <cl-b7-02>
+#block(width: 100%, fill: rgb("#f1ede0"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B7-02 — 1.3 Vorrats-Fahrplan (sechs Stationen) <cl-b7-02>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.3 „Vorrats-Fahrplan (sechs Stationen)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Sechs Stationen im Plan
-=== CL-B7-03 — 3.1 Trocken-Halle <cl-b7-03>
+#block(width: 100%, fill: rgb("#f1ede0"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B7-03 — 3.1 Trocken-Halle <cl-b7-03>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.1 „Trocken-Halle“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Durchzug vorhanden
 - [ ] Ware nicht gehäuft
-=== CL-B7-04 — 3.2 Dörrware <cl-b7-04>
+#block(width: 100%, fill: rgb("#f1ede0"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B7-04 — 3.2 Dörrware <cl-b7-04>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - Preheat = 71 °C Kern vor dem Dörren (warn-7a)
@@ -4552,48 +4552,48 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.2 �
 - [ ] Brechprobe bestanden
 - [ ] Fingerdünn geschnitten
 - [ ] Schimmel → ganz wegwerfen
-=== CL-B7-05 — 4.1 Räucher-Ofen (Kalt-/Warmgang) <cl-b7-05>
+#block(width: 100%, fill: rgb("#f1ede0"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B7-05 — 4.1 Räucher-Ofen (Kalt-/Warmgang) <cl-b7-05>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.1 „Räucher-Ofen (Kalt-/Warmgang)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Warmgang: Kern durchgegart
 - [ ] Kaltgeräuchertes zusätzlich gesalzen oder sofort verbraucht
-=== CL-B7-06 — 4.2 Holz & Rauch <cl-b7-06>
+#block(width: 100%, fill: rgb("#f1ede0"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B7-06 — 4.2 Holz & Rauch <cl-b7-06>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.2 „Holz & Rauch“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Kein Nadelholz
 - [ ] Hartholz bevorzugt
-=== CL-B7-07 — 4.3 Wurst <cl-b7-07>
+#block(width: 100%, fill: rgb("#f1ede0"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B7-07 — 4.3 Wurst <cl-b7-07>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.3 „Wurst“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Kern ≥ 71 °C bei Brühwurst
-=== CL-B7-08 — 5.1 Das Salz <cl-b7-08>
+#block(width: 100%, fill: rgb("#f1ede0"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B7-08 — 5.1 Das Salz <cl-b7-08>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.1 „Das Salz“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Herkunft des Salzes bekannt
 - [ ] Kein Streusalz/Regeneriersalz in Lebensmitteln (siehe auch Konzept B2-3.7, Tausalz-Schnee)
-=== CL-B7-09 — 5.2 Pökeln (Lake-Ei-Test) <cl-b7-09>
+#block(width: 100%, fill: rgb("#f1ede0"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B7-09 — 5.2 Pökeln (Lake-Ei-Test) <cl-b7-09>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - Lake-Ei-Test = frisches Ei schwimmt in Pökellake (B7-5.2)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.2 „Pökeln (Lake-Ei-Test)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Ei-Test bestanden
 - [ ] Zeiten eingehalten (Speck 7–10 T; Schinken 1 T/cm + 2 T)
-=== CL-B7-10 — 6.1 Kraut-Fass (Milchsäure/Lake) <cl-b7-10>
+#block(width: 100%, fill: rgb("#f1ede0"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B7-10 — 6.1 Kraut-Fass (Milchsäure/Lake) <cl-b7-10>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.1 „Kraut-Fass (Milchsäure/Lake)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Luftdicht vergoren
 - [ ] 2–4 Wochen gereift
-=== CL-B7-11 — 6.2k Einkochen, Öl & Essig <cl-b7-11>
+#block(width: 100%, fill: rgb("#f1ede0"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B7-11 — 6.2k Einkochen, Öl & Essig <cl-b7-11>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - psi = Druckeinheit; 10 psi ≈ 0,7 bar, 15 psi ≈ 1,0 bar (B7-6.2k)
@@ -4605,53 +4605,53 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.2k �
 - [ ] Wasserbad nur pH ≤ 4,6
 - [ ] Öl nur gesäuert/getrocknet, kühl, Frist in Tagen
 - [ ] Gewölbte Deckel ungeöffnet weggeworfen
-=== CL-B7-12 — 6.3 Essig selbst gebraut <cl-b7-12>
+#block(width: 100%, fill: rgb("#f1ede0"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B7-12 — 6.3 Essig selbst gebraut <cl-b7-12>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - pH = Säuregrad; \> 4,6 = low-acid → Druckkocher-Pflicht (B7-6.2k)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.3 „Essig selbst gebraut“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] pH des fertigen Essigs gemessen (\< 4,6)
-=== CL-B7-13 — 7.1 Schmalz & Talg <cl-b7-13>
+#block(width: 100%, fill: rgb("#f1ede0"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B7-13 — 7.1 Schmalz & Talg <cl-b7-13>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.1 „Schmalz & Talg“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Luftdicht, kühl, dunkel
 - [ ] Ranz-Geruch → wegwerfen
-=== CL-B7-14 — 7.2 Seife aus Resten <cl-b7-14>
+#block(width: 100%, fill: rgb("#f1ede0"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B7-14 — 7.2 Seife aus Resten <cl-b7-14>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.2 „Seife aus Resten“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Verhältnis 1:1, Lauge 0,5 l/Pfund
 - [ ] Reife 4–6 Wochen
-=== CL-B7-15 — 7.3 Gerben (Lohe/Eichenrinde) <cl-b7-15>
+#block(width: 100%, fill: rgb("#f1ede0"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B7-15 — 7.3 Gerben (Lohe/Eichenrinde) <cl-b7-15>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.3 „Gerben (Lohe/Eichenrinde)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Schnittprobe braun
-=== CL-B7-16 — 8.1 Die kalte Kammer (Zonen) <cl-b7-16>
+#block(width: 100%, fill: rgb("#f1ede0"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B7-16 — 8.1 Die kalte Kammer (Zonen) <cl-b7-16>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.1 „Die kalte Kammer (Zonen)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Zonen klar getrennt
 - [ ] Temperatur regelmäßig geprüft (siehe Konzept B1-7.4)
-=== CL-B7-17 — 8.2 Gäste & Verderb-Atlas <cl-b7-17>
+#block(width: 100%, fill: rgb("#f1ede0"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B7-17 — 8.2 Gäste & Verderb-Atlas <cl-b7-17>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.2 „Gäste & Verderb-Atlas“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Atlas bekannt
 - [ ] Schimmel-Regel: Korn/Brot/Nüsse ganz weg
-=== CL-B7-18 — 9.1 Winter-Rechnung <cl-b7-18>
+#block(width: 100%, fill: rgb("#f1ede0"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B7-18 — 9.1 Winter-Rechnung <cl-b7-18>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.1 „Winter-Rechnung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] 100 Tage + Zugabe gerechnet
-=== CL-B7-19 — 9.3 Die Saat <cl-b7-19>
+#block(width: 100%, fill: rgb("#f1ede0"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B7-19 — 9.3 Die Saat <cl-b7-19>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - Keimprobe = 50 Körner, Schwelle 30/50 (B5-8.3/B7-9.3)

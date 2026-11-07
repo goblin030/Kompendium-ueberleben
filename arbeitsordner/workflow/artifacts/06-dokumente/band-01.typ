@@ -1,9 +1,9 @@
 // band-01.typ — Das Überlebenbuch, Band 1: Grundlagen
 // erzeugt durch doc-builder (Phase H) aus artifacts/04-redaktion-band-01.md + 11-korrektur.md + 12-register.md
 #import "lib/stil.typ": *
-#init-doc(band: 1, titel: "Grundlagen")
+#init-doc(band: 1, titel: "Grundlagen", farbe: "#1a5fb4", tint: "#e4ecf6")
 #set page(header: none, footer: none)
-#titlepage(1, "Grundlagen")
+#titlepage(1, "Grundlagen", farbe: "#1a5fb4")
 #pagebreak()
 #seite(1, "Grundlagen")
 == Inhalt <inhalt>
@@ -6226,7 +6226,7 @@ Verfalluhr: 12 Monate ohne Wiederholung = Fähigkeit verfallen (siehe B1-8.2).
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
 )
 #pagebreak(weak: true)
-== Anhang D — Checklisten (Band 1) <anh-d-2>
+== Anhang E — Checklisten (Band 1) <anh-e>
 Alle Checklisten des Bandes, gesammelt am Bandende. Im Kapiteltext steht jeweils nur der Querverweis „siehe CL-B1-NN“. Aufbau pro Checkliste: Kennziffer + sprechende Bezeichnung + Begriffserläuterung (Mini-Glossar) + bestehende Ziel-Präambel (Zweck/Abnahme) + Punkte.
 #subhead[Kapitel-Übersicht]
 #table(
@@ -6260,7 +6260,7 @@ Alle Checklisten des Bandes, gesammelt am Bandende. Im Kapiteltext steht jeweils
   [CL-B1-25], [— 9.1 Stundenprotokoll 24 h], [], [], [], [grün], [–],
   [CL-B1-26], [— 9.2 Wochenrollenplan (doppelt besetzt)], [], [], [], [grün], [–],
 )
-=== CL-B1-01 — 2.1 STOPP-Protokoll <cl-b1-01>
+#block(width: 100%, fill: rgb("#e4ecf6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B1-01 — 2.1 STOPP-Protokoll <cl-b1-01>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
@@ -6268,14 +6268,14 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.1 �
 - [ ] Stopp genommen, bevor etwas bewegt wurde
 - [ ] Drei Gefahren benannt
 - [ ] Drei nächste Handlungen notiert (siehe Konzept 9.1)
-=== CL-B1-02 — 2.2 Atemprotokoll 4–6 <cl-b1-02>
+#block(width: 100%, fill: rgb("#e4ecf6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B1-02 — 2.2 Atemprotokoll 4–6 <cl-b1-02>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.2 „Atemprotokoll 4–6“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] 5 volle Zyklen gemacht
 - [ ] Schulter und Kiefer bewusst gelöst
-=== CL-B1-03 — 2.4 Gesprächsordnung (15-min-Box) <cl-b1-03>
+#block(width: 100%, fill: rgb("#e4ecf6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B1-03 — 2.4 Gesprächsordnung (15-min-Box) <cl-b1-03>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
@@ -6283,7 +6283,7 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.4 �
 - [ ] Thema vorab angesagt
 - [ ] Redezeiten eingehalten
 - [ ] Entscheidung oder neuer Termin im Protokoll
-=== CL-B1-04 — 3.2 Notfallrucksack (72 h) <cl-b1-04>
+#block(width: 100%, fill: rgb("#e4ecf6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B1-04 — 3.2 Notfallrucksack (72 h) <cl-b1-04>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
@@ -6291,14 +6291,14 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.2 �
 - [ ] Gesamtgewicht gewogen: \< 12 kg
 - [ ] Wasser auffüllbar eingepackt (Flaschen leer mitnehmen möglich)
 - [ ] Inhalt alle 6 Monate geprüft (siehe Konzept 8.2)
-=== CL-B1-05 — 3.3 Rucksack-Profile (Kinder/Senioren/Haustiere) <cl-b1-05>
+#block(width: 100%, fill: rgb("#e4ecf6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B1-05 — 3.3 Rucksack-Profile (Kinder/Senioren/Haustiere) <cl-b1-05>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.3 „Rucksack-Profile (Kinder/Senioren/Haustiere)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Jedem sein Gewicht zugewiesen und gewogen
 - [ ] Medikamente des Seniors doppelt eingepackt
-=== CL-B1-06 — 3.4 Treffpunkt-Plan (A/B + Abholliste) <cl-b1-06>
+#block(width: 100%, fill: rgb("#e4ecf6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B1-06 — 3.4 Treffpunkt-Plan (A/B + Abholliste) <cl-b1-06>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
@@ -6306,7 +6306,7 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.4 �
 - [ ] A und B schriftlich notiert
 - [ ] Abholliste vollständig
 - [ ] +60-min-Regel allen bekannt
-=== CL-B1-07 — 3a.2 Sofortmaßnahmen <cl-b1-07>
+#block(width: 100%, fill: rgb("#e4ecf6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B1-07 — 3a.2 Sofortmaßnahmen <cl-b1-07>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - CO = Kohlenmonoxid, geruchlos, tödlich; warn-3 (B3-6.3)
@@ -6325,7 +6325,7 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass in den ersten 60 M
 - [ ] Medikamente 14 Tage + Insulin kühl + Impfpass (B8-8.1)
 - [ ] Toilette ohne Wasser organisiert (B2-9.1)
 - [ ] Koch-/Heizlösung ohne Wohnungs-Grill (B3-5.1, warn-3)
-=== CL-B1-08 — 3a.3 Grundausstattung Blackout (BBK-Kategorien) <cl-b1-08>
+#block(width: 100%, fill: rgb("#e4ecf6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B1-08 — 3a.3 Grundausstattung Blackout (BBK-Kategorien) <cl-b1-08>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - CO = Kohlenmonoxid, geruchlos, tödlich; warn-3 (B3-6.3)
@@ -6346,21 +6346,21 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste ist die Blackout-Grundausstattun
 - [ ] _Hygiene:_ Feuchttücher, Müllsäcke, Toilettenpapier, Desinfektionsmittel, Campingtoilette/Eimer+Säcke (B2-9.1)
 - [ ] _Sicherheit:_ Rauchmelder, Feuerlöscher, _CO-Melder_ (Pflicht bei alternativer Heizung, `warn-3`), FFP2
 - [ ] _Haustiere:_ Futter + Wasser × 14 Tage
-=== CL-B1-09 — 4.1 Schattenstab & Uhr-Methode <cl-b1-09>
+#block(width: 100%, fill: rgb("#e4ecf6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B1-09 — 4.1 Schattenstab & Uhr-Methode <cl-b1-09>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.1 „Schattenstab & Uhr-Methode“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Mindestens 15 Minuten zwischen den Markierungen
 - [ ] Sommerzeit-Korrektur beachtet
-=== CL-B1-10 — 4.2 Polarstern (Fünffach-Verlängerung, Cassiopeia) <cl-b1-10>
+#block(width: 100%, fill: rgb("#e4ecf6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B1-10 — 4.2 Polarstern (Fünffach-Verlängerung, Cassiopeia) <cl-b1-10>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.2 „Polarstern (Fünffach-Verlängerung, Cassiopeia)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Fünffach-Verlängerung geprüft
 - [ ] Cassiopeia als Gegenprobe gesichtet
-=== CL-B1-11 — 4.3 Karte lesen <cl-b1-11>
+#block(width: 100%, fill: rgb("#e4ecf6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B1-11 — 4.3 Karte lesen <cl-b1-11>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
@@ -6368,14 +6368,14 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.3 �
 - [ ] Nordausrichtung vor dem Lesen
 - [ ] Maßstab notiert
 - [ ] Zwischenziele gesetzt
-=== CL-B1-12 — 5.1 Notrufzeichen & Pfeife (3 Signale/min) <cl-b1-12>
+#block(width: 100%, fill: rgb("#e4ecf6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B1-12 — 5.1 Notrufzeichen & Pfeife (3 Signale/min) <cl-b1-12>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.1 „Notrufzeichen & Pfeife (3 Signale/min)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Drei-Signal-Rhythmus geübt (siehe Konzept 8.2)
 - [ ] Zeichen tags und nachts unterscheidbar
-=== CL-B1-13 — 5.2 Treffpunkte & Botenregeln (+60-min-Regel) <cl-b1-13>
+#block(width: 100%, fill: rgb("#e4ecf6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B1-13 — 5.2 Treffpunkte & Botenregeln (+60-min-Regel) <cl-b1-13>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
@@ -6383,14 +6383,14 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.2 �
 - [ ] Bote doppelt besetzt
 - [ ] +60-min-Frist notiert
 - [ ] Übergabezettel vorbereitet
-=== CL-B1-14 — 6.1 Messer <cl-b1-14>
+#block(width: 100%, fill: rgb("#e4ecf6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B1-14 — 6.1 Messer <cl-b1-14>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.1 „Messer“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Schnittrichtung weg vom Körper
 - [ ] Klinge gepflegt (siehe Konzept B9-4.2)
-=== CL-B1-15 — 6.2 Säge & Axt <cl-b1-15>
+#block(width: 100%, fill: rgb("#e4ecf6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B1-15 — 6.2 Säge & Axt <cl-b1-15>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - Sperrzone = 2 Stiellängen um schwingendes Werkzeug (B1-6.2, warn-9a)
@@ -6398,63 +6398,63 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.2 �
 - [ ] Sperrzone markiert
 - [ ] Zwei Fluchtwege 45° frei
 - [ ] Niemals hangabwärts darunter
-=== CL-B1-16 — 6.3 Fünf Serienknoten <cl-b1-16>
+#block(width: 100%, fill: rgb("#e4ecf6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B1-16 — 6.3 Fünf Serienknoten <cl-b1-16>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.3 „Fünf Serienknoten“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Alle fünf Knoten blind machbar
 - [ ] Nach Belastung kontrolliert
-=== CL-B1-17 — 6.4 Behelfswerkzeug <cl-b1-17>
+#block(width: 100%, fill: rgb("#e4ecf6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B1-17 — 6.4 Behelfswerkzeug <cl-b1-17>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.4 „Behelfswerkzeug“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Behelf als Behelf gekennzeichnet
 - [ ] Grenzen (z. B. \< 5 cm) eingehalten
-=== CL-B1-18 — 6.5 Traglast (15–20 % / 30 % / Kinder 10–15 %) <cl-b1-18>
+#block(width: 100%, fill: rgb("#e4ecf6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B1-18 — 6.5 Traglast (15–20 % / 30 % / Kinder 10–15 %) <cl-b1-18>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.5 „Traglast (15–20 % / 30 % / Kinder 10–15 %)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Last gewogen oder geschätzt und gegen Tabelle geprüft
 - [ ] Schwere Last auf den Rücken, nicht in der Hand
-=== CL-B1-19 — 7.1 Körpermaß-System <cl-b1-19>
+#block(width: 100%, fill: rgb("#e4ecf6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B1-19 — 7.1 Körpermaß-System <cl-b1-19>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.1 „Körpermaß-System“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Eichkarte angelegt
 - [ ] Schritt an 100 m geeicht
-=== CL-B1-20 — 7.2 Mengen & Referenzmaße <cl-b1-20>
+#block(width: 100%, fill: rgb("#e4ecf6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B1-20 — 7.2 Mengen & Referenzmaße <cl-b1-20>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.2 „Mengen & Referenzmaße“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Referenzlöffel markiert
 - [ ] kg/l-Trennung beachtet
-=== CL-B1-21 — 7.3 Zeit ohne Uhr (± 30 min) <cl-b1-21>
+#block(width: 100%, fill: rgb("#e4ecf6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B1-21 — 7.3 Zeit ohne Uhr (± 30 min) <cl-b1-21>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.3 „Zeit ohne Uhr (± 30 min)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Puls als Sekundentakt geeicht
 - [ ] Restlicht-1-h-Regel bekannt
-=== CL-B1-22 — 7.4 Temperatur-Feinmessung (Ellbogenprobe) <cl-b1-22>
+#block(width: 100%, fill: rgb("#e4ecf6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B1-22 — 7.4 Temperatur-Feinmessung (Ellbogenprobe) <cl-b1-22>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.4 „Temperatur-Feinmessung (Ellbogenprobe)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Ellbogenprobe geübt (siehe Konzept 8.1/8.2)
 - [ ] 55-°C-Grenze eingehalten
-=== CL-B1-23 — 8.1 Jahres-Übungsplan <cl-b1-23>
+#block(width: 100%, fill: rgb("#e4ecf6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B1-23 — 8.1 Jahres-Übungsplan <cl-b1-23>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.1 „Jahres-Übungsplan“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Pro Quartal ein Wochenende eingeplant
 - [ ] Pro Übung ein Protokoll (siehe Konzept 8.2)
-=== CL-B1-24 — 8.2 Übungsprotokoll (Verfalluhr 12 Monate) <cl-b1-24>
+#block(width: 100%, fill: rgb("#e4ecf6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B1-24 — 8.2 Übungsprotokoll (Verfalluhr 12 Monate) <cl-b1-24>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - Verfalluhr = 12 Monate ohne Übung → verfallen (B1-8.2)
@@ -6462,14 +6462,14 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.2 �
 - [ ] Protokoll geführt
 - [ ] Verfalldatum (Datum + 12 Monate) notiert
 - [ ] Übungspflicht bei V \< 6 ausgelöst
-=== CL-B1-25 — 9.1 Stundenprotokoll 24 h <cl-b1-25>
+#block(width: 100%, fill: rgb("#e4ecf6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B1-25 — 9.1 Stundenprotokoll 24 h <cl-b1-25>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.1 „Stundenprotokoll 24 h“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Protokoll alle 24 h geführt
 - [ ] Wasserverbrauch gegen Inventur geprüft (siehe Konzept B2-8.1)
-=== CL-B1-26 — 9.2 Wochenrollenplan (doppelt besetzt) <cl-b1-26>
+#block(width: 100%, fill: rgb("#e4ecf6"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B1-26 — 9.2 Wochenrollenplan (doppelt besetzt) <cl-b1-26>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)

@@ -216,3 +216,31 @@ Hinweis zu Band 6: Gate G-1 (legal) ist laut abschlussbericht §3 noch offen —
 ## Gesamturteil Turn 6: **FREIGEGEBEN** (Imprimatur bestätigt; visual-qa-Gate gelb bestanden)
 
 0 blocker, 0 major, 2 minor (T6-1 Rollen-Wortlaut, T6-2 bericht-Kosmetik). Druckfreigabe für `06-dokumente/`: 10 × PDF/A-2b (3.589 S., alle ≥ 300), 10 × PDF/X-4 Druckdaten (3 mm Anschnitt + Schnittmarken 1×/Seite, CMYK-only, Fonts eingebettet, aktueller proof), 189 sanitized SVGs, Quellenverzeichnisse in allen Bänden, 0 Meta-Leaks (abgesehen vom minor-Wortlaut T6-1). **Nicht-Format-Hinweis Phase K:** Gate G-1 (legal-Freigabe Band 6) weiterhin offen — Owner legal/fachlektor.
+
+---
+
+# Nachtrag — Re-Review Turn 7 (2026-11-07, ~19:15 MEZ, nach visual-qa Turn 4 = FREIGEGEBEN gelb)
+
+**Anlass:** visual-qa-Gate `20-visual-qa.md` Turn 4 bestanden (gelb ×10); 06-dokumente/ nach doc-builder Turn 12 / illustrator Turn 5 neu gebaut (3.376 S.). Verifiziert mit poppler/qpdf (/tmp/gsenv) + frischem typst-Build + pdftotext-Volltextscan.
+
+## Ergebnis
+
+| Prüfpunkt | Status | Nachweis |
+|---|---|---|
+| Gate bestätigen (0 Kollisionen, Meta 0) | **bestätigt** | visual-qa Turn 4: 0 Kollisionen in 3.376/3.376 Seiten, 163/163 Caption-Paare Lücke 4,6 pt, Meta-Scan 0 in allen PDF-Texten **und** 189 SVG-Bildtexten (inkl. Rollen-Namen SME/Fachlektorat — T6-1 damit erledigt). Eigene Kontrolle: pdftotext aller 10 PDFs 0 harte Meta-Tokens (nur False Positives „Lücke“/„Organismen“); SVG-Scan 189/189 wohlgeformt, 0 Leaks, 0 undefined/NaN. |
+| Checklisten nur Anhang mit CL-Refs | **JA** | Alle `_Checkliste:_`-Zeilen pro Band sind CL-Zeiger („siehe CL-Bn-NN, Anhang S. …“); CL-Refs == CL-Defs pro Band (26/25/24/23/24/20/19/21/20/21 = **223**, refs==defs: True überall). Verbleibende `[ ]` im Kapitel sind nur Schritt-Tabellen-Zellen („[ ] erledigt [ ] geprüft“), keine Checklisten-Blöcke. |
+| CL-Register in 12-register.md konsistent | **JA** | §3 Checklisten-Register: 223 Kennziffern CL-B1-01…CL-B10-21, exakt gleiche Per-Band-Verteilung wie die Bände (26/25/24/23/24/20/19/21/20/21), 0 Dubletten, alle Verweise lösen auf. |
+| Alle .typ kompilieren + ≥ 300 S./Band | **JA** | 10/10 fehlerfrei (rc=0, keine Warnungen), frischer Build seitenzahl-identisch: **446/362/342/329/317/310/320/325/320/305 = Σ 3.376 S.**, alle ≥ 300; PDF/A-2b + dc:title in allen 10. |
+| Druckdaten + proof aktuell | **JA (T5-1 gehalten)** | Alle 10 `band-NN-druck.pdf` via pdfinfo/qpdf/pdffonts/pdfimages OK: Pages = proof (446/362/…/305), MediaBox 216×303 mm, Trim+Bleed gesetzt, 0 RGB-Ops, Schnittmarken RegBlack `1 1 1 1 K` + `0.3 w` genau 1×/Seite, PDF/X-4 + OutputIntent, 0 Annots, 0 Raster, Fonts embedded. `proof.json` mtime 18:01 > Druck-PDFs 17:55, Werte matchen, crop_marks_ok=true. |
+| Keine Regressionen | **JA** | F1–F7, T3-1/T3-2, R1, R2, T5-1, T6-1 halten: 0 dbl Captions, 0 Phase-Leak, Abb. 174 refs=Dateien, 15 warn an geplanten Stellen, ZIP 243/189 integer. |
+
+## Restbefunde Turn 7 (minor, nicht blockierend)
+
+| # | Schwere | Befund | Korrektur |
+|---|---|---|---|
+| T7-1 | minor | **Band 1 hat doppelt „Anhang D“**: „Anhang D — Glossar“ (Zeile 6222) und „Anhang D — Checklisten“ (Zeile 6229). 12-register.md §8 dokumentiert, dass der Checklisten-Anhang in B1 „Anhang E“ heißen soll. Bände 2–10 sind konsistent (A/B/C/D-Checklisten; B10 zusätzlich Feuerprobe). | Checklisten-Anhang in band-01.typ in „Anhang E“ umbenennen (Label z. B. `<anh-e>`), Band 1 neu kompilieren. |
+| T7-2 | minor | `proof-bericht.md` weiterhin textlich veraltet (mtime 17:37, nennt Turn-10-Zahl 475; `proof.json` ist aktuell mit 446/3.376). | Bericht als Rev. 5 mit Turn-12-Zahlen aktualisieren. |
+
+## Gesamturteil Turn 7: **FREIGEGEBEN** (Imprimatur bestätigt; visual-qa-Gate gelb bestanden)
+
+0 blocker, 0 major, 2 minor (T7-1 Anhang-D-Dopplung in Band 1, T7-2 bericht-Kosmetik). Druckfreigabe `06-dokumente/`: 10 × PDF/A-2b (3.376 S., alle ≥ 300), 10 × PDF/X-4 (3 mm Anschnitt + Schnittmarken 1×/Seite, CMYK-only, Fonts eingebettet, aktueller proof), 189 clean SVGs, 223 CL-Kennziffern konsistent mit 12-register.md, 0 Meta-Leaks. Gate G-1 (legal, Band 6) offen — Owner legal/Phase K.

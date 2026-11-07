@@ -1,9 +1,9 @@
 // band-06.typ — Das Überlebenbuch, Band 6: Jagd und Fischfang
 // erzeugt durch doc-builder (Phase H) aus artifacts/04-redaktion-band-06.md + 11-korrektur.md + 12-register.md
 #import "lib/stil.typ": *
-#init-doc(band: 6, titel: "Jagd und Fischfang")
+#init-doc(band: 6, titel: "Jagd und Fischfang", farbe: "#8c5e10", tint: "#f1ece2")
 #set page(header: none, footer: none)
-#titlepage(6, "Jagd und Fischfang")
+#titlepage(6, "Jagd und Fischfang", farbe: "#8c5e10")
 #pagebreak()
 #seite(6, "Jagd und Fischfang")
 == Inhalt <inhalt>
@@ -4451,7 +4451,7 @@ Alle Checklisten des Bandes, gesammelt am Bandende. Im Kapiteltext steht jeweils
   [CL-B6-19], [— 9.2 Wild-Küche], [], [], [], [grün], [–],
   [CL-B6-20], [— 9.3 Fell, Sehne, Knochen (Ganz-Verwertung)], [], [], [], [grün], [–],
 )
-=== CL-B6-01 — 1.1 Grenze des Jagens <cl-b6-01>
+#block(width: 100%, fill: rgb("#f1ece2"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B6-01 — 1.1 Grenze des Jagens <cl-b6-01>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
@@ -4459,39 +4459,39 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.1 �
 - [ ] Notstand-Bindung gegeben
 - [ ] Jagdschein + Befugnis vorhanden
 - [ ] Ganz-Verwertung geplant (siehe Konzept 9.3)
-=== CL-B6-02 — 1.2 Jagd-Kreise & Ruhe-Zonen <cl-b6-02>
+#block(width: 100%, fill: rgb("#f1ece2"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B6-02 — 1.2 Jagd-Kreise & Ruhe-Zonen <cl-b6-02>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.2 „Jagd-Kreise & Ruhe-Zonen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Kreise festgelegt
 - [ ] Ruhe-Zonen markiert
-=== CL-B6-03 — 1.3 Jagd-Kalender <cl-b6-03>
+#block(width: 100%, fill: rgb("#f1ece2"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B6-03 — 1.3 Jagd-Kalender <cl-b6-03>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.3 „Jagd-Kalender“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Schonzeiten im Kalender (siehe Konzept B10-8.1)
-=== CL-B6-04 — 2.1 Trittsiegel & Gangbilder <cl-b6-04>
+#block(width: 100%, fill: rgb("#f1ece2"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B6-04 — 2.1 Trittsiegel & Gangbilder <cl-b6-04>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.1 „Trittsiegel & Gangbilder“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Trittsiegel fotografiert/notiert (siehe Konzept B1-9.1)
-=== CL-B6-05 — 2.4 Winter-Spur <cl-b6-05>
+#block(width: 100%, fill: rgb("#f1ece2"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B6-05 — 2.4 Winter-Spur <cl-b6-05>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.4 „Winter-Spur“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Neuschnee-Schichtdicke beurteilt
-=== CL-B6-06 — 3.1 Der Ansitz <cl-b6-06>
+#block(width: 100%, fill: rgb("#f1ece2"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B6-06 — 3.1 Der Ansitz <cl-b6-06>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.1 „Der Ansitz“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Windrichtung geprüft
 - [ ] Ansitz-Protokoll geführt
-=== CL-B6-07 — 3.2 Pirsch & sauberer Schuss <cl-b6-07>
+#block(width: 100%, fill: rgb("#f1ece2"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B6-07 — 3.2 Pirsch & sauberer Schuss <cl-b6-07>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - Waffengesetz; Schusswaffen nur mit Waffenschein
@@ -4499,7 +4499,7 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.2 �
 - [ ] Wartefrist eingehalten
 - [ ] Nachsuche organisiert
 - [ ] Waffenerlaubnis vorhanden (WaffG)
-=== CL-B6-08 — 4.1 Jagdbogen <cl-b6-08>
+#block(width: 100%, fill: rgb("#f1ece2"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B6-08 — 4.1 Jagdbogen <cl-b6-08>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
@@ -4507,14 +4507,14 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.1 �
 - [ ] Als Übungsgerät deklariert
 - [ ] 100 Probeschüsse dokumentiert
 - [ ] Sicherheitsabstand 10–20 m
-=== CL-B6-09 — 4.2 Pfeil, Speer, Wurfholz <cl-b6-09>
+#block(width: 100%, fill: rgb("#f1ece2"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B6-09 — 4.2 Pfeil, Speer, Wurfholz <cl-b6-09>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.2 „Pfeil, Speer, Wurfholz“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Speer nicht zur Jagd
 - [ ] Keine Gifte
-=== CL-B6-10 — 5.1a Kastenfalle & Kleintierfallen (Ersatz für 5.1) <cl-b6-10>
+#block(width: 100%, fill: rgb("#f1ece2"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B6-10 — 5.1a Kastenfalle & Kleintierfallen (Ersatz für 5.1) <cl-b6-10>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
@@ -4523,7 +4523,7 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.1a �
 - [ ] 2× täglich kontrolliert
 - [ ] Nie an Menschenpfaden
 - [ ] Kontrollkarte geführt
-=== CL-B6-11 — 5.2 Vögel, Eier, Kleintier <cl-b6-11>
+#block(width: 100%, fill: rgb("#f1ece2"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B6-11 — 5.2 Vögel, Eier, Kleintier <cl-b6-11>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - Bundesnaturschutzgesetz; §§ 23/39/44 (NSG/Handstrauß/geschützte Arten)
@@ -4531,34 +4531,34 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.2 �
 - [ ] § 44 BNatSchG beachtet
 - [ ] Nie letztes Gelege
 - [ ] Eier gekocht
-=== CL-B6-12 — 6.1 Schnur, Haken, Pose <cl-b6-12>
+#block(width: 100%, fill: rgb("#f1ece2"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B6-12 — 6.1 Schnur, Haken, Pose <cl-b6-12>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.1 „Schnur, Haken, Pose“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Knoten geprüft
 - [ ] Haken fest
-=== CL-B6-13 — 6.3 Köder-Zucht (Wurm-Kiste) <cl-b6-13>
+#block(width: 100%, fill: rgb("#f1ece2"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B6-13 — 6.3 Köder-Zucht (Wurm-Kiste) <cl-b6-13>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.3 „Köder-Zucht (Wurm-Kiste)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Wurm-Kiste angelegt
-=== CL-B6-14 — 7.1 Netz <cl-b6-14>
+#block(width: 100%, fill: rgb("#f1ece2"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B6-14 — 7.1 Netz <cl-b6-14>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.1 „Netz“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Öffnung im Netz
 - [ ] Genehmigung/Markierung geklärt (je Bundesland)
-=== CL-B6-15 — 7.2 Reuse, Fischwehr, Stellnetz <cl-b6-15>
+#block(width: 100%, fill: rgb("#f1ece2"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B6-15 — 7.2 Reuse, Fischwehr, Stellnetz <cl-b6-15>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.2 „Reuse, Fischwehr, Stellnetz“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Tägliche Kontrolle bei Wärme
 - [ ] Drei-Tage-Regel
-=== CL-B6-16 — 8.1 Muscheln der Gezeiten <cl-b6-16>
+#block(width: 100%, fill: rgb("#f1ece2"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B6-16 — 8.1 Muscheln der Gezeiten <cl-b6-16>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
@@ -4566,13 +4566,13 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.1 �
 - [ ] Amtlich überwachtes Gewässer
 - [ ] Sperrzeiten beachtet
 - [ ] Frische geprüft (fest geschlossen)
-=== CL-B6-17 — 8.2 Krabben & Watt-Gäste <cl-b6-17>
+#block(width: 100%, fill: rgb("#f1ece2"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B6-17 — 8.2 Krabben & Watt-Gäste <cl-b6-17>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.2 „Krabben & Watt-Gäste“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Heißwasser-Behandlung bekannt
-=== CL-B6-18 — 9.1 Ausnehmen & Zerwirken <cl-b6-18>
+#block(width: 100%, fill: rgb("#f1ece2"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B6-18 — 9.1 Ausnehmen & Zerwirken <cl-b6-18>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
@@ -4580,14 +4580,14 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.1 �
 - [ ] ≥ 71 °C Kerntemperatur gemessen
 - [ ] Keine Fledermaus mit bloßen Händen
 - [ ] Kranke Tiere gemieden
-=== CL-B6-19 — 9.2 Wild-Küche <cl-b6-19>
+#block(width: 100%, fill: rgb("#f1ece2"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B6-19 — 9.2 Wild-Küche <cl-b6-19>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.2 „Wild-Küche“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Aal durchgegart
 - [ ] Wildbret ≥ 71 °C Kern (siehe Konzept 9.1)
-=== CL-B6-20 — 9.3 Fell, Sehne, Knochen (Ganz-Verwertung) <cl-b6-20>
+#block(width: 100%, fill: rgb("#f1ece2"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B6-20 — 9.3 Fell, Sehne, Knochen (Ganz-Verwertung) <cl-b6-20>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)

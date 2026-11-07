@@ -1,9 +1,9 @@
 // band-04.typ — Das Überlebenbuch, Band 4: Unterkunft & Kleidung
 // erzeugt durch doc-builder (Phase H) aus artifacts/04-redaktion-band-04.md + 11-korrektur.md + 12-register.md
 #import "lib/stil.typ": *
-#init-doc(band: 4, titel: "Unterkunft & Kleidung")
+#init-doc(band: 4, titel: "Unterkunft & Kleidung", farbe: "#6b4fa0", tint: "#edeaf4")
 #set page(header: none, footer: none)
-#titlepage(4, "Unterkunft & Kleidung")
+#titlepage(4, "Unterkunft & Kleidung", farbe: "#6b4fa0")
 #pagebreak()
 #seite(4, "Unterkunft & Kleidung")
 == Inhalt <inhalt>
@@ -4571,14 +4571,14 @@ Alle Checklisten des Bandes, gesammelt am Bandende. Im Kapiteltext steht jeweils
   [CL-B4-22], [— 9.1 Behelfstrage], [], [], [], [grün], [–],
   [CL-B4-23], [— 9.2 Lager bei Dunkelheit (Restlicht-1-h)], [], [], [], [grün], [–],
 )
-=== CL-B4-01 — 1.1 Unterkunftsethik <cl-b4-01>
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-01 — 1.1 Unterkunftsethik <cl-b4-01>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.1 „Unterkunftsethik“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Eigentümer/Zustimmung geklärt (siehe Konzept B10-5.2)
 - [ ] Keine Felder/Gärten zerstört
-=== CL-B4-02 — 1.2 Lagerplatz <cl-b4-02>
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-02 — 1.2 Lagerplatz <cl-b4-02>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - Latrine = Abortgrube; ≥ 30 m unterhalb der Wasserentnahme, 25–30 cm tief
@@ -4588,41 +4588,41 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.2 �
 - [ ] Lee-Seite
 - [ ] Feuer-Abstände (siehe Konzept B3-1.2)
 - [ ] Latrine (siehe Konzept B2-9.1)
-=== CL-B4-03 — 2.1 Wärmehaushalt & Schichten <cl-b4-03>
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-03 — 2.1 Wärmehaushalt & Schichten <cl-b4-03>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.1 „Wärmehaushalt & Schichten“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Innenschicht trocken
 - [ ] Isolation ausreichend
-=== CL-B4-04 — 2.2 Wetter-/Wolkenlesen <cl-b4-04>
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-04 — 2.2 Wetter-/Wolkenlesen <cl-b4-04>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.2 „Wetter-/Wolkenlesen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Zwei Zeichen vor jeder Entscheidung
-=== CL-B4-05 — 2.4 Kältegefahr erkennen <cl-b4-05>
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-05 — 2.4 Kältegefahr erkennen <cl-b4-05>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.4 „Kältegefahr erkennen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Warnzeichen bekannt
 - [ ] Maßnahmen bei Umschlag vorbereitet
-=== CL-B4-06 — 3.1 Windbruch (Klangprobe) <cl-b4-06>
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-06 — 3.1 Windbruch (Klangprobe) <cl-b4-06>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.1 „Windbruch (Klangprobe)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Klangprobe durchgeführt
 - [ ] Besetzter Bau bleibt besetzt
-=== CL-B4-07 — 3.2 Behelfsdach <cl-b4-07>
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-07 — 3.2 Behelfsdach <cl-b4-07>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.2 „Behelfsdach“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Neigung nach Wetter gewählt
 - [ ] Sparrenabstand 50–60 cm
-=== CL-B4-08 — 3.3 Winter-Unterkunft (Schneehöhle) <cl-b4-08>
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-08 — 3.3 Winter-Unterkunft (Schneehöhle) <cl-b4-08>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
@@ -4631,14 +4631,14 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.3 �
 - [ ] Zu zweit gebaut
 - [ ] Luftloch offen
 - [ ] Podest erhöht
-=== CL-B4-09 — 4.1 Bauplan & Hüttenmaße <cl-b4-09>
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-09 — 4.1 Bauplan & Hüttenmaße <cl-b4-09>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.1 „Bauplan & Hüttenmaße“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Maße eingehalten
 - [ ] Firstspanne ≤ 3,50 m
-=== CL-B4-10 — 4.2 Pfosten / First / Verbindungen <cl-b4-10>
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-10 — 4.2 Pfosten / First / Verbindungen <cl-b4-10>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - Sattelkerbe = formschlüssige Balkenverbindung (B4-4.2)
@@ -4646,39 +4646,39 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.2 �
 - [ ] 30 cm Tiefe
 - [ ] Steinkranz
 - [ ] Sattelkerbe sauber
-=== CL-B4-11 — 5.1 Dachdeckung & Neigung <cl-b4-11>
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-11 — 5.1 Dachdeckung & Neigung <cl-b4-11>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.1 „Dachdeckung & Neigung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Neigung nach Material
-=== CL-B4-12 — 5.2 Wand / Boden / Sockel <cl-b4-12>
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-12 — 5.2 Wand / Boden / Sockel <cl-b4-12>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.2 „Wand / Boden / Sockel“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Sockel 20 cm
 - [ ] Ringgraben gezogen
-=== CL-B4-13 — 5.3 Hüttendiagnose (sechs Schwachstellen) <cl-b4-13>
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-13 — 5.3 Hüttendiagnose (sechs Schwachstellen) <cl-b4-13>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.3 „Hüttendiagnose (sechs Schwachstellen)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Sechs Punkte geprüft
-=== CL-B4-14 — 6.1 Schlafplatz & Bodenisolierung <cl-b4-14>
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-14 — 6.1 Schlafplatz & Bodenisolierung <cl-b4-14>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.1 „Schlafplatz & Bodenisolierung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] 12–18 Armvoll Füllung
 - [ ] Unten-zuerst-Regel
-=== CL-B4-15 — 6.2 Nachtwärme & Deckenbilanz <cl-b4-15>
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-15 — 6.2 Nachtwärme & Deckenbilanz <cl-b4-15>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.2 „Nachtwärme & Deckenbilanz“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Pro Person Decke + Wärmequelle
-=== CL-B4-16 — 6.3 Feuchtebilanz & Lüftung <cl-b4-16>
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-16 — 6.3 Feuchtebilanz & Lüftung <cl-b4-16>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - CO = Kohlenmonoxid, geruchlos, tödlich; warn-3 (B3-6.3)
@@ -4686,46 +4686,46 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.3 �
 - [ ] ½ l/Nacht einkalkuliert (Material zum Auffangen/Ableiten)
 - [ ] Stoßlüftung 2× täglich
 - [ ] CO-Regel beachtet (siehe Konzept B3-6.3)
-=== CL-B4-17 — 7.1 Faserkunde & Pflege <cl-b4-17>
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-17 — 7.1 Faserkunde & Pflege <cl-b4-17>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.1 „Faserkunde & Pflege“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Fasereigenschaften bekannt
-=== CL-B4-18 — 7.2 Nadel & Faden <cl-b4-18>
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-18 — 7.2 Nadel & Faden <cl-b4-18>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.2 „Nadel & Faden“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] 2 Nadeln + 10–15 m Zwirn im Nähset
-=== CL-B4-19 — 8.1 Kleidungssatz & Eigentum <cl-b4-19>
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-19 — 8.1 Kleidungssatz & Eigentum <cl-b4-19>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.1 „Kleidungssatz & Eigentum“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Kompletter Satz pro Person
 - [ ] Eigentumsfragen nach Band 10 gelöst
-=== CL-B4-20 — 8.2 Wettergrenzen improvisiert (Verfallsdatum) <cl-b4-20>
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-20 — 8.2 Wettergrenzen improvisiert (Verfallsdatum) <cl-b4-20>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.2 „Wettergrenzen improvisiert (Verfallsdatum)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Verfallsdatum auf jedem Behelf notiert
-=== CL-B4-21 — 8.3 Schuhwerk <cl-b4-21>
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-21 — 8.3 Schuhwerk <cl-b4-21>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.3 „Schuhwerk“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Wechselrhythmus eingehalten
 - [ ] Nie ans Feuer
-=== CL-B4-22 — 9.1 Behelfstrage <cl-b4-22>
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-22 — 9.1 Behelfstrage <cl-b4-22>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.1 „Behelfstrage“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Traglast-Regel (siehe Konzept B1-6.5)
 - [ ] Zwei Träger
-=== CL-B4-23 — 9.2 Lager bei Dunkelheit (Restlicht-1-h) <cl-b4-23>
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-23 — 9.2 Lager bei Dunkelheit (Restlicht-1-h) <cl-b4-23>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)

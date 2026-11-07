@@ -1,9 +1,9 @@
 // band-09.typ — Das Überlebenbuch, Band 9: Werkzeug und Handwerk
 // erzeugt durch doc-builder (Phase H) aus artifacts/04-redaktion-band-09.md + 11-korrektur.md + 12-register.md
 #import "lib/stil.typ": *
-#init-doc(band: 9, titel: "Werkzeug und Handwerk")
+#init-doc(band: 9, titel: "Werkzeug und Handwerk", farbe: "#475569", tint: "#e9ebed")
 #set page(header: none, footer: none)
-#titlepage(9, "Werkzeug und Handwerk")
+#titlepage(9, "Werkzeug und Handwerk", farbe: "#475569")
 #pagebreak()
 #seite(9, "Werkzeug und Handwerk")
 == Inhalt <inhalt>
@@ -4469,32 +4469,32 @@ Alle Checklisten des Bandes, gesammelt am Bandende. Im Kapiteltext steht jeweils
   [CL-B9-19], [— 9.1 Weitergabe am Werkstück (dreifach gesichert)], [], [], [], [grün], [–],
   [CL-B9-20], [— 9.2 Lehrling (4 Proben: Hand/Ordnung/Geduld/Wahrheit)], [], [], [], [grün], [–],
 )
-=== CL-B9-01 — 1.1 Grenze des Machens <cl-b9-01>
+#block(width: 100%, fill: rgb("#e9ebed"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B9-01 — 1.1 Grenze des Machens <cl-b9-01>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.1 „Grenze des Machens“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Können/Material/Zeit vor Arbeitsbeginn geklärt
-=== CL-B9-02 — 1.2 Werkzeug-Kette <cl-b9-02>
+#block(width: 100%, fill: rgb("#e9ebed"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B9-02 — 1.2 Werkzeug-Kette <cl-b9-02>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.2 „Werkzeug-Kette“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Vier Schritte bewusst durchlaufen
-=== CL-B9-03 — 1.3 Übungsstück <cl-b9-03>
+#block(width: 100%, fill: rgb("#e9ebed"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B9-03 — 1.3 Übungsstück <cl-b9-03>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.3 „Übungsstück“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Übungsstück vorhanden
-=== CL-B9-04 — 2.1 Schmied-Feuer <cl-b9-04>
+#block(width: 100%, fill: rgb("#e9ebed"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B9-04 — 2.1 Schmied-Feuer <cl-b9-04>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.1 „Schmied-Feuer“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Im Freien/Abzug
 - [ ] Augenschutz getragen
-=== CL-B9-05 — 2.2 Härten & Anlassen <cl-b9-05>
+#block(width: 100%, fill: rgb("#e9ebed"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B9-05 — 2.2 Härten & Anlassen <cl-b9-05>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
@@ -4502,7 +4502,7 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.2 �
 - [ ] Abschreckmedium gewählt (Öl milder / Wasser härter)
 - [ ] Anlassen nicht vergessen (Glasbruch!)
 - [ ] Anlassfarbe kontrolliert
-=== CL-B9-06 — 2.4 Feuerschweißen <cl-b9-06>
+#block(width: 100%, fill: rgb("#e9ebed"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B9-06 — 2.4 Feuerschweißen <cl-b9-06>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
@@ -4510,7 +4510,7 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.4 �
 - [ ] Zunder als Flussmittel
 - [ ] UV-Schutz
 - [ ] Übungspflicht erfüllt (s. Konzept B1-8.2)
-=== CL-B9-07 — 3.1 Fällen <cl-b9-07>
+#block(width: 100%, fill: rgb("#e9ebed"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B9-07 — 3.1 Fällen <cl-b9-07>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - Sperrzone = 2 Stiellängen um schwingendes Werkzeug (B1-6.2, warn-9a)
@@ -4518,85 +4518,85 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.1 �
 - [ ] Untere Kerbe 1/3
 - [ ] Flucht 45° schräg, nie hangabwärts
 - [ ] Sperrzone 2 Stiellängen (siehe Konzept B1-6.2)
-=== CL-B9-08 — 3.2 Block → Brett <cl-b9-08>
+#block(width: 100%, fill: rgb("#e9ebed"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B9-08 — 3.2 Block → Brett <cl-b9-08>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.2 „Block → Brett“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Maserung gelesen
 - [ ] Trocknungszeit eingeplant
-=== CL-B9-09 — 4.1 Schliff <cl-b9-09>
+#block(width: 100%, fill: rgb("#e9ebed"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B9-09 — 4.1 Schliff <cl-b9-09>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.1 „Schliff“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Winkel konstant
 - [ ] Drei Stufen durchlaufen
-=== CL-B9-10 — 4.2 Schneide halten (Wetz-Takt) <cl-b9-10>
+#block(width: 100%, fill: rgb("#e9ebed"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B9-10 — 4.2 Schneide halten (Wetz-Takt) <cl-b9-10>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.2 „Schneide halten (Wetz-Takt)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Wetz-Takt eingehalten
-=== CL-B9-11 — 5.1 Zapfen / Loch / Keil <cl-b9-11>
+#block(width: 100%, fill: rgb("#e9ebed"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B9-11 — 5.1 Zapfen / Loch / Keil <cl-b9-11>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.1 „Zapfen / Loch / Keil“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Keil entlang der Faser
-=== CL-B9-12 — 5.2 Seil & Knoten <cl-b9-12>
+#block(width: 100%, fill: rgb("#e9ebed"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B9-12 — 5.2 Seil & Knoten <cl-b9-12>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.2 „Seil & Knoten“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Knoten aus Konzept B1-6.3
 - [ ] Lastendes Seil nie durchschnitten
-=== CL-B9-13 — 6.1 Werkstatt-Ordnung <cl-b9-13>
+#block(width: 100%, fill: rgb("#e9ebed"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B9-13 — 6.1 Werkstatt-Ordnung <cl-b9-13>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.1 „Werkstatt-Ordnung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Werkzeugwand/-kiste beschriftet
-=== CL-B9-14 — 6.2 Flicken als Methode <cl-b9-14>
+#block(width: 100%, fill: rgb("#e9ebed"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B9-14 — 6.2 Flicken als Methode <cl-b9-14>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.2 „Flicken als Methode“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Ursache gelesen vor dem Flicken
-=== CL-B9-15 — 7.1 Kammer <cl-b9-15>
+#block(width: 100%, fill: rgb("#e9ebed"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B9-15 — 7.1 Kammer <cl-b9-15>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.1 „Kammer“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Zonen eingehalten
-=== CL-B9-16 — 7.2 Selbst gemachter Leim <cl-b9-16>
+#block(width: 100%, fill: rgb("#e9ebed"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B9-16 — 7.2 Selbst gemachter Leim <cl-b9-16>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.2 „Selbst gemachter Leim“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Nie sieden
 - [ ] Haltbarkeit \~1 Wo beachtet
-=== CL-B9-17 — 7.3 Riemen / Fett / Öl <cl-b9-17>
+#block(width: 100%, fill: rgb("#e9ebed"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B9-17 — 7.3 Riemen / Fett / Öl <cl-b9-17>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.3 „Riemen / Fett / Öl“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Lappen ausgebreitet getrocknet oder im Metallbehälter mit Wasser
 - [ ] Nie Öl in Wassereimer
-=== CL-B9-18 — 8.1 Die Kiste (3 Schichten, ≤ ¼ Körpergewicht) <cl-b9-18>
+#block(width: 100%, fill: rgb("#e9ebed"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B9-18 — 8.1 Die Kiste (3 Schichten, ≤ ¼ Körpergewicht) <cl-b9-18>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.1 „Die Kiste (3 Schichten, ≤ ¼ Körpergewicht)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] ≤ ¼ Körpergewicht gewogen (siehe Konzept B1-6.5)
 - [ ] Drei Schichten gepackt
-=== CL-B9-19 — 9.1 Weitergabe am Werkstück (dreifach gesichert) <cl-b9-19>
+#block(width: 100%, fill: rgb("#e9ebed"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B9-19 — 9.1 Weitergabe am Werkstück (dreifach gesichert) <cl-b9-19>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.1 „Weitergabe am Werkstück (dreifach gesichert)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Drei Stufen durchlaufen
-=== CL-B9-20 — 9.2 Lehrling (4 Proben: Hand/Ordnung/Geduld/Wahrheit) <cl-b9-20>
+#block(width: 100%, fill: rgb("#e9ebed"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B9-20 — 9.2 Lehrling (4 Proben: Hand/Ordnung/Geduld/Wahrheit) <cl-b9-20>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)

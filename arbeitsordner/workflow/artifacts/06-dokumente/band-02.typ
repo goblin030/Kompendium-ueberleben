@@ -1,9 +1,9 @@
 // band-02.typ — Das Überlebenbuch, Band 2: Wasser
 // erzeugt durch doc-builder (Phase H) aus artifacts/04-redaktion-band-02.md + 11-korrektur.md + 12-register.md
 #import "lib/stil.typ": *
-#init-doc(band: 2, titel: "Wasser")
+#init-doc(band: 2, titel: "Wasser", farbe: "#0f6e5d", tint: "#e2eeec")
 #set page(header: none, footer: none)
-#titlepage(2, "Wasser")
+#titlepage(2, "Wasser", farbe: "#0f6e5d")
 #pagebreak()
 #seite(2, "Wasser")
 == Inhalt <inhalt>
@@ -5086,14 +5086,14 @@ Alle Checklisten des Bandes, gesammelt am Bandende. Im Kapiteltext steht jeweils
   [CL-B2-24], [— 9.1 Latrine], [], [], [], [grün], [–],
   [CL-B2-25], [— 9.2 Grauwasser-Kette], [], [], [], [grün], [–],
 )
-=== CL-B2-01 — 1.1 Wassergerechtigkeit <cl-b2-01>
+#block(width: 100%, fill: rgb("#e2eeec"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B2-01 — 1.1 Wassergerechtigkeit <cl-b2-01>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.1 „Wassergerechtigkeit“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Bedarfsliste aktuell
 - [ ] Zuteilung dokumentiert (s. Konzept B1-9.1)
-=== CL-B2-02 — 1.2 Zonenplan <cl-b2-02>
+#block(width: 100%, fill: rgb("#e2eeec"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B2-02 — 1.2 Zonenplan <cl-b2-02>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - Latrine = Abortgrube; ≥ 30 m unterhalb der Wasserentnahme, 25–30 cm tief
@@ -5101,111 +5101,111 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.2 �
 - [ ] Latrine ≥ 30 m unterhalb gemessen
 - [ ] Hangrichtung geprüft
 - [ ] Zonen markiert
-=== CL-B2-03 — 2.1 Bedarfsrechnung <cl-b2-03>
+#block(width: 100%, fill: rgb("#e2eeec"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B2-03 — 2.1 Bedarfsrechnung <cl-b2-03>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.1 „Bedarfsrechnung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Trink- und Gesamtbedarf getrennt notiert
 - [ ] Kinder- und Fieberprofil eingerechnet
-=== CL-B2-04 — 2.2 Bedarfsprofile <cl-b2-04>
+#block(width: 100%, fill: rgb("#e2eeec"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B2-04 — 2.2 Bedarfsprofile <cl-b2-04>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.2 „Bedarfsprofile“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Profile der Gruppe erfasst
-=== CL-B2-05 — 2.3 Ertragsrechnung <cl-b2-05>
+#block(width: 100%, fill: rgb("#e2eeec"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B2-05 — 2.3 Ertragsrechnung <cl-b2-05>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.3 „Ertragsrechnung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Fläche gemessen
 - [ ] Verluste abgezogen
-=== CL-B2-06 — 3.1 Oberflächenwasser lesen <cl-b2-06>
+#block(width: 100%, fill: rgb("#e2eeec"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B2-06 — 3.1 Oberflächenwasser lesen <cl-b2-06>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.1 „Oberflächenwasser lesen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Fließgewässer bevorzugt
 - [ ] Ölfilm/Chemie → Quelle verwerfen, siehe Konzept 5.1
-=== CL-B2-07 — 3.2 Regen auffangen (First-Abwurf-Pflicht) <cl-b2-07>
+#block(width: 100%, fill: rgb("#e2eeec"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B2-07 — 3.2 Regen auffangen (First-Abwurf-Pflicht) <cl-b2-07>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - HDPE = lebensmittelechter Kunststoff für Trinkwasserbehälter (B2-4.1)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.2 „Regen auffangen (First-Abwurf-Pflicht)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] First-Abwurf durchgeführt
 - [ ] Behälter sauber und lebensmittelecht (HDPE)
-=== CL-B2-08 — 3.3 Quellen & Brunnen (Oberhalb-Check) <cl-b2-08>
+#block(width: 100%, fill: rgb("#e2eeec"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B2-08 — 3.3 Quellen & Brunnen (Oberhalb-Check) <cl-b2-08>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.3 „Quellen & Brunnen (Oberhalb-Check)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Oberhalb-Check gemacht
 - [ ] Austritt klar
-=== CL-B2-09 — 3.4 Sickergrube / Behelfsbrunnen <cl-b2-09>
+#block(width: 100%, fill: rgb("#e2eeec"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B2-09 — 3.4 Sickergrube / Behelfsbrunnen <cl-b2-09>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.4 „Sickergrube / Behelfsbrunnen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Erstwasser verworfen
 - [ ] Wasser geklärt vor der Aufbereitung
-=== CL-B2-10 — 3.5 Solarstill <cl-b2-10>
+#block(width: 100%, fill: rgb("#e2eeec"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B2-10 — 3.5 Solarstill <cl-b2-10>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.5 „Solarstill“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Nur Klarwasser-Nachbehandlung
 - [ ] Nachgekocht vor dem Trinken
-=== CL-B2-11 — 3.7 Winterwasser <cl-b2-11>
+#block(width: 100%, fill: rgb("#e2eeec"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B2-11 — 3.7 Winterwasser <cl-b2-11>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.7 „Winterwasser“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Schmelzverhältnis beachtet
 - [ ] Tausalz-Schnee ausgeschlossen
-=== CL-B2-12 — 4.1 Behälterkunde <cl-b2-12>
+#block(width: 100%, fill: rgb("#e2eeec"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B2-12 — 4.1 Behälterkunde <cl-b2-12>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.1 „Behälterkunde“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Behälter gekennzeichnet (Trinkwasser/Nutzwasser)
 - [ ] Deckel dicht
-=== CL-B2-13 — 4.2 Transportkette (10 l einseitig) <cl-b2-13>
+#block(width: 100%, fill: rgb("#e2eeec"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B2-13 — 4.2 Transportkette (10 l einseitig) <cl-b2-13>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.2 „Transportkette (10 l einseitig)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] ≤ 10 l einseitig
 - [ ] Traglast-Regel (siehe Konzept B1-6.5) eingehalten
-=== CL-B2-14 — 4.3 Gruppenkette (Zwischentank) <cl-b2-14>
+#block(width: 100%, fill: rgb("#e2eeec"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B2-14 — 4.3 Gruppenkette (Zwischentank) <cl-b2-14>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.3 „Gruppenkette (Zwischentank)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Zwischentank sauber
 - [ ] Entnahmedisziplin (Ausgießbehälter) eingehalten
-=== CL-B2-15 — 5.1 Wasser beurteilen (Befund-Tabelle, Blaualgen) <cl-b2-15>
+#block(width: 100%, fill: rgb("#e2eeec"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B2-15 — 5.1 Wasser beurteilen (Befund-Tabelle, Blaualgen) <cl-b2-15>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - Blaualgen/Microcystin im Süßwasser: nicht trinken/baden (B2-5.1)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.1 „Wasser beurteilen (Befund-Tabelle, Blaualgen)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Befund-Tabelle abgearbeitet
 - [ ] Blaualgen-Vorkommen ausgeschlossen
-=== CL-B2-16 — 6.1 Klären / Vorfiltern <cl-b2-16>
+#block(width: 100%, fill: rgb("#e2eeec"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B2-16 — 6.1 Klären / Vorfiltern <cl-b2-16>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.1 „Klären / Vorfiltern“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Absetzzeit eingehalten
 - [ ] Trübung nach Filterung geprüft
-=== CL-B2-17 — 6.2 Abkochen <cl-b2-17>
+#block(width: 100%, fill: rgb("#e2eeec"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B2-17 — 6.2 Abkochen <cl-b2-17>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.2 „Abkochen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] 1 min (ab 2.000 m: 3 min) sprudelnd
 - [ ] Gifte beachtet: Kochen entfernt keine Chemie
-=== CL-B2-18 — 6.3 SODIS <cl-b2-18>
+#block(width: 100%, fill: rgb("#e2eeec"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B2-18 — 6.3 SODIS <cl-b2-18>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - NTU = Trübungseinheit; Feldmessung über Sichttiefe/Secchi (B2-5.1)
@@ -5214,7 +5214,7 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.3 �
 - [ ] Trübung \< 30 NTU geprüft
 - [ ] Flaschengröße 1–2 l
 - [ ] Sonne/Wolken-Zeit eingehalten
-=== CL-B2-19 — 7.1 Langsamsandfilter <cl-b2-19>
+#block(width: 100%, fill: rgb("#e2eeec"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B2-19 — 7.1 Langsamsandfilter <cl-b2-19>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
@@ -5222,14 +5222,14 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.1 �
 - [ ] Sandhöhe 40–60 cm
 - [ ] Wasserstand ≥ 5 cm über Sand
 - [ ] Nachkochen trotz Filter
-=== CL-B2-20 — 7.2 Destillation (Topf-Destille, Solarstill) <cl-b2-20>
+#block(width: 100%, fill: rgb("#e2eeec"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B2-20 — 7.2 Destillation (Topf-Destille, Solarstill) <cl-b2-20>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.2 „Destillation (Topf-Destille, Solarstill)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Nachkochen nach Destillation
 - [ ] Als Notbehelf gekennzeichnet
-=== CL-B2-21 — 7.3 Chemische Desinfektion (Chlor, Notstand) <cl-b2-21>
+#block(width: 100%, fill: rgb("#e2eeec"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B2-21 — 7.3 Chemische Desinfektion (Chlor, Notstand) <cl-b2-21>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
@@ -5238,21 +5238,21 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.3 �
 - [ ] Wartezeit 30–60 min
 - [ ] _Keine Halbierung bei Kindern_ — im Zweifel kochen
 - [ ] Nie mit Säure oder Ammoniak gemischt
-=== CL-B2-22 — 8.1 Haushaltsvorrat (2 l × 14 T) <cl-b2-22>
+#block(width: 100%, fill: rgb("#e2eeec"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B2-22 — 8.1 Haushaltsvorrat (2 l × 14 T) <cl-b2-22>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.1 „Haushaltsvorrat (2 l × 14 T)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Vorrat gerechnet und eingelagert
 - [ ] Rotationstermin notiert
-=== CL-B2-23 — 8.2 Wiederverseuchung (Ausgießbehälter) <cl-b2-23>
+#block(width: 100%, fill: rgb("#e2eeec"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B2-23 — 8.2 Wiederverseuchung (Ausgießbehälter) <cl-b2-23>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.2 „Wiederverseuchung (Ausgießbehälter)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Ausgießbehälter vorhanden
 - [ ] Entnahmedisziplin eingehalten
-=== CL-B2-24 — 9.1 Latrine <cl-b2-24>
+#block(width: 100%, fill: rgb("#e2eeec"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B2-24 — 9.1 Latrine <cl-b2-24>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - Latrine = Abortgrube; ≥ 30 m unterhalb der Wasserentnahme, 25–30 cm tief
@@ -5260,7 +5260,7 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.1 �
 - [ ] Abstand ≥ 30 m (besser 50 m) gemessen
 - [ ] Grabtiefe 25–30 cm
 - [ ] Abdeckung bereit
-=== CL-B2-25 — 9.2 Grauwasser-Kette <cl-b2-25>
+#block(width: 100%, fill: rgb("#e2eeec"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B2-25 — 9.2 Grauwasser-Kette <cl-b2-25>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)

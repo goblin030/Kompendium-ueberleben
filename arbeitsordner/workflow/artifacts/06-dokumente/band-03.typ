@@ -1,9 +1,9 @@
 // band-03.typ — Das Überlebenbuch, Band 3: Feuer & Wärme
 // erzeugt durch doc-builder (Phase H) aus artifacts/04-redaktion-band-03.md + 11-korrektur.md + 12-register.md
 #import "lib/stil.typ": *
-#init-doc(band: 3, titel: "Feuer & Wärme")
+#init-doc(band: 3, titel: "Feuer & Wärme", farbe: "#a03418", tint: "#f4e7e3")
 #set page(header: none, footer: none)
-#titlepage(3, "Feuer & Wärme")
+#titlepage(3, "Feuer & Wärme", farbe: "#a03418")
 #pagebreak()
 #seite(3, "Feuer & Wärme")
 == Inhalt <inhalt>
@@ -4692,14 +4692,14 @@ Alle Checklisten des Bandes, gesammelt am Bandende. Im Kapiteltext steht jeweils
   [CL-B3-23], [— 9.2 Signalfeuer (3 Feuer = Notzeichen)], [], [], [], [grün], [–],
   [CL-B3-24], [— 9.3 Feuerwache (Zwei-Personen-Regel)], [], [], [], [grün], [–],
 )
-=== CL-B3-01 — 1.1 Feuerethik <cl-b3-01>
+#block(width: 100%, fill: rgb("#f4e7e3"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B3-01 — 1.1 Feuerethik <cl-b3-01>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.1 „Feuerethik“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Wache eingeteilt
 - [ ] Feuerplatz freigegeben
-=== CL-B3-02 — 1.2 Feuerplatz / Zonenplan <cl-b3-02>
+#block(width: 100%, fill: rgb("#f4e7e3"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B3-02 — 1.2 Feuerplatz / Zonenplan <cl-b3-02>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
@@ -4707,82 +4707,82 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.2 �
 - [ ] 30 cm entkernt
 - [ ] 2–3 m frei
 - [ ] 4–6 m zu Zelten
-=== CL-B3-03 — 2.1 Feuerdreieck & Zündkette <cl-b3-03>
+#block(width: 100%, fill: rgb("#f4e7e3"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B3-03 — 2.1 Feuerdreieck & Zündkette <cl-b3-03>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.1 „Feuerdreieck & Zündkette“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Alle drei Elemente vorhanden
 - [ ] Feuchte des Brennstoffs geprüft
-=== CL-B3-04 — 2.2 Brennstoffkunde <cl-b3-04>
+#block(width: 100%, fill: rgb("#f4e7e3"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B3-04 — 2.2 Brennstoffkunde <cl-b3-04>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.2 „Brennstoffkunde“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Hartholz für Glut, Weichholz zum Anzünden
 - [ ] Trockenzeiten beachtet
-=== CL-B3-05 — 3.1 Zündquellen-Inventar (3 Sets + Monatsprobe) <cl-b3-05>
+#block(width: 100%, fill: rgb("#f4e7e3"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B3-05 — 3.1 Zündquellen-Inventar (3 Sets + Monatsprobe) <cl-b3-05>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.1 „Zündquellen-Inventar (3 Sets + Monatsprobe)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] 3 Sets verteilt
 - [ ] Monatsprobe im Protokoll (siehe Konzept B1-8.2)
-=== CL-B3-06 — 3.2 Feuerstahl & Zundermulm <cl-b3-06>
+#block(width: 100%, fill: rgb("#f4e7e3"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B3-06 — 3.2 Feuerstahl & Zundermulm <cl-b3-06>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.2 „Feuerstahl & Zundermulm“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Zunder trocken und warm
 - [ ] Funkenrichtung in den Zunder
-=== CL-B3-07 — 3.3 Reibfeuer <cl-b3-07>
+#block(width: 100%, fill: rgb("#f4e7e3"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B3-07 — 3.3 Reibfeuer <cl-b3-07>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.3 „Reibfeuer“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Als Übungstechnik deklariert
 - [ ] Plan B (3.1) vorhanden
-=== CL-B3-08 — 3.4 Sonnenzündung <cl-b3-08>
+#block(width: 100%, fill: rgb("#f4e7e3"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B3-08 — 3.4 Sonnenzündung <cl-b3-08>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.4 „Sonnenzündung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Nur als Notbehelf
 - [ ] Linse abgedeckt bei Nichtgebrauch
-=== CL-B3-09 — 3.5 Glut-Botschaft <cl-b3-09>
+#block(width: 100%, fill: rgb("#f4e7e3"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B3-09 — 3.5 Glut-Botschaft <cl-b3-09>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.5 „Glut-Botschaft“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Angebot freiwillig
 - [ ] Transport mit Asche bedeckt
-=== CL-B3-10 — 4.1 Zunderkette <cl-b3-10>
+#block(width: 100%, fill: rgb("#f4e7e3"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B3-10 — 4.1 Zunderkette <cl-b3-10>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.1 „Zunderkette“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Reihenfolge eingehalten
-=== CL-B3-11 — 4.2 Feuerbauten <cl-b3-11>
+#block(width: 100%, fill: rgb("#f4e7e3"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B3-11 — 4.2 Feuerbauten <cl-b3-11>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.2 „Feuerbauten“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Bau nach Zweck gewählt
-=== CL-B3-12 — 4.3 Feuer im Dauerregen <cl-b3-12>
+#block(width: 100%, fill: rgb("#f4e7e3"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B3-12 — 4.3 Feuer im Dauerregen <cl-b3-12>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.3 „Feuer im Dauerregen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Plattform gebaut
 - [ ] Trockene Kette aus dem Körper-Päck
-=== CL-B3-13 — 5.1 Kochfeuer & Glut <cl-b3-13>
+#block(width: 100%, fill: rgb("#f4e7e3"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B3-13 — 5.1 Kochfeuer & Glut <cl-b3-13>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.1 „Kochfeuer & Glut“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Wasser gesotten (siehe Konzept B2-6.2)
 - [ ] Glutkochen bevorzugt
-=== CL-B3-14 — 5.2 Reflektor & Nacht <cl-b3-14>
+#block(width: 100%, fill: rgb("#f4e7e3"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B3-14 — 5.2 Reflektor & Nacht <cl-b3-14>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - CO = Kohlenmonoxid, geruchlos, tödlich; warn-3 (B3-6.3)
@@ -4790,21 +4790,21 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.2 �
 - [ ] Reflektor gerichtet
 - [ ] Wache eingeteilt
 - [ ] CO-Regel (6.3) beachtet
-=== CL-B3-15 — 6.1 Wärmepaket (Schichten) <cl-b3-15>
+#block(width: 100%, fill: rgb("#f4e7e3"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B3-15 — 6.1 Wärmepaket (Schichten) <cl-b3-15>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.1 „Wärmepaket (Schichten)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Innen trocken
 - [ ] Isolation ausreichend
-=== CL-B3-16 — 6.2 Heiße Steine <cl-b3-16>
+#block(width: 100%, fill: rgb("#f4e7e3"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B3-16 — 6.2 Heiße Steine <cl-b3-16>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.2 „Heiße Steine“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Steine trocken
 - [ ] Nie nass in Flamme
-=== CL-B3-17 — 6.3 Ofenlose Not-Heizung <cl-b3-17>
+#block(width: 100%, fill: rgb("#f4e7e3"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B3-17 — 6.3 Ofenlose Not-Heizung <cl-b3-17>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
@@ -4813,14 +4813,14 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.3 �
 - [ ] Nie über Nacht im Schlafraum
 - [ ] Zug geprüft
 - [ ] Mehrere Betroffene = Alarm (sofort lüften)
-=== CL-B3-18 — 7.1 Holzvorrat & Stock-Rechnung <cl-b3-18>
+#block(width: 100%, fill: rgb("#f4e7e3"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B3-18 — 7.1 Holzvorrat & Stock-Rechnung <cl-b3-18>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.1 „Holzvorrat & Stock-Rechnung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Vorrat gerechnet
 - [ ] Trockenlager vorhanden
-=== CL-B3-19 — 7.2 Torf / Dung <cl-b3-19>
+#block(width: 100%, fill: rgb("#f4e7e3"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B3-19 — 7.2 Torf / Dung <cl-b3-19>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
@@ -4828,35 +4828,35 @@ _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.2 �
 - [ ] Nur Notstand
 - [ ] Nur oberflächlich
 - [ ] Vereinbarung getroffen
-=== CL-B3-20 — 8.1 Holzkohle-Meiler <cl-b3-20>
+#block(width: 100%, fill: rgb("#f4e7e3"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B3-20 — 8.1 Holzkohle-Meiler <cl-b3-20>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.1 „Holzkohle-Meiler“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Rauchfarbe beobachtet
 - [ ] Luftabschluss am Ende
-=== CL-B3-21 — 8.2 Asche-Ordnung <cl-b3-21>
+#block(width: 100%, fill: rgb("#f4e7e3"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B3-21 — 8.2 Asche-Ordnung <cl-b3-21>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.2 „Asche-Ordnung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] 24-h-Ruhen eingehalten
 - [ ] Laugenverhältnis 2:10
-=== CL-B3-22 — 9.1 Brandbekämpfung (60-Sekunden-Regel) <cl-b3-22>
+#block(width: 100%, fill: rgb("#f4e7e3"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B3-22 — 9.1 Brandbekämpfung (60-Sekunden-Regel) <cl-b3-22>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.1 „Brandbekämpfung (60-Sekunden-Regel)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] 60-Sekunden-Regel bekannt
 - [ ] Löschmittel bereit (Eimer am Eingang, siehe Konzept B10-7.1)
-=== CL-B3-23 — 9.2 Signalfeuer (3 Feuer = Notzeichen) <cl-b3-23>
+#block(width: 100%, fill: rgb("#f4e7e3"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B3-23 — 9.2 Signalfeuer (3 Feuer = Notzeichen) <cl-b3-23>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - 3 Signale/3 Feuer = internationales Notzeichen (B1-5.1, B3-9.2)
 _Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.2 „Signalfeuer (3 Feuer = Notzeichen)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
 - [ ] Dreieck-Anordnung
 - [ ] Brennstoffvorrat für Signalfeuer eingeplant
-=== CL-B3-24 — 9.3 Feuerwache (Zwei-Personen-Regel) <cl-b3-24>
+#block(width: 100%, fill: rgb("#f4e7e3"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B3-24 — 9.3 Feuerwache (Zwei-Personen-Regel) <cl-b3-24>]
 #konzmeta(fill: rgb("#1a6b1a"))[]
 _Begriffe (Mini-Glossar):_
 - — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
