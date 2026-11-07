@@ -147,6 +147,12 @@ Seitenzahlen nach Review v1 (Ist, PDF/A-2b): 445 / 361 / 342 / 329 / 317 / 310 /
 - T7-2: proof-bericht.md auf aktuelle Ist-Seitenzahlen korrigiert (445 / 361 / 342 / 329 / 317 / 310 / 320 / 325 / 320 / 305).
 - Rebuild: alle 10 Baende neu kompiliert (PDF/A-2b, fehlerfrei): 445 / 361 / 342 / 329 / 317 / 310 / 320 / 325 / 320 / 305 = Σ 3374 S.; alle >= 300 S./Band. prepress.sh inkl. Pass-D-proof neu gelaufen (CMYK + Schnittmarken). Meta-Scan: 0. ZIP aktualisiert.
 
+## 19. Turn 14 — F2 Artikel-Build v2 (Enzyklopaedie) in 06-dokumente/v2/
+
+- 314 Artikel aus artifacts/23-artikel/band-01..10/ART-*.md als band-NN-v2.typ gebaut: TOC (outline, alphabetisch mit ART-ID + Seite), Artikel als Kapitel mit Label <art-NNNN>, ART-Querverweise im selben Band als typst-Referenz mit Seite. Schablonen-Abschnitte (Ziel/Material/Schritte/Varianten/Fehler/Warnungen/Siehe auch/Mini-Glossar/Uebungsbezug) uebernommen; Warnungen als Warnrahmen (mit Warngrafik wenn warn-N existiert); Abb.-Verweise als Figures eingebettet; pro Artikel Uebungsprotokoll + Randbedingungen + Notizen.
+- E2-Fixes zentral per Regex: NBSP Zahl–Einheit (U+00A0); interne Pruef-IDs (BW/BL/W/L/C2/G1-18/review-vN/Tab. NN/ROHWERT/TODO/LÜCKE/factcheck-Kuerzel) entfernt — nur ART-IDs bleiben; 3 falsche ART-Querverweise gefixt (ART-0283 -> ART-0284, ART-0314 -> ART-0023, ART-0153 ff. -> ART-0132/0284/0290/0307); Fremdwort + Redaktionsnotizen + Kiel/Keil gefixt. Meta-Scan v2: 0.
+- Kompiliert (PDF/A-2b, fehlerfrei): 179 / 134 / 127 / 123 / 115 / 114 / 133 / 130 / 131 / 137 = Σ 1323 S. (~4 S./Artikel). prepress-Paesse fuer v2 nach v2/druckdaten/ (PDF/X-4 + Schnittmarken) + prepress.sh fuer v1. ZIP v2: v2/ueberlebenbuch-artikel-v2.zip.
+
 ## 7. Annahmen (dokumentiert, keine Rueckfragen laut WORKFLOW.md)
 
 1. Register: pro Band Auszug mit eigenen Seitenzahlen; Gesamtregister in Band 10 (Schlussband der Reihe).

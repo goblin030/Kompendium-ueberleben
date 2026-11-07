@@ -1,28 +1,7 @@
 # Illustrationen – Übersicht (Agent illustrator)
 
-Selbstenthaltene, deutsch beschriftete SVG-Abbildungen für „Das Überlebenbuch“ (10 Bände), `viewBox` statt Pixelmaßen (Typst bindet nativ verlustfrei ein). Jede Grafik trägt oben links ihre Nummer (Abb. N.M bzw. warn-N) und unten die Unterschrift; dazu `<title>`/aria-label.
-
-## Stil (seit Turn 6 / Review v6: Praxisnähe + Farbe + WCAG AA)
-
-**Farbpalette (semantisch pro Bedeutung, dezent, konsistent über alle 189 SVGs):**
-
-| Bedeutung | Farbe | Hex | Einsatz |
-|---|---|---|---|
-| Text/Konturen (Primär) | Schwarz | #1a1a1a | 17,4:1 – alle Texte (außer Nebentext) und alle Konturen |
-| Nebentext auf hellen Flächen | Dunkelgrau | #4d4d4d | 8,5:1 – Fußzeilen, Nebenbemerkungen |
-| Wasser | Blau | #a8cbe4 Fläche / #3f6f96 Linien (5,9:1) | Tropfen, Gewässer, Tanks, `wtr`-Muster |
-| Vegetation | Grün | #b5d1a0 | Bäume, Pflanzen, Kronen |
-| Holz | Braun | #c19a6b | Stämme (mit Jahresringen + Rinde), Holzstoß, Kiste, Rucksack |
-| Metall | Grau | #b8bec6 | Topf, Amboss, Klinge, Eimer |
-| Gefahr/Warnung/Feuer | Rot-Orange | #bd531a (Warnrahmen, „!“) / #e07b39 (Flamme) / #f6e3d3 (Warn-Hintergrund) | warn-*.svg, Flammen, Gefahrenboxen |
-
-**Farbregel (WORKFLOW.md seit Review v6):** Informationen nie NUR über Farbe – zweiter Kanal ist Muster (Schraffur/Kreuz/Punkte/`wtr`-Wellen), Linienstil (durchgezogen/gestrichelt) und Beschriftung; die Helligkeitsstaffelung der Palette ist so breit, dass S/W-Druck voll lesbar bleibt.
-**WCAG AA:** Text ≥ 4,5:1 (große/fette Texte ≥ 3:1), Grafiken ≥ 3:1 gegen den Hintergrund — pro SVG gemessen (Textfarbe gegen effektiven Hintergrund, Kontur gegen Weiß). Gemessen 2026-11-07: min Text 3,81:1 (nur große Warn-ID), sonst ≥ 4,5:1; min Grafik-Kontur 3,45:1.
-**Praxisnähe:** konkrete Gegenstände statt Symbole — Person mit Rucksack, Nadelbaum mit Rinde/Krone, Topf mit Deckel/Griffen, Zelt mit Abspannung, echte Holzstämme mit Jahresringen (Feuer/Holzstoß), Seil als dicke Stränge mit Tross (Knoten), Hand am Messer, Hütte als Holzrahmen (Pfosten/First/Sparren/Bretterwand), Fische im Wasser.
-
-**Meta-Leak-Regel:** In sichtbaren Texten nur fachliche Beschriftungen — keine Prüf-IDs, Gate-/ROT-Referenzen, Artefakt-Pfade oder Rollen-Namen (Sanitizer im Generator). W-IDs nur im Prüfprotokoll (doc-builder).
-
-Nummerierung: `abb-<Band>-<Nr>.svg` ↔ „Abb. <Band>.<Nr>“; bis Plan-Max je Band gemäß 03-planung §2/§7.3, ab Plan-Max+1 situative Detail-Skizzen (Review v1).
+Selbstenthaltene, deutsch beschriftete SVG-Abbildungen: Kompendium (10 Bände) + Enzyklopädie v2 (Artikel). `viewBox` statt Pixelmaßen; oben links die Nummer (Abb. N.M / warn-N / ART-NNNN · Abb. M), unten die Unterschrift; `<title>`/aria-label.
+Stil seit Turn 6 (Review v6): semantische Palette (Wasser #a8cbe4, Vegetation #b5d1a0, Holz #c19a6b, Metall #b8bec6, Gefahr #bd531a, Text #1a1a1a/#4d4d4d), WCAG AA (Text ≥ 4,5:1, Grafiken ≥ 3:1 — pro SVG gemessen), nie Information nur über Farbe (Muster/Linienstil/Label als zweiter Kanal), praxisnahe gegenständliche Darstellungen, Meta-Sanitizer gegen interne Tokens/Rollen-Namen aktiv.
 
 ## Band 1 – 34 Abb. (davon 3 situativ; HTML-Mindest L11: 26)
 
@@ -248,7 +227,43 @@ Nummerierung: `abb-<Band>-<Nr>.svg` ↔ „Abb. <Band>.<Nr>“; bis Plan-Max je 
 | Abb. 10.10 | `abb-10-10.svg` | Tausch situativ: Markt mit Frist / Not-Tausch / Wucher-Grenze – drei Situationen (Ergänzung zu Abb. 10.1/10.2). *(situativ)* |
 | Abb. 10.11 | `abb-10-11.svg` | Dorf-Zonenplan situativ: Quelle oben, Wohnen, Zeughaus mit Brand-Abständen, Feuerstelle, Latrine hangabwärts (Ergänzung zu Abb. 2.1/3.1/10.6). *(situativ)* |
 
-## Warngrafiken – 15 Dateien (03-planung §7.2, DANGER-Rahmen + „!“)
+## Artikel-Abbildungen v2 – Enzyklopädie (Turn 7 / Phase F2, 19 Artikel mit Abb.-TODO)
+
+Dateien `art-NNNN-abb-M.svg` passend zu den ART-IDs aus `artifacts/23-artikel/band-*/ART-*.md` (Abb.-TODO Phase F2); Kopf im Bild: „ART-NNNN · Abb. M“. 29 SVGs:
+
+| Datei | Artikel | Unterschrift (so im Bild) |
+|---|---|---|
+| `art-0283-abb-1.svg` | ART-0283 | Alarmierungskette im Dorf: Sirene/NINA → Anrufbaum → Bote – jeder Ruf geht an zwei weitere (ART-0283). |
+| `art-0283-abb-2.svg` | ART-0283 | Krisenstab im Dorf: feste Rollen am Ratstisch, Protokollführer, doppelte Besetzung (ART-0283). |
+| `art-0284-abb-1.svg` | ART-0284 | Netzkarte Haus/Weiler: jedes Haus mit mindestens zwei Verbindungen, Knotenpunkt markiert (ART-0284). |
+| `art-0284-abb-2.svg` | ART-0284 | Wer hilft wem: vereinbarte Hilfen pro Haushalt eintragen (ART-0284). |
+| `art-0287-abb-1.svg` | ART-0287 | Kammer mit Reserve-Ecke: der Zehnte aus voller Kammer, nie aus der Not, markiert und versiegelt (ART-0287). |
+| `art-0287-abb-2.svg` | ART-0287 | Zehnten ablegen: 10 % der Ernte in Säcke, beschriftet, datum (ART-0287). |
+| `art-0288-abb-1.svg` | ART-0288 | Haushalt dokumentieren: Ordner mit Registern, Kopien an zwei Orten (ART-0288). |
+| `art-0293-abb-1.svg` | ART-0293 | Gedenken an Verstorbene: kleiner Tisch, Kerze, Foto, Verlesen des Namens – würdevoll und kurz (ART-0293). |
+| `art-0295-abb-1.svg` | ART-0295 | Tischordnung mit Ehrenplatz: markierter Platz (z. B. Fenster/Licht), Gast von rechts setzen (ART-0295). |
+| `art-0295-abb-2.svg` | ART-0295 | Servierreihenfolge beim gemeinsamen Mahl (ART-0295). |
+| `art-0296-abb-1.svg` | ART-0296 | Bargeld im Blackout: kleine Scheine, gestückelt, versteckt, nicht prahlen (ART-0296). |
+| `art-0297-abb-1.svg` | ART-0297 | Werkstatt/Betrieb im Blackout sichern: abdunkeln, Werkzeug verstauen, nichts Offenes stehen lassen (ART-0297). |
+| `art-0298-abb-1.svg` | ART-0298 | Feste in der harten Zeit: feste Termine im Kalender halten – auch klein (ART-0298). |
+| `art-0299-abb-1.svg` | ART-0299 | Warnung in Leichter Sprache: kurze Sätze, große Schrift, Symbol + Text – nie nur Symbol (ART-0299). |
+| `art-0301-abb-1.svg` | ART-0301 | Dorf-Apotheke: Medikamentenschrank mit Fächern, Kühlkette 2–8 °C fürs Kühlfach, Verfallsdaten (ART-0301). |
+| `art-0301-abb-2.svg` | ART-0301 | Abgabeliste Medikamenten-Pool: Name, Medikament, Menge, Datum, Unterschrift (ART-0301). |
+| `art-0302-abb-1.svg` | ART-0302 | Tauschplatz mit Ring: fester Platz, Kreis/Ring markiert, Stände im Kreis, Mitte frei (ART-0302). |
+| `art-0302-abb-2.svg` | ART-0302 | Markt-Ordnung: wer wann wo steht – Tafel am Platz (ART-0302). |
+| `art-0303-abb-1.svg` | ART-0303 | Trupp in Reihe: einer vorn (Spitze), einer hinten (Schluss), Abstand halten, leise (ART-0303). |
+| `art-0303-abb-2.svg` | ART-0303 | Handzeichen im Trupp: Halt – Weiter – Gefahr – Versammlung (ART-0303). |
+| `art-0304-abb-1.svg` | ART-0304 | Werkstatt prüfen mit zwei Zeugen: Prüfprotokoll mit Unterschriften (ART-0304). |
+| `art-0304-abb-2.svg` | ART-0304 | Prüfpunkte an der Werkbank: Ordnung, Werkzeug, Sicherheit (ART-0304). |
+| `art-0307-abb-1.svg` | ART-0307 | Tausch-Blatt / Vertrag: Ware, Menge, Frist, zwei Zeugen, Unterschriften – ohne Netz, schriftlich (ART-0307). |
+| `art-0307-abb-2.svg` | ART-0307 | Zeugen-Schema: A und B tauschen, zwei Zeugen unterschreiben – dann gilt der Vertrag (ART-0307). |
+| `art-0308-abb-1.svg` | ART-0308 | Ration im Herbst setzen: am Erntedank festlegen, schriftlich, für die harte Zeit (ART-0308). |
+| `art-0309-abb-1.svg` | ART-0309 | Ware des Hauses: nur haltbare Ware tauschen – Konserve, Getreide, Salz, Trockenobst (ART-0309). |
+| `art-0310-abb-1.svg` | ART-0310 | Ware der Hand: Stunden-Tafel 1:1 – geleistete Stunde gegen Stunde (ART-0310). |
+| `art-0310-abb-2.svg` | ART-0310 | Stunden-Eintrag: Datum, Leistung, Dauer, Unterschrift beider Seiten (ART-0310). |
+| `art-0311-abb-1.svg` | ART-0311 | Vermächtnis: schriftlich verfassen, laut verlesen, an Vertrauensperson übergeben (ART-0311). |
+
+## Warngrafiken
 
 | Datei | Thema | Unterschrift (so im Bild) |
 |---|---|---|
@@ -268,21 +283,26 @@ Nummerierung: `abb-<Band>-<Nr>.svg` ↔ „Abb. <Band>.<Nr>“; bis Plan-Max je 
 | `warn-10a.svg` | Furt: Gewässerübergang | B10 5.1: Stab an 3 Stellen, nie über Knie mit Last, nie im Dunkeln (Abb. 10.4). |
 | `warn-10b.svg` | Brand im Zeughaus | B10 7.1: kein offenes Licht, Ofen außen, Eimer am Eingang (Abb. 10.6). |
 
+Neue warn-Grafiken für WARNPFLICHT-Artikel (Turn 7; bestehende warn-N.svg bleiben unverändert):
+
+| Datei | Artikel | Thema |
+|---|---|---|
+| `warn-art-0290.svg` | ART-0290 | Gast & Fremder: nie allein empfangen (ART-0290) |
+| `warn-art-0305.svg` | ART-0305 | Streit schlichten: Eskalationsleiter – nie Rache (ART-0305) |
+| `warn-art-0307.svg` | ART-0307 | Vertrag ohne Zeugen gilt nicht (ART-0307) |
+| `warn-art-0313.svg` | ART-0313 | Wucher-Grenze: Not-Preis nach der Not (ART-0313) |
+| `warn-art-0132.svg` | ART-0132 | Eigentumseingriff im Notstand (ART-0132) |
+| `warn-art-0255.svg` | ART-0255 | Lastendes Seil prüfen (ART-0255) |
+
 ## Bestand
-- Abb.: **174** (142 Plan + 32 situativ) · warn: **15** · pro Band: B1 34, B2 19, B3 23, B4 16, B5 14, B6 13, B7 15, B8 16, B9 13, B10 11
+- Abb. Kompendium: **174** (142 Plan + 32 situativ) · Artikel-Abb.: **29** (19 Artikel)
+- Warngrafiken: **21** (15 warn-N + 6 warn-art-NNNN)
+- SVGs gesamt: **224** · pro Band: B1 34, B2 19, B3 23, B4 16, B5 14, B6 13, B7 15, B8 16, B9 13, B10 11
 
 ## Änderungen
 
-### 2026-11-07 – Turn 6 / Review v6 (Praxisnähe + Farbe + WCAG AA)
-Alle 189 SVGs neu gestaltet: semantische Farbpalette (siehe Stil-Abschnitt), praxisnähere Primitive (Holzstämme mit Rinde/Jahresringen, Seilstränge bei Knoten, Hand am Messer, Hütte als Holzrahmen, Person mit Rucksack, Topf/Zelt mit Details), WCAG-AA-Kontrast pro SVG gemessen und nachgebessert (5 Textstellen + 5 fill-only-Shapes gefixt: z. B. „Tor“-Label, Schicht-Labels, Kies/Glut-Flächen). Validierung: 189/189 wohlgeformt, 0 Meta-Tokens/Rollen, 0 undefined/NaN, AA eingehalten (min Text 3,81:1 large / sonst ≥ 4,5:1, min Grafik 3,45:1), Nummerierung/Bestand unverändert.
+### 2026-11-07 – Turn 7 / Phase F2 (Artikel-Abbildungen v2)
+29 `art-NNNN-abb-M.svg` für die 19 Artikel mit Abb.-TODO (ART-0283…0311) + 6 `warn-art-NNNN.svg` (ART-0290, 0305, 0307, 0313, 0132, 0255) erzeugt; Stil wie Turn 6. Validierung: 224/224 wohlgeformt, 0 Meta-Tokens/Rollen, 0 undefined/NaN, ART-IDs im Bild, AA eingehalten (min Text 3,81:1 large / sonst ≥ 4,5:1, min Grafik 3,45:1), Nummerierung lückenlos.
 
-### 2026-11-07 – Turn 5 / visual-qa Turn 3 (Rollen-Namen)
-Rollen-Namen (Fachlektorat/SME/Legal u. a.) durch neutrale Formulierungen ersetzt („fachlich/rechtlich geprüft“); Sanitizer um alle Agent-Rollen erweitert; 189/189 neu erzeugt, 0 Rollen-Namen.
-
-### 2026-11-07 – Re-Review Turn 3, T3-1 (Meta-Tokens)
-Sanitizer gegen ROT-/Gate-/W-IDs, „09 §…“-Refs, WARN-IDs, Artefakt-Pfade, Phase-/Agent-Namen; alle 189 SVGs sanitized neu erzeugt; 0 Tokens im sichtbaren Text.
-
-### 2026-11-07 – Review v1 (32 situative Detail-Skizzen ab Plan-Max+1)
-### 2026-11-06 – Phase J (F2/F3: undefined/NaN + ungültige Attribute gefixt, alle SVGs neu erzeugt)
-
-Erzeugt 2026-11-06 (Phase E); Nachbesserungen 2026-11-06/07 (Phase J, Review v1, Re-Review Turn 3, Turn 5, Turn 6/Review v6).
+### 2026-11-07 – Turn 6 / Review v6 (Praxisnähe + Farbe + WCAG AA) – alle 189 SVGs neu gestaltet
+### 2026-11-07 – Turn 5 (Rollen-Namen entfernt) · Re-Review Turn 3 T3-1 (Meta-Tokens sanitized) · Review v1 (32 situative Skizzen) · 2026-11-06 Phase J (F2/F3 gefixt) · 2026-11-06 Phase E (Erzeugung)
