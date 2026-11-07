@@ -2,9 +2,9 @@
 // erzeugt durch doc-builder (Phase H) aus artifacts/04-redaktion-band-04.md + 11-korrektur.md + 12-register.md
 #import "lib/stil.typ": *
 #set text(lang: "de")
-#init-doc(band: 4, titel: "Unterkunft & Kleidung")[
+#init-doc(band: 4, titel: "Unterkunft & Kleidung", farbe: "#6b4fa0", tint: "#edeaf4")[
 #set page(header: none, footer: none)
-#titlepage(4, "Unterkunft & Kleidung")
+#titlepage(4, "Unterkunft & Kleidung", farbe: "#6b4fa0")
 #pagebreak()
 #seite(4, "Unterkunft & Kleidung")
 == Inhalt <inhalt>
@@ -60,9 +60,7 @@ _Ziel des Kapitels:_ Ziel: Einen Lagerplatz finden, der vor Kälte, Flut und Win
 === 1.1 Unterkunftsethik <k-1-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 10]
 Unterkunft wird dort gebaut, wo sie niemanden gefährdet und niemands Lebensgrundlage zerstört; Tausch und Zustimmung vor Beanspruchung (siehe Konzept B10-5.2).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.1 „Unterkunftsethik“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Eigentümer/Zustimmung geklärt (siehe Konzept B10-5.2)
-- [ ] Keine Felder/Gärten zerstört
+_Checkliste:_ siehe CL-B4-01, Anhang S. #refpage(<cl-b4-01>) (Checklisten-Anhang am Bandende) — „1.1 Unterkunftsethik“.
 #baustein[Frage vor dem Bauen, nicht danach.]
 _Querverweise:_ siehe Konzept B10-5.2, siehe Konzept B10-1.1. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Unterkunft ohne Zustimmung oder auf fremdem Grund schafft Konflikte und rechtliche Probleme (Hausrecht § 123 StGB, B10-5.2); friedliche Lösung (Tausch, Miete, Erlaubnis) hält die Gruppe handlungsfähig.
@@ -94,7 +92,7 @@ _Querverweise:_ siehe Konzept B10-5.2, siehe Konzept B10-1.1. _Erklärung:_
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -103,19 +101,10 @@ _Querverweise:_ siehe Konzept B10-5.2, siehe Konzept B10-1.1. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -156,6 +145,10 @@ _Querverweise:_ siehe Konzept B10-5.2, siehe Konzept B10-1.1. _Erklärung:_
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 1.1)]
 #table(
@@ -167,6 +160,9 @@ _Querverweise:_ siehe Konzept B10-5.2, siehe Konzept B10-1.1. _Erklärung:_
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 1.1)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -224,19 +220,14 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 === 1.2 Lagerplatz <k-1-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 4.1]
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-1.svg", width: 100%, alt: "Abb. 4.1: Lagerplatz wählen: Kaltluftsee meiden, 30 m über Flutlinie, im Lee des Windes (Konzept 1.2)."), caption: [Abb. 4.1 — Lagerplatz wählen: Kaltluftsee meiden, 30 m über Flutlinie, im Lee des Windes (Konzept 1.2).])]]
+#align(center)[#block(width: 10.5cm)[#figure(image("illustrationen/abb-4-1.svg", width: 100%, alt: "Abb. 4.1: Lagerplatz wählen: Kaltluftsee meiden, 30 m über Flutlinie, im Lee des Windes (Konzept 1.2)."), caption: [Abb. 4.1 — Lagerplatz wählen: Kaltluftsee meiden, 30 m über Flutlinie, im Lee des Windes (Konzept 1.2).])]]
 + _Kaltluftsee meiden:_ Tallagen sammeln nachts Kälte (2–5 °C kälter) — Hanglage bevorzugen.
 + _Flutlinie:_ mindestens _30 m Abstand zum Gewässerbett_ (Hochwassermarke erkennen: Treibgut, kahle Steine).
 + _Lee-Seite_ des Hauptwinds wählen.
 + Feuer-Abstände nach Konzept B3-1.2: 4–6 m zu Zelten.
 + Latrine nach Konzept B2-9.1, ≥ 30 m unterhalb der Wasserentnahme.
 _Stadt / Land:_ Land = Hanglage/Lee/Flutlinie wie beschrieben. _Stadt (Wohnung):_ Du baust keinen Lagerplatz im Freien — die Wohnung ist der Lagerplatz. Wähle den _wärmsten Innenraum_ (innen liegend, nicht über Keller/Feuchtigkeit), halte _Fluchtwege frei_ (Treppenhaus, Wohnungstür), richte einen festen Lagerkern ein (siehe 9.x) und prüfe Fenster/Türen auf Dichtigkeit (siehe Kapitel 4, Stadt-Variante).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.2 „Lagerplatz“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Nicht im Kaltluftsee
-- [ ] ≥ 30 m zur Flutlinie
-- [ ] Lee-Seite
-- [ ] Feuer-Abstände (siehe Konzept B3-1.2)
-- [ ] Latrine (siehe Konzept B2-9.1)
+_Checkliste:_ siehe CL-B4-02, Anhang S. #refpage(<cl-b4-02>) (Checklisten-Anhang am Bandende) — „1.2 Lagerplatz“.
 #baustein[Hanglage statt Talgrund, Abstand zum Wasser, Lee statt Luv.]
 _Querverweise:_ siehe Konzept B3-1.2, siehe Konzept B2-9.1, siehe Konzept B2-1.2 Zonenplan.
 #subhead[Ablauf mit Kontrollkästchen]
@@ -249,13 +240,6 @@ _Querverweise:_ siehe Konzept B3-1.2, siehe Konzept B2-9.1, siehe Konzept B2-1.2
   [3], [_Lee-Seite_ des Hauptwinds wählen.], [[ ] erledigt  [ ] geprüft],
   [4], [Feuer-Abstände nach Konzept B3-1.2: 4–6 m zu Zelten.], [[ ] erledigt  [ ] geprüft],
   [5], [Latrine nach Konzept B2-9.1, ≥ 30 m unterhalb der Wasserentnahme.], [[ ] erledigt  [ ] geprüft],
-)
-#subhead[Material & Maß (aus diesem Konzept)]
-#table(
-  columns: 2,
-  table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
-  table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [30 m], [( ) ≥ 30 m zur Flutlinie],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -284,7 +268,7 @@ _Querverweise:_ siehe Konzept B3-1.2, siehe Konzept B2-9.1, siehe Konzept B2-1.2
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -313,19 +297,10 @@ _Querverweise:_ siehe Konzept B3-1.2, siehe Konzept B2-9.1, siehe Konzept B2-1.2
   [Stadt (Wohnung):], [siehe Glossar, Anhang D Band 1],
   [wärmsten Innenraum], [siehe Glossar, Anhang D Band 1],
   [Fluchtwege frei], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -366,6 +341,10 @@ _Querverweise:_ siehe Konzept B3-1.2, siehe Konzept B2-9.1, siehe Konzept B2-1.2
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 1.2)]
 #table(
@@ -377,6 +356,9 @@ _Querverweise:_ siehe Konzept B3-1.2, siehe Konzept B2-9.1, siehe Konzept B2-1.2
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 1.2)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -451,14 +433,12 @@ _Erklärung:_
 )
 === 2.1 Wärmehaushalt & Schichten <k-2-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 4.2]
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-2.svg", width: 100%, alt: "Abb. 4.2: Wärmehaushalt & Schichten: von innen nach außen – Feuchte muss raus, Wärme bleibt (Konzept 2.1)."), caption: [Abb. 4.2 — Wärmehaushalt & Schichten: von innen nach außen – Feuchte muss raus, Wärme bleibt (Konzept 2.1).])]]
+#align(center)[#block(width: 10.5cm)[#figure(image("illustrationen/abb-4-2.svg", width: 100%, alt: "Abb. 4.2: Wärmehaushalt & Schichten: von innen nach außen – Feuchte muss raus, Wärme bleibt (Konzept 2.1)."), caption: [Abb. 4.2 — Wärmehaushalt & Schichten: von innen nach außen – Feuchte muss raus, Wärme bleibt (Konzept 2.1).])]]
 Konsistent mit Konzept B3-6.1, Wärmepaket: innen trocken, Mitte isolierend, außen winddicht.
 + Schicht 1 (innen): trocken, atmungsaktiv.
 + Schicht 2 (Mitte): Wolle/Daune/trockenes Gras — Isolation.
 + Schicht 3 (außen): winddicht, Feuchtigkeitsauslass offen (siehe Konzept 6.3).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.1 „Wärmehaushalt & Schichten“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Innenschicht trocken
-- [ ] Isolation ausreichend
+_Checkliste:_ siehe CL-B4-03, Anhang S. #refpage(<cl-b4-03>) (Checklisten-Anhang am Bandende) — „2.1 Wärmehaushalt & Schichten“.
 _Querverweise:_ siehe Konzept B3-6.1, siehe Konzept 6.3, siehe Konzept 7.1. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Wärmeverlust entsteht durch Leitung (Boden), Strahlung, Konvektion (Wind), Verdunstung (Schweiß/Feuchte). Schichten wirken dagegen: Isolation speichert Luft, Außenschicht blockt Wind, Innenschicht bleibt trocken (Wasser leitet Wärme 25× besser als Luft).
 - _Situationsvarianten (wann welche):_ Kalt/trocken: Wolle innen, Daune Mitte, winddichte Jacke außen. Feucht: Synthetik außen. Stadt: Wohnungstextilien + Kerze mit Abstand (nie unbeaufsichtigt, B3-6.3).
@@ -498,7 +478,7 @@ _Querverweise:_ siehe Konzept B3-6.1, siehe Konzept 6.3, siehe Konzept 7.1. _Erk
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -517,18 +497,9 @@ _Querverweise:_ siehe Konzept B3-6.1, siehe Konzept 6.3, siehe Konzept 7.1. _Erk
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -569,6 +540,10 @@ _Querverweise:_ siehe Konzept B3-6.1, siehe Konzept 6.3, siehe Konzept 7.1. _Erk
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 2.1)]
 #table(
@@ -580,6 +555,9 @@ _Querverweise:_ siehe Konzept B3-6.1, siehe Konzept 6.3, siehe Konzept 7.1. _Erk
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 2.1)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -638,8 +616,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 2.2 Wetter-/Wolkenlesen <k-2-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8]
 Konsistent mit Konzept B1-4.4: Zwei-Zeichen-Regel.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.2 „Wetter-/Wolkenlesen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Zwei Zeichen vor jeder Entscheidung
+_Checkliste:_ siehe CL-B4-04, Anhang S. #refpage(<cl-b4-04>) (Checklisten-Anhang am Bandende) — „2.2 Wetter-/Wolkenlesen“.
 _Querverweise:_ siehe Konzept B1-4.4. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Zwei unabhängige Wetterzeichen (Wolken + Wind) sind zuverlässiger als eines (B1-4.4). Konsistenz mit B1-4.4 halten.
 - _Situationsvarianten (wann welche):_ Gebirge: kürzere Vorwarnzeit. Küste: Nebel. Stadt: Wärmeinsel — Wolken bevorzugen.
@@ -670,7 +647,7 @@ _Querverweise:_ siehe Konzept B1-4.4. _Erklärung:_
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -679,18 +656,9 @@ _Querverweise:_ siehe Konzept B1-4.4. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -731,6 +699,10 @@ _Querverweise:_ siehe Konzept B1-4.4. _Erklärung:_
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 2.2)]
 #table(
@@ -742,6 +714,9 @@ _Querverweise:_ siehe Konzept B1-4.4. _Erklärung:_
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 2.2)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -799,7 +774,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 === 2.3 Werkstoffkunde Dach/Wand <k-2-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 4.3]
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-3.svg", width: 100%, alt: "Abb. 4.3: Werkstoffkunde für Dach & Wand (Konzept 2.3, konsistent B9 )."), caption: [Abb. 4.3 — Werkstoffkunde für Dach & Wand (Konzept 2.3, konsistent B9).])]]
+#align(center)[#block(width: 10.5cm)[#figure(image("illustrationen/abb-4-3.svg", width: 100%, alt: "Abb. 4.3: Werkstoffkunde für Dach & Wand (Konzept 2.3, konsistent B9 )."), caption: [Abb. 4.3 — Werkstoffkunde für Dach & Wand (Konzept 2.3, konsistent B9).])]]
 Konsistent mit Band 9 (Trocknung) und Band 5 (Ried/Stroh, siehe Konzept B5-8.1):
 #table(
   columns: 3,
@@ -848,7 +823,7 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept B5-8.1, siehe Konzept B9-3.2. _
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -859,15 +834,6 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept B5-8.1, siehe Konzept B9-3.2. _
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -908,6 +874,10 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept B5-8.1, siehe Konzept B9-3.2. _
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 2.3)]
 #table(
@@ -919,6 +889,9 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept B5-8.1, siehe Konzept B9-3.2. _
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 2.3)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -980,9 +953,7 @@ _Zittern hört auf = Umschlag_ in die gefährliche Phase (Hypothermie): Person f
 + Zittern, blasse/blaue Haut, Koordinationsverlust = Warnstufe.
 + _Zittern hört auf_ = Alarm: sofort trockene Kleidung (siehe Konzept 2.1), Wärmepaket (siehe Konzept B3-6.1), warmes Getränk.
 + Nie Alkohol gegen Kälte.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.4 „Kältegefahr erkennen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Warnzeichen bekannt
-- [ ] Maßnahmen bei Umschlag vorbereitet
+_Checkliste:_ siehe CL-B4-05, Anhang S. #refpage(<cl-b4-05>) (Checklisten-Anhang am Bandende) — „2.4 Kältegefahr erkennen“.
 #baustein[Wer aufhört zu zittern, friert bereits. Das ist der gefährlichste Moment.]
 _Querverweise:_ siehe Konzept B3-6.1, siehe Konzept B8-7.1, Frostbeule.
 #subhead[Ablauf mit Kontrollkästchen]
@@ -1020,7 +991,7 @@ _Querverweise:_ siehe Konzept B3-6.1, siehe Konzept B8-7.1, Frostbeule.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1040,19 +1011,10 @@ _Querverweise:_ siehe Konzept B3-6.1, siehe Konzept B8-7.1, Frostbeule.
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Zittern hört auf = Umschlag], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -1093,6 +1055,10 @@ _Querverweise:_ siehe Konzept B3-6.1, siehe Konzept B8-7.1, Frostbeule.
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 2.4)]
 #table(
@@ -1104,6 +1070,9 @@ _Querverweise:_ siehe Konzept B3-6.1, siehe Konzept B8-7.1, Frostbeule.
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 2.4)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -1179,9 +1148,7 @@ _Erklärung:_
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 8]
 + Tote/stehende Bäume über dem Lagerplatz mit dem Messerklang prüfen: hohler Klang = morsches Holz = Windbruchgefahr.
 + _Besetzter Bau bleibt besetzt:_ solange jemand im Zelt ist, wird darunter nicht gearbeitet (siehe Konzept B9-3.1).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.1 „Windbruch (Klangprobe)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Klangprobe durchgeführt
-- [ ] Besetzter Bau bleibt besetzt
+_Checkliste:_ siehe CL-B4-06, Anhang S. #refpage(<cl-b4-06>) (Checklisten-Anhang am Bandende) — „3.1 Windbruch (Klangprobe)“.
 _Querverweise:_ siehe Konzept B9-3.1, `warn-9a`. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Totes Holz klingt beim Anschlag hohl (geringere Dichte durch Zersetzung); morsch = Windbruchgefahr. Besetzter Bau bleibt besetzt: darunter wird nicht gefällt (tödliche Minute, B9-3.1 warn-9a).
 - _Situationsvarianten (wann welche):_ Wald: alle toten Bäume über dem Platz prüfen. Stadt: keine Bäume — Dachbalken/Sparren prüfen (Altersrisse).
@@ -1220,7 +1187,7 @@ _Querverweise:_ siehe Konzept B9-3.1, `warn-9a`. _Erklärung:_
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1236,18 +1203,9 @@ _Querverweise:_ siehe Konzept B9-3.1, `warn-9a`. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -1288,6 +1246,10 @@ _Querverweise:_ siehe Konzept B9-3.1, `warn-9a`. _Erklärung:_
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 3.1)]
 #table(
@@ -1299,6 +1261,9 @@ _Querverweise:_ siehe Konzept B9-3.1, `warn-9a`. _Erklärung:_
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 3.1)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -1356,14 +1321,12 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 === 3.2 Behelfsdach <k-3-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 9 · Abb. 4.4]
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-4.svg", width: 100%, alt: "Abb. 4.4: Behelfsdach (Lean-to): Steillage je nach Wetter 30° / 45° / 50° (Konzept 3.2)."), caption: [Abb. 4.4 — Behelfsdach (Lean-to): Steillage je nach Wetter 30° / 45° / 50° (Konzept 3.2).])]]
+#align(center)[#block(width: 10.5cm)[#figure(image("illustrationen/abb-4-4.svg", width: 100%, alt: "Abb. 4.4: Behelfsdach (Lean-to): Steillage je nach Wetter 30° / 45° / 50° (Konzept 3.2)."), caption: [Abb. 4.4 — Behelfsdach (Lean-to): Steillage je nach Wetter 30° / 45° / 50° (Konzept 3.2).])]]
 _Steillage 30/45/50°_ nach Wetter: 30° bei Nieselregen, 45° bei Dauerregen, 50° bei Schnee.
 + Firstlinie spannen (siehe Konzept B1-6.3, Knoten).
 + Sparren in der gewählten Neigung auflegen, Abstand 50–60 cm.
 + Deckung aufbringen (siehe Konzept 5.1).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.2 „Behelfsdach“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Neigung nach Wetter gewählt
-- [ ] Sparrenabstand 50–60 cm
+_Checkliste:_ siehe CL-B4-07, Anhang S. #refpage(<cl-b4-07>) (Checklisten-Anhang am Bandende) — „3.2 Behelfsdach“.
 _Querverweise:_ siehe Konzept 5.1, siehe Konzept B1-6.3. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Die Steillage (First + Sparren) trägt die Dachhaut; die Neigung bestimmt, wie schnell Wasser/Schnee abläuft: 30° (Rinde) bei wenig Niederschlag, 45° (Ried/Stroh) Standard, 50° (Zweige) bei Schnee/Starkregen.
 - _Situationsvarianten (wann welche):_ Starkregen: 50°. Schnee: 50° + feste Unterlage. Stadt: Flachdach — Plane spannen, regelmäßig Schnee räumen.
@@ -1376,13 +1339,6 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept B1-6.3. _Erklärung:_
   [1], [Firstlinie spannen (siehe Konzept B1-6.3, Knoten).], [[ ] erledigt  [ ] geprüft],
   [2], [Sparren in der gewählten Neigung auflegen, Abstand 50–60 cm.], [[ ] erledigt  [ ] geprüft],
   [3], [Deckung aufbringen (siehe Konzept 5.1).], [[ ] erledigt  [ ] geprüft],
-)
-#subhead[Material & Maß (aus diesem Konzept)]
-#table(
-  columns: 2,
-  table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
-  table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [50–60 cm], [( ) Sparrenabstand 50–60 cm],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -1410,7 +1366,7 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept B1-6.3. _Erklärung:_
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1430,18 +1386,9 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept B1-6.3. _Erklärung:_
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Steillage 30/45/50°], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -1482,6 +1429,10 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept B1-6.3. _Erklärung:_
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 3.2)]
 #table(
@@ -1493,6 +1444,9 @@ _Querverweise:_ siehe Konzept 5.1, siehe Konzept B1-6.3. _Erklärung:_
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 3.2)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -1550,17 +1504,13 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 === 3.3 Winter-Unterkunft (Schneehöhle) <k-3-3>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb_ · P 6 · M unbedenklich · V 7 · Abb. 4.5]
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-5.svg", width: 100%, alt: "Abb. 4.5: Schneehöhle: Kugelprobe, Luftloch, Podest – immer zu zweit bauen (Konzept 3.3, gelb: Einsturzrisiko)."), caption: [Abb. 4.5 — Schneehöhle: Kugelprobe, Luftloch, Podest – immer zu zweit bauen (Konzept 3.3, gelb: Einsturzrisiko).])]]
+#align(center)[#block(width: 10.5cm)[#figure(image("illustrationen/abb-4-5.svg", width: 100%, alt: "Abb. 4.5: Schneehöhle: Kugelprobe, Luftloch, Podest – immer zu zweit bauen (Konzept 3.3, gelb: Einsturzrisiko)."), caption: [Abb. 4.5 — Schneehöhle: Kugelprobe, Luftloch, Podest – immer zu zweit bauen (Konzept 3.3, gelb: Einsturzrisiko).])]]
 #kasten([Einsturzrisiko — zu zweit bauen.])[Niemals allein.]
 + _Kugelprobe:_ Schneekugel formen und drücken — hält sie, taugt der Schnee zum Bau.
 + Höhle in Schneeverwehung graben; _Luftloch_ nach oben stechen.
 + _Podest_ innen erhöhen — Kälte sinkt nach unten, Liegefläche höher legen.
 + Eingang klein halten, mit Schneeziegel verschließbar.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.3 „Winter-Unterkunft (Schneehöhle)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Kugelprobe bestanden
-- [ ] Zu zweit gebaut
-- [ ] Luftloch offen
-- [ ] Podest erhöht
+_Checkliste:_ siehe CL-B4-08, Anhang S. #refpage(<cl-b4-08>) (Checklisten-Anhang am Bandende) — „3.3 Winter-Unterkunft (Schneehöhle)“.
 _Querverweise:_ siehe Konzept 6.1, siehe Konzept 2.4.
 #subhead[Ablauf mit Kontrollkästchen]
 #table(
@@ -1598,7 +1548,7 @@ _Querverweise:_ siehe Konzept 6.1, siehe Konzept 2.4.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1621,18 +1571,9 @@ _Querverweise:_ siehe Konzept 6.1, siehe Konzept 2.4.
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Einsturzrisiko — zu zweit bauen.], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -1673,6 +1614,10 @@ _Querverweise:_ siehe Konzept 6.1, siehe Konzept 2.4.
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 3.3)]
 #table(
@@ -1684,6 +1629,9 @@ _Querverweise:_ siehe Konzept 6.1, siehe Konzept 2.4.
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 3.3)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -1756,15 +1704,13 @@ _Erklärung:_
 )
 === 4.1 Bauplan & Hüttenmaße <k-4-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 4.6]
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-6.svg", width: 100%, alt: "Abb. 4.6: Bauplan & Hüttenmaße: 4 Personen 2,5 × 2,5 m, Firsthöhe 1,20 m, Firstspanne ≤ 3,50 m (Konzept 4.1)."), caption: [Abb. 4.6 — Bauplan & Hüttenmaße: 4 Personen 2,5 × 2,5 m, Firsthöhe 1,20 m, Firstspanne ≤ 3,50 m (Konzept 4.1).])]]
+#align(center)[#block(width: 10.5cm)[#figure(image("illustrationen/abb-4-6.svg", width: 100%, alt: "Abb. 4.6: Bauplan & Hüttenmaße: 4 Personen 2,5 × 2,5 m, Firsthöhe 1,20 m, Firstspanne ≤ 3,50 m (Konzept 4.1)."), caption: [Abb. 4.6 — Bauplan & Hüttenmaße: 4 Personen 2,5 × 2,5 m, Firsthöhe 1,20 m, Firstspanne ≤ 3,50 m (Konzept 4.1).])]]
 Maße für 4 Personen: _2,5 × 2,5 m Grundfläche, Firsthöhe 1,20 m, Firstspanne ≤ 3,50 m_.
 _Stadt / Land:_ Land = Hütte nach diesem Bauplan. _Stadt (Wohnung):_ keine Hütte bauen — Wohnung abdichten und ausbauen: Fenster mit Folie/Dichtband abdichten, Türschwelle mit Lappen abdichten, Bett/Pritsche statt Boden (siehe 6.1), wärmster Raum als Schlafraum, Vorrat im kühlen Treppenhaus (siehe B7-8.1), Fluchtweg kennen.
 + Grundriss abstecken (siehe Konzept B1-7.1, Körpermaße).
 + Eckpunkte mit Pfosten (siehe Konzept 4.2).
 + Firstpfosten mittig, Firstbalken auflegen.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.1 „Bauplan & Hüttenmaße“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Maße eingehalten
-- [ ] Firstspanne ≤ 3,50 m
+_Checkliste:_ siehe CL-B4-09, Anhang S. #refpage(<cl-b4-09>) (Checklisten-Anhang am Bandende) — „4.1 Bauplan & Hüttenmaße“.
 _Querverweise:_ siehe Konzept 4.2, siehe Konzept B1-7.1. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Die Hüttenmaße ergeben sich aus der Personenzahl (4 Pers.: 2,5 × 2,5 m, First 1,20 m, Firstspanne ≤ 3,50 m): genug Liegefläche, aber nicht zu viel Volumen zum Heizen. Größer = mehr Material, mehr Heizenergie.
 - _Situationsvarianten (wann welche):_ Land: Neubau nach Plan. Stadt: Wohnung abdichten (Fensterfolie, Türschwelle), Bett/Pritsche statt Boden (6.1), Vorrat im Treppenhaus (B7-8.1). 2 Personen: 2 × 2 m.
@@ -1814,7 +1760,7 @@ _Querverweise:_ siehe Konzept 4.2, siehe Konzept B1-7.1. _Erklärung:_
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -1835,18 +1781,9 @@ _Querverweise:_ siehe Konzept 4.2, siehe Konzept B1-7.1. _Erklärung:_
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Stadt / Land:], [siehe Glossar, Anhang D Band 1],
   [Stadt (Wohnung):], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -1887,6 +1824,10 @@ _Querverweise:_ siehe Konzept 4.2, siehe Konzept B1-7.1. _Erklärung:_
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 4.1)]
 #table(
@@ -1898,6 +1839,9 @@ _Querverweise:_ siehe Konzept 4.2, siehe Konzept B1-7.1. _Erklärung:_
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 4.1)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -1955,14 +1899,11 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 === 4.2 Pfosten / First / Verbindungen <k-4-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 4.7]
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-7.svg", width: 100%, alt: "Abb. 4.7: Pfosten & First: Steinkranz, 30 cm eingegraben, Sattelkerbe für den Firstbalken (Konzept 4.2)."), caption: [Abb. 4.7 — Pfosten & First: Steinkranz, 30 cm eingegraben, Sattelkerbe für den Firstbalken (Konzept 4.2).])]]
+#align(center)[#block(width: 10.5cm)[#figure(image("illustrationen/abb-4-7.svg", width: 100%, alt: "Abb. 4.7: Pfosten & First: Steinkranz, 30 cm eingegraben, Sattelkerbe für den Firstbalken (Konzept 4.2)."), caption: [Abb. 4.7 — Pfosten & First: Steinkranz, 30 cm eingegraben, Sattelkerbe für den Firstbalken (Konzept 4.2).])]]
 + Pfostenlöcher _30 cm tief_, _Steinkranz_ um jedes Loch (Fundament).
 + _Sattelkerbe_ für Firstbalken und Sparren — Formschluss statt Nagel.
 + Verbindungen mit Seil verklemmen (siehe Konzept B1-6.3 und Konzept B9-5.2).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.2 „Pfosten / First / Verbindungen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] 30 cm Tiefe
-- [ ] Steinkranz
-- [ ] Sattelkerbe sauber
+_Checkliste:_ siehe CL-B4-10, Anhang S. #refpage(<cl-b4-10>) (Checklisten-Anhang am Bandende) — „4.2 Pfosten / First / Verbindungen“.
 _Querverweise:_ siehe Konzept B1-6.3, siehe Konzept B9-5.1, Zapfen/Keil, siehe Konzept B9-5.2.
 #subhead[Ablauf mit Kontrollkästchen]
 #table(
@@ -1972,13 +1913,6 @@ _Querverweise:_ siehe Konzept B1-6.3, siehe Konzept B9-5.1, Zapfen/Keil, siehe K
   [1], [Pfostenlöcher _30 cm tief_, _Steinkranz_ um jedes Loch (Fundament).], [[ ] erledigt  [ ] geprüft],
   [2], [_Sattelkerbe_ für Firstbalken und Sparren — Formschluss statt Nagel.], [[ ] erledigt  [ ] geprüft],
   [3], [Verbindungen mit Seil verklemmen (siehe Konzept B1-6.3 und Konzept B9-5.2).], [[ ] erledigt  [ ] geprüft],
-)
-#subhead[Material & Maß (aus diesem Konzept)]
-#table(
-  columns: 2,
-  table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
-  table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [30 cm], [( ) 30 cm Tiefe],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -2006,7 +1940,7 @@ _Querverweise:_ siehe Konzept B1-6.3, siehe Konzept B9-5.1, Zapfen/Keil, siehe K
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2025,18 +1959,9 @@ _Querverweise:_ siehe Konzept B1-6.3, siehe Konzept B9-5.1, Zapfen/Keil, siehe K
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -2077,6 +2002,10 @@ _Querverweise:_ siehe Konzept B1-6.3, siehe Konzept B9-5.1, Zapfen/Keil, siehe K
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 4.2)]
 #table(
@@ -2088,6 +2017,9 @@ _Querverweise:_ siehe Konzept B1-6.3, siehe Konzept B9-5.1, Zapfen/Keil, siehe K
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 4.2)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -2161,7 +2093,7 @@ _Erklärung:_
 )
 === 5.1 Dachdeckung & Neigung <k-5-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 8 · Abb. 4.8]
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-8.svg", width: 100%, alt: "Abb. 4.8: Dachdeckung & Mindestneigung: Ried/Stroh 45°, Zweige 50°, Rinde 30° (Konzept 5.1, konsistent B5 8.1)."), caption: [Abb. 4.8 — Dachdeckung & Mindestneigung: Ried/Stroh 45°, Zweige 50°, Rinde 30° (Konzept 5.1, konsistent B5 8.1).])]]
+#align(center)[#block(width: 10.5cm)[#figure(image("illustrationen/abb-4-8.svg", width: 100%, alt: "Abb. 4.8: Dachdeckung & Mindestneigung: Ried/Stroh 45°, Zweige 50°, Rinde 30° (Konzept 5.1, konsistent B5 8.1)."), caption: [Abb. 4.8 — Dachdeckung & Mindestneigung: Ried/Stroh 45°, Zweige 50°, Rinde 30° (Konzept 5.1, konsistent B5 8.1).])]]
 #table(
   columns: 2,
   table.header([Material], [Mindestneigung]),
@@ -2171,8 +2103,7 @@ _Erklärung:_
   [Rinde], [30°],
 )
 Konsistent mit Konzept B5-8.1, Materialquelle.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.1 „Dachdeckung & Neigung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Neigung nach Material
+_Checkliste:_ siehe CL-B4-11, Anhang S. #refpage(<cl-b4-11>) (Checklisten-Anhang am Bandende) — „5.1 Dachdeckung & Neigung“.
 _Querverweise:_ siehe Konzept B5-8.1, siehe Konzept 3.2. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Die Dachneigung muss Niederschlag schneller ableiten als das Material aufsaugt: Ried/Stroh 45°, Zweige 50°, Rinde 30°. Zu flach: Wasser dringt ein; zu steil: Material rutscht ab.
 - _Situationsvarianten (wann welche):_ Viel Regen/Schnee: steiler (50°). Material Rinde: 30° möglich (B5-8.1). Stadt: Flachdach-Plane regelmäßig spannen/räumen.
@@ -2203,7 +2134,7 @@ _Querverweise:_ siehe Konzept B5-8.1, siehe Konzept 3.2. _Erklärung:_
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2212,18 +2143,9 @@ _Querverweise:_ siehe Konzept B5-8.1, siehe Konzept 3.2. _Erklärung:_
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -2264,6 +2186,10 @@ _Querverweise:_ siehe Konzept B5-8.1, siehe Konzept 3.2. _Erklärung:_
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 5.1)]
 #table(
@@ -2275,6 +2201,9 @@ _Querverweise:_ siehe Konzept B5-8.1, siehe Konzept 3.2. _Erklärung:_
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 5.1)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -2332,13 +2261,11 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 === 5.2 Wand / Boden / Sockel <k-5-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 8 · Abb. 4.9]
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-9.svg", width: 100%, alt: "Abb. 4.9: Wand, Boden, Sockel: 20 cm Sockel gegen Spritzwasser, Ringgraben ums Haus (Konzept 5.2)."), caption: [Abb. 4.9 — Wand, Boden, Sockel: 20 cm Sockel gegen Spritzwasser, Ringgraben ums Haus (Konzept 5.2).])]]
+#align(center)[#block(width: 10.5cm)[#figure(image("illustrationen/abb-4-9.svg", width: 100%, alt: "Abb. 4.9: Wand, Boden, Sockel: 20 cm Sockel gegen Spritzwasser, Ringgraben ums Haus (Konzept 5.2)."), caption: [Abb. 4.9 — Wand, Boden, Sockel: 20 cm Sockel gegen Spritzwasser, Ringgraben ums Haus (Konzept 5.2).])]]
 + _Sockel 20 cm_ hoch (Stein/Lehm) gegen Bodenfeuchte und Nager.
 + _Ringgraben_ um die Hütte, 30 cm breit, 20 cm tief — Wasser ableiten.
 + Boden innen: 10 cm Sand/Späne, darauf Schlafplattform (siehe Konzept 6.1).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.2 „Wand / Boden / Sockel“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Sockel 20 cm
-- [ ] Ringgraben gezogen
+_Checkliste:_ siehe CL-B4-12, Anhang S. #refpage(<cl-b4-12>) (Checklisten-Anhang am Bandende) — „5.2 Wand / Boden / Sockel“.
 _Querverweise:_ siehe Konzept 6.1, siehe Konzept B2-9.2, Grauwasser. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Sockel 20 cm schützt vor Spritzwasser und Nagern; Ringgraben (30 × 20 cm) leitet Oberflächenwasser um die Hütte herum; Boden innen mit Sand/Spänen trocken halten.
 - _Situationsvarianten (wann welche):_ Hang: Graben bergseitig tiefer. Stadt: Wohnung — Türschwelle abdichten, Feuchtigkeitsfallen (Keller) meiden.
@@ -2357,7 +2284,7 @@ _Querverweise:_ siehe Konzept 6.1, siehe Konzept B2-9.2, Grauwasser. _Erklärung
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [20 cm], [( ) Sockel 20 cm],
+  [20 cm], [m das funktioniert):\*\* Sockel 20 cm schützt vor Spritzwasser],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -2385,7 +2312,7 @@ _Querverweise:_ siehe Konzept 6.1, siehe Konzept B2-9.2, Grauwasser. _Erklärung
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2404,18 +2331,9 @@ _Querverweise:_ siehe Konzept 6.1, siehe Konzept B2-9.2, Grauwasser. _Erklärung
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -2456,6 +2374,10 @@ _Querverweise:_ siehe Konzept 6.1, siehe Konzept B2-9.2, Grauwasser. _Erklärung
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 5.2)]
 #table(
@@ -2467,6 +2389,9 @@ _Querverweise:_ siehe Konzept 6.1, siehe Konzept B2-9.2, Grauwasser. _Erklärung
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 5.2)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -2524,11 +2449,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 === 5.3 Hüttendiagnose (sechs Schwachstellen) <k-5-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9]
-Checkliste (Kopiervorlage Anhang A): Dach dicht? Sockel trocken? Ringgraben frei? Zugloch verstopft? Schlafplattform trocken? Eingang wetterfest?
+_Checkliste (Kopiervorlage Anhang A):_ siehe CL-B4-13, Anhang S. #refpage(<cl-b4-13>) (Checklisten-Anhang am Bandende); Kopiervorlage siehe Anhang A.
 + Sechs Schwachstellen wöchentlich prüfen.
 + _Wartung = fortgesetzte Abnahme_ — Mängel sofort beheben.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.3 „Hüttendiagnose (sechs Schwachstellen)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Sechs Punkte geprüft
+_Checkliste:_ siehe CL-B4-13, Anhang S. #refpage(<cl-b4-13>) (Checklisten-Anhang am Bandende) — „5.3 Hüttendiagnose (sechs Schwachstellen)“.
 _Querverweise:_ siehe Anhang A, siehe Konzept 5.1, siehe Konzept 5.2.
 #subhead[Ablauf mit Kontrollkästchen]
 #table(
@@ -2564,7 +2488,7 @@ _Querverweise:_ siehe Anhang A, siehe Konzept 5.1, siehe Konzept 5.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2580,18 +2504,9 @@ _Querverweise:_ siehe Anhang A, siehe Konzept 5.1, siehe Konzept 5.2.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -2632,6 +2547,10 @@ _Querverweise:_ siehe Anhang A, siehe Konzept 5.1, siehe Konzept 5.2.
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 5.3)]
 #table(
@@ -2643,6 +2562,9 @@ _Querverweise:_ siehe Anhang A, siehe Konzept 5.1, siehe Konzept 5.2.
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 5.3)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -2716,14 +2638,12 @@ _Erklärung:_
 )
 === 6.1 Schlafplatz & Bodenisolierung <k-6-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 9 · M unbedenklich · V 9 · Abb. 4.10]
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-10.svg", width: 100%, alt: "Abb. 4.10: Bodenisolierung: unten zuerst, 12–18 Armvoll trockenes Füllmaterial unter der Schlafstelle (Konzept 6.1)."), caption: [Abb. 4.10 — Bodenisolierung: unten zuerst, 12–18 Armvoll trockenes Füllmaterial unter der Schlafstelle (Konzept 6.1).])]]
+#align(center)[#block(width: 10.5cm)[#figure(image("illustrationen/abb-4-10.svg", width: 100%, alt: "Abb. 4.10: Bodenisolierung: unten zuerst, 12–18 Armvoll trockenes Füllmaterial unter der Schlafstelle (Konzept 6.1)."), caption: [Abb. 4.10 — Bodenisolierung: unten zuerst, 12–18 Armvoll trockenes Füllmaterial unter der Schlafstelle (Konzept 6.1).])]]
 _Unten-zuerst-Regel:_ erst die Bodenisolation, dann die Decke. Kälte kommt von unten.
 + Boden mit _12–18 Armvoll_ trockenem Material (Gras, Laub, Nadelreisig, Schaumstoff) aufschütten.
 + Darüber luftdichte Schicht (Plane), dann Schlafunterlage.
 + Nie direkt auf nacktem Boden schlafen.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.1 „Schlafplatz & Bodenisolierung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] 12–18 Armvoll Füllung
-- [ ] Unten-zuerst-Regel
+_Checkliste:_ siehe CL-B4-14, Anhang S. #refpage(<cl-b4-14>) (Checklisten-Anhang am Bandende) — „6.1 Schlafplatz & Bodenisolierung“.
 #baustein[Der Boden stiehlt die Wärme zuerst. Isolier ihn zuerst.]
 _Querverweise:_ siehe Konzept 6.2, siehe Konzept 2.1, siehe Konzept 3.3. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Kälte kommt zuerst vom Boden (Leitung). Unten-zuerst: 12–18 Armvoll trockenes Material (Gras, Laub, Nadelreisig), dann luftdichte Schicht, dann Liegefläche. Nie direkt auf nacktem Boden.
@@ -2743,7 +2663,7 @@ _Querverweise:_ siehe Konzept 6.2, siehe Konzept 2.1, siehe Konzept 3.3. _Erklä
   columns: 2,
   table.header([*Menge / Maß*], [*Verwendung (Kontext)*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [12–18 Armvoll], [( ) 12–18 Armvoll Füllung],
+  [12–18 Armvoll], [oden (Leitung). Unten-zuerst: 12–18 Armvoll trockenes Material (Gras],
 )
 #subhead[Fehler & Folgen (siehe Anhang B)]
 #table(
@@ -2771,7 +2691,7 @@ _Querverweise:_ siehe Konzept 6.2, siehe Konzept 2.1, siehe Konzept 3.3. _Erklä
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2791,19 +2711,10 @@ _Querverweise:_ siehe Konzept 6.2, siehe Konzept 2.1, siehe Konzept 3.3. _Erklä
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Unten-zuerst-Regel:], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [BAUSTEIN:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -2844,6 +2755,10 @@ _Querverweise:_ siehe Konzept 6.2, siehe Konzept 2.1, siehe Konzept 3.3. _Erklä
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 6.1)]
 #table(
@@ -2855,6 +2770,9 @@ _Querverweise:_ siehe Konzept 6.2, siehe Konzept 2.1, siehe Konzept 3.3. _Erklä
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 6.1)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -2915,8 +2833,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 Konsistent mit Konzept B1-2.3, Wachenplan.
 + Deckenbilanz: pro Person 1 Decke + 1 Wärmeflasche/heißer Stein (siehe Konzept B3-6.2).
 + Vor dem Schlafen lüften (Stoßlüftung, siehe Konzept 6.3), dann schließen.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.2 „Nachtwärme & Deckenbilanz“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Pro Person Decke + Wärmequelle
+_Checkliste:_ siehe CL-B4-15, Anhang S. #refpage(<cl-b4-15>) (Checklisten-Anhang am Bandende) — „6.2 Nachtwärme & Deckenbilanz“.
 _Querverweise:_ siehe Konzept B1-2.3, siehe Konzept B3-6.2, siehe Konzept 6.3. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Über Nacht werden Decke + Wärmequelle pro Person kalkuliert (heißer Stein B3-6.2, Wärmflasche). Stoßlüftung vor dem Schlafen entfernt Feuchtigkeit (siehe 6.3), dann schließen.
 - _Situationsvarianten (wann welche):_ Winter: 2 Decken + Stein. Sommer: 1 Decke. Stadt: Kerze nur beaufsichtigt (B3-6.3).
@@ -2955,7 +2872,7 @@ _Querverweise:_ siehe Konzept B1-2.3, siehe Konzept B3-6.2, siehe Konzept 6.3. _
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -2971,18 +2888,9 @@ _Querverweise:_ siehe Konzept B1-2.3, siehe Konzept B3-6.2, siehe Konzept 6.3. _
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -3023,6 +2931,10 @@ _Querverweise:_ siehe Konzept B1-2.3, siehe Konzept B3-6.2, siehe Konzept 6.3. _
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 6.2)]
 #table(
@@ -3034,6 +2946,9 @@ _Querverweise:_ siehe Konzept B1-2.3, siehe Konzept B3-6.2, siehe Konzept 6.3. _
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 6.2)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -3091,13 +3006,10 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 === 6.3 Feuchtebilanz & Lüftung <k-6-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 4.11]
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-11.svg", width: 100%, alt: "Abb. 4.11: Feuchtebilanz & Lüftung: ½ l Atemfeuchte pro Nacht – Stoßlüftung, nie Dauerzug (Konzept 6.3, Querverweis B3 6.3 CO)."), caption: [Abb. 4.11 — Feuchtebilanz & Lüftung: ½ l Atemfeuchte pro Nacht – Stoßlüftung, nie Dauerzug (Konzept 6.3, Querverweis B3 6.3 CO).])]]
+#align(center)[#block(width: 10.5cm)[#figure(image("illustrationen/abb-4-11.svg", width: 100%, alt: "Abb. 4.11: Feuchtebilanz & Lüftung: ½ l Atemfeuchte pro Nacht – Stoßlüftung, nie Dauerzug (Konzept 6.3, Querverweis B3 6.3 CO)."), caption: [Abb. 4.11 — Feuchtebilanz & Lüftung: ½ l Atemfeuchte pro Nacht – Stoßlüftung, nie Dauerzug (Konzept 6.3, Querverweis B3 6.3 CO).])]]
 _½ l Atemfeuchtigkeit pro Person und Nacht._ Stoßlüftung: 2× täglich 5 min komplett durchlüften, dann schließen.
 #kasten([Querverweis CO:])[Bei Beheizung im Raum siehe Konzept B3-6.3, `warn-3`: keine Verbrennung im geschlossenen Raum, nie über Nacht.]
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.3 „Feuchtebilanz & Lüftung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] ½ l/Nacht einkalkuliert (Material zum Auffangen/Ableiten)
-- [ ] Stoßlüftung 2× täglich
-- [ ] CO-Regel beachtet (siehe Konzept B3-6.3)
+_Checkliste:_ siehe CL-B4-16, Anhang S. #refpage(<cl-b4-16>) (Checklisten-Anhang am Bandende) — „6.3 Feuchtebilanz & Lüftung“.
 _Querverweise:_ siehe Konzept B3-6.3, `warn-3`, siehe Konzept 2.4.
 #subhead[Material & Maß (aus diesem Konzept)]
 #table(
@@ -3132,7 +3044,7 @@ _Querverweise:_ siehe Konzept B3-6.3, `warn-3`, siehe Konzept 2.4.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3142,18 +3054,9 @@ _Querverweise:_ siehe Konzept B3-6.3, `warn-3`, siehe Konzept 2.4.
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Querverweis CO:], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -3194,6 +3097,10 @@ _Querverweise:_ siehe Konzept B3-6.3, `warn-3`, siehe Konzept 2.4.
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 6.3)]
 #table(
@@ -3205,6 +3112,9 @@ _Querverweise:_ siehe Konzept B3-6.3, `warn-3`, siehe Konzept 2.4.
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 6.3)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -3277,7 +3187,7 @@ _Erklärung:_
 )
 === 7.1 Faserkunde & Pflege <k-7-1>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 8 · Abb. 4.12]
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-12.svg", width: 100%, alt: "Abb. 4.12: Faserkunde: Wolle wärmt auch feucht, Baumwolle kühlt nass, Synthetik schmilzt am Funken (Konzept 7.1)."), caption: [Abb. 4.12 — Faserkunde: Wolle wärmt auch feucht, Baumwolle kühlt nass, Synthetik schmilzt am Funken (Konzept 7.1).])]]
+#align(center)[#block(width: 10.5cm)[#figure(image("illustrationen/abb-4-12.svg", width: 100%, alt: "Abb. 4.12: Faserkunde: Wolle wärmt auch feucht, Baumwolle kühlt nass, Synthetik schmilzt am Funken (Konzept 7.1)."), caption: [Abb. 4.12 — Faserkunde: Wolle wärmt auch feucht, Baumwolle kühlt nass, Synthetik schmilzt am Funken (Konzept 7.1).])]]
 #table(
   columns: 4,
   table.header([Faser], [Feucht], [Nass], [Hitze/Funken]),
@@ -3288,8 +3198,7 @@ _Erklärung:_
 )
 + Wolle bei Nässe auswringen, nicht rubbeln.
 + Synthetik nie ans Feuer (siehe Konzept 8.3).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.1 „Faserkunde & Pflege“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Fasereigenschaften bekannt
+_Checkliste:_ siehe CL-B4-17, Anhang S. #refpage(<cl-b4-17>) (Checklisten-Anhang am Bandende) — „7.1 Faserkunde & Pflege“.
 _Querverweise:_ siehe Konzept 8.3, siehe Konzept B3-2.2, siehe Konzept B5-7.1, Fasergewinnung. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Fasern unterscheiden sich im Verhalten bei Nässe: Wolle isoliert auch feucht (körpereigene Crimp-Struktur hält Luft), Baumwolle kühlt nass (Wasser leitet), Synthetik schmilzt am Funken (B3-2.2). Pflege: Wolle auswringen, nicht rubbeln.
 - _Situationsvarianten (wann welche):_ Winter: Wolle innen. Funkennahe Arbeit (Feuer): Baumwolle außen, nie Synthetik.
@@ -3328,7 +3237,7 @@ _Querverweise:_ siehe Konzept 8.3, siehe Konzept B3-2.2, siehe Konzept B5-7.1, F
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3347,18 +3256,9 @@ _Querverweise:_ siehe Konzept 8.3, siehe Konzept B3-2.2, siehe Konzept B5-7.1, F
   [warm], [siehe Glossar, Anhang D Band 1],
   [kalt], [siehe Glossar, Anhang D Band 1],
   [schmilzt], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -3399,6 +3299,10 @@ _Querverweise:_ siehe Konzept 8.3, siehe Konzept B3-2.2, siehe Konzept B5-7.1, F
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 7.1)]
 #table(
@@ -3410,6 +3314,9 @@ _Querverweise:_ siehe Konzept 8.3, siehe Konzept B3-2.2, siehe Konzept B5-7.1, F
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 7.1)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -3470,8 +3377,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 Soll: _2 Nadeln, 10–15 m Zwirn_ (konsistent mit Faserertrag, siehe Konzept B5-7.1).
 + Zwirn aus Pflanzenfasern selbst drehen (siehe Konzept B5-7.1) oder Faden aus alter Kleidung.
 + Nadel an Faden binden, Ende anknoten.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.2 „Nadel & Faden“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] 2 Nadeln + 10–15 m Zwirn im Nähset
+_Checkliste:_ siehe CL-B4-18, Anhang S. #refpage(<cl-b4-18>) (Checklisten-Anhang am Bandende) — „7.2 Nadel & Faden“.
 _Querverweise:_ siehe Konzept B5-7.1, siehe Konzept B9-6.2, Flicken.
 #subhead[Ablauf mit Kontrollkästchen]
 #table(
@@ -3514,7 +3420,7 @@ _Querverweise:_ siehe Konzept B5-7.1, siehe Konzept B9-6.2, Flicken.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3531,18 +3437,9 @@ _Querverweise:_ siehe Konzept B5-7.1, siehe Konzept B9-6.2, Flicken.
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [2 Nadeln, 10–15 m Zwirn], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -3583,6 +3480,10 @@ _Querverweise:_ siehe Konzept B5-7.1, siehe Konzept B9-6.2, Flicken.
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 7.2)]
 #table(
@@ -3594,6 +3495,9 @@ _Querverweise:_ siehe Konzept B5-7.1, siehe Konzept B9-6.2, Flicken.
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 7.2)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -3669,9 +3573,7 @@ _Erklärung:_
 #konzmeta(fill: rgb("#8a6d00"))[_gelb (prüfenswert)_ · P 7 · M prüfenswert · V 9]
 Jeder führt einen vollständigen Satz: Unterwäsche, Socken, Hose, Pullover, Jacke, Kopfbedeckung, Handschuhe, Schuhwerk.
 #kasten([Juristisch (siehe Konzept B10-5.2):])[Entnahme fremder Kleidung im Notstand ist nach _§§ 34/35 StGB_ bei Lebensgefahr gerechtfertigt/entschuldigt — aber: Deeskalation und Tausch vor Verteidigung; nie Gewalt gegen Personen (Notwehr nur § 32 StGB, siehe Konzept B10-4.2).]
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.1 „Kleidungssatz & Eigentum“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Kompletter Satz pro Person
-- [ ] Eigentumsfragen nach Band 10 gelöst
+_Checkliste:_ siehe CL-B4-19, Anhang S. #refpage(<cl-b4-19>) (Checklisten-Anhang am Bandende) — „8.1 Kleidungssatz & Eigentum“.
 _Querverweise:_ siehe Konzept B10-5.2, siehe Konzept B10-4.2. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Ein kompletter Satz pro Person (Unterwäsche, Socken, Hose, Pullover, Jacke, Kopfbedeckung, Handschuhe, Schuhe) ist das Minimum; nasse Kleidung ist das häufigste Gesundheitsrisiko. Eigentum: Entnahme fremder Kleidung nur im Notstand §§ 34/35 StGB (B10-5.2), sonst Tausch.
 - _Situationsvarianten (wann welche):_ Winter: Zwiebelschichten im Rucksack (B1-3.2). Stadt: Schrank/Depot. Land: Truhe + Wäscheleine.
@@ -3702,7 +3604,7 @@ _Querverweise:_ siehe Konzept B10-5.2, siehe Konzept B10-4.2. _Erklärung:_
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3713,18 +3615,9 @@ _Querverweise:_ siehe Konzept B10-5.2, siehe Konzept B10-4.2. _Erklärung:_
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Juristisch (siehe Konzept B10-5.2):], [siehe Glossar, Anhang D Band 1],
   [§§ 34/35 StGB], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -3765,6 +3658,10 @@ _Querverweise:_ siehe Konzept B10-5.2, siehe Konzept B10-4.2. _Erklärung:_
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 8.1)]
 #table(
@@ -3776,6 +3673,9 @@ _Querverweise:_ siehe Konzept B10-5.2, siehe Konzept B10-4.2. _Erklärung:_
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 8.1)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -3834,8 +3734,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 === 8.2 Wettergrenzen improvisiert (Verfallsdatum) <k-8-2>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 9]
 Jeder Behelf (z. B. Poncho aus Müllsack, Gamaschen aus Dosenblech) bekommt ein _Verfallsdatum_ — bei Erreichen prüfen/ersetzen.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.2 „Wettergrenzen improvisiert (Verfallsdatum)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Verfallsdatum auf jedem Behelf notiert
+_Checkliste:_ siehe CL-B4-20, Anhang S. #refpage(<cl-b4-20>) (Checklisten-Anhang am Bandende) — „8.2 Wettergrenzen improvisiert (Verfallsdatum)“.
 _Querverweise:_ siehe Konzept 8.1, siehe Konzept B9-6.2, Flicken als Methode. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Jeder Behelf (Poncho aus Müllsack, Gamaschen) hat eine Gebrauchsdauer; das Verfallsdatum erzwingt Prüfung/Ersatz, bevor er versagt.
 - _Situationsvarianten (wann welche):_ Material depending: Müllsack reißt schnell (kurzes Datum), Blech hält länger.
@@ -3866,7 +3765,7 @@ _Querverweise:_ siehe Konzept 8.1, siehe Konzept B9-6.2, Flicken als Methode. _E
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -3876,18 +3775,9 @@ _Querverweise:_ siehe Konzept 8.1, siehe Konzept B9-6.2, Flicken als Methode. _E
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Verfallsdatum], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -3928,6 +3818,10 @@ _Querverweise:_ siehe Konzept 8.1, siehe Konzept B9-6.2, Flicken als Methode. _E
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 8.2)]
 #table(
@@ -3939,6 +3833,9 @@ _Querverweise:_ siehe Konzept 8.1, siehe Konzept B9-6.2, Flicken als Methode. _E
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 8.2)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -3996,14 +3893,12 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 === 8.3 Schuhwerk <k-8-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 7 · M unbedenklich · V 8 · Abb. 4.13]
-#align(center)[#block(width: 15.5cm)[#figure(image("illustrationen/abb-4-13.svg", width: 100%, alt: "Abb. 4.13: Schuhwerk: eines tragen, eines trocknen – nie direkt ans Feuer (Konzept 8.3)."), caption: [Abb. 4.13 — Schuhwerk: eines tragen, eines trocknen – nie direkt ans Feuer (Konzept 8.3).])]]
+#align(center)[#block(width: 10.5cm)[#figure(image("illustrationen/abb-4-13.svg", width: 100%, alt: "Abb. 4.13: Schuhwerk: eines tragen, eines trocknen – nie direkt ans Feuer (Konzept 8.3)."), caption: [Abb. 4.13 — Schuhwerk: eines tragen, eines trocknen – nie direkt ans Feuer (Konzept 8.3).])]]
 _Eines trägt, eines trocknet._ Nie nasse Schuhe ans Feuer stellen (Leder bricht, siehe Konzept 7.1).
 + Zwei Paar Schuhe pro Person wechselnd.
 + Trocknen bei Raumtemperatur, Zeitung als Einlage.
 + Nie direkt am Feuer trocknen.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.3 „Schuhwerk“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Wechselrhythmus eingehalten
-- [ ] Nie ans Feuer
+_Checkliste:_ siehe CL-B4-21, Anhang S. #refpage(<cl-b4-21>) (Checklisten-Anhang am Bandende) — „8.3 Schuhwerk“.
 _Querverweise:_ siehe Konzept 7.1, siehe Konzept B3-6.2.
 #subhead[Ablauf mit Kontrollkästchen]
 #table(
@@ -4040,7 +3935,7 @@ _Querverweise:_ siehe Konzept 7.1, siehe Konzept B3-6.2.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -4060,18 +3955,9 @@ _Querverweise:_ siehe Konzept 7.1, siehe Konzept B3-6.2.
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
   [Eines trägt, eines trocknet.], [siehe Glossar, Anhang D Band 1],
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -4112,6 +3998,10 @@ _Querverweise:_ siehe Konzept 7.1, siehe Konzept B3-6.2.
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 8.3)]
 #table(
@@ -4123,6 +4013,9 @@ _Querverweise:_ siehe Konzept 7.1, siehe Konzept B3-6.2.
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 8.3)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -4199,9 +4092,7 @@ Konsistent mit Trage-Regeln Band 8 (siehe Konzept B8-6.1) und Traglast (siehe Ko
 + Trage aus Plane/Holz mit zwei Stangen (siehe Konzept B9-3.3, Stiele).
 + Max. 30 % Körpergewicht kurz (siehe Konzept B1-6.5).
 + Zwei Träger, Ablösung alle 30 min.
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.1 „Behelfstrage“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Traglast-Regel (siehe Konzept B1-6.5)
-- [ ] Zwei Träger
+_Checkliste:_ siehe CL-B4-22, Anhang S. #refpage(<cl-b4-22>) (Checklisten-Anhang am Bandende) — „9.1 Behelfstrage“.
 _Querverweise:_ siehe Konzept B1-6.5, siehe Konzept B8-6.1, siehe Konzept B9-3.3. _Erklärung:_
 - _Prinzip (warum das funktioniert):_ Die Behelfstrage verteilt das Gewicht auf zwei Stangen auf beide Schultern; zwei Träger mit Ablösung alle 30 min verhindern Überlastung (Traglast B1-6.5; Trage-Regeln B8-7.2 analog).
 - _Situationsvarianten (wann welche):_ Enger Waldweg: einer vorn, einer hinten (B10-5.3). Stadt: Treppenhaus — Aufzug? Treppe tragen.
@@ -4248,7 +4139,7 @@ _Querverweise:_ siehe Konzept B1-6.5, siehe Konzept B8-6.1, siehe Konzept B9-3.3
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -4267,18 +4158,9 @@ _Querverweise:_ siehe Konzept B1-6.5, siehe Konzept B8-6.1, siehe Konzept B9-3.3
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -4319,6 +4201,10 @@ _Querverweise:_ siehe Konzept B1-6.5, siehe Konzept B8-6.1, siehe Konzept B9-3.3
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 9.1)]
 #table(
@@ -4330,6 +4216,9 @@ _Querverweise:_ siehe Konzept B1-6.5, siehe Konzept B8-6.1, siehe Konzept B9-3.3
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 9.1)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -4391,9 +4280,7 @@ Konsistent mit Konzept B1-7.3: eine Stunde vor Dunkelheit alle Arbeiten einstell
 + Restlicht-1-h-Regel: ab einer Stunde vor Einbruch der Dunkelheit nur noch Lampenlicht-Arbeit.
 + Lagerpfade mit Steinen/Leuchtmarkern markieren.
 + Feuerwache bei Dunkelheit doppelt (siehe Konzept B3-9.3).
-_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.2 „Lager bei Dunkelheit (Restlicht-1-h)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
-- [ ] Restlicht-1-h eingehalten
-- [ ] Pfade markiert
+_Checkliste:_ siehe CL-B4-23, Anhang S. #refpage(<cl-b4-23>) (Checklisten-Anhang am Bandende) — „9.2 Lager bei Dunkelheit (Restlicht-1-h)“.
 _Querverweise:_ siehe Konzept B1-7.3, siehe Konzept B3-9.3.
 #subhead[Ablauf mit Kontrollkästchen]
 #table(
@@ -4430,7 +4317,7 @@ _Querverweise:_ siehe Konzept B1-7.3, siehe Konzept B3-9.3.
   columns: 2,
   table.header([*Prüfschritt*], [*Nachweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Quellenabgleich (≥ 3 Traditionen)], [interne Prüf-IDs siehe Prüfprotokoll am Bandende],
+  [Quellenabgleich (≥ 3 Traditionen)], [Quellen siehe öffentliches Quellenverzeichnis am Bandende],
   [Robustheit (Fehlerfolgen)], [siehe Tabelle „Fehler & Folgen“ oben und Anhang B],
   [Umsetzung (Schritte, Material, Maße)], [siehe Ablauf und Material & Maß oben],
 )
@@ -4449,18 +4336,9 @@ _Querverweise:_ siehe Konzept B1-7.3, siehe Konzept B3-9.3.
   columns: 2,
   table.header([*Begriff*], [*Verweis*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [Checkliste — Zweck und Abnahme:], [siehe Glossar, Anhang D Band 1],
+  [Checkliste:], [siehe Glossar, Anhang D Band 1],
   [Querverweise:], [siehe Glossar, Anhang D Band 1],
 )
-#subhead[Checkliste Einsatz]
-- [ ] Material vollständig (siehe Material & Maß)
-- [ ] Schritte in Reihenfolge geplant
-- [ ] Kontrollkästchen im Ablauf abgehakt
-- [ ] Randbedingungen ausgefüllt
-- [ ] Fehler & Folgen gelesen
-- [ ] Übungsbogen bereit
-- [ ] Querverweise notiert
-- [ ] Protokollheft griffbereit (Konzept 9.1)
 #subhead[Übungsempfehlungen & Übungsprotokoll (Verfalluhr 12 Monate, Konzept 8.2)]
 - [ ] Übung im Jahresplan eingetragen (Konzept 8.1)
 - [ ] Alle 12 Monate wiederholt (Verfalluhr, Konzept 8.2)
@@ -4501,6 +4379,10 @@ _Querverweise:_ siehe Konzept B1-7.3, siehe Konzept B3-9.3.
   [Mit Zeitdruck (realistische Dauer)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Ernstfall-Simulation (voller Ernst)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
   [Wiederholung nach 6 Monaten], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Kälte], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Bei Nässe/Dauerregen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [In der Gruppe mit Rollen], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
+  [Öffentlich (Stadt) vs. abgelegen (Land)], [[ ] geübt  #v(3pt)], [Datum: \_\_\_\_  #v(3pt)], [Ergebnis: \_\_\_\_\_\_\_  #v(3pt)],
 )
 #subhead[Reflexion nach Übung / Einsatz (Konzept 9.2)]
 #table(
@@ -4512,6 +4394,9 @@ _Querverweise:_ siehe Konzept B1-7.3, siehe Konzept B3-9.3.
   [Was fehlte an Material oder Maß?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Welche Randbedingung war falsch eingeschätzt?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
   [Was ändere ich beim nächsten Mal?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Welches Gerät hat versagt (Radio, Ko-Melder, Taschenlampe)?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [War die Zeitplanung realistisch?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
+  [Was fehlte an Information/Wissen?], [\_\_\_\_\_\_\_\_\_\_\_\_\_\_  #v(6pt)],
 )
 #subhead[Notizen & Skizze (Konzept 9.2)]
 #block(width: 100%, height: 6.5cm, stroke: 0.6pt + rgb("#8c8c8c"), inset: 6pt)[Platz für eigene Notizen, Maße und Skizzen zu diesem Konzept.]
@@ -4568,7 +4453,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
   [44], [[ ] Übung  [ ] Einsatz  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_\_\_\_\_  #v(3pt)], [\_\_\_\_  #v(3pt)],
 )
 #pagebreak(weak: true)
-== Anhang A — Kopiervorlagen (Band 4) <anh-A>
+== Anhang A — Kopiervorlagen (Band 4) <anh-a>
 #pagebreak(weak: true)
 === A1 Hüttendiagnose-Check <anh-a1>
 Kopiervorlage zu Konzept 5.3 — sechs Schwachstellen mit Datum/Initialen.
@@ -4626,7 +4511,7 @@ Kopiervorlage zu Konzept 6.2 — Personen × Decke/Wärmequelle; Verbrauchsmater
   [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ], [ #v(5pt) ],
 )
 #pagebreak(weak: true)
-== Anhang B — Fehler-Tabelle (Band 4) <anh-B>
+== Anhang B — Fehler-Tabelle (Band 4) <anh-b>
 #table(
   columns: 3,
   table.header([Anfängerfehler], [Folge], [Korrektur]),
@@ -4640,7 +4525,7 @@ Kopiervorlage zu Konzept 6.2 — Personen × Decke/Wärmequelle; Verbrauchsmater
   [Hütte ohne Ringgraben], [Bodenfeuchte], [5.2: Ringgraben 30×20 cm],
 )
 #pagebreak(weak: true)
-== Anhang C — Übungsplan (Band 4) <anh-C>
+== Anhang C — Übungsplan (Band 4) <anh-c>
 _Übungsablauf (verbindlich für jede Übung in diesem Band):_
 + _Vorbereitung (10 min):_ Material und Protokollbogen (Anhang A4 / B1-8.2) bereitlegen; Warnrahmen des Konzepts durchlesen; bei Outdoor-Übung Wetter prüfen (B1-4.4).
 + _Durchführung:_ die nummerierten Schritte des Konzepts exakt in der dortigen Reihenfolge ausführen — keine Abkürzungen.
@@ -4655,6 +4540,199 @@ _Band-spezifische Übungen (Vorrang, mit Erfolgskontrolle):_
 - Hüttendiagnose (5.3): 3× an verschiedenen Unterkünften, Erfolg: alle 6 Schwachstellen gefunden
 - Bodenisolation (6.1): 2×, Erfolg: 12–18 Armvoll gemessen, trocken nach 1 Nacht
 Verfalluhr: 12 Monate ohne Wiederholung = Fähigkeit verfallen (siehe B1-8.2).
+#pagebreak(weak: true)
+== Anhang D — Checklisten (Band 4) <anh-d>
+Alle Checklisten des Bandes, gesammelt am Bandende. Im Kapiteltext steht jeweils nur der Querverweis „siehe CL-B4-NN“. Aufbau pro Checkliste: Kennziffer + sprechende Bezeichnung + Begriffserläuterung (Mini-Glossar) + bestehende Ziel-Präambel (Zweck/Abnahme) + Punkte.
+#subhead[Kapitel-Übersicht]
+#table(
+  columns: 7,
+  table.header([*Nr.*], [*Konzept*], [*P*], [*M*], [*V*], [*Ampel*], [*Abb.*]),
+  table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
+  [CL-B4-01], [— 1.1 Unterkunftsethik], [], [], [], [grün], [–],
+  [CL-B4-02], [— 1.2 Lagerplatz], [], [], [], [grün], [–],
+  [CL-B4-03], [— 2.1 Wärmehaushalt & Schichten], [], [], [], [grün], [–],
+  [CL-B4-04], [— 2.2 Wetter-/Wolkenlesen], [], [], [], [grün], [–],
+  [CL-B4-05], [— 2.4 Kältegefahr erkennen], [], [], [], [grün], [–],
+  [CL-B4-06], [— 3.1 Windbruch (Klangprobe)], [], [], [], [grün], [–],
+  [CL-B4-07], [— 3.2 Behelfsdach], [], [], [], [grün], [–],
+  [CL-B4-08], [— 3.3 Winter-Unterkunft (Schneehöhle)], [], [], [], [grün], [–],
+  [CL-B4-09], [— 4.1 Bauplan & Hüttenmaße], [], [], [], [grün], [–],
+  [CL-B4-10], [— 4.2 Pfosten / First / Verbindungen], [], [], [], [grün], [–],
+  [CL-B4-11], [— 5.1 Dachdeckung & Neigung], [], [], [], [grün], [–],
+  [CL-B4-12], [— 5.2 Wand / Boden / Sockel], [], [], [], [grün], [–],
+  [CL-B4-13], [— 5.3 Hüttendiagnose (sechs Schwachstellen)], [], [], [], [grün], [–],
+  [CL-B4-14], [— 6.1 Schlafplatz & Bodenisolierung], [], [], [], [grün], [–],
+  [CL-B4-15], [— 6.2 Nachtwärme & Deckenbilanz], [], [], [], [grün], [–],
+  [CL-B4-16], [— 6.3 Feuchtebilanz & Lüftung], [], [], [], [grün], [–],
+  [CL-B4-17], [— 7.1 Faserkunde & Pflege], [], [], [], [grün], [–],
+  [CL-B4-18], [— 7.2 Nadel & Faden], [], [], [], [grün], [–],
+  [CL-B4-19], [— 8.1 Kleidungssatz & Eigentum], [], [], [], [grün], [–],
+  [CL-B4-20], [— 8.2 Wettergrenzen improvisiert (Verfallsdatum)], [], [], [], [grün], [–],
+  [CL-B4-21], [— 8.3 Schuhwerk], [], [], [], [grün], [–],
+  [CL-B4-22], [— 9.1 Behelfstrage], [], [], [], [grün], [–],
+  [CL-B4-23], [— 9.2 Lager bei Dunkelheit (Restlicht-1-h)], [], [], [], [grün], [–],
+)
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-01 — 1.1 Unterkunftsethik <cl-b4-01>]
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.1 „Unterkunftsethik“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Eigentümer/Zustimmung geklärt (siehe Konzept B10-5.2)
+- [ ] Keine Felder/Gärten zerstört
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-02 — 1.2 Lagerplatz <cl-b4-02>]
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- Latrine = Abortgrube; ≥ 30 m unterhalb der Wasserentnahme, 25–30 cm tief
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 1.2 „Lagerplatz“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Nicht im Kaltluftsee
+- [ ] ≥ 30 m zur Flutlinie
+- [ ] Lee-Seite
+- [ ] Feuer-Abstände (siehe Konzept B3-1.2)
+- [ ] Latrine (siehe Konzept B2-9.1)
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-03 — 2.1 Wärmehaushalt & Schichten <cl-b4-03>]
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.1 „Wärmehaushalt & Schichten“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Innenschicht trocken
+- [ ] Isolation ausreichend
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-04 — 2.2 Wetter-/Wolkenlesen <cl-b4-04>]
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.2 „Wetter-/Wolkenlesen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Zwei Zeichen vor jeder Entscheidung
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-05 — 2.4 Kältegefahr erkennen <cl-b4-05>]
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 2.4 „Kältegefahr erkennen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Warnzeichen bekannt
+- [ ] Maßnahmen bei Umschlag vorbereitet
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-06 — 3.1 Windbruch (Klangprobe) <cl-b4-06>]
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.1 „Windbruch (Klangprobe)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Klangprobe durchgeführt
+- [ ] Besetzter Bau bleibt besetzt
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-07 — 3.2 Behelfsdach <cl-b4-07>]
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.2 „Behelfsdach“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Neigung nach Wetter gewählt
+- [ ] Sparrenabstand 50–60 cm
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-08 — 3.3 Winter-Unterkunft (Schneehöhle) <cl-b4-08>]
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 3.3 „Winter-Unterkunft (Schneehöhle)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Kugelprobe bestanden
+- [ ] Zu zweit gebaut
+- [ ] Luftloch offen
+- [ ] Podest erhöht
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-09 — 4.1 Bauplan & Hüttenmaße <cl-b4-09>]
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.1 „Bauplan & Hüttenmaße“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Maße eingehalten
+- [ ] Firstspanne ≤ 3,50 m
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-10 — 4.2 Pfosten / First / Verbindungen <cl-b4-10>]
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- Sattelkerbe = formschlüssige Balkenverbindung (B4-4.2)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 4.2 „Pfosten / First / Verbindungen“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] 30 cm Tiefe
+- [ ] Steinkranz
+- [ ] Sattelkerbe sauber
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-11 — 5.1 Dachdeckung & Neigung <cl-b4-11>]
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.1 „Dachdeckung & Neigung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Neigung nach Material
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-12 — 5.2 Wand / Boden / Sockel <cl-b4-12>]
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.2 „Wand / Boden / Sockel“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Sockel 20 cm
+- [ ] Ringgraben gezogen
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-13 — 5.3 Hüttendiagnose (sechs Schwachstellen) <cl-b4-13>]
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 5.3 „Hüttendiagnose (sechs Schwachstellen)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Sechs Punkte geprüft
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-14 — 6.1 Schlafplatz & Bodenisolierung <cl-b4-14>]
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.1 „Schlafplatz & Bodenisolierung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] 12–18 Armvoll Füllung
+- [ ] Unten-zuerst-Regel
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-15 — 6.2 Nachtwärme & Deckenbilanz <cl-b4-15>]
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.2 „Nachtwärme & Deckenbilanz“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Pro Person Decke + Wärmequelle
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-16 — 6.3 Feuchtebilanz & Lüftung <cl-b4-16>]
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- CO = Kohlenmonoxid, geruchlos, tödlich; warn-3 (B3-6.3)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 6.3 „Feuchtebilanz & Lüftung“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] ½ l/Nacht einkalkuliert (Material zum Auffangen/Ableiten)
+- [ ] Stoßlüftung 2× täglich
+- [ ] CO-Regel beachtet (siehe Konzept B3-6.3)
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-17 — 7.1 Faserkunde & Pflege <cl-b4-17>]
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.1 „Faserkunde & Pflege“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Fasereigenschaften bekannt
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-18 — 7.2 Nadel & Faden <cl-b4-18>]
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 7.2 „Nadel & Faden“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] 2 Nadeln + 10–15 m Zwirn im Nähset
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-19 — 8.1 Kleidungssatz & Eigentum <cl-b4-19>]
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.1 „Kleidungssatz & Eigentum“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Kompletter Satz pro Person
+- [ ] Eigentumsfragen nach Band 10 gelöst
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-20 — 8.2 Wettergrenzen improvisiert (Verfallsdatum) <cl-b4-20>]
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.2 „Wettergrenzen improvisiert (Verfallsdatum)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Verfallsdatum auf jedem Behelf notiert
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-21 — 8.3 Schuhwerk <cl-b4-21>]
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 8.3 „Schuhwerk“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Wechselrhythmus eingehalten
+- [ ] Nie ans Feuer
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-22 — 9.1 Behelfstrage <cl-b4-22>]
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.1 „Behelfstrage“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Traglast-Regel (siehe Konzept B1-6.5)
+- [ ] Zwei Träger
+#block(width: 100%, fill: rgb("#edeaf4"), inset: (x: 6pt, y: 3pt), above: 8pt, below: 2pt, breakable: false)[=== CL-B4-23 — 9.2 Lager bei Dunkelheit (Restlicht-1-h) <cl-b4-23>]
+#konzmeta(fill: rgb("#1a6b1a"))[]
+_Begriffe (Mini-Glossar):_
+- — (keine nicht-selbst erklärenden Fachbegriffe in dieser Checkliste)
+_Checkliste — Zweck und Abnahme:_ Diese Liste sichert, dass bei Konzept 9.2 „Lager bei Dunkelheit (Restlicht-1-h)“ kein Prüfpunkt vergessen wird. Erfüllt ist sie, wenn jedes Kästchen abgehakt ist (alle [x]) — das ist das Abnahmekriterium; ohne vollständige Liste ist der Arbeitsschritt nicht freigegeben. Fehlt ein Punkt, ist das Konzept nicht einsatzbereit — die Folge ist unter „Erklärung → Typische Fehler“ beschrieben (ggf. Warnrahmen beachten).
+- [ ] Restlicht-1-h eingehalten
+- [ ] Pfade markiert
 #pagebreak(weak: true)
 == Bandabschluss Band 4 — Bewertungsmatrix + Devise <abschluss>
 #table(
@@ -4692,12 +4770,12 @@ _Erklärung:_
 - _Situationsvarianten (wann welche):_ Winter (frühe Dunkelheit): früher beginnen. Stadt: Treppenhausbeleuchtung? Kerze mitnehmen.
 - _Typische Fehler (warum + Folge):_ Im Dunkeln weiterarbeiten. Folge: Verletzungen, verlorenes Werkzeug, Feuer ohne Sicht.
 #pagebreak(weak: true)
-== Situative Detail-Skizzen (Review v1) <skizzen-v1>
-Situative Skizzen zu Varianten und Situationen (mit Maßen und Kontext) — ergänzt nach Review v1, Befund 3.
-#grid(columns: (1fr, 1fr), column-gutter: 8pt, row-gutter: 8pt,
-  figure(image("illustrationen/abb-4-14.svg", width: 100%, alt: "Abb. 4.14: Lagerplatz situativ: Sommer / Winter / Hang – Zeltposition je Jahreszeit (Ergänzung zu Abb. 4.1). *(situativ, Review v1)*"), caption: [Abb. 4.14 — Lagerplatz situativ: Sommer / Winter / Hang – Zeltposition je Jahreszeit (Ergänzung zu Abb. 4.1).]),
-  figure(image("illustrationen/abb-4-15.svg", width: 100%, alt: "Abb. 4.15: Winter-Unterkunft situativ: Schneehöhle / Biwak mit Tarp / Hütte – Wahl nach Schnee, Wind, Zeit (Ergänzung zu Abb. 4.5/4.6). *(situativ, Review v1)*"), caption: [Abb. 4.15 — Winter-Unterkunft situativ: Schneehöhle / Biwak mit Tarp / Hütte – Wahl nach Schnee, Wind, Zeit (Ergänzung zu Abb. 4.5/4.6).]),
-  figure(image("illustrationen/abb-4-16.svg", width: 100%, alt: "Abb. 4.16: Hüttendiagnose situativ: sechs Schwachstellen im Grundriss und Schnitt lokalisieren (Ergänzung zu Konzept 5.3). *(situativ, Review v1)*"), caption: [Abb. 4.16 — Hüttendiagnose situativ: sechs Schwachstellen im Grundriss und Schnitt lokalisieren (Ergänzung zu Konzept 5.3).]))
+== Situative Detail-Skizzen <skizzen>
+Situative Skizzen zu Varianten und Situationen — mit Maßen und Situationskontext.
+#grid(columns: (1fr, 1fr), column-gutter: 6pt, row-gutter: 5pt,
+  figure(image("illustrationen/abb-4-14.svg", width: 100%, alt: "Abb. 4.14: Lagerplatz situativ: Sommer / Winter / Hang – Zeltposition je Jahreszeit (Ergänzung zu Abb. 4.1). *(situativ)*"), caption: [Abb. 4.14 — Lagerplatz situativ: Sommer / Winter / Hang – Zeltposition je Jahreszeit (Ergänzung zu Abb. 4.1).]),
+  figure(image("illustrationen/abb-4-15.svg", width: 100%, alt: "Abb. 4.15: Winter-Unterkunft situativ: Schneehöhle / Biwak mit Tarp / Hütte – Wahl nach Schnee, Wind, Zeit (Ergänzung zu Abb. 4.5/4.6). *(situativ)*"), caption: [Abb. 4.15 — Winter-Unterkunft situativ: Schneehöhle / Biwak mit Tarp / Hütte – Wahl nach Schnee, Wind, Zeit (Ergänzung zu Abb. 4.5/4.6).]),
+  figure(image("illustrationen/abb-4-16.svg", width: 100%, alt: "Abb. 4.16: Hüttendiagnose situativ: sechs Schwachstellen im Grundriss und Schnitt lokalisieren (Ergänzung zu Konzept 5.3). *(situativ)*"), caption: [Abb. 4.16 — Hüttendiagnose situativ: sechs Schwachstellen im Grundriss und Schnitt lokalisieren (Ergänzung zu Konzept 5.3).]))
 #pagebreak(weak: true)
 == Gesamt-Checkliste Band 4 <gesamt-checkliste>
 Alle Konzepte dieses Bandes im Überblick — abhaken, wenn geübt/gelesen:
@@ -4725,6 +4803,29 @@ Alle Konzepte dieses Bandes im Überblick — abhaken, wenn geübt/gelesen:
 - [ ] 8.3 Schuhwerk
 - [ ] 9.1 Behelfstrage
 - [ ] 9.2 Lager bei Dunkelheit (Restlicht-1-h)
+- [ ] CL-B4-01 — 1.1 Unterkunftsethik
+- [ ] CL-B4-02 — 1.2 Lagerplatz
+- [ ] CL-B4-03 — 2.1 Wärmehaushalt & Schichten
+- [ ] CL-B4-04 — 2.2 Wetter-/Wolkenlesen
+- [ ] CL-B4-05 — 2.4 Kältegefahr erkennen
+- [ ] CL-B4-06 — 3.1 Windbruch (Klangprobe)
+- [ ] CL-B4-07 — 3.2 Behelfsdach
+- [ ] CL-B4-08 — 3.3 Winter-Unterkunft (Schneehöhle)
+- [ ] CL-B4-09 — 4.1 Bauplan & Hüttenmaße
+- [ ] CL-B4-10 — 4.2 Pfosten / First / Verbindungen
+- [ ] CL-B4-11 — 5.1 Dachdeckung & Neigung
+- [ ] CL-B4-12 — 5.2 Wand / Boden / Sockel
+- [ ] CL-B4-13 — 5.3 Hüttendiagnose (sechs Schwachstellen)
+- [ ] CL-B4-14 — 6.1 Schlafplatz & Bodenisolierung
+- [ ] CL-B4-15 — 6.2 Nachtwärme & Deckenbilanz
+- [ ] CL-B4-16 — 6.3 Feuchtebilanz & Lüftung
+- [ ] CL-B4-17 — 7.1 Faserkunde & Pflege
+- [ ] CL-B4-18 — 7.2 Nadel & Faden
+- [ ] CL-B4-19 — 8.1 Kleidungssatz & Eigentum
+- [ ] CL-B4-20 — 8.2 Wettergrenzen improvisiert (Verfallsdatum)
+- [ ] CL-B4-21 — 8.3 Schuhwerk
+- [ ] CL-B4-22 — 9.1 Behelfstrage
+- [ ] CL-B4-23 — 9.2 Lager bei Dunkelheit (Restlicht-1-h)
 #pagebreak(weak: true)
 == Querverweis-Register Band 4 <querverweis-register>
 Alle Verweise aus diesem Band auf andere Bände (Schema B\<Band\>-X.Y):
@@ -4777,14 +4878,13 @@ Alle Verweise aus diesem Band auf andere Bände (Schema B\<Band\>-X.Y):
   [9.2], [B3-9.3],
 )
 #pagebreak(weak: true)
-== Prüfprotokoll (interne Quellen-IDs) <pruefprotokoll>
-Interne Prüf-IDs aus dem Factcheck (dreifache Prüfung). Sie stehen nicht im Lesetext, sondern hier im Protokoll.
+== Quellenverzeichnis <quellen>
+Öffentliche Quellen dieses Bandes (Organisation, Titel, URL). Gesetze und Verordnungen werden im Text als Gesetzesnamen zitiert (z. B. § 32 StGB); Fundstellen: gesetze-im-internet.de bzw. eur-lex.europa.eu.
 #table(
   columns: 3,
-  table.header([*ID*], [*Konzept*], [*Fundstelle (Kontext)*]),
+  table.header([*Organisation*], [*Titel*], [*URL*]),
   table.hline(stroke: 0.9pt + rgb("#1a1a1a")),
-  [W7], [1.2], [5. Latrine nach Konzept B2-9.1, ≥ 30 m unterhalb der Wasserentnahme.],
-  [W28], [2.3], [Konsistent mit Band 9 (Trocknung) und Band 5 (Ried/Stroh, siehe Ko],
+  [BBK], [Ratgeber „Notfallvorsorge“ — Kälteschutz, Unterkunft, Winter], [https://www.bbk.bund.de],
 )
 
 #pagebreak(weak: true)

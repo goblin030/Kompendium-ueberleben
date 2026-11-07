@@ -13,10 +13,10 @@ Einträge zu Konzepten dieses Bandes mit Seitenzahl (S. …); Verweise auf ander
 - _Handwerk (Grenze des Machens)_ — Konzept 1.1, S. #refpage(<k-1-1>) · _Können/Material/Zeit_; siehe auch Werkzeug-Kette; Übestück
 - _Härten & Anlassen_ — Konzept 2.2, S. #refpage(<k-2-2>) (Abb. 9.2) · _gelb : Anlassen zwingend (sonst Glasbruch); Abschreckmedium Öl (milder) vs Wasser (härter, spröder)_; siehe auch Schmiede-Feuer; Geschmiedete Klinge
 - _Holzfällen_ — siehe Fällen (Konzept 3.1, S. #refpage(<k-3-1>)); Axt & Säge (B1-6.2)
-- _Kohlenmonoxid (CO)_ — B3-6.3 (warn-3); B4-6.3; Konzept 2.1, S. #refpage(<k-2-1>) · _W14: keine Verbrennung in geschlossenen Räumen; Zelt = geschlossener Raum; nie über Nacht im Schlafraum; mehrere Betroffene = Alarm_; siehe auch Ofenlose Not-Heizung (CO); Feuchtebilanz & Lüftung (Unterkunft); Schmiede-Feuer
+- _Kohlenmonoxid (CO)_ — B3-6.3 (warn-3); B4-6.3; Konzept 2.1, S. #refpage(<k-2-1>) · _keine Verbrennung in geschlossenen Räumen; Zelt = geschlossener Raum; nie über Nacht im Schlafraum; mehrere Betroffene = Alarm_; siehe auch Ofenlose Not-Heizung (CO); Feuchtebilanz & Lüftung (Unterkunft); Schmiede-Feuer
 - _Lehrling (4 Proben)_ — Konzept 9.2, S. #refpage(<k-9-2>) · _Hand/Ordnung/Geduld/Wahrheit_; siehe auch Weitergabe (am Werkstück)
 - _Leim (selbst gemacht)_ — Konzept 7.2, S. #refpage(<k-7-2>) (Abb. 9.8) · _Wasserbad 2–4 h, nie sieden; ~1 Wo haltbar_; siehe auch Material-Kammer
-- _Leinöl-Selbstentzündung (Lappen)_ — Konzept 7.3, S. #refpage(<k-7-3>) (warn-9b) · _W30 : Lappen ausgebreitet auf nichtbrennbarem Untergrund trocknen oder in dicht verschlossenen Metallbehälter mit Wasser_; siehe auch Riemen / Fett / Öl (Leinöl)
+- _Leinöl-Selbstentzündung (Lappen)_ — Konzept 7.3, S. #refpage(<k-7-3>) (warn-9b) · _: Lappen ausgebreitet auf nichtbrennbarem Untergrund trocknen oder in dicht verschlossenen Metallbehälter mit Wasser_; siehe auch Riemen / Fett / Öl (Leinöl)
 - _Material-Kammer_ — Konzept 7.1, S. #refpage(<k-7-1>) · _konsistent B7-8.1_; siehe auch Kammer (kalte Kammer, Zonen); Werkstatt-Ordnung
 - _Niet & Nagel_ — Konzept 5.3, S. #refpage(<k-5-3>); siehe auch Zapfen / Loch / Keil (Holzverbindung)
 - _Riemen / Fett / Öl (Leinöl)_ — Konzept 7.3, S. #refpage(<k-7-3>) (Abb. 9.9) · _warn-9b : Lappen nie zerknüllt im Abfalleimer; nie Öl in Wassereimer (Dampfexplosion)_; siehe auch Messer (Pflege); Leinöl-Selbstentzündung (Lappen)

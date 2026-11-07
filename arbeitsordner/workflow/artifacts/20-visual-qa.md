@@ -216,3 +216,28 @@ Kollisionen weiterhin 0, Caption-Abstände weiterhin 4,6 pt, CL-Umbau vollständ
 
 ---
 *Nachtrag Turn 4 durch Agent `visual-qa`, Phase J, 2026-11-07. Log: `logs/workflow.log` (agent=visual-qa).*
+
+---
+
+# Nachtrag — Re-Run Turn 5 (2026-11-07, ~19:40 MEZ, nach doc-builder Turn 13 + illustrator Turn 6; neu: Farbe/Kontrast)
+
+**Anlass:** Review v6 Farbe — doc-builder Turn 13 (Bandfarben h2/h3/Titel, Anhang-E in Band 1) + illustrator Turn 6 (189 SVGs semantische Palette). **Input:** `band-01..10.pdf` = 445/361/342/329/317/310/320/325/320/305 = **3.374 S.** **Methode:** wie Turn 1–4, zusätzlich **Farb-Render** (`pdftoppm -r 150` PPM RGB) neben Graustufen; WCAG-Kontrast (relative Luminanz, Ratio (L+0,05)/(L+0,05)) per Pixel-Sampling an Wort-BBoxen (Text), Box-Mitten/Kanten (Fills/Rahmen) und Abbildungs-Inneren (Grafik-Tinte vs Abb.-Hintergrund); Graustufen-Lesbarkeit pro Abbildung (PGM: Ink-Anteil, Graustufen-Anzahl).
+
+## Ergebnis Turn 5
+
+| Kriterium | Turn 4 | Turn 5 |
+|---|---|---|
+| (1) Kollisionen | 0 | **0** (3.374/3.374 S.; 0 Caption-Box/Abbildung, 0 Text-straddle/Abbildung, 0 Rahmen-Pixel-Anomalien; 163/163 Caption-Paare à 4,6 pt) |
+| (2) Meta-Scan (PDF + 189 SVG-Bildtexte, inkl. Rollen-Namen) | 0 | **0** — PDF-Texte aller 10 Bände clean; 189/189 SVGs clean (0 SME/Fachlektorat/Lektor, 0 W-IDs, 0 ROT/Gate/Agenten/Artefakte/Review/Befund/Turn, 0 undefined/NaN) |
+| (3a) Text-Kontrast ≥ 4,5:1 | nicht gemessen | **pass mit 1 minor:** Body #000/#1a1a1a = 21:1/16,1:1; Kopf/Fuß #4d4d4d = 8,45:1; Bandfarben vs Weiß **4,92–7,58:1** (alle ≥ 4,5 ✓, B7 #8a6d00 knapp mit 4,92); CL-Headings auf Tint gemessen schwarz 21:1; Ampel grün #1a6b1a auf #efefef = 5,78:1; WARNUNG #8a3a10 auf #fdf1ea = 6,97:1. **Befund minor: Ampel gelb #8a6d00 auf konzmeta-Füllung #efefef = 4,28:1 < 4,5** (auf Weiß 4,92 OK) — gelb-Text in konzmeta-Zeilen |
+| (3b) Grafik-Kontrast ≥ 3:1 | nicht gemessen | **pass mit minor:** Primär-Tinten OK (#1a1a1a 17,4:1, #4d4d4d 8,45:1, #8c8c8c 3,36:1, #3f6f96 5,35:1, Warnrahmen #bd531a 4,76:1, devise #1a1a1a); **Befund minor: helle Sekundär-Linien/Rahmen #bfbfbf 1,84:1, #a9c3d6 1,83:1, #c9c9c9 1,66:1 < 3:1** (dünne rest-Rahmen von baustein/kasten/konzmeta + helle SVG-Hilfslinien; die 3-pt-Linksleiste und Warnrahmen tragen die Information und passen) |
+| (3c) Graustufen-Lesbarkeit (150 dpi gray) | nicht gemessen | **pass:** 174/174 Abbildungen nicht leer (Ink 1,4–15,9 %), ≥ 18 Graustufen pro Abb., Muster (hatch/dots) als Graustufen erhalten; Info nicht nur über Farbe (Ampel auch als Text „grün/gelb“, Warnrahmen auch als Text „WARNUNG“) |
+| (4) Leerraum | 85,1 % < 65 %; 18,1 % nahezu leer | **85,2 % < 65 % (2.875/3.374), 18,1 % nahezu leer (611)** — unverändert (minor) |
+| (5) CL-Checklisten | 223/223, 0 inline | **0 inline Checklisten im Kapitel; CL-Defs == CL-Refs pro Band** (26/25/24/23/24/20/19/21/20/21 = 223, 0 unaufgelöst); Checklisten in Anhang D (Band 1 zusätzlich Anhang E, S. 429); Zeiger mit Seitenzahl |
+
+## Ampel Turn 5 und Gesamturteil
+
+**Ampel: gelb ×10. Gesamturteil: FREIGEGEBEN (gelb) — Gate bestanden.** 0 major in 3.374/3.374 Seiten: keine Kollisionen, Meta-Scan 0 (PDF+SVG), CL-Checklisten vollständig im Anhang mit aufgelösten Referenzen, Text-Kontrast AA-konform bis auf eine Ausnahme, alle 174 Abbildungen graustufentauglich lesbar. Minor-Befunde (nicht blockierend, nächste Revision): (a) Ampel-gelb-Text #8a6d00 auf #efefef = 4,28:1 < 4,5 → abdunkeln (z. B. #7a5f00) oder konzmeta-Fill aufhellen; (b) helle Rahmen #a9c3d6/#bfbfbf < 3:1 → abdunkeln (z. B. #8c8c8c); (c) Leerraum 85,2 % < 65 % / 18,1 % nahezu leer → Dichte weiter erhöhen.
+
+---
+*Nachtrag Turn 5 durch Agent `visual-qa`, Phase J, 2026-11-07. Log: `logs/workflow.log` (agent=visual-qa).*

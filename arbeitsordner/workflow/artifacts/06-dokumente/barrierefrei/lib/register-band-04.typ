@@ -14,7 +14,7 @@ Einträge zu Konzepten dieses Bandes mit Seitenzahl (S. …); Verweise auf ander
 - _Kältegefahr erkennen (Unterkühlung)_ — Konzept 2.4, S. #refpage(<k-2-4>) · _Zittern hört auf = Umschlag_; siehe auch Schlaf (Wachenplan, erste Nacht); Brandwunde & Frostbeule
 - _Kleidung_ — siehe Kleidungssatz & Eigentum (Konzept 8.1, S. #refpage(<k-8-1>)); Faserkunde & Pflege (Textil) (Konzept 7.1, S. #refpage(<k-7-1>))
 - _Kleidungssatz & Eigentum_ — Konzept 8.1, S. #refpage(<k-8-1>) · _gelb: Notstand §§ 34/35 StGB siehe B10-5.2_; siehe auch Wettergrenzen improvisiert (Kleidung); Notstand (§§ 34/35 StGB)
-- _Kohlenmonoxid (CO)_ — B3-6.3 (warn-3); Konzept 6.3, S. #refpage(<k-6-3>); B9-2.1 · _W14: keine Verbrennung in geschlossenen Räumen; Zelt = geschlossener Raum; nie über Nacht im Schlafraum; mehrere Betroffene = Alarm_; siehe auch Ofenlose Not-Heizung (CO); Feuchtebilanz & Lüftung (Unterkunft); Schmiede-Feuer
+- _Kohlenmonoxid (CO)_ — B3-6.3 (warn-3); Konzept 6.3, S. #refpage(<k-6-3>); B9-2.1 · _keine Verbrennung in geschlossenen Räumen; Zelt = geschlossener Raum; nie über Nacht im Schlafraum; mehrere Betroffene = Alarm_; siehe auch Ofenlose Not-Heizung (CO); Feuchtebilanz & Lüftung (Unterkunft); Schmiede-Feuer
 - _Lager bei Dunkelheit (Restlicht-1-h)_ — Konzept 9.2, S. #refpage(<k-9-2>) · _Restlicht-1-h_; siehe auch Zeit ohne Uhr
 - _Lagerplatz_ — Konzept 1.2, S. #refpage(<k-1-2>) (Abb. 4.1) · _Kaltluftsee, Flutlinie 30 m, Lee_; siehe auch Zonenplan (Wasser & Latrine); Feuerplatz / Zonenplan (Feuer); Latrine
 - _Nachtwärme & Deckenbilanz_ — Konzept 6.2, S. #refpage(<k-6-2>); siehe auch Wärmepaket (Schichten); Schlaf (Wachenplan, erste Nacht)

@@ -25,22 +25,25 @@
   )
 }
 
-#let init-doc(band: 1, titel: "", body) = {
+#let init-doc(band: 1, titel: "", farbe: "#1a5fb4", tint: "#e8f0fa", body) = {
   set document(title: "Das Überlebenbuch — Band " + str(band) + ": " + titel, author: "Das Überlebenbuch")
   seite(band, titel)
+  let fc = rgb(farbe)   // Bandfarbe (Review v6 Farbregel, WCAG AA >= 4,5:1 gegen Weiss)
   set text(lang: "de", size: 10pt, font: "Libertinus Serif", hyphenate: true)
   set par(justify: true, leading: 0.58em, spacing: 0.72em)
   set list(spacing: 0.42em, indent: 1.2em)
   set enum(spacing: 0.42em, indent: 1.2em)
   set figure(numbering: none)
+  show figure: set block(breakable: false)   // Review v4: Bild + Caption unteilbar, nie innerhalb eines Box-Rahmens
+  show figure.caption: set block(above: 3pt)
   set table(stroke: 0.4pt + rgb("#8c8c8c"), inset: 2pt)
-  show heading.where(level: 1): it => block(above: 0pt, below: 0pt, text(size: 30pt, weight: "bold", fill: rgb("#1a1a1a"))[#it.body])
-  show heading.where(level: 2): it => block(above: 0pt, below: 10pt, text(size: 16pt, weight: "bold", fill: rgb("#1a1a1a"))[#it.body])
-  show heading.where(level: 3): it => block(above: 7pt, below: 4pt, text(size: 12pt, weight: "bold", fill: rgb("#1a1a1a"))[#it.body])
+  show heading.where(level: 1): it => block(above: 0pt, below: 0pt, text(size: 30pt, weight: "bold", fill: fc)[#it.body])
+  show heading.where(level: 2): it => block(above: 0pt, below: 10pt, text(size: 16pt, weight: "bold", fill: fc)[#it.body])
+  show heading.where(level: 3): it => block(above: 7pt, below: 4pt, text(size: 12pt, weight: "bold", fill: fc)[#it.body])
   body
 }
 
-#let titlepage(band, titel) = [
+#let titlepage(band, titel, farbe: "#1a5fb4") = [
   #align(center)[
     #v(3.2cm)
     #text(13pt, tracking: 2pt)[DAS ÜBERLEBENBUCH]
@@ -58,8 +61,8 @@
   ]
 ]
 
-#let baustein(body) = block(width: 100%, breakable: false, inset: (x: 8pt, y: 6pt), fill: rgb("#f0f0f0"),
-  stroke: (left: 3pt + rgb("#1a1a1a"), rest: 0.5pt + rgb("#8c8c8c")), above: 6pt, below: 6pt)[
+#let baustein(body) = block(width: 100%, breakable: false, inset: (x: 7pt, y: 5pt), fill: rgb("#eef4f8"),
+  stroke: (left: 3pt + rgb("#3f6f96"), rest: 0.5pt + rgb("#a9c3d6")), above: 9pt, below: 9pt)[
   #text(weight: "bold")[BAUSTEIN:] #body
 ]
 
@@ -81,25 +84,25 @@
   "warn-9b.svg": "Warngrafik warn-9b.svg: Leinöl-Lappen: Selbstentzündung – B9 7.3: nie zerknüllt wegwerfen.",
 )
 
-#let warnrahmen(id: none, title: [], body) = block(width: 100%, breakable: false, inset: (x: 8pt, y: 7pt),
-  fill: rgb("#f7eeee"), stroke: 1.6pt + rgb("#7a0000"), above: 8pt, below: 8pt)[
+#let warnrahmen(id: none, title: [], body) = block(width: 100%, breakable: false, inset: (x: 7pt, y: 6pt),
+  fill: rgb("#fdf1ea"), stroke: 1.6pt + rgb("#bd531a"), above: 9pt, below: 9pt)[
   #if id != none [
     #grid(columns: (40pt, 1fr), column-gutter: 8pt, align: horizon,
       image("../illustrationen/" + id + ".svg", width: 40pt, alt: warn-alts.at(id, default: "Warngrafik " + id)),
-      [#text(weight: "bold", fill: rgb("#7a0000"))[WARNUNG #if title != [] [— #title]] #body])
+      [#text(weight: "bold", fill: rgb("#8a3a10"))[WARNUNG #if title != [] [— #title]] #body])
   ] else [
-    #text(weight: "bold", fill: rgb("#7a0000"))[WARNUNG #if title != [] [— #title]] #body
+    #text(weight: "bold", fill: rgb("#8a3a10"))[WARNUNG #if title != [] [— #title]] #body
   ]
 ]
 
-#let kasten(title, body) = block(width: 100%, breakable: false, inset: (x: 8pt, y: 6pt), fill: rgb("#f0f0f0"), stroke: 0.5pt + rgb("#8c8c8c"), above: 6pt, below: 6pt)[
+#let kasten(title, body) = block(width: 100%, breakable: false, inset: (x: 7pt, y: 5pt), fill: rgb("#eef4f8"), stroke: (left: 3pt + rgb("#3f6f96"), rest: 0.5pt + rgb("#a9c3d6")), above: 9pt, below: 9pt)[
   #text(weight: "bold")[#title] #body
 ]
 
 #let devise(body) = block(width: 100%, breakable: false, inset: 8pt, stroke: 0.9pt + rgb("#1a1a1a"), above: 10pt, below: 10pt,
   align(center)[#text(size: 12.5pt, style: "italic")[#body]])
 
-#let konzmeta(fill: rgb("#1a6b1a"), body) = block(width: 100%, breakable: false, inset: (x: 6pt, y: 4pt), fill: rgb("#efefef"), stroke: 0.5pt + rgb("#bfbfbf"), above: 2pt, below: 7pt)[
+#let konzmeta(fill: rgb("#1a6b1a"), body) = block(width: 100%, breakable: false, inset: (x: 6pt, y: 4pt), fill: rgb("#efefef"), stroke: 0.5pt + rgb("#bfbfbf"), above: 2pt, below: 8pt)[
   #text(size: 9.5pt, fill: fill)[#body]
 ]
 
