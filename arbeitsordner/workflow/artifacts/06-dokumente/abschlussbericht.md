@@ -133,6 +133,12 @@ Seitenzahlen nach Review v1 (Ist, PDF/A-2b): 446 / 362 / 342 / 329 / 317 / 310 /
 - T6-2: proof-bericht.md Turn-7-Zahl 479 -> 475 korrigiert (alle 479-Vorkommen).
 - Rebuild: alle 10 Baende neu kompiliert (PDF/A-2b, fehlerfrei): 446 / 362 / 342 / 329 / 317 / 310 / 320 / 325 / 320 / 305 = Σ 3376 S.; alle >= 300 S./Band. prepress.sh inkl. Pass-D-proof neu gelaufen. ZIP aktualisiert.
 
+## 17. Turn 12 — visual-qa Turn 3: inline-Checkliste B4 + SVG-Fix-Baende
+
+- Befund 1: B4 S. 170 enthielt noch eine inline-Checkliste „Checkliste (Kopiervorlage Anhang A)“ (Konzept 5.3). Generatorseitig durch CL-Zeiger ersetzt: „siehe CL-B4-13, Anhang S. #refpage(<cl-b4-13>)“ (CL-B4-13 = bestehende Checkliste zu 5.3 im Anhang D; Kopiervorlage bleibt Anhang A). Checklisten stehen damit nur noch im Anhang.
+- Befund 2: nach dem SVG-Fix des Illustrators Baende 5/6/8 (und alle uebrigen zur Konsistenz) neu kompiliert (PDF/A-2b, fehlerfrei): 446 / 362 / 342 / 329 / 317 / 310 / 320 / 325 / 320 / 305 = Σ 3376 S.; alle >= 300 S./Band. prepress.sh fuer alle 10 Baende neu gelaufen (inkl. Pass-D-proof).
+- Meta-Scan gesamt: 0 — .typ + Register + alle 189 SVGs (SME/Fachlektorat/fachlektorisch in SVGs: 0; W/L/BL-IDs, WARN n, Review vN, Artefakt-.md, LÜCKE/ROHWERT: 0).
+
 ## 7. Annahmen (dokumentiert, keine Rueckfragen laut WORKFLOW.md)
 
 1. Register: pro Band Auszug mit eigenen Seitenzahlen; Gesamtregister in Band 10 (Schlussband der Reihe).

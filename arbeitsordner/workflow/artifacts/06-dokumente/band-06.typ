@@ -1644,7 +1644,7 @@ _Erklärung:_
 )
 === 4.1 Jagdbogen <k-4-1>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb (Expertenprüfung: rechtlich unzulässig als Jagdwaffe)_ · P 6 · M unbedenklich · V 7 · Abb. 6.4]
-#align(center)[#block(width: 10.5cm)[#figure(image("illustrationen/abb-6-4.svg", width: 100%), caption: [Abb. 6.4 — Jagdbogen: sicherer Bereich 10–20 m – in DE/AT/CH nur Übungsgerät, jagdrechtlich unzulässig (Konzept 4.1, Expertenprüfung).])]]
+#align(center)[#block(width: 10.5cm)[#figure(image("illustrationen/abb-6-4.svg", width: 100%), caption: [Abb. 6.4 — Jagdbogen: sicherer Bereich 10–20 m – in DE/AT/CH nur Übungsgerät, jagdrechtlich unzulässig (Konzept 4.1, rechtlich geprüft).])]]
 #kasten([Rechtlicher Hinweis (Pflicht):])[_Bogenjagd ist in DE/AT/CH jagdrechtlich unzulässig_ — nur Schusswaffen sind Jagdwaffen. Der Bogen ist hier _reines Übungsgerät_.]
 + Nur als Übungsgerät führen; nie zur Jagd einsetzen.
 + Sicherheitsabstand _10–20 m_; nie auf Personen richten.

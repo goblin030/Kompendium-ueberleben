@@ -1,10 +1,8 @@
 # Illustrationen – Übersicht (Agent illustrator)
 
-Selbstenthaltene, deutsch beschriftete SVG-Abbildungen für „Das Überlebenbuch“ (10 Bände).
-Einheitlicher Stil: Graustufen-Palette (Tinte #1a1a1a, Graustufen #4d4d4d/#8c8c8c/#bfbfbf, Füllungen #f4f4f4–#7a7a7a), Schrift `sans-serif`, Strich 1–3 pt, `viewBox` statt Pixelmaßen.
-Jede Grafik trägt oben links ihre Nummer (Abb. N.M bzw. warn-N) und unten die Unterschrift; dazu `<title>`/aria-label.
-Graustufentauglich per Konstruktion (Muster/Linienstil/Text statt Farbe). Selbstenthalten: keine externen Referenzen, nur interne `url(#…)`-defs.
-**Meta-Leak-Regel (Re-Review Turn 3, T3-1):** In sichtbaren Texten (text/title/aria-label) stehen nur fachliche Beschriftungen — keine internen Prüf-IDs (W-…), Gate-/ROT-Referenzen, Artefakt-Pfade oder „09 §…“-Verweise. W-IDs gehören ausschließlich ins Prüfprotokoll (doc-builder). Sanitizer läuft bei jeder Erzeugung im Generator (prelude clean()).
+Selbstenthaltene, deutsch beschriftete SVG-Abbildungen für „Das Überlebenbuch“ (10 Bände). Einheitlicher Graustufen-Stil (Tinte #1a1a1a, Graustufen #4d4d4d/#8c8c8c/#bfbfbf, Füllungen #f4f4f4–#7a7a7a), Schrift `sans-serif`, Strich 1–3 pt, `viewBox` statt Pixelmaßen.
+Jede Grafik trägt oben links ihre Nummer (Abb. N.M bzw. warn-N) und unten die Unterschrift; dazu `<title>`/aria-label. Graustufentauglich per Konstruktion; selbstenthalten (keine externen Referenzen, nur interne `url(#…)`-defs).
+**Meta-Leak-Regel (Re-Review Turn 3/Turn 5):** In sichtbaren Texten (text/title/aria-label) stehen nur fachliche Beschriftungen — keine internen Prüf-IDs (W-…), Gate-/ROT-Referenzen, Artefakt-Pfade, „09 §…“-Verweise und keine Rollen-Namen (Fachlektorat/SME/Legal/…); stattdessen neutrale Formulierungen („fachlich geprüft“, „rechtlich geprüft“). W-IDs gehören ausschließlich ins Prüfprotokoll (doc-builder). Sanitizer läuft bei jeder Erzeugung im Generator (prelude clean()).
 
 Nummerierung: `abb-<Band>-<Nr>.svg` ↔ „Abb. <Band>.<Nr>“. Abb. bis Plan-Max je Band gemäß `artifacts/03-planung.md` §2/§7.3; Nummern ab Plan-Max+1 sind situative Detail-Skizzen aus Review v1.
 
@@ -129,7 +127,7 @@ Nummerierung: `abb-<Band>-<Nr>.svg` ↔ „Abb. <Band>.<Nr>“. Abb. bis Plan-Ma
 | Abb. 5.3 | `abb-5-3.svg` | Das sichere Dutzend: 12 Arten, die ohne Spezialwerkzeug bestimmbar sind (Konzept 3.1). |
 | Abb. 5.4 | `abb-5-4.svg` | Grabstock-Kunde: Drei-Stimmen-Regel, Hebel statt Reißen (Konzept 4.1). |
 | Abb. 5.5 | `abb-5-5.svg` | Nüsse läutern: Eicheln/Kastanien – Schalen auf, Wasser 3–10 Tage wechseln (Konzept 5.2, Buchecker = Fagin). |
-| Abb. 5.6 | `abb-5-6.svg` | Fünf Haus-Pflanzen – mit Grenzen: Beinwell nur äußerlich auf intakter Haut, Weidenrinde nicht unter 16 J (Konzept 6.1, fachlektorische Korrektur). |
+| Abb. 5.6 | `abb-5-6.svg` | Fünf Haus-Pflanzen – mit Grenzen: Beinwell nur äußerlich auf intakter Haut, Weidenrinde nicht unter 16 J (Konzept 6.1, fachlich geprüft). |
 | Abb. 5.7 | `abb-5-7.svg` | Faseraufschluss (Röste): Tau 1–5 Wochen oder Wasser 3–10 Tage – dann lösen sich die Fasern (Konzept 7.1). |
 | Abb. 5.8 | `abb-5-8.svg` | Dachdeck-Material: Ried, Stroh, Binse – gebündelt, mind. 45° Neigung (Konzept 8.1, konsistent B4 5.1). |
 | Abb. 5.9 | `abb-5-9.svg` | Saatgut-Keimprobe: 50 Körner auf feuchtem Tuch, 7–14 Tage, zählen (Konzept 8.3). |
@@ -146,7 +144,7 @@ Nummerierung: `abb-<Band>-<Nr>.svg` ↔ „Abb. <Band>.<Nr>“. Abb. bis Plan-Ma
 | Abb. 6.1 | `abb-6-1.svg` | Trittsiegel & Gangbilder: Fuchs, Hund, Reh, Hase unterscheiden (Konzept 2.1). |
 | Abb. 6.2 | `abb-6-2.svg` | Bauten, Lager & Wechsel: Fuchsbau, Dachsbau, Wildschweinlager, Reh-Lager (Konzept 2.3). |
 | Abb. 6.3 | `abb-6-3.svg` | Der Ansitz: Wind von hinten, volle Sicht, ruhiger Abzug (Konzept 3.1). |
-| Abb. 6.4 | `abb-6-4.svg` | Jagdbogen: sicherer Bereich 10–20 m – in DE/AT/CH nur Übungsgerät, jagdrechtlich unzulässig (Konzept 4.1, Fachlektorat). |
+| Abb. 6.4 | `abb-6-4.svg` | Jagdbogen: sicherer Bereich 10–20 m – in DE/AT/CH nur Übungsgerät, jagdrechtlich unzulässig (Konzept 4.1, rechtlich geprüft). |
 | Abb. 6.5 | `abb-6-5.svg` | Kastenfalle (Ersatz für 5.1): amtlich zugelassene Lebendfang-Falle, tägliche Kontrolle, nie an Menschenpfaden (Konzept 5.1a). |
 | Abb. 6.6 | `abb-6-6.svg` | Angel: Schnur, Haken, Pose – Knoten vor jedem Einsatz prüfen (Konzept 6.1, konsistent B1 6.3, B9 5.2). |
 | Abb. 6.7 | `abb-6-7.svg` | Netz: nie als Mauer ohne Öffnung – Maschenweite & Markierung je Bundesland, Genehmigung prüfen (Konzept 7.1, gelb). |
@@ -192,7 +190,7 @@ Nummerierung: `abb-<Band>-<Nr>.svg` ↔ „Abb. <Band>.<Nr>“. Abb. bis Plan-Ma
 | Abb. 8.9 | `abb-8-9.svg` | Atem & Atemnot: 12–20 Atemzüge/min normal – blaue Lippen = sofort handeln (Konzept 4.3). |
 | Abb. 8.10 | `abb-8-10.svg` | Der vergiftete Leib: generell KEIN induziertes Erbrechen – Giftnotruf anrufen, Reste sichern (Konzept 5.2). |
 | Abb. 8.11 | `abb-8-11.svg` | Brandwunde & Frostbeule: 10–20 min kühles fließendes Wasser – nie Fett, nie Eis (Konzept 7.1,: 55 °C-Grenze). |
-| Abb. 8.12 | `abb-8-12.svg` | Schmerz-Küche: Weidenrinde (Salicyl) – nicht unter 16 Jahren (Reye-Syndrom) (Konzept 7.3, fachlektorische Korrektur). |
+| Abb. 8.12 | `abb-8-12.svg` | Schmerz-Küche: Weidenrinde (Salicyl) – nicht unter 16 Jahren (Reye-Syndrom) (Konzept 7.3, fachlich geprüft). |
 | Abb. 8.13 | `abb-8-13.svg` | Sanitätsmappe: < 3 kg, Inventar geführt – Antibiotika nur bei klarer bakterieller Indikation, volle Kursdauer (Konzept 8.1). |
 | Abb. 8.14 | `abb-8-14.svg` | Wundversorgung situativ: saubere Schnittwunde vs. Risikowunde – Naht ja/nein, Tetanus-Regeln (Ergänzung zu Abb. 8.3, warn-8a). *(situativ, Review v1)* |
 | Abb. 8.15 | `abb-8-15.svg` | Fieber-Verläufe situativ: drei Kurven mit Maßnahme je Verlauf (Ergänzung zu Abb. 8.7). *(situativ, Review v1)* |
@@ -232,7 +230,7 @@ Nummerierung: `abb-<Band>-<Nr>.svg` ↔ „Abb. <Band>.<Nr>“. Abb. bis Plan-Ma
 | Abb. 10.10 | `abb-10-10.svg` | Tausch situativ: Markt mit Frist / Not-Tausch / Wucher-Grenze – drei Situationen (Ergänzung zu Abb. 10.1/10.2). *(situativ, Review v1)* |
 | Abb. 10.11 | `abb-10-11.svg` | Dorf-Zonenplan situativ: Quelle oben, Wohnen, Zeughaus mit Brand-Abständen, Feuerstelle, Latrine hangabwärts (Ergänzung zu Abb. 2.1/3.1/10.6). *(situativ, Review v1)* |
 
-## Warngrafiken – 15 Dateien (Warnrahmen-Pflicht, 03-planung §7.2)
+## Warngrafiken – 15 Dateien (03-planung §7.2)
 
 | Datei | Thema | Unterschrift (so im Bild) |
 |---|---|---|
@@ -254,23 +252,26 @@ Nummerierung: `abb-<Band>-<Nr>.svg` ↔ „Abb. <Band>.<Nr>“. Abb. bis Plan-Ma
 
 ## Bestand
 
-- Abbildungen gesamt: **174** (142 geplant nach 03-planung §7.3 + 32 situative Ergänzungen aus Review v1)
-- Warngrafiken: **15** (15, unverändert)
+- Abbildungen gesamt: **174** (142 geplant + 32 situative Review v1)
+- Warngrafiken: **15**
 - Pro Band: B1 34, B2 19, B3 23, B4 16, B5 14, B6 13, B7 15, B8 16, B9 13, B10 11
 
 ## Änderungen
 
+### 2026-11-07 – Turn 5 / visual-qa Turn 3 (Rollen-Namen in SVG-Texten)
+
+Rollen-Namen („Fachlektorat“, „fachlektorische Korrektur“, „SME“, „Legal“) aus abb-5-6, abb-6-4, abb-6-7, abb-8-12, warn-6c entfernt und neutral formuliert („fachlich geprüft“, „rechtlich geprüft“; Provenienz-Sätze gestrichen). Sanitizer um alle Agent-Rollen-Namen erweitert (Sicherheitsnetz bei jeder Erzeugung). Alle 189 SVGs neu erzeugt. Re-Validierung: 189/189 wohlgeformt, 0 Rollen-Namen, 0 Meta-Tokens, 0 undefined/NaN, Attribute gültig, Nummerierung lückenlos.
+
 ### 2026-11-07 – Re-Review Turn 3, Befund T3-1 (Meta-Tokens in SVG-Texten)
 
-Sanitizer im Generator ergänzt und **alle 189 SVGs neu erzeugt**: interne Tokens (ROT-…, Gate G-…, W-IDs, „09 §…/09 Nr.…/02 §…“, WARN-IDs, SME, Artefakt-Pfade/.md-Referenzen, Phase-/Turn-/Agent-Namen) werden aus `<text>`, `<title>` und `aria-label` entfernt bzw. fachlich ersetzt (z. B. „SME-Korrektur“ → „fachlektorische Korrektur“, „WARN 2“ → „Warnung“); Klammer-/Interpunktionsreste werden aufgeräumt. W-IDs stehen damit nur noch im Prüfprotokoll (doc-builder), nicht in Grafiken.
-Re-Validierung: 189/189 wohlgeformtes XML, 0 Meta-Tokens im sichtbaren Text, 0 kosmetische Reste, Attribute gültig, Nummerierung lückenlos, selbstenthalten.
+Sanitizer ergänzt, alle 189 SVGs neu erzeugt: ROT-/Gate-/W-IDs, „09 §…/Nr.…/02 §…“, WARN-IDs, SME, Artefakt-Pfade, Phase-/Turn-/Agent-Namen aus text/title/aria-label entfernt bzw. fachlich ersetzt; Klammer-/Interpunktionsreste aufgeräumt. 0 Meta-Tokens im sichtbaren Text.
 
-### 2026-11-07 – Review v1 (Befund 3: zu wenig situative Skizzen)
+### 2026-11-07 – Review v1 (Befund 3: situative Skizzen)
 
-32 situative Detail-Skizzen ergänzt (Varianten + Maße + Situationskontext), Nummerierung ab Plan-Max+1 je Band: B1 1.32–1.34, B2 2.17–2.19, B3 3.19–3.23 (Feuer-Varianten: Sternfeuer, Tipi/Pyramide, Jägerfeuer, Banked Fire + Situationsmatrix), B4 4.14–4.16, B5 5.12–5.14, B6 6.11–6.13, B7 7.13–7.15, B8 8.14–8.16, B9 9.11–9.13, B10 10.9–10.11.
+32 situative Detail-Skizzen ab Plan-Max+1 je Band (B1 1.32–1.34 … B10 10.9–10.11), inkl. Band-3-Feuer-Varianten (Sternfeuer, Tipi/Pyramide, Jägerfeuer, Banked Fire + Situationsmatrix).
 
-### 2026-11-06 – Phase-J-Nachbesserung nach `05-format-review.md` Turn 1 (F2 major, F3 minor)
+### 2026-11-06 – Phase-J-Nachbesserung Turn 1 (F2 major, F3 minor)
 
-Generator-Ursachen gefixt und alle SVGs neu erzeugt: abb-9-10 „undefined/NaN“ (falsch geklammertes Array), `fill="2"`/`stroke-width="url(#…)"` in abb-4-5/6-2/7-4 (vertauschte Argumente), `stroke-width="0"` (25 Dateien) → `stroke="none"`.
+Generator-Ursachen gefixt, alle SVGs neu erzeugt: abb-9-10 „undefined/NaN“, `fill="2"`/`stroke-width="url(#…)"` in abb-4-5/6-2/7-4, `stroke-width="0"` → `stroke="none"`.
 
-Erzeugt 2026-11-06 durch Agent `illustrator` (Phase E); Nachbesserungen Phase J (2026-11-06), Review v1 + Re-Review Turn 3 (2026-11-07).
+Erzeugt 2026-11-06 (Phase E); Nachbesserungen 2026-11-06/07 (Phase J, Review v1, Re-Review Turn 3, Turn 5).

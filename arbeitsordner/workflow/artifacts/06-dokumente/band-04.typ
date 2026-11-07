@@ -2448,7 +2448,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 === 5.3 Hüttendiagnose (sechs Schwachstellen) <k-5-3>
 #konzmeta(fill: rgb("#1a6b1a"))[grün · P 8 · M unbedenklich · V 9]
-Checkliste (Kopiervorlage Anhang A): Dach dicht? Sockel trocken? Ringgraben frei? Zugloch verstopft? Schlafplattform trocken? Eingang wetterfest?
+_Checkliste (Kopiervorlage Anhang A):_ siehe CL-B4-13, Anhang S. #refpage(<cl-b4-13>) (Checklisten-Anhang am Bandende); Kopiervorlage siehe Anhang A.
 + Sechs Schwachstellen wöchentlich prüfen.
 + _Wartung = fortgesetzte Abnahme_ — Mängel sofort beheben.
 _Checkliste:_ siehe CL-B4-13, Anhang S. #refpage(<cl-b4-13>) (Checklisten-Anhang am Bandende) — „5.3 Hüttendiagnose (sechs Schwachstellen)“.

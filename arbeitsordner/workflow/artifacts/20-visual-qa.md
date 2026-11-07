@@ -150,3 +150,42 @@ Die visuelle Kernfrage des Gates (Review-v4-Befund 1, Box/Caption-Kollision) ist
 
 ---
 *Nachtrag Turn 2 durch Agent `visual-qa`, Phase J, 2026-11-07. Log: `logs/workflow.log` (agent=visual-qa, Events init/output/phase_end zum Re-Run).*
+
+---
+
+# Nachtrag — Re-Run Turn 3 (2026-11-07, ~18:50 MEZ, nach doc-builder Turn 11 / Review v5 Checklisten-Umbau)
+
+**Anlass:** doc-builder Turn 11: Checklisten-Umbau (nur noch Anhang D/E, CL-Kennziffern CL-Bn-NN + Querverweise mit Seitenzahl), T6-1 Rollen-Namen neutralisieren. **Input neu:** `band-01..10.pdf` = 446/362/342/329/317/310/320/325/320/305 = **3.376 S.** (Turn 2: 3.589 S.). **Methode identisch** (alle Seiten 150 dpi gerendert, qdf + Content-Stream-Parser, pdftotext -bbox, PGM-Pixel, Meta-Scan erweitert um SME/Fachlektor/Lektor; CL, warn-N, B<Band>-X.Y gelten als Kennziffern und sind kein Leak).
+
+## Ergebnis Turn 3 pro Band
+
+| Band | Seiten | Abb. | Captions | Paare | Lücke (pt) | Kollisionen | < 65 % Satzspiegel | nahezu leer | Meta-Scan | Checklisten im Kapitel | Ampel |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 01 | 446 | 34 | 32 | 32 | 4,6/4,6/4,6 | **0** | 370 (83 %) | 86 (19,3 %) | 0 | nur Zeiger (50) | **gelb** |
+| 02 | 362 | 19 | 18 | 18 | 4,6/4,6/4,6 | **0** | 309 (85 %) | 63 (17,4 %) | 0 | nur Zeiger (31) | **gelb** |
+| 03 | 342 | 23 | 20 | 20 | 4,6/4,6/4,6 | **0** | 290 (85 %) | 57 (16,7 %) | 0 | nur Zeiger (45) | **gelb** |
+| 04 | 329 | 16 | 15 | 15 | 4,6/4,6/4,6 | **0** | 282 (86 %) | 66 (20,1 %) | 0 | Zeiger (41) + **1 inline Kopiervorlage S. 170** | **gelb** |
+| 05 | 317 | 14 | 14 | 14 | 4,6/4,6/4,6 | **0** | 273 (86 %) | 58 (18,3 %) | **1× „fachlektorische Korrektur“ (S. 175, Abb. 5.6)** | nur Zeiger (39) | **rot** |
+| 06 | 310 | 13 | 13 | 13 | 4,6/4,6/4,6 | **0** | 266 (86 %) | 47 (15,2 %) | **3× „Fachlektorat“ (S. 110, 206; Abb. 6.4/6.7)** | nur Zeiger (37) | **rot** |
+| 07 | 320 | 15 | 15 | 15 | 4,6/4,6/4,6 | **0** | 275 (86 %) | 57 (17,8 %) | 0 | nur Zeiger (32) | **gelb** |
+| 08 | 325 | 16 | 15 | 15 | 4,6/4,6/4,6 | **0** | 276 (85 %) | 59 (18,2 %) | **1× „fachlektorische …“ (S. 252, Abb. 8.12)** | nur Zeiger (37) | **rot** |
+| 09 | 320 | 13 | 12 | 12 | 4,6/4,6/4,6 | **0** | 279 (87 %) | 67 (20,9 %) | 0 | nur Zeiger (35) | **gelb** |
+| 10 | 305 | 11 | 11 | 11 | 4,6/4,6/4,6 | **0** | 254 (83 %) | 51 (16,7 %) | 0 | nur Zeiger (31) | **gelb** |
+| **Σ** | **3.376** | **174** | **165** | **163** | 4,6/4,6/4,6 | **0** | **2.874 (85,1 %)** | **611 (18,1 %)** | **5 Treffer / 3 Bände** | 0 volle Checklisten | **rot ×3, gelb ×7** |
+
+## Vergleich Turn 2 → Turn 3
+
+| Kriterium | Turn 2 | Turn 3 |
+|---|---|---|
+| (1) Kollisionen Box/Caption/Bild/Text | 0 | **0** (3.376/3.376 S.; Koord.-Check + Pixel-Crosscheck: 165 Captions, 0 von Rahmen durchzogen, 0 Rahmen-Pixel-Anomalien, 0 nicht-weiße Bild-Caption-Lücken) — gehalten |
+| (2) Meta-Scan (inkl. SME/Fachlektor; CL/warn-N/B<Band>-X.Y = Kennziffern OK) | 0 | **5 Treffer „Fachlektorat/fachlektorisch“ in B5 S. 175, B6 S. 110+206, B8 S. 252** — Quelle: 4 SVGs (`illustrationen/abb-5-6.svg`, `abb-6-4.svg`, `abb-6-7.svg`, `abb-8-12.svg`: sichtbarer `<text>` + `<title>`/`aria-label`); SME 0, W/L/BL-IDs 0, ROT/Gate/Phase/WARN n/Agent-Namen/Artefakt-Pfade/Review vN/Befund N/Turn N/Prüfprotokoll alles 0 |
+| (3) Checklisten nur in Anhang D/E | (Turn 2: im Kapitel) | **223 CL-Labels (CL-Bn-NN) definiert im Anhang D, CL-Refs im Kapitel = CL-Defs pro Band (26/25/24/23/24/20/19/21/20/21), 0 unaufgelöst**; Zeiger „Checkliste: siehe CL-Bn-NN, Anhang S. …“ mit Seitenzahl (stichprobenhaft 24/24 in B1 verifiziert); **0 volle Checklisten-Überschriften im Kapitel**, Ausnahme: 1 inline „Checkliste (Kopiervorlage Anhang A)“ in B4 S. 170 (minor); inline Kontroll-Checkboxen (• [ ] Kontrolle/Übung, 122–322 Zeilen/Band) verbleiben in den Konzeptblöcken (Info, keine Checkliste i. S. v. Review v5) |
+| (4) Leerraum | < 65 %: 86,9 %; nahezu leer 16,8 % | < 65 %: **85,1 %**; nahezu leer **18,1 %** (leicht gestiegen, da Checklisten in den Anhang ausgelagert wurden und Kapitelseiten dadurch leerer werden) — weiterhin minor |
+| (5) Ampel | gelb ×10 | **rot ×3 (05, 06, 08 — Fachlektorat-Leak), gelb ×7** |
+
+## Gesamturteil Turn 3: **NACHBESSERN** (kein Blocker, aber 3 Bände rot)
+
+Kollisionen weiterhin 0, Caption-Abstände weiterhin 4,6 pt, CL-Umbau vollständig und referenz-sicher (223/223 CL-Labels aufgelöst, Checklisten nur noch im Anhang D mit seitenzahl-genauen Zeigern). **Offen:** Meta-Kriterium (2) ist in B5/B6/B8 verletzt — interne Rollenbezeichnung „Fachlektorat“/„fachlektorische Korrektur“ ist in 4 SVGs (`abb-5-6.svg`, `abb-6-4.svg`, `abb-6-7.svg`, `abb-8-12.svg`, jeweils sichtbarer Text + title/aria-label) und damit gerendert in B5 S. 175, B6 S. 110/206, B8 S. 252 sichtbar. **Korrektur (illustrator + doc-builder):** in den 4 SVGs „Fachlektorat“/„fachlektorische Korrektur übernommen“ durch neutrale Formulierungen ersetzen (z. B. „fachlich geprüft:“, „rechtliche Prüfung:“, „Grenzen sind Bestandteil der Abbildung“ ohne Provenienz-Satz), SVGs neu validieren, Bände 5/6/8 neu kompilieren, dann visual-qa Re-Run. Band-04 S. 170: inline-Kopiervorlage „Checkliste (Kopiervorlage Anhang A)“ konsistent durch CL-Zeiger ersetzen (minor). Leerraum bleibt minor (85,1 % < 65 %; nahezu leer 18,1 %).
+
+---
+*Nachtrag Turn 3 durch Agent `visual-qa`, Phase J, 2026-11-07. Log: `logs/workflow.log` (agent=visual-qa).*

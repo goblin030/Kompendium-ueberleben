@@ -3677,7 +3677,7 @@ Kopiervorlage: Datum, Anlass (Übung oder Einsatz), Ergebnis, Unterschrift. Abla
 )
 === 7.3 Schmerz-Küche <k-7-3>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb (Expertenprüfung: nicht \< 16 J)_ · P 6 · M unbedenklich · V 7 · Abb. 8.12]
-#align(center)[#block(width: 10.5cm)[#figure(image("illustrationen/abb-8-12.svg", width: 100%), caption: [Abb. 8.12 — Schmerz-Küche: Weidenrinde (Salicyl) – nicht unter 16 Jahren (Reye-Syndrom) (Konzept 7.3, fachliche Korrektur).])]]
+#align(center)[#block(width: 10.5cm)[#figure(image("illustrationen/abb-8-12.svg", width: 100%), caption: [Abb. 8.12 — Schmerz-Küche: Weidenrinde (Salicyl) – nicht unter 16 Jahren (Reye-Syndrom) (Konzept 7.3, fachlich geprüft).])]]
 #kasten([Expertenprüfung-Korrektur :])[_Weidenrinde (Salicylate) nicht bei Kindern/Jugendlichen \< 16 Jahre_ — Reye-Syndrom (wie ASS). Dosierung beibehalten.]
 #table(
   columns: 3,

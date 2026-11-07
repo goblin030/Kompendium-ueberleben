@@ -2552,7 +2552,7 @@ _Erklärung:_
 )
 === 6.1 Die fünf Haus-Pflanzen <k-6-1>
 #konzmeta(fill: rgb("#8a6d00"))[_gelb (Expertenprüfung)_ · P 7 · M unbedenklich · V 8 · Abb. 5.6]
-#align(center)[#block(width: 10.5cm)[#figure(image("illustrationen/abb-5-6.svg", width: 100%), caption: [Abb. 5.6 — Fünf Haus-Pflanzen – mit Grenzen: Beinwell nur äußerlich auf intakter Haut, Weidenrinde nicht unter 16 J (Konzept 6.1, fachliche Korrektur).])]]
+#align(center)[#block(width: 10.5cm)[#figure(image("illustrationen/abb-5-6.svg", width: 100%), caption: [Abb. 5.6 — Fünf Haus-Pflanzen – mit Grenzen: Beinwell nur äußerlich auf intakter Haut, Weidenrinde nicht unter 16 J (Konzept 6.1, fachlich geprüft).])]]
 Wegerich, Nessel, Kamille, Beinwell, Weidenrinde — mit Grenzen:
 #kasten([Expertenprüfung-Korrektur :])[_Beinwell nur äußerlich auf intakter Haut_ — innerlich obsolet (Pyrrolizidinalkaloide, hepatotoxisch, EMA/HMPC). _Weidenrinde nicht bei Kindern/Jugendlichen \< 16 J_ (Reye-Syndrom, siehe Konzept B8-7.3).]
 #table(
