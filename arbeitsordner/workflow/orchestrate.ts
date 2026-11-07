@@ -30,6 +30,7 @@ const PHASES: AgentSpec[][] = [
     { name: 'project-manager', prompt: '<INHALT agents/09-project-manager.md>' },
     { name: 'tool-analyst', prompt: '<INHALT agents/01-tool-analyst.md>' },
     { name: 'researcher', prompt: '<INHALT agents/02-researcher.md>' },
+    { name: 'archivar', prompt: '<INHALT agents/21-archivar.md>' },
   ],
   [ // B
     { name: 'fact-checker', prompt: '<INHALT agents/03-fact-checker.md>', dependsOn: ['artifacts/01-recherche.md'] },

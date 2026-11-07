@@ -20,7 +20,11 @@ Phase A (parallel):   project-manager ─┐
 
 | Phase | Agents | Input-Artefakte | Output-Artefakte |
 |---|---|---|---|
-| A (parallel) | project-manager, tool-analyst, researcher | README, chat-export/ | `08-projektplan.md`, `00-tool-analyse.md`, `01-recherche.md` |
+| A (parallel) | project-manager, tool-analyst, researcher, **archivar** | README, chat-export/, logs/workflow.log, git log | `08-projektplan.md`, `00-tool-analyse.md`, `01-recherche.md`, `archiv/KATALOG.md` + `CHRONIK.md` + `BACKLOG.md` |
+
+Der **archivar** (Agent 21) ist das Gedächtnis des Projekts: Katalog aller Artefakte/Review-Stände,
+Chronik der Entscheidungen (aus dem Log), Backlog offener Punkte. Aktualisiert nach jeder Phase
+und jedem Owner-Review (phase_end / review_feedback).
 | B | fact-checker | `01-recherche.md` | `02-factcheck.md` |
 | C | fachlektor (SME-Review pro Themenfeld) | `02-factcheck.md` | `09-fachlektor.md` |
 | D | planner | `02-factcheck.md`, `09-fachlektor.md`, `00-tool-analyse.md` | `03-planung.md` |
@@ -66,6 +70,8 @@ zweiter Kanal — Graustufen-/S/W-Druck muss voll lesbar bleiben, prepress-proof
 | 17 | publisher | `agents/17-publisher.md` | ISBN, ONIX-Metadaten, Plattform-Uploads, Preise |
 | 18 | marketing | `agents/18-marketing.md` | Launch-Plan, Leseprobe, Kampagne |
 | 19 | accessibility | `agents/19-accessibility.md` | EAA: getaggte PDF/EPUB, ONIX-Barrierefreiheits-Metadaten |
+| 20 | visual-qa | `agents/20-visual-qa.md` | Gate: rendert Seiten, prüft Kollisionen/Leerraum/Kontrast/Meta |
+| 21 | archivar | `agents/21-archivar.md` | Projekt-Gedächtnis: KATALOG.md, CHRONIK.md, BACKLOG.md |
 
 ## Konventionen
 
