@@ -229,7 +229,7 @@ Stil seit Turn 6 (Review v6): semantische Palette (Wasser #6b97bd (seit Turn 8 a
 
 ## Artikel-Abbildungen v2 – Enzyklopädie (Turn 7 / Phase F2, 19 Artikel mit Abb.-TODO)
 
-Dateien `art-NNNN-abb-M.svg` passend zu den ART-IDs aus `artifacts/23-artikel/band-*/ART-*.md` (Abb.-TODO Phase F2); Kopf im Bild: „ART-NNNN · Abb. M“. 29 SVGs:
+Dateien `art-NNNN-abb-M.svg` passend zu den ART-IDs aus `artifacts/23-artikel/band-*/ART-*.md`; Kopf im Bild: „ART-NNNN · Abb. M“. Turn 7: 29 SVGs (19 Artikel mit Abb.-TODO, unten gelistet). Turn 10 (Illustrations-Offensive): alle 314 Artikel bebildert, 645 art-SVGs gesamt (616 neu). Statistik: 297 Artikel × 2 Abb., 17 × 3 Abb. (WARNPFLICHT/lange Artikel), 0 ohne Abb., 0 Orphans. Pro Band (art-SVGs): B01: 86, B02: 64, B03: 66, B04: 60, B05: 57, B06: 56, B07: 66, B08: 64, B09: 56, B10: 70. Turn-7-Dateien (Auszug, vollständig siehe unten):
 
 | Datei | Artikel | Unterschrift (so im Bild) |
 |---|---|---|
@@ -295,11 +295,14 @@ Neue warn-Grafiken für WARNPFLICHT-Artikel (Turn 7; bestehende warn-N.svg bleib
 | `warn-art-0255.svg` | ART-0255 | Lastendes Seil prüfen (ART-0255) |
 
 ## Bestand
-- Abb. Kompendium: **174** (142 Plan + 32 situativ) · Artikel-Abb.: **29** (19 Artikel)
-- Warngrafiken: **21** (15 warn-N + 6 warn-art-NNNN)
-- SVGs gesamt: **224** · pro Band: B1 34, B2 19, B3 23, B4 16, B5 14, B6 13, B7 15, B8 16, B9 13, B10 11
+- Abb. Kompendium: **174** (142 Plan + 32 situativ) · Artikel-Abb.: **645** (314 Artikel: 297×2 + 17×3, Ø 2,05) 
+- Warngrafiken: **21** (15 warn-N + 6 warn-art-NNNN) 
+- SVGs gesamt: **840** · Dateien im Ordner: 841 (inkl. README)
 
 ## Änderungen
+
+### 2026-11-08 – Turn 10 / Illustrations-Offensive (Regel 9; 314/314 Artikel bebildert)
+616 neue `art-NNNN-abb-M.svg` (gesamt 645 art-SVGs): pro Artikel 2 (WARNPFLICHT/≥6 Schritte: 3), Vorlagen Schrittfolge / Material+Maße / Maß-Skizze / Varianten Stadt-Land / Fehler→Folge / Warnpanel aus den echten Artikel-Inhalten (23-artikel). Bestehende 224 SVGs unverändert. Validierung: 840/840 SVGs wohlgeformt, 0 Orphans (jede art-NNNN zu Katalog-ID), 0 Meta-Tokens/Rollen, 0 warn-N in art-*, ART-ID im Bild, Nummerierung lückenlos, AA gemessen (min Text 3,81:1 large / sonst ≥ 4,5:1, min Grafik 3,45:1), selbstenthalten, Graustufen lesbar.
 
 ### 2026-11-08 – Turn 9 (warn-N-Altverweise in Artikel-Labels)
 In Artikel-SVGs (art-*) keine warn-N-Altverweise mehr im sichtbaren Text (art-0297: „CO-Regel (warn-3)“ → „CO-Regel: keine Verbrennung im geschlossenen Raum“, art-0309: „(warn-7c)“ gestrichen); Sanitizer cleanArt() streift warn-N nur in art-*-Dateien (warn-art-NNNN-Referenzen und warn-Eigen-IDs bleiben; im Kompendium abb-*/warn-* bleiben warn-N-Querverweise zulässig). „()“-Reste entfernt (abb-9-1 neu erzeugt). Re-Validierung: 224/224 wohlgeformt, 0 Meta-Tokens/Rollen, 0 warn-N in art-*, keine leeren Klammern, AA eingehalten (min Text 3,81:1 large / sonst ≥ 4,5:1, min Grafik 3,45:1).

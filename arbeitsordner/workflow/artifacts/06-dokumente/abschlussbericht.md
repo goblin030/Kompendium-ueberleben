@@ -188,6 +188,11 @@ Seitenzahlen nach Review v1 (Ist, PDF/A-2b): 445 / 361 / 342 / 329 / 317 / 310 /
 - Meta-Resttoken bereinigt: WARNPFLICHT-Reste (Band 7/9, 5 Stellen) -> "Warnhinweis" bzw. Klammern entfernt; "(Phase H2)" in Band 10 entfernt. Praeambel wie v2.5 (25-praeaambel.md, Gesamtpraeambel Band 1 + Kurzhinweis pro Band); keine generierten Tabellen (nur Artikel-Inhalt).
 - Rebuild v2.6 (PDF/A-2b, 10/10 fehlerfrei): 52 / 36 / 35 / 34 / 32 / 31 / 34 / 35 / 40 / 64 = Σ 393 S. (314 Artikel). Meta-Scan v2.6: 0 (nur ART-IDs; Pattern inkl. WARNPFLICHT + Phase H). prepress nach v2.6/druckdaten/ inkl. proof.json + proof-bericht.md (10x PDF/X-4 + 3-mm-Anschluss + Schnittmarken 0,3 pt, 393 S., Fonts embedded, 0 Rasterbilder). ZIP: v2.6/ueberlebenbuch-artikel-v2.6.zip (268 Dateien, unzip -t ok).
 
+## 26. Turn 21 — v2.7 Illustrations-Offensive (06-dokumente/v2.7/)
+
+- JEDER Artikel bettet alle seine art-NNNN-abb-M.svg als Figures ein: 645 art-SVGs ueber alle 314 Artikel (2-spaltiges Grid bzw. Einzelabbildung 10,5 cm). Generator-Asserts: 645/645 art-*.svg referenziert (0 orphan), 645/645 image()-Refs existieren auf Disk, 0 warn-art-Orphan. Captions neutralisiert (ART-ID-Dubletten aus SVG-Titel entfernt, Meta im Titel -> neutrale Caption). Praeambel + ART-Register (314) wie v2.6; keine generierten Tabellen.
+- Rebuild v2.7 (PDF/A-2b, 10/10 fehlerfrei): 76 / 60 / 59 / 47 / 56 / 42 / 46 / 57 / 59 / 73 = Σ 575 S. (314 Artikel, 645 Artikel-Abbildungen; +182 S. gegen v2.6 durch die Illustrationen). Meta-Scan v2.7: 0 (nur ART-IDs). prepress nach v2.7/druckdaten/ inkl. proof.json + proof-bericht.md (10x PDF/X-4 + 3-mm-Anschluss + Schnittmarken, 575 S., Fonts embedded, 0 Raster — SVGs bleiben Vektor). ZIP: v2.7/ueberlebenbuch-artikel-v2.7.zip (unzip -t ok).
+
 ## 7. Annahmen (dokumentiert, keine Rueckfragen laut WORKFLOW.md)
 
 1. Register: pro Band Auszug mit eigenen Seitenzahlen; Gesamtregister in Band 10 (Schlussband der Reihe).
