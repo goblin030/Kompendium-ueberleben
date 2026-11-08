@@ -2083,3 +2083,14 @@ Event-Typen siehe WORKFLOW.md „Logging“.
 | 2026-11-08T17:11:00+01:00 | editor | output | A1 in Artikel-Quelle ART-0187 ergänzt (Tierschutz § 4 TierSchG im WARNRAHMEN) — wirksam in EPUB; v3.2-PDFs bleiben final | artifacts/23-artikel/band-06/ART-0187-*.md |
 | 2026-11-08T17:12:00+01:00 | archivar | output | BACKLOG §9 (K-1..K-7: DEP-4/A11Y-4/V8/LGL-6 erledigt, K-5 Print-TODO in Arbeit, K-7 Betreiber offen), CHRONIK §K, HANDOVER-Aktualisierung | archiv/BACKLOG.md, CHRONIK.md |
 | 2026-11-08T17:13:00+01:00 | orchestrator | phase_end | Phase K (digital first) abgeschlossen: DEP-4 erledigt (EPUB 10/10 EPUBCheck-valide + Suche 314/314 + ONIX final + Meta 0), Print-TODO geplant (wartet auf ISBN/Betreiber), G-1 projektseitig abgeschlossen. Nächster Schritt: Betreiber-Shops (LGL-1..5) → Uploads §3.1–3.4 | v3.2/epub/, v3.2/suche/, artifacts/14/16/13 |
+
+
+### Overlap-Gate-Runde (2026-11-08, 17:40–17:44+01:00, Phase K)
+
+| ts | agent | event | detail | artifact |
+|---|---|---|---|---|
+| 2026-11-08T17:40:00+01:00 | orchestrator | decision | Overlap-Gate eingeführt: Skill `skills/overlap-gate/` (overlap_check.py: 150-dpi-Render + Vektor/Wort-Analyse, Klassen F1/F2/F3/L1; svg_zorder_check.py: SVG-Z-Order). Messlauf v3.2 (580 S.): Doku-Text sauber (F1/F2/F3=0), **2.501 SVG-Labels verdeckt (L1)** | skills/overlap-gate/ |
+| 2026-11-08T17:41:00+01:00 | illustrator | decision | Z-Order „text-last" als Pflicht (Regel 13): alle `<text>` nach allen gefüllten Shapes; Quell-Check vor jedem Schreiben | agents/08-illustrator.md |
+| 2026-11-08T17:42:00+01:00 | doc-builder | decision | Overlap-Gate im Build: 0 Befunde über alle PDFs vor visual-qa; figures nur im Fluss, gap ≥ 8pt, Caption unterhalb Bild-Rechteck | agents/07-doc-builder.md |
+| 2026-11-08T17:43:00+01:00 | visual-qa | decision | K8 (F1/F2/F3) + K9 (L1) als Gate-Klassen; rot = Rebuild-Pflicht | agents/20-visual-qa.md, 23-layout-inspector.md, PROMPT-REGELN.md |
+| 2026-11-08T17:44:00+01:00 | archivar | output | PROMPT-REGELN Regel 13, agents „Alle 13 Regeln", LEKTIONEN-Nachtrag, BACKLOG §10 OV-1/OV-2 | archiv/*, PROMPT-REGELN.md |

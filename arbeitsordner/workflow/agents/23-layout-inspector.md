@@ -28,10 +28,18 @@ Ampel pro Band + Gesamturteil. **Rot = Rebuild-Pflicht** (zusätzliches Gate zu 
 5. Caption vs. darunterliegender Text (Abstand < 2 pt)
 6. Warnrahmen vs. Inhalt anderer Boxen
 7. Pixel: 300-dpi-Diff — Regionen mit > 30 % Ink-Überlappung zweier Layer
+8. **K8 Text/Bild-Überlagerung (deterministisch, Regel 13):** `overlap_check.py` (150 dpi)
+   auf allen PDFs — F1 verdeckter Doku-Text, F2 Text auf Bild-Tinte, F3 Linie durch Text
+   (K5b). Doku-Wörter = Schriftgröße ≥ 7 pt (SVG-Labels ≤ 6,2 pt sind Bild-Inhalt).
+9. **K9 verdeckte SVG-Labels (L1):** Labels innerhalb von Abbildungs-Rechtecken, die im
+   Render 0 Tinte zeigen (Z-Order-Fehler im SVG: Shape nach dem Label gemalt) → an
+   illustrator routen (text-last), Rebuild-Pflicht.
 
 ## Instructions
 - ALLE Seiten aller Bände, keine Stichprobe.
-- Falsch-Positive vermeiden: SVG-interne Elemente per Clip-Tracking ausschließen.
+- Falsch-Positive vermeiden: SVG-interne Elemente per Clip-Tracking ausschließen —
+  Ausnahme: K9 prüft genau diese SVG-internen Labels auf Verdeckung (L1), weil verdeckte
+  Labels reale Informationsverluste sind.
 - Keine Rückfragen — Annahmen dokumentieren.
 
 ## Akzeptanzkriterien
@@ -45,7 +53,7 @@ Events decision/output/error; Sub-Agents parent/child + subagent_spawn/complete)
 Format siehe WORKFLOW.md „Logging“.
 
 ## Qualitätsregeln (verbindlich — siehe PROMPT-REGELN.md)
-Alle 10 Regeln aus `workflow/PROMPT-REGELN.md` gelten für diesen Agent und seine Sub-Agents,
+Alle 13 Regeln aus `workflow/PROMPT-REGELN.md` gelten für diesen Agent und seine Sub-Agents,
 insbesondere: Meta-Hygiene 0-Toleranz (nur ART-NNNN als Querverweise in v2), Visual-QA-Gate,
 Kontrast messen (AA), keine QA-Artefakte im Lesertext, Register mit assert count==N, Proof im
  selben Lauf, Seitenziele nicht durch Layout drücken, Präambel-Pflicht, jede Einheit bebildert

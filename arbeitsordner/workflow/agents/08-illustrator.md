@@ -37,12 +37,20 @@ Abbildungsnummer → Datei → beschreibender Unterschrift.
   Mengen-/Maßdiagramme, Warnrahmen-Risikoketten für Hochrisiken.
 - Valides SVG (XML), mit `viewBox` statt fester Pixelmaße, damit skalierbar.
 - Nummerierung konsistent zur Planung: `abb-<Band>-<Kapitel><Nr>.svg` ↔ „Abb. <Kapitel>.<Nr>".
+- **Z-Order „text-last" (Regel 13, Pflicht — Overlap-Gate):** In JEDER SVG werden alle
+  `<text>`-Elemente erst NACH allen gefüllten Shapes (rect/circle/ellipse/path mit
+  `fill` != „none") ausgegeben. Kein später gemaltes Shape darf ein Label überdecken
+  (das ist die Ursache für „Text unter Bild“-Überlagerungen). Vor dem Schreiben jeder
+  SVG: `python3 ../../skills/overlap-gate/svg_zorder_check.py <datei.svg>` — 0 verdeckte
+  Labels. Der renderbasierte Gate (`overlap_check.py`, Klasse L1) auf dem gebauten PDF
+  ist die finale Instanz (0 Befunde).
 
 ## Akzeptanzkriterien
 - [ ] Jedes geplante Konzept mit Grafikanforderung hat eine SVG-Datei
 - [ ] SVGs validieren als XML, selbstenthalten, graustufentauglich
 - [ ] Nummerierung und Unterschriften konsistent mit `03-planung.md`
 - [ ] Übersicht (README.md im illustrationen-Ordner) vollständig
+- [ ] Z-Order text-last: 0 verdeckte Labels (svg_zorder_check.py + overlap_check.py L1)
 
 ## Logging (Pflicht)
 

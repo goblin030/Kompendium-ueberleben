@@ -1,4 +1,4 @@
-# PROMPT-REGELN — verbindlich für ALLE Agent-Definitionen (aus archiv/LEKTIONEN.md, Top 10)
+# PROMPT-REGELN — verbindlich für ALLE Agent-Definitionen (aus archiv/LEKTIONEN.md + Overlap-Gate-Runde 2026-11-08)
 
 Diese Regeln gelten für jeden Agent und jeden Sub-Agent. Sie werden zusätzlich zum
 jeweils eigenen Abschnitt an jede Datei unter `agents/*.md` angehängt.
@@ -29,3 +29,12 @@ jeweils eigenen Abschnitt an jede Datei unter `agents/*.md` angehängt.
     Caption-Abstände, Warnrahmen) — beide müssen grün/gelb sein vor der Imprimatur.
 12. **Illustrationen detailliert:** SVGs zeigen echte Details (Maßketten, Schraffuren,
     Explosionsansichten, Schritt-Overlays, Texturen, Proportionen) — nicht nur Symbole.
+13. **Text-Bild-Überlagerungen — 0-Toleranz mit deterministischem Gate (Skill
+    `skills/overlap-gate/`):** Nach jedem Build läuft `overlap_check.py` (150-dpi-Render +
+    Vektor-Analyse) über ALLE PDFs (Quell + druckdaten): F1 verdeckter Doku-Text,
+    F2 Text auf Bild-Tinte, F3 Linie durch Text (K5b), L1 verdecktes SVG-Label in einer
+    Abbildung. 0 Befunde = Freigabe-Voraussetzung; Befund = Rebuild-Pflicht, nie filtern.
+    Ursachen-Regeln: **SVG-Z-Order „text-last"** (alle `<text>` nach allen gefüllten Shapes,
+    Check via `svg_zorder_check.py` vor dem Schreiben); **Layout**: figures nur im Fluss
+    (kein `place()`/keine negativen Offsets in Artikel-Inhalten), figure unteilbar
+    (`breakable: false`) + `gap ≥ 8pt`, Caption unterhalb des Bild-Rechtecks.

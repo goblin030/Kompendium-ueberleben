@@ -130,6 +130,18 @@
 | K-6 | Gate G-1 Band 6: Verdict grün (77fe700), A2 umgesetzt (ART-0184), A1 umgesetzt in Quelle ART-0187 + EPUB band-06; PDF-Nachtrag v3.3 | **erledigt projektseitig (Phase K, 2026-11-08; 13 §11)** |
 | K-7 | Uploads Payhip/KDP/tolino + Platzhalter [AUTOR]/[IMPRINT]/[ADRESSE]/[UST-IDNR]/[SHOP-URL] + Shop-Einrichtung + Steuerberater-Prüfung | **offen (Betreiber, LGL-1..5)** |
 
+
+---
+
+## 10. Overlap-Gate (2026-11-08) — Text/Bild-Überlagerungen
+
+**Skill:** `skills/overlap-gate/` (`overlap_check.py` PDF-Render-Gate F1/F2/F3/L1 + `svg_zorder_check.py` SVG-Quell-Check). **Gate-Regel:** 0 Befunde nach jedem Build (PROMPT-REGELN Regel 13).
+
+| ID | Befund | Status |
+|---|---|---|
+| OV-1 | v3.2 (580 S., 10 Bände): **2.501 SVG-Labels innerhalb von Abbildungen verdeckt** (L1, unsichtbar im Render) — Z-Order: Shapes nach Labels gemalt. Doku-Text sauber: F1/F2/F3 = 0 | **offen — Routing illustrator:** SVGs mit text-last neu erzeugen (Quell-Check: 867 Labels in 327/840 SVGs betroffen), dann Rebuild + Gate. Nächster illustrator-Turn |
+| OV-2 | Gate verankert: Regel 13 in PROMPT-REGELN.md; doc-builder (Gate im Build), illustrator (text-last + Quell-Check), visual-qa/layout-inspector (K8/K9, rot = Rebuild) | **erledigt (2026-11-08)** |
+
 ---
 
 ## Legende

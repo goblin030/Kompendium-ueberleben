@@ -148,3 +148,19 @@ Siehe `BACKLOG.md`: DEP-4 (EPUB), DEP-5 (ISBN/Barcode), V1–V12 (Marktanalyse),
 
 ---
 *Erstellt von `archivar` Turn 5. Nächste Aktualisierung: nach v2.7 (Illustrationen) bzw. jedem weiteren Owner-Review — Befunde hier nur ergänzen, nie löschen (append-only).*
+
+---
+
+## Nachtrag 2026-11-08 (Phase K, Overlap-Gate-Runde)
+
+**Befund (neu, systematisch):** In v3.2 (580 S., 10 Bände) sind **2.501 SVG-Labels
+innerhalb der Abbildungen von später gemalten Shapes überdeckt** (unsichtbar im Render,
+Klasse L1 des neuen Skills `overlap-gate`). Doku-Text (≥ 7 pt) ist sauber: 0 verdeckte
+Wörter, 0 Text-auf-Tinte, 0 Linien-durch-Text (F1/F2/F3 = 0). Ursache: SVG-Z-Order —
+der Generator malte Labels vor Panels. **Präventionsregel (→ PROMPT-REGELN Regel 13):**
+Z-Order „text-last" (alle `<text>` nach allen gefüllten Shapes), Quell-Check
+`skills/overlap-gate/svg_zorder_check.py` vor dem Schreiben jeder SVG, renderbasiertes
+Gate `overlap_check.py` (F1/F2/F3/L1, 0-Toleranz) nach jedem Build auf allen PDFs.
+→ `08-illustrator.md` (text-last + Quell-Check), `07-doc-builder.md` (Overlap-Gate im Build,
+figures nur im Fluss, gap ≥ 8pt, Caption unterhalb Bild-Rechteck), `20-visual-qa.md` +
+`23-layout-inspector.md` (K8/K9 als Gate-Klassen, rot = Rebuild-Pflicht).

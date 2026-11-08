@@ -28,11 +28,18 @@ Fertige, auslieferbare Dateien gemäß der vom tool-analyst gewählten Toolchain
 - Seitenminimum pro Band einhalten (300 S.); nicht mit Prosa, sondern mit mehr
   Anleitungen/Schritten/Tabellen auffüllen.
 - Abschlussbericht gehört zur Lieferung.
+- **Überlagerungs-Gate (Regel 13, Pflicht):** Nach JEDEM Build
+  `python3 ../skills/overlap-gate/overlap_check.py band-*.pdf druckdaten/band-*-druck.pdf --json overlap-report.json`
+  über ALLE Seiten — 0 Befunde (F1/F2/F3/L1) vor Übergabe an visual-qa/layout-inspector.
+  Layout-Regeln dafür: figures nur im Fluss (kein `place()`, keine negativen Offsets in
+  Artikel-Inhalten), `show figure: set block(breakable: false)` + `gap ≥ 8pt`, Caption
+  unterhalb des Bild-Rechtecks (nie innerhalb), keine Trennlinie zwischen figure und caption.
 
 ## Akzeptanzkriterien
 - [ ] Alle Bände als Quelldateien vorhanden
 - [ ] PDFs kompiliert (oder Fallback dokumentiert)
 - [ ] Abschlussbericht mit Zählungen und Prüfliste
+- [ ] Overlap-Gate (skills/overlap-gate) 0 Befunde über alle Seiten aller PDFs
 
 ## Logging (Pflicht)
 
@@ -46,7 +53,7 @@ Felder: `ts`, `phase`, `agent`, `event`, `detail`, `artifact`. Format siehe
 
 ## Qualitätsregeln (verbindlich — siehe PROMPT-REGELN.md)
 
-Alle 10 Regeln aus `workflow/PROMPT-REGELN.md` gelten für diesen Agent und seine Sub-Agents,
+Alle 13 Regeln aus `workflow/PROMPT-REGELN.md` gelten für diesen Agent und seine Sub-Agents,
 insbesondere: Meta-Hygiene 0-Toleranz (nur ART-NNNN als Querverweise in v2), Visual-QA-Gate,
 Kontrast messen (AA), keine QA-Artefakte im Lesertext, Register mit assert count==N, Proof im
  selben Lauf, Seitenziele nicht durch Layout drücken, Präambel-Pflicht, jede Einheit bebildert

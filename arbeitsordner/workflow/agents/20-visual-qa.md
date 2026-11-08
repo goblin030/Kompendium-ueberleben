@@ -31,6 +31,10 @@ vom layout-inspector (Agent 23) geprüft — beide Gates müssen grün/gelb sein
 - Bei rot: konkrete Korrektur für doc-builder (z. B. „figure+caption als unteilbare Einheit",
   „Box vor figure mit X pt Abstand", „caption nicht in Box-Rahmen allow").
 - Leerraum-Grenzwert: Textfläche < 65 % der Seite = Befund (Vorgabe: kein Platzverschwendung).
+- **Overlap-Gate (Regel 13, Pflicht):** Zusätzlich zum Pixel-Check läuft
+  `python3 ../skills/overlap-gate/overlap_check.py` (150 dpi) über alle PDFs —
+  Klassen F1 (Text verdeckt), F2 (Text auf Tinte), F3 (Linie durch Text), L1 (SVG-Label
+  in Abbildung verdeckt). Jeder Befund = rot mit Seite/Koordinaten/Wort; Rebuild-Pflicht.
 - Keine Rückfragen – Annahmen dokumentieren.
 
 ## Akzeptanzkriterien
@@ -45,7 +49,7 @@ Format siehe WORKFLOW.md „Logging“.
 
 ## Qualitätsregeln (verbindlich — siehe PROMPT-REGELN.md)
 
-Alle 10 Regeln aus `workflow/PROMPT-REGELN.md` gelten für diesen Agent und seine Sub-Agents,
+Alle 13 Regeln aus `workflow/PROMPT-REGELN.md` gelten für diesen Agent und seine Sub-Agents,
 insbesondere: Meta-Hygiene 0-Toleranz (nur ART-NNNN als Querverweise in v2), Visual-QA-Gate,
 Kontrast messen (AA), keine QA-Artefakte im Lesertext, Register mit assert count==N, Proof im
  selben Lauf, Seitenziele nicht durch Layout drücken, Präambel-Pflicht, jede Einheit bebildert
