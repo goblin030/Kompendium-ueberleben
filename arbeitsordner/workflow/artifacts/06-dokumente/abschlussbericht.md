@@ -213,6 +213,15 @@ Seitenzahlen nach Review v1 (Ist, PDF/A-2b): 445 / 361 / 342 / 329 / 317 / 310 /
 - Rebuild aus 23-artikel/ + illustrationen/ (840 SVGs mit Texturen/Massketten/Explosionsansichten/Ghosting). Alle 645 art-NNNN-abb-M.svg je Artikel eingebettet (assert: 0 orphan, alle image()-Refs existieren). Refix nach SVG-Neugenerierung: art-0261-abb-1.svg enthielt wieder „según Werkstoff“ -> „je nach Werkstoff“. Cleanups wie v2.9 (T15-1/T16-1/Print-TODO). Praeambel, ART-Register 314, keine generierten Tabellen.
 - Rebuild v3.0 (PDF/A-2b, 10/10 fehlerfrei): 76 / 60 / 59 / 47 / 56 / 42 / 46 / 57 / 59 / 73 = Σ 575 S. (314 Artikel, 645 detaillierte Abb.). Meta-Scan 0 ueber .typ-Quellen UND 0 ueber die PDFs selbst (pdftotext aller 10 Baende). prepress Pass A-D nach v3.0/druckdaten/ (10x PDF/X-4 + 3-mm-Anschluss + Schnittmarken, proof.json 10/10 ok, 575 S., Fonts embedded, 0 Raster — SVGs inkl. Texturen bleiben Vektor). ZIP: v3.0/ueberlebenbuch-artikel-v3.0.zip (unzip -t ok).
 
+## 31. Turn 26 — v3.1 Caption/Trennlinien-Fix nach review-v12 (06-dokumente/v3.1/)
+
+- review-v12: Caption/Trennlinien-Ueberlagerung. Fixversuch in lib/stil.typ (caption above 6pt, separator none) — per Minimal-Test in Typst 0.15 wirkungslos (show figure.caption: set block greift nicht). v3.1 rebuild: 575 S., PDF/A, Meta 0 (Quellen+PDFs). Pixel-Eigencheck 300 dpi: review-v12-Treffer waren ueberwiegend Gedankenstrich-Glyphen (FP); echte Faelle siehe K5b -> Turn 27.
+
+## 32. Turn 27 — v3.2 K5b-Fix Caption-Ueberlagerung Band 10 (06-dokumente/v3.2/)
+
+- K5b (26-layout-inspection.md): 3 echte Caption-Ueberlagerungen in Band 10 (S. 15/43/57, Figure-Clip bis in die Caption). Rootcause per Minimal-Test: show-Regeln innerhalb von init-doc() greifen in Typst 0.15 nicht im Aufrufer-Scope. Fix: figure-Regeln TOP-LEVEL im Band-Head — `#set figure(gap: 8pt)`, `#show figure: set block(breakable: false)`, `#show figure.caption: it => block(below: 4pt)[#v(8pt) #it.body]` (Caption-Abstand >= 8pt, figure+caption strikt unteilbar, keine Linie in der Caption). Wirksam verifiziert: Caption-y auf S.8 band-01 um +8,9 pt verschoben.
+- Rebuild v3.2 frisch, alle 10 Baende (PDF/A-2b, 10/10 fehlerfrei): 77 / 62 / 59 / 48 / 56 / 43 / 46 / 57 / 59 / 73 = Σ 580 S. (314 Artikel, 645 Abb., 0 orphan). Meta-Scan 0 (Quellen + pdftotext-PDFs). Pixel-Eigencheck 300 dpi ueber alle 580 Seiten: 0 Caption-Woerter mit Linie durch Text (Run-Laengen-Regel; Glyphen-FP —/Slash ausgeschlossen). prepress Pass A-D nach v3.2/druckdaten/ (10x PDF/X-4 + 3-mm-Anschluss + Schnittmarken, proof.json 10/10 ok, 580 S., Fonts embedded, 0 Raster). ZIP: v3.2/ueberlebenbuch-artikel-v3.2.zip (884 Dateien, unzip -t ok).
+
 ## 7. Annahmen (dokumentiert, keine Rueckfragen laut WORKFLOW.md)
 
 1. Register: pro Band Auszug mit eigenen Seitenzahlen; Gesamtregister in Band 10 (Schlussband der Reihe).

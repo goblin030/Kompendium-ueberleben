@@ -1,0 +1,622 @@
+[
+  {
+    "file": "/Users/otacon/git/Kompendium-ueberleben/arbeitsordner/workflow/artifacts/06-dokumente/v3.2/druckdaten/band-01-v2-druck.pdf",
+    "size_mb": 1.77,
+    "pages": 77,
+    "media_mm": [
+      216.0,
+      303.0
+    ],
+    "trim_mm": [
+      210.0,
+      297.0
+    ],
+    "bleed_each_side_mm": [
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ],
+    "bleedbox_eq_mediabox": true,
+    "acroform": false,
+    "annots_any": false,
+    "outputintents": true,
+    "crop_marks_content": {
+      "pages_with_marks": 77,
+      "pages_total": 77,
+      "registration_black": true,
+      "min_stroke_width_pt": 0.3,
+      "mark_segments_per_marks_page": 8,
+      "ok": true
+    },
+    "crop_marks_raster": {
+      "first_page": 8,
+      "last_page": 8,
+      "ok": true
+    },
+    "crop_marks_ok": true,
+    "colorspaces": {
+      "DeviceRGB_named": 0,
+      "DeviceCMYK_named": 0,
+      "DeviceGray_named": 0,
+      "rgb_ops": 0,
+      "cmyk_ops": 2267,
+      "gray_ops": 424,
+      "cmyk_only": true
+    },
+    "GTS_PDFXVersion_xmp": "PDF/X-4",
+    "GTS_PDFXVersion_info": "PDF/X-4",
+    "fonts_total": 4,
+    "fonts_all_embedded": true,
+    "raster_images": 0,
+    "min_effective_dpi": null,
+    "grayscale": {
+      "pages_measured": 77,
+      "C_max": 0.0,
+      "M_max": 0.0,
+      "Y_max": 0.0,
+      "K_min": 0.0041,
+      "K_max": 0.1051,
+      "K_mean": 0.0631,
+      "k_only": true
+    }
+  },
+  {
+    "file": "/Users/otacon/git/Kompendium-ueberleben/arbeitsordner/workflow/artifacts/06-dokumente/v3.2/druckdaten/band-02-v2-druck.pdf",
+    "size_mb": 1.29,
+    "pages": 62,
+    "media_mm": [
+      216.0,
+      303.0
+    ],
+    "trim_mm": [
+      210.0,
+      297.0
+    ],
+    "bleed_each_side_mm": [
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ],
+    "bleedbox_eq_mediabox": true,
+    "acroform": false,
+    "annots_any": false,
+    "outputintents": true,
+    "crop_marks_content": {
+      "pages_with_marks": 62,
+      "pages_total": 62,
+      "registration_black": true,
+      "min_stroke_width_pt": 0.3,
+      "mark_segments_per_marks_page": 8,
+      "ok": true
+    },
+    "crop_marks_raster": {
+      "first_page": 8,
+      "last_page": 8,
+      "ok": true
+    },
+    "crop_marks_ok": true,
+    "colorspaces": {
+      "DeviceRGB_named": 0,
+      "DeviceCMYK_named": 0,
+      "DeviceGray_named": 0,
+      "rgb_ops": 0,
+      "cmyk_ops": 1501,
+      "gray_ops": 223,
+      "cmyk_only": true
+    },
+    "GTS_PDFXVersion_xmp": "PDF/X-4",
+    "GTS_PDFXVersion_info": "PDF/X-4",
+    "fonts_total": 3,
+    "fonts_all_embedded": true,
+    "raster_images": 0,
+    "min_effective_dpi": null,
+    "grayscale": {
+      "pages_measured": 62,
+      "C_max": 0.0,
+      "M_max": 0.0,
+      "Y_max": 0.0,
+      "K_min": 0.0069,
+      "K_max": 0.1212,
+      "K_mean": 0.0553,
+      "k_only": true
+    }
+  },
+  {
+    "file": "/Users/otacon/git/Kompendium-ueberleben/arbeitsordner/workflow/artifacts/06-dokumente/v3.2/druckdaten/band-03-v2-druck.pdf",
+    "size_mb": 1.42,
+    "pages": 59,
+    "media_mm": [
+      216.0,
+      303.0
+    ],
+    "trim_mm": [
+      210.0,
+      297.0
+    ],
+    "bleed_each_side_mm": [
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ],
+    "bleedbox_eq_mediabox": true,
+    "acroform": false,
+    "annots_any": false,
+    "outputintents": true,
+    "crop_marks_content": {
+      "pages_with_marks": 59,
+      "pages_total": 59,
+      "registration_black": true,
+      "min_stroke_width_pt": 0.3,
+      "mark_segments_per_marks_page": 8,
+      "ok": true
+    },
+    "crop_marks_raster": {
+      "first_page": 8,
+      "last_page": 8,
+      "ok": true
+    },
+    "crop_marks_ok": true,
+    "colorspaces": {
+      "DeviceRGB_named": 0,
+      "DeviceCMYK_named": 0,
+      "DeviceGray_named": 0,
+      "rgb_ops": 0,
+      "cmyk_ops": 1497,
+      "gray_ops": 306,
+      "cmyk_only": true
+    },
+    "GTS_PDFXVersion_xmp": "PDF/X-4",
+    "GTS_PDFXVersion_info": "PDF/X-4",
+    "fonts_total": 4,
+    "fonts_all_embedded": true,
+    "raster_images": 0,
+    "min_effective_dpi": null,
+    "grayscale": {
+      "pages_measured": 59,
+      "C_max": 0.0,
+      "M_max": 0.0,
+      "Y_max": 0.0,
+      "K_min": 0.0065,
+      "K_max": 0.1098,
+      "K_mean": 0.0647,
+      "k_only": true
+    }
+  },
+  {
+    "file": "/Users/otacon/git/Kompendium-ueberleben/arbeitsordner/workflow/artifacts/06-dokumente/v3.2/druckdaten/band-04-v2-druck.pdf",
+    "size_mb": 1.35,
+    "pages": 48,
+    "media_mm": [
+      216.0,
+      303.0
+    ],
+    "trim_mm": [
+      210.0,
+      297.0
+    ],
+    "bleed_each_side_mm": [
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ],
+    "bleedbox_eq_mediabox": true,
+    "acroform": false,
+    "annots_any": false,
+    "outputintents": true,
+    "crop_marks_content": {
+      "pages_with_marks": 48,
+      "pages_total": 48,
+      "registration_black": true,
+      "min_stroke_width_pt": 0.3,
+      "mark_segments_per_marks_page": 8,
+      "ok": true
+    },
+    "crop_marks_raster": {
+      "first_page": 8,
+      "last_page": 8,
+      "ok": true
+    },
+    "crop_marks_ok": true,
+    "colorspaces": {
+      "DeviceRGB_named": 0,
+      "DeviceCMYK_named": 0,
+      "DeviceGray_named": 0,
+      "rgb_ops": 0,
+      "cmyk_ops": 1557,
+      "gray_ops": 293,
+      "cmyk_only": true
+    },
+    "GTS_PDFXVersion_xmp": "PDF/X-4",
+    "GTS_PDFXVersion_info": "PDF/X-4",
+    "fonts_total": 4,
+    "fonts_all_embedded": true,
+    "raster_images": 0,
+    "min_effective_dpi": null,
+    "grayscale": {
+      "pages_measured": 48,
+      "C_max": 0.0,
+      "M_max": 0.0,
+      "Y_max": 0.0,
+      "K_min": 0.0059,
+      "K_max": 0.1036,
+      "K_mean": 0.0659,
+      "k_only": true
+    }
+  },
+  {
+    "file": "/Users/otacon/git/Kompendium-ueberleben/arbeitsordner/workflow/artifacts/06-dokumente/v3.2/druckdaten/band-05-v2-druck.pdf",
+    "size_mb": 1.1,
+    "pages": 56,
+    "media_mm": [
+      216.0,
+      303.0
+    ],
+    "trim_mm": [
+      210.0,
+      297.0
+    ],
+    "bleed_each_side_mm": [
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ],
+    "bleedbox_eq_mediabox": true,
+    "acroform": false,
+    "annots_any": false,
+    "outputintents": true,
+    "crop_marks_content": {
+      "pages_with_marks": 56,
+      "pages_total": 56,
+      "registration_black": true,
+      "min_stroke_width_pt": 0.3,
+      "mark_segments_per_marks_page": 8,
+      "ok": true
+    },
+    "crop_marks_raster": {
+      "first_page": 8,
+      "last_page": 8,
+      "ok": true
+    },
+    "crop_marks_ok": true,
+    "colorspaces": {
+      "DeviceRGB_named": 0,
+      "DeviceCMYK_named": 0,
+      "DeviceGray_named": 0,
+      "rgb_ops": 0,
+      "cmyk_ops": 633,
+      "gray_ops": 86,
+      "cmyk_only": true
+    },
+    "GTS_PDFXVersion_xmp": "PDF/X-4",
+    "GTS_PDFXVersion_info": "PDF/X-4",
+    "fonts_total": 3,
+    "fonts_all_embedded": true,
+    "raster_images": 0,
+    "min_effective_dpi": null,
+    "grayscale": {
+      "pages_measured": 56,
+      "C_max": 0.0,
+      "M_max": 0.0,
+      "Y_max": 0.0,
+      "K_min": 0.0066,
+      "K_max": 0.0805,
+      "K_mean": 0.0459,
+      "k_only": true
+    }
+  },
+  {
+    "file": "/Users/otacon/git/Kompendium-ueberleben/arbeitsordner/workflow/artifacts/06-dokumente/v3.2/druckdaten/band-06-v2-druck.pdf",
+    "size_mb": 1.23,
+    "pages": 43,
+    "media_mm": [
+      216.0,
+      303.0
+    ],
+    "trim_mm": [
+      210.0,
+      297.0
+    ],
+    "bleed_each_side_mm": [
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ],
+    "bleedbox_eq_mediabox": true,
+    "acroform": false,
+    "annots_any": false,
+    "outputintents": true,
+    "crop_marks_content": {
+      "pages_with_marks": 43,
+      "pages_total": 43,
+      "registration_black": true,
+      "min_stroke_width_pt": 0.3,
+      "mark_segments_per_marks_page": 8,
+      "ok": true
+    },
+    "crop_marks_raster": {
+      "first_page": 8,
+      "last_page": 8,
+      "ok": true
+    },
+    "crop_marks_ok": true,
+    "colorspaces": {
+      "DeviceRGB_named": 0,
+      "DeviceCMYK_named": 0,
+      "DeviceGray_named": 0,
+      "rgb_ops": 0,
+      "cmyk_ops": 1394,
+      "gray_ops": 256,
+      "cmyk_only": true
+    },
+    "GTS_PDFXVersion_xmp": "PDF/X-4",
+    "GTS_PDFXVersion_info": "PDF/X-4",
+    "fonts_total": 4,
+    "fonts_all_embedded": true,
+    "raster_images": 0,
+    "min_effective_dpi": null,
+    "grayscale": {
+      "pages_measured": 43,
+      "C_max": 0.0,
+      "M_max": 0.0,
+      "Y_max": 0.0,
+      "K_min": 0.0071,
+      "K_max": 0.1418,
+      "K_mean": 0.0796,
+      "k_only": true
+    }
+  },
+  {
+    "file": "/Users/otacon/git/Kompendium-ueberleben/arbeitsordner/workflow/artifacts/06-dokumente/v3.2/druckdaten/band-07-v2-druck.pdf",
+    "size_mb": 1.34,
+    "pages": 46,
+    "media_mm": [
+      216.0,
+      303.0
+    ],
+    "trim_mm": [
+      210.0,
+      297.0
+    ],
+    "bleed_each_side_mm": [
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ],
+    "bleedbox_eq_mediabox": true,
+    "acroform": false,
+    "annots_any": false,
+    "outputintents": true,
+    "crop_marks_content": {
+      "pages_with_marks": 46,
+      "pages_total": 46,
+      "registration_black": true,
+      "min_stroke_width_pt": 0.3,
+      "mark_segments_per_marks_page": 8,
+      "ok": true
+    },
+    "crop_marks_raster": {
+      "first_page": 8,
+      "last_page": 8,
+      "ok": true
+    },
+    "crop_marks_ok": true,
+    "colorspaces": {
+      "DeviceRGB_named": 0,
+      "DeviceCMYK_named": 0,
+      "DeviceGray_named": 0,
+      "rgb_ops": 0,
+      "cmyk_ops": 1554,
+      "gray_ops": 298,
+      "cmyk_only": true
+    },
+    "GTS_PDFXVersion_xmp": "PDF/X-4",
+    "GTS_PDFXVersion_info": "PDF/X-4",
+    "fonts_total": 4,
+    "fonts_all_embedded": true,
+    "raster_images": 0,
+    "min_effective_dpi": null,
+    "grayscale": {
+      "pages_measured": 46,
+      "C_max": 0.0,
+      "M_max": 0.0,
+      "Y_max": 0.0,
+      "K_min": 0.0065,
+      "K_max": 0.1718,
+      "K_mean": 0.0817,
+      "k_only": true
+    }
+  },
+  {
+    "file": "/Users/otacon/git/Kompendium-ueberleben/arbeitsordner/workflow/artifacts/06-dokumente/v3.2/druckdaten/band-08-v2-druck.pdf",
+    "size_mb": 1.44,
+    "pages": 57,
+    "media_mm": [
+      216.0,
+      303.0
+    ],
+    "trim_mm": [
+      210.0,
+      297.0
+    ],
+    "bleed_each_side_mm": [
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ],
+    "bleedbox_eq_mediabox": true,
+    "acroform": false,
+    "annots_any": false,
+    "outputintents": true,
+    "crop_marks_content": {
+      "pages_with_marks": 57,
+      "pages_total": 57,
+      "registration_black": true,
+      "min_stroke_width_pt": 0.3,
+      "mark_segments_per_marks_page": 8,
+      "ok": true
+    },
+    "crop_marks_raster": {
+      "first_page": 8,
+      "last_page": 8,
+      "ok": true
+    },
+    "crop_marks_ok": true,
+    "colorspaces": {
+      "DeviceRGB_named": 0,
+      "DeviceCMYK_named": 0,
+      "DeviceGray_named": 0,
+      "rgb_ops": 0,
+      "cmyk_ops": 1622,
+      "gray_ops": 343,
+      "cmyk_only": true
+    },
+    "GTS_PDFXVersion_xmp": "PDF/X-4",
+    "GTS_PDFXVersion_info": "PDF/X-4",
+    "fonts_total": 4,
+    "fonts_all_embedded": true,
+    "raster_images": 0,
+    "min_effective_dpi": null,
+    "grayscale": {
+      "pages_measured": 57,
+      "C_max": 0.0,
+      "M_max": 0.0,
+      "Y_max": 0.0,
+      "K_min": 0.0065,
+      "K_max": 0.1173,
+      "K_mean": 0.0653,
+      "k_only": true
+    }
+  },
+  {
+    "file": "/Users/otacon/git/Kompendium-ueberleben/arbeitsordner/workflow/artifacts/06-dokumente/v3.2/druckdaten/band-09-v2-druck.pdf",
+    "size_mb": 1.46,
+    "pages": 59,
+    "media_mm": [
+      216.0,
+      303.0
+    ],
+    "trim_mm": [
+      210.0,
+      297.0
+    ],
+    "bleed_each_side_mm": [
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ],
+    "bleedbox_eq_mediabox": true,
+    "acroform": false,
+    "annots_any": false,
+    "outputintents": true,
+    "crop_marks_content": {
+      "pages_with_marks": 59,
+      "pages_total": 59,
+      "registration_black": true,
+      "min_stroke_width_pt": 0.3,
+      "mark_segments_per_marks_page": 8,
+      "ok": true
+    },
+    "crop_marks_raster": {
+      "first_page": 8,
+      "last_page": 8,
+      "ok": true
+    },
+    "crop_marks_ok": true,
+    "colorspaces": {
+      "DeviceRGB_named": 0,
+      "DeviceCMYK_named": 0,
+      "DeviceGray_named": 0,
+      "rgb_ops": 0,
+      "cmyk_ops": 1449,
+      "gray_ops": 282,
+      "cmyk_only": true
+    },
+    "GTS_PDFXVersion_xmp": "PDF/X-4",
+    "GTS_PDFXVersion_info": "PDF/X-4",
+    "fonts_total": 4,
+    "fonts_all_embedded": true,
+    "raster_images": 0,
+    "min_effective_dpi": null,
+    "grayscale": {
+      "pages_measured": 59,
+      "C_max": 0.0,
+      "M_max": 0.0,
+      "Y_max": 0.0,
+      "K_min": 0.0061,
+      "K_max": 0.1502,
+      "K_mean": 0.0679,
+      "k_only": true
+    }
+  },
+  {
+    "file": "/Users/otacon/git/Kompendium-ueberleben/arbeitsordner/workflow/artifacts/06-dokumente/v3.2/druckdaten/band-10-v2-druck.pdf",
+    "size_mb": 1.8,
+    "pages": 73,
+    "media_mm": [
+      216.0,
+      303.0
+    ],
+    "trim_mm": [
+      210.0,
+      297.0
+    ],
+    "bleed_each_side_mm": [
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ],
+    "bleedbox_eq_mediabox": true,
+    "acroform": false,
+    "annots_any": false,
+    "outputintents": true,
+    "crop_marks_content": {
+      "pages_with_marks": 73,
+      "pages_total": 73,
+      "registration_black": true,
+      "min_stroke_width_pt": 0.3,
+      "mark_segments_per_marks_page": 8,
+      "ok": true
+    },
+    "crop_marks_raster": {
+      "first_page": 8,
+      "last_page": 8,
+      "ok": true
+    },
+    "crop_marks_ok": true,
+    "colorspaces": {
+      "DeviceRGB_named": 0,
+      "DeviceCMYK_named": 0,
+      "DeviceGray_named": 0,
+      "rgb_ops": 0,
+      "cmyk_ops": 1591,
+      "gray_ops": 297,
+      "cmyk_only": true
+    },
+    "GTS_PDFXVersion_xmp": "PDF/X-4",
+    "GTS_PDFXVersion_info": "PDF/X-4",
+    "fonts_total": 4,
+    "fonts_all_embedded": true,
+    "raster_images": 0,
+    "min_effective_dpi": null,
+    "grayscale": {
+      "pages_measured": 73,
+      "C_max": 0.0,
+      "M_max": 0.0,
+      "Y_max": 0.0,
+      "K_min": 0.0078,
+      "K_max": 0.1255,
+      "K_mean": 0.0692,
+      "k_only": true
+    }
+  }
+]

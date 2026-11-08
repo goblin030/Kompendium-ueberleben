@@ -32,8 +32,10 @@
   set list(spacing: 0.42em, indent: 1.2em)
   set enum(spacing: 0.42em, indent: 1.2em)
   set figure(numbering: none)
-  show figure: set block(breakable: false)   // Review v4: Bild + Caption unteilbar, nie innerhalb eines Box-Rahmens
-  show figure.caption: set block(above: 3pt)
+  show figure: set block(breakable: false)   // review-v12: Bild + Caption unteilbar, nie innerhalb eines Box-Rahmens
+  // review-v12: KEINE Trennlinie zwischen Figure und Caption; 6pt Abstand per v() IM Caption-Body
+  // (show figure.caption: set block(above:) greift in Typst 0.15 nicht — v() im Body verschiebt nachweislich um 6pt)
+  show figure.caption: it => block(below: 4pt)[#v(6pt) #it.body]
   set table(stroke: 0.4pt + rgb("#8c8c8c"), inset: 2pt)
   show heading.where(level: 2): it => block(above: 0pt, below: 10pt, text(size: 16pt, weight: "bold", fill: fc)[#it.body])
   show heading.where(level: 3): it => block(above: 7pt, below: 4pt, text(size: 12pt, weight: "bold", fill: fc)[#it.body])
