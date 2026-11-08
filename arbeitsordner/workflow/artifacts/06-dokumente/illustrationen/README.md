@@ -301,6 +301,9 @@ Neue warn-Grafiken für WARNPFLICHT-Artikel (Turn 7; bestehende warn-N.svg bleib
 
 ## Änderungen
 
+### 2026-11-08 – Turn 12 / Regel 12 (mehr Detail in allen Illustrationen)
+Prelude v3 + Templates v2: Textur-Pattern (Holzmaserung `wood`, Gras `grass`, Stoff `fabric`, Metall `metal`, Stein `stone`; Linien ≥ 3:1), detailreichere Primitive (Topf mit Nieten/Füßen/Lichtreflex, Zelt mit Nähten/Reißverschluss, Hütte mit Fugen/Fenster/Sockel, Stamm mit Maserung, Fisch mit Schuppen, Stein mit Facetten, Person mit Gürtel/Stiefeln, Flamme mit Funken), neue Helfer `dimChain` (Maßkette mit Pfeilen + Werten), `callout` (beschriftete Einzelteile), `ghostSteps` (Schritt-Ghosting 1→2→3), `exploded` (Explosionsansicht). Alle 840 SVGs (174 abb + 645 art + 21 warn) neu aufgebaut; 662 Dateien mit Textur-Pattern. Re-Validierung: 840/840 wohlgeformt, 0 Meta-Tokens/Flags/Rollen, 0 warn-N in art-*, 314/314 Artikel bebildert, 0 Orphans, AA gemessen (min Text 3,81:1 large / sonst ≥ 4,5:1, min Grafik 3,45:1), Graustufen lesbar, selbstenthalten, Nummerierung lückenlos.
+
 ### 2026-11-08 – Turn 11 / T15-1 (Produktions-Flags aus SVG-Labels)
 Interne Flags aus sichtbaren Texten entfernt: (WARNPFLICHT) in 6 art-Labels (art-0197/0205/0213/0215/0218/0307), (Print-TODO) in art-0009-abb-2, dazu ALL-CAPS WARNRAHMEN/Warnpflicht, „Katalog §“-Refs und Markdown-Sterne (*…*). Sanitizer clean() entsprechend erweitert (WARNRAHMEN—X → „Warnung: X“, Print-TODO → „Druckausgabe“, Warnpflicht lt. → „siehe“, Flags/TODO/FIXME/BACKLOG/Sterne entfernt). Warnungs-Inhalt bleibt fachlich erhalten. 14 betroffene art-Dateien neu erzeugt. Re-Validierung: 840/840 wohlgeformt, 0 Produktions-Flags, 0 Meta-Tokens/Rollen, 0 warn-N in art-*, 314/314 Artikel bebildert, 0 Orphans, AA gemessen (min Text 3,81:1 large / sonst ≥ 4,5:1, min Grafik 3,45:1). „Warnrahmen“ (Buch-Element) bleibt als Terminus in Captions.
 
