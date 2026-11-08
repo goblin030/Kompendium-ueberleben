@@ -417,3 +417,28 @@ Kollisionen weiterhin 0, Caption-Abstände weiterhin 4,6 pt, CL-Umbau vollständ
 
 ---
 *Nachtrag Turn 12 durch Agent `visual-qa`, Phase J, 2026-11-08. Log: `logs/workflow.log` (agent=visual-qa).*
+
+---
+
+# Nachtrag — Turn 13: Enzyklopädie v2.7 (2026-11-08, nach doc-builder Turn 21 + illustrator Turn 10; 645 Artikel-Abbildungen)
+
+**Input:** `06-dokumente/v2.7/band-01..10-v2.pdf` = 76/60/59/47/56/42/46/57/59/73 = **575 S.**, 314 Artikel, 645 art-SVGs (840 SVGs gesamt in `illustrationen/`). **Methode:** wie Turn 6–12 (alle Seiten 150 dpi gray+color, qdf + Parser, pdftotext -bbox, Pixel, WCAG, Meta-Scan PDFs + aller 840 SVGs, Orphan-/Abdeckungs-Check gegen die .typ-Referenzen).
+
+## Ergebnis Turn 13 (v2.7)
+
+| Check | v2.6 (Turn 12) | v2.7 (Turn 13) | Status |
+|---|---|---|---|
+| Kollisionen Figure/Box/Caption | 0 | **0** in 575/575 S. (Koord.+Pixel; 645 Figures, Caption-Paare à 4,6 pt, 0 Rahmen-Anomalien) | ✓ gehalten |
+| 0 orphan SVGs? | 29/29 | **refs 645 == art-*.svg-Dateien 645 == gerenderte Figures 645; 0 orphans, 0 missing** (6 warn-art-*.svg separat als Warnrahmen-Icons referenziert) | ✓ |
+| Abb.-Abdeckung 314/314 Artikel? | 29 Figures gesamt | **314/314 Artikel mit mind. 1 Figure in ihrem Seitenbereich** (645 Figures gesamt) | ✓ vollstaendig |
+| Meta 0 (nur ART-IDs) | 10/10 clean | **9/10 clean; B1: 1× „TODO“** — sichtbar in B1 S. 23, Quelle `art-0009-abb-2.svg` (sichtbarer Text „…(Print-TODO,“). SVG-Scan aller 840 SVGs: nur dieses eine TODO; v1-warn-*.svg/abb-*.svg (nicht in v2.7 referenziert) tragen eigene warn-N im Titel, sind aber nicht eingebettet | ⚠ 1 Token in B1 |
+| ART-Refs / TOC / Register | ok | **0 unresolved (314 ART-Defs); refpage 100 % seitenrichtig (B1 5/5 … B3 159/159); TOC S. 2 je Band 5/5 korrekt; ART-Register B10 S. 64 = 314/314** | ✓ gehalten |
+| Kontrast / Graustufen | pass | **pass:** Text 18,9–21:1, Rahmen #8c8c8c 3,36:1 / #bd531a 4,76:1; **645/645 Figures graustufen-lesbar** (0 leer, ≥ 14 Graustufen, Ink 1,2–36,7 %). Minor: hellste Sekundär-Linien in Figuren (#b0b0b0-ish) 1,7–2,0:1 < 3:1 (Muster/Textur, Primärstriche dunkel) | ✓ (+minor) |
+| Leerraum | 53,4 % < 65 %; 5,9 % nahezu leer | **48,3 % < 65 % (278/575); 1,7 % nahezu leer (10)** — weiter verbessert | ✓ verbessert |
+
+## Ampel Turn 13 und Gesamturteil
+
+**Ampel: gelb ×10 (B1 mit TODO-Leak) — Gesamturteil: FREIGEGEBEN (gelb) — v2.7-Gate bestanden.** 0 Kollisionen in 575/575 S., 645/645 art-SVGs eingebunden (0 orphan), Abb.-Abdeckung 314/314, ART-Register 314/314, ART/TOC fehlerfrei, Kontrast/Graustufen ok, Leerraum weiter verbessert (1,7 % nahezu leer). Einziger Rest (minor): „Print-TODO“ in `art-0009-abb-2.svg` (B1 S. 23) streichen.
+
+---
+*Nachtrag Turn 13 durch Agent `visual-qa`, Phase J, 2026-11-08. Log: `logs/workflow.log` (agent=visual-qa).*

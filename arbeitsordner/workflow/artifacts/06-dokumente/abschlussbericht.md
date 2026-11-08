@@ -193,6 +193,11 @@ Seitenzahlen nach Review v1 (Ist, PDF/A-2b): 445 / 361 / 342 / 329 / 317 / 310 /
 - JEDER Artikel bettet alle seine art-NNNN-abb-M.svg als Figures ein: 645 art-SVGs ueber alle 314 Artikel (2-spaltiges Grid bzw. Einzelabbildung 10,5 cm). Generator-Asserts: 645/645 art-*.svg referenziert (0 orphan), 645/645 image()-Refs existieren auf Disk, 0 warn-art-Orphan. Captions neutralisiert (ART-ID-Dubletten aus SVG-Titel entfernt, Meta im Titel -> neutrale Caption). Praeambel + ART-Register (314) wie v2.6; keine generierten Tabellen.
 - Rebuild v2.7 (PDF/A-2b, 10/10 fehlerfrei): 76 / 60 / 59 / 47 / 56 / 42 / 46 / 57 / 59 / 73 = Σ 575 S. (314 Artikel, 645 Artikel-Abbildungen; +182 S. gegen v2.6 durch die Illustrationen). Meta-Scan v2.7: 0 (nur ART-IDs). prepress nach v2.7/druckdaten/ inkl. proof.json + proof-bericht.md (10x PDF/X-4 + 3-mm-Anschluss + Schnittmarken, 575 S., Fonts embedded, 0 Raster — SVGs bleiben Vektor). ZIP: v2.7/ueberlebenbuch-artikel-v2.7.zip (unzip -t ok).
 
+## 27. Turn 22 — v2.8 final clean nach T15-1 (06-dokumente/v2.8/)
+
+- T15-1 (format-reviewer Turn 15): „WARNPFLICHT“/„warnpflicht“ case-insens aus allen Artikeltexten + Praeambel entfernt (118 Stellen in 23-artikel/ + 25-praeaambel.md); Warnung bleibt als Klartext: „Keine gesonderte Warnung.“, „Warnung siehe ART-NNNN“, Flexionsstamm warnpflichtig -> „sicherheitskritisch“. Rest wie v2.7: alle 645 art-NNNN-abb-M.svg je Artikel (0 orphan, alle image()-Refs existieren), ART-Register 314, Praeambel, keine generierten Tabellen.
+- Rebuild v2.8 (PDF/A-2b, 10/10 fehlerfrei): 76 / 60 / 59 / 47 / 56 / 42 / 46 / 57 / 59 / 73 = Σ 575 S. (314 Artikel, 645 Abb.). Meta-Scan v2.8: 0 (nur ART-IDs; Pattern inkl. (?i)warnpflicht + (?i)TODO). prepress nach v2.8/druckdaten/ inkl. proof.json + proof-bericht.md (10x PDF/X-4 + 3-mm-Anschluss + Schnittmarken, 575 S., Fonts embedded, 0 Raster). ZIP: v2.8/ueberlebenbuch-artikel-v2.8.zip (unzip -t ok).
+
 ## 7. Annahmen (dokumentiert, keine Rueckfragen laut WORKFLOW.md)
 
 1. Register: pro Band Auszug mit eigenen Seitenzahlen; Gesamtregister in Band 10 (Schlussband der Reihe).

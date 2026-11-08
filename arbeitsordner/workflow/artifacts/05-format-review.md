@@ -448,3 +448,31 @@ v2 kompiliert sauber, ART-Register/Referenzen konsistent, v2-Druckdaten als PDF/
 ## Gesamturteil Turn 14 (v2.6): **FREIGEGEBEN**
 
 0 blocker, 0 major; T13-1 und T13-2 vollständig behoben und verifiziert. v2.6: 10/10 fehlerfrei kompiliert (393 S., PDF/A-2b), ART-Register in B10 vollständig (314/314) und konsistent, Präambel sauber, Meta bis auf 2 minor Reste in B10 = 0, keine generierten Tabellen, Druckdaten PDF/X-4 + 3 mm Anschnitt + Schnittmarken intakt mit aktuellem proof, ZIP integer, keine Regressionen in v1/v2.4/v2.5. Verbleibende Minors (MR-3, MR-5, T12-1) für die nächste Revision. v1 bleibt FREIGEGEBEN. Gate G-1 (legal, Band 6) offen — Phase K.
+
+---
+
+# Nachtrag — Re-Review Turn 15: Enzyklopädie v2.7 (`06-dokumente/v2.7/`, Illustrations-Offensive)
+
+**Anlass:** v2.7-Rebuild (doc-builder Turn 21). Tools: poppler/qpdf + frischer typst-Build + pdftotext + SVG-Vollscan.
+
+## Ergebnis
+
+| Prüfpunkt | Status | Nachweis |
+|---|---|---|
+| v2.7 kompiliert fehlerfrei | **JA** | 10/10 rc=0, keine Warnungen; frischer Build seitenzahl-identisch: 76/60/59/47/56/42/46/57/59/73 = **Σ 575 S.**; PDF/A-2b + dc:title. |
+| Abb.-Abdeckung 314/314 | **JA** | Jeder der 314 ART-Labels hat mindestens eine `image()`-Figure im Artikelabschnitt: **314/314**, 0 ohne. |
+| art-SVGs eingebunden + 0 orphan | **JA** | 651 art/warn-art-SVGs in `illustrationen/`, **651 Referenzen** in v2.7-.typ (645 art-abb via image(), 6 warn-art via warnrahmen), 0 orphan, 0 fehlend; 651/651 XML-wohlgeformt; 645 image()-Refs, 0 v1-Crossrefs. ZIP v2.7: 884 Einträge, 840 SVGs, integer. |
+| Meta 0 | **JA bis auf interne Katalog-Flags (minor)** | pdftotext: 0 harte Tokens (Gate/ROT/W-IDs/CL/warn-N/Artefakte/Rollen). Rest: „(WARNPFLICHT)“ in 6 warn-art-SVG-Labels (z. B. art-0197-abb-3: „WARNRAHMEN — MYCOTOXINE (WARNPFLICHT): …“) + „warnpflicht“ in Artikeltexten (B1/B3/B7/B10) und „(Print-TODO, …)“ in art-0009-abb-2.svg — interne Katalog-/Produktions-Flags im Druck (T15-1 minor). SME-Treffer = FSME (False Positive). ART-Register B10: 314/314 ✓. |
+| proof aktuell (Pass D) | **JA** | `v2.7/druckdaten/proof.json` + bericht mtime > alle Druck-PDFs; Werte matchen (76/60/…/73, crop_marks_ok=true). |
+| Druckdaten ok | **JA** | Alle 10 via pdfinfo/qpdf/pdffonts/pdfimages OK: Pages = proof = Quelle, Trim+Bleed (216×303 mm MediaBox), 0 RGB-Ops, 0 Rasterbilder (Vektor), Schnittmarken RegBlack + 0,3 w genau 1×/Seite, PDF/X-4 + OutputIntent, 0 Annots, Fonts embedded. |
+| Regressionen | **keine** | v1 (18:21) und v2.6 (11:27) unverändert. ART-Labels/Refs lückenlos 314, 0 undef. Persistierende Minors: MR-3, MR-5, T12-1, T13-1/2 (in v2.6+ behoben). |
+
+## Restbefund Turn 15 (minor, nicht blockierend)
+
+| # | Befund | Korrektur |
+|---|---|---|
+| T15-1 | „(WARNPFLICHT)“ in 6 warn-art-SVG-Labeln + „warnpflicht“ in Artikeltexten (B1/B3/B7/B10) + „(Print-TODO, …)“ in art-0009-abb-2.svg — interne Katalog-/Produktions-Flags im gerenderten v2.7. | „(WARNPFLICHT)“/„Print-TODO“ aus SVG-Texten und Artikelquellen entfernen; 7 SVGs + betroffene Artikel neu bauen. |
+
+## Gesamturteil Turn 15 (v2.7): **FREIGEGEBEN**
+
+0 blocker, 0 major, 1 minor (T15-1). v2.7: 10/10 fehlerfrei (575 S., PDF/A-2b), Abb.-Abdeckung 314/314, 651/651 art-SVGs eingebunden ohne Orphan, Meta bis auf Katalog-Flags 0, ART-Register B10 = 314, Druckdaten PDF/X-4 + 3 mm Anschnitt + Schnittmarken intakt mit aktuellem Pass-D-proof, keine Regressionen. v1 bleibt FREIGEGEBEN. Gate G-1 (legal, Band 6) offen — Phase K.
