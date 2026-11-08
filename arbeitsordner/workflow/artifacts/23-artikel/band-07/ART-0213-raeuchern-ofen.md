@@ -31,7 +31,7 @@ Fleisch/Fisch/Wurst räuchern: Warmgang (60–80 °C, Kern durchgaren) und Kaltg
 - Nadelholz → ART-0221.
 
 ## Warnungen
-> **WARNRAHMEN — BOTULISMUS TYP E (WARNPFLICHT):** Kaltgeräucherter Fisch (< 30 °C) allein ist **nicht haltbar** — *C. botulinum* Typ E wächst ohne Sauerstoff und ohne ausreichende Kälte. **Zusätzlich salzen/pökeln (ART-0212) oder sofort verbrauchen.** Räuchern nie in geschlossenen Räumen (Brand + CO).
+> **WARNRAHMEN — BOTULISMUS TYP E:** Kaltgeräucherter Fisch (< 30 °C) allein ist **nicht haltbar** — *C. botulinum* Typ E wächst ohne Sauerstoff und ohne ausreichende Kälte. **Zusätzlich salzen/pökeln (ART-0212) oder sofort verbrauchen.** Räuchern nie in geschlossenen Räumen (Brand + CO).
 
 ## Siehe auch
 ART-0221 (Holz & Rauch), ART-0212 (Pökeln), ART-0219 (Wurst), ART-0215 (Salz), ART-0208 (Wege), ART-0197 (Grenzzeichen), ART-0091 (CO).

@@ -301,6 +301,9 @@ Neue warn-Grafiken für WARNPFLICHT-Artikel (Turn 7; bestehende warn-N.svg bleib
 
 ## Änderungen
 
+### 2026-11-08 – Turn 11 / T15-1 (Produktions-Flags aus SVG-Labels)
+Interne Flags aus sichtbaren Texten entfernt: (WARNPFLICHT) in 6 art-Labels (art-0197/0205/0213/0215/0218/0307), (Print-TODO) in art-0009-abb-2, dazu ALL-CAPS WARNRAHMEN/Warnpflicht, „Katalog §“-Refs und Markdown-Sterne (*…*). Sanitizer clean() entsprechend erweitert (WARNRAHMEN—X → „Warnung: X“, Print-TODO → „Druckausgabe“, Warnpflicht lt. → „siehe“, Flags/TODO/FIXME/BACKLOG/Sterne entfernt). Warnungs-Inhalt bleibt fachlich erhalten. 14 betroffene art-Dateien neu erzeugt. Re-Validierung: 840/840 wohlgeformt, 0 Produktions-Flags, 0 Meta-Tokens/Rollen, 0 warn-N in art-*, 314/314 Artikel bebildert, 0 Orphans, AA gemessen (min Text 3,81:1 large / sonst ≥ 4,5:1, min Grafik 3,45:1). „Warnrahmen“ (Buch-Element) bleibt als Terminus in Captions.
+
 ### 2026-11-08 – Turn 10 / Illustrations-Offensive (Regel 9; 314/314 Artikel bebildert)
 616 neue `art-NNNN-abb-M.svg` (gesamt 645 art-SVGs): pro Artikel 2 (WARNPFLICHT/≥6 Schritte: 3), Vorlagen Schrittfolge / Material+Maße / Maß-Skizze / Varianten Stadt-Land / Fehler→Folge / Warnpanel aus den echten Artikel-Inhalten (23-artikel). Bestehende 224 SVGs unverändert. Validierung: 840/840 SVGs wohlgeformt, 0 Orphans (jede art-NNNN zu Katalog-ID), 0 Meta-Tokens/Rollen, 0 warn-N in art-*, ART-ID im Bild, Nummerierung lückenlos, AA gemessen (min Text 3,81:1 large / sonst ≥ 4,5:1, min Grafik 3,45:1), selbstenthalten, Graustufen lesbar.
 

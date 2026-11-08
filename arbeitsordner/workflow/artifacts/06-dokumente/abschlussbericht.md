@@ -198,6 +198,16 @@ Seitenzahlen nach Review v1 (Ist, PDF/A-2b): 445 / 361 / 342 / 329 / 317 / 310 /
 - T15-1 (format-reviewer Turn 15): „WARNPFLICHT“/„warnpflicht“ case-insens aus allen Artikeltexten + Praeambel entfernt (118 Stellen in 23-artikel/ + 25-praeaambel.md); Warnung bleibt als Klartext: „Keine gesonderte Warnung.“, „Warnung siehe ART-NNNN“, Flexionsstamm warnpflichtig -> „sicherheitskritisch“. Rest wie v2.7: alle 645 art-NNNN-abb-M.svg je Artikel (0 orphan, alle image()-Refs existieren), ART-Register 314, Praeambel, keine generierten Tabellen.
 - Rebuild v2.8 (PDF/A-2b, 10/10 fehlerfrei): 76 / 60 / 59 / 47 / 56 / 42 / 46 / 57 / 59 / 73 = Σ 575 S. (314 Artikel, 645 Abb.). Meta-Scan v2.8: 0 (nur ART-IDs; Pattern inkl. (?i)warnpflicht + (?i)TODO). prepress nach v2.8/druckdaten/ inkl. proof.json + proof-bericht.md (10x PDF/X-4 + 3-mm-Anschluss + Schnittmarken, 575 S., Fonts embedded, 0 Raster). ZIP: v2.8/ueberlebenbuch-artikel-v2.8.zip (unzip -t ok).
 
+## 28. Turn 23 — v2.8 frisches Komplett-Rebuild nach T16-1 (06-dokumente/v2.8/)
+
+- T16-1: v2.8/ geleescht und komplett neu gebaut aus aktuellen Quellen (23-artikel/ + sanitized illustrationen/, 840 SVGs). Dabei gefunden und gefixt: (1) Titelblatt-Boilerplate in lib/stil.typ enthielt v1-Querverweis-Schema „Konzept X.Y“/„Konzept B-X.Y“ -> modus-abhaengig gemacht (`modus: "v2"` in v2.8: ART-NNNN-Querverweise; v1-Default unveraendert); (2) art-0261-abb-1.svg enthielt noch „según Werkstoff“ -> „je nach Werkstoff“; (3) „Konzept-Nr.“ in ART-0035 -> „Artikel-Nr.“. 645/645 art-SVGs eingebettet (0 orphan, assert).
+- Rebuild v2.8 (PDF/A-2b, 10/10 fehlerfrei): 76/60/59/47/56/42/46/57/59/73 = Σ 575 S. (314 Artikel, 645 Abb.). Meta-Scan: 0 ueber die .typ-Quellen UND 0 ueber die NEUEN PDFs selbst (pdftotext aller 10 Baende; Pattern inkl. (?i)warnpflicht, (?i)TODO, W/L/BL/BW-IDs, warn-N, Konzept X.Y, Phase H, Fremdwoerter). prepress Pass A-D frisch nach v2.8/druckdaten/ (10x PDF/X-4 + 3-mm-Anschluss + Schnittmarken, proof.json 10/10 ok, 575 S., Fonts embedded, 0 Raster). ZIP v2.8 frisch (unzip -t ok).
+
+## 29. Turn 24 — v2.9 final nach research-b07 Text-Clean (06-dokumente/v2.9/)
+
+- Komplettes frisches Rebuild: v2.8/ geleescht, v2.9/ neu gebaut aus aktuellen 23-artikel/ + sanitized illustrationen/ (840 SVGs). Generator-Cleanups weiter aktiv (T15-1 warnpflicht case-insens -> Warnung/sicherheitskritisch, T16-1 modus: "v2" Titelblatt, Print-TODO/NOTES). 645/645 art-SVGs je Artikel eingebettet (assert: 0 orphan, alle image()-Refs existieren). Praeambel, ART-Register 314, keine generierten Tabellen.
+- Rebuild v2.9 (PDF/A-2b, 10/10 fehlerfrei): 76 / 60 / 59 / 47 / 56 / 42 / 46 / 57 / 59 / 73 = Σ 575 S. (314 Artikel, 645 Abb.). Meta-Scan 0 ueber .typ-Quellen UND 0 ueber die NEUEN PDFs selbst (pdftotext aller 10 Baende, inkl. (?i)TODO/(?i)warnpflicht/(?i)print-todo). prepress Pass A-D nach v2.9/druckdaten/ (10x PDF/X-4 + 3-mm-Anschluss + Schnittmarken, proof.json 10/10 ok, 575 S., Fonts embedded, 0 Raster). ZIP: v2.9/ueberlebenbuch-artikel-v2.9.zip (unzip -t ok). v2.8/ wurde wie angewiesen entfernt.
+
 ## 7. Annahmen (dokumentiert, keine Rueckfragen laut WORKFLOW.md)
 
 1. Register: pro Band Auszug mit eigenen Seitenzahlen; Gesamtregister in Band 10 (Schlussband der Reihe).

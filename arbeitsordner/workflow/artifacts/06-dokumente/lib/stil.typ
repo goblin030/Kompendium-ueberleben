@@ -39,7 +39,7 @@
   show heading.where(level: 3): it => block(above: 7pt, below: 4pt, text(size: 12pt, weight: "bold", fill: fc)[#it.body])
 }
 
-#let titlepage(band, titel, farbe: "#1a5fb4") = [
+#let titlepage(band, titel, farbe: "#1a5fb4", modus: "v1") = [
   #align(center)[
     #v(3.2cm)
     #text(13pt, tracking: 2pt)[DAS ÜBERLEBENBUCH]
@@ -51,8 +51,13 @@
     #text(11pt)[Kompendium in zehn Bänden — Nachschlagewerk für Krisenlagen]
     #v(0.5cm)
     #text(9.5pt, fill: rgb("#4d4d4d"))[
-      Jeder Band ist ein eigenständiges Nachschlagewerk: Konzept-Nummern X.Y, Checklisten, Tabellen, Baustein-Kästen, Warnrahmen.
-      Querverweise innerhalb eines Bandes: „Konzept X.Y“; zwischen Bänden: „Konzept B<Band>-X.Y“.
+      #if modus == "v2" [
+        Jeder Band ist ein eigenständiges Nachschlagewerk: Artikel ART-NNNN, Checklisten, Tabellen, Baustein-Kästen, Warnrahmen.
+        Querverweise innerhalb eines Bandes: „ART-NNNN, S. …“; zwischen Bänden: „ART-NNNN (Band N)“.
+      ] else [
+        Jeder Band ist ein eigenständiges Nachschlagewerk: Konzept-Nummern X.Y, Checklisten, Tabellen, Baustein-Kästen, Warnrahmen.
+        Querverweise innerhalb eines Bandes: „Konzept X.Y“; zwischen Bänden: „Konzept B<Band>-X.Y“.
+      ]
     ]
   ]
 ]

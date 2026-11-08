@@ -26,7 +26,7 @@ Richtig salzen heißt: **nur Salz bekannter Herkunft** (Meersalz, Siedesalz, Ste
 - Not-Reserve im offenen Sack → keine Reserve.
 
 ## Warnungen
-> **WARNRAHMEN — UNBEKANNTES SALZ (WARNPFLICHT):** **Streusalz und Regeneriersalz nie in die Küche** — Ferrocyanid-Rieselhilfe und Verunreinigungen; Streusalz kann Frostschutzmittel tragen, Regeneriersalz ist für Maschinen geschrieben. Nur Salz **bekannter Herkunft** (Meersalz, Siedesalz, Steinsalz kontrollierter Quelle). Ungeklärtes weißes Korn wird nie gekostet, nie gepökelt, nie verfüttert — Herkunft zuerst, Probe zuletzt (wie Wasser, ART-0050).
+> **WARNRAHMEN — UNBEKANNTES SALZ:** **Streusalz und Regeneriersalz nie in die Küche** — Ferrocyanid-Rieselhilfe und Verunreinigungen; Streusalz kann Frostschutzmittel tragen, Regeneriersalz ist für Maschinen geschrieben. Nur Salz **bekannter Herkunft** (Meersalz, Siedesalz, Steinsalz kontrollierter Quelle). Ungeklärtes weißes Korn wird nie gekostet, nie gepökelt, nie verfüttert — Herkunft zuerst, Probe zuletzt (wie Wasser, ART-0050).
 > **Baustein:** „Salz aus der Winterstreuung ist für die Straße, nicht für den Topf.“
 
 ## Siehe auch

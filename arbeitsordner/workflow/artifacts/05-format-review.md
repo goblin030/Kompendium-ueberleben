@@ -476,3 +476,31 @@ v2 kompiliert sauber, ART-Register/Referenzen konsistent, v2-Druckdaten als PDF/
 ## Gesamturteil Turn 15 (v2.7): **FREIGEGEBEN**
 
 0 blocker, 0 major, 1 minor (T15-1). v2.7: 10/10 fehlerfrei (575 S., PDF/A-2b), Abb.-Abdeckung 314/314, 651/651 art-SVGs eingebunden ohne Orphan, Meta bis auf Katalog-Flags 0, ART-Register B10 = 314, Druckdaten PDF/X-4 + 3 mm Anschnitt + Schnittmarken intakt mit aktuellem Pass-D-proof, keine Regressionen. v1 bleibt FREIGEGEBEN. Gate G-1 (legal, Band 6) offen — Phase K.
+
+---
+
+# Nachtrag — Re-Review Turn 16 (final) auf v2.8 (`06-dokumente/v2.8/`)
+
+**Anlass:** v2.8 „final clean" (Turn 22). Tools: poppler/qpdf + frischer typst-Build + pdftotext + mtime-Abgleich.
+
+## Ergebnis
+
+| Prüfpunkt | Status | Nachweis |
+|---|---|---|
+| v2.8 kompiliert fehlerfrei | **JA (Quellen)** | 10/10 rc=0, keine Warnungen; frischer Build seitenzahl-identisch: 76/60/59/47/56/42/46/57/59/73 = **575 S.**; PDF/A-2b + dc:title. |
+| Meta 0 | **Quellen JA, gelieferte PDFs NEIN (T16-1)** | Frischer Build aus aktuellen Quellen: **0** Flag-Tokens (warnpflicht/TODO/Gate/ROT/warn-N). Aber die gelieferten `v2.8/band-*-v2.pdf` (gebaut 13:02) enthalten noch WARNPFLICHT ×5 (band-07) + TODO ×1 (band-01) — die art-SVGs wurden erst 13:04 sanitizt; die PDFs sind also **2 Minuten älter als die bereinigten SVGs** (stale build). |
+| T15-1 behoben? | **in Quellen JA, in PDFs NEIN** | `illustrationen/README.md` dokumentiert Sanitizer (14 art-Dateien neu, 840/840 clean); Sourcen clean — aber die shipped PDFs/Druckdaten wurden davor gebaut. |
+| Abb. vollständig | **JA** | 314/314 Artikel mit Figure; 651/651 art-SVGs referenziert, 0 orphan, 0 fehlend; ART-Register B10 = 314. |
+| proof aktuell | **JA, aber gegen die stale PDFs** | `v2.8/druckdaten/proof.json` (13:04) mtime > druck-PDFs (13:03), Werte matchen (575 S., crop_marks_ok=true) — proof beschreibt die veralteten PDFs. |
+| Druckdaten ok | **JA technisch, aber stale** | Alle 10 via pdfinfo/qpdf/pdffonts/pdfimages OK (Pages=proof, 216×303 mm, Trim+Bleed, 0 RGB, 0 Raster, Marken 1×/Seite, PDF/X-4+OI, 0 Annots, Fonts embedded) — aber aus den stale PDFs erzeugt. |
+| Regressionen | **keine** | v1 (18:21) und v2.7 (12:52) unverändert. ART-Labels/Refs lückenlos 314, 0 undef. |
+
+## Befund Turn 16
+
+| # | Schwere | Befund | Korrektur |
+|---|---|---|---|
+| T16-1 | **major** | Gelieferte v2.8-PDFs und v2.8-Druckdaten sind **veraltet**: gebaut 13:02, die art-SVG-Sanitizing lief 13:04 — die PDFs enthalten noch die internen Flags „(WARNPFLICHT)“/„(Print-TODO)“ (T15-1 im Lieferartefakt nicht behoben). Frischer Build aus den aktuellen Quellen ist sauber (0 Flags) und seitenzahl-identisch (575 S.). | v2.8 komplett neu bauen (typst compile) + prepress (Pass A–D) + proof neu — dann sind PDFs/Druckdaten wieder deckungsgleich mit den Quellen. |
+
+## Gesamturteil Turn 16 (v2.8): **NACHBESSERN** (einziger Punkt: T16-1 stale Build)
+
+0 blocker, 1 major. Quellen sind grün (kompilieren fehlerfrei, Meta 0, Abb. 314/314, 0 orphan, ART-Register 314, Register konsistent) — aber die gelieferten PDFs/Druckdaten wurden vor der SVG-Bereinigung gebaut und tragen noch WARNPFLICHT/Print-TODO. Nach Rebuild + prepress + proof (mein Test-Build ist sauber und seitenzahl-identisch) Re-Review Turn 17 → dann FREIGEGEBEN. v1 bleibt FREIGEGEBEN. Gate G-1 (legal, Band 6) offen — Phase K.

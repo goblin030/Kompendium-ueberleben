@@ -8,7 +8,7 @@ Du findest jeden Artikel in unter 20 Sekunden — auch ohne Strom: Daumenregiste
 
 ## Material + Maße
 
-- Gedrucktes Exemplar mit Daumenregister (Print-TODO, 
+- Gedrucktes Exemplar mit Daumenregister
 - Register (zentral, 363 Einträge, zentrales ART-Register)
 - TOC pro Band
 - „Erste 20 Minuten“-Kapitel (V3)

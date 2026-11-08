@@ -32,7 +32,7 @@ An jedem Lebensmittelposten schnell und sicher entscheiden: **retten / sofort es
 - Im Zweifel essen statt wegwerfen → Vergiftung; im Zweifel gewinnt das Wegwerfen.
 
 ## Warnungen
-> **WARNRAHMEN — MYCOTOXINE (WARNPFLICHT):** Verschimmeltes **Korn, Brot und Nüsse nie retten** — Mykotoxine penetrieren das ganze Stück/Charge. **Botulismus im Öl-Glas:** kein Geruch, keine Blase, keine Probe — wer nicht säuern kann, legt nicht ein (ART-0203). **Ranz** (Fett/Öl/Nüsse): bitterer Biss, wachsige Kruste = weg; kein Gift einer Nacht, sondern eines Jahres.
+> **WARNRAHMEN — MYCOTOXINE:** Verschimmeltes **Korn, Brot und Nüsse nie retten** — Mykotoxine penetrieren das ganze Stück/Charge. **Botulismus im Öl-Glas:** kein Geruch, keine Blase, keine Probe — wer nicht säuern kann, legt nicht ein (ART-0203). **Ranz** (Fett/Öl/Nüsse): bitterer Biss, wachsige Kruste = weg; kein Gift einer Nacht, sondern eines Jahres.
 
 ## Siehe auch
 ART-0198 (Kühlschrank/TK), ART-0203 (Einkochen), ART-0218 (Dörrware, Schimmel), ART-0205 (Getreide), ART-0209 (Kammer), ART-0216 (Feinde).

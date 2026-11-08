@@ -30,7 +30,7 @@ Fleisch, Fisch, Obst, Kraut und Pilze sicher dörren: **Preheat 71 °C Kern** vo
 - Schimmel an Dörrware „wegschneiden“ → Mykotoxine penetrieren (ART-0197).
 
 ## Warnungen
-> **WARNRAHMEN — HALBTROCKENE DÖRRFALLE (WARNPFLICHT):** **USDA-Preheat: Fleisch und Fisch vor dem Dörren auf 71 °C Kern erhitzen.** Halbtrocken (biegt sich noch, statt spröde zu brechen; aw > 0,85) ist die tödliche Falle — darauf wachsen S. aureus (Enterotoxin hitzestabil) und C. perfringens. Dörrware muss **spröde brechen (Brechprobe)**, Scheiben **fingerdünn**. **Schimmel auf Dörrware → ganz wegwerfen** (Mykotoxine penetrieren, ART-0197).
+> **WARNRAHMEN — HALBTROCKENE DÖRRFALLE:** **USDA-Preheat: Fleisch und Fisch vor dem Dörren auf 71 °C Kern erhitzen.** Halbtrocken (biegt sich noch, statt spröde zu brechen; aw > 0,85) ist die tödliche Falle — darauf wachsen S. aureus (Enterotoxin hitzestabil) und C. perfringens. Dörrware muss **spröde brechen (Brechprobe)**, Scheiben **fingerdünn**. **Schimmel auf Dörrware → ganz wegwerfen** (Mykotoxine penetrieren, ART-0197).
 > **Baustein:** „Dörrware bricht, sie biegt sich nicht. Und was schimmelt, fliegt ganz raus.“
 
 ## Siehe auch
