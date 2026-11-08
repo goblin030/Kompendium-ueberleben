@@ -108,6 +108,9 @@ def shift_headings(md):
     return "\n".join(out)
 
 
+HERE_OUT = HERE  # wird in main() via --out überschrieben
+
+
 def build_band(band, pandoc, workdir):
     bdir = os.path.join(ARTIKEL, f"band-{band:02d}")
     files = sorted(f for f in os.listdir(bdir) if re.match(r"ART-\d{4}-.*\.md$", f))
@@ -145,7 +148,7 @@ def build_band(band, pandoc, workdir):
     css = os.path.join(workdir, "epub.css")
     open(css, "w", encoding="utf-8").write(CSS)
     cover = os.path.join(COVER, f"cover-band-{band:02d}.jpg")
-    epub = os.path.join(HERE, f"band-{band:02d}.epub")
+    epub = os.path.join(HERE_OUT, f"band-{band:02d}.epub")
     cmd = [
         pandoc, "-f", "markdown", "-t", "epub3",
         "--toc", "--toc-depth=2", "--split-level=2",
@@ -202,9 +205,12 @@ def main():
     ap.add_argument("--epubcheck", default="/tmp/epubcheck-5.3.0/epubcheck.jar")
     ap.add_argument("--band", type=int, default=0)
     ap.add_argument("--no-check", action="store_true")
+    ap.add_argument("--out", default=HERE, help="Zielverzeichnis für die EPUBs (Default: epub/ neben dem Skript)")
     args = ap.parse_args()
 
-    os.makedirs(HERE, exist_ok=True)
+    global HERE_OUT
+    HERE_OUT = args.out
+    os.makedirs(HERE_OUT, exist_ok=True)
     workdir = os.path.join(HERE, "build")
     os.makedirs(workdir, exist_ok=True)
 
@@ -221,7 +227,7 @@ def main():
                  "abbildungen": n_img, "bytes": size}
         if not args.no_check:
             rc, msg = run_epubcheck(epub, args.java, args.epubcheck,
-                                    os.path.join(HERE, f"epubcheck-band-{band:02d}.txt"))
+                                    os.path.join(HERE_OUT, f"epubcheck-band-{band:02d}.txt"))
             entry["epubcheck_rc"] = rc
             entry["epubcheck"] = msg
             log(f"  {os.path.basename(epub)}: {n_art} Artikel, {n_img} Abb., "
@@ -229,7 +235,7 @@ def main():
         else:
             log(f"  {os.path.basename(epub)}: {n_art} Artikel, {n_img} Abb., {size/1e6:.1f} MB")
         summary.append(entry)
-    open(os.path.join(HERE, "build-report.json"), "w", encoding="utf-8").write(
+    open(os.path.join(HERE_OUT, "build-report.json"), "w", encoding="utf-8").write(
         json.dumps({"tool": "build_epub.py", "quelle": "23-artikel + v3.2/band-NN-v2.typ (Captions) + illustrationen/",
                     "epub_version": "EPUB 3 (epub3), EPUBCheck 5.3.0", "baende": summary}, indent=2, ensure_ascii=False))
     log("Fertig. build-report.json geschrieben.")

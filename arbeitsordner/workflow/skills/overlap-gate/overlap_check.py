@@ -8,11 +8,14 @@ Erkennt zuverlässig die sichtbaren Überlagerungen, die der Owner gemeldet hat:
       (keine dunklen Pixel im Wort-Rechteck) → Text wird von Bild überdeckt.
   F2  text_on_figure_ink   — Wort liegt in Abbildungs-Fläche UND das Render zeigt
       > 45 % dunkle Pixel im Wort-Rechteck → Text sitzt auf Bild-Tinte.
+  F0  text_in_figure_area  — Doku-Wort (≥ 7 pt) liegt zu > 30 % seiner Fläche innerhalb
+      eines Abbildungs-Rechtecks → Text im Bildbereich (Caption im Bild, Text über Bild).
   F3  line_through_text    — horizontale Linie (≥ 20 pt lang, |Δy| ≤ 1,5 pt) kreuzt
       ein sichtbares Wort über > 55 % seiner Breite → „Linie durch Text“ (K5b).
-  L1  hidden_svg_label     — SVG-Label (< 7 pt) innerhalb einer Abbildungs-Fläche,
-      das im Render unsichtbar ist (0 dunkle Pixel) → Label wird von einem später
-      gemalten Shape im selben SVG überdeckt (Z-Order-Fehler, illustrator).
+  L1  hidden_svg_label     — SVG-Label von späterem Shape überdeckt (Z-Order). Wird
+      NICHT im Render gemessen (Subset-Font-BBoxes kleiner Grade sind versetzt →
+      False Positives), sondern quellseitig via `svg_zorder_check.py` (0 verdeckte
+      Labels nach text-last).
 
 Grundlage: pdfplumber liefert Wörter (echte Text-Objekte; SVG-Labels sind in
 Typst-PDFs Vektorpfade und erzeugen keine False Positives) und Vektor-Rechtecke;
@@ -53,6 +56,21 @@ def inter(a, b):
     return ix * iy
 
 
+def lum(color):
+    if color is None:
+        return 1.0
+    if isinstance(color, (int, float)):
+        return float(color)
+    if isinstance(color, (tuple, list)):
+        v = [float(c) for c in color[:3]]
+        if all(c <= 1.0 for c in v):
+            r, g, b = v
+        else:
+            r, g, b = (c / 255.0 for c in v)
+        return 0.299 * r + 0.587 * g + 0.114 * b
+    return 1.0
+
+
 def load_pgm(path):
     with open(path, "rb") as f:
         magic = f.readline()
@@ -82,12 +100,17 @@ def check_pdf(path, dpi=DPI):
             for i, page in enumerate(pdf.pages):
                 img = load_pgm(os.path.join(td, pages[i]))
                 all_words = page.extract_words(extra_attrs=["size"])
+                # Abbildungs-Rechtecke: weiß gefüllt (lum >= 0,995) und groß —
+                # Warn-/Info-Boxen (#fdf1ea, #eef4f8, #efefef) sind helle
+                # Design-Flächen, Text darin ist beabsichtigt (kein Befund)
                 figs = [(o["x0"], o["top"], o["x1"], o["bottom"])
                         for o in page.rects
-                        if o.get("fill") and (o["x1"] - o["x0"]) >= FIG_MIN_W
+                        if o.get("fill") and lum(o.get("non_stroking_color")) >= 0.995
+                        and (o["x1"] - o["x0"]) >= FIG_MIN_W
                         and (o["bottom"] - o["top"]) >= FIG_MIN_H]
                 # Doku-Wörter (>= 7pt bzw. außerhalb der Abb.-Rechtecke) und
                 # SVG-Labels (< 7pt, nur innerhalb der Abb.-Rechtecke) getrennt
+                PAD = 3
                 words, labels = [], []
                 for w in all_words:
                     wb = (w["x0"], w["top"], w["x1"], w["bottom"])
@@ -98,27 +121,24 @@ def check_pdf(path, dpi=DPI):
                             labels.append((w, wb, in_fig))
                         continue
                     words.append(w)
-                # L1: verdeckte SVG-Labels (Render: keine Tinte im Wort-Rechteck)
-                for w, wb, _ in labels:
-                    if not re.search(r"[A-Za-z0-9ÄÖÜäöüß✓]", w["text"]):
-                        continue
-                    x0, y0, x1, y1 = [int(v * S) for v in wb]
-                    reg = img[y0:y1 + 1, x0:x1 + 1]
-                    frac = float((reg < DARK).mean()) if reg.size else 1.0
-                    if frac < HIDDEN_FRAC:
-                        findings.append({"class": "L1_hidden_svg_label",
-                                         "page": i + 1, "word": w["text"],
-                                         "bbox": [round(v, 1) for v in wb],
-                                         "dark_frac": round(frac, 3)})
+                # L1 (verdeckte SVG-Labels) wird quellseitig geprüft
+                # (svg_zorder_check.py) — Render-BBoxes kleiner Subset-Fonts
+                # sind zu ungenau. `labels` bleibt nur für die Statistik.
+                _ = labels
                 for w in words:
                     if not re.search(r"[A-Za-z0-9ÄÖÜäöüß]", w["text"]):
                         continue  # reines Satzzeichen -> Render-Frac unsicher
                     wb = (w["x0"], w["top"], w["x1"], w["bottom"])
                     wa = max(1e-6, (wb[2] - wb[0]) * (wb[3] - wb[1]))
                     x0, y0, x1, y1 = [int(v * S) for v in wb]
-                    reg = img[y0:y1 + 1, x0:x1 + 1]
+                    reg = img[max(0, y0 - PAD):y1 + 1 + PAD, max(0, x0 - PAD):x1 + 1 + PAD]
                     frac = float((reg < DARK).mean()) if reg.size else 1.0
                     in_fig = any(inter(wb, f) > AREA_FRAC * wa for f in figs)
+                    if in_fig:
+                        findings.append({"class": "F0_text_in_figure_area",
+                                         "page": i + 1, "word": w["text"],
+                                         "bbox": [round(v, 1) for v in wb],
+                                         "dark_frac": round(frac, 3)})
                     if frac < HIDDEN_FRAC:
                         findings.append({"class": "F1_text_hidden_in_figure" if in_fig else "F1_text_hidden",
                                          "page": i + 1, "word": w["text"],
@@ -135,10 +155,10 @@ def check_pdf(path, dpi=DPI):
                         continue  # (bereits auf Doku-Schrift gefiltert)
                     wb = (w["x0"], w["top"], w["x1"], w["bottom"])
                     x0, y0, x1, y1 = [int(v * S) for v in wb]
-                    reg = img[y0:y1 + 1, x0:x1 + 1]
+                    reg = img[max(0, y0 - PAD):y1 + 1 + PAD, max(0, x0 - PAD):x1 + 1 + PAD]
                     frac = float((reg < DARK).mean()) if reg.size else 1.0
-                    if frac < HIDDEN_FRAC:
-                        continue  # bereits F1
+                    if frac < 0.005:
+                        continue  # bereits F1/L1
                     for ln in page.lines:
                         if abs(ln["bottom"] - ln["top"]) > LINE_DY_MAX:
                             continue

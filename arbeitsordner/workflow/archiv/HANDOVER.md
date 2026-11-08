@@ -1,4 +1,4 @@
-# HANDOVER — frische Session (Stand 2026-11-08, Phase K digital first erledigt — nächster Commit nach 9f22aa9/v3.2)
+# HANDOVER — frische Session (Stand 2026-11-08, v3.3 + review-v14 — Commits 6ca8dd4, cb0f55e, 56052c3, nächster: v3.3-Durchlauf)
 
 Alles ist gepusht auf `main`. In der neuen Session genügt dieser eine Satz:
 
@@ -12,7 +12,7 @@ Alles ist gepusht auf `main`. In der neuen Session genügt dieser eine Satz:
 
 ## Offen (Backlog) — Stand nach Phase K (2026-11-08)
 
-1. **Erledigt:** Publikation digital first (DEP-4): `v3.2/epub/band-01..10.epub` (EPUBCheck 10/10 valide) + Volltextsuche `v3.2/suche/` (314 Artikel) + ONIX final (00/04/10/11/13/14). Gate G-1 projektseitig abgeschlossen (13 §11: A1 in Quelle+EPUB, A2 in v3.2; PDF-Nachtrag v3.3).
+1. **Erledigt:** v3.3-Durchlauf (text-last-SVGs, Overlap-Gate 0 Befunde, review-v14 offen). Publikation digital first (DEP-4): `v3.2/epub/band-01..10.epub` (EPUBCheck 10/10 valide) + Volltextsuche `v3.2/suche/` (314 Artikel) + ONIX final (00/04/10/11/13/14). Gate G-1 projektseitig abgeschlossen (13 §11: A1 in Quelle+EPUB, A2 in v3.2; PDF-Nachtrag v3.3).
 2. **Print-TODO:** Plan in 14-publikation.md §7 (Daumenregister v3-print + K8, DEP-5 ISBN/Barcode nach MVB, KDP-Print-Cover pro Band) — wartet auf ISBN + Betreiber (LGL-1..5: [ADRESSE]/[UST-IDNR]/[SHOP-URL], Finanzamt, Shop, Steuerberater, Accounts).
 3. **Offen (Betreiber):** Uploads Payhip/KDP/tolino (14 §3.1–3.4), Platzhalter ausfüllen, dann Print-Launch.
 4. Marktanalyse-Vorschlaege V1-V12 (17-marktanalyse-beyondcamping.md; V8=DEP-4 erledigt)

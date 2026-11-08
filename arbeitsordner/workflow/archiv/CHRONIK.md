@@ -2094,3 +2094,14 @@ Event-Typen siehe WORKFLOW.md „Logging“.
 | 2026-11-08T17:42:00+01:00 | doc-builder | decision | Overlap-Gate im Build: 0 Befunde über alle PDFs vor visual-qa; figures nur im Fluss, gap ≥ 8pt, Caption unterhalb Bild-Rechteck | agents/07-doc-builder.md |
 | 2026-11-08T17:43:00+01:00 | visual-qa | decision | K8 (F1/F2/F3) + K9 (L1) als Gate-Klassen; rot = Rebuild-Pflicht | agents/20-visual-qa.md, 23-layout-inspector.md, PROMPT-REGELN.md |
 | 2026-11-08T17:44:00+01:00 | archivar | output | PROMPT-REGELN Regel 13, agents „Alle 13 Regeln", LEKTIONEN-Nachtrag, BACKLOG §10 OV-1/OV-2 | archiv/*, PROMPT-REGELN.md |
+
+
+### Durchlauf v3.3 + review-v14 (2026-11-08, 20:05–20:09+01:00, Phase K)
+
+| ts | agent | event | detail | artifact |
+|---|---|---|---|---|
+| 2026-11-08T20:05:00+01:00 | illustrator | output | 645 art-SVGs text-last (svg_textlast.py); Quell-Check 0 verdeckte Labels; XML valide; Meta 0 | 06-dokumente/illustrationen/art-*.svg |
+| 2026-11-08T20:06:00+01:00 | doc-builder | output | v3.3: 10/10 compile PDF/A-2b, 580 S. (seitenzahl-identisch), Overlap-Gate 0 Befunde (580 S.), EPUBs v3.3/epub EPUBCheck 10/10 valide, Meta 0 | 06-dokumente/v3.3/ |
+| 2026-11-08T20:07:00+01:00 | orchestrator | decision | Gate kalibriert: L1 quellseitig (Subset-Font-BBox zu ungenau), F0-F3 nur Doku-Text >=7pt, Abb.-Rechtecke weiß >=150x100pt | skills/overlap-gate/ |
+| 2026-11-08T20:08:00+01:00 | orchestrator | output | review-v14/ angelegt (v3.3 PDFs + EPUBs + Suche + README) zum Owner-Review freigegeben | review-v14/ |
+| 2026-11-08T20:09:00+01:00 | archivar | output | BACKLOG OV-1 erledigt, review-v14 offen; HANDOVER aktualisiert | archiv/* |

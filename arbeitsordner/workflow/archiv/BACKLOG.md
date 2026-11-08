@@ -65,6 +65,7 @@
 | review-v6 | vorhanden | Zeichnungen zu abstrakt → praxisnäher; Farbe in Grafiken UND Text (Farbregel: nie nur Farbe, WCAG AA, CMYK/PDF-UA bleiben) | v7: 189 SVGs neu (gegenständlich + semantische Palette), Bandfarben im Layout, Kontrast gemessen | **erledigt (`9348e64`, `b1e2337`)** |
 | review-v7 | **offen** — `review-v7/FEEDBACK.md` existiert noch nicht | Owner-Review des aktuellen Stands (`b1e2337`) ausstehend | — | **offen** — Feedback bitte als `review-v7/FEEDBACK.md` oder `review_feedback`-Event im Log |
 | review-v13 | `review-v13/README.md` (v3.2 final PDFs + EPUB 10/10 + Volltextsuche, Phase K DEP-4) | Owner-Review der digitalen Produkte (EPUB-Reader, Suche, G-1 A1 in band-06) | — | **offen (2026-11-08)** — Feedback bitte als `review-v13/FEEDBACK.md` oder `review_feedback`-Event im Log |
+| review-v14 | `review-v14/README.md` (v3.3: text-last-SVGs, Overlap-Gate 0 Befunde, PDFs+EPUB+Suche) | Owner-Review: Figure-Labels sichtbar? Warnbox vs. Figure-Grid (Band 7) visuell bestätigen | — | **offen (2026-11-08)** — Feedback bitte als `review-v14/FEEDBACK.md` oder `review_feedback`-Event im Log |
 
 ## 6. Marktanalyse `17-marktanalyse-beyondcamping.md` — Vorschläge V1–V12 (alle ungesetzt, Stand `6acf220`)
 
@@ -139,7 +140,7 @@
 
 | ID | Befund | Status |
 |---|---|---|
-| OV-1 | v3.2 (580 S., 10 Bände): **2.501 SVG-Labels innerhalb von Abbildungen verdeckt** (L1, unsichtbar im Render) — Z-Order: Shapes nach Labels gemalt. Doku-Text sauber: F1/F2/F3 = 0 | **offen — Routing illustrator:** SVGs mit text-last neu erzeugen (Quell-Check: 867 Labels in 327/840 SVGs betroffen), dann Rebuild + Gate. Nächster illustrator-Turn |
+| OV-1 | v3.2: SVG-Z-Order (Shapes nach Labels) — 867 verdeckte Labels im Quell-Check (327/840 SVGs). **erledigt (v3.3, 2026-11-08):** 645 art-SVGs per svg_textlast.py auf text-last umgestellt, Quell-Check 0; Rebuild v3.3 + Overlap-Gate 0 Befunde (F0/F1/F2/F3, 580 S.). Kalibrierung: renderbasiertes L1 war BBox-Artefakt (Padding-Test: Labels sichtbar) — L1 wird quellseitig gemessen | **erledigt (v3.3, Commit siehe CHRONIK)** |
 | OV-2 | Gate verankert: Regel 13 in PROMPT-REGELN.md; doc-builder (Gate im Build), illustrator (text-last + Quell-Check), visual-qa/layout-inspector (K8/K9, rot = Rebuild) | **erledigt (2026-11-08)** |
 
 ---
