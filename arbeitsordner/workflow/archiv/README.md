@@ -1,13 +1,14 @@
 # README.md — Pflegeregeln für das Archiv (`workflow/archiv/`)
 
 Dieses Archiv ist das **Gedächtnis des Projekts** (Agent `archivar`, `agents/21-archivar.md`).
-Es besteht aus vier Dateien:
+Es besteht aus fünf Dateien:
 
 | Datei | Zweck | Quelle |
 |---|---|---|
 | `KATALOG.md` | Vollständiger Artefakt-Katalog: Pfad, Typ, Stand/Commit, Version (review-vX), Ersteller-Agent, Datum, Kurzbeschreibung, Abhängigkeiten | `artifacts/`, `review-v*/`, `chat-export*/`, `git log` |
 | `CHRONIK.md` | Chronik der Entscheidungen, phasenweise gruppiert; pro Eintrag ts, agent, event, detail, artifact + Commit-Hashes pro Phase | `logs/workflow.log` (JSONL) + `git log` |
-| `BACKLOG.md` | Offene Punkte/Befunde mit Status (offen / erledigt (Commit …) / blockiert) | `05-format-review.md`, `20-visual-qa.md`, `16-barrierefreiheit.md`, `14-publikation.md` (DEP-*), `review-*/FEEDBACK.md`, `17-marktanalyse-beyondcamping.md` (V1–V12), `13-rechtstexte.md` §9 |
+| `BACKLOG.md` | Offene Punkte/Befunde mit Status (offen / in Arbeit / erledigt (Commit …) / akzeptiert / blockiert) | `05-format-review.md`, `20-visual-qa.md`, `16-barrierefreiheit.md`, `14-publikation.md` (DEP-*), `review-*/FEEDBACK.md`, `17-marktanalyse-beyondcamping.md` (V1–V12), `13-rechtstexte.md` §9 |
+| `LEKTIONEN.md` | Gelernte Lektionen: jeder Fehler kategorisiert (Befund, Root Cause, Präventionsregel, betroffene Agent-Definition) + Top 10 Regeln für `PROMPT-REGELN.md` | alle Logs, `review-*/FEEDBACK.md`, Gate-Artefakte (05/20/16), `24-review-artikel/`, BACKLOG, git log |
 | `README.md` | Diese Pflegeregeln | — |
 
 ## Wann wird aktualisiert (Pflicht)
