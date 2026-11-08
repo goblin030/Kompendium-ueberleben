@@ -176,6 +176,12 @@ Seitenzahlen nach Review v1 (Ist, PDF/A-2b): 445 / 361 / 342 / 329 / 317 / 310 /
 - (2) lib/stil.typ: baustein/kasten-Restrahmen #a9c3d6 (1,83:1) und konzmeta #bfbfbf -> #8c8c8c (>= 3:1, WCAG Grafik).
 - Rebuild v2.4 (PDF/A-2b, 10/10 fehlerfrei): 109 / 72 / 72 / 64 / 64 / 60 / 65 / 80 / 74 / 93 = Σ 753 S. (314 Artikel). Meta-Scan v2.4: 0 (nur ART-IDs). prepress nach v2.4/druckdaten/ inkl. proof.json + proof-bericht.md (10x PDF/X-4 + Schnittmarken). ZIP: v2.4/ueberlebenbuch-artikel-v2.4.zip.
 
+## 24. Turn 19 — v2.5 nach Review v9 (06-dokumente/v2.5/)
+
+- Befund 1 (keine generierten Tabellen mehr): v2.5 baut ausschliesslich Artikel-Inhalt aus 23-artikel/ — die generierten Kontroll-Checklisten, Randbedingungen-, Uebungsprotokoll- und Notizen-Tabellen sind entfernt (0 Vorkommen in v2.5). Artikel-Struktur (Ziel/Material/Schritte/Varianten/Fehler/Warnungen/Siehe auch/Glossar/Uebungsbezug) + art-SVGs + warn-art-SVGs bleiben.
+- Befund 2 (Praeambel): 25-praeaambel.md eingebunden — Gesamtpraeambel (Leitfaden zur Benutzung: Aufbau/Auffinden/Lesen/Ueben/Ethik) vorne in Band 1; Kurzhinweis pro Band als Band-Einfuehrung; zentrales ART-Register A–Z (314 Eintraege mit Seiten) in Band 10.
+- Rebuild v2.5 (PDF/A-2b, 10/10 fehlerfrei): 52 / 36 / 35 / 34 / 32 / 31 / 34 / 35 / 40 / 55 = Σ 384 S. (314 Artikel, reiner Artikel-Umfang). Meta-Scan v2.5: 0. prepress nach v2.5/druckdaten/ inkl. proof.json + proof-bericht.md (10x PDF/X-4 + Schnittmarken). ZIP: v2.5/ueberlebenbuch-artikel-v2.5.zip.
+
 ## 7. Annahmen (dokumentiert, keine Rueckfragen laut WORKFLOW.md)
 
 1. Register: pro Band Auszug mit eigenen Seitenzahlen; Gesamtregister in Band 10 (Schlussband der Reihe).
