@@ -504,3 +504,24 @@ v2 kompiliert sauber, ART-Register/Referenzen konsistent, v2-Druckdaten als PDF/
 ## Gesamturteil Turn 16 (v2.8): **NACHBESSERN** (einziger Punkt: T16-1 stale Build)
 
 0 blocker, 1 major. Quellen sind grün (kompilieren fehlerfrei, Meta 0, Abb. 314/314, 0 orphan, ART-Register 314, Register konsistent) — aber die gelieferten PDFs/Druckdaten wurden vor der SVG-Bereinigung gebaut und tragen noch WARNPFLICHT/Print-TODO. Nach Rebuild + prepress + proof (mein Test-Build ist sauber und seitenzahl-identisch) Re-Review Turn 17 → dann FREIGEGEBEN. v1 bleibt FREIGEGEBEN. Gate G-1 (legal, Band 6) offen — Phase K.
+
+---
+
+# Nachtrag — Re-Review Turn 17 (final final) auf v2.9 (`06-dokumente/v2.9/`)
+
+**Anlass:** v2.9-Rebuild nach T16-1 (stale build). Tools: poppler/qpdf + frischer typst-Build + pdftotext + Text-Diff shipped-vs-fresh + mtime-Abgleich.
+
+## Ergebnis
+
+| Prüfpunkt | Status | Nachweis |
+|---|---|---|
+| Quellen UND PDFs meta-clean, nicht stale | **JA** | mtime-Kette korrekt: art-SVGs 13:04 < v2.9-PDFs 13:16 < druck 13:16 < proof 13:18 — kein stale build mehr. Frischer Build == geliefert (Text-Diff band-10 shipped vs fresh: identisch; Seiten 575 S. identisch). pdftotext shipped PDFs: 0 harte Tokens; Rest nur band-10: „Prüfprotokoll“ ×3 (Sachbegriff in ART-0304-Caption) + „Anhang Feuerprobe“ ×2 (T12-1-Rest, v1-Crossref) — beides Inhalts-/False-Positive-Klasse, in Quelle und PDF deckungsgleich. Frischer Build: 0 Flag-Tokens (WARNPFLICHT/Print-TODO weg — T15-1/T16-1 behoben). |
+| kompilieren fehlerfrei | **JA** | 10/10 rc=0, keine Warnungen; 76/60/59/47/56/42/46/57/59/73 = **575 S.**; PDF/A-2b + dc:title. |
+| Abb. vollständig | **JA** | 314/314 Artikel mit Figure; 651/651 art-SVGs referenziert (0 orphan, 0 fehlend); ART-Register B10 = 314; ART-Labels/Refs 314 lückenlos, 0 undef. |
+| proof aktuell | **JA** | `v2.9/druckdaten/proof.json` (13:18) mtime > druck-PDFs (13:16) **und** > Quell-PDFs (13:16); Werte matchen (76/60/…/73, crop_marks_ok=true); bericht aktuell. |
+| Druckdaten ok | **JA** | Alle 10 via pdfinfo/qpdf/pdffonts/pdfimages OK: Pages = proof = Quelle, MediaBox 216×303 mm, Trim+Bleed, 0 RGB-Ops, 0 Raster (Vektor), Schnittmarken RegBlack + 0,3 w genau 1×/Seite, PDF/X-4 + OutputIntent, 0 Annots, Fonts embedded. ZIP v2.9 integer (884 Einträge, 840 SVGs). |
+| Regressionen | **keine** | v1 (07.11 18:21) unverändert und grün. |
+
+## Gesamturteil Turn 17 (v2.9): **FREIGEGEBEN — final**
+
+0 blocker, 0 major, 0 offene minor von Belang (2 Inhalts-Restverweise in band-10: „Anhang Feuerprobe“, „Prüfprotokoll“-Caption — kosmetisch). v2.9 ist deckungsgleich Quelle↔PDF↔Druckdaten↔proof: 10/10 fehlerfrei kompiliert (575 S., PDF/A-2b), Meta 0, Abb.-Abdeckung 314/314 mit 651/651 SVGs ohne Orphan, ART-Register 314/314, Druckdaten PDF/X-4 + 3 mm Anschnitt + Schnittmarken intakt mit aktuellem Pass-D-proof. T15-1/T16-1 endgültig behoben. v1 bleibt FREIGEGEBEN. Gate G-1 (legal, Band 6) offen — Phase K.

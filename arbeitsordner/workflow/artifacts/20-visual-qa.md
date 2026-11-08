@@ -467,3 +467,28 @@ Kollisionen weiterhin 0, Caption-Abstände weiterhin 4,6 pt, CL-Umbau vollständ
 
 ---
 *Nachtrag Turn 14 (final) durch Agent `visual-qa`, Phase J, 2026-11-08. Log: `logs/workflow.log` (agent=visual-qa).*
+
+---
+
+# Nachtrag — Turn 15: Enzyklopädie v2.9 — FINAL (2026-11-08, nach doc-builder Turn 24 / review-v11)
+
+**Input:** `06-dokumente/v2.9/band-01..10-v2.pdf` = 76/60/59/47/56/42/46/57/59/73 = **575 S.**, 314 Artikel, 645 art-SVGs. **Methode:** wie Turn 6–14 (alle Seiten 150 dpi gray+color, qdf + Parser, pdftotext -bbox, Pixel, WCAG, Meta-Scan per pdftotext auf allen PDFs + Scan aller 645 art-*.svg).
+
+## Ergebnis Turn 15 (v2.9) — final
+
+| Check | v2.8 (Turn 14) | v2.9 (Turn 15) | Status |
+|---|---|---|---|
+| Kollisionen Figure/Box/Caption | 0 | **0** in 575/575 S. (Koord.+Pixel; 645 Figures, Caption-Paare à 4,6 pt, 0 Rahmen-Anomalien) | ✓ gehalten |
+| Meta 0 (pdftotext PDFs + SVG-Scan) | B1: 1× TODO, B7: 5× WARNPFLICHT | **10/10 PDFs CLEAN und 645/645 art-SVGs CLEAN — 0 interne Tokens (inkl. TODO/WARNPFLICHT), nur ART-IDs** | ✓ **vollständig behoben** |
+| 645/645 SVGs, 0 orphan | ✓ | **refs 645 == art-*.svg 645 == gerenderte Figures 645; 0 orphan, 0 missing** | ✓ gehalten |
+| Abb.-Abdeckung | 314/314 | **314/314 Artikel mit Figure** | ✓ gehalten |
+| ART-Refs / TOC / Register | ok | **0 unresolved (314 ART-Defs); refpage 100 % seitenrichtig (B1 5/5 … B7 167/167); TOC S. 2 je Band 5/5 korrekt; ART-Register B10 S. 64 = 314/314** | ✓ gehalten |
+| Kontrast / Graustufen | pass (+minor) | **pass:** Text 18,9–21:1, Rahmen #8c8c8c 3,36:1 / #bd531a 4,76:1; 645/645 Figures graustufen-lesbar (0 leer, ≥ 14 Graustufen); minor: hellste Sekundär-Linien in Figuren ~1,7–2,0:1 (Muster) | ✓ gehalten |
+| Leerraum | 48,3 % < 65 %; 1,7 % nahezu leer | **48,3 % < 65 % (278/575); 1,7 % nahezu leer (10)** | ✓ gehalten |
+
+## Ampel Turn 15 (final) und Gesamturteil
+
+**Ampel: gelb ×10 — Gesamturteil: FREIGEGEBEN (gelb) — v2.9-Gate bestanden, alle Meta-Befunde behoben.** 0 Kollisionen in 575/575 gerenderten Seiten, Meta-Scan 0 in allen 10 PDFs und allen 645 art-SVGs (nur ART-IDs), 645/645 SVGs eingebunden ohne Orphans, Abb.-Abdeckung 314/314, ART-Register 314/314, ART-Refs/TOC fehlerfrei (refpage 100 % seitenrichtig), Kontrast/Graustufen ok. Einziger Befund (minor, gelb): 48,3 % der Seiten unter der 65 %-Satzspiegel-Grenze (1,7 % nahezu leer) — artikelbedingte Teilseiten.
+
+---
+*Nachtrag Turn 15 (final) durch Agent `visual-qa`, Phase J, 2026-11-08. Log: `logs/workflow.log` (agent=visual-qa).*
