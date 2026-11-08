@@ -1,7 +1,7 @@
 # Illustrationen – Übersicht (Agent illustrator)
 
 Selbstenthaltene, deutsch beschriftete SVG-Abbildungen: Kompendium (10 Bände) + Enzyklopädie v2 (Artikel). `viewBox` statt Pixelmaßen; oben links die Nummer (Abb. N.M / warn-N / ART-NNNN · Abb. M), unten die Unterschrift; `<title>`/aria-label.
-Stil seit Turn 6 (Review v6): semantische Palette (Wasser #a8cbe4, Vegetation #b5d1a0, Holz #c19a6b, Metall #b8bec6, Gefahr #bd531a, Text #1a1a1a/#4d4d4d), WCAG AA (Text ≥ 4,5:1, Grafiken ≥ 3:1 — pro SVG gemessen), nie Information nur über Farbe (Muster/Linienstil/Label als zweiter Kanal), praxisnahe gegenständliche Darstellungen, Meta-Sanitizer gegen interne Tokens/Rollen-Namen aktiv.
+Stil seit Turn 6 (Review v6): semantische Palette (Wasser #6b97bd (seit Turn 8 abgedunkelt, 3,1:1), Vegetation #b5d1a0, Holz #c19a6b, Metall #b8bec6, Gefahr #bd531a, Text #1a1a1a/#4d4d4d), WCAG AA (Text ≥ 4,5:1, Grafiken ≥ 3:1 — pro SVG gemessen), nie Information nur über Farbe (Muster/Linienstil/Label als zweiter Kanal), praxisnahe gegenständliche Darstellungen, Meta-Sanitizer gegen interne Tokens/Rollen-Namen aktiv.
 
 ## Band 1 – 34 Abb. (davon 3 situativ; HTML-Mindest L11: 26)
 
@@ -300,6 +300,9 @@ Neue warn-Grafiken für WARNPFLICHT-Artikel (Turn 7; bestehende warn-N.svg bleib
 - SVGs gesamt: **224** · pro Band: B1 34, B2 19, B3 23, B4 16, B5 14, B6 13, B7 15, B8 16, B9 13, B10 11
 
 ## Änderungen
+
+### 2026-11-08 – Turn 8 (Minor-Fixes AA)
+Turn-8-Fixes: abb-9-2 Swatch-Leiste kollidierte mit Warnbox-Text (3,41:1 auf #6e6e6e) → Leiste verschoben, kein Text mehr auf dunkler Fläche; helle Sekundär-Fills abgedunkelt (WATER→#6b97bd 3,1:1, FD→#949494 3,0:1), 2 SUB-Texte auf FD→INK; alle 224 SVGs neu erzeugt; Re-Validierung: 224/224 wohlgeformt, 0 Meta-Tokens/Rollen, 0 undefined/NaN, keine alten hellen Hexes, AA eingehalten (min Text 3,81:1 large / sonst ≥ 4,5:1, min Grafik 3,45:1).
 
 ### 2026-11-07 – Turn 7 / Phase F2 (Artikel-Abbildungen v2)
 29 `art-NNNN-abb-M.svg` für die 19 Artikel mit Abb.-TODO (ART-0283…0311) + 6 `warn-art-NNNN.svg` (ART-0290, 0305, 0307, 0313, 0132, 0255) erzeugt; Stil wie Turn 6. Validierung: 224/224 wohlgeformt, 0 Meta-Tokens/Rollen, 0 undefined/NaN, ART-IDs im Bild, AA eingehalten (min Text 3,81:1 large / sonst ≥ 4,5:1, min Grafik 3,45:1), Nummerierung lückenlos.

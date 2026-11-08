@@ -158,6 +158,13 @@ Seitenzahlen nach Review v1 (Ist, PDF/A-2b): 445 / 361 / 342 / 329 / 317 / 310 /
 - v2.1 gebaut: band-NN-v2.typ + pdf in v2.1/ (TOC mit ART-IDs + Seiten, Artikel alphabetisch, ART-Querverweise mit refpage). Aenderungen gegen v2: 29 art-NNNN-abb-M.svg als Artikel-Abbildungen eingebunden (T8-2), warn-art-NNNN.svg (6 Stueck) als Warn-Grafiken in Warnrahmen verwendet; Fremdwoerter gefixt (según, electronic payment,movilidadseingeschränkt -> mobilitätseingeschränkt), Trennfehler (Gestriche n -> Gestrichen), falsche ART-Querverweise (ART-0283->ART-0284, ART-0314->ART-0023, ART-0153 ff.), NBSP Zahl–Einheit per Regex. Meta-Scan v2.1: 0 (nur ART-IDs).
 - Kompiliert (PDF/A-2b, 10/10 fehlerfrei): 178 / 131 / 127 / 123 / 115 / 114 / 123 / 130 / 123 / 154 = Σ 1318 S. (314 Artikel). prepress-Paesse fuer v2.1 nach v2.1/druckdaten/ inkl. proof.json + proof-bericht.md (T8-3): 10x PDF/X-4 + 3-mm-Anschluss + Schnittmarken, 0 Probleme. ZIP: v2.1/ueberlebenbuch-artikel-v2.1.zip (unzip -t ok).
 
+## 21. Turn 16 — Minor-Runde v2.2 (BACKLOG §8 MR-1..MR-7) in 06-dokumente/v2.2/
+
+- MR-1/MR-7: v1-Crossref-Captions in Band 10 bereinigt — Abb.-Captions in v2.2 sind neutral („Abb. N.M (Band N, siehe Artikel ART-NNNN)“), keine v1-Konzept-/warn-N-Titel mehr; 0 warn-[0-9] in v2.2. MR-2: orphan warn-art-0132.svg wird in ART-0132 eingebunden (warn-art-NNNN.svg grundsaetzlich verwendet, auch ohne WARN-Quote).
+- MR-3: Ampel-Gelb von #8a6d00 (4,28:1 auf #efefef) auf #7a5f00 (5,27:1 auf #efefef, 6,06:1 auf Weiss) abgedunkelt. MR-4: helle Sekundaer-Rahmen #a9c3d6/#bfbfbf -> #8c8c8c (>= 3:1) in lib/stil.typ. (MR-5 abb-9-2.svg Textkontrast ist illustrator-seitig.)
+- MR-6: Artikeldichte erhoeht — pro Artikel zusaetzlich Kontroll-Checkliste (aus den Artikel-Schritten) + Recherche-Details aus 22-recherche-artikel (Fakten/Masse/Fehler/Varianten als Tabelle, v1-Kreuzrefs gestrippt); Erweiterungs-Bloecke fliessen ohne pagebreak (dichteres Layout).
+- Meta-Scan v2.2: 0 (nur ART-IDs als Querverweise). Rebuild v2.2 (PDF/A-2b, 10/10 fehlerfrei): 109 / 72 / 72 / 64 / 64 / 60 / 65 / 80 / 74 / 95 = Σ 755 S. (314 Artikel). prepress-Paesse nach v2.2/druckdaten/ inkl. proof.json + proof-bericht.md (10x PDF/X-4 + Schnittmarken). ZIP: v2.2/ueberlebenbuch-artikel-v2.2.zip.
+
 ## 7. Annahmen (dokumentiert, keine Rueckfragen laut WORKFLOW.md)
 
 1. Register: pro Band Auszug mit eigenen Seitenzahlen; Gesamtregister in Band 10 (Schlussband der Reihe).
