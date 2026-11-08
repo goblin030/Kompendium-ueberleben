@@ -182,6 +182,12 @@ Seitenzahlen nach Review v1 (Ist, PDF/A-2b): 445 / 361 / 342 / 329 / 317 / 310 /
 - Befund 2 (Praeambel): 25-praeaambel.md eingebunden — Gesamtpraeambel (Leitfaden zur Benutzung: Aufbau/Auffinden/Lesen/Ueben/Ethik) vorne in Band 1; Kurzhinweis pro Band als Band-Einfuehrung; zentrales ART-Register A–Z (314 Eintraege mit Seiten) in Band 10.
 - Rebuild v2.5 (PDF/A-2b, 10/10 fehlerfrei): 52 / 36 / 35 / 34 / 32 / 31 / 34 / 35 / 40 / 55 = Σ 384 S. (314 Artikel, reiner Artikel-Umfang). Meta-Scan v2.5: 0. prepress nach v2.5/druckdaten/ inkl. proof.json + proof-bericht.md (10x PDF/X-4 + Schnittmarken). ZIP: v2.5/ueberlebenbuch-artikel-v2.5.zip.
 
+## 25. Turn 20 — v2.6 nach Gates v2.5 (T13-1 major) in 06-dokumente/v2.6/
+
+- T13-1 major: ART-Register in Band 10 auf ALLE 314 Eintraege erweitert (Quelle: 12-register.md §4 ART-Register A–Z; Band-10-eigene Artikel mit `S. #refpage(<art-nnnn>)`, alle uebrigen mit Band-Verweis). Generator-Parser gefixt (lieferte zuvor nur 170/314 wegen Escape-Fehler im Regex); assert len==314 im Generator.
+- Meta-Resttoken bereinigt: WARNPFLICHT-Reste (Band 7/9, 5 Stellen) -> "Warnhinweis" bzw. Klammern entfernt; "(Phase H2)" in Band 10 entfernt. Praeambel wie v2.5 (25-praeaambel.md, Gesamtpraeambel Band 1 + Kurzhinweis pro Band); keine generierten Tabellen (nur Artikel-Inhalt).
+- Rebuild v2.6 (PDF/A-2b, 10/10 fehlerfrei): 52 / 36 / 35 / 34 / 32 / 31 / 34 / 35 / 40 / 64 = Σ 393 S. (314 Artikel). Meta-Scan v2.6: 0 (nur ART-IDs; Pattern inkl. WARNPFLICHT + Phase H). prepress nach v2.6/druckdaten/ inkl. proof.json + proof-bericht.md (10x PDF/X-4 + 3-mm-Anschluss + Schnittmarken 0,3 pt, 393 S., Fonts embedded, 0 Rasterbilder). ZIP: v2.6/ueberlebenbuch-artikel-v2.6.zip (268 Dateien, unzip -t ok).
+
 ## 7. Annahmen (dokumentiert, keine Rueckfragen laut WORKFLOW.md)
 
 1. Register: pro Band Auszug mit eigenen Seitenzahlen; Gesamtregister in Band 10 (Schlussband der Reihe).

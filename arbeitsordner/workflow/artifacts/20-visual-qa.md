@@ -365,3 +365,29 @@ Kollisionen weiterhin 0, Caption-Abstände weiterhin 4,6 pt, CL-Umbau vollständ
 
 ---
 *Nachtrag Turn 10 (final) durch Agent `visual-qa`, Phase J, 2026-11-08. Log: `logs/workflow.log` (agent=visual-qa).*
+
+---
+
+# Nachtrag — Turn 11: Enzyklopädie v2.5 (2026-11-08, nach doc-builder Turn 19 / Review v9)
+
+**Input:** `06-dokumente/v2.5/band-01..10-v2.pdf` = 52/36/35/34/32/31/34/35/40/55 = **384 S.**, 314 Artikel (reiner Artikel-Umfang + Präambel). **Methode:** wie Turn 6–10 (alle Seiten 150 dpi gray+color, qdf + Parser, pdftotext -bbox, Pixel, WCAG, Meta-Scan nur ART-IDs erlaubt).
+
+## Ergebnis Turn 11 (v2.5)
+
+| Check | v2.4 (Turn 10) | v2.5 (Turn 11) | Status |
+|---|---|---|---|
+| Kollisionen | 0 | **0** in 384/384 S. (Koord.+Pixel; B10: 29 Figures, 26 Caption-Paare à 4,6 pt) | ✓ gehalten |
+| Meta-Scan (nur ART-IDs) | 10/10 clean | **9/10 clean; B1: 1× `CL-B1-07`** in der Präambel (S. 4: stale v1-Erklärung „Checklisten … Anhang mit Kennziffer CL-B1-07“, obwohl v2.5 keinen solchen Anhang hat) | ⚠ 1 Resttoken in B1 |
+| Review v9 Befund 1: KEINE generierten Checklisten-/Randbedingungen-/Protokoll-Tabellen | vorhanden in v2.4 | **0 Marker in allen 10 Bänden** (keine `[ ] ___`-Kontrollspalten, keine „Randbedingungen (vor Ort“, keine „Nr. Datum Dauer“-Protokollköpfe, keine Notizblöcke). Verbleibende „Checkliste/Übungsprotokoll/Protokollbogen“-Wörter sind Artikel-Inhalt bzw. ART-Querverweise (z. B. ART-0035) | ✓ behoben |
+| Präambel B1 + Kurzhinweise pro Band | — | **Präambel „Leitfaden zur Benutzung“ in B1 S. 4 ✓; „Einführung dieses Bandes“ in jedem Band S. 3 ✓** (10/10) | ✓ |
+| ART-Register in B10 | — | **vorhanden: „ART-Register (A–Z)“ B10 S. 55** (+ TOC-Eintrag S. 2) | ✓ |
+| ART-Refs / TOC | 0 unresolved, refpage 100 %, TOC ok | **0 unresolved (314 ART-Defs); refpage 100 % seitenrichtig (B1 5/5 … B7 165/165); Artikel-Verzeichnis (TOC) S. 2 je Band, Stichprobe 5/5 korrekt** | ✓ gehalten |
+| Leerraum | 21,2 % < 65 %; 7,0 % nahezu leer | **54,4 % < 65 % (209/384) — Anteil gestiegen, weil Artikel kürzer; nahezu leer 6,0 % (23) — verbessert**; fill_mean 0,54–0,63 | ⚠ <65%-Anteil höher, leer-Anteil niedriger |
+| Kontrast | pass | **pass:** Text min 18,95:1 (schwarz auf Warn-Füllung), Rahmen #8c8c8c 3,36:1 / Warnrahmen #bd531a 4,76:1 ≥ 3:1; 29/29 Figures graustufen-lesbar | ✓ |
+
+## Ampel Turn 11 und Gesamturteil
+
+**Ampel: gelb ×10 (B1 mit CL-B1-07-Rest) — Gesamturteil: FREIGEGEBEN (gelb) — v2.5-Gate bestanden.** Review v9 Befund 1 verifiziert behoben (keine generierten Tabellen mehr in 384/384 S.), 0 Kollisionen, Meta in 9/10 Bänden = 0 (B1: eine stale CL-Kennziffer in der Präambel — v1-Beschreibung der Präambel anpassen), Präambel + Einführung pro Band + ART-Register vorhanden, ART/TOC fehlerfrei, Kontrast ok. Minor: <65%-Seitenanteil auf 54,4 % gestiegen (kürzere Artikel), nahezu leer nur noch 6,0 %.
+
+---
+*Nachtrag Turn 11 durch Agent `visual-qa`, Phase J, 2026-11-08. Log: `logs/workflow.log` (agent=visual-qa).*

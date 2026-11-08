@@ -1,0 +1,48 @@
+% PDFX_def.ps — Ghostscript-Distiller-Definition fuer PDF/X-4 (prepress, Phase I)
+% Basis: mitgeliefertes lib/PDFX_def.ps (Ghostscript 10.08.0), angepasst:
+%   - ICCProfile -> default_cmyk.icc (liegt im Arbeitsverzeichnis, siehe prepress.sh)
+%   - -dPDFX=4 auf der gs-Kommandozeile schreibt /GTS_PDFXVersion (PDF/X-4) ins DOCINFO
+% Nutzung: gs -dPDFX=4 ... -sColorConversionStrategy=CMYK ... PDFX_def.ps eingabe.pdf
+
+% Pruefen, dass ColorConversionStrategy gesetzt ist (PDF/X erlaubt nur Gray/CMYK)
+systemdict /ColorConversionStrategy known {
+  systemdict /ColorConversionStrategy get cvn dup /Gray ne exch /CMYK ne and
+} {
+  (\nERROR: ColorConversionStrategy not set.)=
+  true
+} ifelse
+{ (ERROR: ColorConversionStrategy must be /DeviceGray or /DeviceCMYK.)=
+  /ColorConversionStrategy cvx /rangecheck signalerror
+} if
+
+% GTS_PDFXVersion ins Info-Dictionary (bei -dPDFX=4: PDF/X-4)
+systemdict /PDFX known {systemdict /PDFX get}{3} ifelse
+dup 1 eq {
+  [ /GTS_PDFXVersion (PDF/X-1a:2001) /Trapped /False /DOCINFO pdfmark
+} if
+dup 3 eq {
+  [ /GTS_PDFXVersion (PDF/X-3:2002) /Trapped /False /DOCINFO pdfmark
+} if
+4 eq {
+  [ /GTS_PDFXVersion (PDF/X-4) /Trapped /False /DOCINFO pdfmark
+} if
+
+/ICCProfile (default_cmyk.icc) def   % CMYK-Profil (Ghostscript default_cmyk.icc)
+
+% ICC-Profil als Stream-Objekt einbetten
+[/_objdef {icc_PDFX} /type /stream /OBJ pdfmark
+[{icc_PDFX} <</N 4>> /PUT pdfmark
+[{icc_PDFX} ICCProfile (r) file /PUT pdfmark
+
+% OutputIntent GTS_PDFX
+[/_objdef {OutputIntent_PDFX} /type /dict /OBJ pdfmark
+[{OutputIntent_PDFX} <<
+  /Type /OutputIntent
+  /S /GTS_PDFX
+  /DestOutputProfile {icc_PDFX}
+  /OutputCondition (Offsetdruck, gestrichenes Papier)
+  /Info (Ghostscript default_cmyk.icc; 3 mm Anschnitt + Schnittmarken aus Pass A)
+  /OutputConditionIdentifier (Ghostscript default CMYK)
+  /RegistryName (http://www.color.org)
+>> /PUT pdfmark
+[{Catalog} <</OutputIntents [ {OutputIntent_PDFX} ]>> /PUT pdfmark

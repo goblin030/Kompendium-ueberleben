@@ -49,7 +49,7 @@ Jeder Artikel folgt derselben Schablone. Wenn du sie einmal kennst, liest du jed
 
 **Warnrahmen erkennen:** Sicherheitskritische Inhalte (z. B. Kohlenmonoxid, Botulismus, Tetanus, Giftpflanzen, Strom/Feuer) stehen in einem **markierten Kasten mit Warnsymbol** („WARNUNG“). Lies jeden Warnkasten vollständig, bevor du den zugehörigen Schritt ausführst. Warnkästen erkennst du am Rahmen und am Signalwort — im Zweifel immer den konservativeren Schritt wählen.
 
-**Checklisten** liegen gesammelt am Ende jedes Bandes (Anhang „Checklisten“), mit Kennziffer (z. B. CL-B1-07) und Mini-Glossar; im Artikel steht nur der Verweis.
+**Checklisten** stehen direkt im Artikel (als abhakbare Liste im Abschnitt „Schritte“ bzw. als Kurzhinweis); Querverweise zwischen Artikeln laufen ausschließlich über ART-NNNN.
 
 ### 4. Üben: Kurzhinweise in den Artikeln
 

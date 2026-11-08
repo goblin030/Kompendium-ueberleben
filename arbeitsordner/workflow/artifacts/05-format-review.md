@@ -395,3 +395,33 @@ v2 kompiliert sauber, ART-Register/Referenzen konsistent, v2-Druckdaten als PDF/
 ## Gesamturteil Turn 12 (v2.4): **FREIGEGEBEN**
 
 0 blocker, 0 major, 3 minor (T12-1..T12-3). v2.4: kompiliert sauber (753 S., PDF/A-2b), ART konsistent, Meta bis auf 1 Textverweis + False Positive sauber, MR-1/2/4/6 voll und MR-7 großteils behoben, Druckdaten PDF/X-4 + Marken + aktueller proof intakt, keine Regressionen. v1 bleibt FREIGEGEBEN (gelieferte PDFs unverändert grün). Gate G-1 (legal, Band 6) offen — Phase K.
+
+---
+
+# Nachtrag — Re-Review Turn 13: Enzyklopädie v2.5 (`06-dokumente/v2.5/`)
+
+**Anlass:** v2.5-Rebuild (doc-builder Turn 19 nach Review v9). Tools: poppler/qpdf + frischer typst-Build + pdftotext.
+
+## Ergebnis
+
+| Prüfpunkt | Status | Nachweis |
+|---|---|---|
+| v2.5 kompiliert fehlerfrei | **JA** | 10/10 rc=0, keine Warnungen; frischer Build seitenzahl-identisch: 52/36/35/34/32/31/34/35/40/55 = **Σ 384 S.** (reiner Artikel-Umfang); PDF/A-2b + dc:title. |
+| v9-Befund: keine generierten Tabellen | **JA** | `[ ]`-Checkboxen in v2.5: **0** in allen 10 Bänden (v2.4: 932/675); „Randbedingung“ 0×; verbleibende `#table(` sind Inhalts-Tabellen (Präambel, Artikel, Register). |
+| Präambel drin | **JA, aber mit totem Verweis (T13-2)** | band-01-v2.5: `== Präambel — Leitfaden zur Benutzung <praeambel>` mit Aufbau/Auffinden/Lesen/Warnkästen — aber Zeile 48 verweist auf „Anhang ‚Checklisten‘ … CL-B1-07“, und v2.5 hat **0** `cl-b1-`-Labels und keinen Anhang (v9-Befund entfernte die Checklisten, die Präambel wurde nicht angepasst). |
+| ART-Register in B10 | **NEIN — unvollständig (T13-1 major)** | band-10-v2.5: `== ART-Register (A–Z)` mit Behauptung „Alle 314 Artikel, alphabetisch, mit Seite“ — enthält aber nur **32 Einträge** (ART-0283–0314 = eigene Band-10-Artikel). Vollständiges Register (314) steht nur in 12-register.md §4. |
+| Meta 0 | **bis auf T13-2 (minor Rest)** | pdftotext: 0 Gate/ROT/Warn-N/Artefakte; „ausfüll“-Treffer sind das Verb „ausfüllen“ (False Positives); band-10: „Prüfprotokoll“ (Sachbegriff) + „Anhang Feuerprobe“ (1×, T12-1-Rest); band-01: CL-B1-07 (T13-2). ART-Labels 314 lückenlos, 314 refs, 0 undef. |
+| proof aktuell | **JA** | `v2.5/druckdaten/proof.json` + bericht mtime > alle Druck-PDFs; Werte matchen (52/36/…/55, crop_marks_ok=true). |
+| Druckdaten ok | **JA** | Alle 10 via pdfinfo/qpdf/pdffonts OK: Pages = proof = Quelle, Trim+Bleed, 0 RGB-Ops, Schnittmarken RegBlack + 0,3 w genau 1×/Seite, PDF/X-4 + OutputIntent, 0 Annots, Fonts embedded. ZIP v2.5 integer (261 Einträge, 224 SVGs). |
+| Regressionen | **keine** | v1 (18:21), v2.3 (01:17), v2.4 (01:24) unverändert. Offene Minors aus T12 bleiben: MR-3 (band-07 weiter 2× `#8a6d00`), MR-5 (`abb-9-2.svg` unverändert), T12-1 („Anhang Feuerprobe“ 1× in band-10). |
+
+## Befunde Turn 13
+
+| # | Schwere | Befund | Korrektur |
+|---|---|---|---|
+| T13-1 | **major** | ART-Register in band-10-v2.5 enthält nur 32 Einträge (Band-10-eigene Artikel ART-0283–0314), behauptet aber „Alle 314 Artikel“. | Register auf alle 314 ART-IDs erweitern (Daten aus 12-register.md §4 + refpage-Seiten), band-10-v2.5 neu bauen. |
+| T13-2 | **major** | Präambel (band-01-v2.5 L48) verweist auf den durch den v9-Befund entfernten Checklisten-Anhang („Anhang ‚Checklisten‘ … CL-B1-07“) — toter Verweis + v1-CL-ID im v2-Text (v2-Regel: nur ART-IDs). | Präambel-Satz streichen/anpassen (Checklisten gibt es in v2.5 nicht mehr); band-01-v2.5 neu bauen. |
+
+## Gesamturteil Turn 13 (v2.5): **NACHBESSERN**
+
+0 blocker, 2 major offen (T13-1 ART-Register unvollständig, T13-2 toter Checklisten-Verweis in der Präambel). Sonst grün: 10/10 fehlerfrei (384 S.), keine generierten Tabellen mehr (0 Checkboxen), Präambel grundsätzlich vorhanden, Meta bis auf die genannten Reste 0, ART-IDs konsistent, Druckdaten PDF/X-4 + Marken + aktueller proof intakt, keine Regressionen. Nach T13-1/T13-2 Re-Review Turn 14. v1 bleibt FREIGEGEBEN. Gate G-1 (legal, Band 6) offen — Phase K.
