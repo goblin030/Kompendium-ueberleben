@@ -518,3 +518,29 @@ Kollisionen weiterhin 0, Caption-Abstände weiterhin 4,6 pt, CL-Umbau vollständ
 
 ---
 *Nachtrag Turn 17 durch Agent `visual-qa`, Phase J, 2026-11-08. Log: `logs/workflow.log` (agent=visual-qa).*
+
+---
+
+# Nachtrag — Turn 18: Enzyklopädie v3.2 (2026-11-08, nach doc-builder Turn 27; Caption-Ueberlappung gefixt)
+
+**Input:** `06-dokumente/v3.2/band-01..10-v2.pdf` = 77/62/59/48/56/43/46/57/59/73 = **580 S.**, 314 Artikel, 645 art-SVGs. **Methode:** wie Turn 17 (300 dpi gray, qdf + Parser, pdftotext -bbox, Pixel, WCAG, Meta-Scan PDFs + SVGs).
+
+## Ergebnis Turn 18 (v3.2)
+
+| Check | v3.0 (Turn 17) | v3.2 (Turn 18) | Status |
+|---|---|---|---|
+| Kollisionen | 0 | **0** in 580/580 S. (Koord.+Pixel; 645 Figures, Caption-Paare à 4,6 pt) | ✓ gehalten |
+| Meta 0 | 10/10 PDFs + SVGs clean | **10/10 PDFs CLEAN + 645/645 art-SVGs CLEAN** (nur ART-IDs) | ✓ gehalten |
+| 645/645 SVGs, 0 orphan | ✓ | **refs 645 == files 645 == gerenderte Figures 645; 0 orphan, 0 missing** | ✓ gehalten |
+| Abb.-Abdeckung | 314/314 | **314/314 Artikel mit Figure** | ✓ gehalten |
+| ART-Refs / TOC / Register | ok | **0 unresolved (314 Defs); refpage 1102/1102 = 100 % seitenrichtig; TOC S. 2 je Band 5/5 korrekt; ART-Register B10 S. 64 = 314/314** | ✓ gehalten |
+| Kontrast / Graustufen | pass | **pass** (unverändert: Text 18,9–21:1, Rahmen 3,36:1/4,76:1, 645/645 Figures graustufen-lesbar) | ✓ gehalten |
+| Leerraum | 48,3 % < 65 %; 1,7 % nahezu leer | **50,0 % < 65 % (290/580); 1,7 % nahezu leer (10)** (300-dpi-Messung) | ✓ gehalten |
+| K5b Caption-Pixel (300 dpi, korrigiert) | 3 Befunde in B10 (v3.1) | **0** — alte Stellen B10 S. 15/43/57 jetzt nur Text-ink (frac 0,29–0,32, kein langer Run) | ✓ **behoben** |
+
+## Ampel Turn 18 und Gesamturteil
+
+**Ampel: gelb ×10 — Gesamturteil: FREIGEGEBEN (gelb) — v3.2-Gate bestanden.** 0 Kollisionen in 580/580 S., Meta 0 in allen PDFs und SVGs, 645/645 SVGs ohne Orphans, Abdeckung 314/314, ART/TOC/Register fehlerfrei, die v3.1-K5b-Caption-Befunde (B10 S. 15/43/57) sind gefixt und pixelbasiert nicht mehr nachweisbar. Einziger Befund (minor, gelb): 50,0 % der Seiten unter der 65 %-Satzspiegel-Grenze (1,7 % nahezu leer). Layout-Inspector siehe `26-layout-inspection.md`.
+
+---
+*Nachtrag Turn 18 durch Agent `visual-qa`, Phase J, 2026-11-08. Log: `logs/workflow.log` (agent=visual-qa).*

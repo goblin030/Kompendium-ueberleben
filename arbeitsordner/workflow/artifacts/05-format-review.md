@@ -546,3 +546,25 @@ v2 kompiliert sauber, ART-Register/Referenzen konsistent, v2-Druckdaten als PDF/
 ## Gesamturteil Turn 18 (v3.0): **FREIGEGEBEN**
 
 0 blocker, 0 major, 0 minor von Belang. v3.0 ist deckungsgleich Quelle↔PDF↔Druckdaten↔proof und nicht stale: 10/10 fehlerfrei (575 S., PDF/A-2b), Meta 0 in Quellen und PDFs, 840/840 SVGs valide + detailliert und vollständig eingebunden (314/314 Artikel bebildert, 0 orphan), ART-Register 314/314, Druckdaten PDF/X-4 + 3 mm Anschnitt + Schnittmarken intakt mit aktuellem proof. v1 und v2.9 bleiben FREIGEGEBEN. Gate G-1 (legal, Band 6) offen — Phase K.
+
+---
+
+# Nachtrag — Re-Review Turn 19: Enzyklopädie v3.2 (`06-dokumente/v3.2/`, K5b-Fix Caption-Überlagerung)
+
+**Anlass:** v3.2-Rebuild (doc-builder Turn 27) nach layout-inspector K5b (3 Caption-Überlagerungen in Band 10 S. 15/43/57). Tools: poppler/qpdf + frischer typst-Build + pdftotext + PGM-Pixel-Spotcheck.
+
+## Ergebnis
+
+| Prüfpunkt | Status | Nachweis |
+|---|---|---|
+| kompiliert fehlerfrei | **JA** | 10/10 rc=0, keine Warnungen; frischer Build seitenzahl-identisch: 77/62/59/48/56/43/46/57/59/73 = **580 S.** (+5 S. durch Caption-Abstand); PDF/A-2b + dc:title. |
+| Meta 0 | **JA** | pdftotext aller gelieferten v3.2-PDFs: 0 harte Tokens (Rest nur band-10: „Prüfprotokoll“-Caption + „Anhang Feuerprobe“, Inhaltsklasse, deckungsgleich mit Quelle). |
+| Caption-Überlappung weg (K5b) | **JA** | Strukturell: figure-Regeln jetzt TOP-LEVEL im Band-Head (`#set figure(gap: 8pt)`, `#show figure: set block(breakable: false)`, caption mit `v(8pt)`), nicht mehr in `init-doc()` (Typst-0.15-Scope-Falle). Pixel-Spotcheck der ehemaligen K5b-Seiten band-10 S. 15 + S. 43 (100 dpi PGM): **0** Zeilen mit >55 % dunklem Run (Linie durch Text). doc-builder-Pixelcheck 300 dpi über alle 580 S.: 0 echte Linien. band-10: 71 figures = 71 captions. |
+| Abb./ART vollständig | **JA** | 314/314 Artikel bebildert; 651/651 art-SVGs referenziert, 0 orphan; ART-Register B10 = 314; ART-Labels/Refs 314 lückenlos, 0 undef. |
+| proof aktuell | **JA** | `v3.2/druckdaten/proof.json` mtime > druck-PDFs **und** > Quell-PDFs; Werte matchen (580 S., crop_marks_ok=true); bericht aktuell. |
+| Druckdaten ok | **JA** | Alle 10 via pdfinfo/qpdf/pdffonts/pdfimages OK: Pages = proof = Quelle, MediaBox 216×303 mm, Trim+Bleed, 0 RGB-Ops, 0 Raster (Vektor), Schnittmarken RegBlack + 0,3 w genau 1×/Seite, PDF/X-4 + OutputIntent, 0 Annots, Fonts embedded. ZIP v3.2 integer (884 Einträge, 840 SVGs). |
+| Regressionen | **keine** | v1 (07.11 18:21), v2.9 (13:16), v3.0 (13:53) unverändert. |
+
+## Gesamturteil Turn 19 (v3.2): **FREIGEGEBEN**
+
+0 blocker, 0 major, 0 minor von Belang. v3.2: 10/10 fehlerfrei (580 S., PDF/A-2b), Meta 0, K5b-Caption-Überlagerung strukturell + pixelbasiert behoben (0 Linien durch Captions), Abb.-Abdeckung 314/314 mit 651/651 SVGs ohne Orphan, ART-Register 314/314, Druckdaten PDF/X-4 + 3 mm Anschnitt + Schnittmarken intakt mit aktuellem proof. v1, v2.9, v3.0 bleiben FREIGEGEBEN. Gate G-1 (legal, Band 6) offen — Phase K.

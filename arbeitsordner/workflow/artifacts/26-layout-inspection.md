@@ -91,3 +91,27 @@ Detail-Qualität der neuen SVGs im 300-dpi-Render: 645/645 Figures nicht leer, *
 
 ---
 *Nachtrag layout-inspector v3.1, Phase J, 2026-11-08. Log: `logs/workflow.log` (agent=visual-qa, detail "layout-inspector ...").*
+
+---
+
+# Nachtrag — layout-inspector Re-Run auf v3.2 (2026-11-08, K5b korrigiert; 300 dpi)
+
+**Input:** `06-dokumente/v3.2/band-01..10-v2.pdf` = 77/62/59/48/56/43/46/57/59/73 = **580 S.** **Methode:** alle 580 Seiten bei **300 dpi** + Content-Koordinaten + pdftotext -bbox, 7 Klassen. K5b korrigiert wie gefordert: Pixelzeile innerhalb Caption-Box mit **> 55 % dunkel UND kontinuierlichem Run länger als die Wort-Box** (> 1,5 × mittlere Wortbreite) = Befund.
+
+## Ergebnis v3.2 (300 dpi, 580/580 Seiten)
+
+| Klasse | Befunde |
+|---|---|
+| K1 Text-in-Box | 0 |
+| K2 Figure-über-Text | 0 |
+| K3 Header/Footer vs. Content | 0 |
+| K4 Box/Tabelle vs. Satzspiegel/MediaBox | 0 |
+| K5a Caption-Abstand (gap < 0) | 0 |
+| **K5b Caption-Pixel-Ueberlappung (korrigiert)** | **0** — Erwartung erfüllt: die v3.1-Befunde B10 S. 15/43/57 zeigen jetzt nur normalen Text-ink (seitenweite frac 0,29–0,32, kein langer Run) |
+| K6 Warnrahmen vs. andere Boxen | 0 |
+| K7 Pixel-Rand 300 dpi | 0 |
+
+**Ampel: grün ×10 — Gesamturteil: FREIGEGEBEN (grün)** — 0 Befunde in allen 7 Klassen auf allen 580 Seiten bei 300 dpi; die v3.1-Caption-Überlappungen in Band 10 sind behoben. Keine Rebuild-Pflicht.
+
+---
+*Nachtrag layout-inspector v3.2, Phase J, 2026-11-08. Log: `logs/workflow.log` (agent=visual-qa, detail "layout-inspector ...").*
