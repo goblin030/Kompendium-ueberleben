@@ -525,3 +525,24 @@ v2 kompiliert sauber, ART-Register/Referenzen konsistent, v2-Druckdaten als PDF/
 ## Gesamturteil Turn 17 (v2.9): **FREIGEGEBEN — final**
 
 0 blocker, 0 major, 0 offene minor von Belang (2 Inhalts-Restverweise in band-10: „Anhang Feuerprobe“, „Prüfprotokoll“-Caption — kosmetisch). v2.9 ist deckungsgleich Quelle↔PDF↔Druckdaten↔proof: 10/10 fehlerfrei kompiliert (575 S., PDF/A-2b), Meta 0, Abb.-Abdeckung 314/314 mit 651/651 SVGs ohne Orphan, ART-Register 314/314, Druckdaten PDF/X-4 + 3 mm Anschnitt + Schnittmarken intakt mit aktuellem Pass-D-proof. T15-1/T16-1 endgültig behoben. v1 bleibt FREIGEGEBEN. Gate G-1 (legal, Band 6) offen — Phase K.
+
+---
+
+# Nachtrag — Re-Review Turn 18: Enzyklopädie v3.0 (`06-dokumente/v3.0/`, detaillierte SVGs)
+
+**Anlass:** v3.0-Rebuild (doc-builder Turn 25 + illustrator Turn 12: Texturen/Maßketten/Explosionsansichten/Ghosting). Tools: poppler/qpdf + frischer typst-Build + pdftotext + SVG-Vollscan (840) + mtime-Abgleich.
+
+## Ergebnis
+
+| Prüfpunkt | Status | Nachweis |
+|---|---|---|
+| kompiliert fehlerfrei, nicht stale | **JA** | 10/10 rc=0, keine Warnungen; frischer Build seitenzahl-identisch (76/60/59/47/56/42/46/57/59/73 = **575 S.**), PDF/A-2b + dc:title. mtime-Kette korrekt: SVGs 13:49 < PDFs 13:53 < druck 13:54 < proof 13:55. |
+| Meta 0 (Quellen + PDFs) | **JA** | pdftotext aller gelieferten v3.0-PDFs: 0 harte Tokens (Rest nur band-10: „Prüfprotokoll“-Caption + „Anhang Feuerprobe“, deckungsgleich mit Quelle — Inhaltsklasse). Frischer Build: 0. SVG-Scan 840/840: 0 echte Leaks (warn-N in v1-SVGs sind dokumentierte Buch-Kennungen; „SME“ = FSME). |
+| SVGs eingebunden + detailliert + 0 orphan | **JA** | 840/840 SVGs wohlgeformt, **840/840 mit Detail-Features** (pattern/Texturen/callout/ghost/exploded); 651/651 art/warn-art-SVGs in v3.0 referenziert, 0 orphan, 0 fehlend; Abb.-Abdeckung **314/314**; ART-Register B10 = 314; ART-Labels/Refs 314 lückenlos, 0 undef. |
+| proof aktuell | **JA** | `v3.0/druckdaten/proof.json` (13:55) mtime > druck-PDFs (13:54) **und** > Quell-PDFs (13:53); Werte matchen (575 S., crop_marks_ok=true); bericht aktuell. |
+| Druckdaten ok | **JA** | Alle 10 via pdfinfo/qpdf/pdffonts/pdfimages OK: Pages = proof = Quelle, MediaBox 216×303 mm, Trim+Bleed, 0 RGB-Ops, 0 Raster (SVGs bleiben Vektor), Schnittmarken RegBlack + 0,3 w genau 1×/Seite, PDF/X-4 + OutputIntent, 0 Annots, Fonts embedded. ZIP v3.0 integer (884 Einträge, 840 SVGs). |
+| Regressionen | **keine** | v1 (07.11 18:21) und v2.9 (08.11 13:16) unverändert. |
+
+## Gesamturteil Turn 18 (v3.0): **FREIGEGEBEN**
+
+0 blocker, 0 major, 0 minor von Belang. v3.0 ist deckungsgleich Quelle↔PDF↔Druckdaten↔proof und nicht stale: 10/10 fehlerfrei (575 S., PDF/A-2b), Meta 0 in Quellen und PDFs, 840/840 SVGs valide + detailliert und vollständig eingebunden (314/314 Artikel bebildert, 0 orphan), ART-Register 314/314, Druckdaten PDF/X-4 + 3 mm Anschnitt + Schnittmarken intakt mit aktuellem proof. v1 und v2.9 bleiben FREIGEGEBEN. Gate G-1 (legal, Band 6) offen — Phase K.

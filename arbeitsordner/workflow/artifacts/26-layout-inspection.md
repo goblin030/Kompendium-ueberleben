@@ -25,4 +25,29 @@
 **Gesamturteil: FREIGEGEBEN (grün) — layout-inspector-Gate bestanden.** 10/10 Bände × alle 575 Seiten bei 300 dpi + Content-Koordinaten geprüft, 0 Befunde in allen 7 Klassen; keine Rebuild-Pflicht. Kein Befund mit Band/Seite/Koordinate/Schwere nötig (leere Befundliste). Konsistent mit visual-qa Turn 15 (v2.9: 0 Kollisionen, Meta 0, 645/645 SVGs, Abdeckung 314/314).
 
 ---
-*Erstellt durch layout-inspector (Session visual-qa), Phase J, 2026-11-08. Log: `logs/workflow.log` (agent=visual-qa, detail "layout-inspector ..."). Messungen reproduzierbar: pdftoppm 300 dpi + qpdf --qdf + eigene Parser (PGM/PDF/Stream).*
+*Erstellt durch layout-inspector (Session visual-qa), Phase J, 2026-11-08. Log: `logs/workflow.log` (agent=visual-qa, detail "layout-inspector ..."). Messungen reproduzierbar: pdftoppm 300 dpi + qdf + eigene Parser (PGM/PDF/Stream).*
+
+---
+
+# Nachtrag — layout-inspector auf v3.0 (2026-11-08, nach doc-builder Turn 25; 300 dpi, detaillierte SVGs)
+
+**Input:** `06-dokumente/v3.0/band-01..10-v2.pdf` = **575 S.** (76/60/59/47/56/42/46/57/59/73), 645 detaillierte Figures. **Methode:** wie v2.9-Lauf — ALLE 575 Seiten bei **300 dpi** gerendert + Content-Koordinaten + pdftotext -bbox, 7 Prüfklassen seitenweise, SVG-Inhalte per Clip-Tracking ausgeschlossen.
+
+## Ergebnis v3.0 (300 dpi, 7 Klassen)
+
+| Klasse | Befunde |
+|---|---|
+| K1 Text-in-Box | **0** |
+| K2 Figure-über-Text | **0** (645 Figures) |
+| K3 Header/Footer vs. Content | **0** Zeilenkollisionen |
+| K4 Box/Tabelle vs. Satzspiegel/MediaBox | **0** |
+| K5 Caption-Abstand (gap<0) | **0** (Caption-Abbildung 4,6 pt; die 645× gap=1,85 pt sind Caption-Fortsetzungszeilen = FP) |
+| K6 Warnrahmen vs. andere Boxen | **0** (~42 Warnboxen, dedupliziert, 0 Überlappungen) |
+| K7 Pixel-Rand 300 dpi | **0** — 0 % Tinte in allen Randzonen außerhalb des Satzspiegels |
+
+Detail-Qualität der neuen SVGs im 300-dpi-Render: 645/645 Figures nicht leer, **≥ 29 Graustufen pro Figure** (Texturen/Muster sichtbar), Ink min 2,7 %, Kantendichte min 1,5 % (Maßketten/dünne Linien vorhanden); 23 Figures texturdominant (Kanten < 2 %, aber 29 Graustufen).
+
+**Ampel: grün ×10 — Gesamturteil: FREIGEGEBEN (grün)** — 0 Befunde in allen 7 Klassen auf allen 575 Seiten bei 300 dpi; keine Rebuild-Pflicht. Konsistent mit visual-qa Turn 17 (v3.0).
+
+---
+*Nachtrag layout-inspector v3.0, Phase J, 2026-11-08. Log: `logs/workflow.log` (agent=visual-qa, detail "layout-inspector ...").*

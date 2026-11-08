@@ -492,3 +492,29 @@ Kollisionen weiterhin 0, Caption-Abstände weiterhin 4,6 pt, CL-Umbau vollständ
 
 ---
 *Nachtrag Turn 15 (final) durch Agent `visual-qa`, Phase J, 2026-11-08. Log: `logs/workflow.log` (agent=visual-qa).*
+
+---
+
+# Nachtrag — Turn 17: Enzyklopädie v3.0 (2026-11-08, nach doc-builder Turn 25 + illustrator Turn 12; detaillierte SVGs)
+
+**Input:** `06-dokumente/v3.0/band-01..10-v2.pdf` = 76/60/59/47/56/42/46/57/59/73 = **575 S.**, 314 Artikel, 645 detaillierte art-SVGs. **Methode:** wie Turn 15 (150 dpi gray+color + 300 dpi gray, qdf + Parser, pdftotext -bbox, Pixel, WCAG, Meta-Scan PDFs + SVGs, Orphan/Abdeckung gegen .typ-Refs, Detail-Messung pro Figure bei 300 dpi: Graustufen, Kantendichte, Ink).
+
+## Ergebnis Turn 17 (v3.0)
+
+| Check | v2.9 (Turn 15) | v3.0 (Turn 17) | Status |
+|---|---|---|---|
+| Kollisionen | 0 | **0** in 575/575 S. (150 dpi Koord.+Pixel; 645 Figures, Caption-Paare à 4,6 pt) | ✓ gehalten |
+| Meta 0 | 10/10 PDFs + SVGs clean | **10/10 PDFs CLEAN + 645/645 art-SVGs CLEAN** (0 interne Tokens inkl. TODO/WARNPFLICHT, nur ART-IDs) | ✓ gehalten |
+| 645/645 SVGs, 0 orphan | ✓ | **refs 645 == art-*.svg 645 == gerenderte Figures 645; 0 orphan, 0 missing** | ✓ gehalten |
+| Abb.-Abdeckung | 314/314 | **314/314 Artikel mit Figure** | ✓ gehalten |
+| Detail-Qualität der SVGs (300 dpi) | — | **645/645 Figures nicht leer; ≥ 29 Graustufen pro Figure (Texturen/Muster sichtbar); Ink min 2,7 %; Kantendichte min 1,5 % (Maßketten/dünne Linien vorhanden); 23 Figures texturdominant (Kanten < 2 %, aber 29 Graustufen)** | ✓ Detail vorhanden |
+| ART-Refs / TOC / Register | ok | **0 unresolved (314 ART-Defs); refpage 100 % seitenrichtig (B1 5/5 … B7 167/167); TOC S. 2 je Band 5/5 korrekt; ART-Register B10 S. 64 = 314/314** | ✓ gehalten |
+| Kontrast / Graustufen | pass | Text 18,9–21:1; Rahmen #8c8c8c 3,36:1 / #bd531a 4,76:1; 645/645 Figures graustufen-lesbar; minor: hellste Sekundär-Linien ~1,6–1,9:1 (Muster) | ✓ gehalten |
+| Leerraum | 48,3 % / 1,7 % | **48,3 % < 65 % (278/575); 1,7 % nahezu leer (10)** | ✓ gehalten |
+
+## Ampel Turn 17 und Gesamturteil
+
+**Ampel: gelb ×10 — Gesamturteil: FREIGEGEBEN (gelb) — v3.0-Gate bestanden.** 0 Kollisionen in 575/575 S., Meta 0 in allen PDFs und SVGs, 645/645 SVGs ohne Orphans mit sichtbarer Detail-Textur (≥ 29 Graustufen, Maßketten/Kanten messbar), Abdeckung 314/314, ART-Register 314/314, ART/TOC fehlerfrei. Einziger Befund (minor, gelb): 48,3 % der Seiten unter der 65 %-Satzspiegel-Grenze (1,7 % nahezu leer). Layout-Inspector (300 dpi, 7 Klassen) siehe `26-layout-inspection.md`.
+
+---
+*Nachtrag Turn 17 durch Agent `visual-qa`, Phase J, 2026-11-08. Log: `logs/workflow.log` (agent=visual-qa).*
