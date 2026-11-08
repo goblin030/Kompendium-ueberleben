@@ -341,3 +341,27 @@ Kollisionen weiterhin 0, Caption-Abstände weiterhin 4,6 pt, CL-Umbau vollständ
 
 ---
 *Nachtrag Turn 9 durch Agent `visual-qa`, Phase J, 2026-11-08. Log: `logs/workflow.log` (agent=visual-qa).*
+
+---
+
+# Nachtrag — Turn 10: Enzyklopädie v2.4 — FINAL (2026-11-08, nach illustrator Turn 9 + doc-builder Turn 18)
+
+**Input:** `06-dokumente/v2.4/band-01..10-v2.pdf` = 109/72/72/64/64/60/65/80/74/93 = **753 S.**, 314 Artikel. **Methode:** wie Turn 6–9 (alle Seiten 150 dpi gray+color, qdf + Content-Stream-Parser, pdftotext -bbox, PGM/PPM-Pixel, WCAG-Kontrast, Meta-Scan; SVG-Scan der 29 von v2.4 referenzierten art-SVGs).
+
+## Ergebnis Turn 10 (v2.4) — final
+
+| Check | v2.3 (Turn 9) | v2.4 (Turn 10) | Status |
+|---|---|---|---|
+| Kollisionen Box/Caption/Artikel | 0 | **0** in 753/753 S. (Koord.+Pixel: 0 Caption-Box/Abbildung, 0 Text-straddle, 0 Rahmen-Anomalien; B10: 29 Figures, 26 Caption-Paare à 4,6 pt) | ✓ |
+| Meta-Scan (0 interne Tokens, nur ART-IDs) | 9/10 clean; B10: 4 warn-N-Rest | **10/10 PDFs CLEAN — 0 interne Tokens** (warn-N in B10-Text S. 45/79 **weg**, warn-N in art-SVG-Labels art-0297/art-0309 **weg**; 0 W/L/BL/ROT/Gate/Provenienz/Rollen/Artefakte/TODO). **29/29 referenzierte art-SVGs CLEAN** | ✓ **0 überall** |
+| Kontrast Restrahmen ≥ 3:1 | #a9c3d6 1,83:1 (stil.typ) | **behoben:** `lib/stil.typ` jetzt #8c8c8c (baustein/kasten/konzmeta); gerendert gemessen **#8c8c8c = 3,36:1 ≥ 3** ✓; Text #000000 21:1, Bandfarben 4,92–7,58:1; 29/29 Figures graustufen-lesbar (0 leer, ≥ 19 Graustufen) | ✓ |
+| Leerraum | 21,2 % < 65 %; 7,0 % nahezu leer | **21,2 % < 65 % (160/753); 7,0 % nahezu leer (53)**; Mittlere Satzspiegel-Nutzung 0,70–0,78 | ✓ stabil |
+| ART-Refs / TOC | 0 unresolved, refpage 100 %, TOC ok | **0 unresolved (314 ART-Defs); refpage 100 % seitenrichtig (B1 36/36 … B7 222/222); TOC S. 2 je Band, Stichprobe 5/5 korrekt** | ✓ |
+| art-SVGs / warn-art | 29 refs == files == Figures; warn-art-0132 in B4 S. 54 | **unverändert gut:** 29 art-SVGs refs == files == 29 gerenderte Figures (B10); warn-art-0132 weiterhin in B4 S. 54 eingebunden | ✓ |
+
+## Ampel Turn 10 (final) und Gesamturteil
+
+**Ampel: gelb ×10 — Gesamturteil: FREIGEGEBEN (gelb) — v2.4-Gate bestanden, alle Major/Meta-Befunde der Turns 6–9 behoben und verifiziert.** 0 Kollisionen in 753/753 gerenderten Seiten, Meta-Scan 0 interne Tokens in allen 10 PDFs und allen referenzierten SVGs (nur ART-IDs), Restrahmen #8c8c8c = 3,36:1, Text/bandfarben AA-konform, alle 29 Artikel-Abbildungen graustufentauglich lesbar, ART-Referenzsystem + TOC fehlerfrei (0 unresolved, 100 % seitenrichtig). Einziger verbleibender Befund (minor, gelb): 21,2 % der Seiten unter der 65 %-Satzspiegel-Grenze (7,0 % nahezu leer) — Restplatz durch Artikel-Kurzseiten; Mittlere Nutzung 70–78 %.
+
+---
+*Nachtrag Turn 10 (final) durch Agent `visual-qa`, Phase J, 2026-11-08. Log: `logs/workflow.log` (agent=visual-qa).*

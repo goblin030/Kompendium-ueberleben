@@ -301,6 +301,9 @@ Neue warn-Grafiken für WARNPFLICHT-Artikel (Turn 7; bestehende warn-N.svg bleib
 
 ## Änderungen
 
+### 2026-11-08 – Turn 9 (warn-N-Altverweise in Artikel-Labels)
+In Artikel-SVGs (art-*) keine warn-N-Altverweise mehr im sichtbaren Text (art-0297: „CO-Regel (warn-3)“ → „CO-Regel: keine Verbrennung im geschlossenen Raum“, art-0309: „(warn-7c)“ gestrichen); Sanitizer cleanArt() streift warn-N nur in art-*-Dateien (warn-art-NNNN-Referenzen und warn-Eigen-IDs bleiben; im Kompendium abb-*/warn-* bleiben warn-N-Querverweise zulässig). „()“-Reste entfernt (abb-9-1 neu erzeugt). Re-Validierung: 224/224 wohlgeformt, 0 Meta-Tokens/Rollen, 0 warn-N in art-*, keine leeren Klammern, AA eingehalten (min Text 3,81:1 large / sonst ≥ 4,5:1, min Grafik 3,45:1).
+
 ### 2026-11-08 – Turn 8 (Minor-Fixes AA)
 Turn-8-Fixes: abb-9-2 Swatch-Leiste kollidierte mit Warnbox-Text (3,41:1 auf #6e6e6e) → Leiste verschoben, kein Text mehr auf dunkler Fläche; helle Sekundär-Fills abgedunkelt (WATER→#6b97bd 3,1:1, FD→#949494 3,0:1), 2 SUB-Texte auf FD→INK; alle 224 SVGs neu erzeugt; Re-Validierung: 224/224 wohlgeformt, 0 Meta-Tokens/Rollen, 0 undefined/NaN, keine alten hellen Hexes, AA eingehalten (min Text 3,81:1 large / sonst ≥ 4,5:1, min Grafik 3,45:1).
 
