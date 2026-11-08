@@ -28,7 +28,7 @@ Kleintiere mit **amtlich zugelassenen Lebendfang-Kastenfallen** fangen — Schli
 - Falle an Menschenpfad → Fremdgefährdung, strafbar.
 
 ## Warnungen
-> **WARNRAHMEN — § 19 Abs. 1 BJagdG:** Nur **amtlich zugelassene Lebendfang-Kastenfallen** (je Bundesland) verwenden. **2× tägliche Kontrolle** (morgens/abends) — alles andere ist Tierquälerei und strafbar. **Nie an Menschenpfaden** aufstellen. Schlingen und Totschlagfallen sind verboten.
+> **WARNRAHMEN — § 19 Abs. 1 BJagdG:** Nur **amtlich zugelassene Lebendfang-Kastenfallen** (je Bundesland) verwenden. **2× tägliche Kontrolle** (morgens/abends) — alles andere ist Tierquälerei und strafbar. **Nie an Menschenpfaden** aufstellen. Schlingen und Totschlagfallen sind verboten. **Tierschutz (§ 4 TierSchG):** Schlagfallen, die nicht sofort töten, sind unzulässig; Lebendfang ist nur mit täglicher Kontrolle zulässig.
 
 ## Siehe auch
 ART-0172 (Wechsel), ART-0191 (Köder), ART-0181 (Zerwirken), ART-0174 (ethisch jagen), ART-0183 (Kleintiere)

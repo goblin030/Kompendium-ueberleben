@@ -239,3 +239,14 @@ Ersetzt die falsche GTM-Zeile „70-%-Tantieme gilt nur bei 2,99–12,99 $ Liste
 
 ---
 *Ende 13-rechtstexte.md — erstellt von Agent legal, Phase K, 2026-11-07. Nächste Schritte: publisher (14-publikation.md) übernimmt Abschnitt 0/8 (Kanäle, KDP-Korrektur, Preise), marketing (15-marketing.md) übernimmt Abschnitt 0 (Preise/Leseprobe); editor setzt Auflagen A1/A2 in Band 6 um.*
+
+---
+
+## 11. Nachtrag Phase K, 2026-11-08 — Gate G-1 Abschluss-Status
+
+**Verdict bleibt FREIGEGEBEN (grün, §7).** Auflagen-Status:
+
+- **A2 (WaffG-Präzisierung § 13 Abs. 6 WaffG):** umgesetzt — ART-0184 („Jagdschein berechtigt zum Führen im Revier; außerhalb des Reviers Waffenschein/WBK (WaffG)“), in v3.2-PDF (band-06) und EPUB enthalten. **erledigt.**
+- **A1 (Tierschutz-Ergänzung § 4 TierSchG in Kastenfalle):** 2026-11-08 in die Artikel-Quelle `23-artikel/band-06/ART-0187` aufgenommen („Tierschutz (§ 4 TierSchG): Schlagfallen, die nicht sofort töten, sind unzulässig; Lebendfang nur mit täglicher Kontrolle.“) — wirksam in `v3.2/epub/band-06.epub` (digital first). **PDF-Nachtrag** in der nächsten PDF-Revision (v3.3): die v3.2-PDFs (review-v12) bleiben final mit grünen Gates; Band-06-PDF wird dann neu gebaut + Gates. **erledigt (EPUB/Quelle), PDF-Nachtrag v3.3 dokumentiert.**
+
+Damit ist Gate G-1 projektseitig vollständig abgearbeitet. **Weiter offen (Betreiber, §9):** Platzhalter [VERLAGSNAME]/[NAME]/[ADRESSE]/[KONTAKT-EMAIL]/[UST-IDNR]/[SHOP-URL] etc. — diese kann nur der Betreiber ausfüllen; sie blockieren nicht die Fertigstellung der Dateien, sondern den Shop-Launch (LGL-1..5, siehe `14-publikation.md` §7.4).

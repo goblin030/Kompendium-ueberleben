@@ -2064,3 +2064,22 @@ Event-Typen siehe WORKFLOW.md „Logging“.
 ---
 
 *Generiert von `archivar` aus `logs/workflow.log` + `git log`. Append-only: Künftige Events werden angehängt, bestehende Einträge bleiben unverändert. Die maschinenlesbare Quelle bleibt `workflow.log`.
+
+## Phase `K` — Publishing: digital first (DEP-4), Print-TODO, Gate G-1 (2026-11-08, ab 17:05+01:00)
+
+**Commits:** siehe nächster Commit nach diesem Eintrag (Phase-K-Artefakte: EPUBs, Suche, Dok-Updates).
+
+**Events (Auszug, Details im Log):**
+
+| ts | agent | event | detail | artifact |
+|---|---|---|---|---|
+| 2026-11-08T17:05:00+01:00 | orchestrator | phase_start | Phase K nach v3.2 FINAL (review-v12, alle Gates grün): digital first — EPUB + Volltextsuche (DEP-4), dann Print-TODO (14 §7), Gate G-1 Band 6 Abschluss | logs/workflow.log |
+| 2026-11-08T17:06:00+01:00 | doc-builder | decision | Toolchain EPUB: pandoc 3.13 (GitHub prebuilt arm64) statt brew (Source-Build bricht ab); EPUBCheck 5.3.0 via JRE 17 (micromamba conda-forge openjdk); EPUB 3 reflowable, split-level 2 (Artikel = Kapitel), Cover JPG, TOC, lang=de | v3.2/epub/build_epub.py |
+| 2026-11-08T17:07:00+01:00 | doc-builder | output | 10/10 EPUBs gebaut: 314 Artikel, 645/645 art-SVGs eingebettet mit Alt-Text (Captions aus band-NN-v2.typ), 3,4 MB gesamt; sanitize.py-Scrub (interne Tokens wie PDF-Build T15-1) | v3.2/epub/band-01..10.epub, build-report.json |
+| 2026-11-08T17:08:00+01:00 | accessibility | output | EPUBCheck 5.3.0: 10/10 valide, 0/0/0; EPUB-A11y-1.1-Metadaten injiziert (conformsTo WCAG 2.1 AA, accessModes, hazards, Alt-Texte 645/645); ONIX List 196 final: EPUB 00/04/10/11/13/14 | v3.2/epub/epubcheck-band-*.txt, 16-barrierefreiheit.md §7 |
+| 2026-11-08T17:09:00+01:00 | doc-builder | output | Volltextsuche gebaut: suche/index.html (selbst-contained, file://) + index.json, 314/314 Artikel, UND-Semantik + Band-Filter + Snippets + Artikel-Volltext; Meta-Scan 0 Tokens in EPUBs + Suche | v3.2/suche/, suche/build_search.py |
+| 2026-11-08T17:10:00+01:00 | publisher | output | 14-publikation.md aktualisiert: DEP-4 erledigt, ONIX final (Extent v3.2 580 S., A11y-Codes, §2.3-Beispiel), §3.5 Datei-Status, §7 Print-TODO (Daumenregister-Design, DEP-5 ISBN/Barcode, KDP-Print-Cover pro Band mit v3.2-Seiten, Betreiber-Schritte LGL-1..5) | artifacts/14-publikation.md |
+| 2026-11-08T17:10:30+01:00 | legal | output | Gate G-1 Abschluss dokumentiert (13 §11): Verdict grün bleibt; A2 umgesetzt (ART-0184 § 13 Abs. 6 WaffG), A1 umgesetzt in Quelle ART-0187 + EPUB band-06 (TierSchG § 4); PDF-Nachtrag v3.3; Platzhalter §9 bleiben Betreiber-Aufgabe | artifacts/13-rechtstexte.md |
+| 2026-11-08T17:11:00+01:00 | editor | output | A1 in Artikel-Quelle ART-0187 ergänzt (Tierschutz § 4 TierSchG im WARNRAHMEN) — wirksam in EPUB; v3.2-PDFs bleiben final | artifacts/23-artikel/band-06/ART-0187-*.md |
+| 2026-11-08T17:12:00+01:00 | archivar | output | BACKLOG §9 (K-1..K-7: DEP-4/A11Y-4/V8/LGL-6 erledigt, K-5 Print-TODO in Arbeit, K-7 Betreiber offen), CHRONIK §K, HANDOVER-Aktualisierung | archiv/BACKLOG.md, CHRONIK.md |
+| 2026-11-08T17:13:00+01:00 | orchestrator | phase_end | Phase K (digital first) abgeschlossen: DEP-4 erledigt (EPUB 10/10 EPUBCheck-valide + Suche 314/314 + ONIX final + Meta 0), Print-TODO geplant (wartet auf ISBN/Betreiber), G-1 projektseitig abgeschlossen. Nächster Schritt: Betreiber-Shops (LGL-1..5) → Uploads §3.1–3.4 | v3.2/epub/, v3.2/suche/, artifacts/14/16/13 |

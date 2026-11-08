@@ -147,3 +147,38 @@ künftigen EPUBs:** zusätzlich `09/04` (EPUB Accessibility 1.1, WCAG 2.1 AA) + 
 *Agent `accessibility`, Phase K, Turn 4 (2026-11-07; ersetzt Turn 1–3). Verifikation: Typst
 UA-1-Enforcement + strukturelle PDF-Prüfung per Skript; Kontrast: 43 Dokument-Paare + 2.425
 SVG-Texte + 3.571 SVG-Konturen geometrisch gemessen (WCAG-2.x-Relative-Leuchtdichte).*
+
+---
+
+## 7. Turn 5 (2026-11-08, Phase K) — EPUB-Ausgaben v3.2 (DEP-4) + Volltextsuche
+
+**Artefakte:** `06-dokumente/v3.2/epub/band-01..10.epub` (EPUB 3, reflowable), `06-dokumente/v3.2/suche/index.html` + `index.json` (Volltextsuche, 314 Artikel), Build-Skripte `epub/build_epub.py`, `suche/build_search.py`, Scrubbing `v3.2/sanitize.py`.
+
+### 7.1 EPUBCheck 5.3.0 (java, epubcheck.jar)
+
+| Band | EPUBCheck | Meldungen |
+|---|---|---|
+| 1–10 (alle) | **valide, rc=0** | 0 schwerwiegende Fehler / 0 Fehler / 0 Warnungen / 0 Informationen (pro Band: `epub/epubcheck-band-NN.txt`) |
+
+### 7.2 EPUB-Accessibility-1.1-Metadaten (pro OPF injiziert)
+
+`schema:accessMode` textual+visual · `accessModeSufficient` textual · `accessibilityFeature`: alternativeText, readingOrder, structuralNavigation, tableOfContents, displayTransformability · `accessibilityHazard`: noFlashing/noSound/noMotionSimulation · `accessibilitySummary` (de) · `dcterms:conformsTo` = „EPUB Accessibility 1.1 - WCAG 2.1 Level AA" · `a11y:certifiedBy` = Selbstbewertung des Projekts (EPUBCheck + manuelle Prüfung).
+Nachweis: 645/645 SVGs eingebettet, **645/645 `<img>` mit Alt-Text** (aus den figure-Captions der `band-NN-v2.typ`); Tabellen mit `<th>`-Kopfzellen; Sprache `dc:language=de`; CSS Kontrast #1a1a1a auf #ffffff (21:1), Warn-Blockquote #1a1a1a auf #f6e3d3 (13,9:1) mit Rahmen #bd531a (4,76:1 auf Weiß) — WCAG 2.1 AA erfüllt; reflowable (displayTransformability); TOC-Navigation (`nav.xhtml` + NCX).
+
+### 7.3 ONIX List 196 Type 09 — finale Codes
+
+- **EPUB-Produkte:** `00` (Summary de) + `04` (EPUB Accessibility 1.1, WCAG 2.1 AA) + `10` + `11` + `13` + `14` — DEP-3/DEP-4 damit final, Platzhalter `08/09` entfällt.
+- **PDF-Produkte:** unverändert `00` (PDF/UA-1-Summary) + `10`/`11`/`12`/`13`/`14` (§4).
+- XML-Beispiel EPUB siehe `14-publikation.md` §2.3.
+
+### 7.4 Meta-Hygiene (Regel 1)
+
+Residuenscan (`v3.2/sanitize.py` SCAN_TOKENS: WARNPFLICHT/warnpflicht/Print-TODO/TODO/warn-N/CL-Bn/Gate/ROT-/review-vN/Turn/Enzyklopaedie vN/LÜCKE/ROHWERT/BLn/BWn/Jurist-/Phase X/09 §/02 §/.md/Chat-#/#hash) über **alle** EPUB-Einträge (xhtml/opf/ncx/css/svg) und beide Suche-Dateien: **0 Treffer**. Interne Provenienz-Fußzeilen der Artikel-Quellen werden beim Build entfernt (wie beim PDF-Build, T15-1).
+
+### 7.5 Akzeptanzkriterien (Nachtrag Turn 5)
+
+- [x] EPUBs pro Band, EPUBCheck 5.3.0 10/10 valide (0/0/0)
+- [x] EPUB A11y 1.1 Metadaten + 645/645 Alt-Texte + lang=de + TOC-Navigation
+- [x] ONIX-Codes final: EPUB 00/04/10/11/13/14 (PDF unverändert §4)
+- [x] Volltextsuche (314/314 Artikel, selbst-contained, meta-clean)
+- [x] Meta-Scan 0 interne Tokens in EPUBs + Suche

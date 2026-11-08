@@ -1,0 +1,10 @@
+body { font-family: Georgia, 'Times New Roman', serif; line-height: 1.5;
+  color: #1a1a1a; background: #ffffff; margin: 0 5%; }
+h1, h2, h3 { color: #1a1a1a; line-height: 1.25; }
+blockquote { border-left: 4pt solid #bd531a; background: #f6e3d3;
+  padding: 6pt 10pt; margin: 8pt 0; }
+table { border-collapse: collapse; margin: 8pt 0; }
+th, td { border: 0.5pt solid #4d4d4d; padding: 3pt 6pt; text-align: left; }
+th { background: #efefef; }
+img { max-width: 100%; height: auto; }
+nav#toc ol { list-style: none; padding-left: 1em; }

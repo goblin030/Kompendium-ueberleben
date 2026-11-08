@@ -40,7 +40,7 @@
 | A11Y-1 | **Einziger Text-FAIL:** `abb-9-2.svg` Label „Härten OHNE Anlassen = Glasbruch…“ — `#1a1a1a` auf `#6e6e6e` = **3,41:1** (braucht 4,5; 12 pt bold) | **erledigt (v2.4, `80c41b9` + Gates Turn 10/12)** (= MR-5, siehe §8; in v2.4 nicht referenziert, Rest T12-3 in v1-SVG als akzeptiert dokumentiert, RM-2) | Text auf `#ffffff` (5,10:1) oder Panel aufhellen; SVG neu, Band 9 neu kompilieren, accessibility Re-Check |
 | A11Y-2 | Ampel gelb 35× `#8a6d00` auf `#efefef` = 4,28:1 knapp FAIL (bekannt; Wort „gelb“ + P/M/V als zweiter Kanal) | **erledigt (v2.2, `3b4e6e5`)** — identisch mit MR-3/VQA-a | siehe MR-3 |
 | A11Y-3 | Dekorative Reststriche `#a9c3d6`/`#bfbfbf` 1,60–1,65:1 | **Notiz, kein Befund** (dekorativ, nicht informationstragend) — identisch mit VQA-b | siehe VQA-b |
-| A11Y-4 | EPUBCheck n/a — keine EPUBs | **blockiert auf DEP-4** | siehe §4 |
+| A11Y-4 | EPUBCheck n/a — keine EPUBs | **erledigt (Phase K, 2026-11-08)** — EPUBCheck 5.3.0 10/10 valide (0/0/0), Berichte `v3.2/epub/epubcheck-band-NN.txt`; EPUB-A11y-1.1-Metadaten injiziert; ONIX 04 (16 Turn 5 §7) |
 
 ## 4. DEP-1..6 aus `14-publikation.md` (publisher, Stand `77fe700` — Status hier aktualisiert)
 
@@ -49,9 +49,9 @@
 | DEP-1 | `artifacts/13-rechtstexte.md` (legal) | Datei fehlte; Platzhalter `[RECHTSTEXT]`/`[AUTOR]`/`[IMPRINT]` | **erledigt (`77fe700`)** — 13-rechtstexte.md vorhanden (Impressum/AGB/Widerruf/Lizenz, G-1 grün). **Weiter offen:** Platzhalter `[VERLAGSNAME]`, `[NAME]`, `[ADRESSE]`, `[KONTAKT-EMAIL]`, `[UST-IDNR]`, `[SHOP-URL]` etc. (13 §9) müssen vom Betreiber ausgefüllt werden; ONIX `[AUTOR]`/`[IMPRINT]` ersetzen |
 | DEP-2 | `06-dokumente/cover/` (cover-designer) | Verzeichnis leer; `cover-band-NN.jpg` (1600×2560) erwartet | **erledigt (`77fe700`)** — 22 Dateien (10 Cover-JPG + reihe-gesamt + 10 Klappentexte + DESIGN.md). KDP-Print-Cover (Rücken/Back aus Template) siehe DEP-5 |
 | DEP-3 | `artifacts/16-barrierefreiheit.md` (accessibility) | fehlte; ONIX ProductFormFeature-Platzhalter `08` | **erledigt (`77fe700` erstellt, `b1e2337` Turn 4)** — PDF/UA-1 verifiziert, ONIX List-196-Codes 00/10/11/12/13/14 definiert (16 §4); finale EPUB-Codes (`09/04`) hängen an DEP-4 |
-| DEP-4 | **EPUB-Dateien fehlen** (nur PDF/A-2b + ZIP) | offen; Voraussetzung für KDP-eBook, tolino **und** Payhip-EPUB | **offen** — EPUB-Erzeugung (doc-builder/accessibility-Nachtrag) + EPUBCheck; Marktanalyse priorisiert: siehe V8 |
+| DEP-4 | **EPUB-Dateien fehlen** (nur PDF/A-2b + ZIP) | offen; Voraussetzung für KDP-eBook, tolino **und** Payhip-EPUB | **erledigt (Phase K, 2026-11-08, Commit siehe CHRONIK §K)** — `06-dokumente/v3.2/epub/band-01..10.epub` (EPUB 3, EPUBCheck 5.3.0 10/10 valide 0/0/0, 645/645 SVGs mit Alt-Text, EPUB-A11y-1.1-Metadaten) + Volltextsuche `v3.2/suche/` (314/314 Artikel, meta-clean); ONIX-Codes final (00/04/10/11/13/14). **Weiter offen (Betreiber):** Upload, dc:creator/ISBN-Patch (DEP-1/5) |
 | DEP-5 | ISBN/Barcode-Einbau in Cover-Rückseite + Druckdaten | wartet auf ISBN-Vergabe (MVB kostenlos oder Plattform-ISBN) | **offen** — Bookland-EAN-13 aus ISBN-13 generieren, weißes Feld auf Cover-Back (KDP-Template), prepress-Nachtrag in `band-NN-druck.pdf` |
-| DEP-6 | Gate G-1 (legal-Freigabe Band 6) | offen (abschlussbericht §3) | **erledigt (`77fe700`)** — 13 §7: Gate-G-1-Verdict **FREIGEGEBEN (grün)**. **Weiter offen:** Auflagen A1 (Tierschutz-Ergänzung § 4 TierSchG in 6.5.1a) und A2 (optionale WaffG-Präzisierung § 13 Abs. 6 in 6.3.2) für editor umsetzen |
+| DEP-6 | Gate G-1 (legal-Freigabe Band 6) | offen (abschlussbericht §3) | **erledigt (`77fe700`)** — 13 §7: Gate-G-1-Verdict **FREIGEGEBEN (grün)**. Auflagen: A2 erledigt (ART-0184, § 13 Abs. 6 WaffG, in v3.2+EPUB); A1 erledigt in Artikel-Quelle ART-0187 + EPUB (`v3.2/epub/band-06.epub`), PDF-Nachtrag v3.3 dokumentiert (13 §11) → **G-1 projektseitig abgeschlossen (Phase K, 2026-11-08)** |
 
 ## 5. Owner-Review-Feedback (`review-*/FEEDBACK.md` + `review_feedback`-Events)
 
@@ -76,7 +76,7 @@
 | V5 | Weiterer Ausbau Schritt-für-Schritt-Bebilderung (Explosions-/Schnittzeichnungen) | illustrator | **offen** |
 | V6 | Urban-Survival-Kapitel ausbauen (Wohnung/MFH: Wasservorrat, Fluchtwege, Kommunikation) in Band 1/4 — Ansatzpunkt: Kap. 3a | editor, planner | **offen** (teilweise durch 3a abgedeckt) |
 | V7 | Kinder-/Jugend-Ausgabe oder -Beilage | planner, editor, illustrator | **offen** |
-| V8 | **EPUB priorisieren** (= DEP-4) — mobile Version ist Marktstandard | publisher, doc-builder | **offen** (blockiert auf DEP-4) |
+| V8 | **EPUB priorisieren** (= DEP-4) — mobile Version ist Marktstandard | publisher, doc-builder | **erledigt (Phase K, 2026-11-08)** — EPUBs 10/10 + Volltextsuche geliefert (DEP-4) |
 | V9 | Themen abseits des Mainstreams: Rettung aus Fahrzeugen, Zecken/Infektionen, Desinfektion (Band 8) | fact-checker, fachlektor, planner | **offen** |
 | V10 | Trust-Siegel „dreifach geprüft + SME-reviewed“ im Buch und Marketing | doc-builder, marketing | **offen** |
 | V11 | Preis-Signal prüfen: 1 € digital (Payhip, da KDP min. 2,99 $), PoD 12,99 € passt (Markt 10–30 €) | publisher | **offen** (Preissetzung in 14 §0 dokumentiert) |
@@ -91,7 +91,7 @@
 | LGL-3 | Payhip-Shop mit Impressum/AGB/Widerrufsbelehrung/Datenschutz einrichten (Checkout-Checkbox § 312j BGB) | Betreiber/publisher | **offen** |
 | LGL-4 | Einmalige Prüfung durch Steuerberater/Rechtsanwalt (~200–400 €) | Betreiber | **offen** |
 | LGL-5 | KDP- und tolino-media-Accounts anlegen; ISBN über Plattformen oder eigene ISBN bei eigener Distribution | publisher | **offen** (siehe DEP-5) |
-| LGL-6 | Auflagen aus Gate G-1 umsetzen: A1 Tierschutz-Ergänzung (6.5.1a), A2 WaffG-Präzisierung (6.3.2) | editor | **offen** |
+| LGL-6 | Auflagen aus Gate G-1 umsetzen: A1 Tierschutz-Ergänzung (Kastenfalle ART-0187), A2 WaffG-Präzisierung (§ 13 Abs. 6, ART-0184) | editor | **erledigt (Phase K, 2026-11-08)** — A2 in v3.2, A1 in Quelle + EPUB; PDF-Nachtrag v3.3 (13 §11) |
 | LGL-7 | Lizenz-Entscheidung „Altfassungen später CC BY-SA 4.0“ bleibt offen (nicht Teil des Launch-Modells) | Betreiber/legal | **offen** (bewusst zurückgestellt) |
 
 ---
@@ -111,6 +111,23 @@
 | MR-7 | **T9-1:** 2 v1-Crossref-Abbildungen in `band-10-v2` mit v1-Captions („Konzept 2.1/4.1“, „warn-3/warn-7“, „Anhang Feuerprobe“) im v2.1-PDF | **erledigt (v2.4, `80c41b9` + Gates Turn 10/12)** — grossteils behoben (v1-Captions raus); Rest T12-1 („Anhang Feuerprobe“ band-10 L721) als akzeptiert dokumentiert (RM-2) | — |
 | RM-1 | **Restminor akzeptiert — Leerraum/Satzspiegel:** 21,2 % der Seiten < 65 % Satzspiegel-Nutzung (160/753), 7,0 % nahezu leer (53) in v2.4 FINAL | **akzeptiert (v2.4, `80c41b9` / Gates `9f22aa9`)** | Owner-Entscheidung nach visual-qa Turn 10 FINAL + G2 phase_end 2026-11-08T07:00: Gate bestanden (gelb), keine weitere Dichte-Runde; bei künftiger Auflage/Print v3 erneut adressieren |
 | RM-2 | **Turn-12-Reste akzeptiert:** T12-1 „Anhang Feuerprobe“ (band-10 L721), T12-2 2× `#8a6d00` Ampel-Gelb in band-07-v2.4, T12-3 `abb-9-2.svg` 3,41:1 (v1-SVG, in v2.4 nicht referenziert) | **akzeptiert (v2.4, format-reviewer Turn 12, `9f22aa9`)** | nicht blockierend (0 blocker/0 major); Nachziehen bei nächster Revision optional |
+
+
+---
+
+## 9. Phase K, 2026-11-08 — Publikation digital first (DEP-4) + Print-TODO + Gate G-1
+
+**Ergebnis:** DEP-4 erledigt (EPUB + Suche), Print-TODO geplant (14 §7), G-1 projektseitig abgeschlossen (13 §11). Details in CHRONIK §K.
+
+| ID | Punkt | Status |
+|---|---|---|
+| K-1 | DEP-4 EPUB-Erzeugung: `v3.2/epub/band-01..10.epub` (EPUB 3, 314 Artikel, 645/645 SVGs mit Alt-Text, lang=de, EPUB-A11y-1.1-Metadaten, Cover, TOC) — EPUBCheck 5.3.0 **10/10 valide (0/0/0)** | **erledigt (Phase K, 2026-11-08)** |
+| K-2 | DEP-4 Volltextsuche: `v3.2/suche/index.html` (selbst-contained, file://) + `index.json`, 314/314 Artikel, UND-Semantik + Band-Filter + Snippets + Artikel-Volltext | **erledigt (Phase K, 2026-11-08)** |
+| K-3 | Meta-Hygiene EPUB/Suche: Residuenscan 0 interne Tokens (sanitize.py SCAN_TOKENS); Build-Scrubbing wie PDF (T15-1) via `v3.2/sanitize.py` | **erledigt (Phase K, 2026-11-08)** |
+| K-4 | ONIX final: EPUB ProductFormFeature 00/04/10/11/13/14 (statt Platzhalter 08/09), Extent v3.2 (580 S.), §2.3-Beispiel aktualisiert (14-publikation.md) | **erledigt (Phase K, 2026-11-08)** |
+| K-5 | Print-TODO: Plan dokumentiert (14 §7) — Daumenregister (Print-Build v3-print, layout-inspector K8), DEP-5 ISBN/Barcode-Nachtrag nach MVB-Vergabe, KDP-Print-Cover-Template pro Band (v3.2-Seiten), Proof | **in Arbeit (wartet auf ISBN/Betreiber, LGL-1..5)** |
+| K-6 | Gate G-1 Band 6: Verdict grün (77fe700), A2 umgesetzt (ART-0184), A1 umgesetzt in Quelle ART-0187 + EPUB band-06; PDF-Nachtrag v3.3 | **erledigt projektseitig (Phase K, 2026-11-08; 13 §11)** |
+| K-7 | Uploads Payhip/KDP/tolino + Platzhalter [AUTOR]/[IMPRINT]/[ADRESSE]/[UST-IDNR]/[SHOP-URL] + Shop-Einrichtung + Steuerberater-Prüfung | **offen (Betreiber, LGL-1..5)** |
 
 ---
 
