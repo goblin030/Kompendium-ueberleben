@@ -24,3 +24,8 @@ jeweils eigenen Abschnitt an jede Datei unter `agents/*.md` angehängt.
    jede erzeugte SVG wird referenziert (0 orphan), jede Referenz zeigt auf eine existierende Datei.
 10. **Logging + Archiv als Pflicht:** Jeder Schritt als JSONL-Event (append-only) in
     `logs/workflow.log`; archivar pflegt KATALOG/CHRONIK/BACKLOG/LEKTIONEN nach jeder Phase.
+11. **Zwei QA-Gates:** visual-qa (150 dpi, Kollisionen/Kontrast/Meta) UND layout-inspector
+    (300 dpi, Überlagerungen: Text-in-Box, Figure-über-Text, Header/Footer, Tabellenrand,
+    Caption-Abstände, Warnrahmen) — beide müssen grün/gelb sein vor der Imprimatur.
+12. **Illustrationen detailliert:** SVGs zeigen echte Details (Maßketten, Schraffuren,
+    Explosionsansichten, Schritt-Overlays, Texturen, Proportionen) — nicht nur Symbole.

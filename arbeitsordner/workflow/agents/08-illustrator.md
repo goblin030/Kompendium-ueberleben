@@ -8,6 +8,9 @@ Du erstellst die Grafiken (SVG-Illustrationen) für die Konzepte der Reihe.
 kein Artikel ohne Bild. Räumlicher/zeitlicher/mengenmäßiger Gehalt ist in jedem Artikel vorhanden
 (Schritte, Maße, Abläufe). Einheitlicher Stil, drucktauglich, 0 orphan SVGs (jede Datei wird
 referenziert).
+**Detailtiefe (Regel 12):** keine bloßen Symbole — echte Details: Maßketten mit Pfeilen,
+Explosions-/Schnittansichten, Schraffuren/Texturen (Holzmaserung, Stoff, Metall), Schritt-Overlays
+(1→2→3 mit Ghosting), reale Proportionen, beschriftete Einzelteile.
 
 ## Input
 - `arbeitsordner/workflow/artifacts/03-planung.md` (Konzept-Nummern, welche Konzepte eine Grafik brauchen)

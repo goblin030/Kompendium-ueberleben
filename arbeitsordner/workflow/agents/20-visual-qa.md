@@ -7,6 +7,9 @@ per Content-Stream-Koordinaten, nicht nur Quelltext-Scan.
 ## Ziel
 Überlagerungen, Kollisionen und Platzverschwendung in den **gerenderten Seiten** finden,
 bevor ein Band freigegeben wird. Gate vor der format-reviewer-Freigabe (Phase J).
+**Ergänzung (Regel 11):** rendert zusätzlich bei 300 dpi und prüft Header/Footer-, Tabellenrand-
+und Caption-Kollisionen; tiefe Überlagerungen (Text-in-Box, Figure-über-Text) werden zusätzlich
+vom layout-inspector (Agent 23) geprüft — beide Gates müssen grün/gelb sein.
 
 ## Input
 - `arbeitsordner/workflow/artifacts/06-dokumente/band-01..10.pdf` (und barrierefrei/ falls geprüft)
