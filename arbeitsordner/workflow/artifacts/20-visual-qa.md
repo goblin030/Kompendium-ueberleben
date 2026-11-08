@@ -288,3 +288,31 @@ Kollisionen weiterhin 0, Caption-Abstände weiterhin 4,6 pt, CL-Umbau vollständ
 
 ---
 *Nachtrag Turn 7 durch Agent `visual-qa`, Phase J, 2026-11-08. Log: `logs/workflow.log` (agent=visual-qa).*
+
+---
+
+# Nachtrag — Turn 8: Enzyklopädie v2.2 (2026-11-08, nach doc-builder Turn 16 / Minor-Runde MR-1..7)
+
+**Input:** `06-dokumente/v2.2/band-01..10-v2.pdf` = 109/72/72/64/64/60/65/80/74/95 = **755 S.**, 314 Artikel. **Methode:** wie Turn 6/7 (alle Seiten 150 dpi gray+color, qdf + Parser, pdftotext -bbox, Pixel, WCAG, Meta-Scan mit ART-IDs als einziger Kennziffer).
+
+## Ergebnis Turn 8 (v2.2) — Checkliste gegen die Minor-Runde
+
+| Check | v2.1 (Turn 7) | v2.2 (Turn 8) | Status |
+|---|---|---|---|
+| Kollisionen Box/Caption/Artikel | 0 | **0** in 755/755 S. (Koord.+Pixel; 31 Figures in B10, 28 Caption-Paare à 4,6 pt) | ✓ gehalten |
+| Meta-Scan (nur ART-IDs) | 9/10 clean; B10: 3 warn-N | **8/10 clean.** B10: warn-3 ×2 (S. 45, 70), warn-7c ×1 (S. 80) **noch vorhanden** + 3 Provenienz-Tokens (Chat-Hash #146 S. 22/48, „Tafel (T11)“/„(Recherche)“ S. 80). B1: 1× „Backlog“ (S. 26, „Print-Ausgabe = Backlog“). Sonst 0 interne IDs, nur ART-IDs | ⚠ Rest in B1/B10 |
+| warn-N-Altverweise in B10 weg? | nein (3×) | **nein — weiterhin 3×** (warn-3 S. 45/70, warn-7c S. 80) | ✗ nicht behoben |
+| orphan warn-art-0132 eingebunden? | nein | **ja:** `#warnrahmen(id: "warn-art-0132")` in v2.2/band-04-v2.typ, gerendert auf B4 S. 54 (Icon-Pixel verifiziert, 1334 dark px); alle 6 warn-art-*.svg referenziert | ✓ |
+| Ampel-Gelb ≥ 4,5:1? | 4,28:1 auf #efefef | **ja:** in v2.2 keine farbige konzmeta-Ampel mehr (0 Ampel-Zeilen in B1); „gelb“ als schwarzer Text = 21:1 | ✓ behoben |
+| Sekundär-Rahmen ≥ 3:1? | #a9c3d6/#bfbfbf = 1,83:1 | **ja:** gerenderte Box-Kante gemessen #8c8c8c = **3,36:1** ≥ 3 | ✓ behoben |
+| Abb-9-2? | — | in v2.2 **nicht referenziert** (0 image()-Refs); MR-5 (abb-9-2.svg-Text) betrifft v1 | – |
+| Leerraum | 87,3 % < 65 %; 25,0 % nahezu leer | **21,5 % < 65 % (162/755); 7,0 % nahezu leer (53)** — massiv gesenkt (Dichte-Runde) | ✓ deutlich verbessert |
+| ART-Refs / TOC | 0 unresolved, refpage 100 %, TOC ok | **0 unresolved (314 ART-Defs); refpage-Refs 100 % seitenrichtig (B1 36/36 … B10 191/191); TOC S. 2 je Band, Stichprobe 5/5 korrekt** | ✓ gehalten |
+| Farbe/Kontrast/Graustufen | pass + minor | **pass:** Text #000000 21:1, Bandfarben 4,92–7,58:1; 31/31 Figures graustufen-lesbar (0 leer, ≥ 21 Graustufen); Rahmen #8c8c8c 3,36:1 | ✓ |
+
+## Ampel Turn 8 und Gesamturteil
+
+**Ampel: gelb ×10 — Gesamturteil: FREIGEGEBEN (gelb) — v2.2-Gate bestanden.** 0 Kollisionen in 755/755 S., ART-Referenzsystem und TOC fehlerfrei, Kontrast-Probleme der Minor-Runde gemessen behoben (Ampel-gelb als schwarzer Text 21:1, Rahmen #8c8c8c 3,36:1), Leerraum deutlich verbessert (nahezu leer 25,0 % → 7,0 %). **Offene Minor (nicht blockierend):** B10 enthält weiterhin 3 warn-N-Altverweise (warn-3 S. 45/70, warn-7c S. 80) + 3 Provenienz-Tokens (S. 22/48/80), B1 1× „Backlog“ (S. 26) — doc-builder soll diese 7 Tokens noch streichen (auf warn-art-*/ART-Referenz umstellen); „Prüfprotokoll“-Treffer bleiben False Positives (Artikel-Inhalt). Abb-9-2 ist in v2.2 nicht eingebunden.
+
+---
+*Nachtrag Turn 8 durch Agent `visual-qa`, Phase J, 2026-11-08. Log: `logs/workflow.log` (agent=visual-qa).*

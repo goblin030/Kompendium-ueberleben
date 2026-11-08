@@ -304,3 +304,34 @@ v2 kompiliert sauber, ART-Register/Referenzen konsistent, v2-Druckdaten als PDF/
 ## Gesamturteil Turn 9 (v2.1): **FREIGEGEBEN**
 
 0 blocker, 0 major, 2 minor (T9-1, T9-2). v2.1: 10/10 fehlerfrei kompiliert (1.318 S., PDF/A-2b), 314 ART-IDs lückenlos und voll auflösend, Meta-Scan sauber (T8-1 behoben), 34/35 art-SVGs eingebettet (T8-2 behoben), v2.1-Druckdaten PDF/X-4 + 3 mm Anschnitt + Schnittmarken 1×/Seite intakt mit aktuellem proof (T8-3 behoben), v1 und v2 ohne Regression. visual-qa Turn 7 (Gate v2.1) läuft laut Log — Ergebnis nachtragen. v1 bleibt FREIGEGEBEN. Gate G-1 (legal, Band 6) offen — Phase K.
+
+---
+
+# Nachtrag — Re-Review Turn 10: Enzyklopädie v2.2 (`06-dokumente/v2.2/`)
+
+**Anlass:** v2.2-Rebuild (doc-builder Turn 16, BACKLOG §8 MR-1..MR-7) reviewen. Tools: poppler/qpdf + frischer typst-Build + pdftotext.
+
+## Ergebnis
+
+| Prüfpunkt | Status | Nachweis |
+|---|---|---|
+| v2.2 kompiliert fehlerfrei | **JA** | 10/10 rc=0, keine Warnungen; frischer Build seitenzahl-identisch: 109/72/72/64/64/60/65/80/74/95 = **Σ 755 S.** (MR-6 Dichte: 1.318 → 755 S., ~2,4 S./Artikel); PDF/A-2b + dc:title. |
+| ART-Refs gültig | **JA** | 314 Labels lückenlos ART-0001–0314, 314 refs, 0 undefiniert. |
+| Meta 0 in v2.2 | **bis auf minor Rest in Band 10** | 0 Gate/ROT/W/BL/Artefakt-Pfade/Rollen-Namen. Rest (9 Tokens, alles band-10-v2): `warn-3` ×2 + `warn-7` ×1 + `Konzept 4` — kommen aus den 2 v1-Crossref-SVGs (abb-9-1, abb-10-3), deren Bildtext v1-Kennungen trägt; `T11` ×1 (Forschungs-ID in band-10-v2.typ L2060); `Anhang Feuerprobe` ×1 (L721); `Prüfprotokoll` ×3 (Falsch-Positiv, Artikel-Inhalt). → MR-1/MR-7 nicht vollständig. |
+| MR-1..MR-7 | **MR-2, MR-6 behoben; MR-1, MR-3, MR-4, MR-5, MR-7 offen (minor)** | MR-2: `warn-art-0132` jetzt in band-04-v2 referenziert (alle 6 warn-art eingebunden) ✓. MR-6: Dichte erhöht (755 S.) ✓. MR-1: 0 numerische warn-N in v2.2-.typ ✓, aber 2 v1-Crossref-SVGs in band-10-v2 tragen warn-N im Bildtext ✗. MR-3: band-07-v2.typ hat weiterhin 2× `#8a6d00` (statt `#7a5f00`) ✗. MR-4: `lib/stil.typ` weiterhin `#a9c3d6`/`#bfbfbf` (nicht `#8c8c8c`) ✗. MR-5: `abb-9-2.svg` unverändert (`#1a1a1a` auf `#6e6e6e` = 3,41:1) — liegt in v1, nicht in v2.2 eingebettet ✗. MR-7: v1-Captions/-Texte in band-10-v2 noch nicht ganz raus (s. Meta) ✗. |
+| proof in v2.2/druckdaten aktuell | **JA** | proof.json + proof-bericht.md vorhanden; proof.json mtime 01:11 > Druck-PDFs 01:09–01:10; Werte matchen (Pages 109/72/…/95, crop_marks_ok=true). |
+| Druckdaten v2.2 PDF/X-4 + Marken | **JA** | Alle 10 via pdfinfo/qpdf/pdffonts OK: Pages = proof = Quelle, MediaBox 612,3×858,9 pt, Trim+Bleed gesetzt, 0 RGB-Ops, Schnittmarken RegBlack + 0,3 w genau 1×/Seite, PDF/X-4 + OutputIntent, 0 Annots, Fonts embedded. |
+| Regressionen | **keine** | v1 (18:21), v2 (22:24), v2.1 (23:11) unverändert; v1 band-01 frisch rekompiliert == shipped (445 S., identisch) → lib/stil.typ seit v1-Build unverändert, v1 reproduzierbar; ZIP v2.2 integer (261 Einträge, 224 SVGs). |
+
+## Restbefunde Turn 10 (alle minor, nicht blockierend)
+
+| # | Befund | Korrektur |
+|---|---|---|
+| T10-1 (= MR-1/MR-7-Rest) | band-10-v2 bindet 2 v1-Crossref-SVGs (abb-9-1, abb-10-3) ein, deren Bildtext `warn-3`/`warn-7`/`Konzept 4.x` trägt; außerdem `T11` (L2060) und „Anhang Feuerprobe“ (L721) im Text. | v1-Abbildungen durch art-SVGs ersetzen oder Bildtext sanitizen; T11/Anhang-Verweis streichen; band-10-v2 neu bauen. |
+| T10-2 (= MR-3) | Ampel-Gelb in v2.2 band-07 noch `#8a6d00` (4,28:1) statt `#7a5f00` (≥4,5:1). | Call-Sites in v2.2 (und v1-Quellen für nächsten v1-Build) auf `#7a5f00`. |
+| T10-3 (= MR-4) | `lib/stil.typ` weiterhin helle Rahmen `#a9c3d6`/`#bfbfbf` (< 3:1). | auf `#8c8c8c` abdunkeln (wirkt auf v1 UND v2 — v1-PDFs sind bereits gebaut, nächster v1-Build übernimmt es). |
+| T10-4 (= MR-5) | `abb-9-2.svg` Label „Härten OHNE Anlassen = Glasbruch“ weiterhin `#1a1a1a` auf `#6e6e6e` (3,41:1). | Text auf `#ffffff` oder Panel aufhellen; affects v1 (nicht in v2.2 eingebettet). |
+
+## Gesamturteil Turn 10 (v2.2): **FREIGEGEBEN** (mit minor Resten)
+
+0 blocker, 0 major. v2.2 kompiliert sauber (755 S., dichter), ART-Register konsistent, Meta bis auf 9 minor Tokens in Band 10 sauber, MR-2/MR-6 behoben, v2.2-Druckdaten PDF/X-4 + Marken + aktueller proof intakt, v1/v2/v2.1 ohne Regression. MR-3/4/5 sind Farb-Kontrast-Minors (nächste Revision). visual-qa Re-Run für v2.2 empfohlen (Leerraum nach MR-6 neu messen). v1 bleibt FREIGEGEBEN. Gate G-1 (legal, Band 6) offen — Phase K.

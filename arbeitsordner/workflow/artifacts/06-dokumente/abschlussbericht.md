@@ -165,6 +165,11 @@ Seitenzahlen nach Review v1 (Ist, PDF/A-2b): 445 / 361 / 342 / 329 / 317 / 310 /
 - MR-6: Artikeldichte erhoeht — pro Artikel zusaetzlich Kontroll-Checkliste (aus den Artikel-Schritten) + Recherche-Details aus 22-recherche-artikel (Fakten/Masse/Fehler/Varianten als Tabelle, v1-Kreuzrefs gestrippt); Erweiterungs-Bloecke fliessen ohne pagebreak (dichteres Layout).
 - Meta-Scan v2.2: 0 (nur ART-IDs als Querverweise). Rebuild v2.2 (PDF/A-2b, 10/10 fehlerfrei): 109 / 72 / 72 / 64 / 64 / 60 / 65 / 80 / 74 / 95 = Σ 755 S. (314 Artikel). prepress-Paesse nach v2.2/druckdaten/ inkl. proof.json + proof-bericht.md (10x PDF/X-4 + Schnittmarken). ZIP: v2.2/ueberlebenbuch-artikel-v2.2.zip.
 
+## 22. Turn 17 — v2.3 Rest-Minor (visual-qa Turn 8: 7 Meta-Resttokens)
+
+- Rest-Tokens entfernt (in v2.3-Quellen, zentral per Regex in e2_fix + recherche_details): Chat-Hash #146 / [29cd074c #146, ...] (band-10), Turn-ID T11, „Backlog“ (band-01), warn-3/warn-7c-Restverweise (band-10). v1-Crossref-SVGs abb-9-1 / abb-10-3 in Band 10 werden nicht mehr eingebettet (Titel mit v1-Referenzen -> durch art-SVGs ersetzt / neutrale Captions).
+- Meta-Scan v2.3: 0 (nur ART-IDs; Hex-Farben wie #475569 sind keine Tokens). Rebuild v2.3 (PDF/A-2b, 10/10 fehlerfrei): 109 / 72 / 72 / 64 / 64 / 60 / 65 / 80 / 74 / 93 = Σ 753 S. (314 Artikel). prepress nach v2.3/druckdaten/ inkl. proof.json + proof-bericht.md (10x PDF/X-4 + Schnittmarken). ZIP: v2.3/ueberlebenbuch-artikel-v2.3.zip.
+
 ## 7. Annahmen (dokumentiert, keine Rueckfragen laut WORKFLOW.md)
 
 1. Register: pro Band Auszug mit eigenen Seitenzahlen; Gesamtregister in Band 10 (Schlussband der Reihe).
