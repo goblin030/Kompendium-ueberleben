@@ -425,3 +425,26 @@ v2 kompiliert sauber, ART-Register/Referenzen konsistent, v2-Druckdaten als PDF/
 ## Gesamturteil Turn 13 (v2.5): **NACHBESSERN**
 
 0 blocker, 2 major offen (T13-1 ART-Register unvollständig, T13-2 toter Checklisten-Verweis in der Präambel). Sonst grün: 10/10 fehlerfrei (384 S.), keine generierten Tabellen mehr (0 Checkboxen), Präambel grundsätzlich vorhanden, Meta bis auf die genannten Reste 0, ART-IDs konsistent, Druckdaten PDF/X-4 + Marken + aktueller proof intakt, keine Regressionen. Nach T13-1/T13-2 Re-Review Turn 14. v1 bleibt FREIGEGEBEN. Gate G-1 (legal, Band 6) offen — Phase K.
+
+---
+
+# Nachtrag — Re-Review Turn 14: Enzyklopädie v2.6 (`06-dokumente/v2.6/`)
+
+**Anlass:** v2.6-Rebuild (nach T13-1/T13-2). Tools: poppler/qpdf + frischer typst-Build + pdftotext.
+
+## Ergebnis
+
+| Prüfpunkt | Status | Nachweis |
+|---|---|---|
+| v2.6 kompiliert fehlerfrei | **JA** | 10/10 rc=0, keine Warnungen; frischer Build seitenzahl-identisch: 52/36/35/34/32/31/34/35/40/64 = **Σ 393 S.** (Band 10 +9 S. durch volles Register); PDF/A-2b + dc:title. |
+| T13-1 behoben (ART-Register B10 = 314) | **JA** | band-10-v2.6: `== ART-Register (A–Z)` mit **314 unique ART-IDs** (27,6 k Zeichen); Claim-Zeile korrigiert („Seite nur für Artikel dieses Bandes, sonst Band-Verweis“). |
+| T13-2 behoben (Präambel) | **JA** | band-01-v2.6: Präambel vorhanden (4,6 k Zeichen); 0 CL-B-Referenzen, 0 „Anhang Checklisten“-Verweis mehr. |
+| ART-Refs gültig | **JA** | 314 Labels lückenlos ART-0001–0314, 314 refs, 0 undefiniert. |
+| Meta 0 | **JA bis auf 2 minor Reste in B10** | pdftotext: 0 harte Tokens; band-10-v2.pdf nur „Prüfprotokoll“ ×3 (Sachbegriff, False Positive) + „Anhang Feuerprobe“ ×1 (T12-1-Rest). Checkboxen v2.6: 0 (v9-Befund stabil). |
+| proof aktuell | **JA** | `v2.6/druckdaten/proof.json` + bericht mtime > alle Druck-PDFs; Werte matchen (52/36/…/64, crop_marks_ok=true). |
+| Druckdaten ok | **JA** | Alle 10 via pdfinfo/qpdf/pdffonts OK: Pages = proof = Quelle, Trim+Bleed, 0 RGB-Ops, Schnittmarken RegBlack + 0,3 w genau 1×/Seite, PDF/X-4 + OutputIntent, 0 Annots, Fonts embedded. ZIP v2.6 integer (268 Einträge, 224 SVGs). |
+| Regressionen | **keine** | v1 (18:21), v2.4 (01:24), v2.5 (11:12) unverändert. Persistierende Minors: MR-3 (band-07 weiter 2× `#8a6d00`), MR-5 (`abb-9-2.svg` unverändert), T12-1 („Anhang Feuerprobe“ 1× in band-10). |
+
+## Gesamturteil Turn 14 (v2.6): **FREIGEGEBEN**
+
+0 blocker, 0 major; T13-1 und T13-2 vollständig behoben und verifiziert. v2.6: 10/10 fehlerfrei kompiliert (393 S., PDF/A-2b), ART-Register in B10 vollständig (314/314) und konsistent, Präambel sauber, Meta bis auf 2 minor Reste in B10 = 0, keine generierten Tabellen, Druckdaten PDF/X-4 + 3 mm Anschnitt + Schnittmarken intakt mit aktuellem proof, ZIP integer, keine Regressionen in v1/v2.4/v2.5. Verbleibende Minors (MR-3, MR-5, T12-1) für die nächste Revision. v1 bleibt FREIGEGEBEN. Gate G-1 (legal, Band 6) offen — Phase K.

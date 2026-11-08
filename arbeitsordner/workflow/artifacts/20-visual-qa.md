@@ -391,3 +391,29 @@ Kollisionen weiterhin 0, Caption-Abstände weiterhin 4,6 pt, CL-Umbau vollständ
 
 ---
 *Nachtrag Turn 11 durch Agent `visual-qa`, Phase J, 2026-11-08. Log: `logs/workflow.log` (agent=visual-qa).*
+
+---
+
+# Nachtrag — Turn 12: Enzyklopädie v2.6 (2026-11-08, nach doc-builder Turn 20 / review-v10)
+
+**Input:** `06-dokumente/v2.6/band-01..10-v2.pdf` = 52/36/35/34/32/31/34/35/40/64 = **393 S.**, 314 Artikel. **Methode:** wie Turn 6–11 (alle Seiten 150 dpi gray+color, qdf + Parser, pdftotext -bbox, Pixel, WCAG, Meta-Scan nur ART-IDs erlaubt).
+
+## Ergebnis Turn 12 (v2.6)
+
+| Check | v2.5 (Turn 11) | v2.6 (Turn 12) | Status |
+|---|---|---|---|
+| Kollisionen | 0 | **0** in 393/393 S. (Koord.+Pixel; B10: 29 Figures, 26 Caption-Paare à 4,6 pt) | ✓ gehalten |
+| Meta-Scan | 9/10 clean; B1: CL-B1-07 | **10/10 CLEAN — 0 interne Tokens, nur ART-IDs** | ✓ **vollständig behoben** |
+| Präambel ohne CL-Rest? | CL-B1-07 in Präambel | **kein CL-Rest mehr** in B1 (Präambel S. 4 sauber) | ✓ behoben |
+| ART-Register B10 vollständig? | S. 55 vorhanden | **ART-Register B10 S. 55: 314/314 ART-IDs** | ✓ vollstaendig |
+| Generierte Tabellen | 0 Marker | **0 Marker in allen 10 Bänden** (keine `[ ] ___`-Spalten, keine Randbedingungen/Protokollköpfe/Notizblöcke) | ✓ gehalten |
+| ART-Refs / TOC | 0 unresolved, refpage 100 %, TOC ok | **0 unresolved (314 ART-Defs); refpage 100 % seitenrichtig (B1 5/5 … B7 164/164); Artikel-Verzeichnis S. 2 je Band, Stichprobe 5/5 korrekt** | ✓ gehalten |
+| Leerraum | 54,4 % < 65 %; 6,0 % nahezu leer | **53,4 % < 65 % (210/393); 5,9 % nahezu leer (23)** | ⚠ nahezu unverändert (minor) |
+| Kontrast | pass | **pass:** Text min 18,95:1, Rahmen #8c8c8c 3,36:1 / Warnrahmen #bd531a 4,76:1 ≥ 3:1; 29/29 Figures graustufen-lesbar | ✓ gehalten |
+
+## Ampel Turn 12 und Gesamturteil
+
+**Ampel: gelb ×10 — Gesamturteil: FREIGEGEBEN (gelb) — v2.6-Gate bestanden, alle offenen Meta-/Struktur-Befunde behoben und verifiziert.** 0 Kollisionen in 393/393 gerenderten Seiten, Meta-Scan 0 interne Tokens in allen 10 PDFs (nur ART-IDs), Präambel CL-frei, ART-Register 314/314 in B10, keine generierten Tabellen, ART-Refs/TOC fehlerfrei, Kontrast ok. Einziger Befund (minor, gelb): 53,4 % der Seiten unter der 65 %-Satzspiegel-Grenze (5,9 % nahezu leer) — artikelbedingte Teilseiten.
+
+---
+*Nachtrag Turn 12 durch Agent `visual-qa`, Phase J, 2026-11-08. Log: `logs/workflow.log` (agent=visual-qa).*
