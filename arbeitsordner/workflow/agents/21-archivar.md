@@ -42,3 +42,11 @@ warum? Was ist offen? Ohne das Log und die Artefakte manuell durchwühlen zu mü
 Jeder Schritt als JSONL an `logs/workflow.log` (append-only; agent=archivar,
 Events decision/output; bei eigenen Sub-Agents parent/child + subagent_spawn/complete).
 Format siehe WORKFLOW.md „Logging“.
+
+## Qualitätsregeln (verbindlich — siehe PROMPT-REGELN.md)
+
+Alle 10 Regeln aus `workflow/PROMPT-REGELN.md` gelten für diesen Agent und seine Sub-Agents,
+insbesondere: Meta-Hygiene 0-Toleranz (nur ART-NNNN als Querverweise in v2), Visual-QA-Gate,
+Kontrast messen (AA), keine QA-Artefakte im Lesertext, Register mit assert count==N, Proof im
+ selben Lauf, Seitenziele nicht durch Layout drücken, Präambel-Pflicht, jede Einheit bebildert
+ (0 orphan SVGs), Logging+Archiv als Pflicht.

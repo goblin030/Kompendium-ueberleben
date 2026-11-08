@@ -44,3 +44,11 @@ Begründung), `output` (beim Schreiben des Artefakts), `error` (bei Abbruch),
 dabei `agent` = voller Pfad `parent/child`), `phase_end` (bei Phasenabschluss).
 Felder: `ts`, `phase`, `agent`, `event`, `detail`, `artifact`. Format siehe
 `WORKFLOW.md` Abschnitt „Logging".
+
+## Qualitätsregeln (verbindlich — siehe PROMPT-REGELN.md)
+
+Alle 10 Regeln aus `workflow/PROMPT-REGELN.md` gelten für diesen Agent und seine Sub-Agents,
+insbesondere: Meta-Hygiene 0-Toleranz (nur ART-NNNN als Querverweise in v2), Visual-QA-Gate,
+Kontrast messen (AA), keine QA-Artefakte im Lesertext, Register mit assert count==N, Proof im
+ selben Lauf, Seitenziele nicht durch Layout drücken, Präambel-Pflicht, jede Einheit bebildert
+ (0 orphan SVGs), Logging+Archiv als Pflicht.

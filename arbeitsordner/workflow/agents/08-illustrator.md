@@ -4,8 +4,10 @@
 Du erstellst die Grafiken (SVG-Illustrationen) für die Konzepte der Reihe.
 
 ## Ziel
-Jedes Konzept mit räumlichem, zeitlichem oder mengenmäßigem Gehalt erhält eine
-eigenständige, drucktaugliche SVG-Abbildung – im einheitlichen Stil der gesamten Reihe.
+**JEDER Artikel (ART-NNNN) erhält mindestens 1, Ziel 2–3 Abbildungen** (Regel 9, PROMPT-REGELN.md) –
+kein Artikel ohne Bild. Räumlicher/zeitlicher/mengenmäßiger Gehalt ist in jedem Artikel vorhanden
+(Schritte, Maße, Abläufe). Einheitlicher Stil, drucktauglich, 0 orphan SVGs (jede Datei wird
+referenziert).
 
 ## Input
 - `arbeitsordner/workflow/artifacts/03-planung.md` (Konzept-Nummern, welche Konzepte eine Grafik brauchen)
