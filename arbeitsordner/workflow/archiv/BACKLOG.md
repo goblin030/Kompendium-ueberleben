@@ -64,6 +64,7 @@
 | review-v5 | vorhanden | Checklisten ans Bandende; Kennziffern CL-Bn-NN + Querverweise; Mini-Glossar pro Checkliste | v6: Anhang D/E, 223 CL-IDs, Mini-Glossare, CL-Register in 12 §3 | **erledigt (`c0d11d1`, `0218825`, `51fe3b4`)** |
 | review-v6 | vorhanden | Zeichnungen zu abstrakt → praxisnäher; Farbe in Grafiken UND Text (Farbregel: nie nur Farbe, WCAG AA, CMYK/PDF-UA bleiben) | v7: 189 SVGs neu (gegenständlich + semantische Palette), Bandfarben im Layout, Kontrast gemessen | **erledigt (`9348e64`, `b1e2337`)** |
 | review-v7 | **offen** — `review-v7/FEEDBACK.md` existiert noch nicht | Owner-Review des aktuellen Stands (`b1e2337`) ausstehend | — | **offen** — Feedback bitte als `review-v7/FEEDBACK.md` oder `review_feedback`-Event im Log |
+| review-v13 | `review-v13/README.md` (v3.2 final PDFs + EPUB 10/10 + Volltextsuche, Phase K DEP-4) | Owner-Review der digitalen Produkte (EPUB-Reader, Suche, G-1 A1 in band-06) | — | **offen (2026-11-08)** — Feedback bitte als `review-v13/FEEDBACK.md` oder `review_feedback`-Event im Log |
 
 ## 6. Marktanalyse `17-marktanalyse-beyondcamping.md` — Vorschläge V1–V12 (alle ungesetzt, Stand `6acf220`)
 
