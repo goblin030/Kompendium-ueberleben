@@ -2,6 +2,7 @@
 
 **Erstellt von:** Agent `archivar` (Phase A, Turn 1) · **Stand:** Commit `b1e2337` (v7 final)
 **Update Turn 2 (archivar, 2026-11-08):** §8 „Minor-Runde v2.2“ ergänzt (visual-qa Turn 7 + format-reviewer Turn 9 auf v2.1/review-v8, Commit `29720dc`); betroffene ältere Punkte (VQA-a/b/c, A11Y-1/2) auf **in Arbeit (v2.2)** gesetzt. Projekt-Stand jetzt: Enzyklopädie v2.1, 314 Artikel, 1.318 S., Gates bestanden (`29720dc`).
+**Update Turn 3 (archivar, 2026-11-08):** nach v2.2 (Commit `3b4e6e5`, 755 S., review-v9; doc-builder Turn 16, visual-qa Turn 8, format-reviewer Turn 10 FREIGEGEBEN mit Resten): MR-2/MR-3/MR-4/MR-6 → **erledigt (v2.2, `3b4e6e5`)**; MR-1/MR-5 (und MR-7-Rest) → **in Arbeit (v2.3)**. Verweise VQA-a/b/c, A11Y-1/2 entsprechend aktualisiert.
 **Quellen:** `artifacts/05-format-review.md`, `artifacts/20-visual-qa.md`, `artifacts/16-barrierefreiheit.md`, `artifacts/14-publikation.md` (DEP-1..6), `review-*/FEEDBACK.md`, `artifacts/17-marktanalyse-beyondcamping.md` (V1–V12), `artifacts/13-rechtstexte.md` §9
 **Regel (append-only):** Erledigte Punkte werden **nicht entfernt**, sondern auf `erledigt (Commit …)` gesetzt. Neue Punkte werden unten angehängt. Status: `offen` / `in Arbeit` / `erledigt (Commit …)` / `blockiert (wartet auf …)`.
 
@@ -26,17 +27,17 @@
 
 | ID | Befund | Status | Maßnahme |
 |---|---|---|---|
-| VQA-a | Ampel-gelb-Text `#8a6d00` auf konzmeta-Füllung `#efefef` = **4,28:1 < 4,5** (auf Weiß 4,92 OK) | **in Arbeit (v2.2)** (minor; = MR-3, siehe §8) | abdunkeln (z. B. `#7a5f00`) oder Füllung aufhellen; Owner: doc-builder Turn 16 |
-| VQA-b | Helle Sekundär-Rahmen/Linien `#bfbfbf` 1,84:1, `#a9c3d6` 1,83:1, `#c9c9c9` 1,66:1 < 3:1 | **in Arbeit (v2.2)** (minor; = MR-4, siehe §8) | abdunkeln (z. B. `#8c8c8c`); Owner: doc-builder Turn 16 / illustrator Turn 8 |
-| VQA-c | Leerraum: v1 **85,2 %** der Seiten < 65 % Satzspiegel (2.875/3.374), **18,1 %** nahezu leer (611); v2.1: **87,3 % < 65 %** (1.150/1.318), **25,0 % nahezu leer** (329) | **in Arbeit (v2.2)** (minor, systematisch; = MR-6, siehe §8) | Artikeldichte erhöhen (Artikel 5–10 S., teilbare Boxen mit Rahmen-Fortsetzung, engeres Skizzen-Grid); Owner: doc-builder Turn 16; dann visual-qa Re-Run |
+| VQA-a | Ampel-gelb-Text `#8a6d00` auf konzmeta-Füllung `#efefef` = **4,28:1 < 4,5** (auf Weiß 4,92 OK) | **erledigt (v2.2, `3b4e6e5`)** (minor; = MR-3, siehe §8) | abdunkeln (z. B. `#7a5f00`) oder Füllung aufhellen; Owner: doc-builder Turn 16 |
+| VQA-b | Helle Sekundär-Rahmen/Linien `#bfbfbf` 1,84:1, `#a9c3d6` 1,83:1, `#c9c9c9` 1,66:1 < 3:1 | **erledigt (v2.2, `3b4e6e5`)** (minor; = MR-4, siehe §8) | abdunkeln (z. B. `#8c8c8c`); Owner: doc-builder Turn 16 / illustrator Turn 8 |
+| VQA-c | Leerraum: v1 **85,2 %** der Seiten < 65 % Satzspiegel (2.875/3.374), **18,1 %** nahezu leer (611); v2.1: **87,3 % < 65 %** (1.150/1.318), **25,0 % nahezu leer** (329) | **erledigt (v2.2, `3b4e6e5`)** (minor, systematisch; = MR-6, siehe §8 — v2.2: 755 S., nahezu leer 7,0 %, visual-qa Turn 8) | Artikeldichte erhöhen (Artikel 5–10 S., teilbare Boxen mit Rahmen-Fortsetzung, engeres Skizzen-Grid); Owner: doc-builder Turn 16; dann visual-qa Re-Run |
 | VQA-d | Band 4 S. 170: 1 inline „Checkliste (Kopiervorlage Anhang A)“ | **erledigt (`0218825`)** — durch CL-B4-13-Zeiger ersetzt | 20 Turn 3 |
 
 ## 3. Befunde aus `16-barrierefreiheit.md` (accessibility Turn 4, Stand `b1e2337`)
 
 | ID | Befund | Status | Maßnahme |
 |---|---|---|---|
-| A11Y-1 | **Einziger Text-FAIL:** `abb-9-2.svg` Label „Härten OHNE Anlassen = Glasbruch…“ — `#1a1a1a` auf `#6e6e6e` = **3,41:1** (braucht 4,5; 12 pt bold) | **in Arbeit (v2.2)** (= MR-5, siehe §8; Fix an illustrator Turn 8, Log 2026-11-07 21:10) | Text auf `#ffffff` (5,10:1) oder Panel aufhellen; SVG neu, Band 9 neu kompilieren, accessibility Re-Check |
-| A11Y-2 | Ampel gelb 35× `#8a6d00` auf `#efefef` = 4,28:1 knapp FAIL (bekannt; Wort „gelb“ + P/M/V als zweiter Kanal) | **in Arbeit (v2.2)** (minor) — identisch mit MR-3/VQA-a | siehe MR-3 |
+| A11Y-1 | **Einziger Text-FAIL:** `abb-9-2.svg` Label „Härten OHNE Anlassen = Glasbruch…“ — `#1a1a1a` auf `#6e6e6e` = **3,41:1** (braucht 4,5; 12 pt bold) | **in Arbeit (v2.3)** (= MR-5, siehe §8; in v2.2 unverändert, Rest T10-4 lt. format-reviewer Turn 10) | Text auf `#ffffff` (5,10:1) oder Panel aufhellen; SVG neu, Band 9 neu kompilieren, accessibility Re-Check |
+| A11Y-2 | Ampel gelb 35× `#8a6d00` auf `#efefef` = 4,28:1 knapp FAIL (bekannt; Wort „gelb“ + P/M/V als zweiter Kanal) | **erledigt (v2.2, `3b4e6e5`)** — identisch mit MR-3/VQA-a | siehe MR-3 |
 | A11Y-3 | Dekorative Reststriche `#a9c3d6`/`#bfbfbf` 1,60–1,65:1 | **Notiz, kein Befund** (dekorativ, nicht informationstragend) — identisch mit VQA-b | siehe VQA-b |
 | A11Y-4 | EPUBCheck n/a — keine EPUBs | **blockiert auf DEP-4** | siehe §4 |
 
@@ -100,13 +101,13 @@
 
 | ID | Befund | Status | Maßnahme / Owner |
 |---|---|---|---|
-| MR-1 | **3 warn-N-Altverweise in Band 10 v2.1** — `warn-3` S. 70/113, `warn-7c` S. 128 (v1-Warngrafik-Kennungen, in v2.1 nicht eingebunden/unaufgelöst; Meta-Scan B10 sonst clean) | **in Arbeit (v2.2)** | auf `warn-art-*` bzw. ART-Referenz umstellen — illustrator Turn 8 + doc-builder Turn 16 |
-| MR-2 | **orphan `warn-art-0132.svg`** (T9-2: keine Referenz in v2.1; 34/35 art-SVGs eingebettet) | **in Arbeit (v2.2)** | einbinden (Artikel ART-0132) oder aus `illustrationen/` + ZIP entfernen — illustrator/doc-builder |
-| MR-3 | **Ampel-Gelb** `#8a6d00` auf `#efefef` = **4,28:1 < 4,5** (auf Weiß 4,92 OK; 35× in v1, auch v2.1) | **in Arbeit (v2.2)** | abdunkeln auf ≥ 4,5:1 (z. B. `#7a5f00`) oder konzmeta-Fill aufhellen — doc-builder Turn 16 (= VQA-a/A11Y-2) |
-| MR-4 | **helle Sekundär-Rahmen** `#a9c3d6` 1,83:1 / `#bfbfbf` 1,84:1 / `#c9c9c9` 1,66:1 < 3:1 | **in Arbeit (v2.2)** | abdunkeln (z. B. `#8c8c8c`) — doc-builder Turn 16 / illustrator Turn 8 (= VQA-b/A11Y-3) |
-| MR-5 | **`abb-9-2.svg`** Label „Härten OHNE Anlassen = Glasbruch…“ — `#1a1a1a` auf `#6e6e6e` = **3,41:1** (braucht 4,5; 12 pt bold; einziger Text-FAIL) | **in Arbeit (v2.2)** | Text auf `#ffffff` umstellen (5,10:1) oder Panel aufhellen — illustrator Turn 8 (= A11Y-1) |
-| MR-6 | **Artikeldichte / Leerraum v2.1:** 87,3 % < 65 % Satzspiegel (1.150/1.318), **25,0 % nahezu leer** (329) — artikelbedingt (v1: 85,2 % / 18,1 %) | **in Arbeit (v2.2)** | Dichte erhöhen: Artikel auf 5–10 S., teilbare Boxen mit Rahmen-Fortsetzung, engeres Skizzen-Grid — doc-builder Turn 16; dann visual-qa Re-Run (= VQA-c) |
-| MR-7 | **T9-1:** 2 v1-Crossref-Abbildungen in `band-10-v2` mit v1-Captions („Konzept 2.1/4.1“, „warn-3/warn-7“, „Anhang Feuerprobe“) im v2.1-PDF | **in Arbeit (v2.2)** | Captions auf ART-IDs umstellen oder v1-Abbildungen durch art-SVGs ersetzen; Band 10 v2.1 neu bauen — doc-builder Turn 16 |
+| MR-1 | **3 warn-N-Altverweise in Band 10 v2.1** — `warn-3` S. 70/113, `warn-7c` S. 128 (v1-Warngrafik-Kennungen, in v2.1 nicht eingebunden/unaufgelöst; Meta-Scan B10 sonst clean) | **in Arbeit (v2.3)** — Rest (T10-1, format-reviewer Turn 10): band-10-v2 bindet 2 v1-SVGs (abb-9-1, abb-10-3) mit warn-3/warn-7/Konzept-4.x im Bildtext; visual-qa Turn 8: warn-N in B10 noch vorhanden (S. 45/70/80) | v1-SVGs durch art-SVGs ersetzen / Bildtext scrubben, Captions auf ART-IDs — v2.3 (illustrator + doc-builder) |
+| MR-2 | **orphan `warn-art-0132.svg`** (T9-2: keine Referenz in v2.1; 34/35 art-SVGs eingebettet) | **erledigt (v2.2, `3b4e6e5`)** | in band-04-v2 S. 54 eingebunden; alle 6 warn-art-NNNN referenziert (visual-qa Turn 8, format-reviewer Turn 10 mr_check) |
+| MR-3 | **Ampel-Gelb** `#8a6d00` auf `#efefef` = **4,28:1 < 4,5** (auf Weiß 4,92 OK; 35× in v1, auch v2.1) | **erledigt (v2.2, `3b4e6e5`)** | v2.2: konzmeta-Ampel als schwarzer Text 21:1 (visual-qa Turn 8); Rest lt. format-reviewer Turn 10: 2× `#8a6d00` in band-07-v2.typ → v2.3 mitziehen (= VQA-a/A11Y-2) |
+| MR-4 | **helle Sekundär-Rahmen** `#a9c3d6` 1,83:1 / `#bfbfbf` 1,84:1 / `#c9c9c9` 1,66:1 < 3:1 | **erledigt (v2.2, `3b4e6e5`)** | gemessen `#8c8c8c` = 3,36:1 ≥ 3:1 (visual-qa Turn 8); Rest lt. format-reviewer Turn 10: `lib/stil.typ` noch `#a9c3d6`/`#bfbfbf` → v2.3 mitziehen (= VQA-b/A11Y-3) |
+| MR-5 | **`abb-9-2.svg`** Label „Härten OHNE Anlassen = Glasbruch…“ — `#1a1a1a` auf `#6e6e6e` = **3,41:1** (braucht 4,5; 12 pt bold; einziger Text-FAIL) | **in Arbeit (v2.3)** — in v2.2 unverändert (3,41:1, Rest T10-4 lt. format-reviewer Turn 10; illustrator Turn 8 fixte Swatch-Leiste nur in v1) | Text auf `#ffffff` (5,10:1) / hellem Grund in der v2-SVG — v2.3, illustrator; dann accessibility Re-Check (= A11Y-1) |
+| MR-6 | **Artikeldichte / Leerraum v2.1:** 87,3 % < 65 % Satzspiegel (1.150/1.318), **25,0 % nahezu leer** (329) — artikelbedingt (v1: 85,2 % / 18,1 %) | **erledigt (v2.2, `3b4e6e5`)** | Dichte erhöht: 1.318 → 755 S., nahezu leer 25,0 % → 7,0 %, < 65 % 87,3 % → 78,5 % (visual-qa Turn 8, doc-builder Turn 16) (= VQA-c) |
+| MR-7 | **T9-1:** 2 v1-Crossref-Abbildungen in `band-10-v2` mit v1-Captions („Konzept 2.1/4.1“, „warn-3/warn-7“, „Anhang Feuerprobe“) im v2.1-PDF | **in Arbeit (v2.3)** — Rest zusammen mit MR-1 (T10-1: dieselben v1-Captions in band-10-v2) | Captions auf ART-IDs umstellen oder v1-Abbildungen durch art-SVGs ersetzen; Band 10 v2.3 neu bauen — doc-builder |
 
 ---
 

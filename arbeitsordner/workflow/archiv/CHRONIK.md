@@ -1,9 +1,9 @@
 # CHRONIK.md — Chronik der Projekt-Entscheidungen „Das Überlebenbuch"
 
-**Erstellt von:** Agent `archivar` (Phase A, Turn 1); **regeneriert Turn 2 (Phase G2, 2026-11-08)** nach der Minors-Runde v2.2 — jetzt 1787 Events bis `2026-11-08T00:59:03+01:00`.
-**Quelle:** `arbeitsordner/workflow/logs/workflow.log` (JSONL, append-only; Details auf 220 Zeichen gekürzt — Volldetail im Log) + `git log` (Commit-Hashes pro Phase, Stand `29720dc`).
+**Erstellt von:** Agent `archivar` (Phase A, Turn 1); **regeneriert Turn 2 (G2, 2026-11-08)** nach Minors-Runde v2.2; **regeneriert Turn 3 (G2, 2026-11-08)** nach v2.2 (Commit `3b4e6e5`) — jetzt 1812 Events bis `2026-11-08T01:17:08+01:00`.
+**Quelle:** `arbeitsordner/workflow/logs/workflow.log` (JSONL, append-only; Details auf 220 Zeichen gekürzt — Volldetail im Log) + `git log` (Commit-Hashes pro Phase, Stand `3b4e6e5`).
 
-**Gruppierung:** nach `phase` in Reihenfolge des Auftretens. Pro Phase: Commits, dann Tabelle mit `ts | agent | event | detail | artifact`. Turn-2-Änderung: neue Phasen (C2/D2/D3/E2/F2/G2, review-v8) und das Minor-Event (G2 `decision` 2026-11-08T04:45:00+01:00, Minors-Runde v2.2) sind enthalten; bestehende Abschnitte unverändert (Log ist append-only).
+**Gruppierung:** nach `phase` in Reihenfolge des Auftretens. Pro Phase: Commits, dann Tabelle mit `ts | agent | event | detail | artifact`. Turn-3-Änderung: alle G2/v2.2-Events ergänzt (Minors-Runde v2.2 `decision` 2026-11-08T04:45, doc-builder Turn 16, visual-qa Turn 8, format-reviewer Turn 10, archivar Turn 2/3, review-v9) — bestehende Abschnitte unverändert (Log ist append-only).
 
 Event-Typen siehe WORKFLOW.md „Logging“.
 
@@ -67,11 +67,11 @@ Event-Typen siehe WORKFLOW.md „Logging“.
 | 2026-11-07T22:00:00+01:00 | orchestrator | decision | Richtungswechsel in Diskussion: Kompendium (10 Baende mit Kapiteln) -> Enzyklopaedie (viele kurze, eigenstaendige Artikel/Anleitungen, z. B. Wie mache ich am besten ein Feuer?). 10 Klaerungsfragen an Owner gestellt (A... | logs/workflow.log |
 | 2026-11-07T22:30:00+01:00 | orchestrator | decision | Enzyklopaedie-Modus v2 beschlossen: 300-500 Artikel (5-10 S.), feste Schablone (Ziel/Material/Schritte/Varianten/Fehler/Warnungen/Siehe auch), 10 Domaenen-Baende mit alphabetischen Artikeln + ART-NNNN-IDs, TOC wie Kom... | workflow/ENZYKLOPAEDIE.md, workflow/agents/22-artikel-planner.md |
 
-## Phase `review` — Owner-Reviews (review-v1..v8)
+## Phase `review` — Owner-Reviews (review-v1..v9)
 
-**Commits:** f82585a (review-v1), e2f812b + 22f2071 + 172404d + 1a47710 (v2 + Imprimatur), 06452d3 (review-v3), 6acf220 (Marktanalyse), badc13f (review-v4), 96b1701 (review-v5), c0d11d1/0218825/51fe3b4 (review-v6), 9348e64 + b1e2337 (review-v7), 60d989c/29720dc (review-v8: v2/v2.1)
+**Commits:** f82585a (review-v1), e2f812b + 22f2071 + 172404d + 1a47710 (v2 + Imprimatur), 06452d3 (review-v3), 6acf220 (Marktanalyse), badc13f (review-v4), 96b1701 (review-v5), c0d11d1/0218825/51fe3b4 (review-v6), 9348e64 + b1e2337 (review-v7), 60d989c/29720dc (review-v8: v2/v2.1), 3b4e6e5 (review-v9: v2.2; illustrator Turn 8 review_feedback)
 
-**Events:** 44
+**Events:** 49
 
 | ts | agent | event | detail | artifact |
 |---|---|---|---|---|
@@ -119,6 +119,11 @@ Event-Typen siehe WORKFLOW.md „Logging“.
 | 2026-11-07T18:16:25+0100 | illustrator | output | README.md aktualisiert: neuer Stil-Abschnitt (semantische Palette mit Hex-Werten + Kontrasten, Farbregel zweiter Kanal, WCAG-AA-Messwerte, Praxisnaehe-Features), vollstaendige Tabellen 174 Abb. + 15 warn, Aenderungshi... | artifacts/06-dokumente/illustrationen/README.md |
 | 2026-11-07T20:30:00+01:00 | orchestrator | output | review-v7/ angelegt nach Review v6 (Praxisnaehe + Farbe): illustrator Turn 6 (189 SVGs gegenstaendlich + semantische Farbpalette, WCAG AA gemessen), doc-builder Turn 13 (Farbakzente in stil.typ: Bandfarben Ueberschrif... | review-v7/ |
 | 2026-11-08T02:55:00+01:00 | orchestrator | review_feedback | Review v8: (1) Meta-Leak in v2 (810 interne Tokens, Gates rot) -> doc-builder Turn 15 (Quellen/Provenienz raus, art-SVGs einbinden, v2-proof); (2) interne Projekt-Elemente (Randbedingungen-Ausfuell-Tabelle, Uebungspro... | review-v8/FEEDBACK.md, workflow/ENZYKLOPAEDIE.md |
+| 2026-11-08T01:01:24+0100 | illustrator | review_feedback | Turn 8 Minor-Fixes: (1) abb-9-2.svg Text #1a1a1a auf #6e6e6e = 3,41:1 -> aufraeumen; (2) helle Sekundaer-Farben (alt #bfbfbf 1,84:1, #a9c3d6 1,83:1, #c9c9c9 1,66:1; aktuell entspricht: WATER #a8cbe4 1,83:1, FD #d9d9d9... | artifacts/06-dokumente/illustrationen/ |
+| 2026-11-08T01:01:24+0100 | illustrator | decision | Fixes: (1) abb-9-2 Anlassfarben-Swatch-Leiste kollidierte mit Warnbox-Text (Text-Anker auf #6e6e6e) -> Leiste nach oben verschoben, kein Text mehr auf dunkler Flaeche (stattdessen Text-weiss-auf-dunkel: Text steht nun... | artifacts/06-dokumente/illustrationen/ |
+| 2026-11-08T01:02:29+0100 | illustrator | output | Turn 8 umgesetzt und alle 224 SVGs neu erzeugt (3 Chargen): abb-9-2 Swatch-Leiste nach oben verschoben (Text nicht mehr auf #6e6e6e, 3,41:1 -> Text auf hellem Grund INK); Palette abgedunkelt WATER #a8cbe4->#6b97bd (3,... | artifacts/06-dokumente/illustrationen/ |
+| 2026-11-08T01:02:29+0100 | illustrator | output | Re-Validierung 224/224 SVGs (abb 174, art 29, warn 21): wohlgeformtes XML, Attribute gueltig, 0 Meta-Tokens, 0 Rollen-Namen, 0 undefined/NaN, keine alten hellen Hexes, selbstenthalten, viewBox, IDs im Bild, Nummerieru... | artifacts/06-dokumente/illustrationen/ |
+| 2026-11-08T01:02:29+0100 | illustrator | output | README.md aktualisiert: Palette mit abgedunkelten Hex-Werten (Wasser #6b97bd 3,1:1, FD #949494 3,0:1), AA-Messwerte Turn 8, Turn-8-Eintrag in Aenderungshistorie; Bestand unveraendert 224 SVGs + README | artifacts/06-dokumente/illustrationen/README.md |
 
 ## Phase `B` — Phase B (fact-checker)
 
@@ -284,11 +289,11 @@ Event-Typen siehe WORKFLOW.md „Logging“.
 | 2026-11-07T22:14:00+01:00 | index-builder | output | 12-register.md auf 2292 Zeilen erweitert: neues 4 ART-Artikel-Register A-Z (314 Eintraege, Buchstaben-Headings), 5 Tag-Register (688 Tags -> ART-IDs), 6 Band-TOCs (10 Baende mit ART-Bereichen); 7 Abdeckungs-Nachweis u... | artifacts/12-register.md |
 | 2026-11-07T22:18:00+01:00 | index-builder | output | Validierung per Script gegen 21-artikel-katalog.md: 314/314 ART-IDs in 4 und 6 (0 fehlend, 0 zuviel, 0 Dubletten), Band-Zuordnung je ART-ID identisch zum Katalog (diff 0), Band-Verteilung 43/32/31/30/28/28/30/32/28/32... | artifacts/12-register.md |
 
-## Phase `H` — Phase H (doc-builder)
+## Phase `H` — Phase H (doc-builder, inkl. Turn 15 v2.1 / Turn 16 v2.2)
 
-**Commits:** 5ae9046 (06-dokumente v1: 10 Baende, 3.523 S. initial + ZIP + Abschlussbericht)
+**Commits:** 5ae9046 (06-dokumente v1: 10 Baende + ZIP + Abschlussbericht); doc-builder Turn 16 in v2.2 (3b4e6e5)
 
-**Events:** 54
+**Events:** 57
 
 | ts | agent | event | detail | artifact |
 |---|---|---|---|---|
@@ -346,6 +351,9 @@ Event-Typen siehe WORKFLOW.md „Logging“.
 | 2026-11-07T23:14:32+01:00 | doc-builder | decision | Turn 15 — Rebuild v2.1 nach D3+E2 in 06-dokumente/v2.1/: 314 Artikel als band-NN-v2.typ (TOC mit ART-IDs+Seiten, alphabetisch, ART-Querverweise mit refpage); 29 art-NNNN-abb-M.svg eingebunden + 6 warn-art-NNNN.svg als... | artifacts/06-dokumente/v2.1/ |
 | 2026-11-07T23:14:32+01:00 | doc-builder | output | v2.1 kompiliert (--root . --pdf-standard a-2b, 10/10 fehlerfrei, PDF/A-2b): 178/131/127/123/115/114/123/130/123/154 = 1318 S. gesamt, 314 Artikel, art-SVGs eingebunden. prepress-Paesse nach v2.1/druckdaten/ (10x PDF/X... | artifacts/06-dokumente/v2.1/ |
 | 2026-11-07T23:14:32+01:00 | doc-builder | phase_end | Turn 15 (v2.1) abgeschlossen: 314 Artikel, PDF/A-2b + PDF/X-4 + proof in v2.1/druckdaten aktuell, ZIP v2.1 + Abschlussbericht aktuell, Meta-Scan 0. Naechster Schritt: review-v8/ + visual-qa fuer v2.1. | artifacts/06-dokumente/v2.1/ |
+| 2026-11-08T01:11:32+01:00 | doc-builder | decision | Turn 16 — Minor-Runde v2.2 (BACKLOG §8 MR-1..MR-7) in 06-dokumente/v2.2/: MR-1/MR-7 v1-Crossref-Captions in Band 10 neutralisiert (keine Konzept-/warn-N-Titel mehr in Captions, 0 warn-[0-9] in v2.2); MR-2 orphan warn-... | artifacts/06-dokumente/v2.2/, lib/stil.typ |
+| 2026-11-08T01:11:32+01:00 | doc-builder | output | v2.2 kompiliert (--root . --pdf-standard a-2b, 10/10 fehlerfrei, PDF/A-2b): 109/72/72/64/64/60/65/80/74/95 = 755 S. gesamt, 314 Artikel, 29 art-SVGs + warn-art eingebunden. Meta-Scan v2.2: 0 (nur ART-IDs). prepress-Pa... | artifacts/06-dokumente/v2.2/ |
+| 2026-11-08T01:11:32+01:00 | doc-builder | phase_end | Turn 16 (v2.2 Minor-Runde) abgeschlossen: MR-1/2/3/4/6/7 umgesetzt, Meta-Scan 0, 314 Artikel als PDF/A-2b + PDF/X-4 + proof in v2.2/ aktuell, ZIP v2.2 + Abschlussbericht aktuell. MR-5 (abb-9-2.svg Textkontrast) bleibt... | artifacts/06-dokumente/v2.2/ |
 
 ## Phase `I` — Phase I (prepress)
 
@@ -364,11 +372,11 @@ Event-Typen siehe WORKFLOW.md „Logging“.
 | 2026-11-06T23:20:00+01:00 | orchestrator | decision | Log-Reparatur: Zeile 106 hatte ein ueberzaehliges schliessendes Zeichen nach dem JSON-Objekt (doc-builder-Event 22:08:36); entfernt. Log jetzt vollstaendig valides JSONL. | logs/workflow.log |
 | 2026-11-06T23:22:00+01:00 | orchestrator | phase_end | Phase I abgeschlossen: 10 Druck-PDFs (PDF/X-4, CMYK, 3mm Anschnitt, Schnittmarken) in 06-dokumente/druckdaten/ + proof-bericht.md + Pipeline-Skripte (prepress.sh, bleed_marks.py, PDFX_def.ps, proof.py). Proof: 0 RGB, ... | artifacts/06-dokumente/druckdaten/ |
 
-## Phase `J` — Phase J (visual-qa GATE + format-reviewer)
+## Phase `J` — Phase J (visual-qa GATE + format-reviewer; Turn 7/8/9/10 auf v2.1/v2.2)
 
-**Commits:** ffee84d (05-format-review Turn 1 NACHBESSERN), 9b7c059 (Phase-J-Rework F1-F7), 96b1701 (20-visual-qa Gate-Agent), c0d11d1/0218825/51fe3b4 (v6), 9348e64/b1e2337 (v7); 29720dc (Turn 7/9 auf v2.1 FREIGEGEBEN)
+**Commits:** ffee84d (05-format-review Turn 1 NACHBESSERN), 9b7c059 (Phase-J-Rework F1-F7), 96b1701 (20-visual-qa Gate-Agent), c0d11d1/0218825/51fe3b4 (v6), 9348e64/b1e2337 (v7), 29720dc (Turn 7/9 auf v2.1), 3b4e6e5 (visual-qa Turn 8 + format-reviewer Turn 10 auf v2.2 FREIGEGEBEN mit Resten T10-1..T10-4)
 
-**Events:** 142
+**Events:** 154
 
 | ts | agent | event | detail | artifact |
 |---|---|---|---|---|
@@ -514,6 +522,18 @@ Event-Typen siehe WORKFLOW.md „Logging“.
 | 2026-11-07T23:18:46+01:00 | visual-qa | output | Turn 7 v2.1 (3) Farbe/Kontrast/Graustufen: Text #000000 21:1, Bandfarben 4,92-7,58:1; 31/31 Figures graustufen-lesbar (0 leer, >=21 Graustufen); minor wie v1 (gelb-Ampel 4,28:1 auf #efefef, helle Rahmen #a9c3d6/#bfbfb... | tmp/vqa7/out/contrast-band-*.json, summary.json |
 | 2026-11-07T23:18:46+01:00 | visual-qa | output | Nachtrag Turn 7 (v2.1) in artifacts/20-visual-qa.md angehaengt: Ampel gelb x10 (Band 10 + 3 warn-N-Altverweise), Gesamturteil FREIGEGEBEN (gelb) — v2.1-Gate bestanden: Kollisionen 0, Meta 0 (9/10 clean, B10 nur 3 warn... | arbeitsordner/workflow/artifacts/20-visual-qa.md |
 | 2026-11-07T23:18:46+01:00 | visual-qa | phase_end | visual-qa Turn 7 (v2.1) abgeschlossen: 10/10 v2.1-Baende vollstaendig geprueft (1.318 S., 150 dpi gray+color). Kollisionen 0, Meta-Scan 0 interne IDs (nur ART-IDs; B10: 3 warn-N-Altverweise minor), art-SVGs 31/31 refs... | arbeitsordner/workflow/artifacts/20-visual-qa.md |
+| 2026-11-08T01:12:36+01:00 | visual-qa | init | visual-qa Turn 8 (Gate v2.2). Input: 06-dokumente/v2.2/band-01..10-v2.pdf (109/72/72/64/64/60/65/80/74/95 = 755 S., 314 Artikel). Checks: Kollisionen, Meta-Scan 0 (nur ART-IDs), warn-N-Altverweise in B10 weg?, orphan ... | arbeitsordner/workflow/artifacts/20-visual-qa.md |
+| 2026-11-08T09:40:00+01:00 | format-reviewer | review_start | Re-Review Turn 10 auf v2.2 (06-dokumente/v2.2/): kompilieren, Meta 0, ART-Refs, MR-1..7 (BACKLOG §8), proof in v2.2/druckdaten aktuell, Druckdaten X-4+Marken, Regressionen. Tools: poppler/qpdf + frischer typst-Build +... | artifacts/06-dokumente/v2.2/, archiv/BACKLOG.md §8 |
+| 2026-11-08T09:42:00+01:00 | format-reviewer | compile_check | v2.2: 10/10 typst compile --pdf-standard a-2b fehlerfrei (rc=0), frischer Build seitenzahl-identisch: 109/72/72/64/64/60/65/80/74/95 = 755 S. (MR-6 Dichte erhoeht: 1318->755 S.); PDF/A-2b + dc:title. ART-Refs: 314 Lab... | artifacts/06-dokumente/v2.2/ |
+| 2026-11-08T09:43:30+01:00 | format-reviewer | mr_check | MR-1..7: MR-2 behoben (warn-art-0132 in band-04-v2 eingebunden, alle 6 warn-art referenziert), MR-6 behoben (755 S. statt 1318). Offen (minor): MR-1/MR-7-Rest — band-10-v2 bindet 2 v1-SVGs (abb-9-1, abb-10-3) mit warn... | artifacts/06-dokumente/v2.2/, lib/stil.typ, illustrationen/ |
+| 2026-11-08T09:45:00+01:00 | format-reviewer | druckdaten_check | v2.2/druckdaten: proof.json+bericht vorhanden und aktuell (mtime 01:11 > druck-PDFs 01:09-01:10, pages 109..95 matchen, crop_marks_ok=true). Alle 10 druck-PDFs via pdfinfo/qpdf/pdffonts OK: Pages=Quelle, MediaBox 216x... | artifacts/06-dokumente/v2.2/druckdaten/ |
+| 2026-11-08T09:46:00+01:00 | format-reviewer | decision | Gesamturteil Turn 10 (v2.2): FREIGEGEBEN mit minor Resten. 0 blocker, 0 major. T10-1..T10-4 minor (MR-1/7-Rest band-10, MR-3 gelb, MR-4 Rahmen, MR-5 abb-9-2 Kontrast) — naechste Revision. MR-2/MR-6 behoben. v2.2: komp... | artifacts/05-format-review.md |
+| 2026-11-08T09:47:00+01:00 | format-reviewer | output | Nachtrag Turn 10 (v2.2) an 05-format-review.md appliest: alle Pruefpunkte + MR-1..7-Status mit Nachweis, Restbefunde T10-1..T10-4, Urteil FREIGEGEBEN | artifacts/05-format-review.md |
+| 2026-11-08T01:16:15+01:00 | visual-qa | output | Turn 8 v2.2 (1) Rendern+Kollisionen: alle 755 Seiten (109/72/72/64/64/60/65/80/74/95) 150dpi gray+color; 0 Kollisionen (Koord.+Pixel); B10: 31 Figures == 31 image-refs (29 art + abb-9-1 + abb-10-3; abb-9-2 nicht refer... | tmp/vqa8/out/results-band-*.json |
+| 2026-11-08T01:16:15+01:00 | visual-qa | output | Turn 8 v2.2 (2) Meta-Scan: 8/10 Baende CLEAN (nur ART-IDs). Rest: B10 warn-3 x2 (S.45,70) + warn-7c (S.80) + Provenienz (#146 S.22/48, T11/Recherche S.80) = 6 Tokens; B1 1x 'Backlog' (S.26). warn-N in B10 NICHT entfer... | tmp/vqa8/out/metascan.json |
+| 2026-11-08T01:16:15+01:00 | visual-qa | output | Turn 8 v2.2 (3) Farbe/Kontrast: Ampel-Gelb-Problem behoben (keine farbige konzmeta-Ampel mehr in v2.2, 'gelb' als schwarzer Text 21:1); Sekundaer-Rahmen gemessen #8c8c8c = 3,36:1 >= 3:1 (behoben); Text #000000 21:1, B... | tmp/vqa8/out/contrast-band-*.json, summary.json, artrefs.json |
+| 2026-11-08T01:16:15+01:00 | visual-qa | output | Nachtrag Turn 8 (v2.2) in artifacts/20-visual-qa.md angehaengt: Ampel gelb x10, Gesamturteil FREIGEGEBEN (gelb) — Gate bestanden; offene Minor: 7 Meta-Resttokens (B10 warn-N/Provenienz, B1 Backlog), Leerraum 21,5%/7,0%. | arbeitsordner/workflow/artifacts/20-visual-qa.md |
+| 2026-11-08T01:16:15+01:00 | visual-qa | phase_end | visual-qa Turn 8 (v2.2) abgeschlossen: 10/10 v2.2-Baende vollstaendig geprueft (755 S., 150 dpi gray+color). Kollisionen 0, Meta 0 interne IDs in 8/10 Baenden (B1: 1x Backlog; B10: 3x warn-N + 3x Provenienz — warn-N N... | arbeitsordner/workflow/artifacts/20-visual-qa.md |
 
 ## Phase `K` — Phase K (parallel: legal, cover-designer, publisher, marketing, accessibility)
 
@@ -1544,11 +1564,11 @@ Event-Typen siehe WORKFLOW.md „Logging“.
 | 2026-11-07T23:26:30+01:00 | research-b10 | phase_end | Phase E2 Band 10 abgeschlossen. Naechster Schritt: F3 Korrektur der D2-Dateien nach Bericht §4 (2 Blocker Querverweise, NBSP global, Fremdwort/Trennfehler), danach F2 doc-builder + illustrator (Abb./warn-Grafiken für ... | artifacts/24-review-artikel/band-10.md |
 | 2026-11-08T02:10:00+01:00 | orchestrator | phase_end | E2 fertig: 10 Review-Berichte in 24-review-artikel/. Systemische Befunde: NBSP fehlt bei Zahl+Einheit (zentraler Regex-Fix in F2), interne Pruef-IDs (BL/BW/W/L/C2/review-v7) in Fließtext (raus in F2), 3 falsche ART-Qu... | artifacts/24-review-artikel/ |
 
-## Phase `F2` — Phase F2 (v2)
+## Phase `F2` — Phase F2 (v2: Build-Outputs + Gates v2.1/v2.2)
 
-**Commits:** — (Phase F2 v2, 7 Events im Log)
+**Commits:** — (Phase F2 v2: v2.1/v2.2 Build-Outputs, Gates)
 
-**Events:** 7
+**Events:** 8
 
 | ts | agent | event | detail | artifact |
 |---|---|---|---|---|
@@ -1559,6 +1579,7 @@ Event-Typen siehe WORKFLOW.md „Logging“.
 | 2026-11-07T22:23:19+0100 | illustrator | output | README.md aktualisiert: neuer Abschnitt Artikel-Abbildungen v2 (Tabelle art-NNNN-abb-M.svg -> ART-ID -> Unterschrift, 29 Zeilen), warn-art-Tabelle (6), Bestand 224 SVGs gesamt (174 abb + 29 art + 15 warn-N + 6 warn-ar... | artifacts/06-dokumente/illustrationen/README.md |
 | 2026-11-08T02:40:00+01:00 | orchestrator | output | review-v8/ angelegt: Enzyklopaedie v2 - 314 Artikel in 10 Baenden (1.323 S., PDF/A-2b), ART-Register, TOCs, Warnrahmen, Artikel-Abbildungen. visual-qa Turn 6 + format-reviewer Turn 8 laufen als Gates. | review-v8/, artifacts/06-dokumente/v2/ |
 | 2026-11-08T04:00:00+01:00 | orchestrator | output | v2.1 gebaut (doc-builder Turn 15): 1.318 S., Meta-Scan 0 (nur ART-IDs), art-SVGs eingebunden, v2.1-proof vorhanden, E2-Fixes zentral (NBSP, Querverweise, Fremdwoerter). review-v8 aktualisiert. Gates: visual-qa Turn 7 ... | artifacts/06-dokumente/v2.1/, review-v8/ |
+| 2026-11-08T05:30:00+01:00 | orchestrator | output | v2.2 gebaut (doc-builder Turn 16): 755 S., 314 Artikel, MR-1/2/3/4/7 gefixt (warn-N in B10 raus, orphan eingebunden, Ampel-Gelb 5,27:1, Sekundaer-Rahmen >=3:1), Dichte erhoeht, Meta 0, proof in v2.2. review-v9 angeleg... | artifacts/06-dokumente/v2.2/, review-v9/ |
 
 ## Phase `D3` — Phase D3 (Artikel-Quellen bereinigt, ART-IDs only)
 
@@ -1981,11 +2002,11 @@ Event-Typen siehe WORKFLOW.md „Logging“.
 | 2026-11-08T09:10:00+01:00 | research-b09 | phase_end | Phase D3 Band 9 abgeschlossen (review-v8): 28/28 Artikel-Dateien scrubbed und verifiziert — 0 interne Tokens (Tdd/Chat-Hashes/W/CL-B/warn-N/Anhang/Ampel/.md/review-vN/Gate/ROT/Rollen-Namen), ART-Querverweise 100% guel... | artifacts/23-artikel/band-09/ |
 | 2026-11-08T03:30:00+01:00 | orchestrator | phase_end | D3 fertig: alle 314 Artikel-Quellen bereinigt (nur ART-IDs als Querverweise, keine internen Tokens/Provenienz), Uebungsbezug auf Kurzhinweis gekuerzt, Ausfuell-Tabellen raus. Schablone in ENZYKLOPAEDIE.md angepasst. d... | artifacts/23-artikel/, workflow/ENZYKLOPAEDIE.md, review-v8/FEEDBACK.md |
 
-## Phase `G2` — Phase G2 (Gates v2.1 + Minors-Runde v2.2: visual-qa Turn 7 / format-reviewer Turn 9)
+## Phase `G2` — Phase G2 (Gates v2.1/v2.2 + Minors-Runden v2.2/v2.3: visual-qa Turn 7/8, format-reviewer Turn 9/10, archivar Turn 2/3)
 
-**Commits:** 60d989c (v8: Enzyklopaedie v2 Build, 314 Artikel, 1.323 S.), 12899f0 (v2.1-Rebuild: meta-clean, art-SVGs, proof, E2-Fixes), 29720dc (Gates v2.1: visual-qa Turn 7 + format-reviewer Turn 9 FREIGEGEBEN); Minors-Runde v2.2 gestartet (G2-decision 2026-11-08T04:45)
+**Commits:** 60d989c (v8: Enzyklopaedie v2 Build, 314 Artikel, 1.323 S.), 12899f0 (v2.1-Rebuild), 29720dc (Gates v2.1: visual-qa Turn 7 + format-reviewer Turn 9 FREIGEGEBEN), 1f55e6b (archivar Turn 2: BACKLOG MR-1..7 + CHRONIK), 3b4e6e5 (v2.2 Minor-Runde: warn-N-Refs, orphan warn-art-0132, Kontrast, Dichte; 755 S.; review-v9); Minors-Runde v2.2 gestartet (G2-decision 2026-11-08T04:45), Reste -> v2.3
 
-**Events:** 4
+**Events:** 8
 
 | ts | agent | event | detail | artifact |
 |---|---|---|---|---|
@@ -1993,6 +2014,10 @@ Event-Typen siehe WORKFLOW.md „Logging“.
 | 2026-11-08T04:45:00+01:00 | orchestrator | decision | Minors-Runde gestartet: (1) 3 warn-N-Altverweise in Band 10 -> warn-art/ART; (2) orphan warn-art-0132.svg einbinden/entfernen; (3) Ampel-Gelb #8a6d00 auf #efefef 4,28:1 -> >=4,5:1 abdunkeln; (4) helle Sekundaer-Rahmen... | review-v8/, artifacts/20-visual-qa.md, artifacts/05-format-review.md |
 | 2026-11-08T00:59:03+01:00 | archivar | init | Turn 2: Aktualisierung nach Minors-Runde v2.2. Quellen: Log-Event G2/orchestrator 2026-11-08T04:45 (Minors-Runde gestartet, 6 Punkte, Routing illustrator Turn 8 + doc-builder Turn 16 + archivar Backlog-Update), artifa... | arbeitsordner/workflow/archiv/ |
 | 2026-11-08T00:59:03+01:00 | archivar | decision | BACKLOG um neue Sektion 8 Minor-Runde v2.2 ergaenzt (MR-1 3x warn-N-Altverweise Band 10 [warn-3 S.70/113, warn-7c S.128], MR-2 orphan warn-art-0132.svg [T9-2], MR-3 Ampel-Gelb #8a6d00/#efefef 4,28:1, MR-4 helle Sekund... | arbeitsordner/workflow/archiv/BACKLOG.md, arbeitsordner/workflow/archiv/CHRONIK.md |
+| 2026-11-08T01:00:08+01:00 | archivar | output | Turn 2 geschrieben: BACKLOG.md jetzt 119 Z. — neue Sektion 8 Minor-Runde v2.2 (MR-1 3x warn-N-Altverweise Band 10 warn-3 S.70/113 + warn-7c S.128, MR-2 orphan warn-art-0132.svg [T9-2], MR-3 Ampel-Gelb 4,28:1, MR-4 hel... | arbeitsordner/workflow/archiv/BACKLOG.md, arbeitsordner/workflow/archiv/CHRONIK.md |
+| 2026-11-08T01:00:09+01:00 | archivar | commit | Commit $(git log --oneline -1 \| cut -d" " -f1) archivar Turn 2: BACKLOG.md + CHRONIK.md aktualisiert (Minor-Runde v2.2 MR-1..MR-7 in Arbeit, CHRONIK 1.787 Events/22 Phasen inkl. Minor-Event), workflow.log +3 Events (... | arbeitsordner/workflow/archiv/ |
+| 2026-11-08T01:17:08+01:00 | archivar | init | Turn 3: BACKLOG-Update nach v2.2 (Commit 3b4e6e5). Quellen: git log (3b4e6e5 v2.2 minor round, 755 S., review-v9), Log-Events: doc-builder Turn 16 (H, 2026-11-08T01:11:32, MR-1/2/3/4/6/7 umgesetzt in v2.2, MR-5 bleibt... | arbeitsordner/workflow/archiv/ |
+| 2026-11-08T01:17:08+01:00 | archivar | decision | Status-Update gemaess Owner-Vorgabe: MR-2/MR-3/MR-4/MR-6 -> erledigt (v2.2, Commit 3b4e6e5); MR-1/MR-5 -> Rest in v2.3, Status in Arbeit (v2.3); MR-7 Rest folgt MR-1 (T10-1, in Arbeit v2.3). Entsprechende Verweise VQA... | arbeitsordner/workflow/archiv/BACKLOG.md, arbeitsordner/workflow/archiv/CHRONIK.md |
 
 ---
 
