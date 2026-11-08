@@ -208,6 +208,11 @@ Seitenzahlen nach Review v1 (Ist, PDF/A-2b): 445 / 361 / 342 / 329 / 317 / 310 /
 - Komplettes frisches Rebuild: v2.8/ geleescht, v2.9/ neu gebaut aus aktuellen 23-artikel/ + sanitized illustrationen/ (840 SVGs). Generator-Cleanups weiter aktiv (T15-1 warnpflicht case-insens -> Warnung/sicherheitskritisch, T16-1 modus: "v2" Titelblatt, Print-TODO/NOTES). 645/645 art-SVGs je Artikel eingebettet (assert: 0 orphan, alle image()-Refs existieren). Praeambel, ART-Register 314, keine generierten Tabellen.
 - Rebuild v2.9 (PDF/A-2b, 10/10 fehlerfrei): 76 / 60 / 59 / 47 / 56 / 42 / 46 / 57 / 59 / 73 = Σ 575 S. (314 Artikel, 645 Abb.). Meta-Scan 0 ueber .typ-Quellen UND 0 ueber die NEUEN PDFs selbst (pdftotext aller 10 Baende, inkl. (?i)TODO/(?i)warnpflicht/(?i)print-todo). prepress Pass A-D nach v2.9/druckdaten/ (10x PDF/X-4 + 3-mm-Anschluss + Schnittmarken, proof.json 10/10 ok, 575 S., Fonts embedded, 0 Raster). ZIP: v2.9/ueberlebenbuch-artikel-v2.9.zip (unzip -t ok). v2.8/ wurde wie angewiesen entfernt.
 
+## 30. Turn 25 — v3.0 mit detaillierten SVGs (illustrator Turn 12) in 06-dokumente/v3.0/
+
+- Rebuild aus 23-artikel/ + illustrationen/ (840 SVGs mit Texturen/Massketten/Explosionsansichten/Ghosting). Alle 645 art-NNNN-abb-M.svg je Artikel eingebettet (assert: 0 orphan, alle image()-Refs existieren). Refix nach SVG-Neugenerierung: art-0261-abb-1.svg enthielt wieder „según Werkstoff“ -> „je nach Werkstoff“. Cleanups wie v2.9 (T15-1/T16-1/Print-TODO). Praeambel, ART-Register 314, keine generierten Tabellen.
+- Rebuild v3.0 (PDF/A-2b, 10/10 fehlerfrei): 76 / 60 / 59 / 47 / 56 / 42 / 46 / 57 / 59 / 73 = Σ 575 S. (314 Artikel, 645 detaillierte Abb.). Meta-Scan 0 ueber .typ-Quellen UND 0 ueber die PDFs selbst (pdftotext aller 10 Baende). prepress Pass A-D nach v3.0/druckdaten/ (10x PDF/X-4 + 3-mm-Anschluss + Schnittmarken, proof.json 10/10 ok, 575 S., Fonts embedded, 0 Raster — SVGs inkl. Texturen bleiben Vektor). ZIP: v3.0/ueberlebenbuch-artikel-v3.0.zip (unzip -t ok).
+
 ## 7. Annahmen (dokumentiert, keine Rueckfragen laut WORKFLOW.md)
 
 1. Register: pro Band Auszug mit eigenen Seitenzahlen; Gesamtregister in Band 10 (Schlussband der Reihe).
