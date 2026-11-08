@@ -58,7 +58,7 @@
 ]
 
 #let baustein(body) = block(width: 100%, breakable: false, inset: (x: 7pt, y: 5pt), fill: rgb("#eef4f8"),
-  stroke: (left: 3pt + rgb("#3f6f96"), rest: 0.5pt + rgb("#a9c3d6")), above: 9pt, below: 9pt)[
+  stroke: (left: 3pt + rgb("#3f6f96"), rest: 0.5pt + rgb("#8c8c8c")), above: 9pt, below: 9pt)[
   #text(weight: "bold")[BAUSTEIN:] #body
 ]
 
@@ -73,14 +73,14 @@
   ]
 ]
 
-#let kasten(title, body) = block(width: 100%, breakable: false, inset: (x: 7pt, y: 5pt), fill: rgb("#eef4f8"), stroke: (left: 3pt + rgb("#3f6f96"), rest: 0.5pt + rgb("#a9c3d6")), above: 9pt, below: 9pt)[
+#let kasten(title, body) = block(width: 100%, breakable: false, inset: (x: 7pt, y: 5pt), fill: rgb("#eef4f8"), stroke: (left: 3pt + rgb("#3f6f96"), rest: 0.5pt + rgb("#8c8c8c")), above: 9pt, below: 9pt)[
   #text(weight: "bold")[#title] #body
 ]
 
 #let devise(body) = block(width: 100%, breakable: false, inset: 8pt, stroke: 0.9pt + rgb("#1a1a1a"), above: 10pt, below: 10pt,
   align(center)[#text(size: 12.5pt, style: "italic")[#body]])
 
-#let konzmeta(fill: rgb("#1a6b1a"), body) = block(width: 100%, breakable: false, inset: (x: 6pt, y: 4pt), fill: rgb("#efefef"), stroke: 0.5pt + rgb("#bfbfbf"), above: 2pt, below: 8pt)[
+#let konzmeta(fill: rgb("#1a6b1a"), body) = block(width: 100%, breakable: false, inset: (x: 6pt, y: 4pt), fill: rgb("#efefef"), stroke: 0.5pt + rgb("#8c8c8c"), above: 2pt, below: 8pt)[
   #text(size: 9.5pt, fill: fill)[#body]
 ]
 

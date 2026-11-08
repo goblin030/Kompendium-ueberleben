@@ -335,3 +335,33 @@ v2 kompiliert sauber, ART-Register/Referenzen konsistent, v2-Druckdaten als PDF/
 ## Gesamturteil Turn 10 (v2.2): **FREIGEGEBEN** (mit minor Resten)
 
 0 blocker, 0 major. v2.2 kompiliert sauber (755 S., dichter), ART-Register konsistent, Meta bis auf 9 minor Tokens in Band 10 sauber, MR-2/MR-6 behoben, v2.2-Druckdaten PDF/X-4 + Marken + aktueller proof intakt, v1/v2/v2.1 ohne Regression. MR-3/4/5 sind Farb-Kontrast-Minors (nächste Revision). visual-qa Re-Run für v2.2 empfohlen (Leerraum nach MR-6 neu messen). v1 bleibt FREIGEGEBEN. Gate G-1 (legal, Band 6) offen — Phase K.
+
+---
+
+# Nachtrag — Re-Review Turn 11: Enzyklopädie v2.3 (`06-dokumente/v2.3/`)
+
+**Anlass:** v2.3-Rebuild (doc-builder Turn 17, Rest-Minor-Runde nach visual-qa Turn 8). Tools: poppler/qpdf + frischer typst-Build + pdftotext.
+
+## Ergebnis
+
+| Prüfpunkt | Status | Nachweis |
+|---|---|---|
+| v2.3 kompiliert fehlerfrei | **JA** | 10/10 rc=0, keine Warnungen; frischer Build seitenzahl-identisch: 109/72/72/64/64/60/65/80/74/93 = **Σ 753 S.**; PDF/A-2b + dc:title. |
+| ART-Refs gültig | **JA** | 314 Labels lückenlos ART-0001–0314, 314 refs, 0 undefiniert. art-SVGs: 35/35 referenziert (29 art-abb + 6 warn-art), **0 orphan** (MR-2 stabil). |
+| Meta 0 in v2.3 | **JA bis auf 2 SVG-Tokens (minor)** | pdftotext: 9/10 Bände clean. band-10-v2.pdf: `warn-3` ×1 + `warn-7` ×1 — sitzen im Bildtext von `art-0297-abb-1.svg` („CO-Regel (warn-3)“) und `art-0309-abb-1.svg` („Salz Herkunft prüfen (warn-7c)“); dazu „Anhang Feuerprobe“ (L721, v1-Crossref im Feuerprobe-Artikel) und „Prüfprotokoll“ als Sachbegriff (False Positive). v1-Crossref-SVGs (abb-9-1/abb-10-3) sind aus band-10 entfernt ✓. Chat-Hash/T11/Backlog raus ✓. |
+| MR-1..7 | **MR-1 tlw., MR-2, MR-6, MR-7 tlw. behoben; MR-3/4/5 weiterhin offen (minor)** | MR-2 ✓ (0 orphan), MR-6 ✓ (753 S., dicht), MR-7 ✓ großteils (keine v1-Abbildungen mehr in band-10; Rest: 1 Textverweis „Anhang Feuerprobe“), MR-1 Rest: 2 warn-N in 2 art-SVGs. MR-3 ✗ (band-07-v2.3 weiter 2× `#8a6d00`), MR-4 ✗ (`lib/stil.typ` weiter `#a9c3d6`/`#bfbfbf`), MR-5 ✗ (`abb-9-2.svg` unverändert, 3,41:1). |
+| proof aktuell | **JA** | `v2.3/druckdaten/proof.json` + bericht vorhanden; proof.json mtime > alle Druck-PDFs; Werte matchen (109/72/…/93, crop_marks_ok=true). |
+| Druckdaten v2.3 PDF/X-4 + Marken | **JA** | Alle 10 via pdfinfo/qpdf/pdffonts OK: Pages = proof = Quelle, Trim+Bleed gesetzt, 0 RGB-Ops, Schnittmarken RegBlack + 0,3 w genau 1×/Seite, PDF/X-4 + OutputIntent, 0 Annots, Fonts embedded. |
+| Regressionen | **keine** | v1 (18:21), v2 (22:24), v2.1 (23:11), v2.2 (01:09) unverändert; ZIP v2.3 integer (261 Einträge, 224 SVGs). |
+
+## Restbefunde Turn 11 (minor, nicht blockierend)
+
+| # | Befund | Korrektur |
+|---|---|---|
+| T11-1 (= MR-1-Rest) | `warn-3`/`warn-7c` im Bildtext von art-0297-abb-1.svg / art-0309-abb-1.svg (in v2.3-band-10-PDF sichtbar). | „(warn-3)“/„(warn-7c)“ aus SVG-Texten entfernen; 2 SVGs neu, band-10-v2.3 neu bauen. |
+| T11-2 (= MR-7-Rest) | „Fragenkatalog (Anhang Feuerprobe)“ in band-10-v2.3 L721 — v1-Anhang-Verweis im v2-Text. | durch ART-Referenz ersetzen. |
+| T11-3 (= MR-3/4/5, unverändert) | Gelb `#8a6d00` (band-07-v2.3), Rahmen `#a9c3d6`/`#bfbfbf` (stil.typ), `abb-9-2.svg`-Label 3,41:1. | Farben abdunkeln (`#7a5f00`, `#8c8c8c`, SVG-Text auf `#ffffff`); nächster Build. |
+
+## Gesamturteil Turn 11 (v2.3): **FREIGEGEBEN**
+
+0 blocker, 0 major, 3 minor Gruppen (T11-1..T11-3). v2.3 kompiliert sauber (753 S., PDF/A-2b), 314 ART-IDs konsistent, Meta bis auf 2 SVG-Tokens + 1 Textverweis sauber, MR-2/MR-6/MR-7(largely)/MR-1(largely) behoben, Druckdaten PDF/X-4 + Marken + aktueller proof intakt, keine Regressionen in v1/v2/v2.1/v2.2. v1 bleibt FREIGEGEBEN. Gate G-1 (legal, Band 6) offen — Phase K.

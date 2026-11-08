@@ -170,6 +170,12 @@ Seitenzahlen nach Review v1 (Ist, PDF/A-2b): 445 / 361 / 342 / 329 / 317 / 310 /
 - Rest-Tokens entfernt (in v2.3-Quellen, zentral per Regex in e2_fix + recherche_details): Chat-Hash #146 / [29cd074c #146, ...] (band-10), Turn-ID T11, „Backlog“ (band-01), warn-3/warn-7c-Restverweise (band-10). v1-Crossref-SVGs abb-9-1 / abb-10-3 in Band 10 werden nicht mehr eingebettet (Titel mit v1-Referenzen -> durch art-SVGs ersetzt / neutrale Captions).
 - Meta-Scan v2.3: 0 (nur ART-IDs; Hex-Farben wie #475569 sind keine Tokens). Rebuild v2.3 (PDF/A-2b, 10/10 fehlerfrei): 109 / 72 / 72 / 64 / 64 / 60 / 65 / 80 / 74 / 93 = Σ 753 S. (314 Artikel). prepress nach v2.3/druckdaten/ inkl. proof.json + proof-bericht.md (10x PDF/X-4 + Schnittmarken). ZIP: v2.3/ueberlebenbuch-artikel-v2.3.zip.
 
+## 23. Turn 18 — v2.4 letzte Minors
+
+- (1) band-10: 2 v1-warn-N-Textverweise (warn-3, warn-7c) neutralisiert — in den v2-relevanten SVG-Texten (art-*.svg, warn-art-*.svg, abb-9-1/abb-10-3) entfernt; 0 warn-[0-9] in v2-SVGs und v2.4.
+- (2) lib/stil.typ: baustein/kasten-Restrahmen #a9c3d6 (1,83:1) und konzmeta #bfbfbf -> #8c8c8c (>= 3:1, WCAG Grafik).
+- Rebuild v2.4 (PDF/A-2b, 10/10 fehlerfrei): 109 / 72 / 72 / 64 / 64 / 60 / 65 / 80 / 74 / 93 = Σ 753 S. (314 Artikel). Meta-Scan v2.4: 0 (nur ART-IDs). prepress nach v2.4/druckdaten/ inkl. proof.json + proof-bericht.md (10x PDF/X-4 + Schnittmarken). ZIP: v2.4/ueberlebenbuch-artikel-v2.4.zip.
+
 ## 7. Annahmen (dokumentiert, keine Rueckfragen laut WORKFLOW.md)
 
 1. Register: pro Band Auszug mit eigenen Seitenzahlen; Gesamtregister in Band 10 (Schlussband der Reihe).

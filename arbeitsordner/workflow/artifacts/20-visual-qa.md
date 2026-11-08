@@ -316,3 +316,28 @@ Kollisionen weiterhin 0, Caption-Abstände weiterhin 4,6 pt, CL-Umbau vollständ
 
 ---
 *Nachtrag Turn 8 durch Agent `visual-qa`, Phase J, 2026-11-08. Log: `logs/workflow.log` (agent=visual-qa).*
+
+---
+
+# Nachtrag — Turn 9: Enzyklopädie v2.3 (2026-11-08, nach doc-builder Turn 17)
+
+**Input:** `06-dokumente/v2.3/band-01..10-v2.pdf` = 109/72/72/64/64/60/65/80/74/93 = **753 S.**, 314 Artikel. **Methode:** wie Turn 6–8 (alle Seiten 150 dpi gray+color, qdf + Parser, pdftotext -bbox, Pixel, WCAG, Meta-Scan; SVG-Scan nur der von v2.3 referenzierten Dateien).
+
+## Ergebnis Turn 9 (v2.3)
+
+| Check | v2.2 (Turn 8) | v2.3 (Turn 9) | Status |
+|---|---|---|---|
+| Kollisionen | 0 | **0** in 753/753 S. (Koord.+Pixel; B10: 29 Figures, 26 Caption-Paare à 4,6 pt) | ✓ gehalten |
+| Meta-Scan (nur ART-IDs) | 8/10 clean; B1 Backlog, B10 3 warn-N + 3 Provenienz | **9/10 PDFs CLEAN (0 interne Tokens). B10: noch 2× warn-N** (warn-3 S. 45, warn-7c S. 79) + **2 warn-N in art-SVG-Labels** (art-0297-abb-1.svg „warn-3“, art-0309-abb-1.svg „warn-7“, gerendert in B10-Figures). B1 „Backlog“ und Chat-Hashes/Provenienz: **weg** | ⚠ 4 warn-N-Rest in B10 |
+| warn-N-Rest in B10 weg? | nein (3×) | **teilweise: 3 → 2 im Text**, zusätzlich 2 in SVG-Labels | ⚠ Rest |
+| orphan warn-art-0132 eingebunden? | ja (B4 S. 54) | **ja:** v2.3/band-04-v2.typ referenziert, B4 S. 54 gerendert (Icon-Pixel 1334 dark px verifiziert); 29 art-SVGs: refs == files == 29 gerenderte Figures in B10 | ✓ |
+| Kontrast | Text 21:1, Bandfarben 4,92–7,58:1, Notiz-Rahmen #8c8c8c 3,36:1 | **unverändert pass**, aber: baustein/kasten-Restrahmen aus `lib/stil.typ` weiterhin **#a9c3d6 = 1,83:1 < 3:1** (in B3/B8/B9 gemessen) — nur Notiz-Boxen wurden auf #8c8c8c umgestellt; 29/29 Figures graustufen-lesbar (0 leer, ≥ 21 Graustufen) | ⚠ teilw. |
+| Leerraum | 21,5 % < 65 %; 7,0 % nahezu leer | **21,2 % < 65 % (160/753); 7,0 % nahezu leer (53)** | ✓ gehalten |
+| ART-Refs / TOC | 0 unresolved, refpage 100 %, TOC ok | **0 unresolved (314 ART-Defs); refpage 100 % seitenrichtig (B1 36/36 … B7 222/222); TOC S. 2 je Band, Stichprobe 5/5 korrekt** | ✓ gehalten |
+
+## Ampel Turn 9 und Gesamturteil
+
+**Ampel: gelb ×10 (B10 mit warn-N-Rest) — Gesamturteil: FREIGEGEBEN (gelb) — v2.3-Gate bestanden.** 0 Kollisionen in 753/753 S., Meta-Scan in 9/10 Bänden = 0 interne Tokens (nur ART-IDs), orphan warn-art-0132 eingebunden, ART/TOC fehlerfrei, Leerraum stabil verbessert (7,0 % nahezu leer). **Offene Minor:** 4 warn-N-Altverweise in B10 (Text S. 45/79 + SVG-Labels art-0297/art-0309) auf warn-art-*/ART umstellen; baustein/kasten-Restrahmen in `lib/stil.typ` (#a9c3d6 → z. B. #8c8c8c) für ≥ 3:1 noch nachziehen.
+
+---
+*Nachtrag Turn 9 durch Agent `visual-qa`, Phase J, 2026-11-08. Log: `logs/workflow.log` (agent=visual-qa).*
