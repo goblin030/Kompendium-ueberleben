@@ -160,6 +160,70 @@ def fix(path, dry_run=False):
             if bb[1] + 4 <= y <= bb[3] and (el.get("x") == "28" or el.get("text-anchor") == "end"):
                 el.set("y", f"{bb[1] + (bb[3]-bb[1])/2 + fs*0.35:.1f}")
                 stats["moves"] += 1
+    # S3: Cluster in der Fußzone (nicht Titel/Brand/Divider/Balken/Hintergrund/Halo)
+    # in den freien Zeichenbereich schieben (cluster_bottom -> footer_top - 6)
+    div_ys = []
+    for el in root:
+        tag = el.tag.split("}")[-1]
+        if tag == "line" and abs(float(el.get("y1", 0)) - float(el.get("y2", 0))) < 0.5:
+            y = float(el.get("y1", 0))
+            if y > 0.8 * vb_h:
+                div_ys.append(y)
+        if tag == "rect" and (el.get("fill") or "") == "#f4f4f4" and float(el.get("y", 0)) > 0.8 * vb_h:
+            div_ys.append(float(el.get("y", 0)))
+    footer_top = min(min(div_ys), 0.88 * vb_h) if div_ys else 0.88 * vb_h
+    cluster = []
+    for el in root:
+        tag = el.tag.split("}")[-1]
+        if tag == "text":
+            y = float(el.get("y", 0)); txt = "".join(el.itertext())
+            if y > footer_top and txt.strip():
+                if (el.get("x") == "28" and float(el.get("font-size", 0) or 0) >= 13) or el.get("text-anchor") == "end":
+                    continue
+                cluster.append(el)
+        elif tag in ("rect", "line", "circle", "ellipse"):
+            bb = shape_bbox(el)
+            if bb is None:
+                continue
+            if tag == "rect" and (el.get("fill") or "") == "#f4f4f4":
+                continue
+            if tag == "rect" and float(el.get("width", 0)) >= 0.98 * vb_w:
+                continue
+            if tag == "line" and abs(float(el.get("y1", 0)) - float(el.get("y2", 0))) < 0.5 and float(el.get("y1", 0)) > 0.8 * vb_h:
+                continue
+            if tag == "rect" and el.get("data-halo") == "1":
+                continue
+            if bb[3] > footer_top + 2 and bb[1] < vb_h:
+                cluster.append(el)
+    if cluster:
+        bottoms = []
+        for el in cluster:
+            tag = el.tag.split("}")[-1]
+            if tag == "text":
+                bottoms.append(float(el.get("y", 0)) + 0.25 * float(el.get("font-size", 12) or 12))
+            else:
+                bb = shape_bbox(el)
+                if bb:
+                    bottoms.append(bb[3])
+        dy = (footer_top - 6) - max(bottoms)
+        if dy < 0:
+            for el in cluster:
+                tag = el.tag.split("}")[-1]
+                if tag == "text":
+                    el.set("y", f"{float(el.get('y', 0)) + dy:.1f}")
+                elif tag == "rect":
+                    el.set("y", f"{float(el.get('y', 0)) + dy:.1f}")
+                elif tag == "line":
+                    el.set("y1", f"{float(el.get('y1', 0)) + dy:.1f}")
+                    el.set("y2", f"{float(el.get('y2', 0)) + dy:.1f}")
+                elif tag in ("circle", "ellipse"):
+                    el.set("cy", f"{float(el.get('cy', 0)) + dy:.1f}")
+            kids = list(root)
+            for i, el in enumerate(kids):
+                if el.tag.split("}")[-1] == "rect" and el.get("data-halo") == "1" and i + 1 < len(kids) \
+                        and kids[i + 1] in cluster:
+                    el.set("y", f"{float(el.get('y', 0)) + dy:.1f}")
+            stats["moves"] += len(cluster)
     for _ in range(MAX_ITER):
         texts, strokes, fills = collect(root)
         # Footer-Notiz („Maße direkt aus dem Artikel …“) aus der Fußleiste in den

@@ -29,7 +29,10 @@ PDFs (Quell-PDFs UND druckdaten/), und nach JEDEM SVG-Neuaufbau durch den illust
    - `svg_label_collision_check.py` = Klassen T2T/T2L/T2F: kein Label auf einer
      Stroke-Linie (Dimensionstext auf Maßpfeil), nie zwei Labels auf derselben Zeile,
      kein dunkler Text auf Muster/dunkler Füllfläche (Halo-Kästchen). Fußzeilen-Notiz
-     steht oben rechts im Header, nie in der Fußleiste. Reparatur: `svg_label_fix.py`.
+     steht oben rechts im Header, nie in der Fußleiste. **S1/S2/S3**: Fußzone reserviert
+     (nur Divider+Titel+Brand), keine Stray-Lines, keine Orphan-Halos, keine
+     Detail-Annotationen in der Fußzone. Bauplan: `SVG-LAYOUT.md`.
+     Reparatur: `svg_label_fix.py`.
 3. **Layout-Regel (doc-builder):** figures nur im Fluss — kein `place()`, keine negativen
    Offsets in Artikel-Inhalten; `show figure: set block(breakable: false)` + `gap ≥ 8 pt`;
    Caption unterhalb des Bild-Rechtecks, nie innerhalb.
@@ -39,10 +42,13 @@ PDFs (Quell-PDFs UND druckdaten/), und nach JEDEM SVG-Neuaufbau durch den illust
 - v3.3: text-last (645 art-SVGs), PDF-Gate F0/F1/F2/F3 = 0 auf allen 580 S.
 - v3.4 (Owner-Beispiel ART-0078 Abb. 2): `svg_label_fix.py` — 1.381 Halos (T2L) +
   817 Verschiebungen (T2T); Check = 0 in 645/645.
-- v3.5 (Review v15, ART-0255: Notiz auf Fußleisten-Rahmen, Text auf Schraffur):
-  T2F-Halos (dunkler Text auf Pattern) + Fußzeilen-Notiz in den Header rechts oben —
-  insges. 2.693 Halos + 303 Moves; danach **0 Kollisionen in 645/645** (T2T/T2L/T2F),
-  zorder 0, PDF-Gate 0, Meta 0, EPUBCheck 10/10 valide.
+- v3.5 (Review v15, ART-0255): T2F-Halos + Notiz in Header rechts oben.
+- v3.6 (Review v16, ART-0137 Abb. 2): S1/S2 (Stray-Line in Fußleiste, Orphan-Halo) +
+  Fußzeilen-Titel zentriert.
+- v3.7 (Review v17, ART-0165 Abb. 1): **S3** — Fußzone reserviert; Detail-Cluster
+  (2.108 Elemente in 331 SVGs) in den Zeichenbereich verschoben (1.657 Moves).
+  Danach: **0 Kollisionen in 645/645** (T2T/T2L/T2F/S1/S2/S3), L1 = 0, PDF-Gate 0
+  (580 S.), Meta 0, EPUBCheck 10/10 valide. Vorlage: `SVG-LAYOUT.md`.
 - Hinweis: eine frühere renderbasierte L1-Zahl (~2.500) war ein BBox-Artefakt kleiner
   Subset-Fonts — L1/T2T/T2L werden quellseitig gemessen, das Render-Gate misst nur
   Doku-Text ≥ 7 pt (F0/F1/F2/F3).

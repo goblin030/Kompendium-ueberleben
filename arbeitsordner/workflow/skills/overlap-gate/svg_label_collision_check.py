@@ -231,6 +231,47 @@ def check_svg(path):
             if not ok:
                 findings.append({"class": "S2_orphan_halo",
                                  "halo_bbox": [round(v,1) for v in shape_bbox(el)]})
+    # S3: Fußzone (y > footer_top) ist reserviert für Divider + Titel + Brand (+ Balken).
+    # footer_top = kleinste y der horizontalen Divider-Linie / Balken in der unteren Zone.
+    footer_top = 0.88 * vh
+    div_ys = []
+    for el in root:
+        if el.tag.split("}")[-1] == "line" and abs(float(el.get("y1", 0)) - float(el.get("y2", 0))) < 0.5:
+            y = float(el.get("y1", 0))
+            if y > 0.8 * vh:
+                div_ys.append(y)
+    for el in root:
+        if el.tag.split("}")[-1] == "rect" and (el.get("fill") or "") == "#f4f4f4":
+            y = float(el.get("y", 0))
+            if y > 0.8 * vh:
+                div_ys.append(y)
+    if div_ys:
+        footer_top = min(min(div_ys), 0.88 * vh)
+    for idx, el in enumerate(root):
+        tag = el.tag.split("}")[-1]
+        if tag == "text":
+            y = float(el.get("y", 0))
+            txt = "".join(el.itertext())
+            if y > footer_top and txt.strip():
+                allowed = (el.get("x") == "28" and float(el.get("font-size", 0) or 0) >= 13) or el.get("text-anchor") == "end"
+                if not allowed:
+                    findings.append({"class": "S3_element_in_footer_zone", "kind": "text",
+                                     "text": txt[:30], "y": y, "footer_top": round(footer_top, 1)})
+        elif tag in ("rect", "line", "circle", "ellipse", "path"):
+            bb = shape_bbox(el)
+            if bb is None:
+                continue
+            if tag == "rect" and (el.get("fill") or "") == "#f4f4f4" and float(el.get("y", 0)) > 0.8 * vh:
+                continue
+            if tag == "rect" and float(el.get("width", 0)) >= 0.98 * vw and float(el.get("height", 0)) >= 0.98 * vh:
+                continue  # Vollbild-Hintergrund
+            if tag == "line" and abs(float(el.get("y1", 0)) - float(el.get("y2", 0))) < 0.5 and float(el.get("y1", 0)) > 0.8 * vh:
+                continue
+            if tag == "rect" and el.get("data-halo") == "1":
+                continue
+            if bb[3] > footer_top + 2 and bb[1] < vh:
+                findings.append({"class": "S3_element_in_footer_zone", "kind": tag,
+                                 "bbox": [round(v, 1) for v in bb], "footer_top": round(footer_top, 1)})
     # T2F: dunkler Text auf Muster/dunkler Füllfläche (heller Text auf dunklem Grund
     # ist by design — Step-Nummern weiß auf Kreis — und braucht keinen Halo)
     for tidx, tbb, txt, prot_flag, tfill in texts:

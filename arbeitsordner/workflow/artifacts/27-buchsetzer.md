@@ -27,3 +27,19 @@ Ursachen-Klassen, jeweils mit Fix + Gate:
 ## Nächste Läufe
 Nach jedem doc-builder/prepress-Rebuild und jeder SVG-Neuordnung: dieser Gate-Lauf,
 Report hier anhängen (append-only).
+
+## Lauf 2 — v3.7 (2026-11-08, nach Review v17 / ART-0165 Abb. 1)
+
+Neue Klasse **S3** (Element in der Fußzone — 2.108 Elemente in 331 SVGs, v. a.
+Detail-Annotationen in abb-1/abb-3). Fixer: Cluster in den Zeichenbereich verschoben
+(1.657 Moves). SVG-Layout-Spezifikation `skills/overlap-gate/SVG-LAYOUT.md` als
+verbindlicher Bauplan verankert (08-illustrator.md, Regel 13).
+
+| Prüfklasse | Scope | Ergebnis |
+|---|---|---|
+| S3/T2T/T2L/T2F/S1/S2 (`svg_label_collision_check.py`) | 645 art-SVGs | **0** |
+| L1 (`svg_zorder_check.py`) | 645 art-SVGs | **0** |
+| F0–F3 PDF (`overlap_check.py`, 150 dpi) | 10 PDFs, 580 S. | **0** (`06-dokumente/v3.7/overlap-report-v3.7.json`) |
+| Meta / compile / EPUBCheck | alle | 0 / 10× ok / 10× valide |
+
+**Gesamturteil: GRÜN.**

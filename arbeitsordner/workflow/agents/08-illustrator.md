@@ -53,7 +53,10 @@ Abbildungsnummer → Datei → beschreibender Unterschrift.
   (T2T text/text, T2L text/line, T2F dunkler Text auf Muster/dunkler Füllfläche —
   Halo-Kästchen dahinter). **Fußzeilen-Notiz** („Maße direkt aus dem Artikel…“) immer
   **oben rechts im Header** (x = viewBox-Breite − 28, y = 38, anchor=end), nie in der
-  Fußleiste (kollidiert mit dem Fußleisten-Rahmen). Reparatur: `svg_label_fix.py`.
+  Fußleiste (kollidiert mit dem Fußleisten-Rahmen). **Fußzone (y ≥ min(Divider,
+  0,88·H)) ist reserviert** für Divider + Titel + Brand — Detail-Annotationen gehören
+  in den Zeichenbereich. Verbindlicher Bauplan: `skills/overlap-gate/SVG-LAYOUT.md`
+  (Zonen + 8 Regeln). Reparatur: `svg_label_fix.py`.
 
 ## Akzeptanzkriterien
 - [ ] Jedes geplante Konzept mit Grafikanforderung hat eine SVG-Datei

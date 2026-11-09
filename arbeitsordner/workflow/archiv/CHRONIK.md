@@ -2141,3 +2141,15 @@ Event-Typen siehe WORKFLOW.md „Logging“.
 | 2026-11-08T21:13:00+01:00 | buchsetzer | init | Erster Gate-Lauf: v3.6 F0-F3 = 0 (580 S.), SVG alle Klassen = 0/645, Meta 0, EPUBCheck 10/10 → GRÜN | artifacts/27-buchsetzer.md |
 | 2026-11-08T21:14:00+01:00 | doc-builder | output | v3.6: 10/10 PDF/A-2b, 580 S. (seitenzahl-identisch), EPUBs EPUBCheck 10/10 | 06-dokumente/v3.6/ |
 | 2026-11-08T21:15:00+01:00 | orchestrator | output | review-v17/ angelegt zum Owner-Review | review-v17/ |
+
+
+### Durchlauf v3.7 + review-v18 — S3 Fußzone + SVG-Layout-Spezifikation (2026-11-08, 21:30–21:36+01:00, Phase K)
+
+| ts | agent | event | detail | artifact |
+|---|---|---|---|---|
+| 2026-11-08T21:30:00+01:00 | orchestrator | review_feedback | 6. Review (ART-0165 Abb. 1): Detail-Annotation in Fußzone — 2.108 S3-Elemente in 331 SVGs | review-v18/ |
+| 2026-11-08T21:31:00+01:00 | orchestrator | decision | Fußzone als harte Zone (S3) + SVG-LAYOUT.md als persistenter Bauplan; buchsetzer um S3 erweitert; Regel 13/08-illustrator aktualisiert | skills/overlap-gate/SVG-LAYOUT.md |
+| 2026-11-08T21:32:00+01:00 | illustrator | output | S3-Fix: 1.657 Cluster-Moves; Recheck 0/645 (alle Klassen); XML valide; Meta 0 | illustrationen/art-*.svg |
+| 2026-11-08T21:33:00+01:00 | buchsetzer | output | Gate-Lauf 2 (v3.7): SVG 0/645, PDF F0-F3 = 0 (580 S.), Meta 0, EPUBCheck 10/10 → GRÜN | artifacts/27-buchsetzer.md |
+| 2026-11-08T21:34:00+01:00 | doc-builder | output | v3.7: 10/10 PDF/A-2b, 580 S. (seitenzahl-identisch), EPUBs EPUBCheck 10/10 | 06-dokumente/v3.7/ |
+| 2026-11-08T21:35:00+01:00 | orchestrator | output | review-v18/ angelegt zum Owner-Review | review-v18/ |
