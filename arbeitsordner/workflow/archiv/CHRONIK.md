@@ -2177,3 +2177,12 @@ Event-Typen siehe WORKFLOW.md „Logging“.
 | 2026-11-08T22:13:00+01:00 | buchsetzer | output | Gate-Lauf 4 (v3.9): SVG 0/645, PDF F0-F3 = 0 (580 S.), Meta 0, EPUBCheck 10/10 → GRÜN | artifacts/27-buchsetzer.md |
 | 2026-11-08T22:14:00+01:00 | doc-builder | output | v3.9: 10/10 PDF/A-2b, 580 S. (seitenzahl-identisch), EPUBs EPUBCheck 10/10 | 06-dokumente/v3.9/ |
 | 2026-11-08T22:15:00+01:00 | orchestrator | output | review-v20/ angelegt zum Owner-Review | review-v20/ |
+
+
+### Repo-Cleanup + Session-Wechsel (2026-11-08, 22:30–22:32+01:00, Phase K)
+
+| ts | agent | event | detail | artifact |
+|---|---|---|---|---|
+| 2026-11-08T22:30:00+01:00 | archivar | decision | Cleanup: review-v1..v19, 06-dokumente v2*/v3.0/3.1/3.3–3.8, v1-PDFs/ZIP/druckdaten/barrierefrei entfernt (~800 MB); behalten: review-v20, v3.2 (Druckdaten), v3.9 (aktuell), lib/, illustrationen/, cover/, v1-Typquellen, Artefakte | Repo-Wurzel |
+| 2026-11-08T22:31:00+01:00 | orchestrator | output | HANDOVER.md neu (Fresh-Session-One-Liner, Stand v3.9, Toolchain-Setup); Plan Illustrationen-Ausbau: artifacts/28-illustrationen-ausbau.md | archiv/HANDOVER.md, artifacts/28-... |
+| 2026-11-08T22:32:00+01:00 | archivar | output | CHRONIK/BACKLOG/KATALOG aktualisiert | archiv/* |

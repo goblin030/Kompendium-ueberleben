@@ -111,3 +111,10 @@ Jeder Ordner = Kopie der 10 Band-PDFs für das manuelle Owner-Review. Seitenzahl
 
 ---
 *Generiert von `archivar`, Phase A Turn 1. Nächste Aktualisierung: nach jeder Phase (`phase_end`) und jedem Owner-Review (`review_feedback`) — siehe `README.md`.*
+
+
+---
+
+## Nachtrag 2026-11-08 (Cleanup)
+
+Gelöscht: `review-v1..v19/`, `06-dokumente/v2*/v3.0/v3.1/v3.3–v3.8/`, v1-PDFs (`06-dokumente/band-*.pdf`), `ueberlebenbuch-typst.zip`, v1-`druckdaten/`, v1-`barrierefrei/`. Behalten: `review-v20/` (aktuell), `06-dokumente/v3.2/` (enthält die Druckdaten PDF/X-4), `06-dokumente/v3.9/` (aktueller Build), `lib/`, `illustrationen/`, `cover/`, v1-Typquellen (`band-*.typ`), alle Artefakte 00–28. Grund: Session-Wechsel, ~800 MB Freigabe; Historie steht in CHRONIK.md/workflow.log.

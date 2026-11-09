@@ -155,6 +155,18 @@
 | OV-7 | Review v18 (ART-0137 Abb. 2): Fußzeilen-Titel/Brand ragt über den Balken (681 S4 in 342 SVGs) | **erledigt (v3.8, 2026-11-08)** — S4-Klasse + Fixer (x an Balkenränder, shrink-to-fit); Recheck 0/645 alle Klassen; SVG-LAYOUT.md Regel 9; Gate-Lauf 3 GRÜN; review-v19 |
 | OV-8 | Anomalie Review v19 (ART-0233 Abb. 1): Leader-Line in Fußzone, Text an Panel-Rand (rect-stroke) — rect-Ränder waren nicht als Linien im Check | **erledigt (v3.9, 2026-11-08)** — rect-Ränder als Linien (T2L), line in shape_bbox (Leader in S3), S1 ohne Balken-Ränder + rect-Kanten hochschieben, Z-Order ohne Halos; 701 Halos + 357 Moves; Recheck 0/645 alle Klassen; SVG-LAYOUT.md Regel 10; Gate-Lauf 4 GRÜN; review-v20 |
 
+
+---
+
+## 11. Session-Wechsel 2026-11-08 — Cleanup + nächster Task
+
+| ID | Punkt | Status |
+|---|---|---|
+| CL-1 | Repo aufgeräumt: review-v1..v19, 06-dokumente v2*/v3.0/3.1/3.3–3.8, v1-PDFs/ZIP/druckdaten/barrierefrei entfernt (~800 MB). Behalten: review-v20, v3.2 (Druckdaten), v3.9 (aktuell), lib/, illustrationen/, cover/, v1-Typquellen | **erledigt (2026-11-08)** |
+| CL-2 | HANDOVER.md als Fresh-Session-Handover (One-Liner + Stand + Toolchain-Setup /tmp-ephemer!) | **erledigt (2026-11-08)** |
+| IL-1 | Illustrationen weiter verbessern: Plan in `artifacts/28-illustrationen-ausbau.md` (3./4. Abb. für komplexe Artikel, mehr Detail/Maßketten, Konsistenz-Sweep; immer SVG-LAYOUT.md + buchsetzer-Gate = 0, dann Rebuild + review) | **offen — nächste Session** |
+| RV-20 | review-v20 Feedback (v3.9) | **offen** |
+
 ---
 
 ## Legende
