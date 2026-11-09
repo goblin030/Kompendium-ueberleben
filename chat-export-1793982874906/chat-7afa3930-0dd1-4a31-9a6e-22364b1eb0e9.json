@@ -1,0 +1,355 @@
+[
+  {
+    "id": "a9ba259f-9409-44a4-9f24-7659963eed9b",
+    "version": 0,
+    "chatId": "7afa3930-0dd1-4a31-9a6e-22364b1eb0e9",
+    "content": "Was sind die typischen Probleme von einem Skoda Fabia mit dem 1,2 Liter Motor? Baujahr 2008?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-07-13T21:24:07.520Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "7d527249-3dcc-44fc-8ac2-befe5d96b2f0",
+    "version": 0,
+    "chatId": "7afa3930-0dd1-4a31-9a6e-22364b1eb0e9",
+    "content": "Beim Skoda Fabia mit dem 1,2-Liter-Motor (Baujahr 2008, zweite Generation) sind folgende typische Probleme bekannt:\n\n**Steuerkette:** Besonders der 1,2-HTP-Dreizylinder-Motor (Baujahre 2007–2014) neigt zu übermäßiger Kettenstreckung. Dies kann zu schweren Motorschäden führen, wenn das Problem nicht rechtzeitig behoben wird. Es gab sogar Rückrufaktionen für bestimmte Baujahre, daher sollte geprüft werden, ob das eigene Fahrzeug betroffen ist und ob die Maßnahme bereits durchgeführt wurde.\n\n**Zylinderkopfdichtung:** Es gibt Berichte, dass die Zylinderkopfdichtung durchbrennen kann, was zu Zündaussetzern und Leistungsverlust führt, besonders im kalten Zustand.\n\n**Ölverlust:** Einige Besitzer berichten von erhöhtem Ölverbrauch, was auf undichte Stellen oder Verschleiß hinweisen kann.\n\n**Zündspulen und Zündkerzen:** Bei Modellen der Jahrgänge 2008 bis 2010 wurden häufiger Defekte an Zündspulen und Zündkerzen festgestellt.\n\n**Batterieprobleme:** Bei 2008er Modellen sorgten schlappe Batterien für Panneneinsätze.\n\nFalls du vorhast, ein solches Fahrzeug zu kaufen oder bereits eines besitzt, empfiehlt es sich, besonders auf die Steuerkette und die Zylinderkopfdichtung zu achten und ggf. eine Werkstatt aufsuchen, um den Zustand zu prüfen. Möchtest du noch spezifischere Informationen zu einem dieser Probleme?",
+    "contentChunks": [
+      {
+        "id": "Ay4UzzLyZ",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1783977853464,
+        "success": true,
+        "toolType": "rag",
+        "startTime": 1783977849782,
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "ar": "البحث على الويب",
+            "de": "Websuche",
+            "en": "Web Search",
+            "es": "Búsqueda web",
+            "fr": "Recherche Web",
+            "it": "Ricerca web",
+            "nl": "Webzoeken",
+            "pl": "Wyszukiwanie w sieci",
+            "pt-BR": "Pesquisa na web"
+          }
+        },
+        "customLocale": {
+          "done_description": {
+            "en": "web_search"
+          },
+          "working_description": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "efxmmood": {
+            "url": "https://gebrauchtwagenberater.de/skoda-fabia-probleme-schwachstellen/",
+            "date": null,
+            "rank": 2,
+            "title": "Skoda Fabia II (5J) - Typische Probleme & Schwachstellen",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/ySzNaDh_T-RgyRNoj7LvYOlZGWJNLbZEdCGvbUlEjKA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGNlMGU5ZmEw/N2M5OGYzNGQzODQz/ZWQ2MTU3OTBlZmQz/Y2U5NzVhMzgwNmM4/OTBlODNiM2YwZmQy/MTg3ZTY0MS9nZWJy/YXVjaHR3YWdlbmJl/cmF0ZXIuZGUv",
+              "thumbnail": "https://gebrauchtwagenberater.de/wp-52593-content/uploads/2023/02/Skoda-Fabia-II-5J-2007-2014-Probleme-und-Schwachstellen.jpg"
+            },
+            "snippets": [
+              "Betroffen sind Fabia-Modelle ab Baujahr 2012 (wir berichteten). Über die Rückrufaktionen kann man sich beim KBA oder ADAC im Detail informieren, dazu lässt sich mithilfe der Fahrzeugidentifikationsnummer (FIN) ermitteln, ob das in Frage kommende Modell von Rückrufen betroffen ist und welche Aktionen bereits durchgeführt worden sind. ... Die 1.4- und 1.6-Liter-Benziner sind bei normaler Fahrweise für gewöhnlich nur schwer kaputt zu kriegen und sollten gegenüber den Problemmotoren 1.2 und 1.4 TSI vorgezogen werden, sofern nicht unbedingt die Leistung im Vordergrund stehen muss.",
+              "Bis 2010 ist die Benzinerpalette des Skoda Fabia II noch ganz altmodisch: Zur Wahl steht der aus dem Vorgänger bekannte Dreizylinder 1.2 HTP, bei dem die Steuerkette nach wie vor die größte Schwachstelle darstellt. Daneben gibt es zwei Vierzylinder ohne Aufladung mit 1.4- und 1.6-Liter-Hubraum, die für keine größeren Probleme bekannt sind und mit entsprechender Pflege eine Ewigkeit laufen können. ... Mit dem Facelift sind der 1.2 TSI und 1.4 TSI hinzugestoßen (Motorbaureihe EA111), wobei letzterer nur dem Top-Modell RS vorbehalten blieb.",
+              "Betroffen sind Fabia-Modelle ab Baujahr 2012 (wir berichteten). Über die Rückrufaktionen kann man sich beim KBA oder ADAC im Detail informieren, dazu lässt sich mithilfe der Fahrzeugidentifikationsnummer (FIN) ermitteln, ob das in Frage kommende Modell von Rückrufen betroffen ist und welche Aktionen bereits durchgeführt worden sind. ... Die 1.4- und 1.6-Liter-Benziner sind bei normaler Fahrweise für gewöhnlich nur schwer kaputt zu kriegen und sollten gegenüber den Problemmotoren 1.2 und 1.4 TSI vorgezogen werden, sofern nicht unbedingt die Leistung im Vordergrund stehen muss.",
+              "Der Skoda Fabia II (5J) ist ein von 2007 und 2014 hergestellter Kleinwagen, der technisch eng mit dem VW Polo und Seat Ibiza verwandt ist. Neben dem herkömmlichen Stufenheck wurde auch ein Kombi angeboten (Combi). 2010 erfolgte ein Facelift.",
+              "Laut dem TÜV werden die Fahrwerksfedern und Stoßdämpfer bemängelt, auch die Bremsscheiben werden häufiger moniert. In der ADAC-Pannenstatistik schneidet der Skoda Fabia II gut ab, häufiger Pannengrund waren dabei defekte Zündspulen."
+            ],
+            "description": "Betroffen sind Fabia-Modelle ab Baujahr 2012 (wir berichteten). Über die Rückrufaktionen kann man sich beim KBA oder ADAC im Detail informieren, dazu lässt sich mithilfe der Fahrzeugidentifikationsnummer (FIN) ermitteln, ob das in Frage kommende Modell von Rückrufen betroffen ist und welche Aktionen bereits durchgeführt worden sind. ... Die 1.4- und 1.6-Liter-Benziner sind bei normaler Fahrweise für gewöhnlich nur schwer kaputt zu kriegen und sollten gegenüber den Problemmotoren 1.2 und 1.4 TSI vorgezogen werden, sofern nicht unbedingt die Leistung im Vordergrund stehen muss."
+          },
+          "hmvrmdou": {
+            "url": "https://www.skodacommunity.de/threads/1-2-tsi-bei-skoda-auch-problemmotor-wenn-ja-bis-welchen-bj.98096/",
+            "date": null,
+            "rank": 8,
+            "title": "1.2 TSI bei skoda auch Problemmotor, wenn ja bis welchen BJ?",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/d24exFQdOSWgnvs6YSQxS0HxAx82LLc3HV1-wH1WvxI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjEyOTA0MjA2/MTMxZTkxZDJlYjQ1/MmYyMzI4NzA3ZWMw/YjgzZDQzOTgxNmFl/ZGQ5MmIyM2M4OTcx/MTdjMjllZS93d3cu/c2tvZGFjb21tdW5p/dHkuZGUv",
+              "thumbnail": "https://www.skodacommunity.de/data/styles/26/styles/skodacommunity_de/logo/skoda_logo_green_og.png"
+            },
+            "snippets": [
+              "Einerseits denke ich, dass Skoda doch nicht einen Motor mit angeblich so vielen Problemen in Massen auf die Kunden los lässt, andererseits könnte das zu Gutgläubig gedacht sein. Dass ein Motor heutzutage nicht mehr so lagne hält wie ein Motor von vor 20 Jahren dürfte klar sein. Diese aufgepumpen Joghurtbecher sind geschmackssache. Ich würde kaufen, muss aber jeder selbst entscheiden. Zu den 60PS: Ich habe den Fabia mit 60PS.",
+              "Ansonsten wüsste ich nicht welche maschine ich wählen sollte, außer die alte 1.4l 16V 86PS, diese hat meine Freundin in Ihrem Fabia BJ 2007. Was für mich klar ist er sollte schneller sein als mein jetziger. bzw gleichwertig. Aufkeinen Fall nur 60PS oder so... Aber auch nicht zu viel wegen Versicherung. Ich hoffe mir kann jemand helfen. Zu guter letzt: Ich hoffe der Thread ist hier richtig ansonsten bitte verschieben, tut mir dann leid. ... Schau mal hier: skoda 1.2 tsi motor probleme .",
+              "Einerseits denke ich, dass Skoda doch nicht einen Motor mit angeblich so vielen Problemen in Massen auf die Kunden los lässt, andererseits könnte das zu Gutgläubig gedacht sein. Dass ein Motor heutzutage nicht mehr so lagne hält wie ein Motor von vor 20 Jahren dürfte klar sein. Diese aufgepumpen Joghurtbecher sind geschmackssache. Ich würde kaufen, muss aber jeder selbst entscheiden. Zu den 60PS: Ich habe den Fabia mit 60PS.",
+              "Felgengröße Skoda Fabia 2 Combi (von 2010): Ich habe einen Skoda Fabia 2 Kombi von 2010 mit 1.2 TSI 105PS Motor (8004 AJZ).",
+              "Diskutiere 1.2 TSI bei skoda auch Problemmotor, wenn ja bis welchen BJ? im Skoda Fabia II Forum Forum im Bereich Skoda Forum; Hallo liebe Community, ich habe im moment noch einen Fabia I 1.4 MPI mit 68PS Da dieser sich aber leider zu einer Geldvernichtungsmaschine..."
+            ],
+            "description": "Einerseits denke ich, dass Skoda doch nicht einen Motor mit angeblich so vielen Problemen in Massen auf die Kunden los lässt, andererseits könnte das zu Gutgläubig gedacht sein. Dass ein Motor heutzutage nicht mehr so lagne hält wie ein Motor von vor 20 Jahren dürfte klar sein. Diese aufgepumpen Joghurtbecher sind geschmackssache. Ich würde kaufen, muss aber jeder selbst entscheiden. Zu den 60PS: Ich habe den Fabia mit 60PS."
+          },
+          "pengvgfl": {
+            "url": "https://www.skodacommunity.de/threads/fabia-krankheiten.78988/",
+            "date": null,
+            "rank": 1,
+            "title": "Fabia Krankheiten?",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/d24exFQdOSWgnvs6YSQxS0HxAx82LLc3HV1-wH1WvxI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjEyOTA0MjA2/MTMxZTkxZDJlYjQ1/MmYyMzI4NzA3ZWMw/YjgzZDQzOTgxNmFl/ZGQ5MmIyM2M4OTcx/MTdjMjllZS93d3cu/c2tvZGFjb21tdW5p/dHkuZGUv",
+              "thumbnail": "https://www.skodacommunity.de/data/styles/26/styles/skodacommunity_de/logo/skoda_logo_green_og.png"
+            },
+            "snippets": [
+              "Da würde ich lieber dem aktuellen 1.4 TSi meiden, der hat sehr wohl Steuerkettenprobleme, aber doch nicht der Uralt Skoda Motor. Die Kopfdichtung geht gerne mal durch, das ist durchaus richtig, aber das trifft auch auf viele andere Motoren zu. Und dass der Wagen einen hohen Ölverlust hat der niemals weggeht, woher willst du das wissen? Ich hab 240.000 km auf den Motor im Felicia und ich habe keinerlei Öl Verlust. Ja ich hatte mal. Schrauben nachgezogen und fertig, ich verliere keinen Tropfen Öl zwischen den Intervallen. Und der Motor im Fabia hat ja nochma 100 ccm³ draufgelegt und Hydrostößel bekommen, somit fällt das Ventile nachstellen weg.",
+              "Von nem Fabia 1 vor dem Facelift würde ich generell abraten und von dem 40 Jahre alten 50KW 1,4 liter Motor erst recht. Da wirst du nicht glücklich. Ehrlich ist nen gut gemeinter Rat. Ein 2004er sollte es min sein und dann ist der 75PS 1,4er vollkommen OK und ohne große Probleme. Drosselklappe reinigen und AGr Ventil defekt usw gehört einfach dazu egal ob VW SEAT Skoda oder Audi (A2 hatte auch den Motor)",
+              "Des Weiteren, welche Krankheiten hat ein Fabia sonst noch, worauf sollte ich achten? Es handelt sich um folgendes Modell Fabia 1,4 (50 KW) EZ: 01/2000 Schlüsselnummer: 8004/339 Vielen Dank schon mal im voraus Gruß iDeni ... Schau mal hier: skoda fabia 1 schwachstellen .",
+              "Da würde ich lieber dem aktuellen 1.4 TSi meiden, der hat sehr wohl Steuerkettenprobleme, aber doch nicht der Uralt Skoda Motor. Die Kopfdichtung geht gerne mal durch, das ist durchaus richtig, aber das trifft auch auf viele andere Motoren zu. Und dass der Wagen einen hohen Ölverlust hat der niemals weggeht, woher willst du das wissen? Ich hab 240.000 km auf den Motor im Felicia und ich habe keinerlei Öl Verlust. Ja ich hatte mal. Schrauben nachgezogen und fertig, ich verliere keinen Tropfen Öl zwischen den Intervallen. Und der Motor im Fabia hat ja nochma 100 ccm³ draufgelegt und Hydrostößel bekommen, somit fällt das Ventile nachstellen weg.",
+              "Fragen zum wechsel der Hochdruckpumpe 1.2 TSI Fabia 2: Guten Tag liebes Forum, ich hatte meine HDP gewechselt im Februar (Rheinmetall/Pierburg), ist nach 5 Monaten hinüber. Nach weiteren erfolglosen 3... Skoda Fabia 1.4 mpi Zylinderkopfdichtung wechseln: Hallo zusammen, ich habe mir gestern einen Skoda fabia 1.4 mpi Bj 2002 gekauft mit 98tkm."
+            ],
+            "description": "Da würde ich lieber dem aktuellen 1.4 TSi meiden, der hat sehr wohl Steuerkettenprobleme, aber doch nicht der Uralt Skoda Motor. Die Kopfdichtung geht gerne mal durch, das ist durchaus richtig, aber das trifft auch auf viele andere Motoren zu. Und dass der Wagen einen hohen Ölverlust hat der niemals weggeht, woher willst du das wissen? Ich hab 240.000 km auf den Motor im Felicia und ich habe keinerlei Öl Verlust. Ja ich hatte mal. Schrauben nachgezogen und fertig, ich verliere keinen Tropfen Öl zwischen den Intervallen. Und der Motor im Fabia hat ja nochma 100 ccm³ draufgelegt und Hydrostößel bekommen, somit fällt das Ventile nachstellen weg."
+          },
+          "qdagxqwp": {
+            "url": "https://www.autodoc.de/info/der-skoda-fabia-probleme-mit-der-steuerkette-defekte-zentralverriegelung-und-andere-mangel",
+            "date": null,
+            "rank": 0,
+            "title": "Der Škoda Fabia: Probleme mit der Steuerkette, defekte Zentralverriegelung und andere Mängel ➤ AUTODOC BLOG",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/YKBoRKfPjf-qdgtU2ZiiqBBDhff1v5ZP1wHrnvmuUz0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDdkN2Y3NDU2/MTFhNWIxZTVhYzVm/YjNhN2JiOTY1MDIw/YjA2MTBkNzZhNDE3/ZTIwYzM5MTlkMzBh/N2RkYWJlMi93d3cu/YXV0b2RvYy5kZS8",
+              "thumbnail": "https://cdn.autodoc.de/uploads/info_section/article/641/1747395088_9641_c9dd2b080ef90b8a45d52db884faf93c.png"
+            },
+            "snippets": [
+              "Die Steuerkette ist beim Škoda Fabia das meistdiskutierte Thema – und das nicht ohne Grund. Besonders bei der zweiten Generation mit dem 1.2-HTP-Dreizylinder-Motor (Baujahre 2007–2014) traten gehäuft Fälle von <strong>übermäßiger Kettenstreckung</strong> ...",
+              "Mittlerweile befindet sich das Modell in der vierten Generation und überzeugt nach wie vor durch sein gutes Preis-Leistungs-Verhältnis, einen sparsamen Kraftstoffverbrauch und ein erstaunlich geräumiges Innenleben für ein Fahrzeug seiner Klasse. Doch auch der Fabia hat modellspezifische Schwachstellen, die sowohl beim Neukauf als auch beim Gebrauchtwagenkauf beachtet werden sollten.",
+              "Die Steuerkette ist beim Škoda Fabia das meistdiskutierte Thema – und das nicht ohne Grund. Besonders bei der zweiten Generation mit dem 1.2-HTP-Dreizylinder-Motor (Baujahre 2007–2014) traten gehäuft Fälle von übermäßiger Kettenstreckung auf.",
+              "Auch beim 1.2 TSI der dritten Generation sowie beim 1.0 TSI des aktuellen Fabia IV gibt es Berichte über Kettenverschleiß. Wer also fragt: „Hat der Škoda Fabia eine Steuerkette oder einen Zahnriemen?\" – die Antwort bei den meisten aktuellen Benzinmotoren lautet: Steuerkette.",
+              "Ein sich ankündigender Kettendefekt sollte nie auf die lange Bank geschoben werden. Im Fall einer Rückrufaktion wegen der Škoda Fabia Steuerkette – die für bestimmte Baujahre ausgesprochen wurde – sollte man prüfen, ob das eigene Fahrzeug betroffen ist und die Maßnahme bereits durchgeführt wurde."
+            ],
+            "description": "Die Steuerkette ist beim Škoda Fabia das meistdiskutierte Thema – und das nicht ohne Grund. Besonders bei der zweiten Generation mit dem 1.2-HTP-Dreizylinder-Motor (Baujahre 2007–2014) traten gehäuft Fälle von <strong>übermäßiger Kettenstreckung</strong> ..."
+          },
+          "rwdojbmm": {
+            "url": "https://www.fabia4fun.de/wbb/index.php/Thread/3187-Typische-Fabia-Probleme/?pageNo=3",
+            "date": null,
+            "rank": 3,
+            "title": "Typische Fabia Probleme - Seite 3 - Allgemein (in Bearbeitung) - Fabia4Fun",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/p5zM4ugu8tLWPAAMBW5KlI_tPL2ydKEFDPhdQH9_wvk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzAxM2UzZWVl/YTQ5ZGMwMjdkMTFj/YjljNmYyYzUwMTUx/OGYzNDkxNjM1YWY4/MWY5ZjRkMGEwYmNk/N2ZkMDk5Ny93d3cu/ZmFiaWE0ZnVuLmRl/Lw",
+              "thumbnail": null
+            },
+            "snippets": [
+              "Juni 2008 ... dann will ich auch mal! #Fabia Combi TDI 1.9l Elegance Bj. 12/06 #gekauft, 06.08 mit 48tkm. #nach nur 2 Monaten im Hochsommer Batterie hinüber! auf Garantie gab es eine Neue (Einbau hat bei Skoda 1 ganzen Tag gedauert )! #immerwieder hatte ich in unregelmässigen Abständen das Problem, das mir beim Einparken der Motor abgestorben ist und sich das ganze Cokpit gelöscht hat!",
+              "Juni 2008 ... dann will ich auch mal! #Fabia Combi TDI 1.9l Elegance Bj. 12/06 #gekauft, 06.08 mit 48tkm. #nach nur 2 Monaten im Hochsommer Batterie hinüber! auf Garantie gab es eine Neue (Einbau hat bei Skoda 1 ganzen Tag gedauert )! #immerwieder hatte ich in unregelmässigen Abständen das Problem, das mir beim Einparken der Motor abgestorben ist und sich das ganze Cokpit gelöscht hat!",
+              "Mitglied seit 24. Dezember 2008 ... Erstmal mein herzliches Beileid! Ich würde mir einen neuen Fabia holen! Fabia ist nunmal nicht gleich Fabia.",
+              "Hubraum statt Wohnraum-trifft bei meinem fabi allerdings nicht zu. FABIA V/RS ... Mitglied seit 26. März 2008",
+              "Und der Dicke (2.0er) läuft super und ist vorallem wenn man will sehr sparsam, bisher Topwert 5,5 Liter · Der Grad der Erfahrung steigt mit dem Wert des zerstörten Gegenstandes! ... Mitglied seit 27. Dezember 2004 ... Ich hatte auch schon die typischen Fabiaprobleme - Stabi - Heckwischerspritzleitung auseinandergegangen - Querlenkerlager beide - Radlager vorne rechts - Rücksitzlehnenverriegelung - beide Lambda-Sonden getauscht - und Zündspule ( da hab ich jetzt welche im Keller liegen ) das wars so was mir einfällt ach ja der Ölverbrauch ist auch hoch, man kann damit leben."
+            ],
+            "description": "Juni 2008 ... dann will ich auch mal! #Fabia Combi TDI 1.9l Elegance Bj. 12/06 #gekauft, 06.08 mit 48tkm. #nach nur 2 Monaten im Hochsommer Batterie hinüber! auf Garantie gab es eine Neue (Einbau hat bei Skoda 1 ganzen Tag gedauert )! #immerwieder hatte ich in unregelmässigen Abständen das Problem, das mir beim Einparken der Motor abgestorben ist und sich das ganze Cokpit gelöscht hat!"
+          },
+          "tsxjselr": {
+            "url": "https://gebrauchtwagenberater.de/skoda-fabia-6y-probleme/",
+            "date": null,
+            "rank": 5,
+            "title": "Skoda Fabia I (6Y) - Typische Probleme & Schwachstellen",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/ySzNaDh_T-RgyRNoj7LvYOlZGWJNLbZEdCGvbUlEjKA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGNlMGU5ZmEw/N2M5OGYzNGQzODQz/ZWQ2MTU3OTBlZmQz/Y2U5NzVhMzgwNmM4/OTBlODNiM2YwZmQy/MTg3ZTY0MS9nZWJy/YXVjaHR3YWdlbmJl/cmF0ZXIuZGUv",
+              "thumbnail": "https://gebrauchtwagenberater.de/wp-52593-content/uploads/2023/02/Skoda-Fabia-I-6Y-1999-2007-Probleme-und-Schwachstellen.jpg"
+            },
+            "snippets": [
+              "Neben den eher schwachen Fahrleistungen sind sowohl der 1.0er als auch 1.2er für <strong>Probleme mit der Steuerkette</strong> bekannt. Diese kann sich vorzeitig längen und damit einen kapitalen Motorschaden verursachen.",
+              "Der Skoda Fabia I hat mit einigen Kinderkrankheiten zu kämpfen, die teilweise richtig ins Geld gehen können. Wer kann, sollte deshalb den Aufpreis zahlen und sich für ein Facelift-Modell entscheiden. Die kleinen Benziner 1.0 und 1.2 HTP sind für Motorschäden bekannt, empfehlenswerter ist der 1.4 16V aus den letzten Baujahren.",
+              "Neben den eher schwachen Fahrleistungen sind sowohl der 1.0er als auch 1.2er für Probleme mit der Steuerkette bekannt. Diese kann sich vorzeitig längen und damit einen kapitalen Motorschaden verursachen. Wer sich für den 1,2-Liter interessiert, sollte sich nach einem 12-Ventiler umschauen, dem im Vergleich zum 6-Ventiler eine höhere Zuverlässigkeit nachgesagt wird.",
+              "Beim Einliter kann es außerdem passieren, dass die Kurbelgehäuseentlüftung bei frostigen Temperaturen einen Defekt erleidet und einen Motorschaden verursacht. Betroffen ist auch der 1,4-Liter, wobei das Problem hauptsächlich bei älteren Modellen bis circa Ende 2001 auftritt.",
+              "Die goldene Mitte aus Leistung und Verbrauch trifft der 1.4 TDI. Zwar arbeitet der Dreizylinder relativ grob, ist jedoch mit 75 bzw. 80 PS ausreichend motorisiert und kann mit unter fünf Litern bewegt werden."
+            ],
+            "description": "Neben den eher schwachen Fahrleistungen sind sowohl der 1.0er als auch 1.2er für <strong>Probleme mit der Steuerkette</strong> bekannt. Diese kann sich vorzeitig längen und damit einen kapitalen Motorschaden verursachen."
+          },
+          "vhmbkyjr": {
+            "url": "https://www.motor-talk.de/forum/fabia-ii-gibt-es-da-problem-oder-kann-man-den-kaufen-t2123924.html",
+            "date": null,
+            "rank": 9,
+            "title": "Fabia II, gibt es da Problem oder kann man den kaufen? - Startseite... | MOTOR-TALK",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/lx3wZJHZXdCXWg6aZ8Tjeza4VphX3SdBe3b22guWo_c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGZhODkwODEx/OGM5OTBlMTdiMjY0/MWU3N2IyYzFhN2Y3/NWY5OGI2YWRjODE2/NzI0OGU3NWNhNzU3/NTY0YTgxNS93d3cu/bW90b3ItdGFsay5k/ZS8",
+              "thumbnail": "https://www.motor-talk.de/polly/static/images/motor-talk-logo.png"
+            },
+            "snippets": [
+              "Die Bremsgeräusche sind lt. seiner Aussage durchaus normal für den Fabia II, da Skoda an den Materialien gespart hat. ... Federspanner51665am 1. Mai 2009 um 13:46 · das &quot;kraztproblem&quot; dürfte sich doch dann beheben, wenn man andere Bremsscheiben/Beläge aus dem zubehör nimmt? z.b. Brembo, ATE, Bosch... ... hab jetzt knapp 3500km runter beim fabia 1.4 mit 86 ps und nicht die geringsten probleme! das auto fährt sich super. verbrauch liegt bei etwa 7,3 liter, ich fahre aber 90% Stadt!",
+              "Original geschrieben von Bonko2611 was heißt denn \"Die Preise sind bei uns zur Zeit sehr günstig.\"???? http://www.motor-talk.de/.../...ss-skoda-octavia-kauf-t236714.html?... ... also, meine freundin hat den fabia II 1,4 ambiente seit juni 2008 und ist grundsätzlich zufrieden.",
+              "Hallo liebe Skodagemeinde, bei uns steht die Anschaffung eines neuen Zweitwagens an. In die nähere Auswahl ist auch der Skoda Fabia II gefallen. Da es ein mehr oder weniger reines Stadtauto werden soll, haben wir uns für den 1,2 Liter mit 60 PS entschieden.",
+              "Die Bremsgeräusche sind lt. seiner Aussage durchaus normal für den Fabia II, da Skoda an den Materialien gespart hat. ... Federspanner51665am 1. Mai 2009 um 13:46 · das \"kraztproblem\" dürfte sich doch dann beheben, wenn man andere Bremsscheiben/Beläge aus dem zubehör nimmt? z.b. Brembo, ATE, Bosch... ... hab jetzt knapp 3500km runter beim fabia 1.4 mit 86 ps und nicht die geringsten probleme! das auto fährt sich super. verbrauch liegt bei etwa 7,3 liter, ich fahre aber 90% Stadt!",
+              "Bin auch am überlegen, ob ich mir nen Fabia II 1.4 zulege oder doch nen Corsa. In den meisten Tests hat der Skoda die Nase vorne gehabt."
+            ],
+            "description": "Die Bremsgeräusche sind lt. seiner Aussage durchaus normal für den Fabia II, da Skoda an den Materialien gespart hat. ... Federspanner51665am 1. Mai 2009 um 13:46 · das &quot;kraztproblem&quot; dürfte sich doch dann beheben, wenn man andere Bremsscheiben/Beläge aus dem zubehör nimmt? z.b. Brembo, ATE, Bosch... ... hab jetzt knapp 3500km runter beim fabia 1.4 mit 86 ps und nicht die geringsten probleme! das auto fährt sich super. verbrauch liegt bei etwa 7,3 liter, ich fahre aber 90% Stadt!"
+          },
+          "xqzdiuex": {
+            "url": "https://www.mobile.de/magazin/artikel/skoda-fabia-3-probleme-ratgeber-gebrauchtwagen-50446",
+            "date": null,
+            "rank": 7,
+            "title": "Škoda Fabia (2014-2021): Probleme, Ratgeber, Preise",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/r7297T6Webeg7q0AOXRYAchb-ME26MFIw1EXDP76XCo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjFhYzA4NGEz/NTllMTIyODNhZTAy/MzNmYzI3NTk0NDc2/OTk4NDA4MmEwZWMw/ODUyY2JkN2I5NTE5/MjVmMGNhMC93d3cu/bW9iaWxlLmRlLw",
+              "thumbnail": "https://images.prismic.io/shacarlacca/NGViMDJlZGEtMjhiNC00ZjQ0LWE2ZTUtZDliYTBkNzBhNzQx__10.jpg"
+            },
+            "snippets": [
+              "Finden Sie Autos als Neu- und Gebrauchtwagen sowie Wohnmobile, Motorräder und Nutzfahrzeuge bei: mobile.de – Deutschlands größter Fahrzeugmarkt",
+              "Euro NCAP bewertet die Sicherheit im Škoda Fabia 2014 mit fünf Sternen und bestätigt das Ergebnis zuletzt 2020. Zwar erreicht der Kleinwagen in keiner Disziplin eine Top-Wertung, dennoch zeigt er im Crashtest eine ausgewogene Leistung. Bereits zum Marktstart bietet Škoda einen Notbremsassistenten sowie eine Geschwindigkeitsregelung an. Zum Facelift folgen gegen Aufpreis ein Spurhalte-Assistent sowie LED-Scheinwerfer. Zwar setzt Skoda im Fabia 3 nur drei Grundmotoren ein.",
+              "Obwohl der Škoda Fabia nur 3,99 Meter Länge misst, bietet er vorn viel Platz. Auch auf der Rückbank haben Mitfahrer vertretbaren Raum. Der Kofferraum fasst 330 Liter – etwas weniger als im Polo, aber mehr, als beispielsweise Opel Corsa oder Ford Fiesta aufnehmen können.",
+              "Die Überlänge kommt komplett dem Kofferraum zugute, vor der Rückenlehne weisen beide Fabia-Modelle identische Innenräume auf. Mit 530 bis 1.395 Litern Gepäckraumvolumen verstaut der Fabia Combi locker ein Haushalts-Großgerät oder das Urlaubsgepäck einer Kleinfamilie.",
+              "Der Kofferraum des Škoda Fabia Combi fasst 530-1.395 Liter und liegt damit auf dem Niveau von Kompaktklasse-Kombis wie dem Opel Astra Sports Tourer."
+            ],
+            "description": "Finden Sie Autos als Neu- und Gebrauchtwagen sowie Wohnmobile, Motorräder und Nutzfahrzeuge bei: mobile.de – Deutschlands größter Fahrzeugmarkt"
+          },
+          "ycqzytzq": {
+            "url": "https://www.fabia4fun.de/wbb/index.php/Thread/24661-Z%C3%BCndaussetzer-Zylinder-1-Fabia-1-2-HTP/",
+            "date": null,
+            "rank": 6,
+            "title": "Zündaussetzer Zylinder 1 Fabia 1.2 HTP - Motor & Antrieb - Fabia4Fun",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/p5zM4ugu8tLWPAAMBW5KlI_tPL2ydKEFDPhdQH9_wvk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzAxM2UzZWVl/YTQ5ZGMwMjdkMTFj/YjljNmYyYzUwMTUx/OGYzNDkxNjM1YWY4/MWY5ZjRkMGEwYmNk/N2ZkMDk5Ny93d3cu/ZmFiaWE0ZnVuLmRl/Lw",
+              "thumbnail": null
+            },
+            "snippets": [
+              "1.2 Motor mit Gas, was ein Sparfuchs. Zu deinem Problem: ich fahre im Winter enbenfalls ein Fahrzeug mit Gasanlage (aber keinen Fabia) und habe von Zeit zu Zeit morgens die von dir beschriebenen Probleme. Bei mir ist es darauf zurückuzuführen das die <strong>Zylinderkopfdichtung an Zyl</strong>.",
+              "Hallo, ich habe einen Skoda Fabia 1.2 HTP mit BBM Motor. Baujahr 2008, Laufleistung 266000km Wenn ich den Motor morgens im kalten Zustand starte und losfahre, dann blinkt nach ca. 1-3 km die gelbe Motorkontrollleuchte und Motor hat urplötzlich keine Leistung mehr.",
+              "Skoda Fabia 1.2 HTP Motor ruckelt stark rittle1989 - 17.",
+              "1.2 Motor mit Gas, was ein Sparfuchs. Zu deinem Problem: ich fahre im Winter enbenfalls ein Fahrzeug mit Gasanlage (aber keinen Fabia) und habe von Zeit zu Zeit morgens die von dir beschriebenen Probleme. Bei mir ist es darauf zurückuzuführen das die Zylinderkopfdichtung an Zyl."
+            ],
+            "description": "1.2 Motor mit Gas, was ein Sparfuchs. Zu deinem Problem: ich fahre im Winter enbenfalls ein Fahrzeug mit Gasanlage (aber keinen Fabia) und habe von Zeit zu Zeit morgens die von dir beschriebenen Probleme. Bei mir ist es darauf zurückuzuführen das die <strong>Zylinderkopfdichtung an Zyl</strong>."
+          },
+          "zcvphikp": {
+            "url": "https://autogazette.de/skoda/fabia/gebrauchtwagen/gebrauchter-skoda-fabia-beim-tuev-mit-problemen-989389982.html",
+            "date": null,
+            "rank": 4,
+            "title": "Gebrauchter Skoda Fabia: Beim TÜV mit Problemen - Autogazette.de",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/BO52qIjnWTaQ-xi30r81mZqZNLTUm-6F1R6BeGAjb5U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTYwOWExM2I0/MDk4ZmExY2MxNTU3/NGZiMDI3NGY2OWY5/ZmZjNTEyOGYzYTk2/ZGJhNDljNDRiNTEx/MzYyNGJiNS9hdXRv/Z2F6ZXR0ZS5kZS8",
+              "thumbnail": "https://autogazette.de/wp-content/uploads/2018/10/Skoda-Fabia.jpg"
+            },
+            "snippets": [
+              "Zudem sorgten <strong>schlappe Batterien</strong> bei 2008er Autos für Panneneinsätze. Nur einen Rückruf hat der ADAC registriert. Er betraf rund 5200 Skoda-Modelle mit Dieselmotor – darunter auch der Fabia – des Bauzeitraums Mai 2010 bis Juni 2014, wegen ...",
+              "Praktisch und preiswert – für den in seiner Klasse geräumigen Skoda Fabia spricht einiges. Auch der Antriebskomfort ist fortschrittlich für einen Kleinwagen – zumindest wenn die durchzugsstarken, sparsamen 1,2-Liter-TSI-Motoren unter der Haube arbeiten und Direktschaltgetriebe zum Zuge kommen.",
+              "Lenkung und Antriebswellen machen dagegen erst beim Vorgänger-Fabia ab elf Jahren Probleme, zwei Jahre früher kommt die Achsaufhängung in die roten Zahlen. Wer aber zum Typ 5J statt des älteren 6Y greift, muss sich über diese Bauteile kaum Gedanken machen. So durchwachsen das Tüv-Verhalten auch in jüngeren Jahren ist – beim ADAC hinterlässt der 5J ein besseres Bild: Das Modell schneide durchweg gut ab. In der aktuellen Statistik des Clubs sind Autos der Jahrgänge 2008 bis 2010 mit Defekten an Zündspulen und Zündkerzen vermerkt.",
+              "Zudem sorgten schlappe Batterien bei 2008er Autos für Panneneinsätze. Nur einen Rückruf hat der ADAC registriert. Er betraf rund 5200 Skoda-Modelle mit Dieselmotor – darunter auch der Fabia – des Bauzeitraums Mai 2010 bis Juni 2014, wegen der Gefahr reißender Kraftstofffilterdeckel.",
+              "Für die sparsameren Halter, die aber auch eine gewisse Durchzugskraft nicht missen wollen, kamen die 1,2-Liter-TSI-Motoren in den Handel. Sie leisten 63 kW/86 PS beziehungsweise 77 kW/105 PS."
+            ],
+            "description": "Zudem sorgten <strong>schlappe Batterien</strong> bei 2008er Autos für Panneneinsätze. Nur einen Rückruf hat der ADAC registriert. Er betraf rund 5200 Skoda-Modelle mit Dieselmotor – darunter auch der Fabia – des Bauzeitraums Mai 2010 bis Juni 2014, wegen ..."
+          }
+        },
+        "isInterrupted": false,
+        "publicArguments": "typische Probleme Skoda Fabia 1.2 Liter Motor Baujahr 2008",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Beim Skoda Fabia mit dem 1,2-Liter-Motor (Baujahr 2008, zweite Generation) sind folgende typische Probleme bekannt:\n\n**Steuerkette:** Besonders der 1,2-HTP-Dreizylinder-Motor (Baujahre 2007–2014) neigt zu übermäßiger Kettenstreckung. Dies kann zu schweren Motorschäden führen, wenn das Problem nicht rechtzeitig behoben wird. Es gab sogar Rückrufaktionen für bestimmte Baujahre, daher sollte geprüft werden, ob das eigene Fahrzeug betroffen ist und ob die Maßnahme bereits durchgeführt wurde",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "qdagxqwp",
+          "tsxjselr"
+        ]
+      },
+      {
+        "text": ".\n\n**Zylinderkopfdichtung:** Es gibt Berichte, dass die Zylinderkopfdichtung durchbrennen kann, was zu Zündaussetzern und Leistungsverlust führt, besonders im kalten Zustand",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "ycqzytzq"
+        ]
+      },
+      {
+        "text": ".\n\n**Ölverlust:** Einige Besitzer berichten von erhöhtem Ölverbrauch, was auf undichte Stellen oder Verschleiß hinweisen kann",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "pengvgfl"
+        ]
+      },
+      {
+        "text": ".\n\n**Zündspulen und Zündkerzen:** Bei Modellen der Jahrgänge 2008 bis 2010 wurden häufiger Defekte an Zündspulen und Zündkerzen festgestellt",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "zcvphikp"
+        ]
+      },
+      {
+        "text": ".\n\n**Batterieprobleme:** Bei 2008er Modellen sorgten schlappe Batterien für Panneneinsätze",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "zcvphikp"
+        ]
+      },
+      {
+        "text": ".\n\nFalls du vorhast, ein solches Fahrzeug zu kaufen oder bereits eines besitzt, empfiehlt es sich, besonders auf die Steuerkette und die Zylinderkopfdichtung zu achten und ggf. eine Werkstatt aufsuchen, um den Zustand zu prüfen. Möchtest du noch spezifischere Informationen zu einem dieser Probleme?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-07-13T21:24:08.779Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  }
+]

@@ -1,0 +1,239 @@
+[
+  {
+    "id": "bfb1922f-f792-41bb-84d3-887a2386564e",
+    "version": 0,
+    "chatId": "796056bd-e143-4fe9-99c4-874c7b11a495",
+    "content": "gibt es sowas wie chord ai für mein macbook",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-07-30T19:24:32.614Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "d4847bd1-8525-4206-8764-76ab22b7cea8",
+    "version": 0,
+    "chatId": "796056bd-e143-4fe9-99c4-874c7b11a495",
+    "content": "wo can ich das img runterladen ß",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-07-30T19:25:17.208Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "142deb8d-40b4-42c0-b534-ab27a33f8daf",
+    "version": 0,
+    "chatId": "796056bd-e143-4fe9-99c4-874c7b11a495",
+    "content": "Ja, es gibt mehrere Alternativen zu **Chord AI**, die auf deinem MacBook funktionieren. Hier sind die besten Optionen:\n\n### 🎵 **Empfohlene Alternativen für MacBook**\n1. **Capo** – Beliebte App für Mac (und iOS), die Akkorde in Songs erkennt, Tempo anpasst und Abschnitte schleifen kann. Ideal für Musiker, die Songs lernen oder transkribieren möchten.\n   *(Erwähnt in [Reddit-Diskussion](https://www.reddit.com/r/musictheory/comments/r41oxj/any_web_or_app_or_similar_to_know_the_chords/))*\n\n2. **Chordify** – Online-Tool für schnelle und hochwertige Akkord-Analysen. Funktioniert im Browser und ist auch für Mac nutzbar.\n   *(Quelle: [Wondershare](https://filmora.wondershare.de/ai/best-alternatives-to-chord-ai.html))*\n\n3. **Moises.ai** – Bietet Akkord-Erkennung und Audio-Trennung (z. B. für Gitarre, Klavier). Hat eine Web-Version und ist auch als App verfügbar.\n   *(Quelle: [Wondershare](https://filmora.wondershare.de/ai/best-alternatives-to-chord-ai.html))*\n\n4. **Melody Scanner** – Leistungsstarke Alternative für PC/Mac, mit der du Songs oder Voiceovers aufnehmen oder Dateien hochladen kannst, um Akkorde zu extrahieren.\n   *(Quelle: [Wondershare](https://filmora.wondershare.de/ai/best-alternatives-to-chord-ai.html))*\n\n5. **Muse AI** oder **Scaler** – Falls du nach KI-gestützter Akkord-Generierung suchst (z. B. für Musikproduktion).\n   *(Quelle: [AlternativeTo](https://alternativeto.net/software/chord-composer/))*\n\n---\n### **Zusammenfassung**\n- **Für Akkord-Erkennung in Songs:** **Capo** (Mac-App) oder **Chordify** (Web).\n- **Für Audio-Trennung + Akkorde:** **Moises.ai** (Web/App).\n- **Für KI-gestützte Akkord-Generierung:** **Muse AI** oder **Scaler**.\n\nFalls du eine bestimmte Funktion suchst (z. B. Echtzeit-Analyse oder MIDI-Unterstützung), lass es mich wissen!",
+    "contentChunks": [
+      {
+        "id": "f9828fc6-449d-4d31-8154-4c720e525c9f",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "g9jx6Xh6k"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "url": "https://filmora.wondershare.com/ai/best-alternatives-to-chord-ai.html",
+              "title": "Chord.ai Alternatives: The Best Apps for Music & Chord Analysis",
+              "favicon": "https://www.google.com/s2/favicons?domain=filmora.wondershare.com&sz=256"
+            },
+            {
+              "url": "https://filmora.wondershare.de/ai/best-alternatives-to-chord-ai.html",
+              "title": "Entdecken Sie die beste Alternative zu Chord.ai",
+              "favicon": "https://www.google.com/s2/favicons?domain=filmora.wondershare.de&sz=256"
+            },
+            {
+              "url": "https://alternativeto.net/software/chord-composer/",
+              "title": "Chord Composer Alternatives - Explore Similar Software | AlternativeTo",
+              "favicon": "https://www.google.com/s2/favicons?domain=alternativeto.net&sz=256"
+            },
+            {
+              "url": "https://www.toolify.ai/alternative/chord-identifier",
+              "title": "Chord Identifier Alternatives in 2026 | Best Chord Identifier Alternatives - Toolify",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.toolify.ai&sz=256"
+            },
+            {
+              "url": "https://www.reddit.com/r/musictheory/comments/r41oxj/any_web_or_app_or_similar_to_know_the_chords/",
+              "title": "r/musictheory on Reddit: Any web or app or similar to know the chords progression of any song?",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.reddit.com&sz=256"
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "Chord AI Alternative für MacBook",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Ja, es gibt mehrere Alternativen zu **Chord AI**, die auf deinem MacBook funktionieren. Hier sind die besten Optionen:\n\n### 🎵 **Empfohlene Alternativen für MacBook**\n1. **Capo** – Beliebte App für Mac (und iOS), die Akkorde in Songs erkennt, Tempo anpasst und Abschnitte schleifen kann. Ideal für Musiker, die Songs lernen oder transkribieren möchten.\n   *(Erwähnt in [Reddit-Diskussion](https://www.reddit.com/r/musictheory/comments/r41oxj/any_web_or_app_or_similar_to_know_the_chords/))*\n\n2. **Chordify** – Online-Tool für schnelle und hochwertige Akkord-Analysen. Funktioniert im Browser und ist auch für Mac nutzbar.\n   *(Quelle: [Wondershare](https://filmora.wondershare.de/ai/best-alternatives-to-chord-ai.html))*\n\n3. **Moises.ai** – Bietet Akkord-Erkennung und Audio-Trennung (z. B. für Gitarre, Klavier). Hat eine Web-Version und ist auch als App verfügbar.\n   *(Quelle: [Wondershare](https://filmora.wondershare.de/ai/best-alternatives-to-chord-ai.html))*\n\n4. **Melody Scanner** – Leistungsstarke Alternative für PC/Mac, mit der du Songs oder Voiceovers aufnehmen oder Dateien hochladen kannst, um Akkorde zu extrahieren.\n   *(Quelle: [Wondershare](https://filmora.wondershare.de/ai/best-alternatives-to-chord-ai.html))*\n\n5. **Muse AI** oder **Scaler** – Falls du nach KI-gestützter Akkord-Generierung suchst (z. B. für Musikproduktion).\n   *(Quelle: [AlternativeTo](https://alternativeto.net/software/chord-composer/))*\n\n---\n### **Zusammenfassung**\n- **Für Akkord-Erkennung in Songs:** **Capo** (Mac-App) oder **Chordify** (Web).\n- **Für Audio-Trennung + Akkorde:** **Moises.ai** (Web/App).\n- **Für KI-gestützte Akkord-Generierung:** **Muse AI** oder **Scaler**.\n\nFalls du eine bestimmte Funktion suchst (z. B. Echtzeit-Analyse oder MIDI-Unterstützung), lass es mich wissen!",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-07-30T19:24:32.874Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1785439472881,
+        "completedAtMs": 1785439481587,
+        "firstTokenAtMs": 1785439473560,
+        "generationStats": {
+          "outputTokens": 611,
+          "completionCount": 2,
+          "generationDurationMs": 5771,
+          "outputTokensPerSecond": 105.87419857910241
+        },
+        "timeToFirstTokenMs": 679,
+        "completionDurationMs": 8706,
+        "userMessageCreatedToCompletionMs": 8973
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "run_typescript",
+          "web_search"
+        ],
+        "integrationNames": [
+          "web_search"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "8ad00fc0-e6a8-452b-b312-6286c7e6e5f8",
+    "version": 0,
+    "chatId": "796056bd-e143-4fe9-99c4-874c7b11a495",
+    "content": "Du kannst **Chordify** auf deinem MacBook auf folgende Weise nutzen:\n\n### 📱 **Option 1: Als Desktop-App (Mac)**\n- **WebCatalog** bietet eine **Desktop-Version von Chordify** für Mac an.\n  🔗 [Chordify - Desktop App (Mac) herunterladen](https://webcatalog.io/en/apps/chordify)\n\n### 🌐 **Option 2: Als Web-App (Browser)**\n- Chordify funktioniert direkt im Browser (z. B. Safari, Chrome).\n  🔗 [Chordify-Website](https://chordify.net/)\n\n### 📱 **Option 3: Als iOS-App (für iPhone/iPad)**\n- Falls du es auf einem iPhone oder iPad nutzen möchtest:\n  🔗 [Chordify im App Store](https://apps.apple.com/us/app/chordify-songs-chords-tuner/id1073624757)\n\n---\n### **Zusammenfassung**\n- **Für MacBook:** **WebCatalog-App** oder **Browser-Version**.\n- **Für iPhone/iPad:** **App Store**.\n\nFalls du eine **native Mac-App** suchst, ist **WebCatalog** die beste Wahl. 😊",
+    "contentChunks": [
+      {
+        "id": "dc111da2-7cfd-41d0-aa91-9ce7f5e431c3",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "uMKsWpZac"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "url": "https://apps.apple.com/us/app/chordify-songs-chords-tuner/id1073624757",
+              "title": "Chordify: Songs, Chords, Tuner - App Store - Apple",
+              "favicon": "https://www.google.com/s2/favicons?domain=apps.apple.com&sz=256"
+            },
+            {
+              "url": "https://www.bluestacks.com/apps/music-audio/chordify-song-chords-tuner-on-pc.html",
+              "title": "Download and run Chordify: Song Chords & Tuner on PC & Mac (Emulator)",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.bluestacks.com&sz=256"
+            },
+            {
+              "url": "https://webcatalog.io/en/apps/chordify",
+              "title": "Chordify - Desktop App - Mac, Windows",
+              "favicon": "https://www.google.com/s2/favicons?domain=webcatalog.io&sz=256"
+            },
+            {
+              "url": "https://apps.apple.com/sc/app/chordify-chords-songs-tuner/id1073624757",
+              "title": "Chordify: Chords, Songs, Tuner - App Store - Apple",
+              "favicon": "https://www.google.com/s2/favicons?domain=apps.apple.com&sz=256"
+            },
+            {
+              "url": "https://apps.apple.com/us/app/chordify/id1073624757",
+              "title": "Chordify: Songs, Chords, Tuner App - App Store",
+              "favicon": "https://www.google.com/s2/favicons?domain=apps.apple.com&sz=256"
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "Chordify App Download für MacBook",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Du kannst **Chordify** auf deinem MacBook auf folgende Weise nutzen:\n\n### 📱 **Option 1: Als Desktop-App (Mac)**\n- **WebCatalog** bietet eine **Desktop-Version von Chordify** für Mac an.\n  🔗 [Chordify - Desktop App (Mac) herunterladen](https://webcatalog.io/en/apps/chordify)\n\n### 🌐 **Option 2: Als Web-App (Browser)**\n- Chordify funktioniert direkt im Browser (z. B. Safari, Chrome).\n  🔗 [Chordify-Website](https://chordify.net/)\n\n### 📱 **Option 3: Als iOS-App (für iPhone/iPad)**\n- Falls du es auf einem iPhone oder iPad nutzen möchtest:\n  🔗 [Chordify im App Store](https://apps.apple.com/us/app/chordify-songs-chords-tuner/id1073624757)\n\n---\n### **Zusammenfassung**\n- **Für MacBook:** **WebCatalog-App** oder **Browser-Version**.\n- **Für iPhone/iPad:** **App Store**.\n\nFalls du eine **native Mac-App** suchst, ist **WebCatalog** die beste Wahl. 😊",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-07-30T19:25:17.394Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1785439517403,
+        "completedAtMs": 1785439523987,
+        "firstTokenAtMs": 1785439518173,
+        "generationStats": {
+          "outputTokens": 333,
+          "completionCount": 2,
+          "generationDurationMs": 3759,
+          "outputTokensPerSecond": 88.58739026336792
+        },
+        "timeToFirstTokenMs": 770,
+        "completionDurationMs": 6584,
+        "userMessageCreatedToCompletionMs": 6779
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "run_typescript",
+          "web_search"
+        ],
+        "integrationNames": [
+          "web_search"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  }
+]

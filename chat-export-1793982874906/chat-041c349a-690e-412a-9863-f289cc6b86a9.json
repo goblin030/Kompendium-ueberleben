@@ -1,0 +1,293 @@
+[
+  {
+    "id": "750e88ca-3f69-47b1-be7f-4a398b6ae45e",
+    "version": 0,
+    "chatId": "041c349a-690e-412a-9863-f289cc6b86a9",
+    "content": "Hier ist deine Grafik für das **Nightflight**-DJ-Set im Genre **Progressive Psytrance**. Sie enthält psychedelische Neonfarben, futuristische Elemente und den prominent platzierten Titel.\n\n\n\nFalls du Änderungen oder Anpassungen möchtest, lass es mich wissen!",
+    "contentChunks": [
+      {
+        "id": "Jp49LrEio",
+        "name": "generate_image",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1784802008900,
+        "success": true,
+        "toolType": "image",
+        "startTime": 1784801999710,
+        "integration": {
+          "id": "019df75b-a92e-74ae-a73f-f35c41e14e2a",
+          "name": "black_forest",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "ar": "توليد الصور",
+            "de": "Bildgenerierung",
+            "en": "Image Generation",
+            "es": "Generación de imágenes",
+            "fr": "Génération d'images",
+            "it": "Generazione di immagini",
+            "nl": "Afbeeldingen genereren",
+            "pl": "Generowanie obrazów",
+            "pt-BR": "Geração de imagens"
+          }
+        },
+        "customLocale": {
+          "done_description": {
+            "en": "generate_image"
+          },
+          "working_description": {
+            "en": "generate_image"
+          }
+        },
+        "publicResult": {
+          "url": "https://mistralaiblackforestprod.blob.core.windows.net/images/blackforest/00de/98eb/-717/6-4245-9889-603bc1305435/image.jpg?se=2026-07-23T11%3A20%3A08Z&sp=r&sv=2026-02-06&sr=b&skoid=8aae9820-8683-45ec-b557-e441def5aa94&sktid=4fbc1168-2984-4d17-af19-ac5138c2378e&skt=2026-07-23T10%3A20%3A08Z&ske=2026-07-23T11%3A20%3A08Z&sks=b&skv=2026-02-06&sig=UoEyEijDtBuHhD3Iq2QF2ofXkUfWaGw/yl2f/81kQms%3D"
+        },
+        "isInterrupted": false,
+        "publicArguments": "A vibrant and psychedelic graphic for a SoundCloud upload of a DJ set named 'Nightflight' in the genre Progressive Psytrance. The design features glowing neon colors like purple, turquoise, and pink with futuristic elements such as a starry sky and abstract patterns. The title 'Nightflight' is prominently displayed in a modern, futuristic font, with the subtitle 'Progressive Psytrance' integrated below it. Optional elements include DJ symbols like headphones or sound waves.",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Hier ist deine Grafik für das **Nightflight**-DJ-Set im Genre **Progressive Psytrance**. Sie enthält psychedelische Neonfarben, futuristische Elemente und den prominent platzierten Titel.\n\n",
+        "type": "text"
+      },
+      {
+        "type": "image_url",
+        "imageUrl": "https://mistralaichatupprodswe.blob.core.windows.net/chat-images/assistant/c5/4a/2f/c54a2f3e-033d-4aee-a8ea-2a0f223e05c0/58d1fd37-327c-4309-92f8-3bdbb327cb9c/0857c209-3fbd-4f8b-9b53-b0fcbe584052/806eed54-26db-4389-bc85-d1863c5bfa0e.jpg"
+      },
+      {
+        "text": "\n\nFalls du Änderungen oder Anpassungen möchtest, lass es mich wissen!",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-07-23T10:19:58.644Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "generate_image"
+        ],
+        "integrationNames": [
+          "black_forest"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "5005d22f-13b0-4691-9aea-6c207a1c5cb5",
+    "version": 0,
+    "chatId": "041c349a-690e-412a-9863-f289cc6b86a9",
+    "content": "hlif mir dabei ein grafik zu erstellen, die ich bei soundcloud  zu meiner audio mit hochladen kann wenn ich den mitschnitt eines DJ Sets Veröffentliche. Der Name des mitschnitts Lautetet Nightflight und das Musikalische Genre ist Progressive Psytrance.",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-07-23T10:19:08.826Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "7ff35dd9-9daf-4d0e-a2dc-dea5e5bdbe18",
+    "version": 0,
+    "chatId": "041c349a-690e-412a-9863-f289cc6b86a9",
+    "content": "bitte generiere mir eine Grafik",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-07-23T10:19:58.397Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "07bd1fe1-dee9-4a1c-97ec-1bba2b0c1355",
+    "version": 0,
+    "chatId": "041c349a-690e-412a-9863-f289cc6b86a9",
+    "content": "Um dir eine passende Grafik für dein **Nightflight**-DJ-Set im Genre **Progressive Psytrance** zu erstellen, die du bei SoundCloud hochladen kannst, brauchen wir ein Design, das die Energie und den Stil der Musik widerspiegelt.\n\n### Vorschlag für das Design:\n- **Farben:** Psychedelische, leuchtende Farben wie Neon-Lila, Türkis, Pink und Schwarzlicht-Effekte.\n- **Elemente:**\n  - Ein futuristischer oder abstrakter Hintergrund (z. B. Raumfahrt, Sternenhimmel, oder psychodelische Muster).\n  - Der Titel **\"Nightflight\"** prominent in einer modernen, futuristischen Schriftart.\n  - Optional: Ein DJ- oder Musik-Symbol (z. B. Kopfhörer, Plattenspieler, oder eine Soundwelle).\n  - Das Genre **\"Progressive Psytrance\"** als Untertitel oder in einer Ecke platziert.\n\n---\n### Nächste Schritte:\nIch kann dir eine solche Grafik generieren. Soll ich das für dich umsetzen? Falls du spezifische Wünsche hast (z. B. bestimmte Farben, Symbole oder eine bestimmte Stilrichtung), lass es mich wissen!",
+    "contentChunks": [
+      {
+        "text": "Um dir eine passende Grafik für dein **Nightflight**-DJ-Set im Genre **Progressive Psytrance** zu erstellen, die du bei SoundCloud hochladen kannst, brauchen wir ein Design, das die Energie und den Stil der Musik widerspiegelt.\n\n### Vorschlag für das Design:\n- **Farben:** Psychedelische, leuchtende Farben wie Neon-Lila, Türkis, Pink und Schwarzlicht-Effekte.\n- **Elemente:**\n  - Ein futuristischer oder abstrakter Hintergrund (z. B. Raumfahrt, Sternenhimmel, oder psychodelische Muster).\n  - Der Titel **\"Nightflight\"** prominent in einer modernen, futuristischen Schriftart.\n  - Optional: Ein DJ- oder Musik-Symbol (z. B. Kopfhörer, Plattenspieler, oder eine Soundwelle).\n  - Das Genre **\"Progressive Psytrance\"** als Untertitel oder in einer Ecke platziert.\n\n---\n### Nächste Schritte:\nIch kann dir eine solche Grafik generieren. Soll ich das für dich umsetzen? Falls du spezifische Wünsche hast (z. B. bestimmte Farben, Symbole oder eine bestimmte Stilrichtung), lass es mich wissen!",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-07-23T10:19:09.967Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "assistantAnswerSignals": {
+        "toolNames": [],
+        "integrationNames": []
+      }
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "3eb73cf0-f833-4a92-ac26-6ff3c808909a",
+    "version": 0,
+    "chatId": "041c349a-690e-412a-9863-f289cc6b86a9",
+    "content": "Hier ist die Version deiner Grafik **ohne Text** für dein **Progressive Psytrance**-DJ-Set. Sie behält die psychedelischen Neonfarben, futuristischen Elemente und den Stil bei, aber ohne den Titel oder Untertitel.\n\n\n\nFalls du weitere Anpassungen wünschst, lass es mich wissen!",
+    "contentChunks": [
+      {
+        "id": "1vsBxf9sU",
+        "name": "generate_image",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1784802110606,
+        "success": true,
+        "toolType": "image",
+        "startTime": 1784802102973,
+        "integration": {
+          "id": "019df75b-a92e-74ae-a73f-f35c41e14e2a",
+          "name": "black_forest",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "ar": "توليد الصور",
+            "de": "Bildgenerierung",
+            "en": "Image Generation",
+            "es": "Generación de imágenes",
+            "fr": "Génération d'images",
+            "it": "Generazione di immagini",
+            "nl": "Afbeeldingen genereren",
+            "pl": "Generowanie obrazów",
+            "pt-BR": "Geração de imagens"
+          }
+        },
+        "customLocale": {
+          "done_description": {
+            "en": "generate_image"
+          },
+          "working_description": {
+            "en": "generate_image"
+          }
+        },
+        "publicResult": {
+          "url": "https://mistralaiblackforestprod.blob.core.windows.net/images/blackforest/3e2f/200e/-11a/e-4870-be08-0d29fe482877/image.jpg?se=2026-07-23T11%3A21%3A50Z&sp=r&sv=2026-02-06&sr=b&skoid=8aae9820-8683-45ec-b557-e441def5aa94&sktid=4fbc1168-2984-4d17-af19-ac5138c2378e&skt=2026-07-23T10%3A21%3A50Z&ske=2026-07-23T11%3A21%3A50Z&sks=b&skv=2026-02-06&sig=G3%2Bx6S/UCIv7wgPZf3hE3vDNkSHpk7TCaz9HTnvWV0Y%3D"
+        },
+        "isInterrupted": false,
+        "publicArguments": "A vibrant and psychedelic graphic for a SoundCloud upload of a DJ set in the genre Progressive Psytrance. The design features glowing neon colors like purple, turquoise, and pink with futuristic elements such as a starry sky, abstract patterns, and a pair of headphones. No text is included in the image.",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Hier ist die Version deiner Grafik **ohne Text** für dein **Progressive Psytrance**-DJ-Set. Sie behält die psychedelischen Neonfarben, futuristischen Elemente und den Stil bei, aber ohne den Titel oder Untertitel.\n\n",
+        "type": "text"
+      },
+      {
+        "type": "image_url",
+        "imageUrl": "https://mistralaichatupprodswe.blob.core.windows.net/chat-images/assistant/c5/4a/2f/c54a2f3e-033d-4aee-a8ea-2a0f223e05c0/58d1fd37-327c-4309-92f8-3bdbb327cb9c/7a4751a0-6b4c-43b6-a16c-6aaead407ece/84bf6495-8d73-443a-ae76-1dfaace3f2e7.jpg"
+      },
+      {
+        "text": "\n\nFalls du weitere Anpassungen wünschst, lass es mich wissen!",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-07-23T10:21:41.048Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "generate_image"
+        ],
+        "integrationNames": [
+          "black_forest"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "d72db006-79f5-406b-a9f4-47abd4075628",
+    "version": 0,
+    "chatId": "041c349a-690e-412a-9863-f289cc6b86a9",
+    "content": "kannst du mir eine Version davon erstellen ohne Text",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-07-23T10:21:40.837Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "b21e08c4-4a52-4418-9645-bbae3249554e",
+    "version": 0,
+    "chatId": "041c349a-690e-412a-9863-f289cc6b86a9",
+    "content": "danke ",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-07-23T10:22:06.853Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "d68c0ec3-433a-446f-8901-a4b77f754360",
+    "version": 0,
+    "chatId": "041c349a-690e-412a-9863-f289cc6b86a9",
+    "content": "Gern geschehen, Robert! Wenn du noch weitere Anpassungen oder eine andere Grafik brauchst, lass es mich einfach wissen. Viel Erfolg mit deinem **Nightflight**-DJ-Set auf SoundCloud! 🎧✨",
+    "contentChunks": [
+      {
+        "text": "Gern geschehen, Robert! Wenn du noch weitere Anpassungen oder eine andere Grafik brauchst, lass es mich einfach wissen. Viel Erfolg mit deinem **Nightflight**-DJ-Set auf SoundCloud! 🎧✨",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-07-23T10:22:07.359Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "assistantAnswerSignals": {
+        "toolNames": [],
+        "integrationNames": []
+      }
+    },
+    "canvas": [],
+    "files": []
+  }
+]

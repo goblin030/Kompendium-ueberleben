@@ -1,0 +1,351 @@
+[
+  {
+    "id": "03e6427a-eae7-4932-b287-b14341232863",
+    "version": 0,
+    "chatId": "e66d57e7-bf21-4453-9dee-db1ebc938b9c",
+    "content": "wie kann ich eine Kasse von Schultes kassensystemen mit dem WLAN Verbinden ?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-09-15T13:49:14.873Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "45480067-44df-4e23-b86b-f21fb8fdbf57",
+    "version": 0,
+    "chatId": "e66d57e7-bf21-4453-9dee-db1ebc938b9c",
+    "content": "Um eine Kasse von Schultes mit dem WLAN zu verbinden, gibt es einige wichtige Punkte zu beachten. Laut den verfügbaren Informationen wird die Verbindung von Schultes-Kassensystemen (z. B. der S-600 Reihe) in der Regel über **Ethernet** hergestellt. Jedes Gerät im Netzwerk erhält eine einzigartige MAC-Adresse, und die Verbindung erfolgt meist über ein Netzwerkkabel (z. B. RJ-45) zu einem Router, Switch oder einer Netzwerkdose. Eine direkte WLAN-Verbindung wird in den offiziellen Anleitungen nicht explizit erwähnt, was darauf hindeutet, dass viele Schultes-Kassen standardmäßig keine WLAN-Funktionalität haben, sondern auf kabelgebundene Netzwerke setzen.\n\nFalls deine Kasse WLAN-fähig ist (z. B. bei neueren Modellen oder mit zusätzlicher Hardware), solltest du die spezifische Bedienungsanleitung für dein Modell prüfen. Auf den folgenden Seiten findest du offizielle Anleitungen und Downloads für Schultes-Kassensysteme, die dir weiterhelfen könnten:\n- [POSSUM Helpcenter – Schultes Kassensysteme Anleitungen](https://support.possum.eu/de/article/schultes-kassensysteme-anleitungen-downloads-1zudxo/)\n- [ManualsLib – Schultes Anleitungen](https://www.manualslib.de/brand/schultes/)\n\nFalls dein Modell keine WLAN-Unterstützung hat, könntest du einen **WLAN-zu-Ethernet-Adapter** (z. B. einen WiFi-Extender mit Ethernet-Port) verwenden, um die Kasse indirekt über WLAN anzubinden.\n\nMöchtest du Hilfe bei der Auswahl eines passenden Adapters oder bei der Suche nach einer spezifischen Anleitung für dein Modell?",
+    "contentChunks": [
+      {
+        "id": "R5GEiTY0X",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1789480161535,
+        "success": true,
+        "toolType": "rag",
+        "startTime": 1789480159326,
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "ar": "البحث على الويب",
+            "de": "Websuche",
+            "en": "Web Search",
+            "es": "Búsqueda web",
+            "fr": "Recherche Web",
+            "it": "Ricerca web",
+            "nl": "Webzoeken",
+            "pl": "Wyszukiwanie w sieci",
+            "pt-BR": "Pesquisa na web"
+          }
+        },
+        "customLocale": {
+          "done_description": {
+            "en": "web_search"
+          },
+          "working_description": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "908POXo0": {
+            "url": "https://www.heimpel.com/download/schultes/s-600/S-600_Programmieranleitung_.pdf",
+            "date": null,
+            "rank": 7,
+            "title": "SCHULTES S–600 Programmieranleitung",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/QDjRjzGoGYDPkRclk0ASCAP_Zl3Kk_-ZcH4ZnaehdQI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGZmYTkyZGRm/YzM4YjYwNWZmOThi/ZjBjNzZlZTI1Mjkx/MTU4ZjBjZDRkZWVh/ZmUyMjM3MjljOWNm/ZDFiNmYwYi93d3cu/aGVpbXBlbC5jb20v",
+              "thumbnail": null
+            },
+            "snippets": [
+              "werden. SCHULTES Kassensysteme wird diese Produkte nur der Vollständigkeit halber",
+              "SCHULTES Microcomputer Vertriebs GmbH & Co.",
+              "Abb. 7 – Druckerfach der SCHULTES S-600",
+              "Die SCHULTES S-600 ist mit einem 80 mm Epson Thermodruckwerk ausgestattet.",
+              "E-Mail: vertrieb@schultesonline.de • Internet: www.schultesonline.de"
+            ],
+            "description": "werden. SCHULTES Kassensysteme wird diese Produkte nur der Vollständigkeit halber"
+          },
+          "9Gnob4WL": {
+            "url": "https://schultes-kassen.de/schnittstellen/",
+            "date": null,
+            "rank": 8,
+            "title": "Schnittstellen & Anbindungen an Software- & Systempartner - SCHULTES",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/gBVI5hjlp5001_bI0pQv59c3wHaNzBtJN92t_IAYVX8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTA1MjZhNWM3/Y2JhMDlmNjJlODdm/MjI2MWRiZmY4MmI2/ODVhM2YzMjViMjc2/YmY0MGE0YzNiYmY1/MzBiZTQ0Yy9zY2h1/bHRlcy1rYXNzZW4u/ZGUv",
+              "thumbnail": null
+            },
+            "snippets": [
+              "Die optionale Anbindung externer Anwendungen und Dienste gestattet die Bereitstellung vieler zusätzlicher Funktionen für spezifische Branchenanwendungen. Unsere bluepos® Lösungen bieten ein reichhaltiges Angebot zur unkomplizierten und perfekt aufeinander abgestimmten Anbindung gängiger Software und Peripherie aus den Branchen Gastronomie, Gastgewerbe und Handel an Ihr Kassensystem.",
+              "Verknüpfen Sie Kassensystem und Hotelprogramm. Mit unserer Anbindungen an gängige Hotelsoftware können Sie alle Transaktionen z.B aus dem Restaurant oder der Hotelbar zum jeweiligen Gast beziehungsweise Zimmer zuordnen. ... Die genannten Hotel-Anbindungen wurden in Verbindung mit bluepos® installiert.",
+              "SCHULTES Kassensysteme sind echte Teamplayer und überzeugen deshalb mit einem großen Leistungsumfang.",
+              "Kunden gewinnen und Kunden binden – mit unserer Kundenverwaltung und den flexiblen Loyalty-Schnittstellen realisieren Sie individuelle Treueprogramme und Rabattsysteme. Auch Mitarbeiter- oder Kundenkarten sowie filialübergreifende Gutschein- und Ticketsysteme lassen sich problemlos in das Kassensystem integrieren.",
+              "Die optionale Anbindung externer Anwendungen und Dienste gestattet die Bereitstellung vieler zusätzlicher Funktionen für spezifische Branchenanwendungen. Unsere bluepos® Lösungen bieten ein reichhaltiges Angebot zur unkomplizierten und perfekt aufeinander abgestimmten Anbindung gängiger Software und Peripherie aus den Branchen Gastronomie, Gastgewerbe und Handel an Ihr Kassensystem."
+            ],
+            "description": "Die optionale Anbindung externer Anwendungen und Dienste gestattet die Bereitstellung vieler zusätzlicher Funktionen für spezifische Branchenanwendungen. Unsere bluepos® Lösungen bieten ein reichhaltiges Angebot zur unkomplizierten und perfekt aufeinander abgestimmten Anbindung gängiger Software und Peripherie aus den Branchen Gastronomie, Gastgewerbe und Handel an Ihr Kassensystem."
+          },
+          "QzkgymDN": {
+            "url": "https://qrup-media.de/schultes-kassen",
+            "date": null,
+            "rank": 9,
+            "title": "Schultes Kassen - QRU:P Media",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/s8ITsCEHfPugu7gAhUh1MhauJEesExC2tEwHYZxELDs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWFhNTY1Mjdj/NzNmNWJhZDA3ODFm/MDFmYjM3MzcyNzc1/M2Y0MmEwMTQxYjI5/MjVjNzdjODQ2ZWEx/NmM0OTFjZi9xcnVw/LW1lZGlhLmRlLw",
+              "thumbnail": "https://qrup-media.de/wp-content/uploads/2023/11/Schultes-Seite.png"
+            },
+            "snippets": [
+              "Schultes Kassensysteme, seit über 40 Jahren in Deutschland aktiv, hat sich als Vorreiter in der Bereitstellung führender Kassensoftware etabliert. Diese hochmoderne Softwarelösung von Schultes bietet nicht nur Vielseitigkeit für den Einsatz in stationären Kassen und auf mobilen Geräten, sondern ermöglicht auch nahtlose Verbindungen zwischen verschiedenen Systemen für ein Höchstmaß an Komfort.",
+              "Entdecken Sie innovative Schultes Kassensysteme von QRU:P Media in Mannheim. Unsere modernen Kassenlösungen bieten effiziente und zuverlässige Technologie für den Einzelhandel und die Gastronomie. Erfahren Sie mehr über unsere hochwertigen und anpassungsfähigen Kassensysteme für ein optimales Management Ihrer Geschäftsabläufe.",
+              "Schultes Kassensysteme, seit über 40 Jahren in Deutschland aktiv, hat sich als Vorreiter in der Bereitstellung führender Kassensoftware etabliert. Diese hochmoderne Softwarelösung von Schultes bietet nicht nur Vielseitigkeit für den Einsatz in stationären Kassen und auf mobilen Geräten, sondern ermöglicht auch nahtlose Verbindungen zwischen verschiedenen Systemen für ein Höchstmaß an Komfort.",
+              "Egal ob Gastronomie, Hotellerie, Einzelhandel, Frisörladen oder Bäckerei – die Kassen von Schultes finden in jedem dieser Bereiche ihren Einsatz und bieten neben schicker Optik auch noch eine kinderleichte Handhabung."
+            ],
+            "description": "Schultes Kassensysteme, seit über 40 Jahren in Deutschland aktiv, hat sich als Vorreiter in der Bereitstellung führender Kassensoftware etabliert. Diese hochmoderne Softwarelösung von Schultes bietet nicht nur Vielseitigkeit für den Einsatz in stationären Kassen und auf mobilen Geräten, sondern ermöglicht auch nahtlose Verbindungen zwischen verschiedenen Systemen für ein Höchstmaß an Komfort."
+          },
+          "cQSiHdtt": {
+            "url": "https://www.heimpel.com/schultes-downloads",
+            "date": null,
+            "rank": 0,
+            "title": "Schultes Kassensysteme Anleitungen & Downloads",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/QDjRjzGoGYDPkRclk0ASCAP_Zl3Kk_-ZcH4ZnaehdQI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGZmYTkyZGRm/YzM4YjYwNWZmOThi/ZjBjNzZlZTI1Mjkx/MTU4ZjBjZDRkZWVh/ZmUyMjM3MjljOWNm/ZDFiNmYwYi93d3cu/aGVpbXBlbC5jb20v",
+              "thumbnail": "https://images.provenexpert.com/f5/3e/82486550fc1e6da7b8016d741181/possum-kassensysteme-by-heimpel-gmbh_full_1760085759.jpg"
+            },
+            "snippets": [
+              "Sämtliche Anleitungen zu Schultes BluePos Kassensysteme und der Kassensoftware finden Sie hier.",
+              "Hier finden Sie zahlreiche Anleitungen und Tutorials zum Herunterladen, die uns von Schultes direkt zur Verfügung gestellt worden sind. Auf unserer Website finden Sie auch weitere Informationen rund um Schultes Kassensysteme.",
+              "S-600 Alle hier nicht aufgeführten Kassensysteme wie z.B. die Schultes S-560 und S-600 Reihe sind nicht GoBD und KassenSichV konform und dürfen in Deutschland nicht mehr verwendet werden.",
+              "Bitte nehmen Sie Kontakt zu uns auf. Gerne bieten wir Ihnen ein Schultes Kassensystem an, welches den neue Anforderungen der Gesetze entspricht."
+            ],
+            "description": "Sämtliche Anleitungen zu Schultes BluePos Kassensysteme und der Kassensoftware finden Sie hier."
+          },
+          "fgW1FMHy": {
+            "url": "https://www.cashregisterstore.de/Schultes-Bedienungsanleitungen",
+            "date": null,
+            "rank": 6,
+            "title": "Schultes Bedienungsanleitungen - cashregisterstore",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/k9EKxu70Mij5nOAvUWRA__WMbJcqQTGb8fHF1w_PNSw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGM5NTk4NzYw/OTIxYmUxY2Q1M2M5/MTg3YWJiMjgyZTNj/YzUzZTNkMDNhMzhl/ZjM2NTk3YTc5ZWJk/OTI5OTQ0YS93d3cu/Y2FzaHJlZ2lzdGVy/c3RvcmUuZGUv",
+              "thumbnail": "https://www.cashregisterstore.de/gfx/keinBild.gif"
+            },
+            "snippets": [
+              "Schultes Kassensysteme stellt keine kostenlosen Anleitungen für ihre Kassensysteme zum kostenlosen Download bereit Hier vielleicht ein Tipp um doch an eine Anle"
+            ],
+            "description": "Schultes Kassensysteme stellt keine kostenlosen Anleitungen für ihre Kassensysteme zum kostenlosen Download bereit Hier vielleicht ein Tipp um doch an eine Anle"
+          },
+          "lWEhdFv2": {
+            "url": "https://www.manualslib.de/brand/schultes/",
+            "date": null,
+            "rank": 3,
+            "title": "SCHULTES Anleitungen | ManualsLib",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/aOvu_SG5OWjK_fzzUwX3D6f5xkZrAcpr0-2-M9p2-I0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODYyNTNlYTUz/YTkzMDRiOTdkZDYy/YWNhMmI3NGIwNTNk/MjBhZWZjNTA0NzNh/YTA2ZGMzN2E3YTY5/ZmUwNDI1OC93d3cu/bWFudWFsc2xpYi5k/ZS8",
+              "thumbnail": null
+            },
+            "snippets": [
+              "Ansicht und Herunterladen mehr als 12 SCHULTES PDF Bedienungsanleitungen, Betriebsanleitungen. Kassensysteme, Registrierkassen, Handbücher, Anleitungen und Benutzerhandbucher.",
+              "SCHULTES Anleitungen · Neue anleitungen · Model · Dokumenttyp · HS1008-3008 · Anleitung · Drucker · Model · Dokumenttyp · FD-3 · Bedienungsanleitung · Handys · Model · Dokumenttyp · S-580/2 · Bedienungsanleitung · Kassensysteme · Model · Dokumenttyp ·"
+            ],
+            "description": "Ansicht und Herunterladen mehr als 12 SCHULTES PDF Bedienungsanleitungen, Betriebsanleitungen. Kassensysteme, Registrierkassen, Handbücher, Anleitungen und Benutzerhandbucher."
+          },
+          "lgUf3Vvm": {
+            "url": "https://support.possum.eu/de/article/schultes-kassensysteme-anleitungen-downloads-1zudxo/",
+            "date": null,
+            "rank": 2,
+            "title": "Schultes Kassensysteme Anleitungen & Downloads | POSSUM Helpcenter",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/99-XazpPKffFg-I2Px_up32xG6oni7SlYtOoLNBt9Ek/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWFkOWJjYjQ1/MmM4ZGQ5MTM0OTQw/MGQ0ZDBmMTgxMDZh/YmI0NmQ3Mzg0YjQw/M2MyOTEyMjBjNjZj/ZjIyNmZhYS9zdXBw/b3J0LnBvc3N1bS5l/dS8",
+              "thumbnail": null
+            },
+            "snippets": [
+              "Anleitungen für Schultes Kassensysteme Hier finden Sie zahlreiche Anleitungen und Tutorials zum Herunterladen, die uns von Schultes direkt zur Verfügung gestellt worden sind. Auf unserer Website finden Sie auch weitere Informationen rund",
+              "Auf unserer Website finden Sie auch weitere Informationen rund um Schultes Kassensysteme.",
+              "Alle hier nicht aufgeführten Kassensysteme wie z.B. die Schultes S-560 und S-600 Reihe sind nicht GoBD und KassenSichV konform und dürfen in Deutschland nicht mehr verwendet werden.",
+              "Bitte nehmen Sie Kontakt zu uns auf. Gerne bieten wir Ihnen ein Schultes Kassensystem an, welches den neue Anforderungen der Gesetze entspricht.",
+              "Schultes S-700 und BluePos Software S-700 Bedienungsanleitung <- (für unsere Orderman und Posiflex Gastronomie Kassensysteme) -> die aktuellste Fassung ist immer in Ihr System integriert"
+            ],
+            "description": "Anleitungen für Schultes Kassensysteme Hier finden Sie zahlreiche Anleitungen und Tutorials zum Herunterladen, die uns von Schultes direkt zur Verfügung gestellt worden sind. Auf unserer Website finden Sie auch weitere Informationen rund"
+          },
+          "sJLriD9O": {
+            "url": "https://schultes-kassen.de/",
+            "date": null,
+            "rank": 4,
+            "title": "SCHULTES Kassensysteme - Kassen & Kassensoftware Hersteller",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/gBVI5hjlp5001_bI0pQv59c3wHaNzBtJN92t_IAYVX8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTA1MjZhNWM3/Y2JhMDlmNjJlODdm/MjI2MWRiZmY4MmI2/ODVhM2YzMjViMjc2/YmY0MGE0YzNiYmY1/MzBiZTQ0Yy9zY2h1/bHRlcy1rYXNzZW4u/ZGUv",
+              "thumbnail": null
+            },
+            "snippets": [
+              "Mit bluepos® entwickelt SCHULTES ein leistungsstarkes, zuverlässiges und flexibles Kassensystem aus Hard- und Software für Gastronomie, Handel und Dienstleistung.",
+              "Mehrwertsteuersenkung Gastronomie: Ab 2026 gilt eine einheitliche Mwst.",
+              "Ob im lebhaften Restaurant, im geschäftigen Handel oder anderen Branchen: Das modulare bluepos® Kassensystem wächst mit Ihren Anforderungen und schenkt Ihnen die Freiheit, sich voll und ganz auf Ihre Gäste und Kunden zu konzentrieren.",
+              "Mit bluepos® entwickelt SCHULTES ein leistungsstarkes, zuverlässiges und flexibles Kassensystem aus Hard- und Software für Gastronomie, Handel und Dienstleistung.",
+              "Bar, mit Karte oder per Zahlungsdienstleister wie PayPal – mit unseren Kassensystemen profitierten Sie von maximaler Flexibilität."
+            ],
+            "description": "Mit bluepos® entwickelt SCHULTES ein leistungsstarkes, zuverlässiges und flexibles Kassensystem aus Hard- und Software für Gastronomie, Handel und Dienstleistung."
+          },
+          "wli1Uij9": {
+            "url": "https://www.manualslib.de/manual/441099/Schultes-S-600.html",
+            "date": null,
+            "rank": 5,
+            "title": "SCHULTES S-600 PROGRAMMIERANLEITUNG Pdf-Herunterladen | ManualsLib",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/aOvu_SG5OWjK_fzzUwX3D6f5xkZrAcpr0-2-M9p2-I0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODYyNTNlYTUz/YTkzMDRiOTdkZDYy/YWNhMmI3NGIwNTNk/MjBhZWZjNTA0NzNh/YTA2ZGMzN2E3YTY5/ZmUwNDI1OC93d3cu/bWFudWFsc2xpYi5k/ZS8",
+              "thumbnail": null
+            },
+            "snippets": [
+              "Router PCKasse <strong>Die Verbindung von der Kasse, und anderen Geräten aus dem Hause SCHULTES, ist jedoch immer das Ethernet</strong>. Jedes Gerät im Netzwerk erhält bereits bei der Herstellung eine nicht mehr änderbare Node-Adress (auch MAC Adresse), die weltweit nur einmal vorkommt.",
+              "Router PCKasse Die Verbindung von der Kasse, und anderen Geräten aus dem Hause SCHULTES, ist jedoch immer das Ethernet. Jedes Gerät im Netzwerk erhält bereits bei der Herstellung eine nicht mehr änderbare Node-Adress (auch MAC Adresse), die weltweit nur einmal vorkommt. EMV-Bestimmungen immer original verwendet werden! Die Anschlussdose AD-2 kann vom Fachhandel durch den Fachhändler selbst bezogen werden. SCHULTES Kassensysteme wird diese Produkte nur der Vollständigkeit halber und zur Vereinfachung der Bestellungen anbieten.",
+              "Schutztülle beige, Länge 1.50m, Bestell-Nr.: 993 052 Dieses Kabel wird sowohl für 10Base-T, als auch für 100Base-TX benutzt, um ein Ethernet Gerät ( z.B.: Netzwerk-Karte, Kasse, SCHULTES FD-3,...) mit einem Hub, Switch oder einer Netzwerk-Anschlußdose zu verbinden.",
+              "Ansicht von oben RJ-45 Stecker-Verbindung zur Kasse, Netzwerkkarte, ... Stammdaten für Personal 21 Arbeitszeiterfassung Transaktionen zur Arbeitszeiterfassung Daten für das E-Journal werden hier voreditiert und dann bei BON-Schnitt 22 Editierdatei E-Journal auf einen Schlag in die Transaktionsdatei hinüberkopiert. © 2010 SCHULTES Microcomputer Vertriebs GmbH & Co.",
+              "Touch-Screen programmieren / Anzeigelisten Verkäuferpflege Test-Applikation Personalpflege Systemfehler PLU Preisliste Touch-Screen kalibrieren PLU Inventur Mirror-Check Beilagen-Zuordnung Urladen Rezeptur Datei-Info / Shut down Farbprogrammierung Datenträger Ordergruppenprogrammierung Promotionen Verbundsystem Bezuschussung © 2010 SCHULTES Microcomputer Vertriebs GmbH & Co. KG Stand Juli 2010... Nach Überprüfung der eingegebenen Daten wird der Wareneingang 5 Übernehmen verbucht. In Verbindung mit PCKasse V.5 Wenn in PCKasse V5 die Option Lagerbestandspflege am PC gesetzt ist, darf an der Kasse kein Wareneingang gebucht werden."
+            ],
+            "description": "Router PCKasse <strong>Die Verbindung von der Kasse, und anderen Geräten aus dem Hause SCHULTES, ist jedoch immer das Ethernet</strong>. Jedes Gerät im Netzwerk erhält bereits bei der Herstellung eine nicht mehr änderbare Node-Adress (auch MAC Adresse), die weltweit nur einmal vorkommt."
+          },
+          "xfutdGDn": {
+            "url": "https://support.possum.eu/archiv/anleitungen/schultes-kassensysteme-anleitungen",
+            "date": null,
+            "rank": 1,
+            "title": "Schultes Kassensysteme Anleitungen",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/99-XazpPKffFg-I2Px_up32xG6oni7SlYtOoLNBt9Ek/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWFkOWJjYjQ1/MmM4ZGQ5MTM0OTQw/MGQ0ZDBmMTgxMDZh/YmI0NmQ3Mzg0YjQw/M2MyOTEyMjBjNjZj/ZjIyNmZhYS9zdXBw/b3J0LnBvc3N1bS5l/dS8",
+              "thumbnail": "https://support.possum.eu/media/live/possum-only-logo-v10.png"
+            },
+            "snippets": [
+              "POSSUM Helpcenter › Archiv › Anleitungen › Schultes Kassensysteme Anleitungen · Letzte Aktualisierung des Artikels: 11.08.2026 · Hier finden Sie zahlreiche Anleitungen, Bedienungsanleitungen und Downloads für Schultes Kassensysteme. Die Dokumente wurden uns direkt von Schultes zur Verfügung gestellt.",
+              "POSSUM Helpcenter › Archiv › Anleitungen › Schultes Kassensysteme Anleitungen · Letzte Aktualisierung des Artikels: 11.08.2026 · Hier finden Sie zahlreiche Anleitungen, Bedienungsanleitungen und Downloads für Schultes Kassensysteme. Die Dokumente wurden uns direkt von Schultes zur Verfügung gestellt.",
+              "Ältere, hier nicht ausdrücklich als aktuelle Systeme aufgeführte Kassensysteme, wie beispielsweise Modelle der Schultes S-560 und S-600 Reihe, erfüllen nicht die aktuellen Anforderungen der GoBD und der Kassensicherungsverordnung.",
+              "Sie dürfen daher in Deutschland nicht mehr als gesetzeskonforme Kassensysteme eingesetzt werden. Bitte nehmen Sie Kontakt mit uns auf. Gerne beraten wir Sie zu einem aktuellen Schultes Kassensystem, das die geltenden gesetzlichen Anforderungen erfüllt.",
+              "Weitere Informationen finden Sie auf unserer Website unter Schultes Kassensysteme."
+            ],
+            "description": "POSSUM Helpcenter › Archiv › Anleitungen › Schultes Kassensysteme Anleitungen · Letzte Aktualisierung des Artikels: 11.08.2026 · Hier finden Sie zahlreiche Anleitungen, Bedienungsanleitungen und Downloads für Schultes Kassensysteme. Die Dokumente wurden uns direkt von Schultes zur Verfügung gestellt."
+          }
+        },
+        "isInterrupted": false,
+        "publicArguments": "Schultes Kassensystem WLAN Verbindung Anleitung 2026",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Um eine Kasse von Schultes mit dem WLAN zu verbinden, gibt es einige wichtige Punkte zu beachten. Laut den verfügbaren Informationen wird die Verbindung von Schultes-Kassensystemen (z. B. der S-600 Reihe) in der Regel über **Ethernet** hergestellt. Jedes Gerät im Netzwerk erhält eine einzigartige MAC-Adresse, und die Verbindung erfolgt meist über ein Netzwerkkabel (z. B. RJ-45) zu einem Router, Switch oder einer Netzwerkdose. Eine direkte WLAN-Verbindung wird in den offiziellen Anleitungen nicht explizit erwähnt, was darauf hindeutet, dass viele Schultes-Kassen standardmäßig keine WLAN-Funktionalität haben, sondern auf kabelgebundene Netzwerke setzen",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "wli1Uij9"
+        ]
+      },
+      {
+        "text": ".\n\nFalls deine Kasse WLAN-fähig ist (z. B. bei neueren Modellen oder mit zusätzlicher Hardware), solltest du die spezifische Bedienungsanleitung für dein Modell prüfen. Auf den folgenden Seiten findest du offizielle Anleitungen und Downloads für Schultes-Kassensysteme, die dir weiterhelfen könnten:\n- [POSSUM Helpcenter – Schultes Kassensysteme Anleitungen](https://support.possum.eu/de/article/schultes-kassensysteme-anleitungen-downloads-1zudxo/)",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "xfutdGDn",
+          "lgUf3Vvm"
+        ]
+      },
+      {
+        "text": "\n- [ManualsLib – Schultes Anleitungen](https://www.manualslib.de/brand/schultes/)",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "lWEhdFv2"
+        ]
+      },
+      {
+        "text": "\n\nFalls dein Modell keine WLAN-Unterstützung hat, könntest du einen **WLAN-zu-Ethernet-Adapter** (z. B. einen WiFi-Extender mit Ethernet-Port) verwenden, um die Kasse indirekt über WLAN anzubinden.\n\nMöchtest du Hilfe bei der Auswahl eines passenden Adapters oder bei der Suche nach einer spezifischen Anleitung für dein Modell?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-09-15T13:49:16.233Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1789480156247,
+        "completedAtMs": 1789480168734,
+        "firstTokenAtMs": 1789480159325,
+        "generationStats": {
+          "outputTokens": 442,
+          "completionCount": 1,
+          "generationDurationMs": 9066,
+          "outputTokensPerSecond": 48.75358482241341
+        },
+        "timeToFirstTokenMs": 3078,
+        "completionDurationMs": 12487,
+        "userMessageCreatedToCompletionMs": 13861
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "web_search"
+        ],
+        "integrationNames": [
+          "web_search"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  }
+]

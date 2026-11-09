@@ -1,0 +1,123 @@
+[
+  {
+    "id": "632d2b9f-095a-4bc3-b211-a16da9e7a84a",
+    "version": 0,
+    "chatId": "99860f4c-5b8c-4276-afc4-dea49e487beb",
+    "content": "wie sieht die Rechnung aus wenn wir nur von 230V pro Phase ausgehen ?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-08-18T10:10:05.445Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "51401228-daab-4130-aa32-76a4431b25ed",
+    "version": 0,
+    "chatId": "99860f4c-5b8c-4276-afc4-dea49e487beb",
+    "content": "### 🔌 Berechnung der Gesamtleistung für Ihr Rack\n\n**Annahmen:**\n- **4 PDUs** (Power Distribution Units)\n- Jede PDU stellt **3 Phasen à 63A** bereit\n- **Spannung:** 400V (Standard in Deutschland für Dreiphasen-Wechselstrom, 3P + N + PE)\n\n---\n\n#### 1. **Leistung pro Phase berechnen**\nDie Leistung einer Phase berechnet sich nach:\n**P = U × I × √3** (für Dreiphasen-Wechselstrom)\n\n- **U (Spannung):** 400V\n- **I (Strom):** 63A\n- **√3 (Wurzel aus 3):** ~1,732\n\n**P pro Phase = 400V × 63A × 1,732 ≈ 43,9 kW**\n\n---\n\n#### 2. **Leistung pro PDU berechnen**\nDa jede PDU **3 Phasen** bereitstellt, gilt:\n**P pro PDU = 3 × 43,9 kW ≈ 131,7 kW**\n\n---\n---\n#### 3. **Gesamtleistung für 4 PDUs**\n**P gesamt = 4 × 131,7 kW ≈ 526,8 kW**\n\n---\n\n### 📌 Ergebnis\n✅ **Sie können maximal ~527 kW (Kilowatt) in Ihrem Rack bereitstellen.**\n\n---\n### ⚠️ Wichtige Hinweise:\n1. **Sicherheitsabstand:** In der Praxis sollten Sie **mindestens 20% Reserve** einplanen, um Überlastungen zu vermeiden.\n   → **Empfohlene Nutzung:** ~421 kW (80% von 527 kW).\n\n2. **Temperatur und Umgebungsbedingungen:** Hohe Lasten können zu Wärmeentwicklung führen. Stellen Sie sicher, dass die Kühlung im Rack ausreicht.\n\n3. **PDU-Spezifikationen prüfen:** Manche PDUs haben interne Begrenzungen (z. B. max. 32A pro Steckdose). Überprüfen Sie die technischen Daten Ihrer PDUs.\n\n4. **Stromversorgung des Gebäudes:** Stellen Sie sicher, dass die **Hauptstromversorgung** (z. B. Unterverteilung) die 527 kW überhaupt bereitstellen kann.\n\n---\n### 🔍 Beispielrechnung für 80% Auslastung\n| PDU | Phasen | Strom pro Phase | Leistung pro PDU | Gesamtleistung (80%) |\n|-----|--------|------------------|-------------------|----------------------|\n| 1   | 3      | 63A              | 131,7 kW          | **105,4 kW**         |\n| 2   | 3      | 63A              | 131,7 kW          | **105,4 kW**         |\n| 3   | 3      | 63A              | 131,7 kW          | **105,4 kW**         |\n| 4   | 3      | 63A              | 131,7 kW          | **105,4 kW**         |\n| **Summe** | **12** | **252A** | **526,8 kW** | **~421,6 kW** |",
+    "contentChunks": [
+      {
+        "text": "### 🔌 Berechnung der Gesamtleistung für Ihr Rack\n\n**Annahmen:**\n- **4 PDUs** (Power Distribution Units)\n- Jede PDU stellt **3 Phasen à 63A** bereit\n- **Spannung:** 400V (Standard in Deutschland für Dreiphasen-Wechselstrom, 3P + N + PE)\n\n---\n\n#### 1. **Leistung pro Phase berechnen**\nDie Leistung einer Phase berechnet sich nach:\n**P = U × I × √3** (für Dreiphasen-Wechselstrom)\n\n- **U (Spannung):** 400V\n- **I (Strom):** 63A\n- **√3 (Wurzel aus 3):** ~1,732\n\n**P pro Phase = 400V × 63A × 1,732 ≈ 43,9 kW**\n\n---\n\n#### 2. **Leistung pro PDU berechnen**\nDa jede PDU **3 Phasen** bereitstellt, gilt:\n**P pro PDU = 3 × 43,9 kW ≈ 131,7 kW**\n\n---\n---\n#### 3. **Gesamtleistung für 4 PDUs**\n**P gesamt = 4 × 131,7 kW ≈ 526,8 kW**\n\n---\n\n### 📌 Ergebnis\n✅ **Sie können maximal ~527 kW (Kilowatt) in Ihrem Rack bereitstellen.**\n\n---\n### ⚠️ Wichtige Hinweise:\n1. **Sicherheitsabstand:** In der Praxis sollten Sie **mindestens 20% Reserve** einplanen, um Überlastungen zu vermeiden.\n   → **Empfohlene Nutzung:** ~421 kW (80% von 527 kW).\n\n2. **Temperatur und Umgebungsbedingungen:** Hohe Lasten können zu Wärmeentwicklung führen. Stellen Sie sicher, dass die Kühlung im Rack ausreicht.\n\n3. **PDU-Spezifikationen prüfen:** Manche PDUs haben interne Begrenzungen (z. B. max. 32A pro Steckdose). Überprüfen Sie die technischen Daten Ihrer PDUs.\n\n4. **Stromversorgung des Gebäudes:** Stellen Sie sicher, dass die **Hauptstromversorgung** (z. B. Unterverteilung) die 527 kW überhaupt bereitstellen kann.\n\n---\n### 🔍 Beispielrechnung für 80% Auslastung\n| PDU | Phasen | Strom pro Phase | Leistung pro PDU | Gesamtleistung (80%) |\n|-----|--------|------------------|-------------------|----------------------|\n| 1   | 3      | 63A              | 131,7 kW          | **105,4 kW**         |\n| 2   | 3      | 63A              | 131,7 kW          | **105,4 kW**         |\n| 3   | 3      | 63A              | 131,7 kW          | **105,4 kW**         |\n| 4   | 3      | 63A              | 131,7 kW          | **105,4 kW**         |\n| **Summe** | **12** | **252A** | **526,8 kW** | **~421,6 kW** |",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-08-18T10:08:40.096Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1787047720108,
+        "completedAtMs": 1787047732034,
+        "firstTokenAtMs": 1787047725477,
+        "generationStats": {
+          "outputTokens": 777,
+          "completionCount": 1,
+          "generationDurationMs": 6328,
+          "outputTokensPerSecond": 122.78761061946902
+        },
+        "timeToFirstTokenMs": 5369,
+        "completionDurationMs": 11926,
+        "userMessageCreatedToCompletionMs": 12382
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [],
+        "integrationNames": []
+      }
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "9d5572ad-1e6d-4b84-8e71-d97c9fc3f050",
+    "version": 0,
+    "chatId": "99860f4c-5b8c-4276-afc4-dea49e487beb",
+    "content": "wieviel leistung kann ich in einem Rack mit 4 PDUs bereitstellen wenn jede der PDUs 3Pahsen 63A bereit stellt ",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-08-18T10:08:39.652Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "558e7daf-26d7-4f6d-a8b2-d70322961980",
+    "version": 0,
+    "chatId": "99860f4c-5b8c-4276-afc4-dea49e487beb",
+    "content": "### 🔌 **Berechnung bei 230V pro Phase (Einphasen-Betrachtung)**\n\n**Annahmen:**\n- **4 PDUs** mit jeweils **3 Phasen à 63A**\n- **Spannung pro Phase:** 230V (Einphasen-Wechselstrom, z. B. für Steckdosen in Deutschland)\n- **Keine Dreiphasen-Berechnung**, sondern **pro Phase einzeln** (da 230V typischerweise Einphasen-Spannung ist).\n\n---\n\n---\n\n### 📐 **Schritt-für-Schritt-Rechnung**\n\n#### 1. **Leistung pro Phase berechnen**\n**P = U × I**\n- **U (Spannung):** 230V\n- **I (Strom):** 63A\n\n**P pro Phase = 230V × 63A = 14.490 W ≈ 14,49 kW**\n\n---\n\n#### 2. **Leistung pro PDU berechnen**\nJede PDU hat **3 Phasen**, also:\n**P pro PDU = 3 × 14,49 kW ≈ 43,47 kW**\n\n---\n---\n#### 3. **Gesamtleistung für 4 PDUs**\n**P gesamt = 4 × 43,47 kW ≈ 173,88 kW**\n\n---\n---\n### ✅ **Ergebnis**\n| Parameter               | Wert          |\n|-------------------------|---------------|\n| **Leistung pro Phase**  | **14,49 kW**  |\n| **Leistung pro PDU**    | **43,47 kW**  |\n| **Gesamtleistung (4 PDUs)** | **~173,9 kW** |\n\n---\n---\n### ⚠️ **Wichtige Hinweise**\n1. **Praktische Nutzung:**\n   - **Empfohlene Auslastung:** ~80% → **~139 kW** (um Überlastung zu vermeiden).\n   - **Sicherheitsreserve:** Immer prüfen, ob die **Hauptstromversorgung** (z. B. Sicherungen, Kabelquerschnitte) die Last tragen kann.\n\n2. **Dreiphasen vs. Einphasen:**\n   - Bei **230V pro Phase** handelt es sich um **Einphasen-Betrieb** (z. B. für Steckdosen).\n   - Falls die PDUs **Dreiphasen-Wechselstrom (400V)** liefern, gilt die [vorherige Berechnung](#wie-viel-leistung-kann-ich-in-einem-rack-mit-4-pdus-bereitstellen-wenn-jede-der-pdus-3phasen-63a-bereit-stellt) mit **~527 kW**.\n\n3. **Steckdosen-Typen:**\n   - **Schuko (230V, 16A):** Max. **3,68 kW pro Steckdose** (230V × 16A).\n   - **CEE 32A (230V):** Max. **7,36 kW pro Steckdose** (230V × 32A).\n   - **CEE 63A (230V):** Max. **14,49 kW pro Steckdose** (230V × 63A).\n\n---\n### 🔍 **Zusammenfassungstabelle**\n| PDU | Phasen | Strom pro Phase | Leistung pro Phase | Leistung pro PDU | **Gesamt (80% Auslastung)** |\n|-----|--------|------------------|---------------------|-------------------|-----------------------------|\n| 1   | 3      | 63A              | 14,49 kW            | 43,47 kW          | **34,78 kW**                |\n| 2   | 3      | 63A              | 14,49 kW            | 43,47 kW          | **34,78 kW**                |\n| 3   | 3      | 63A              | 14,49 kW            | 43,47 kW          | **34,78 kW**                |\n| 4   | 3      | 63A              | 14,49 kW            | 43,47 kW          | **34,78 kW**                |\n| **Summe** | **12** | **756A** | **173,88 kW** | **173,88 kW** | **~139,1 kW** |",
+    "contentChunks": [
+      {
+        "text": "### 🔌 **Berechnung bei 230V pro Phase (Einphasen-Betrachtung)**\n\n**Annahmen:**\n- **4 PDUs** mit jeweils **3 Phasen à 63A**\n- **Spannung pro Phase:** 230V (Einphasen-Wechselstrom, z. B. für Steckdosen in Deutschland)\n- **Keine Dreiphasen-Berechnung**, sondern **pro Phase einzeln** (da 230V typischerweise Einphasen-Spannung ist).\n\n---\n\n---\n\n### 📐 **Schritt-für-Schritt-Rechnung**\n\n#### 1. **Leistung pro Phase berechnen**\n**P = U × I**\n- **U (Spannung):** 230V\n- **I (Strom):** 63A\n\n**P pro Phase = 230V × 63A = 14.490 W ≈ 14,49 kW**\n\n---\n\n#### 2. **Leistung pro PDU berechnen**\nJede PDU hat **3 Phasen**, also:\n**P pro PDU = 3 × 14,49 kW ≈ 43,47 kW**\n\n---\n---\n#### 3. **Gesamtleistung für 4 PDUs**\n**P gesamt = 4 × 43,47 kW ≈ 173,88 kW**\n\n---\n---\n### ✅ **Ergebnis**\n| Parameter               | Wert          |\n|-------------------------|---------------|\n| **Leistung pro Phase**  | **14,49 kW**  |\n| **Leistung pro PDU**    | **43,47 kW**  |\n| **Gesamtleistung (4 PDUs)** | **~173,9 kW** |\n\n---\n---\n### ⚠️ **Wichtige Hinweise**\n1. **Praktische Nutzung:**\n   - **Empfohlene Auslastung:** ~80% → **~139 kW** (um Überlastung zu vermeiden).\n   - **Sicherheitsreserve:** Immer prüfen, ob die **Hauptstromversorgung** (z. B. Sicherungen, Kabelquerschnitte) die Last tragen kann.\n\n2. **Dreiphasen vs. Einphasen:**\n   - Bei **230V pro Phase** handelt es sich um **Einphasen-Betrieb** (z. B. für Steckdosen).\n   - Falls die PDUs **Dreiphasen-Wechselstrom (400V)** liefern, gilt die [vorherige Berechnung](#wie-viel-leistung-kann-ich-in-einem-rack-mit-4-pdus-bereitstellen-wenn-jede-der-pdus-3phasen-63a-bereit-stellt) mit **~527 kW**.\n\n3. **Steckdosen-Typen:**\n   - **Schuko (230V, 16A):** Max. **3,68 kW pro Steckdose** (230V × 16A).\n   - **CEE 32A (230V):** Max. **7,36 kW pro Steckdose** (230V × 32A).\n   - **CEE 63A (230V):** Max. **14,49 kW pro Steckdose** (230V × 63A).\n\n---\n### 🔍 **Zusammenfassungstabelle**\n| PDU | Phasen | Strom pro Phase | Leistung pro Phase | Leistung pro PDU | **Gesamt (80% Auslastung)** |\n|-----|--------|------------------|---------------------|-------------------|-----------------------------|\n| 1   | 3      | 63A              | 14,49 kW            | 43,47 kW          | **34,78 kW**                |\n| 2   | 3      | 63A              | 14,49 kW            | 43,47 kW          | **34,78 kW**                |\n| 3   | 3      | 63A              | 14,49 kW            | 43,47 kW          | **34,78 kW**                |\n| 4   | 3      | 63A              | 14,49 kW            | 43,47 kW          | **34,78 kW**                |\n| **Summe** | **12** | **756A** | **173,88 kW** | **173,88 kW** | **~139,1 kW** |",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-08-18T10:10:05.673Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1787047805695,
+        "completedAtMs": 1787047838863,
+        "firstTokenAtMs": 1787047830893,
+        "generationStats": {
+          "outputTokens": 1072,
+          "completionCount": 1,
+          "generationDurationMs": 7896,
+          "outputTokensPerSecond": 135.76494427558256
+        },
+        "timeToFirstTokenMs": 25198,
+        "completionDurationMs": 33168,
+        "userMessageCreatedToCompletionMs": 33418
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [],
+        "integrationNames": []
+      }
+    },
+    "canvas": [],
+    "files": []
+  }
+]

@@ -1,0 +1,350 @@
+[
+  {
+    "id": "d336cf0d-bc7c-439a-b56f-bf625b405508",
+    "version": 0,
+    "chatId": "1d10baf2-b9da-45c1-853a-50d9ea2a3845",
+    "content": "Disneyplus Error Code 73",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-07-26T17:24:57.112Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "4704ae12-854e-42a9-af6a-9fd52140d6c0",
+    "version": 0,
+    "chatId": "1d10baf2-b9da-45c1-853a-50d9ea2a3845",
+    "content": "The **Disney+ Error Code 73** typically means that Disney+ believes you are trying to access the service from a country or region where it is currently unavailable, or that your connection is being routed through a VPN, proxy, or IP anonymizer. This error can also occur if Disney+ mistakenly detects your location as outside its service area, even if you are in a supported region.\n\n**Common causes:**\n- Using a VPN, proxy, or IP anonymizer.\n- Disney+ detecting your IP address as being in an unsupported region.\n- Poor or unstable internet connection, or issues with your router or device settings.\n\n**How to fix it:**\n- **Disable your VPN or proxy** if you are using one.\n- **Restart your device and router** to refresh your connection.\n- **Check your location settings** and ensure your device is not set to a region where Disney+ is unavailable.\n- **Try disabling IPv6** on your router, as some users have reported this resolves the issue.\n- **Contact Disney+ support** if the error persists, as it may be a temporary issue with their servers or your account.\n\nWould you like help troubleshooting a specific device or connection setup?",
+    "contentChunks": [
+      {
+        "id": "d9NTaNr4Y",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1785086701565,
+        "success": true,
+        "toolType": "rag",
+        "startTime": 1785086699747,
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "ar": "البحث على الويب",
+            "de": "Websuche",
+            "en": "Web Search",
+            "es": "Búsqueda web",
+            "fr": "Recherche Web",
+            "it": "Ricerca web",
+            "nl": "Webzoeken",
+            "pl": "Wyszukiwanie w sieci",
+            "pt-BR": "Pesquisa na web"
+          }
+        },
+        "customLocale": {
+          "done_description": {
+            "en": "web_search"
+          },
+          "working_description": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "7EPR7B2O": {
+            "url": "https://help.disneyplus.com/csp?id=csp_article_content&article=error-73",
+            "date": null,
+            "rank": 6,
+            "title": "Disneyplus",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/hH8xlxwMbUgj1COWN6UbCgYAxRO62B09JucuJPNGZKM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTc1ZGQ5NjJh/NTg0YTg0MzhhN2Ri/ZGI3ZWMxOTRiZTRj/Y2M0ZTU3NjlhNTZm/Mzg4YTEzMjRlNjVl/MzEyNTJjZi9oZWxw/LmRpc25leXBsdXMu/Y29tLw",
+              "thumbnail": "https://help.disneyplus.com/sfsites/c/resource/dtcvx_supportAssets/Disney/meta/disney_plus_card.png?fc9c5470a7"
+            },
+            "snippets": [
+              "We cannot provide a description for this page right now"
+            ],
+            "description": "We cannot provide a description for this page right now"
+          },
+          "7pwuSagd": {
+            "url": "https://www.softwarehubs.com/troubleshooting/code-73.html",
+            "date": null,
+            "rank": 7,
+            "title": "How to Resolve Disney Plus Error Code 73 [Updated Guide] - SOFTWAREHUBS.COM",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/W57IYmVZAJx9ahlZtKpfq90VlairXolgSyRYK8x9c80/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTcyZDgyYmU0/NDEzN2YzMjBmNzRi/MjFmYjM2ZTAxMDJm/MDBkYzg5N2RiNGU5/NDExNWQ5NTU2YTA5/YTFmMDI4My93d3cu/c29mdHdhcmVodWJz/LmNvbS8",
+              "thumbnail": "https://www.softwarehubs.com/storage/2021/03/softwarehubs-com-homepage.png"
+            },
+            "snippets": [
+              "Close and reopen the Disney Plus app or refresh your browser page and try streaming again. Sometimes, <strong>a weak or unstable internet connection</strong> can trigger Error Code 73.",
+              "clear cache Code 73 Disney Plus Support Error Code 73 internet connection isney Plus Location Settings Proxy Issues Streaming Problems VPN issues · Subscribe · Login · 0 Comments · Oldest · Newest Most Voted · Brigette Elmslie · 1 year ago · Hello softwarehubs.com administrator, Thanks for the well-organized and comprehensive post! 1 · Reply · Close sidebar × · The Best Microsoft Excel Keyboard Shortcuts for Productivity – 2026 ·",
+              "Disney Plus has become a go-to streaming service for millions, offering a vast library of movies and shows. However, users may encounter the frustrating Error Code 73, which typically indicates a location-based issue. This error usually occurs when Disney Plus detects that you are in a region where the service is not available.",
+              "This can happen if you are using a VPN, proxy, or if Disney Plus mistakenly detects your location as being outside of its service area. One of the most common reasons for Error Code 73 is the use of a VPN or proxy.",
+              "Close and reopen the Disney Plus app or refresh your browser page and try streaming again. Sometimes, a weak or unstable internet connection can trigger Error Code 73."
+            ],
+            "description": "Close and reopen the Disney Plus app or refresh your browser page and try streaming again. Sometimes, <strong>a weak or unstable internet connection</strong> can trigger Error Code 73."
+          },
+          "CCNfZPYg": {
+            "url": "https://help.disneyplus.com/article/disneyplus-error-73",
+            "date": null,
+            "rank": 0,
+            "title": "Error Code 73: ”This content isn't available to watch in your ...",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/hH8xlxwMbUgj1COWN6UbCgYAxRO62B09JucuJPNGZKM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTc1ZGQ5NjJh/NTg0YTg0MzhhN2Ri/ZGI3ZWMxOTRiZTRj/Y2M0ZTU3NjlhNTZm/Mzg4YTEzMjRlNjVl/MzEyNTJjZi9oZWxw/LmRpc25leXBsdXMu/Y29tLw",
+              "thumbnail": "https://help.disneyplus.com/sfsites/c/resource/dtcvx_supportAssets/Disney/meta/disney_plus_card.png?fc9c5470a7"
+            },
+            "snippets": [
+              "We cannot provide a description for this page right now"
+            ],
+            "description": "We cannot provide a description for this page right now"
+          },
+          "CmubZkFu": {
+            "url": "https://www.justanswer.com/computer/rl2cb-it-s-tv-sudden-showing-error-73-disney.html",
+            "date": null,
+            "rank": 9,
+            "title": "Fix Error 73 on Disney+ | Quick TV Troubleshooting Tips",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/v3rAlO-BYdm-N5_Ce-WfwJSeL7Tr5r-1VnIWustm5L0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWU2M2RjZjM5/MGU0ODIxMmVlODg2/YWRlOTkzZmZjNWZm/OTQwNGIyMjVhYTc0/YzlhYTlkNjdlNGFj/NWViOTlkNi93d3cu/anVzdGFuc3dlci5j/b20v",
+              "thumbnail": "https://www.justanswer.com/img/box_logo.jpg"
+            },
+            "snippets": [
+              "Error 73 <strong>typically indicates a connection issue between the app and Disney&#x27;s servers</strong>, so these steps should help restore proper functionality. ... Its not working. My is, Error code 73, Call me at",
+              "If these steps don't resolve the error, you may need to uninstall and reinstall the Disney+ app on your Now Box. Error 73 typically indicates a connection issue between the app and Disney's servers, so these steps should help restore proper functionality. ... Its not working. My is, Error code 73, Call me at",
+              "I can’t watch program on Disney+. Error code APPS 04036, TV, Not sure. Can I speak with someone? When I tried to watch a · Cancel subscription Disney+ On my tv. Roku. Disney. When they suspended Jimmy Kimmel. Phone call ... Error 73 often appears during Disney+ streaming; app crashes or connectivity issues are common with this model.",
+              "Customer: It's my TV all of a sudden it is showing me error 73 Disney+ Technician's Assistant: I understand you're experiencing an issue with your TV displaying error 73 on Disney+. Could you please let me know the model of your TV and if you've tried any troubleshooting steps so far?",
+              "Could you clarify if the Now Box is connected to the TV when you're trying to access Disney+, and have you attempted any troubleshooting steps with the Now Box itself? Customer: I turned off then on and still.yes it is connected to the tv Technician's Assistant: <p>Thank you for providing those details. Let me help you resolve Error 73 on Disney+ through your Now Box."
+            ],
+            "description": "Error 73 <strong>typically indicates a connection issue between the app and Disney&#x27;s servers</strong>, so these steps should help restore proper functionality. ... Its not working. My is, Error code 73, Call me at"
+          },
+          "L4LVoAEv": {
+            "url": "https://www.reddit.com/r/DisneyPlus/comments/1m2lpaq/fix_found_for_error_73_region_errorvpnproxy/",
+            "date": null,
+            "rank": 1,
+            "title": "r/DisneyPlus on Reddit: Fix found for: Error 73 region error\\vpn\\proxy, showing wrong language at login",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+              "thumbnail": "https://www.redditstatic.com/icon.png"
+            },
+            "snippets": [
+              "TL;DR: If disney blocks your public\\WAN IP, just change your wan mac to get a new wan IP. Here&#x27;s a fix if you get this error, and are in the USA and…",
+              "Posted by u/01011110101101010010 - 9 votes and 7 comments",
+              "I got a new router, then disney plus didn't work on my wifi (but worked using cell service). At login, I would get error 73 on my firetv, and got Japanese language characters on my laptop.",
+              "It seems that disney's Geo IP location data is really bad. I mean, even when I connect using my cell phone, it says I'm in the Bronx, NY, instead of Virginia... Archived post. New comments cannot be posted and votes cannot be cast. Share ... do you know how to fix it on a roku tv? i’m in the uk and keep getting the error code 73, but i’ve made no changes to my tv and disney support was no help and wouldn’t connect me to a human",
+              "Disabled ipv6 and disney plus worked right away. Might have fixed paramount too · Thank you! Google picked your thread first and it worked like magic · Error: Chrome persistently redirecting to HTTPS for HTTP site, code 400, message Bad request version."
+            ],
+            "description": "TL;DR: If disney blocks your public\\WAN IP, just change your wan mac to get a new wan IP. Here&#x27;s a fix if you get this error, and are in the USA and…"
+          },
+          "WXepw1ka": {
+            "url": "https://www.justanswer.com/computer/n9e77-i-m-getting-error-code-73-when-turn-disney-i-ve.html",
+            "date": null,
+            "rank": 3,
+            "title": "How to Fix Disney Plus Error Code 73: Expert Solutions",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/v3rAlO-BYdm-N5_Ce-WfwJSeL7Tr5r-1VnIWustm5L0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWU2M2RjZjM5/MGU0ODIxMmVlODg2/YWRlOTkzZmZjNWZm/OTQwNGIyMjVhYTc0/YzlhYTlkNjdlNGFj/NWViOTlkNi93d3cu/anVzdGFuc3dlci5j/b20v",
+              "thumbnail": "https://www.justanswer.com/img/box_logo.jpg"
+            },
+            "snippets": [
+              "The error code 73 on Disney+ indicates that <strong>you are trying to access the service from a country or region where it is currently unavailable</strong>. If you have been using a VPN to access region-locked content, this is likely the cause of the error.",
+              "How to Fix Disney Plus Error Code 73: Expert Solutions",
+              "Customer: I'm encountering error code 73 when I try to access Disney+. I've had a subscription for years. Technician's Assistant: Okay, I'll connect you to the Computer Expert who can assist you. Just to confirm, are you the only one with access to this Disney+ account?",
+              "The error code 73 on Disney+ indicates that you are trying to access the service from a country or region where it is currently unavailable. If you have been using a VPN to access region-locked content, this is likely the cause of the error.",
+              "Error code 73 on Disney+ typically indicates a network connectivity or device authorization problem. First, restart your streaming device and router to refresh connections. Ensure your device’s software and the Disney+ app are updated to the latest versions."
+            ],
+            "description": "The error code 73 on Disney+ indicates that <strong>you are trying to access the service from a country or region where it is currently unavailable</strong>. If you have been using a VPN to access region-locked content, this is likely the cause of the error."
+          },
+          "d0vi7dfA": {
+            "url": "https://baizaar.tools/disney-plus-error-73-vpn-blocked-2026/",
+            "date": null,
+            "rank": 5,
+            "title": "Disney Plus Error 73: The Proven VPN Fix for 2026 - BAIZAAR",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/iLV1Re2G1BktUqS6hiRUUXOuieYbO-2JDj_-7BQfqw4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODg4M2Q3ZTBh/YTYwZmZiYjM4Nzdl/YmVhMWQ2YjkyOTQx/NGM2NWMwMDgyM2Qy/ZjY2MjNiN2IwZTk2/OTUyZTBmMy9iYWl6/YWFyLnRvb2xzLw",
+              "thumbnail": "https://mlucw69fbmw4.i.optimole.com/cb:sqX_.3d7/w:1280/h:720/q:mauto/f:best/https://baizaar.tools/wp-content/uploads/2026/07/disney-plus-error-73-frustrated-viewer-2026.webp"
+            },
+            "snippets": [
+              "The issue you’re facing with the Disney Plus Error 73, is that it fires the moment Disney+’s system “decides” your connection looks off, either because you are outside a supported region or because it has caught a VPN. Disney’s own official help documentation confirms this outright, listing VPN or IP anonymiser use as a direct trigger alongside genuine regional unavailability. This is not a stray bug rattling around in a codebase.",
+              "If you are already reaching for Proton VPN Plus purely to sort out Disney Plus Error 73, it is worth a two-minute detour before you check out. Proton Unlimited bundles VPN together with Proton Mail+, Proton Drive+ and Proton Pass+ under one subscription (+Lumo AI) If you are also eyeing up a separate password manager or extra encrypted cloud storage, the bundle typically works out cheaper than buying all three pieces individually. Our full breakdown of Proton Mail’s 2026 pricing tiers shows where those savings stack up if you want the maths laid bare.",
+              "The issue you’re facing with the Disney Plus Error 73, is that it fires the moment Disney+’s system “decides” your connection looks off, either because you are outside a supported region or because it has caught a VPN. Disney’s own official help documentation confirms this outright, listing VPN or IP anonymiser use as a direct trigger alongside genuine regional unavailability. This is not a stray bug rattling around in a codebase.",
+              "Standard VPN traffic gets fingerprinted regardless of server, which is why disney plus error code 73 keeps coming back.",
+              "Disney plus error 73: the proven vpn fix for 2026 4"
+            ],
+            "description": "The issue you’re facing with the Disney Plus Error 73, is that it fires the moment Disney+’s system “decides” your connection looks off, either because you are outside a supported region or because it has caught a VPN. Disney’s own official help documentation confirms this outright, listing VPN or IP anonymiser use as a direct trigger alongside genuine regional unavailability. This is not a stray bug rattling around in a codebase."
+          },
+          "ozY5yHrG": {
+            "url": "https://www.reddit.com/r/Roku/comments/1bss1sr/roku_disney_error_73/",
+            "date": null,
+            "rank": 8,
+            "title": "r/Roku on Reddit: Roku Disney + Error 73",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+              "thumbnail": "https://www.redditstatic.com/icon.png"
+            },
+            "snippets": [
+              "Starting Saturday morning. I have been getting Disney Error 73 Disney+ is only available in certain regions. Depending on where you are located, you may not be able to access Disney+. If you think you are seeing this message in error, visit the Disney+ Help Center (Error Code 73)",
+              "Starting Saturday morning. I have been getting Disney Error 73 Disney+ is only available in certain regions. Depending on where you are located, you…",
+              "Starting Saturday morning. I have been getting Disney Error 73 Disney+ is only available in certain regions. Depending on where you are located, you may not be able to access Disney+. If you think you are seeing this message in error, visit the Disney+ Help Center (Error Code 73)",
+              "thru the disney+ support center, i just searched error code 73 & there was a “get in touch” link at the bottom of the page",
+              "Posted by u/Totemtherapy - 3 votes and 9 comments"
+            ],
+            "description": "Starting Saturday morning. I have been getting Disney Error 73 Disney+ is only available in certain regions. Depending on where you are located, you may not be able to access Disney+. If you think you are seeing this message in error, visit the Disney+ Help Center (Error Code 73)"
+          },
+          "sEICMVSE": {
+            "url": "https://help.disneyplus.com/category/error-codes",
+            "date": null,
+            "rank": 2,
+            "title": "Error Codes | Disney+ Help Center | US",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/hH8xlxwMbUgj1COWN6UbCgYAxRO62B09JucuJPNGZKM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTc1ZGQ5NjJh/NTg0YTg0MzhhN2Ri/ZGI3ZWMxOTRiZTRj/Y2M0ZTU3NjlhNTZm/Mzg4YTEzMjRlNjVl/MzEyNTJjZi9oZWxw/LmRpc25leXBsdXMu/Y29tLw",
+              "thumbnail": "https://help.disneyplus.com/sfsites/c/resource/dtcvx_supportAssets/Disney/meta/disney_plus_card.png?fc9c5470a7"
+            },
+            "snippets": [
+              "We cannot provide a description for this page right now"
+            ],
+            "description": "We cannot provide a description for this page right now"
+          },
+          "wsGaQgfS": {
+            "url": "https://rknight.me/blog/fix-for-disney-plus-error-73/",
+            "date": null,
+            "rank": 4,
+            "title": "Fix for Disney Plus Error 73 • Robb Knight",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/2jd5fk0RWZPG4qHDIsNcUh0kzHIF4FTRA4X-1PUAUPI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQzNWM0ZmJh/MWQ0ZWNhYzEyNjU3/ZWMyZThkMzljMTdi/NzQ3ZDNhOTk0Yzli/ZWQwMWIwN2I0OTNh/YTU2NzVlYS9ya25p/Z2h0Lm1lLw",
+              "thumbnail": "https://v1.screenshot.11ty.dev/https%3A%2F%2Frknight.me%2Fopengraph%2Fblog%2Ffix-for-disney-plus-error-73%2F/opengraph/_14334"
+            },
+            "snippets": [
+              "Posted on 28th March 2026 · Today ... Apple TV. Their help article says <strong>you&#x27;re either on a VPN or &quot;Attempting to access Disney+ from a country/region where service is currently unavailable</strong>&quot; which I obviously was not...",
+              "Posted on 28th March 2026 · Today I was met with error code 73 when trying to login to Disney Plus on my Apple TV. Their help article says you're either on a VPN or \"Attempting to access Disney+ from a country/region where service is currently unavailable\" which I obviously was not.",
+              "A fix for Disney Plus error code 73"
+            ],
+            "description": "Posted on 28th March 2026 · Today ... Apple TV. Their help article says <strong>you&#x27;re either on a VPN or &quot;Attempting to access Disney+ from a country/region where service is currently unavailable</strong>&quot; which I obviously was not..."
+          }
+        },
+        "isInterrupted": false,
+        "publicArguments": "Disney Plus Error Code 73 2026",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "The **Disney+ Error Code 73** typically means that Disney+ believes you are trying to access the service from a country or region where it is currently unavailable, or that your connection is being routed through a VPN, proxy, or IP anonymizer. This error can also occur if Disney+ mistakenly detects your location as outside its service area, even if you are in a supported region",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "WXepw1ka",
+          "wsGaQgfS",
+          "d0vi7dfA",
+          "7pwuSagd"
+        ]
+      },
+      {
+        "text": ".\n\n**Common causes:**\n- Using a VPN, proxy, or IP anonymizer.\n- Disney+ detecting your IP address as being in an unsupported region.\n- Poor or unstable internet connection, or issues with your router or device settings",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "WXepw1ka",
+          "7pwuSagd",
+          "CmubZkFu"
+        ]
+      },
+      {
+        "text": ".\n\n**How to fix it:**\n- **Disable your VPN or proxy** if you are using one.\n- **Restart your device and router** to refresh your connection.\n- **Check your location settings** and ensure your device is not set to a region where Disney+ is unavailable.\n- **Try disabling IPv6** on your router, as some users have reported this resolves the issue",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "L4LVoAEv"
+        ]
+      },
+      {
+        "text": ".\n- **Contact Disney+ support** if the error persists, as it may be a temporary issue with their servers or your account.\n\nWould you like help troubleshooting a specific device or connection setup?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-07-26T17:24:58.512Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1785086698525,
+        "completedAtMs": 1785086704847,
+        "firstTokenAtMs": 1785086699747,
+        "generationStats": {
+          "outputTokens": 300,
+          "completionCount": 1,
+          "generationDurationMs": 4794,
+          "outputTokensPerSecond": 62.5782227784731
+        },
+        "timeToFirstTokenMs": 1222,
+        "completionDurationMs": 6322,
+        "userMessageCreatedToCompletionMs": 7735
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "web_search"
+        ],
+        "integrationNames": [
+          "web_search"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  }
+]

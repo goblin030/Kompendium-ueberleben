@@ -1,0 +1,326 @@
+[
+  {
+    "id": "ec357285-8001-4e4e-b6d7-506b97603a0d",
+    "version": 0,
+    "chatId": "c20da977-b3c9-4ac0-9635-d07dc0d62083",
+    "content": "Hat das Riesenrad im Plänterwald geöffnet?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-07-25T11:56:38.789Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "9700786a-9fe2-4941-baf5-4e31010c6b32",
+    "version": 0,
+    "chatId": "c20da977-b3c9-4ac0-9635-d07dc0d62083",
+    "content": "Das Riesenrad im Plänterwald (Spreepark) hat aktuell **nicht für die Öffentlichkeit geöffnet**. Die Sanierung und der Wiederaufbau des Riesenrads sind zwar abgeschlossen, aber die erste öffentliche Fahrt ist erst für das Jahr 2027 geplant, wenn der Spreepark voraussichtlich wiedereröffnet wird.\n\nFalls du vor Ort bist, kannst du das Riesenrad von außen sehen, aber es ist noch nicht in Betrieb. Möchtest du mehr über die geplanten Öffnungszeiten oder den Fortschritt der Arbeiten wissen?",
+    "contentChunks": [
+      {
+        "id": "ApuEFopXA",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1784980603685,
+        "success": true,
+        "toolType": "rag",
+        "startTime": 1784980601699,
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "ar": "البحث على الويب",
+            "de": "Websuche",
+            "en": "Web Search",
+            "es": "Búsqueda web",
+            "fr": "Recherche Web",
+            "it": "Ricerca web",
+            "nl": "Webzoeken",
+            "pl": "Wyszukiwanie w sieci",
+            "pt-BR": "Pesquisa na web"
+          }
+        },
+        "customLocale": {
+          "done_description": {
+            "en": "web_search"
+          },
+          "working_description": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "8aIEpuL4": {
+            "url": "https://www.museos.com/de/wien/riesenrad-wien/",
+            "date": null,
+            "rank": 9,
+            "title": "Das Riesenrad in Wien: Öffnungszeiten & Tickets 2026 - museos",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/_RC0SIF6-2zpzIfdj5nhkoYiUz9UotsO-OYsyH0EGPI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGE2YzhkZjc0/NjBlMDUwMzgzY2Q5/YTQ2NzAwZWFjYTk1/N2U5NmNhOGNhMzc0/ZGY1MTlmZjNjMDg4/M2NjOTM2My93d3cu/bXVzZW9zLmNvbS8",
+              "thumbnail": "https://www.museos.com/wp-content/uploads/2021/02/Prater-Riesenrad7-scaled.jpg"
+            },
+            "snippets": [
+              "Bis 1944 hat sich das Riesenrad auch gut erhalten. Durch schwere Bränden wurde es im Krieg aber nahezu vollständig zerstört – nur das Stahlgerüst blieb erhalten. Für seine Wiedereröffnung drei Jahre später wurden dann (aus Kosten- und Sicherheitsgründen) nur mehr 15, statt einst 30, Waggons ins Gerüst gehängt.",
+              "Offizielle Webseite Wiener Riesenrad (DE): www.wienerriesenrad.com · Text- und Bildrechte: © ​Céline Mülich, 2020 – 2026 Mit Unterstützung von Susanne Vukan",
+              "Mit dem Riesenrad in Wien ist es ungefähr so wie mit dem Sagrada Familia in Barcelona oder dem Eiffelturm in Paris: Man muss es gesehen haben. Diese von Grund auf unterschiedlichen Wahrzeichen haben eines ganz sicher gemeinsam: schon alleine der Anblick bringt dich zum Staunen.",
+              "Denn bis dahin war der Zutritt nur für Jagdzwecke der Kaiserfamilie zugänglich. Kurze Zeit nach dieser Eröffnung haben sich die ersten Vergnügungs-Attraktionen wie Karussells und Imbiss-Buden dort angesiedelt, sodass dieser Ort beim Volk an Beliebtheit gewann. Das im Prater stehende Riesenrad wurde 1897 zur Feier des bevorstehenden 50.",
+              "Bis 1944 hat sich das Riesenrad auch gut erhalten. Durch schwere Bränden wurde es im Krieg aber nahezu vollständig zerstört – nur das Stahlgerüst blieb erhalten. Für seine Wiedereröffnung drei Jahre später wurden dann (aus Kosten- und Sicherheitsgründen) nur mehr 15, statt einst 30, Waggons ins Gerüst gehängt."
+            ],
+            "description": "Bis 1944 hat sich das Riesenrad auch gut erhalten. Durch schwere Bränden wurde es im Krieg aber nahezu vollständig zerstört – nur das Stahlgerüst blieb erhalten. Für seine Wiedereröffnung drei Jahre später wurden dann (aus Kosten- und Sicherheitsgründen) nur mehr 15, statt einst 30, Waggons ins Gerüst gehängt."
+          },
+          "D6vlft7Q": {
+            "url": "https://www1.bwegt.de/land-und-leute/das-land-erleben/ausflugsziele/detail/nostalgie-freizeitbahn-titisee-neustadt/riesenrad/17885623-e7cf-4c90-a0a0-8c093b1c72ef",
+            "date": null,
+            "rank": 3,
+            "title": "Riesenrad / bwegt - Mobilität für Baden-Württemberg",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/ouI5RlOasRd43_nmFNgQCeEaSmNX3raYETSA9EwwRQI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDk5N2ZjYmY3/NTVmOTlmZGE3ZTNi/MThiY2QzMDFhM2Y2/NWE2YjNkNDhlNTc3/NGJiZGU3YWRkODYz/NTJlNjgyZS93d3cx/LmJ3ZWd0LmRlLw",
+              "thumbnail": "https://mein.toubiz.de/api/v1/media/a141f404-fe68-477f-80fe-7fbe913904a4/view?w=500&amp;hash=3402b4&amp;fm=jpg"
+            },
+            "snippets": [
+              "<strong>Das Riesenrad kommt voraussichtlich am 15.07.2026 wieder</strong>.",
+              "Das Riesenrad kommt voraussichtlich am 15.07.2026 wieder.",
+              "Das Riesenrad bietet Aussichtsfahrten mit traumhaften Panoramablicken auf Titisee für die ganze Familie, ohne Altersbeschränkung. Das Riesenrad ist 38 m hoch und mit 26 offenen Gondeln ausgestattet. Eine Gondel bietet Platz für max."
+            ],
+            "description": "<strong>Das Riesenrad kommt voraussichtlich am 15.07.2026 wieder</strong>."
+          },
+          "ENe3oCch": {
+            "url": "https://www.spreepark.berlin/bau-entwicklung/riesenrad/",
+            "date": null,
+            "rank": 5,
+            "title": "Sanierung des Riesenrads im Spreepark",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/_cZ7iL8IhH9sQDzaehQPHb4S7e9WUUupV0M9Y81WPeI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTVhY2Y3YjBj/YTI5YmY4MTYwNzcw/Yjk3NmVlMjI3ODU2/NDY1Zjc3ODI5OGQx/YzM1ZDgwNmE3ZGJj/ZGI1MGViOS93d3cu/c3ByZWVwYXJrLmJl/cmxpbi8",
+              "thumbnail": "https://www.spreepark.berlin/fileadmin/_processed_/8/d/csm_spreepark_riesenrad_radkranz_fertigstellung_detail_c_manuelfrauendorf_e830f08d82.jpg"
+            },
+            "snippets": [
+              "Die alten Gondeln müssen ersetzt werden, weil sie nicht sanierungsfähig waren. Nun wurde wieder eine runde Form gewählt, die sich an den Gondeln des ersten Riesenrads im Spreepark orientiert, das von 1969 bis 1989 im Plänterwald stand.",
+              "Die alten Gondeln müssen ersetzt werden, weil sie nicht sanierungsfähig waren. Nun wurde wieder eine runde Form gewählt, die sich an den Gondeln des ersten Riesenrads im Spreepark orientiert, das von 1969 bis 1989 im Plänterwald stand.",
+              "Auf vielfachen Wunsch der Bürger*innen wurde das historische Erbe des Parks im neuen Konzept aufgegriffen: So wurde das alte Riesenrad aufwendig instandgesetzt und nachhaltig transformiert. Im Herbst 2025 wurden die aufbereiteten Stützen wieder aufgestellt und der Radkranz hergestellt.",
+              "Ab September bis Anfang Oktober wurde das neue alte Riesenrad im Spreepark wiederaufgebaut. Damit hat Berlin eines seiner Wahrzeichen und der Spreepark sein weithin sichtbares Landmark zurück. Neu ist, dass das Riesenrad in einer spektakulären und weltweit einzigartigen Konstruktion nur auf einer Seite von Stützen getragen wird.",
+              "Das von realities:united und sbp schlaich bergermann partner entworfene Riesenrad ist in seiner einseitigen diagonalen Aufhängung weltweit einzigartig und erforderte in Planung und Aufbau höchste Präzision von den involvierten Ingenieur*innen und Bauarbeiter*innen."
+            ],
+            "description": "Die alten Gondeln müssen ersetzt werden, weil sie nicht sanierungsfähig waren. Nun wurde wieder eine runde Form gewählt, die sich an den Gondeln des ersten Riesenrads im Spreepark orientiert, das von 1969 bis 1989 im Plänterwald stand."
+          },
+          "IYMuKDlL": {
+            "url": "https://www.qiez.de/spreepark-plaenterwald-zwischenstand-lost-place-berlin/",
+            "date": null,
+            "rank": 8,
+            "title": "Spreepark Plänterwald: Bald dreht sich das Riesenrad wieder | QIEZ",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/R27h6YLnVEk6fVOLVDzTQ2RMw_rwuaEpuGbX6rrQG2w/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOThkYjY5OGVi/YTc2ZjM4OTE5M2Fi/ZGM2YWJjZTcxZjE3/M2ZjMDlkMWY2MDZi/YjhkM2JjNzgxZWFk/NDMxMWI4YS93d3cu/cWllei5kZS8",
+              "thumbnail": "https://www.qiez.de/app/uploads/2019/03/spreepark-riesenrad-von-oben-jaromir-kavan-211089-unsplash.jpg"
+            },
+            "snippets": [
+              "Heute ist er nur noch eine schöne Erinnerung für Berliner und ein beliebter Lost Place für Touris: der Spreepark Berlin. Seit 2001 sind seine Tore dicht. Von der Rummelsburger Bucht aus oder beim Spaziergang durch den Plänterwald sieht man sein Riesenrad aber noch immer gespenstisch im Wind drehen.",
+              "Der Spreepark in Berlin Plänterwald wird vom Lost Place zum Kultur- und Kunstpark und auch das Riesenrad soll sich bis 2024 wieder drehen …",
+              "Am 6. Juni 2026 ist es wieder so weit: Die „Lange Nacht der Wissenschaften“ lockt […]",
+              "Heute ist er nur noch eine schöne Erinnerung für Berliner und ein beliebter Lost Place für Touris: der Spreepark Berlin. Seit 2001 sind seine Tore dicht. Von der Rummelsburger Bucht aus oder beim Spaziergang durch den Plänterwald sieht man sein Riesenrad aber noch immer gespenstisch im Wind drehen.",
+              "Der Spreepark in Berlin Plänterwald wird bis 2024 vom Lost Place zum Kultur- und Kunstpark ausgebaut - inklusive Riesenrad."
+            ],
+            "description": "Heute ist er nur noch eine schöne Erinnerung für Berliner und ein beliebter Lost Place für Touris: der Spreepark Berlin. Seit 2001 sind seine Tore dicht. Von der Rummelsburger Bucht aus oder beim Spaziergang durch den Plänterwald sieht man sein Riesenrad aber noch immer gespenstisch im Wind drehen."
+          },
+          "Y3NTJl9V": {
+            "url": "https://wienerriesenrad.com/oeffnungszeiten/",
+            "date": null,
+            "rank": 2,
+            "title": "Öffnungszeiten Riesenrad - Wiener Riesenrad",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/3-8UH_2njg7edbwPuD0rkRVKzaB9swmvd8SfpANCMpI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWE5ZWYxYjQx/YjZmNjE2NDlkOTVj/M2FhNzcxZjU0NTcx/ZTcwNzJjOTVmMTE3/OWIxNjE1OTk3ZmMx/Y2Q1NGUzYy93aWVu/ZXJyaWVzZW5yYWQu/Y29tLw",
+              "thumbnail": null
+            },
+            "snippets": [
+              "Das Wiener Riesenrad ganzjährig erleben. Tickets · Öffnungs- zeiten · Heute · 25. Juni 2026 · Geöffnet <strong>09:00 – 23:45 Uhr</strong> · Ticket buchen · ‹ · › · Ticket Buchen ·",
+              "Das Wiener Riesenrad ganzjährig erleben. Tickets · Öffnungs- zeiten · Heute · 25. Juni 2026 · Geöffnet 09:00 – 23:45 Uhr · Ticket buchen · ‹ · › · Ticket Buchen ·"
+            ],
+            "description": "Das Wiener Riesenrad ganzjährig erleben. Tickets · Öffnungs- zeiten · Heute · 25. Juni 2026 · Geöffnet <strong>09:00 – 23:45 Uhr</strong> · Ticket buchen · ‹ · › · Ticket Buchen ·"
+          },
+          "Yyqn7PRP": {
+            "url": "https://umadum.info/",
+            "date": null,
+            "rank": 4,
+            "title": "umadum Riesenrad - werde zum #Aussichtsgenießer",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/jlUF6WKUuLgZQ1ycW1-DZL42t5xtIZyC3X7epVZdvik/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY2ZWNhMzk5/YTBjNjYxYmI4Mjk1/MGNhODA0NDU0MDVj/OThkMTg5MDg2MTUy/NWE5YjhkYWUzZTM0/MDM2YjIxOS91bWFk/dW0uaW5mby8",
+              "thumbnail": "http://umadum.info/wp-content/uploads/2024/02/676A0477_1920-683x1024.jpeg"
+            },
+            "snippets": [
+              "<strong>Aufgrund einer exklusiven Veranstaltung schließt das Umadum am 22.07.2026 bereits um 16:00 Uhr</strong>. Vielen Dank für Ihr Verständnis! ... Tickets sind durchgehend im Shop und zu unseren Öffnungszeiten am Riesenrad an der Kasse erhältlich Letzte ...",
+              "Aufgrund einer exklusiven Veranstaltung schließt das Umadum am 22.07.2026 bereits um 16:00 Uhr. Vielen Dank für Ihr Verständnis! ... Ich bin Umadum, das Münchner Riesenrad und durch meine Höhe von knapp 80 Metern Münchens größte Attraktion.",
+              "Aufgrund einer exklusiven Veranstaltung schließt das Umadum am 22.07.2026 bereits um 16:00 Uhr. Vielen Dank für Ihr Verständnis! ... Tickets sind durchgehend im Shop und zu unseren Öffnungszeiten am Riesenrad an der Kasse erhältlich Letzte Fahrt und Kassenschluss ist angegeben."
+            ],
+            "description": "<strong>Aufgrund einer exklusiven Veranstaltung schließt das Umadum am 22.07.2026 bereits um 16:00 Uhr</strong>. Vielen Dank für Ihr Verständnis! ... Tickets sind durchgehend im Shop und zu unseren Öffnungszeiten am Riesenrad an der Kasse erhältlich Letzte ..."
+          },
+          "ZAsM5M7P": {
+            "url": "https://riesenrad.de/faq/",
+            "date": null,
+            "rank": 7,
+            "title": "MeinRAD - Häufige Fragen zu den Erlebnissen im Riesenrad",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/B22cub_VpVQodYbhZklxK1zay4EvozW9kIT-1SgsdrU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGM4NDVhZDYx/MDk2YmRlNWFhMTZh/ZDVkOTc2Y2FjMTk0/YTExYzk0NGQxNzk0/MjgzM2Q5MDQ1YWU3/YWMzNzBhMi9yaWVz/ZW5yYWQuZGUv",
+              "thumbnail": "https://riesenrad.de/wp-content/uploads/2023/04/Riesenrad_baltica_BG.jpg"
+            },
+            "snippets": [
+              "<strong>Die Öffnungszeiten können je nach Standort abweichen</strong>. Ab 07.05.2026 bis 05.07.2026 am P1 Spitaltor in Rothenburg ob der Tauber.",
+              "Die Öffnungszeiten können je nach Standort abweichen. Ab 07.05.2026 bis 05.07.2026 am P1 Spitaltor in Rothenburg ob der Tauber."
+            ],
+            "description": "<strong>Die Öffnungszeiten können je nach Standort abweichen</strong>. Ab 07.05.2026 bis 05.07.2026 am P1 Spitaltor in Rothenburg ob der Tauber."
+          },
+          "Zhw2h12p": {
+            "url": "https://berliner-spreepark.de/project/riesenrad",
+            "date": null,
+            "rank": 1,
+            "title": "Riesenrad | Berliner Spreepark",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/1opwEjtNTFiHGbIEiNvdlCdtvYXloX2Lrwdr0WbBkz8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmIzZDViMWE1/NmNhYTc0ZDFhNDdm/M2Y2NGI5YjNlMDgz/Njg2NTViNTNhMjMz/NmQ5YTU5MzcyZDM2/NWE3YjY1Ny9iZXJs/aW5lci1zcHJlZXBh/cmsuZGUv",
+              "thumbnail": null
+            },
+            "snippets": [
+              "Seit der Eröffnung des Kulturpark 1969 ist das Riesenrad aus dem Plänterwald nicht mehr wegzudenken. In den ersten 20 Jahren stand noch ein fünf Meter kleineres Riesenrad (Hersteller Schwarzkopf) mit runden Gondeln auf dem Betonplatz, welches auch im DDR-Kultfilmklassiker »Spuk unterm ..."
+            ],
+            "description": "Seit der Eröffnung des Kulturpark 1969 ist das Riesenrad aus dem Plänterwald nicht mehr wegzudenken. In den ersten 20 Jahren stand noch ein fünf Meter kleineres Riesenrad (Hersteller Schwarzkopf) mit runden Gondeln auf dem Betonplatz, welches auch im DDR-Kultfilmklassiker »Spuk unterm ..."
+          },
+          "pOtBhdaN": {
+            "url": "https://www.freizeitparknews.de/deutschland/spreepark-berlin-riesenrad/",
+            "date": null,
+            "rank": 6,
+            "title": "Spreepark Berlin: Riesenrad kehrt zurück – erste Fahrt ab 2027 - FreizeitparkNEWS",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/_mgvjMRXMWACvGqMsk316NqkyTSMvWZPA7mblch5v9A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjZmOTg5YzFl/M2MxYzgzZjczNWQz/ZDQ0ZDVkMGRhNjgy/YWQxZmY4OTMyMWMy/OTczODNlMGZhNjc4/ZGQ4YzMyOC93d3cu/ZnJlaXplaXRwYXJr/bmV3cy5kZS8",
+              "thumbnail": "https://www.freizeitparknews.de/wp-content/uploads/2025/05/csm_spreepark_riesenrad_visualisierung_3D_gesamtansicht_c_realitiesunited_schlaichbergermannpartner_a3f4ca0b30.jpg-1200x900.webp"
+            },
+            "snippets": [
+              "Das 45 Meter hohe Riesenrad gilt als Symbol des einstigen Vergnügungsparks im Plänterwald. Die Grün Berlin GmbH, seit 2017 zuständig für das Areal, ließ die Stahlkonstruktion in den vergangenen Monaten vollständig überholen und neu aufbauen. Der Einbau der Technik und die Montage der Gondeln erfolgen bis 2026.",
+              "Nach Jahren des Stillstands steht das Riesenrad im Berliner Spreepark wieder an seinem Platz. Die aufwendige Sanierung der historischen Konstruktion markiert einen wichtigen Meilenstein auf dem Weg zur geplanten Wiedereröffnung des Parks im Frühjahr 2027. Die erste öffentliche Fahrt mit dem neuen Riesenrad ist ebenfalls für das Eröffnungsjahr geplant.",
+              "Das 45 Meter hohe Riesenrad gilt als Symbol des einstigen Vergnügungsparks im Plänterwald. Die Grün Berlin GmbH, seit 2017 zuständig für das Areal, ließ die Stahlkonstruktion in den vergangenen Monaten vollständig überholen und neu aufbauen. Der Einbau der Technik und die Montage der Gondeln erfolgen bis 2026.",
+              "Mai über den Fortschritt der Pläne zum Riesenrad berichtet. Aktuelle Fotos der Baustelle sind auf der Website von rbb24.de zu finden (aus urheberrechtlichen Gründen nicht bei uns eingebunden). Der Spreepark befindet sich im Berliner Bezirk Treptow-Köpenick, im Plänterwald direkt an der Spree.",
+              "Das ursprüngliche Riesenrad wurde 1989 zum 40. Jubiläum der DDR eröffnet und galt damals als das größte seiner Art in Europa. Bereits zuvor hatte es zwischen 1969 und 1989 ein kleineres Riesenrad im Park gegeben. Nach der Wende übernahm ein privater Betreiber das Gelände, scheiterte jedoch wirtschaftlich."
+            ],
+            "description": "Das 45 Meter hohe Riesenrad gilt als Symbol des einstigen Vergnügungsparks im Plänterwald. Die Grün Berlin GmbH, seit 2017 zuständig für das Areal, ließ die Stahlkonstruktion in den vergangenen Monaten vollständig überholen und neu aufbauen. Der Einbau der Technik und die Montage der Gondeln erfolgen bis 2026."
+          },
+          "pSkq4Fqu": {
+            "url": "https://www.visitberlin.de/de/spreepark-plaenterwald",
+            "date": null,
+            "rank": 0,
+            "title": "Spreepark Plänterwald in Berlin | visitBerlin.de",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/EL4d_OT73N6hNaITYuJJ6zkEtjpGfOPqC2ulP9vF24Y/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmZmYzUxZGI3/NWZhNGQ5YmU0NjIz/MzI1Y2RkOGUxY2E1/ODdiZTdkMTkwNzA3/ZjBhZDI1MThjZjk4/NDM1ZWYxMi93d3cu/dmlzaXRiZXJsaW4u/ZGUv",
+              "thumbnail": "https://www.visitberlin.de/system/files/styles/visitberlin_hero_visitberlin_desktop_2x/private/image/Spreepark_Berlin_Plaenterwald_c_Guenter_Steffen%20%2817%29_web.jpg.webp?itok=zlBf8dJi"
+            },
+            "snippets": [
+              "Der Spreepark im Plänterwald nimmt sichtbar Gestalt an. Zentrales Wahrzeichen ist das 45 Meter hohe Riesenrad, das nach rund 20 Jahren Stillstand abgebaut, umfassend überarbeitet und neu montiert wurde.",
+              "Gemeinsam mit dem von weitem sichtbaren Riesenrad werden auch die weiteren Anlagen im Zentrum des künftigen Spreeparks erneuert: darunter das schon zu DDR-Zeiten künstlich angelegte Wasserbecken, das Englische Dorf, die Werkhalle und die Freiluftbühne. Schritt für Schritt entsteht hier ein neuer Ort für Kultur, Freizeit und Erholung. Das historische Ausflugslokal Eierhäuschen ist bereits restauriert und sucht aktuell (bis März 2026) einen neuen Betreiber.",
+              "Der Spreepark wurde 1969 als erster und einziger Vergnügungspark der DDR im Plänterwald eröffnet. Als „Kulturpark“ war er einzigartig in der DDR und wurde schnell zu einem beliebten Ausflugsziel. Wahrzeichen war schon damals das weithin sichtbare Riesenrad, das 1989 erneuert wurde. Nach der Wiedervereinigung wurde der Park an westliche Standards angepasst. Die damit verbundenen höheren Eintrittspreise führten jedoch zu sinkenden Besucherzahlen. Im Jahr 2001 meldete der private Betreiber Insolvenz an, das rund 25 Hektar große Gelände lag anschließend mehr als zehn Jahre brach.",
+              "Der Spreepark im Plänterwald nimmt sichtbar Gestalt an. Zentrales Wahrzeichen ist das 45 Meter hohe Riesenrad, das nach rund 20 Jahren Stillstand abgebaut, umfassend überarbeitet und neu montiert wurde.",
+              "Einmal im Monat bietet der Spreepark Art Space Führungen rund um das historische Eierhäuschen an. Und ab April 2026 werden auch wieder Baustellenführungen durch denn Spreepark angeboten."
+            ],
+            "description": "Der Spreepark im Plänterwald nimmt sichtbar Gestalt an. Zentrales Wahrzeichen ist das 45 Meter hohe Riesenrad, das nach rund 20 Jahren Stillstand abgebaut, umfassend überarbeitet und neu montiert wurde."
+          }
+        },
+        "isInterrupted": false,
+        "publicArguments": "Riesenrad Plänterwald Öffnungszeiten 25.07.2026",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Das Riesenrad im Plänterwald (Spreepark) hat aktuell **nicht für die Öffentlichkeit geöffnet**. Die Sanierung und der Wiederaufbau des Riesenrads sind zwar abgeschlossen, aber die erste öffentliche Fahrt ist erst für das Jahr 2027 geplant, wenn der Spreepark voraussichtlich wiedereröffnet wird",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "pOtBhdaN",
+          "ENe3oCch"
+        ]
+      },
+      {
+        "text": ".\n\nFalls du vor Ort bist, kannst du das Riesenrad von außen sehen, aber es ist noch nicht in Betrieb. Möchtest du mehr über die geplanten Öffnungszeiten oder den Fortschritt der Arbeiten wissen?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-07-25T11:56:40.007Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1784980600019,
+        "completedAtMs": 1784980605565,
+        "firstTokenAtMs": 1784980601697,
+        "generationStats": {
+          "outputTokens": 133,
+          "completionCount": 1,
+          "generationDurationMs": 3714,
+          "outputTokensPerSecond": 35.81044695745827
+        },
+        "timeToFirstTokenMs": 1678,
+        "completionDurationMs": 5546,
+        "userMessageCreatedToCompletionMs": 6776
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "web_search"
+        ],
+        "integrationNames": [
+          "web_search"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  }
+]

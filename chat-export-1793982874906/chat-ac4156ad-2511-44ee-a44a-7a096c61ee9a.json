@@ -1,0 +1,326 @@
+[
+  {
+    "id": "daf97ecc-9adc-4bd1-a08d-dae44e0d7759",
+    "version": 0,
+    "chatId": "ac4156ad-2511-44ee-a44a-7a096c61ee9a",
+    "content": "Wie heisst der Mensch hinter dem Psytrance Projekt OFORIA?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-07-24T20:21:34.550Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "8a52f8ce-5ee1-442d-abb6-2ef10f58a80d",
+    "version": 0,
+    "chatId": "ac4156ad-2511-44ee-a44a-7a096c61ee9a",
+    "content": "Hinter dem Psytrance-Projekt OFORIA steckt der israelische Musiker und Produzent **Ofer Dikovsky**.",
+    "contentChunks": [
+      {
+        "id": "yWZDpLZ7I",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1784924497701,
+        "success": true,
+        "toolType": "rag",
+        "startTime": 1784924495733,
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "ar": "البحث على الويب",
+            "de": "Websuche",
+            "en": "Web Search",
+            "es": "Búsqueda web",
+            "fr": "Recherche Web",
+            "it": "Ricerca web",
+            "nl": "Webzoeken",
+            "pl": "Wyszukiwanie w sieci",
+            "pt-BR": "Pesquisa na web"
+          }
+        },
+        "customLocale": {
+          "done_description": {
+            "en": "web_search"
+          },
+          "working_description": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "8Rs7uXWa": {
+            "url": "https://trancentral.tv/2016/05/oforia-the-master-is-back-interview/",
+            "date": null,
+            "rank": 5,
+            "title": "Interview with Oforia – The master is back - Trancentral",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/xl3enqi2RjoGSz2H-ma1M5RBLHNwlmWmVZ24p2YP-xg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWEwY2Y1ZTdk/YWQ3NmM3YWIzN2Ey/YTUwY2FlNDdiZGNh/MDExZWE5MTU3ZTUy/NTYzNmI0Yjc4YmFk/NjYxM2EyYi90cmFu/Y2VudHJhbC50di8",
+              "thumbnail": "https://trancentral.tv/wp-content/uploads/2016/05/Oforia-Read-More.jpg"
+            },
+            "snippets": [
+              "Interview with Oforia - The master is back Oforia is the main (though really only one of MANY) project of <strong>Ofer Dikovski</strong>, one of the most important producers in Goa and Psytrance history, through projects like Indoor, Tandu, Pigs In Space, Solaris, ...",
+              "Oforia is the main (though really only one of MANY) project of Ofer Dikovski, one of the most important producers in Goa and Psytrance history, through projects like Indoor, Tandu, Pigs In Space, Solaris, B-Wicked and of course Oforia. Oforia has been away from producing psytrance for a few years and his comeback is causing quite an excitement here @ Trancentral headquarters.",
+              "He asked me to join forces with him as the label’s mentor. I was very positive about it and felt that it’s the right thing to do. From that point on things were happening fast and suddenly I found myself producing a lot of music as Oforia, Indoor, Phreaky and it turned out really well by all means.",
+              "A: That will be mostly funny… it’s so completely different… During 1997, while making the art cover of my first album via Dragonfly as Oforia – Delirious, I had to travel to London and meet the super talented Mark Neal who designed most of Dragonfly artist’s sleeves.",
+              "Each of the 8 tracks in the album carries a minimum length of 10 min and tells a musical story with a wide spectrum of sonic elements and colors. Also, I kept on relating to my repertoire to let its atmosphere inspire me as much as possible for collecting as much as “Oforia” sound in it and wrap it with a modern shield."
+            ],
+            "description": "Interview with Oforia - The master is back Oforia is the main (though really only one of MANY) project of <strong>Ofer Dikovski</strong>, one of the most important producers in Goa and Psytrance history, through projects like Indoor, Tandu, Pigs In Space, Solaris, ..."
+          },
+          "J8gccEm3": {
+            "url": "https://www.psytrance.pl/artist/oforia/",
+            "date": null,
+            "rank": 1,
+            "title": "Psytrance.pl : Artist : Oforia",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "pl",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/VomWzdV0SPzwBEtYCfJPQQRJVm67NP1yGgEOK2UaIxY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmE0MDBkODRj/OTgyMDc1NzNkNDlm/ZTMzNjc0ZWQ3ODli/NjA2NDk3YmJjYzQw/Yjg4MTQxZWQ0NmNk/YjBhNjIzNi93d3cu/cHN5dHJhbmNlLnBs/Lw",
+              "thumbnail": null
+            },
+            "snippets": [
+              "The Pigs In Space Oforia EP Phonokol, 1999 1. Pigs In Space - Visitors (Part 1) 2. Oforia - Big Bang 3. Oforia - Aquatech W roku 1999 Ofer postanowił odświeżyć swój najbardziej znany projekt muzyczny i jako Oforia wydał październiku swój kolejny, drugi z rzędu album w wytwórni NMC.",
+              "Pigs In Space - Pigs In Space Phonokol, 1998 1. Invisible Contact 2. Visitors Part 1 3. Who Is Feeling Normal? 4. Solar 5. Some Mental Symptoms 6. Visitors Part 2 7. Man With No Name Presents Yogy And Grey One - Big Troubles In Outer Space (Oforia Rmx) 8. Now And Beyond 9. Heliolatry Okładka tego albumu jest równie unikalna jak sama muzyka tego projektu.",
+              "The Pigs In Space Oforia EP Phonokol, 1999 1. Pigs In Space - Visitors (Part 1) 2. Oforia - Big Bang 3. Oforia - Aquatech W roku 1999 Ofer postanowił odświeżyć swój najbardziej znany projekt muzyczny i jako Oforia wydał październiku swój kolejny, drugi z rzędu album w wytwórni NMC.",
+              "Flip Out 2: Mixed By Oforia Agitato Records, 2002 1. BLT - Genetics 2. GMS - Black Hole 3. Joti Sidhu - Downpusher 4. Kamasutrance versus Groove-A-Tech - Life Force 5. Electric Universe - Embrace It 6. Lemurians - Identification 7. Psydrop - Radical Command 8. Space Buddha - I Think Therefor I Am Rok 2005 to powrót Oforii z czwartym albumem tego projektu.",
+              "Muzyk ten podobnie jak inne znane projekty uraczył świat genialną muzyką prosto z Izraela, wzbogacił scenę transową o liczne projekty muzyczne. Jego twórczość jest z pewnością tym, co na długo zapamiętają rzesze trance-miłośników. Oficjalna strona: www.oforia.com Profil Discogs: www.discogs.com/artist/oforia Templar « MAGAZINE"
+            ],
+            "description": "The Pigs In Space Oforia EP Phonokol, 1999 1. Pigs In Space - Visitors (Part 1) 2. Oforia - Big Bang 3. Oforia - Aquatech W roku 1999 Ofer postanowił odświeżyć swój najbardziej znany projekt muzyczny i jako Oforia wydał październiku swój kolejny, drugi z rzędu album w wytwórni NMC."
+          },
+          "LeVrypmt": {
+            "url": "https://trancentral.tv/2018/07/oforia-10-essential-tracks/",
+            "date": null,
+            "rank": 3,
+            "title": "Oforia – 10 Essential Tracks - Trancentral",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/xl3enqi2RjoGSz2H-ma1M5RBLHNwlmWmVZ24p2YP-xg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWEwY2Y1ZTdk/YWQ3NmM3YWIzN2Ey/YTUwY2FlNDdiZGNh/MDExZWE5MTU3ZTUy/NTYzNmI0Yjc4YmFk/NjYxM2EyYi90cmFu/Y2VudHJhbC50di8",
+              "thumbnail": "https://trancentral.tv/wp-content/uploads/2018/07/1522980_10152877864617081_6624910693308267285_o.jpg"
+            },
+            "snippets": [
+              "Behind the Oforia project, is <strong>Ofer Dikovsky</strong>, a Psychedelic Trance &amp; Electronic music artist and producer from Israel. <strong>Ofer Dikovsky</strong> first begun as a member of the famous Goa-trance band “Indoor” together with Avi Algarnati and Marko Goren.",
+              "In 1999, Oforia released his second solo album “Off The Ground” featuring various styles of trance – psychedelic, progressive, ambient and industrial, an album considered pioneering and “ahead of its time”. The next Oforia album was “Let It Beat” that hit the psytrance scene in 2002.",
+              "During 2010, after releasing his downbeat album “Textures” as Oforia, Dikovsky made a turn towards Progressive/Tech House and started producing and releasing under the name Ofer Di. In 2014 Ofer Dikovsky made a full comeback to the Psytrance scene, in order to release new material under his main project “Oforia”. After reviving the “Indoor” project, together with Avi Algranti from Space Cat, he also revived (with DJ Dede) the legendary label MDMA Music during the same time.",
+              "Behind the Oforia project, is Ofer Dikovsky, a Psychedelic Trance & Electronic music artist and producer from Israel. Ofer Dikovsky first begun as a member of the famous Goa-trance band “Indoor” together with Avi Algarnati and Marko Goren. Their album “Progressive Trance” released in 1995, was one of the first during the early stages of the Goa-Trance scene.",
+              "Ofer began working as a solo artist under various names : Starting with “Oforia”, he was one of the first Israeli artists to be signed to the leading UK label – Dragonfly that was owned by the Legendary English producer “Youth”. The result was his debut album “Delirious” released in 1998, which truly helped establish Ofer’s unique sound and brought him worldwide attention."
+            ],
+            "description": "Behind the Oforia project, is <strong>Ofer Dikovsky</strong>, a Psychedelic Trance &amp; Electronic music artist and producer from Israel. <strong>Ofer Dikovsky</strong> first begun as a member of the famous Goa-trance band “Indoor” together with Avi Algarnati and Marko Goren."
+          },
+          "Oe7Fv1Ts": {
+            "url": "https://www.beatport.com/artist/oforia/7434",
+            "date": null,
+            "rank": 6,
+            "title": "Oforia Music & Downloads on Beatport",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/JTYPcoPzmarKnwQKQ1rFgvP8-KOPwZalO5zn7OuhNuE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2U0NmUwZmEw/YzY5Zjk4MzFmMTgw/ZmJmNDJjZWMxMDNi/ZjUxMTUzYTY3OGY5/MDRkMWJhODkxYjBm/M2UyNTJmZC93d3cu/YmVhdHBvcnQuY29t/Lw",
+              "thumbnail": "https://geo-media.beatport.com/image_size/590x404/e285a3b9-b24d-4ca6-b065-1831b16c3f59.jpg"
+            },
+            "snippets": [
+              "Oforia (also known as <strong>Ofer Dikovsky</strong>) is a Psychedelic Trance &amp; Electronic music artist and producer from Israel. He is one of Israel&#x27;s longest standing psytrance artists. He has been active in the trance scene since its early days and He&#x27;s ...",
+              "Oforia (also known as Ofer Dikovsky) is a Psychedelic Trance & Electronic music artist and producer from Israel. He is one of Israel's longest standing psytrance artists. He has been active in the trance scene since its early days and He's responsible for creating the first form of the Israeli electronic sound and by that he is consider to be one of the inventors of the genre.",
+              "In 2016, Dikovsky released his 12th album, a concept LP titled “Read More” containing 8 tracks, In this album he paid homage to the 90’s Goa Trance style alongside modern twists. The album peaked at No 1 on Beatport Psytrance top releases. ... Sirius Rising, Vol. 3 · Space Cat, prastix, Detune, Narkissi, Artifex (IL), Xerox, Illumination, Sub6, Adirøs, Mr.What?, DJ Gula K, Kosta, Widox, Migdalor, James Monro, Oforia, Various Artists",
+              "Psytrance Year 2024, Vol. 2 · Ovnimoon, Ganapati Trunkadelic, Je Marlee, Sharmatix, Inner Cosmos, Atomas 303, Oforia, Eclipse",
+              "Skazi, Infected Mushroom, Lynn, Omiki, Vini Vici, Blazy, Kathy Brauer, Oforia, Morten Granau, Vegas (Brazil), WHITENO1SE, TOX1C, Eden Peretz, Electric Universe, Coexist, Supernature, Alchimyst ... Masters Of Psytrance, Vol."
+            ],
+            "description": "Oforia (also known as <strong>Ofer Dikovsky</strong>) is a Psychedelic Trance &amp; Electronic music artist and producer from Israel. He is one of Israel&#x27;s longest standing psytrance artists. He has been active in the trance scene since its early days and He&#x27;s ..."
+          },
+          "bjY1ldNY": {
+            "url": "https://open.spotify.com/artist/4bw45zQmo3GXp3V936AZd3",
+            "date": null,
+            "rank": 7,
+            "title": "Oforia | Spotify",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/TEnJcl6pQnFHZ4c2dFZEzF0Vkd1A4CV059HHEkIMLVM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDExZTQ1OTU0/NTllYzVjMzBiOTcy/N2Y2NTkzYzEyM2Nm/ZDY5ZTIxZGUyZmEz/ZGEzYzY5ZmE4ZTcw/M2ZjMWViYS9vcGVu/LnNwb3RpZnkuY29t/Lw",
+              "thumbnail": null
+            },
+            "snippets": [
+              "Lose yourself in the cosmic spheres of Psytrance. ... Indira Paganotto&#x27;s favorite tracks. Updated regularly. Curated by Indira Paganotto. Discover more track IDs playlists here. ... Oforia (also known as <strong>Ofer Dikovsky</strong>) is a Psychedelic Trance &amp; Electronic music artist and producer from Israel.",
+              "Lose yourself in the cosmic spheres of Psytrance. ... Indira Paganotto's favorite tracks. Updated regularly. Curated by Indira Paganotto. Discover more track IDs playlists here. ... Oforia (also known as Ofer Dikovsky) is a Psychedelic Trance & Electronic music artist and producer from Israel.",
+              "Lose yourself in the cosmic spheres of Psytrance. ... Indira Paganotto's favorite tracks. Updated regularly. Curated by Indira Paganotto. Discover more track IDs playlists here. ... הפלייליסט הרשמי של מידברי – לילה של רוק אלקטרוני במדבר, 18.6.26 בכפר הנוקדים • www.berry.co.il ... This is Oforia.",
+              "Discogs label with trance, psytrance, psychedelic trance, goa trance, progressive trance, acid techno. Add any youtube channel or discogs label on www.mirror.fm #mirrorfm ... This is Astral Projection. The essential tracks, all in one playlist. ... The ultimate old school Goa Trance playlist! Goa trance early days and evolution through time, with acid-techno and full-on vibes. ... This is Oforia."
+            ],
+            "description": "Lose yourself in the cosmic spheres of Psytrance. ... Indira Paganotto&#x27;s favorite tracks. Updated regularly. Curated by Indira Paganotto. Discover more track IDs playlists here. ... Oforia (also known as <strong>Ofer Dikovsky</strong>) is a Psychedelic Trance &amp; Electronic music artist and producer from Israel."
+          },
+          "fePpq6To": {
+            "url": "https://de.wikipedia.org/wiki/Avalon_(Musiker)",
+            "date": null,
+            "rank": 0,
+            "title": "Avalon (Musiker)",
+            "source": "wikipedia",
+            "can_open": true,
+            "metadata": {
+              "source": "wikipedia",
+              "doc_lang": "de",
+              "query_lang": "de"
+            },
+            "snippets": [
+              "**Avalon** (bürgerlicher Name **Leon Kane**) ist ein britischer Full-On-Psytrance-DJ und -Produzent. Im Juni 2020 verließ er London und lebt seitdem in Portugal.\n\n## Karriere\n\nAvalon begann seine Karriere als DJ im Jahr 2003, da es seiner Aussage nach zu dieser Zeit kaum gute DJs im Vereinigten Königreich zu buchen gab und er es deshalb selber machen wollte.\n\nEr begann zu produzieren und veröffentlichte im Jahr 2005 seine ersten beiden Tracks *Crystalline Phases* und *Quantum Bits* zusammen mit dem aus Brighton stammenden Psytrance-Produzenten Alex Diplock unter dem Projektnamen Reality Grid. Im Mai 2007 veröffentlichte das Duo das Album *Reality Check* auf dem Label Wildthings Records. 2009 verließ Kane das Projekt Reality Grid.\n\n2010 wurde er bei Nano Records unter Vertrag genommen. Im Jahr 2009 veröffentlichte Avalon dort seine erste EP *Avalanche*. 2010 folgte sein Solo-Debütalbum *Distant Futures*. Es enthält 10 Full-On-Psytrance-Tracks, darunter gemeinsame Songs mit den britischen Psytrance-Produzenten DJ Tristan (Tristan Cooke), Dickster (Dick Trevor) und Cosmosis (Bill Halsey) und es wurde vom israelischen Produzenten Ido Ophir gemastert.\n\nSeit dem Jahr 2012 veröffentlichte Avalon zwei Alben zusammen mit Dj Tristan unter dem Projektnamen *Killerwatts* und seit 2015 zusammen mit dem Psytrance-Projekt Sonic Species (Joe Markendale) ein Album unter dem gemeinsamen Alias *Future Frequency*.\n\nEr spielte unter anderem auf dem Ozora Festival in Ungarn, dem Boom Festival in Portugal, auf der Tomorrowland in Belgien, auf den A State Of Trance Festivals, dem Electric Daisy Carnival in Las Vegas und dem Burning Man in Nevada.\n\n## ‌ Diskografie (Auswahl)\n\n**Alben**\n\n-   ‌ 2009: als Reality Grid – *Reality Check* (Wildthings Records)\n-   2010: *Distant Futures* (Nano Records)\n-   2012: *The Remixes Volume One* (Nano Records)\n-   2017: *The Remixes Volume Two* (Nano Records)\n-   2019: *Rise* (Nano Records)\n-   2022: *Rise (The Remixes)* (Nano Records)\n\n**EPs**\n\n-   2009: *Avalanche* (Nano Records)\n-   2010: *Session One* (Nano Records, mit *Mr Peculiar*)\n-   2011: *Session Two* (Nano Records, mit *Sinerider*)\n\n**Singles**\n\n-   2018: Avalon & Burn In Noise – *Time And Space (Spirit Architect Remix)* (Dacru Records)\n-   2019: Avalon & Azax – *Universal* (VII)\n\n"
+            ],
+            "description": null
+          },
+          "fxSkNVSr": {
+            "url": "https://www.facebook.com/oforia.music/",
+            "date": null,
+            "rank": 8,
+            "title": "Oforia (@oforia.music)",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/UPSLokJBKWPdNzHbqH5o3CgD13zMvR3pUTn8bk7hmPM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWM3NjZkMmE4/MTU1MTk4ZDU5YzU3/NjUxY2ExZTdjNWQx/NjJlNTY1Y2VlODM4/MmRmMDgzZDBiMmI3/YzU4NmU4ZS93d3cu/ZmFjZWJvb2suY29t/Lw",
+              "thumbnail": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/468731351_10160822649917081_7991343477000540443_n.jpg?stp=dst-jpg_tt6&amp;cstp=mx2048x2048&amp;ctp=s720x720&amp;_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=3ab345&amp;_nc_ohc=v0QZUcoSrUQQ7kNvwF3n6Av&amp;_nc_oc=Adr6jrMl6xJtI5yqDdmiMLTmGgXQtcJBwivyzfOqpViMXoEbXPPBennBG5y4HFyMDhQ&amp;_nc_zt=24&amp;_nc_ht=scontent-bos5-1.xx&amp;_nc_gid=3iRkOpL3lQb_Ez5WnpzENg&amp;_nc_ss=79289&amp;oh=00_Af_u0zoMEvvXOCq5BayeYGxOatc9JpkUtaSwt0ZOq9S0mQ&amp;oe=6A26CD68"
+            },
+            "snippets": [
+              "Oforia. 27,723 likes · 9 talking about this. Oforia (also known as <strong>Ofer Dikovsky</strong>) is a Psychedelic Trance &amp; Electronic music artist and producer from Israel."
+            ],
+            "description": "Oforia. 27,723 likes · 9 talking about this. Oforia (also known as <strong>Ofer Dikovsky</strong>) is a Psychedelic Trance &amp; Electronic music artist and producer from Israel."
+          },
+          "lHZnoAja": {
+            "url": "https://en.wikipedia.org/wiki/Oforia",
+            "date": null,
+            "rank": 9,
+            "title": "Oforia - Wikipedia",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+              "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Oforia_-_Ofer_Dikovsky.jpg"
+            },
+            "snippets": [
+              "In 1999, <strong>Oforia</strong> released his second solo studio Off The Ground, featuring various styles of trance: psychedelic, progressive, ambient, and industrial. The album was considered pioneering, and &quot;ahead of its time&quot;. The next <strong>Oforia</strong> album was Let It Beat, which circulated on the <strong>psytrance</strong> scene in 2002.",
+              "Besides having a solo career as Oforia or Noor, he has been involved with various musical groups/formations such as Indoor, Tandu and OB1, and has worked on several musical projects such as Pigs in Space and Phreaky.",
+              "Subsequently, Ofer began working as a solo artist under various names. He started as Oforia, and became one of the first Israeli artists to be signed to a UK label (Dragonfly). The result was his 1998 debut album Delirious.",
+              "Oforia has remixed many artists, including Infected Mushroom, GMS, Violet Vision, Atomic Pulse, Time Lock, Moshic, Fatali, and more. In 2007, he joined forces with B-wicked (real name Bertin Katz) to form a dance/rock project named OB1.",
+              "In 2015, Dikovsky made a full comeback to the trance scene and released new psy-/Goa- trance music as Oforia, alongside his old-time Indoor collaborators, which included Avi Algranati (known, more recently, for \"Space Cat\").",
+              "Ofer Dikovsky (Hebrew: עופר דיקובסקי), better known by his stage name Oforia (in Hebrew: אופוריה), is a music producer and DJ from Israel. Besides having a solo career as Oforia or Noor, he has been involved with various musical groups/formations such as Indoor, Tandu and ..."
+            ],
+            "description": "In 1999, <strong>Oforia</strong> released his second solo studio Off The Ground, featuring various styles of trance: psychedelic, progressive, ambient, and industrial. The album was considered pioneering, and &quot;ahead of its time&quot;. The next <strong>Oforia</strong> album was Let It Beat, which circulated on the <strong>psytrance</strong> scene in 2002."
+          },
+          "shFmLL70": {
+            "url": "https://de.wikipedia.org/wiki/Ace_Ventura_(Musiker)",
+            "date": null,
+            "rank": 4,
+            "title": "Ace Ventura (Musiker)",
+            "source": "wikipedia",
+            "can_open": true,
+            "metadata": {
+              "source": "wikipedia",
+              "doc_lang": "de",
+              "query_lang": "de"
+            },
+            "snippets": [
+              "**Ace Ventura** (bürgerlich **Jonathan Oshrat**, hebräischיהונתן אשרת; * 20. Juni 1977 in Israel) ist ein israelischer Musiker, DJ und Musikproduzent im Bereich Psytrance und Progressive Trance. Seit den 1990er Jahren aktiv und seit 2006 unter dem Künstlernamen „Ace Ventura“ bekannt, gilt er als einer der erfolgreichsten Künstler der globalen Psytrance-Szene. Er hat seinen Arbeitsschwerpunkt in Zürich und tritt weltweit bei großen Festivals auf. Er ist Mitglied mehrerer Kollaborationsprojekte, darunter *Alpha Portal* (mit Astrix), *Liquid Ace* (mit Liquid Soul), *Alien Art* (mit Captain Hook) und *Acid Punks* (mit Outsiders).## Biografie  \nJonathan Oshrat wurde am 20. Juni 1977 als Sohn des israelischen Komponisten und Dirigenten Kobi Oshrat (* 1944) geboren. Bereits als Kind kam Oshrat in Tonstudios mit Musik in Berührung, in denen sein Vater arbeitete. In den 1990er Jahren nahm er an Trance-Partys teil und wurde Teil der aufkommenden Goa-Trance-Szene.  \n1997 gründete er zusammen mit DJ Goblin (Udi Sternberg) das Duo *Children of the Doc*, das später in *Psysex* umbenannt wurde. Die Gruppe veröffentlichte drei Alben beim Label HOMmega Productions und gilt als einer der Acts, die den internationalen Erfolg von Psytrance maßgeblich mitprägten. Nach der Auflösung 2006 startete Oshrat seine Solokarriere als *Ace Ventura*. Parallel verfolgte er mit *Schatsi* ein Electro-Projekt. Sein Debütalbum *Rebirth* erschien 2007 auf Iboga Records und brachte ihm internationale Aufmerksamkeit. Dafür wurde er 2008 und 2009 zweimal in Folge mit dem Beatport Music Award als „Bester Psytrance-Artist“ ausgezeichnet. 2015 folgte das zweite Album *Paradise Engineering*, ebenfalls bei Iboga, das weltweit positive Kritiken erhielt und eine internationale Tournee nach sich zog.  \nNeben seinen Soloarbeiten ist Oshrat Mitglied von Projekten wie *Alpha Portal* (mit Astrix), *Alien Art* (mit Captain Hook), *Zentura* (mit Zen Mechanics) und *Liquid Ace* (mit Liquid Soul). Mit Liquid Soul gründete er zudem *Psy-Nation*, eine monatliche Radioshow und Eventreihe. 2025 verließ er Iboga Records und gründete sein eigenes Label *Mutant Disco Records*.  \nAce Ventura trat auf Festivals wie Boom, Ozora, Antaris, Indian Spirit Festival, Psy-Fi Festival, Rainbow Serpent, XXXPerience, Solstice, EDC Las Vegas, Tomorrowland, Dreamstate und Universo Parallelo auf. Unter dem Projektnamen *Ace Ventura in Dub* veröffentlichte er auch Dub- und Downtempo-Produktionen. Sein gemeinsamer Track *The Calling* mit Vini Vici aus dem Jahr 2015 wurde 2018 im Rahmen der DJ-Mag-Berichterstattung über Vini Vici erneut hervorgehoben, als eine Remix-Version veröffentlicht wurde.## Diskografie  \n**Alben**  \n-   *Rebirth* (2007)\n-   *Paradise Engineering* (2015)  \n**Remixalben**  \n-   *Re:Boot* (2009)\n-   *Life is a Remix* (2020)\n-   *Paradise Rediscovered* (2017)\n-   *Ace Ventura in Dub* (2022)  \n**Kompilationen**  \n-   *New Order* (2006)\n-   *New Order* (2009)\n-   *Dance Computer* (2011)\n-   *New Order* (2012)\n-   *Goa Session* (2015)\n-   *Psychedelic Awakening* (2018)\n-   *Psy-Nation Vol. 001* (2019)\n-   *Psy-Nation Vol. 002* (2019)\n-   *Psy-Nation Vol. 003* (2020)\n-   *Chill Nation* (2021)  \n**Ausgewählte Singles**  \n-   *New Order* (2006)\n-   *Serenity Now (Remixes)* (2008)\n-   *New Order Vol. 2* (2009)\n-   *New Order Vol. 3* (2012)\n-   *Connected* (2012)\n-   *Presence* (2013)\n-   *Stomping Ground* (2014)\n-   *The Encounter* (2014)\n-   *The Calling* (2015)\n-   *Hello?* (2019)\n-   *We Dream* (2019)\n-   *Neon Waves* (2021)\n-   *Ancient Aum* (2022)\n-   *SIMulat10n Nat10n* (2024)\n-   *Come with Us* (2024)\n-   *Mindshift* (2025)\n-   *Nova* (2025)"
+            ],
+            "description": null
+          },
+          "vdZRsSJY": {
+            "url": "https://de.wikipedia.org/wiki/Static_Movement",
+            "date": null,
+            "rank": 2,
+            "title": "Static Movement",
+            "source": "wikipedia",
+            "can_open": true,
+            "metadata": {
+              "source": "wikipedia",
+              "doc_lang": "de",
+              "query_lang": "de"
+            },
+            "snippets": [
+              "**Static Movement** ist der Künstlername des israelischen Psytrance-, Progressive-Trance- und Psytech-Musikers, Musikproduzenten und DJs *Shahar Strikman* (* 11. Juni 1984 in der Ukraine).\n\nEr begann 1996 mit der Musikproduktion und veröffentlichte zunächst unter dem Projektnamen „Impulser“. 2011 startete er sein Solo-Projekt *Static Movement*.\n\n## Frühes Leben und Ausbildung\n\nShahar Strikman wurde in der Ukraine geboren und wuchs später in Israel auf. Seine Mutter war Klavierlehrerin und führte ihn früh an klassische Musik heran, was seine musikalische Entwicklung nachhaltig prägte.\n\nBereits 1996 begann er, eigene Musik zu produzieren. Sein erster Track trug den Titel *The Graveyard* und markierte den Beginn seiner musikalischen Laufbahn. In den späten 1990er-Jahren arbeitete er unter dem Projektnamen „Impulser“, das stilistisch an Goa, Psytrance und Full-On orientiert war, später absolvierte Strikman ein Studium der Tontechnik und begann, seine musikalische Laufbahn professionell weiterzuentwickeln.\n\n## Karriere\n\n2011 gründete er das Projekt *Static Movement*, unter dem er internationale Aufmerksamkeit erlangte. 2016 veröffentlichte *Static Movement* sein drittes Studioalbum *Sian* beim deutschen Label Iono Music. Es war sein drittes Album unter diesem Projektnamen und wurde stilistisch dem Progressive Psytrance zugeordnet, wobei auch Elemente weiterer Trance-Subgenres integriert wurden.\n\n2019 gründete er das unabhängige Label *Sol Records*, 2020 folgte die Gründung der Booking-Agentur *Beta Music*. 2023 initiierte er die Produktionsfirma *Children of the Sun*, 2025 veröffentlichte Static Movement sein sechstes Studioalbum *Underwater* beim Label Iono Music. Er beschrieb das Album als konzeptionelles Werk, das mehrere Musikstile wie Progressive Trance, Techno, melodischen Trance, House und Electro miteinander verbindet. 2025 initiierte er gemeinsam mit dem südafrikanischen Produzenten Daniel Portal das Psytech-Projekt *CapybaraZ*.\n\n",
+              "## Musikalischer Stil\n\nStrikman beschreibt seinen kreativen Prozess als schrittweisen Aufbau von Klangschichten, Harmonien und Kontrasten, vergleichbar mit dem Malen eines Bildes. Er betont, dass er seine Musik nicht auf ein einzelnes Genre beschränken möchte, sondern Wert darauf legt, Musik zu produzieren, die Gefühle transportiert und eine langfristige Wirkung entfaltet.\n\nSein Studio-Setup umfasst unter anderem einen i7-Computer, Dynaudio-Monitore, die er seit fast 20 Jahren nutzt, die Digital Audio Workstation Cubase 11 sowie virtuelle Instrumente und Plug-ins.\n\n## Medienpräsenz und Interviews\n\nStatic Movement trat in mehreren Radiosendungen auf, darunter in Programmen von RadiOzora, wo er Interviews und DJ-Sets präsentierte. Ein weiteres Interview wurde auf dem SoundCloud-Kanal von RadiOzora im Rahmen der Sendung IONO11 veröffentlicht. Static Movement war zudem Gast im „Early Reflection Podcast“, in dem er über seine musikalische Entwicklung, seine Anfänge als Impulser und seine künstlerischen Ansichten sprach.\n\n## Diskografie (Alben)\n\n-   *Circle of Life* (Yellow Sunshine Explosion 2013)\n-   *Sol* (Iono Music 2015)\n-   *Liquid Spring (Compiled by Static Movement)* (2017)\n-   *Simin* (Sol Music 2019)\n-   *Remixes* (2022)\n-   *Voices from Heaven* (2022)\n-   *Sun* (2024)\n-   *Underwater* (Iono Music 2025)\n\n### Tracks\n\n-   *Cybernetic Evolution.* In: Cubixx & Jensson: *Selection 2012* (Iono Music, 2012)\n\n"
+            ],
+            "description": null
+          }
+        },
+        "isInterrupted": false,
+        "publicArguments": "OFORIA Psytrance Projekt Künstler Name",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Hinter dem Psytrance-Projekt OFORIA steckt der israelische Musiker und Produzent **Ofer Dikovsky**",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "LeVrypmt",
+          "8Rs7uXWa",
+          "Oe7Fv1Ts",
+          "bjY1ldNY",
+          "fxSkNVSr",
+          "lHZnoAja"
+        ]
+      },
+      {
+        "text": ".",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-07-24T20:21:34.806Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1784924494816,
+        "completedAtMs": 1784924499062,
+        "firstTokenAtMs": 1784924495732,
+        "generationStats": {
+          "outputTokens": 67,
+          "completionCount": 1,
+          "generationDurationMs": 3215,
+          "outputTokensPerSecond": 20.8398133748056
+        },
+        "timeToFirstTokenMs": 916,
+        "completionDurationMs": 4246,
+        "userMessageCreatedToCompletionMs": 4512
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "web_search"
+        ],
+        "integrationNames": [
+          "web_search"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  }
+]

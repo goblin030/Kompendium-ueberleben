@@ -1,0 +1,65 @@
+[
+  {
+    "id": "5c3351c7-63fd-4296-a686-acf047586011",
+    "version": 0,
+    "chatId": "02638470-3ffd-4d94-9c12-ba5d61b1ebf8",
+    "content": "wandle die folgenden beispieldaten in eine Markdown formartierte tabelle um und gib sie mit allen Steuerzeichen aus \n\nName,Serial number,Type,Cluster,Status,Role,Rack,HW warranty expiration,Tags,IP Address,Last updated,Comments,Manufacturer,Platform,Created\r\nsrv100102,060311203280,LANTIME M300/GPS/1GE,,Active,NTP-Appliance,R1001 (Office-BKI),1970-01-01,,37.49.155.42/30,2025-04-04T05:35:32.091055+00:00,,Meinberg,,2019-02-11T00:00:00+00:00\r\nbla1-ntp-scaas-1-210347,,LANTIME M320/PZF/AD10,,Staged,NTP-Appliance,R2103 (A-E1-540-D03),1970-01-01,,,2026-08-03T07:29:42.958736+00:00,\"Antenne ist √ºber 2004 im Kabelkanal, muss noch final ausgerichtet werden\",Meinberg,,2026-07-27T07:05:40.950758+00:00\r\nbla1-ntp-scaas-2-210447,,LANTIME M320/PZF/AD10,,Staged,NTP-Appliance,R2104 (A-E1-540-D04),1970-01-01,,,2026-08-03T07:30:16.807846+00:00,\"Antenne ist √ºber R2005 im Kabelkanal, muss noch final ausgerichtet werden\",Meinberg,,2026-07-27T07:06:38.256712+00:00\r\nsrv031124,060311203380,LANTIME M300/PZF/1GE/RPS,,Active,NTP-Appliance,R0311 (B2-4R03R17),,,37.44.2.162/29,2022-10-10T07:57:01.695616+00:00,,Meinberg,,2020-12-03T00:00:00+00:00\r\nsrvE3B.R1.U44,060311203280,LANTIME M300/PZF/1GE/RPS,,Active,NTP-Appliance,E3B.R1,,,37.123.106.58/29,2022-10-10T07:57:48.473520+00:00,,Meinberg,,2019-07-30T00:00:00+00:00",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-10-05T12:28:57.435Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "21187565-88db-4c5e-a2ce-54f640fecfb1",
+    "version": 0,
+    "chatId": "02638470-3ffd-4d94-9c12-ba5d61b1ebf8",
+    "content": "Hier sind die Beispieldaten als Markdown-Tabelle mit allen Steuerzeichen:\n\n```markdown\n| Name | Serial number | Type | Cluster | Status | Role | Rack | HW warranty expiration | Tags | IP Address | Last updated | Comments | Manufacturer | Platform | Created |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| srv100102 | 060311203280 | LANTIME M300/GPS/1GE |  | Active | NTP-Appliance | R1001 (Office-BKI) | 1970-01-01 |  | 37.49.155.42/30 | 2025-04-04T05:35:32.091055+00:00 |  | Meinberg |  | 2019-02-11T00:00:00+00:00 |\n| bla1-ntp-scaas-1-210347 |  | LANTIME M320/PZF/AD10 |  | Staged | NTP-Appliance | R2103 (A-E1-540-D03) | 1970-01-01 |  |  | 2026-08-03T07:29:42.958736+00:00 | Antenne ist √ºber 2004 im Kabelkanal, muss noch final ausgerichtet werden | Meinberg |  | 2026-07-27T07:05:40.950758+00:00 |\n| bla1-ntp-scaas-2-210447 |  | LANTIME M320/PZF/AD10 |  | Staged | NTP-Appliance | R2104 (A-E1-540-D04) | 1970-01-01 |  |  | 2026-08-03T07:30:16.807846+00:00 | Antenne ist √ºber R2005 im Kabelkanal, muss noch final ausgerichtet werden | Meinberg |  | 2026-07-27T07:06:38.256712+00:00 |\n| srv031124 | 060311203280 | LANTIME M300/PZF/1GE/RPS |  | Active | NTP-Appliance | R0311 (B2-4R03R17) |  |  | 37.44.2.162/29 | 2022-10-10T07:57:01.695616+00:00 |  | Meinberg |  | 2020-12-03T00:00:00+00:00 |\n| srvE3B.R1.U44 | 060311203280 | LANTIME M300/PZF/1GE/RPS |  | Active | NTP-Appliance | E3B.R1 |  |  | 37.123.106.58/29 | 2022-10-10T07:57:48.473520+00:00 |  | Meinberg |  | 2019-07-30T00:00:00+00:00 |\n```\n\nHinweis: In den Kommentarfeldern der beiden „bla1“-Einträge enthält der Originaltext die Zeichenfolge `√º` – vermutlich ein Encoding-Artefakt („√º“ statt „ü“), das ich unverändert übernommen habe. Falls gewünscht, korrigiere ich es zu „über“.",
+    "contentChunks": [
+      {
+        "text": "Hier sind die Beispieldaten als Markdown-Tabelle mit allen Steuerzeichen:\n\n```markdown\n| Name | Serial number | Type | Cluster | Status | Role | Rack | HW warranty expiration | Tags | IP Address | Last updated | Comments | Manufacturer | Platform | Created |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| srv100102 | 060311203280 | LANTIME M300/GPS/1GE |  | Active | NTP-Appliance | R1001 (Office-BKI) | 1970-01-01 |  | 37.49.155.42/30 | 2025-04-04T05:35:32.091055+00:00 |  | Meinberg |  | 2019-02-11T00:00:00+00:00 |\n| bla1-ntp-scaas-1-210347 |  | LANTIME M320/PZF/AD10 |  | Staged | NTP-Appliance | R2103 (A-E1-540-D03) | 1970-01-01 |  |  | 2026-08-03T07:29:42.958736+00:00 | Antenne ist √ºber 2004 im Kabelkanal, muss noch final ausgerichtet werden | Meinberg |  | 2026-07-27T07:05:40.950758+00:00 |\n| bla1-ntp-scaas-2-210447 |  | LANTIME M320/PZF/AD10 |  | Staged | NTP-Appliance | R2104 (A-E1-540-D04) | 1970-01-01 |  |  | 2026-08-03T07:30:16.807846+00:00 | Antenne ist √ºber R2005 im Kabelkanal, muss noch final ausgerichtet werden | Meinberg |  | 2026-07-27T07:06:38.256712+00:00 |\n| srv031124 | 060311203280 | LANTIME M300/PZF/1GE/RPS |  | Active | NTP-Appliance | R0311 (B2-4R03R17) |  |  | 37.44.2.162/29 | 2022-10-10T07:57:01.695616+00:00 |  | Meinberg |  | 2020-12-03T00:00:00+00:00 |\n| srvE3B.R1.U44 | 060311203280 | LANTIME M300/PZF/1GE/RPS |  | Active | NTP-Appliance | E3B.R1 |  |  | 37.123.106.58/29 | 2022-10-10T07:57:48.473520+00:00 |  | Meinberg |  | 2019-07-30T00:00:00+00:00 |\n```\n\nHinweis: In den Kommentarfeldern der beiden „bla1“-Einträge enthält der Originaltext die Zeichenfolge `√º` – vermutlich ein Encoding-Artefakt („√º“ statt „ü“), das ich unverändert übernommen habe. Falls gewünscht, korrigiere ich es zu „über“.",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-10-05T12:28:59.380Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1791203338777,
+        "completedAtMs": 1791203352866,
+        "firstTokenAtMs": 1791203340444,
+        "generationStats": {
+          "outputTokens": 782,
+          "completionCount": 1,
+          "generationDurationMs": 4237,
+          "outputTokensPerSecond": 184.56455038942647
+        },
+        "timeToFirstTokenMs": 1667,
+        "bootstrapDurationMs": 1306,
+        "completionDurationMs": 14089,
+        "userMessageCreatedToCompletionMs": 15431
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [],
+        "integrationNames": []
+      }
+    },
+    "canvas": [],
+    "files": []
+  }
+]

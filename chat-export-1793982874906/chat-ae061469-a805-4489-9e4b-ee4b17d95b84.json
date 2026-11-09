@@ -1,0 +1,366 @@
+[
+  {
+    "id": "7cedc58e-62fb-4d88-909f-263358385916",
+    "version": 0,
+    "chatId": "ae061469-a805-4489-9e4b-ee4b17d95b84",
+    "content": "Für die Erkennung der Tonlage von Akkorden auf Android gibt es mehrere empfehlenswerte Apps:\n\n**Chord ai** ist eine der beliebtesten Apps, die Akkorde in Echtzeit über das Mikrofon erkennt – sowohl für live gespielte Musik als auch für Audiodateien oder Songs von YouTube/Spotify. Die App analysiert die Akkorde schnell und zeigt sie an. Nutzer loben die hohe Genauigkeit, auch wenn es bei sehr komplexen Akkorden gelegentlich zu kleinen Abweichungen kommen kann.\n\nEine weitere Option ist **Yamaha Chord Tracker**, die Akkorde in Audiospuren erkennt und anzeigt. Sie eignet sich besonders für das Analysieren von auf dem Gerät gespeicherten Audio-Dateien und bietet eine einfache Akkorddiagramm-Anzeige.\n\nAuch **ZAX Chords - Akkord Detektor** bietet Akkorderkennung und einen Spektrum-Analysator, um Akkorde in Songs zu identifizieren.\n\nFalls du eine App suchst, die speziell die Tonart eines Songs oder einer Akkordfolge bestimmt, könnte der **s.mart Song-Tonart-Finder** interessant sein.\n\nMöchtest du eine bestimmte Funktion besonders betont haben, z. B. Echtzeit-Erkennung oder die Analyse von Audio-Dateien?",
+    "contentChunks": [
+      {
+        "id": "EYvHwdscz",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1785436037237,
+        "success": true,
+        "toolType": "rag",
+        "startTime": 1785436035549,
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "ar": "البحث على الويب",
+            "de": "Websuche",
+            "en": "Web Search",
+            "es": "Búsqueda web",
+            "fr": "Recherche Web",
+            "it": "Ricerca web",
+            "nl": "Webzoeken",
+            "pl": "Wyszukiwanie w sieci",
+            "pt-BR": "Pesquisa na web"
+          }
+        },
+        "customLocale": {
+          "done_description": {
+            "en": "web_search"
+          },
+          "working_description": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "7rnjE8d3": {
+            "url": "https://play.google.com/store/apps/details?id=fm.mystage.note_recognition_trial&hl=de&gl=US",
+            "date": null,
+            "rank": 6,
+            "title": "Notenerkennung - via Mikrofon – Apps bei Google Play",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/BRXcD4iaX7N7RXX5b2ues7rPiumLO6jABWJKycKQM3o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjgwZWUzMzVj/YTc2M2VmMDJlYjE2/YmIyYzA3Y2IwZDkx/ZGViYmUxOGU1Njk4/NGI0NDNhOTQ1N2Mw/MDYyNjk4Ny9wbGF5/Lmdvb2dsZS5jb20v",
+              "thumbnail": "https://play-lh.googleusercontent.com/Vwk350eBZLRNYRUdo_jzDv8VyyOMxL17qzMvcAmhiXGLWp9JVQSYN3WacToLjuW41Buj"
+            },
+            "snippets": [
+              "<strong>Die Notenerkennungs-App</strong> ist der perfekte Begleiter für Musiker aller Instrumente, egal ob du singst, Gitarre, Klavier, Violine oder ein anderes Instrument spielst. Diese innovative App erkennt Musiknoten direkt über das Mikrofon deines Smartphones ...",
+              "Für Akkordeon, habe ich noch keine geeignete app gefunden.Auch verschiedene Instrumente, alleine und zusammen, mit + ohne Gesang, reagiert die Anzeige super.Es braucht nur Noten, und 3min., Vorspielzeit, dann langt mir das schon. Bitte weitermachen.",
+              "Setzt sehr schnell die Töne in Zeichen um .Treffsicherheit des angezeigten ist hervorragend .Es setzt sogar die Lage von Terzen und Akkorden, sehr gut um.",
+              "Die Notenerkennungs-App ist der perfekte Begleiter für Musiker aller Instrumente, egal ob du singst, Gitarre, Klavier, Violine oder ein anderes Instrument spielst. Diese innovative App erkennt Musiknoten direkt über das Mikrofon deines Smartphones und wandelt sie in eine alternative Notenschrift um.",
+              "Funktionen, die dich begeistern werden: 🎶 Musiknoten in Echtzeit erkennen: Nimm deinen Gesang, ein Instrument oder ein Lied auf – die App filtert die Noten heraus. 🎤 Tonhöhenanalyse für Gesang: Überprüfe die Genauigkeit deiner Stimme und verbessere deine Technik."
+            ],
+            "description": "<strong>Die Notenerkennungs-App</strong> ist der perfekte Begleiter für Musiker aller Instrumente, egal ob du singst, Gitarre, Klavier, Violine oder ein anderes Instrument spielst. Diese innovative App erkennt Musiknoten direkt über das Mikrofon deines Smartphones ..."
+          },
+          "IVsnGABs": {
+            "url": "https://play.google.com/store/apps/details?id=com.finestandroid.chorddetector&hl=de&gl=US",
+            "date": null,
+            "rank": 4,
+            "title": "ZAX Chords - Akkord Detektor – Apps bei Google Play",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/BRXcD4iaX7N7RXX5b2ues7rPiumLO6jABWJKycKQM3o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjgwZWUzMzVj/YTc2M2VmMDJlYjE2/YmIyYzA3Y2IwZDkx/ZGViYmUxOGU1Njk4/NGI0NDNhOTQ1N2Mw/MDYyNjk4Ny9wbGF5/Lmdvb2dsZS5jb20v",
+              "thumbnail": "https://play-lh.googleusercontent.com/YQbkOP67j0-LYyPJbYukVGLHGj_tt-Zx_l3QnEKF8JnpF4mDxNJLiMHZoPlXY0oK1PMq"
+            },
+            "snippets": [
+              "<strong>ZAX Akkord -Detektor</strong> hat die gleiche einfache Benutzeroberfläche , wie mein Fein chromatischer Tuner -App. Es verfügt nicht nur Akkorderkennung, sondern auch Spektrum-Analysator .",
+              "ZAX Akkord -Detektor hat die gleiche einfache Benutzeroberfläche , wie mein Fein chromatischer Tuner -App. Es verfügt nicht nur Akkorderkennung, sondern auch Spektrum-Analysator . Polyphone Musik -Analysator . Es kann Ihnen helfen , Akkorde eines Songs zu finden und zu erkennen, warum ein Instrument klingen besser als andere . Aktualisiert am · 13.02.2026 ·",
+              "App-Aktivitäten, App-Informationen und -Leistung und Geräte- oder andere IDs ... Ich habe es neben einem lied laufen lassen. Hat auch akkorde angezeigt. Aber sie waren viel zu schnell wieder weg."
+            ],
+            "description": "<strong>ZAX Akkord -Detektor</strong> hat die gleiche einfache Benutzeroberfläche , wie mein Fein chromatischer Tuner -App. Es verfügt nicht nur Akkorderkennung, sondern auch Spektrum-Analysator ."
+          },
+          "Mzb2wYtX": {
+            "url": "https://play.google.com/store/apps/details?id=de.smartchord.droid.plug.key&hl=de",
+            "date": null,
+            "rank": 2,
+            "title": "s.mart Song-Tonart-Finder – Apps bei Google Play",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/BRXcD4iaX7N7RXX5b2ues7rPiumLO6jABWJKycKQM3o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjgwZWUzMzVj/YTc2M2VmMDJlYjE2/YmIyYzA3Y2IwZDkx/ZGViYmUxOGU1Njk4/NGI0NDNhOTQ1N2Mw/MDYyNjk4Ny9wbGF5/Lmdvb2dsZS5jb20v",
+              "thumbnail": "https://play-lh.googleusercontent.com/J8Fz1jmrr8mHFulbZDIAtcHJzjyeWwcolzUKOztNn5OCzORJIrjgVT1bMwW84ukqnPg"
+            },
+            "snippets": [
+              "Der <strong>Tonart-Finder</strong> bestimmt die Tonart für einen Song, eine Akkordfolge oder eine beliebige Menge von Akkorden oder Noten. Mit dem s.mart Songbook können Sie jedes beliebige Lied aus einem der großen Internet-Songkatalogen abrufen und der ...",
+              "Der Tonart-Finder bestimmt die Tonart für einen Song, eine Akkordfolge oder eine beliebige Menge von Akkorden oder Noten. Mit dem s.mart Songbook können Sie jedes beliebige Lied aus einem der großen Internet-Songkatalogen abrufen und der Tonart-Finder erkennt die Tonart des Songs.",
+              "⭐ Die Akkorde zur Erkennung die Tonart können: ◾ aus einem Lied ausgewählt werden ◾ aus einer Akkordfolge entnommen werden ◾ als Text eingegeben werden ◾ aus dem riesigen Akkord-Dictionary mit mehr als 1000 Akkordtypen ausgewählt werden ⭐ Die Noten zur Erkennung die Tonart können entweder auf dem Griffbrett oder auf dem Piano eingegeben werden ⭐ Wenn die Tonart nicht eindeutig bestimmt werden kann, zeigt der Song-Tonart-Finder Ihnen an: ◾ welche Tonart in Frage kommen ◾ welche Töne für die Tonart fehlen ◾ welche Noten nicht zu der Tonart gehören ⭐ Der Tonart-Finder kennt mehr als 1000 Akkordtypen ⭐ Er zeigt Dur- und Moll-Tonarten an Eine \"musikalische Tonart\" bezieht sich auf einen bestimmten Satz von Tonhöhen oder Noten, die die Grundlage einer musikalischen Komposition oder eines Liedes bilden.",
+              "Harmonische Beziehungen: Musikalische Tonarten definieren die Beziehungen zwischen verschiedenen Tonhöhen oder Noten innerhalb der Tonleiter. Diese Beziehungen sind die Grundlage der Harmonie in der Musik und bestimmen, welche Akkorde und Tonfolgen in einem Stück üblicherweise verwendet werden.",
+              "Zusätzlich muss smartChord aus dem Play Store installiert werden: https://play.google.com/store/apps/details?id=de.smartchord.droid smartChord bietet viele weitere nützliche Tools für Musiker, wie die ultimative Referenz für Akkorde, Tonleitern, Picking Pattern oder das fantastisches Songbook."
+            ],
+            "description": "Der <strong>Tonart-Finder</strong> bestimmt die Tonart für einen Song, eine Akkordfolge oder eine beliebige Menge von Akkorden oder Noten. Mit dem s.mart Songbook können Sie jedes beliebige Lied aus einem der großen Internet-Songkatalogen abrufen und der ..."
+          },
+          "Ni1bm7pX": {
+            "url": "https://www.reddit.com/r/musictheory/comments/tj1g9x/app_that_shows_the_notes_or_chords_youre_playing/?tl=de",
+            "date": null,
+            "rank": 1,
+            "title": "r/musictheory on Reddit: App, die die Noten oder Akkorde anzeigt, die du spielst?",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+              "thumbnail": null
+            },
+            "snippets": [
+              "<strong>&quot;Chord ai&quot;</strong> für Android. Du kannst das Mikrofon benutzen, um die Akkorde zu erkennen, die du live spielst, oder die Akkorde, die in einem Song gespielt werden, oder sogar direkt in der App einen YouTube- oder Spotify-Song auswählen. Ich denke, das ist genau das, was du suchst.",
+              "Chord.AI - Tolle kleine App zur Akkorderkennung. ... Barrierefreiheit Reddit, Inc. © 2026.",
+              "Eine chromatische Tuner-App ist das, was du suchst, ich weiß aber nichts, was du außerhalb einer DAW laufen lassen kannst, das Akkorde erkennen kann. ... Danke!. Weißt du irgendwas, das mit einer DAW-App für Android funktionieren würde?",
+              "\"Chord ai\" für Android. Du kannst das Mikrofon benutzen, um die Akkorde zu erkennen, die du live spielst, oder die Akkorde, die in einem Song gespielt werden, oder sogar direkt in der App einen YouTube- oder Spotify-Song auswählen. Ich denke, das ist genau das, was du suchst.",
+              "Hallo zusammen, vielleicht könnt ihr mir helfen. Ich suche eine Android-App, die mir in Echtzeit sagt, welche Akkorde und Noten ich auf meinem MIDI-Piano anschlage. Im Grunde wie die Chordie-App , aber für Android. Oder eine Online-Lösung wie Shared Piano, die aber auch Akkorde anzeigt."
+            ],
+            "description": "<strong>&quot;Chord ai&quot;</strong> für Android. Du kannst das Mikrofon benutzen, um die Akkorde zu erkennen, die du live spielst, oder die Akkorde, die in einem Song gespielt werden, oder sogar direkt in der App einen YouTube- oder Spotify-Song auswählen. Ich denke, das ist genau das, was du suchst."
+          },
+          "NsMMrD2j": {
+            "url": "https://play.google.com/store/apps/details?id=com.soundcorset.client.android&hl=de&gl=US",
+            "date": null,
+            "rank": 9,
+            "title": "Stimmgerät & Metronom – Apps bei Google Play",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/BRXcD4iaX7N7RXX5b2ues7rPiumLO6jABWJKycKQM3o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjgwZWUzMzVj/YTc2M2VmMDJlYjE2/YmIyYzA3Y2IwZDkx/ZGViYmUxOGU1Njk4/NGI0NDNhOTQ1N2Mw/MDYyNjk4Ny9wbGF5/Lmdvb2dsZS5jb20v",
+              "thumbnail": "https://play-lh.googleusercontent.com/Lm9DdJQaP_trqI4pl36CbxLe7Cbzh8OSV0Elmrn7cQ5ZEJD8iJzfwdv8tdVCbqXdA-3PBhqtjhpAchM_2ljsyDE"
+            },
+            "snippets": [
+              "Stimmgerät, Metronom, Automatische Notenwender und KI-Tutor für alle Musiker",
+              "tablet_androidTablet · 4,5 · 164.000 Rezensionen · 5 · 4 · 3 · 2 · 1 · Fabio Uceda · more_vert · Als unangemessen melden · 20. April 2026 · Die meisten Musiker mit denen ich zusammen arbeite, sehen das Interface der App, nicken und kommentieren mit \"Ah, du auch...\"",
+              "Auch eine Berührung kann: • Starten / Stoppen Sie das Metronom • Schalten Sie den Stimmgerät ein • Umschalten zwischen Blitzlicht-, Vibrations- und Visual-Mode-Metronom • Nimm deine Musik auf • Wählen Sie Rhythmusmuster ★ KI-Coach für smarteres Üben: Nimm dein Üben auf und sieh dir visuelles KI-Feedback zu deiner Performance an. Der KI-Coach hilft dir zu verstehen, was du gut gespielt hast, Stellen mit Übungsbedarf zu erkennen und mit einem klareren Ziel zu üben."
+            ],
+            "description": "Stimmgerät, Metronom, Automatische Notenwender und KI-Tutor für alle Musiker"
+          },
+          "ZDovMVj0": {
+            "url": "https://play.google.com/store/apps/details?id=jp.co.yamaha.emi.chordtracker&hl=de",
+            "date": null,
+            "rank": 3,
+            "title": "Chord Tracker – Apps bei Google Play",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/BRXcD4iaX7N7RXX5b2ues7rPiumLO6jABWJKycKQM3o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjgwZWUzMzVj/YTc2M2VmMDJlYjE2/YmIyYzA3Y2IwZDkx/ZGViYmUxOGU1Njk4/NGI0NDNhOTQ1N2Mw/MDYyNjk4Ny9wbGF5/Lmdvb2dsZS5jb20v",
+              "thumbnail": "https://play-lh.googleusercontent.com/XIvQkqO9xXYgYAZtMh8AP13fpgfWydlah8oNWnLkWoUH7ADMz3QfulBLPlBn5nY-7QpR6gMrgANJMtV701KH"
+            },
+            "snippets": [
+              "Entdecken Sie die Akkorde in Audiospuren sofort mit der <strong>Yamaha Chord Tracker</strong>-App!",
+              "Nonen- und sus4, maj7, Sept-Bass, no3 und andere Akkordvariationen erkennt die Software zwar nicht, aber wenn man deren Charakter selber hören kann, hilft einem die App, sehr schnell die komplette Chordline rauszuschreiben. Die Funktionstöne kann man dann ja selber nach Gehör hinzufügen. Sehr hilfreich auch die Capo-Funktion! Tolles Tool! ... -We have updated the app to accommodate changes to Android OS specifications.",
+              "Wir melden das Problem derzeit an Google und fordern eine Antwort an. Wir entschuldigen uns für etwaige Unannehmlichkeiten. Android-Geräte haben das Problem bestätigt: Pixel 4a, Pixel 4XL Haben Sie jemals versucht herauszufinden, wie die Akkorde zu Ihren Lieblingsliedern lauten?",
+              "Die Yamaha Chord Tracker-App hilft Ihnen beim Üben und Aufführen von Songs, indem Sie den auf Ihrem Gerät gespeicherten Audio-Song analysieren und dann die Akkordsymbole für Sie anzeigen. [Eigenschaften] (1) Einfache Akkorddiagrammanzeige Ihrer Lieblingslieder Spielen Sie die Akkorde der auf Ihrem Gerät gespeicherten Audio-Songs ab, indem Sie einfach die von Chord Tracker extrahierte und auf dem Gerätedisplay angezeigte Akkordsequenz lesen.",
+              "Sie können die Akkorde sogar bearbeiten, um das Lied selbst zu arrangieren, indem Sie aus zwei empfohlenen Akkorden auswählen oder den Akkordstamm und den Akkordtyp auswählen."
+            ],
+            "description": "Entdecken Sie die Akkorde in Audiospuren sofort mit der <strong>Yamaha Chord Tracker</strong>-App!"
+          },
+          "ZZuXA6HN": {
+            "url": "https://tonaly.app/de/",
+            "date": null,
+            "rank": 5,
+            "title": "Tonaly App | Songwriting und Übe-App für iOS, iPad und macOS",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/dCfAkT_Y6yx6ElDaAM4V9cBZs2CZhrAk5X91ktRqOwI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzUzYTdmNmVh/ZTg2NWMxOTZjOTRk/ZWU3OWU4YWIxZDA1/NzhiMzA1YTBhM2E2/YzQ3ZDg5MmMxNjE5/ZjM0NDMxMS90b25h/bHkuYXBwLw",
+              "thumbnail": "https://tonaly.app/images/tonaly-preview.jpg"
+            },
+            "snippets": [
+              "<strong>Tonaly</strong> hilft dir passende Akkorde für deine Songs zu finden.",
+              "Tonaly hilft dir passende Akkorde für deine Songs zu finden.",
+              "Siehe, was zusammen passt. Akkorde einer Tonart sind hervorgehoben.",
+              "Verbinde passende Akkorde.",
+              "Nutze \"Borrowed Chords\" und Akkorderweiterungen."
+            ],
+            "description": "<strong>Tonaly</strong> hilft dir passende Akkorde für deine Songs zu finden."
+          },
+          "dx2Mdegk": {
+            "url": "https://play.google.com/store/apps/details?id=de.smartchord.droid&hl=de",
+            "date": null,
+            "rank": 7,
+            "title": "smart Chord: 40 Gitarren-Tools – Apps bei Google Play",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/BRXcD4iaX7N7RXX5b2ues7rPiumLO6jABWJKycKQM3o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjgwZWUzMzVj/YTc2M2VmMDJlYjE2/YmIyYzA3Y2IwZDkx/ZGViYmUxOGU1Njk4/NGI0NDNhOTQ1N2Mw/MDYyNjk4Ny9wbGF5/Lmdvb2dsZS5jb20v",
+              "thumbnail": "https://play-lh.googleusercontent.com/8tKaojy5jyQQNmCvXeLoxNuEXMxZWzrpF8RakPYXH9dNEWsID8i8dTZcdM6mOjcVuMN113fRaiusCO37e-aH"
+            },
+            "snippets": [
+              "Ein Songbook das seinesgleichen sucht. Es findet jedes erdenkliche Lied mit Akkorden für jedes beliebige Tuning und Instrument. Ohne Anmeldung und Account. Songs für Gitarre wandelt es selbständig für Ukulele, Bass oder Banjo um. Oder auch umgekehrt von Ukulele, für Gitarre, etc.",
+              "tablet_androidTablet · 4,6 · 53.300 Rezensionen · 5 · 4 · 3 · 2 · 1 · Thomas Wenselowski · more_vert · Als unangemessen melden · 1. Juli 2026 · DAS Multitool für Gitarristen und bediener ähnlicher Saiteninstrumente. Und jedesmal, wenn ich denke es ist perfekt...",
+              "Oder DAS Songbook mit Zugriff auf die weltweit größten Kataloge für Liedtexte, Akkorde und TABs. Nur das Beste sollte gut genug sein. Erwarte ein bestens integriertes Set an Werkzeugen. Grundlegendes wie Stimmgerät, Metronom oder Quintenzirkel. Aber eben besser.",
+              "Der Stimmgerät hat z.B. einen extra Saitenwechsel-Modus oder das Metronom einen Speed-Trainer. Die ultimative Akkord-Bibliothek kennt jeden Akkord und jede Griffmöglichkeit für jedes Instrument und jedes Tuning. Ausnahmslos! Umgekehrt gibt es für jeden beliebigen Griff den Akkord-Namen.",
+              "Ein Songbook das seinesgleichen sucht. Es findet jedes erdenkliche Lied mit Akkorden für jedes beliebige Tuning und Instrument. Ohne Anmeldung und Account. Songs für Gitarre wandelt es selbständig für Ukulele, Bass oder Banjo um. Oder auch umgekehrt von Ukulele, für Gitarre, etc."
+            ],
+            "description": "Ein Songbook das seinesgleichen sucht. Es findet jedes erdenkliche Lied mit Akkorden für jedes beliebige Tuning und Instrument. Ohne Anmeldung und Account. Songs für Gitarre wandelt es selbständig für Ukulele, Bass oder Banjo um. Oder auch umgekehrt von Ukulele, für Gitarre, etc."
+          },
+          "eFuPsEFp": {
+            "url": "https://www.reddit.com/r/musictheory/comments/14736jb/app_to_find_the_key_of_a_music/?tl=de",
+            "date": null,
+            "rank": 8,
+            "title": "r/musictheory on Reddit: App, um die Tonart eines Musikstücks zu finden?",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+              "thumbnail": "https://share.redd.it/preview/post/14736jb?tl=de"
+            },
+            "snippets": [
+              "Ich kann ein paar Akkorde auf der Gitarre spielen, kann sie aber nicht mit meiner Stimme abgleichen. ... Ich hab OpenKeyScan erstellt, 100% kostenlose Key-Erkennung mit vergleichbaren Ergebnissen wie die Top-Key-Erkennungssoftware – vom Macher von Lexicon ... Barrierefreiheit Reddit, Inc. © 2026.",
+              "Ich kann ein paar Akkorde auf der Gitarre spielen, kann sie aber nicht mit meiner Stimme abgleichen. ... Ich hab OpenKeyScan erstellt, 100% kostenlose Key-Erkennung mit vergleichbaren Ergebnissen wie die Top-Key-Erkennungssoftware – vom Macher von Lexicon ... Barrierefreiheit Reddit, Inc. © 2026.",
+              "Hallo zusammen, ich versuche, mein Gehör an Akkorde und Songs zu gewöhnen, um die Tonart eines Songs herauszufinden und darauf jammen zu können, wenn ich möchte. Das hat mich dazu gebracht, mich zu fragen, ob es eine App oder eine Website irgendwo gibt, die \"Shazam\"-ähnlich ist und die Tonart eines Songs durch Audio-Erkennung ermitteln kann.",
+              "Es gibt unzählige DAW-Funktionen und Plugins und eigenständige Tools, die Audio per FFT analysieren und die Tonhöhen und sogar die Akkorde identifizieren. Aber die Fähigkeit zu erkennen, welche dieser Tonhöhen die Tonika ist oder welcher Akkord die Tonika ist, erfordert viel menschliche Subjektivität, die sich algorithmisch nur schwer ausdrücken lässt.",
+              "Manchmal klingt einer der Dreiklänge sehr schräg, während die anderen beiden in Ordnung sind - und ich nehme dies als Zeichen dafür, dass es Modalität oder geliehene Akkorde gibt - also wechsle ich zum \"schrägen Akkord\" und isoliere dort den prominenten Ton und wiederhole den Vorgang, falls nötig."
+            ],
+            "description": "Ich kann ein paar Akkorde auf der Gitarre spielen, kann sie aber nicht mit meiner Stimme abgleichen. ... Ich hab OpenKeyScan erstellt, 100% kostenlose Key-Erkennung mit vergleichbaren Ergebnissen wie die Top-Key-Erkennungssoftware – vom Macher von Lexicon ... Barrierefreiheit Reddit, Inc. © 2026."
+          },
+          "h3UiGTWO": {
+            "url": "https://play.google.com/store/apps/details?id=com.chordai&hl=de",
+            "date": null,
+            "rank": 0,
+            "title": "Chord ai – Apps bei Google Play",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/BRXcD4iaX7N7RXX5b2ues7rPiumLO6jABWJKycKQM3o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjgwZWUzMzVj/YTc2M2VmMDJlYjE2/YmIyYzA3Y2IwZDkx/ZGViYmUxOGU1Njk4/NGI0NDNhOTQ1N2Mw/MDYyNjk4Ny9wbGF5/Lmdvb2dsZS5jb20v",
+              "thumbnail": "https://play-lh.googleusercontent.com/OteHaXEaOaot7mSwHAbvRSfa8a9V5J16L7h1mUa51i-RHBdYWOu3eL60YL1iLiB9h60X8Ml32NA_CSORvWfZjg"
+            },
+            "snippets": [
+              "2) Bei Audiodateien, die Sie auf Ihrem Gerät oder in der Cloud gespeichert haben, wird <strong>Chord ai</strong> die Datei in wenigen Sekunden analysieren, um Ihnen alle Akkorde des Liedes auf einmal anzuzeigen Jedes Feedback an android.support@chordai.net ...",
+              "tablet_androidTablet · 4,7 · 54.000 Rezensionen · 5 · 4 · 3 · 2 · 1 · TM.Creator · more_vert · Als unangemessen melden · 14. März 2026 · Super spannende App! Die Akkorderkennung ist (nahezu) PERFEKT! Es werden nur 2 Akkorde (spezielle Akkorde mit 6 verschiedenen Stimmen) nicht ganz korrekt erkannt.",
+              "Jedes Lied, das um Sie herum gespielt wird, oder von Ihrem Gerät gespielt wird, wird mithilfe des Mikrofons Ihres Geräts analysiert und die Akkorde des Liedes werden in Echtzeit angezeigt. 2) Bei Audiodateien, die Sie auf Ihrem Gerät oder in der Cloud gespeichert haben, wird Chord ai die Datei in wenigen Sekunden analysieren, um Ihnen alle Akkorde des Liedes auf einmal anzuzeigen Jedes Feedback an android.support@chordai.net ist willkommen.",
+              "Super spannende App! Die Akkorderkennung ist (nahezu) PERFEKT! Es werden nur 2 Akkorde (spezielle Akkorde mit 6 verschiedenen Stimmen) nicht ganz korrekt erkannt. In einer Aufnahme werden Pausen als Akkorde erkannt.",
+              "Zunächst war ich begeistert. Einen einfachen Song hat es gut analysiert. Allerdings die Einzel Töne eines langsamen Solo nicht. Kaufe also die Pro-Version.... Keine Änderung. Dann Test AC... Back in Black. Kenne die Akkorde. Leider sehr viele Fehlstellen und Fehler."
+            ],
+            "description": "2) Bei Audiodateien, die Sie auf Ihrem Gerät oder in der Cloud gespeichert haben, wird <strong>Chord ai</strong> die Datei in wenigen Sekunden analysieren, um Ihnen alle Akkorde des Liedes auf einmal anzuzeigen Jedes Feedback an android.support@chordai.net ..."
+          }
+        },
+        "isInterrupted": false,
+        "publicArguments": "Android App Tonlage Akkorde erkennen 2026",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Für die Erkennung der Tonlage von Akkorden auf Android gibt es mehrere empfehlenswerte Apps:\n\n**Chord ai** ist eine der beliebtesten Apps, die Akkorde in Echtzeit über das Mikrofon erkennt – sowohl für live gespielte Musik als auch für Audiodateien oder Songs von YouTube/Spotify. Die App analysiert die Akkorde schnell und zeigt sie an. Nutzer loben die hohe Genauigkeit, auch wenn es bei sehr komplexen Akkorden gelegentlich zu kleinen Abweichungen kommen kann",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "h3UiGTWO",
+          "Ni1bm7pX"
+        ]
+      },
+      {
+        "text": ".\n\nEine weitere Option ist **Yamaha Chord Tracker**, die Akkorde in Audiospuren erkennt und anzeigt. Sie eignet sich besonders für das Analysieren von auf dem Gerät gespeicherten Audio-Dateien und bietet eine einfache Akkorddiagramm-Anzeige",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "ZDovMVj0"
+        ]
+      },
+      {
+        "text": ".\n\nAuch **ZAX Chords - Akkord Detektor** bietet Akkorderkennung und einen Spektrum-Analysator, um Akkorde in Songs zu identifizieren",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "IVsnGABs"
+        ]
+      },
+      {
+        "text": ".\n\nFalls du eine App suchst, die speziell die Tonart eines Songs oder einer Akkordfolge bestimmt, könnte der **s.mart Song-Tonart-Finder** interessant sein",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "Mzb2wYtX"
+        ]
+      },
+      {
+        "text": ".\n\nMöchtest du eine bestimmte Funktion besonders betont haben, z. B. Echtzeit-Erkennung oder die Analyse von Audio-Dateien?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-07-30T18:27:14.619Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1785436034630,
+        "completedAtMs": 1785436042507,
+        "firstTokenAtMs": 1785436035546,
+        "generationStats": {
+          "outputTokens": 329,
+          "completionCount": 1,
+          "generationDurationMs": 6819,
+          "outputTokensPerSecond": 48.247543628097965
+        },
+        "timeToFirstTokenMs": 916,
+        "completionDurationMs": 7877,
+        "userMessageCreatedToCompletionMs": 9439
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "web_search"
+        ],
+        "integrationNames": [
+          "web_search"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "f0ac2644-2fbd-4390-ab87-67fc5282eabc",
+    "version": 0,
+    "chatId": "ae061469-a805-4489-9e4b-ee4b17d95b84",
+    "content": "Welche Android App kann die Tonlage von Akkorden erkennen?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-07-30T18:27:13.068Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  }
+]

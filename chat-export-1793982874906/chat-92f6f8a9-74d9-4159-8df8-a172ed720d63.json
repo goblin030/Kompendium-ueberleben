@@ -1,0 +1,299 @@
+[
+  {
+    "id": "249f2a71-930c-42f3-9745-5e080dd55927",
+    "version": 0,
+    "chatId": "92f6f8a9-74d9-4159-8df8-a172ed720d63",
+    "content": "wleche Datracenter Provider gibt es in Berlin ?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-11-04T13:53:58.696Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "09edc6fc-6d7f-4ddb-9bc7-c7a5f8e1564b",
+    "version": 0,
+    "chatId": "92f6f8a9-74d9-4159-8df8-a172ed720d63",
+    "content": "In Berlin gibt es einen recht lebendigen Rechenzentrumsmarkt – laut Berlin.de und Marktdatenbanken sind es rund 25–30 Standorte von über 20 Betreibern ([berlin.de](search-result://odp89Knq), [Baxtel](search-result://CsLKJDHD)). Hier ein Überblick der wichtigsten Provider:\n\n## Große kommerzielle Colocation-Anbieter (carrier-neutral)\n\n- **NTT Global Data Centers** – Berlin 1 (ehem. e-shelter, Spandau, ~13.000 m²) und Berlin 2 (Marienpark); Berlin 3 in Brieselang mit 96 MW geplant ([netzikon.net](search-result://TDlMNs1m), [Dr. Web](search-result://TOWLnNCu))\n- **Vantage Data Centers** – Campus in Ludwigsfelde und Mittenwalde (BER11–14, Berlin II) ([netzikon.net](search-result://TDlMNs1m))\n- **maincubes** – BER01 in Charlottenburg; BER02 in Nauen mit 200 MW im Bau ([netzikon.net](search-result://TDlMNs1m))\n- **NorthC** – Rechenzentren in Neukölln (Gradestraße) ([berlin.de](search-result://odp89Knq))\n- **VIRTUS Data Centres** – Marienpark-Campus (57,6 MW im Bau) ([netzikon.net](search-result://TDlMNs1m))\n- **Penta Infra** – BER01/02 in Mahlsdorf (Florastraße) ([berlin.de](search-result://odp89Knq))\n- **AtlasEdge** – Rechenzentrum in der Wiebestraße (Moabit) ([netzikon.net](search-result://TDlMNs1m))\n- **Colt** – Standorte in Tiergarten und Uhlandstraße ([berlin.de](search-result://odp89Knq), [Stefanux](search-result://Lx9EsdKJ))\n- **nLighten** – Berlin BER1 in Kleinmachnow ([Baxtel](search-result://CsLKJDHD))\n\n## Carrier- und Telco-Anbieter\n\n- **euNetworks** – Alboinstraße (Tempelhof-Schöneberg) ([berlin.de](search-result://odp89Knq))\n- **IPB / CarrierColo** – Lützowstraße (Potsdamer Platz) und Kitzingstraße ([netzikon.net](search-result://TDlMNs1m))\n- **Lumen (ehem. Level 3)** – Kitzingstraße ([Baxtel](search-result://CsLKJDHD))\n- **Speedbone** – Alboin Kontor ([berlin.de](search-result://odp89Knq))\n- **1&1 Versatel** – Gradestraße 40 ([netzikon.net](search-result://TDlMNs1m))\n- **Vodafone** – Attilastraße ([datacenters.com](search-result://jXRLlYUn))\n- **GTT / EXA Infrastructure** – Kleinmachnow bzw. Velten ([netzikon.net](search-result://TDlMNs1m))\n- **ITENOS** – Kleinmachnow ([netzikon.net](search-result://TDlMNs1m))\n\n## Regionaler / mittelständischer Anbieter\n\n- **ScaleUp Technologies** – Standorte in Britz, Spandau und Mahlsdorf ([berlin.de](search-result://odp89Knq))\n- **SysEleven** – Kreuzberg („Umspannwerk\") ([netzikon.net](search-result://TDlMNs1m))\n- **PŸUR / HL komm** – Mahlsdorf ([berlin.de](search-result://odp89Knq))\n- **3U Telecom** – Lorenzweg (Tempelhof) ([netzikon.net](search-result://TDlMNs1m))\n- **DNS:NET** – Neukölln und Mitte/Tiergarten ([berlin.de](search-result://odp89Knq))\n- **DC Data Castle** – Juliusturm (Spandau), 25 MW, geplant für 2026 ([Data Center Map](search-result://WI1p0GPO))\n\n## Hyperscale & Neubauprojekte in der Region\n\n- **Google** – Core Park (operational); **AWS** investiert 7,8 Mrd. € in Brandenburg ([Baxtel](search-result://CsLKJDHD), [Dr. Web](search-result://TOWLnNCu))\n- **Yondr** – Ragow, 42 MW im Bau ([netzikon.net](search-result://TDlMNs1m))\n- **Schwarz Digits** – 200 MW in Lübbenau ([netzikon.net](search-result://TDlMNs1m))\n- **Edged Energy, SDC Capital, WBS Power** – weitere geplante Großprojekte ([Baxtel](search-result://CsLKJDHD))\n\nZusammenfassung: Die klassischen City-Rechenzentren sitzen vor allem in Spandau (Nonnendammallee), am Potsdamer Platz (Lützowstraße) und in Neukölln/Tempelhof, während die großen Neubauprojekte wegen Stromverfügbarkeit und Flächenbedarf zunehmend ins Berliner Umland (Ludwigsfelde, Nauen, Brieselang, Lübbenau) wandern ([berlin.de](search-result://odp89Knq)).\n\nSoll ich für bestimmte Anbieter Details vergleichen, z. B. nach Zertifizierungen (Tier 3, ISO 27001), Verfügbarkeit oder Anbindung an den BCIX (Berliner Internetknoten)?",
+    "contentChunks": [
+      {
+        "text": "User asks in German (with typos): \"Welche Datacenter-Provider gibt es in Berlin?\" This is a question about data center providers in Berlin. This is factual and could benefit from web search. Language: German (user-authored text is German). Response in German.\n\nLet me search the web for datacenter providers in Berlin.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1793800442007,
+          "contextId": "harness-reasoning-0",
+          "startTime": 1793800440502
+        }
+      },
+      {
+        "id": "typescript:3:chatcmpl-tool-81e3132e792c5143:0:tool:0",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "chatcmpl-tool-81e3132e792c5143"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "id": "odp89Knq",
+              "url": "https://www.berlin.de/sen/wirtschaft/digitalisierung/digitale-infrastruktur/rechenzentren-1566416.php",
+              "title": "Rechenzentren - Berlin.de",
+              "favicon": "https://you.com/favicon?domain=www.berlin.de&size=128",
+              "description": "# Rechenzentren"
+            },
+            {
+              "id": "9y4LZlWI",
+              "url": "https://www.rechenzentrum-datacenter.de/",
+              "title": "Rechenzentren in Deutschland",
+              "favicon": "https://you.com/favicon?domain=www.rechenzentrum-datacenter.de&size=128",
+              "description": "# Rechenzentren in Deutschland"
+            },
+            {
+              "id": "WI1p0GPO",
+              "url": "https://www.datacentermap.com/germany/berlin/",
+              "title": "Berlin Data Centers - 46 Facilities from 27 Operators",
+              "favicon": "https://you.com/favicon?domain=www.datacentermap.com&size=128",
+              "thumbnail": "https://static.datacentermap.com/dcm/og/default.png",
+              "description": "Data Centers in Berlin - Colocation and Cloud facilities in Berlin (Germany) at Data Center Map"
+            },
+            {
+              "id": "oiKmBL1U",
+              "url": "https://www.datacenters.com/locations/germany/land-berlin/berlin",
+              "title": "Berlin Data Centers, List of Data Centers in Berlin, Germany",
+              "favicon": "https://you.com/favicon?domain=www.datacenters.com&size=128",
+              "thumbnail": "https://www.datacenters.com/images/default.png",
+              "description": "Explore Berlin data centers known for cutting-edge technology, reliable uptime, and scalable solutions to meet your growing business needs."
+            },
+            {
+              "id": "d7QhKkqg",
+              "url": "https://www.itdz-berlin.de/dienstleistungen/it-infrastruktur/rechenzentren/",
+              "title": "Rechenzentren - ITDZ-Berlin.de",
+              "favicon": "https://you.com/favicon?domain=www.itdz-berlin.de&size=128",
+              "description": "# Rechenzentren"
+            },
+            {
+              "id": "zEZnHqJt",
+              "url": "https://realcloud.de/datacenter/standorte/",
+              "title": "Standorte & Kennzahlen Rechenzentren - Berlin",
+              "favicon": "https://you.com/favicon?domain=realcloud.de&size=128",
+              "description": "100% Cloud in Deutschland - wir betreiben unsere Rechenzentren gemeinsam mit e-Shelter in Berlin und Frankfurt - TÜV 3 und ISO 27001 zertifiziert."
+            },
+            {
+              "id": "TOWLnNCu",
+              "url": "https://www.drweb.de/10-groessten-rechenzentren-deutschlands/",
+              "title": "Welche 15 Rechenzentren dominieren Deutschland? Die große Hitparade 2026",
+              "favicon": "https://you.com/favicon?domain=www.drweb.de&size=128",
+              "thumbnail": "https://www.drweb.de/wp-content/uploads/2026/11/groesste-rechenzentren-deutschlands-2026-siegertreppchen-mit-drei-miniatur-serverschraenken-orangefarbene-schleife-auf-dem-obersten-platz-beitragsbild.jpg",
+              "description": "Welche Rechenzentren dominieren Deutschland? Die 30 größten Standorte (inkl. Neubauprojekte), aktuelle Kosten und KI-Trends für Entscheider. Lesen Sie die Hitparade?"
+            },
+            {
+              "id": "CsLKJDHD",
+              "url": "https://baxtel.com/data-center/berlin",
+              "title": "Berlin Data Centers & Colocation",
+              "favicon": "https://you.com/favicon?domain=baxtel.com&size=128",
+              "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?format=jpg&amp;size=600x315&amp;markers=52.43269,13.37386|52.53851,13.23829|52.438382,13.37376|52.438512,13.375002|52.439087,13.373875|52.439771,13.37352|52.561923,13.1785121|52.322058,13.294922|52.263776073357306,13.573468255304933|52.323362,13.296456|52.322999,13.293033|52.32301129983631,13.297350798820135|52.26308376197046,13.57408996060392|52.32026562408776,13.295084369156887|52.31914419696032,13.29534186120184|52.31953768338378,13.29816354495324|52.4394971421275,13.368840197077962|52.439601394917894,13.369507985059014|52.43972550506104,13.370452660739526|52.4398098997587,13.371234461302707|52.55961478964467,12.931353227193952|52.55851539765914,12.931323822654505|52.55739810113978,12.93544045822287|52.55830981722331,12.935396351413699|52.55737128567403,12.937410562365907|52.55833663211542,12.937395860096183|52.55733553169423,12.93946888012729|52.55814892752648,12.939424773318118|52.55922151437581,12.935705099032305|52.4528805,13.4284306|52.52000659999999,13.404954|52.465789,13.370104|52.43269,13.37386|52.50201999999999,13.36934|52.465789,13.370104|52.50201999999999,13.36934|52.44856,13.361987481745|52.2722496,13.5875764|52.47733909999999,13.3045823|52.59326857823088,12.893157818372236|52.07924,13.508537|52.5136852,13.6175598|52.513658641515086,13.618220020205623|52.2653762,13.536654|52.5275092,13.3188524|52.2180003,13.2249752|52.52000659999999,13.404954|52.40793,13.19086|52.5295532,13.4174083|52.53091269999999,13.5112488|51.847432030554245,13.966160294485189|51.599108,13.739352|51.59825802485403,13.743478036664602&amp;key=AIzaSyA1GN50aNpz22qPwwnXMNpM_nuyFbOkdEU",
+              "description": "Explore 53 data centers in Berlin. Compare colocation facilities with detailed specs, pricing, and location maps for informed decisions."
+            },
+            {
+              "id": "TDlMNs1m",
+              "url": "https://netzikon.net/misc/rechenzentren.html",
+              "title": "Rechenzentren in Deutschland",
+              "favicon": "https://you.com/favicon?domain=netzikon.net&size=128",
+              "thumbnail": "https://netzikon.net/og/rechenzentren.png",
+              "description": "451 Rechenzentren in Deutschland nach Bundesland, dazu 56 Projekte in Bau oder Planung: Standort, Betreiber und Internetknoten — zusammengetragen aus PeeringDB, OpenStreetMap und Data Center Map."
+            },
+            {
+              "id": "n0Zhwdvz",
+              "url": "https://www.aixit.com/rechenzentren/rechenzentren-deutschland/rechenzentrum-berlin",
+              "title": "Rechenzentrum Berlin",
+              "favicon": "https://you.com/favicon?domain=www.aixit.com&size=128",
+              "thumbnail": "https://www.aixit.com/typo3temp/assets/_processed_/d/3/csm_og-aixit_700871d992.jpg",
+              "description": "Hochmodernes Rechenzentrum Berlin mit Colocation, Sicherheit & Redundanz. Ideal für Unternehmen, die IT-Infrastruktur in Berlin suchen."
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "Rechenzentrum Berlin Provider Liste Datacenter Betreiber",
+        "requiresConfirmation": false
+      },
+      {
+        "id": "typescript:3:chatcmpl-tool-81e3132e792c5143:1:tool:1",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "chatcmpl-tool-81e3132e792c5143"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "id": "D2LsksCj",
+              "url": "https://datacenterhawk.com/marketplace/markets/berlin/facilities",
+              "title": "Berlin Data Centers - datacenterHawk - datacenterHawk",
+              "favicon": "https://you.com/favicon?domain=datacenterhawk.com&size=128",
+              "thumbnail": "https://datacenterhawk.com/marketplace-facilities.png",
+              "description": "View all colocation data centers in the Berlin market."
+            },
+            {
+              "id": "zhHx3SFd",
+              "url": "https://www.ocolo.io/data-centers/germany/berlin/berlin/",
+              "title": "Data Centers in Berlin, Berlin - 7 Facilities",
+              "favicon": "https://you.com/favicon?domain=www.ocolo.io&size=128",
+              "thumbnail": "https://www.ocolo.iohttps://d1zbyti86j8cwr.cloudfront.net/img/stock_images/OCOLO-global-map.webp",
+              "description": "Discover 7 data centers in Berlin, Berlin from 5 providers including Maincubes, Vantage Data Centers, Colt Data Centres. Compare colocation services with 304+ MW capacity. Get personalized quotes and expert recommendations."
+            },
+            {
+              "id": "ZTC3bfqK",
+              "url": "https://baxtel.com/data-center/berlin",
+              "title": "Berlin Data Centers & Colocation",
+              "favicon": "https://you.com/favicon?domain=baxtel.com&size=128",
+              "thumbnail": "https://maps.googleapis.com/maps/api/staticmap?format=jpg&amp;size=600x315&amp;markers=52.43269,13.37386|52.53851,13.23829|52.438382,13.37376|52.438512,13.375002|52.439087,13.373875|52.439771,13.37352|52.561923,13.1785121|52.322058,13.294922|52.263776073357306,13.573468255304933|52.323362,13.296456|52.322999,13.293033|52.32301129983631,13.297350798820135|52.26308376197046,13.57408996060392|52.32026562408776,13.295084369156887|52.31914419696032,13.29534186120184|52.31953768338378,13.29816354495324|52.4394971421275,13.368840197077962|52.439601394917894,13.369507985059014|52.43972550506104,13.370452660739526|52.4398098997587,13.371234461302707|52.55961478964467,12.931353227193952|52.55851539765914,12.931323822654505|52.55739810113978,12.93544045822287|52.55830981722331,12.935396351413699|52.55737128567403,12.937410562365907|52.55833663211542,12.937395860096183|52.55733553169423,12.93946888012729|52.55814892752648,12.939424773318118|52.55922151437581,12.935705099032305|52.4528805,13.4284306|52.52000659999999,13.404954|52.465789,13.370104|52.43269,13.37386|52.50201999999999,13.36934|52.465789,13.370104|52.50201999999999,13.36934|52.44856,13.361987481745|52.2722496,13.5875764|52.47733909999999,13.3045823|52.59326857823088,12.893157818372236|52.07924,13.508537|52.5136852,13.6175598|52.513658641515086,13.618220020205623|52.2653762,13.536654|52.5275092,13.3188524|52.2180003,13.2249752|52.52000659999999,13.404954|52.40793,13.19086|52.5295532,13.4174083|52.53091269999999,13.5112488|51.847432030554245,13.966160294485189|51.599108,13.739352|51.59825802485403,13.743478036664602&amp;key=AIzaSyA1GN50aNpz22qPwwnXMNpM_nuyFbOkdEU",
+              "description": "Explore 53 data centers in Berlin. Compare colocation facilities with detailed specs, pricing, and location maps for informed decisions."
+            },
+            {
+              "id": "jXRLlYUn",
+              "url": "https://www.datacenters.com/locations/germany/land-berlin/berlin",
+              "title": "Berlin Data Centers, List of Data Centers in Berlin, Germany",
+              "favicon": "https://you.com/favicon?domain=www.datacenters.com&size=128",
+              "thumbnail": "https://www.datacenters.com/images/default.png",
+              "description": "Explore Berlin data centers known for cutting-edge technology, reliable uptime, and scalable solutions to meet your growing business needs."
+            },
+            {
+              "id": "GyZot1cB",
+              "url": "https://datacenterhawk.com/marketplace/markets/berlin/providers",
+              "title": "Berlin Data Center Providers - Colocation Markets",
+              "favicon": "https://you.com/favicon?domain=datacenterhawk.com&size=128",
+              "thumbnail": "https://datacenterhawk.com/marketplace-providers.png",
+              "description": "View all colocation data center providers in the Berlin market."
+            },
+            {
+              "id": "tq6ZRlyy",
+              "url": "https://www.datacenterjournal.com/data-centers/germany/berlin/",
+              "title": "Data Centers in Berlin Dec 2024",
+              "favicon": "https://you.com/favicon?domain=www.datacenterjournal.com&size=128",
+              "description": "Looking for data centers in Berlin? If you want to make an informed decision, you must read The Data Center Journal's roundup, including meaningful facts and figures."
+            },
+            {
+              "id": "MpzkXjL8",
+              "url": "https://www.datacenters.com/locations/germany/land-berlin",
+              "title": "Land Berlin Data Centers - Providers Map in Land Berlin, Germany",
+              "favicon": "https://you.com/favicon?domain=www.datacenters.com&size=128",
+              "thumbnail": "https://www.datacenters.com/images/default.png",
+              "description": "Data Centers in Land Berlin with map. List of available providers and facilities in Land Berlin, Germany, including Colocation, Bare Metal Servers, and IaaS Data Centers."
+            },
+            {
+              "id": "OSihozYP",
+              "url": "https://www.datacenters.com/locations/germany",
+              "title": "Germany Data Centers - Providers Map in Germany",
+              "favicon": "https://you.com/favicon?domain=www.datacenters.com&size=128",
+              "thumbnail": "https://www.datacenters.com/images/default.png",
+              "description": "Data Centers in Germany with map. List of available providers and facilities in Germany, including Colocation, Bare Metal Servers, and IaaS Data Centers."
+            },
+            {
+              "id": "W4JZSxCj",
+              "url": "https://www.rechenzentrum-datacenter.de/",
+              "title": "Rechenzentren in Deutschland",
+              "favicon": "https://you.com/favicon?domain=www.rechenzentrum-datacenter.de&size=128",
+              "description": "# Rechenzentren in Deutschland"
+            },
+            {
+              "id": "Lx9EsdKJ",
+              "url": "https://www.stefanux.de/wiki/doku.php/server/co-location-und-housing",
+              "title": "server:co-location-und-housing [Dokumentation für Linux-Admins [stefanux.de]]",
+              "favicon": "https://you.com/favicon?domain=www.stefanux.de&size=128",
+              "description": "# Co-location und Housing"
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "colocation data center providers Berlin list",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Compose a German answer listing data center providers in Berlin, grouped by category: carrier-neutral colocation providers, carrier/telco, regional providers, hyperscale/under construction, and Brandenburg surroundings. Cite sources with markdown links using the URIs.\n\nKeep it reasonably concise but informative. Use a table? Rich-ui skill says use data-visualization when comparing options/tradeoffs. A table could be fine, but a structured list is fine too. Keep it as a markdown list grouped by category with citations.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1793800448752,
+          "contextId": "harness-reasoning-4",
+          "startTime": 1793800446265
+        }
+      },
+      {
+        "text": "In Berlin gibt es einen recht lebendigen Rechenzentrumsmarkt – laut Berlin.de und Marktdatenbanken sind es rund 25–30 Standorte von über 20 Betreibern ([berlin.de](search-result://odp89Knq), [Baxtel](search-result://CsLKJDHD)). Hier ein Überblick der wichtigsten Provider:\n\n## Große kommerzielle Colocation-Anbieter (carrier-neutral)\n\n- **NTT Global Data Centers** – Berlin 1 (ehem. e-shelter, Spandau, ~13.000 m²) und Berlin 2 (Marienpark); Berlin 3 in Brieselang mit 96 MW geplant ([netzikon.net](search-result://TDlMNs1m), [Dr. Web](search-result://TOWLnNCu))\n- **Vantage Data Centers** – Campus in Ludwigsfelde und Mittenwalde (BER11–14, Berlin II) ([netzikon.net](search-result://TDlMNs1m))\n- **maincubes** – BER01 in Charlottenburg; BER02 in Nauen mit 200 MW im Bau ([netzikon.net](search-result://TDlMNs1m))\n- **NorthC** – Rechenzentren in Neukölln (Gradestraße) ([berlin.de](search-result://odp89Knq))\n- **VIRTUS Data Centres** – Marienpark-Campus (57,6 MW im Bau) ([netzikon.net](search-result://TDlMNs1m))\n- **Penta Infra** – BER01/02 in Mahlsdorf (Florastraße) ([berlin.de](search-result://odp89Knq))\n- **AtlasEdge** – Rechenzentrum in der Wiebestraße (Moabit) ([netzikon.net](search-result://TDlMNs1m))\n- **Colt** – Standorte in Tiergarten und Uhlandstraße ([berlin.de](search-result://odp89Knq), [Stefanux](search-result://Lx9EsdKJ))\n- **nLighten** – Berlin BER1 in Kleinmachnow ([Baxtel](search-result://CsLKJDHD))\n\n## Carrier- und Telco-Anbieter\n\n- **euNetworks** – Alboinstraße (Tempelhof-Schöneberg) ([berlin.de](search-result://odp89Knq))\n- **IPB / CarrierColo** – Lützowstraße (Potsdamer Platz) und Kitzingstraße ([netzikon.net](search-result://TDlMNs1m))\n- **Lumen (ehem. Level 3)** – Kitzingstraße ([Baxtel](search-result://CsLKJDHD))\n- **Speedbone** – Alboin Kontor ([berlin.de](search-result://odp89Knq))\n- **1&1 Versatel** – Gradestraße 40 ([netzikon.net](search-result://TDlMNs1m))\n- **Vodafone** – Attilastraße ([datacenters.com](search-result://jXRLlYUn))\n- **GTT / EXA Infrastructure** – Kleinmachnow bzw. Velten ([netzikon.net](search-result://TDlMNs1m))\n- **ITENOS** – Kleinmachnow ([netzikon.net](search-result://TDlMNs1m))\n\n## Regionaler / mittelständischer Anbieter\n\n- **ScaleUp Technologies** – Standorte in Britz, Spandau und Mahlsdorf ([berlin.de](search-result://odp89Knq))\n- **SysEleven** – Kreuzberg („Umspannwerk\") ([netzikon.net](search-result://TDlMNs1m))\n- **PŸUR / HL komm** – Mahlsdorf ([berlin.de](search-result://odp89Knq))\n- **3U Telecom** – Lorenzweg (Tempelhof) ([netzikon.net](search-result://TDlMNs1m))\n- **DNS:NET** – Neukölln und Mitte/Tiergarten ([berlin.de](search-result://odp89Knq))\n- **DC Data Castle** – Juliusturm (Spandau), 25 MW, geplant für 2026 ([Data Center Map](search-result://WI1p0GPO))\n\n## Hyperscale & Neubauprojekte in der Region\n\n- **Google** – Core Park (operational); **AWS** investiert 7,8 Mrd. € in Brandenburg ([Baxtel](search-result://CsLKJDHD), [Dr. Web](search-result://TOWLnNCu))\n- **Yondr** – Ragow, 42 MW im Bau ([netzikon.net](search-result://TDlMNs1m))\n- **Schwarz Digits** – 200 MW in Lübbenau ([netzikon.net](search-result://TDlMNs1m))\n- **Edged Energy, SDC Capital, WBS Power** – weitere geplante Großprojekte ([Baxtel](search-result://CsLKJDHD))\n\nZusammenfassung: Die klassischen City-Rechenzentren sitzen vor allem in Spandau (Nonnendammallee), am Potsdamer Platz (Lützowstraße) und in Neukölln/Tempelhof, während die großen Neubauprojekte wegen Stromverfügbarkeit und Flächenbedarf zunehmend ins Berliner Umland (Ludwigsfelde, Nauen, Brieselang, Lübbenau) wandern ([berlin.de](search-result://odp89Knq)).\n\nSoll ich für bestimmte Anbieter Details vergleichen, z. B. nach Zertifizierungen (Tier 3, ISO 27001), Verfügbarkeit oder Anbindung an den BCIX (Berliner Internetknoten)?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-11-04T13:53:58.763Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1793800438728,
+        "completedAtMs": 1793800466569,
+        "firstTokenAtMs": 1793800440501,
+        "generationStats": {
+          "outputTokens": 1505,
+          "completionCount": 2,
+          "generationDurationMs": 21931,
+          "outputTokensPerSecond": 68.62432173635493
+        },
+        "timeToFirstTokenMs": 1773,
+        "bootstrapDurationMs": 1387,
+        "completionDurationMs": 27841,
+        "userMessageCreatedToCompletionMs": 27873
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "run_typescript",
+          "web_search"
+        ],
+        "integrationNames": [
+          "web_search"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "id": "7ef86dac-cfb7-444d-a69d-fb35feea94fb",
+    "version": 0,
+    "chatId": "18250764-0ee8-4e4b-87b1-30834415c2fc",
+    "content": "Wie lange sind lsd und MDMA in Blut und Urin nachweisbar?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-10-13T10:38:26.848Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "d528ff0e-e66a-4f60-9aa2-68913a27fd2c",
+    "version": 0,
+    "chatId": "18250764-0ee8-4e4b-87b1-30834415c2fc",
+    "content": "Kurz zusammengefasst (Werte gelten für einmaligen Konsum; bei regelmäßigem/heftigem Konsum können die Fenster länger sein):\n\n| Substanz | Blut | Urin |\n|---|---|---|\n| **LSD** | ca. 6–12 Stunden | ca. 1–3 Tage (Metabolit 2-Oxo-3-hydroxy-LSD mit empfindlicher Labormethode bis zu 4–5 Tage) |\n| **MDMA/Ecstasy** | ca. 12–24 Stunden | ca. 1–4 Tage (pH-abhängig) |\n\nEin paar wichtige Punkte dazu:\n\n- **LSD ist sehr schwer nachzuweisen**: Die Wirkdosen liegen im Mikrogrammbereich, sodass die Konzentrationen extrem niedrig sind. In gängigen Drogen-Schnelltests (z. B. bei Verkehrskontrollen) ist LSD **nicht** enthalten – ein Nachweis erfordert eine gezielte Blutentnahme und Spezialanalyse per LC-MS/MS im Labor ([Modernmind](search-result://CGgw4O2Q), [Open-Mind Market](search-result://gHano3mz)).\n- **MDMA** ist dagegen Standard in vielen Schnelltests und laborchemisch vergleichsweise einfach feststellbar ([Kanzlei Kämpf](search-result://0OQOaxUv)).\n- Die tatsächliche Nachweisbarkeit hängt von Dosis, Konsumhäufigkeit, Stoffwechsel, Urin-pH und der Empfindlichkeit der Testmethode ab ([Caritas](search-result://wafEdDDP), [Ikon Recovery](search-result://KH1lNSTU)).\n\nRechtlicher Hinweis für Deutschland: Im Straßenverkehr gilt für beide Substanzen die 0,0-Promille-Grenze analog des § 24a StVG („Drogen im Straßenverkehr“ – eine führerscheinrechtliche Wiegefeststellung kann schon bei geringsten Mengen im Blut erfolgen, unabhängig von einer konkreten Beeinträchtigung).",
+    "contentChunks": [
+      {
+        "text": "This is a factual question about drug detection times. It's a health/legal factual question. Should I search the web? The instructions say search before answering whenever the answer depends on checkable real-world facts. Detection windows are fairly stable medical knowledge, but searching is recommended. This is a legitimate harm-reduction/medical question. Answer in German.\n\nI could answer from general knowledge — detection windows are stable knowledge. But guidelines say search for facts I may not know precisely. Detection windows for LSD and MDMA are standard pharmacology knowledge. I think a quick search would still be good practice. Let me do a search to be safe.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1791887908441,
+          "contextId": "harness-reasoning-0",
+          "startTime": 1791887907733
+        }
+      },
+      {
+        "id": "typescript:3:chatcmpl-tool-bc1d0b52829955d5:0:tool:0",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "chatcmpl-tool-bc1d0b52829955d5"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "id": "CGgw4O2Q",
+              "url": "https://modernmind.eu/blogs/psychedelika/wie-lang-ist-lsd-nachweisbar",
+              "title": "In Blut, Urin & Co: Wie lang ist LSD nachweisbar?",
+              "favicon": "https://www.google.com/s2/favicons?domain=modernmind.eu&sz=256",
+              "description": "Speed: Die Nachweisbarkeitsgrenze liegt bei drei Tagen, wenn die Substanz durch die Nase konsumiert wurde. MDMA: <strong>Maximal vier Tage ist die Einnahme von Ecstasy im Urin feststellbar, im Blut hingegen gibt es nur 12 Stunden einen Nachweis</strong>."
+            },
+            {
+              "id": "1dSoIk7e",
+              "url": "https://medshun.com/article/is-lsd-detectable-through-blood-or-urine",
+              "title": "Detecting Lsd: Blood And Urine Tests Explained | MedShun",
+              "favicon": "https://www.google.com/s2/favicons?domain=medshun.com&sz=256",
+              "description": "<strong>Urine tests can detect LSD for up to 2 to 5 days</strong>, while saliva tests have a detection window of 8 to 12 hours. Hair tests for LSD are uncommon due to the difficulty in accurately detecting the drug and its metabolites, and they may be contaminated ..."
+            },
+            {
+              "id": "vjjMEtrm",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4920965/",
+              "title": "OBJECTIVE TESTING – URINE AND OTHER DRUG TESTS - PMC",
+              "favicon": "https://www.google.com/s2/favicons?domain=pmc.ncbi.nlm.nih.gov&sz=256",
+              "description": "LSD, Mushrooms, Synthetic Cannabinoids, Ecstasy (MDMA) <strong>will not be detected by typical drug testing</strong> · There are multiple sources for biologic specimens (often referred to as “biological matrices” in the scientific literature): urine, blood, saliva, hair, breath, sweat, and meconium."
+            },
+            {
+              "id": "Naavai3n",
+              "url": "https://www.hodsdon.com/wiki/uploads/Main/15228165.pdf",
+              "title": "BASEL PROCEEDINGS Detection Times of Drugs of Abuse in Blood, Urine,",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.hodsdon.com&sz=256",
+              "description": "<strong>administration of 100 mg of MDMA was detectable in blood</strong>"
+            },
+            {
+              "id": "MO8gYONX",
+              "url": "https://shop-lsd.de/lsd-nachweisbarkeit-wie-lange-bleibt-lsd-im-koerper-messbar/",
+              "title": "LSD Nachweisbarkeit: Wie lange im Urin, Blut & Haar? [2026]",
+              "favicon": "https://www.google.com/s2/favicons?domain=shop-lsd.de&sz=256",
+              "description": "In forensischen Studien wurde festgestellt, dass <strong>LSD im Blut meist nur für 6 bis 12 Stunden messbar bleibt, während bestimmte Metaboliten im Urin bis zu 2–4 Tage nachweisbar sein können</strong>."
+            },
+            {
+              "id": "0OQOaxUv",
+              "url": "https://www.kanzlei-kaempf.net/nachweiszeiten-thc-cannabis-amphetamin-mdma-kokain-u-a-in-blut-urin-haar/",
+              "title": "Nachweiszeiten THC, Cannabis etc. - Rechtsanwalt Kämpf, München | Fachanwalt für Strafrecht",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.kanzlei-kaempf.net&sz=256",
+              "description": "<strong>Im Blut ist MDMA bis zu 24 Stunden nach dem Konsum nachzuweisen. Die Nachweisdauer im Urin beträgt zwischen ein bis vier Tagen</strong>. Dies ist vom PH-Wert abhängig. Die Wirkdauer liegt bei Ecstasy zwischen 3-5 Stunden."
+            },
+            {
+              "id": "KH1lNSTU",
+              "url": "https://www.ikonrecoverycenters.org/how-long-does-acid-stay-in-your-system/",
+              "title": "How Long Does Acid Stay in Your System? LSD Detection Times",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.ikonrecoverycenters.org&sz=256",
+              "description": "Blood tests are typically used in forensic settings, such as accident investigations or emergency room visits. Urine: LSD metabolites may be detectable in urine for <strong>1-3 days after use</strong> [2]. Some specialized, high-sensitivity tests can extend ..."
+            },
+            {
+              "id": "gHano3mz",
+              "url": "https://openmind.market/wissen/drogentest/",
+              "title": "Drogentests & Nachweisbarkeit – der komplette Guide - Open-Mind Market",
+              "favicon": "https://www.google.com/s2/favicons?domain=openmind.market&sz=256",
+              "description": "<strong>Klassisches LSD (LSD-25) ist theoretisch nachweisbar, aber nicht so wie THC, Kokain oder Amphetamine</strong>. LSD wirkt im Mikrogramm-Bereich und liegt nach der Einnahme nur in sehr kleinen Konzentrationen vor."
+            },
+            {
+              "id": "t7JxrIpi",
+              "url": "https://modernmind.eu/blogs/psychedelika/1bp-lsd-nachweisbarkeit",
+              "title": "Nachweisbarkeit von 1BP-LSD: Drogentest, Abbau & Zeitfenster",
+              "favicon": "https://www.google.com/s2/favicons?domain=modernmind.eu&sz=256",
+              "description": "<strong>LSD selbst ist nur für etwa 6 bis 12 Stunden nach der Einnahme nachweisbar</strong>. Bluttests eignen sich daher hauptsächlich zur Feststellung einer akuten Intoxikation, beispielsweise nach einem Unfall oder im Rahmen klinischer Studien, sind aber ..."
+            },
+            {
+              "id": "wafEdDDP",
+              "url": "https://www.caritas.de/beitraege/wielangeistlsdnachweisbar/167526/",
+              "title": "Wie lange ist LSD nachweisbar?",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.caritas.de&sz=256",
+              "description": "<strong>Im Blut ist LSD bis zu zwölf Stunden und im Urin bis zu drei Tagen</strong> vorzufinden. Bei &quot;Hardusern&quot; kann es bis zu drei Monate im Urin nachgewiesen werden."
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "LSD MDMA Nachweisbarkeit Blut Urin detection window blood urine",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "I have good sources. Answer in German with a concise table or structured answer. The rich-ui skill says to use it when data reads better as visual structure/comparisons. A comparison of detection windows across substances and matrices could warrant a table. But this is fairly simple — a small table in chat is fine. Guidelines say use rich-ui skill when comparisons/tradeoffs. Hmm, \"comparisons\" of detection windows — could use data-visualization. But it's simple enough; I'll answer with a compact markdown table in chat. Actually the skill says \"YOU MUST use it when... the answer contains data that reads better as visual structure: comparisons...\" Detection windows across two substances × two matrices is comparison data. But loading rich-ui for a simple Q&A may be overkill. The instruction is strong though. Let me keep it simple with a markdown table in chat — tables in chat are fine for modest tables (\"Use chat for explanations and modest tables\"). This is a modest table.\n\nAnswer with citations.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1791887912354,
+          "contextId": "harness-reasoning-4",
+          "startTime": 1791887911035
+        }
+      },
+      {
+        "text": "Kurz zusammengefasst (Werte gelten für einmaligen Konsum; bei regelmäßigem/heftigem Konsum können die Fenster länger sein):\n\n| Substanz | Blut | Urin |\n|---|---|---|\n| **LSD** | ca. 6–12 Stunden | ca. 1–3 Tage (Metabolit 2-Oxo-3-hydroxy-LSD mit empfindlicher Labormethode bis zu 4–5 Tage) |\n| **MDMA/Ecstasy** | ca. 12–24 Stunden | ca. 1–4 Tage (pH-abhängig) |\n\nEin paar wichtige Punkte dazu:\n\n- **LSD ist sehr schwer nachzuweisen**: Die Wirkdosen liegen im Mikrogrammbereich, sodass die Konzentrationen extrem niedrig sind. In gängigen Drogen-Schnelltests (z. B. bei Verkehrskontrollen) ist LSD **nicht** enthalten – ein Nachweis erfordert eine gezielte Blutentnahme und Spezialanalyse per LC-MS/MS im Labor ([Modernmind](search-result://CGgw4O2Q), [Open-Mind Market](search-result://gHano3mz)).\n- **MDMA** ist dagegen Standard in vielen Schnelltests und laborchemisch vergleichsweise einfach feststellbar ([Kanzlei Kämpf](search-result://0OQOaxUv)).\n- Die tatsächliche Nachweisbarkeit hängt von Dosis, Konsumhäufigkeit, Stoffwechsel, Urin-pH und der Empfindlichkeit der Testmethode ab ([Caritas](search-result://wafEdDDP), [Ikon Recovery](search-result://KH1lNSTU)).\n\nRechtlicher Hinweis für Deutschland: Im Straßenverkehr gilt für beide Substanzen die 0,0-Promille-Grenze analog des § 24a StVG („Drogen im Straßenverkehr“ – eine führerscheinrechtliche Wiegefeststellung kann schon bei geringsten Mengen im Blut erfolgen, unabhängig von einer konkreten Beeinträchtigung).",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-10-13T10:38:27.170Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1791887906869,
+        "completedAtMs": 1791887915107,
+        "firstTokenAtMs": 1791887907733,
+        "generationStats": {
+          "outputTokens": 837,
+          "completionCount": 2,
+          "generationDurationMs": 4705,
+          "outputTokensPerSecond": 177.89585547290116
+        },
+        "timeToFirstTokenMs": 864,
+        "bootstrapDurationMs": 539,
+        "completionDurationMs": 8238,
+        "userMessageCreatedToCompletionMs": 8259
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "run_typescript",
+          "web_search"
+        ],
+        "integrationNames": [
+          "web_search"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  }
+]

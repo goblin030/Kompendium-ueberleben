@@ -1,0 +1,160 @@
+[
+  {
+    "id": "533dba47-4e69-4408-922f-5d7bfae5b2ef",
+    "version": 0,
+    "chatId": "8174d93a-fec4-4de4-837d-ccd7030a6264",
+    "content": "unterstützen Intel Xeon Gold 6136 TDX?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-09-10T12:10:38.435Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "b84225b5-e411-46ff-89ec-037779c4b7a1",
+    "version": 0,
+    "chatId": "8174d93a-fec4-4de4-837d-ccd7030a6264",
+    "content": "Nein, der **Intel Xeon Gold 6136 unterstützt keine Intel TDX (Trust Domain Extensions)**.\n\nLaut den aktuellen Informationen ist Intel TDX erst ab der **4. Generation (Sapphire Rapids)** und **5. Generation (Emerald Rapids)** der Intel Xeon Scalable Prozessoren verfügbar. Der Xeon Gold 6136 gehört zur **1. Generation (Skylake-SP)** und bietet daher keine TDX-Unterstützung [openmetal.io](search-result://R1LeU1wo) [intel.com](search-result://SZrOWIpE).",
+    "contentChunks": [
+      {
+        "text": "Der Benutzer fragt auf Deutsch, ob Intel Xeon Gold 6136 TDX unterstützt. Ich muss diese spezifische Information recherchieren. TDX steht für Intel Trust Domain Extensions. Ich sollte eine Websuche durchführen, um offizielle Intel-Dokumentation oder verlässliche Quellen zu finden, die die TDX-Unterstützung für diesen spezifischen Prozessor bestätigen. Die Suchanfrage sollte auf Deutsch sein, um relevante Ergebnisse zu erhalten.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1789042240928,
+          "contextId": "harness-reasoning-0",
+          "startTime": 1789042239909
+        }
+      },
+      {
+        "id": "typescript:3:5iLezdzKh:0:tool:0",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "5iLezdzKh"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "id": "vYlyXZNL",
+              "url": "https://www.intel.com/content/www/us/en/products/docs/accelerator-engines/trust-domain-extensions.html",
+              "title": "Intel® Trust Domain Extensions (Intel® TDX)",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.intel.com&sz=256",
+              "description": "Intel® Trust Domain Extensions (Intel TDX) is available on Intel® Xeon® processors, <strong>helping reduce the attack surface and protect data and applications through hardware-based isolation within virtual machines</strong>."
+            },
+            {
+              "id": "qTNccI5W",
+              "url": "https://www.intel.com/content/www/us/en/support/articles/000100767/processors/intel-xeon-processors.html",
+              "title": "How To Enable Intel® TDX (Trust Domain Extensions) on an Intel® Xeon® Processor",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.intel.com&sz=256",
+              "description": "Intel® TDX (Trust Domain Extensions) is <strong>Intel&#x27;s newest Confidential Computing technology that runs on the Intel® Xeon® Processors</strong>."
+            },
+            {
+              "id": "R1LeU1wo",
+              "url": "https://openmetal.io/resources/hardware-details/intel-trust-domain-extensions-tdx/",
+              "title": "TDX: An In-Depth Exploration of Intel® Trust Domain Extensions | OpenMetal IaaS",
+              "favicon": "https://www.google.com/s2/favicons?domain=openmetal.io&sz=256",
+              "description": "Both Intel® Trust Domain Extensions (TDX) and Intel® Software Guard Extensions (SGX) are <strong>designed to enhance security via hardware based isolation</strong>, however they operate at different levels of the system."
+            },
+            {
+              "id": "SZrOWIpE",
+              "url": "https://www.intel.com/content/www/us/en/support/articles/000091103/processors/intel-xeon-processors.html",
+              "title": "What Intel® Xeon Processors Support for Intel® Trust Domain Extensions (Intel® TDX)?",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.intel.com&sz=256",
+              "description": "Intel® Trust Domain Extensions (Intel® TDX) is Intel’s hardware-based confidential virtual machine (CVM) technology that <strong>isolates guest VMs from the hypervisor, host OS, and other VMs</strong>."
+            },
+            {
+              "id": "POutXgwe",
+              "url": "https://www.intel.com/content/www/us/en/developer/tools/trust-domain-extensions/documentation.html",
+              "title": "Documentation for Intel® Trust Domain Extensions",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.intel.com&sz=256",
+              "description": "<strong>Intel TDX version 2.0 extends Intel TDX to support Trusted Execution Environment for device I/O (TEE-IO).</strong>"
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "Intel Xeon Gold 6136 TDX Unterstützung Trust Domain Extensions",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Die Suchergebnisse zeigen, dass Intel TDX (Trust Domain Extensions) generell für Xeon-Prozessoren verfügbar ist, aber hauptsächlich für die 4. und 5. Generation (Sapphire Rapids und Emerald Rapids). Der Intel Xeon Gold 6136 gehört zur 1. Generation der Scalable-Prozessoren (Skylake-SP), die 2017 veröffentlicht wurde. Die Quellen bestätigen, dass TDX erst mit den neueren Generationen eingeführt wurde. Daher unterstützt der Xeon Gold 6136 TDX nicht. Ich sollte eine klare, direkte Antwort auf Deutsch geben.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1789042247057,
+          "contextId": "harness-reasoning-4",
+          "startTime": 1789042246054
+        }
+      },
+      {
+        "text": "Nein, der **Intel Xeon Gold 6136 unterstützt keine Intel TDX (Trust Domain Extensions)**.\n\nLaut den aktuellen Informationen ist Intel TDX erst ab der **4. Generation (Sapphire Rapids)** und **5. Generation (Emerald Rapids)** der Intel Xeon Scalable Prozessoren verfügbar. Der Xeon Gold 6136 gehört zur **1. Generation (Skylake-SP)** und bietet daher keine TDX-Unterstützung",
+        "type": "text"
+      },
+      {
+        "text": " [openmetal.io](search-result://R1LeU1wo) [intel.com](search-result://SZrOWIpE)",
+        "type": "text"
+      },
+      {
+        "text": ".",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-09-10T12:10:38.771Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1789042238777,
+        "completedAtMs": 1789042248183,
+        "firstTokenAtMs": 1789042239894,
+        "generationStats": {
+          "outputTokens": 430,
+          "completionCount": 2,
+          "generationDurationMs": 3105,
+          "outputTokensPerSecond": 138.48631239935588
+        },
+        "timeToFirstTokenMs": 1117,
+        "completionDurationMs": 9406,
+        "userMessageCreatedToCompletionMs": 9748
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "run_typescript",
+          "web_search"
+        ],
+        "integrationNames": [
+          "web_search"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  }
+]

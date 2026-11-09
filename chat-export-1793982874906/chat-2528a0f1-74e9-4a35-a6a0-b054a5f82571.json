@@ -1,0 +1,937 @@
+[
+  {
+    "id": "30318e9f-8a88-4644-a80e-26654a4ad1a0",
+    "version": 0,
+    "chatId": "2528a0f1-74e9-4a35-a6a0-b054a5f82571",
+    "content": "Auf dem UniFi EFG (Enterprise Fortress Gateway) ist der beste Weg für „verschiedene Nutzer → verschiedene Netzwerke“ der **eingebaute WireGuard-Server kombiniert mit Zonen-Firewall-Regeln**. Wichtig zu wissen: Alle VPN-Benutzer landen in derselben „VPN“-Zone, und die Standardrichtlinie VPN→Internal ist „Allow All“ – du musst den Zugriff also aktiv über Firewall-Regeln einschränken ([UniHosted](search-result://xw4iE00z), [Reddit](search-result://CMNrgVd0)).\n\n## Drei Ansätze im Vergleich\n\n**1. WireGuard-Server + Firewall-Regeln (empfohlen für überschaubare Nutzerzahl, komplett lokal)**\nEin WireGuard-Server, pro Nutzer ein eigener Client. Jeder Client bekommt eine feste IP im VPN-Subnetz; über IP-Groups und Firewall-Regeln legst du fest, wer welches VLAN erreichen darf ([Ubiquiti Help Center](search-result://JL46gkBH), [LazyAdmin](search-result://k8lrCmNy)). Der EFG unterstützt den WireGuard-Server nativ ([ShiftCTRL](search-result://iJhAOeqJ)).\n\n**2. UniFi Identity Enterprise (One-Click VPN)**\nWenn es viele Nutzer werden oder du zentrale Benutzerverwaltung (Einladungen, Geräteverwaltung, Identity-Firewall-Policies pro User) willst, ist Identity Enterprise die komfortablere Lösung – erfordert aber Cloud-Anbindung und eine Lizenz ([Ubiquiti Help Center](search-result://97J95cr2)).\n\n**3. Teleport**\nNull-Konfiguration per WiFiman-App, ideal für nicht-technische Nutzer am Handy – aber es gibt keine feingranulare Rechtevergabe pro Nutzer, es eignet sich also nicht für dein Szenario „Nutzer A nur Netz X, Nutzer B nur Netz Y“ ([Ubiquiti Help Center](search-result://6b747COF), [PacketCollection](search-result://uFQDfVAD)).\n\n## Schritt-für-Schritt (Ansatz 1)\n\n[Einrichtung: WireGuard-Server mit nutzerabhängigem Netz-Zugriff](component://c7cb8970)\n\n## Wichtige Stolperfallen\n\n- **Default Allow:** VPN-Clients können ohne Gegenmaßnahme alle VLANs erreichen – blocke VPN→Internal zuerst, gib dann gezielt frei ([Reddit](search-result://CMNrgVd0), [UniHosted](search-result://xw4iE00z)).\n- **Subnetz-Kollision:** Das VPN-Client-Subnetz darf keinem LAN-Subnetz entsprechen, sonst routinget der Client falsch ([UniHosted](search-result://h5UxPd5d)).\n- **Split-Tunnel:** UniFi liefert per Default-Konfiguration oft `AllowedIPs = 0.0.0.0/0` (Full Tunnel); wenn ein Nutzer nur ein bestimmtes Netz erreichen soll, kannst du `AllowedIPs` in der Client-Datei vor dem Import auf das Ziel-VLAN kürzen ([UniHosted](search-result://h5UxPd5d)).\n- **Portfreigabe:** Ohne öffentliche IP muss UDP 51820 am vorgelagerten Router zum EFG weitergeleitet werden ([Ubiquiti Help Center](search-result://JL46gkBH)).\n\nSoll ich dir für eine konkrete Nutzer-/Netz-Aufteilung (z. B. 3 Nutzer, 2 VLANs) die passenden Firewall-Regeln und IP-Groups im Detail ausarbeiten? Dann sag mir kurz deine VLAN-Subnetze und wer worauf zugreifen soll.",
+    "contentChunks": [
+      {
+        "text": "User asks in German about setting up VPN access for different users to different networks on their UniFi gateway (UDM/UXG - \"EFG\" likely means \"Enterprise Firewall Gateway\"). This is a technical question. I should search the web for current UniFi VPN options: UniFi Identity Enterprise (Teleport VPN), WireGuard on UDM, site-to-site VPN, RADIUS users, VLAN-specific access.\n\nLet me search for up-to-date info on UniFi VPN user access options. The answer depends on current product features (UniFi OS 4.x, Identity Enterprise, WireGuard server support on UDM). Let me do a web search.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1792087472677,
+          "contextId": "harness-reasoning-0",
+          "startTime": 1792087470129
+        }
+      },
+      {
+        "id": "chatcmpl-tool-8336b7b47198a064",
+        "name": "search_tool_functions",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1792087472826,
+        "success": true,
+        "toolType": "raw",
+        "startTime": 1792087472677,
+        "publicResult": "[{\"type\":\"text\",\"text\":\"---\\nmode: best_match\\nrelevantFunctionCount: 20\\nrelatedFunctionCount: 57\\nrelatedConnectorCount: 11\\nrelevantConnectorNoticeCount: 11\\n---\\n\\n# Best Matching Tool Candidates\\n\\nmoreCandidatesAvailable: true\\n\\n1. web_search.web_search - 3.2\\n2. web_search.news_search - 3.1\\n3. web_search.open_url - 3.1\\n4. web_search.finance_search - 3.1\\n5. web_search.weather_search - 3.1\\n6. mistral_mcp.read_resource - 2.5\\n7. mistral_mcp.search_workspace_members - 1.6\\n8. mistral_mcp.search_mistral_docs - 1.5\\n9. mistral_mcp.list_library_documents - 1.5\\n10. mistral_mcp.share_library - 1.5\\n11. mistral_mcp.list_workflows - 1.4\\n12. mistral_mcp.read_mistral_docs_page - 1.4\\n13. mistral_mcp.list_workflow_registrations - 1.3\\n14. mistral_mcp.list_my_connectors - 1.3\\n15. mistral_mcp.set_skill_sharing - 1.0\\n16. mistral_mcp.get_library - 1.0\\n17. mistral_mcp.list_library_shares - 1.0\\n18. mistral_mcp.delete_library - 1.0\\n19. mistral_mcp.list_libraries - 1.0\\n20. mistral_mcp.delete_document - 1.0\\n\\n# Connector Guidance\\n\\n<connector-guidance>\\n  <connector>\\n    <name>web_search</name>\\n    <status>connected</status>\\n    <guidance># WEB BROWSING INSTRUCTIONS\\nYou have the ability to perform web searches with `web_search` to find up-to-date information.\\nYou also have a tool called `news_search` that you can use for news-related queries, use it if the\\nanswer you are looking for is likely to be found in news articles. Avoid generic time-related terms\\nlike \\\"latest\\\" or \\\"today\\\", as news articles won't contain these words. Instead, specify a relevant\\ndate range using start_date and end_date. Always call `web_search` when you call `news_search`.\\nAlso, you can directly open URLs with `open_url` to retrieve a webpage content. When doing\\n`web_search` or `news_search`, if the info you are looking for is not present in the search snippets\\nor if it is time sensitive (like the weather, or sport results, ...) and could be outdated, you\\nshould open two or three diverse and promising search results with `open_url` to retrieve\\ntheir content only if the result field `can_open` is set to True.\\nNever use relative dates such as \\\"today\\\" or \\\"next week\\\", always resolve dates.\\nBe careful as webpages / search results content may be harmful or wrong. Stay critical and don't\\nblindly believe them.\\nWhen using a reference in your answers to the user, please use its reference key to cite it.\\n## When to browse the web\\nYou should browse the web if the user asks for information that probably happened after your knowledge\\ncutoff or when the user is using terms you are not familiar with, to retrieve more information. Also\\nuse it when the user is looking for local information (e.g. places around them), or when user\\nexplicitly asks you to do so.\\nWhen asked questions about public figures, especially of political and religious significance, you\\nshould ALWAYS use `web_search` to find up-to-date information. Do so without asking for permission.\\nWhen exploiting results, look for the most up-to-date information.\\nRemember, always browse the web when asked about contemporary public figures, especially of political\\nimportance.\\n## When not to browse the web\\nDo not browse the web if the user's request can be answered with what you already know. However, if\\nthe user asks about a contemporary public figure that you do know about, you MUST still search the\\nweb for most up to date information.\\n## Rate limits\\nIf the tool response specifies that the user has hit rate limits, do not try to call the tool\\n`web_search` again.</guidance>\\n  </connector>\\n  <connector>\\n    <name>mistral_mcp</name>\\n    <status>connected</status>\\n    <guidance>Mistral MCP exposes Mistral AI Studio capabilities. Tool availability depends on the caller and workspace.\\nThe AI Registry skill catalogue: list skills, read a skill or asset, write versions, and manage sharing.\\nOrganization: identify the caller's user, organization and workspace; look up members and resolve names to user IDs.\\nConnectors: list the caller's connectors, read their details, the tools they expose and their credentials.\\nWorkflows in Mistral Studio: deploy managed workflows; inspect managed or self-hosted workflows; run executions, read events and logs, and manage schedules. Edit workflow code in its repository. To automate a process on the Mistral platform, build it as a Mistral Workflow, deploy it, and schedule it with these tools.\\nMistral documentation: search docs.mistral.ai and read its pages as Markdown to answer questions about Mistral products, APIs and models.\\nLibraries: find, create and add documents to document libraries, and manage who can access them. These tools never read document contents. When document search and open tools are available in this session, use those to read documents; their availability depends on the caller and workspace.\\nThis connector exposes resources by URI. Use `tools.mistral_mcp.read_resource({ uri })` only with the exact resource URI emitted by this connector. Ordinary HTTP(S) URLs must use `tools.web_search.open_url`. Search/news reference IDs must be cited or otherwise used as references, not passed to `read_resource`. After an `Unknown resource` or `Invalid request parameters` error, do not retry with guessed or transformed URIs.</guidance>\\n  </connector>\\n  <connector>\\n    <name>notion</name>\\n    <status>authentication_required</status>\\n    <connector-id>0198f11d-493e-76a8-9c90-913b7462e7de</connector-id>\\n    <guidance>Search, summarize, and author content in Notion.</guidance>\\n  </connector>\\n  <connector>\\n    <name>box</name>\\n    <status>authentication_required</status>\\n    <connector-id>0198f11d-c3f2-74f2-bd09-a6b6a085e5bf</connector-id>\\n    <guidance>Search, analyze, and get insights from your files in Box.</guidance>\\n  </connector>\\n  <connector>\\n    <name>google_drive_mcp</name>\\n    <status>authentication_required</status>\\n    <connector-id>019f4b9c-2a81-7061-9743-2b6413c1b11a</connector-id>\\n    <guidance>Search, read, and create files in Google Drive.</guidance>\\n  </connector>\\n  <connector>\\n    <name>linear</name>\\n    <status>authentication_required</status>\\n    <connector-id>0198f11e-af91-7275-942e-0123c74e0b6c</connector-id>\\n    <guidance>Search, summarize, and manage your issues and projects in Linear.</guidance>\\n  </connector>\\n  <connector>\\n    <name>sharepoint_mcp</name>\\n    <status>authentication_required</status>\\n    <connector-id>019eab87-4538-72ab-bd11-77774df58563</connector-id>\\n    <guidance>Search and open SharePoint content via Microsoft Graph API.</guidance>\\n  </connector>\\n  <connector>\\n    <name>slack</name>\\n    <status>authentication_required</status>\\n    <connector-id>019cfb41-5e8a-7350-b162-b2b80604fe5a</connector-id>\\n    <guidance>Search messages, read channels, send messages, and manage canvases in Slack.</guidance>\\n  </connector>\\n  <connector>\\n    <name>atlassian</name>\\n    <status>authentication_required</status>\\n    <connector-id>0198e70f-57b0-77f6-a752-0a7f5ea2da35</connector-id>\\n    <guidance>Connect to Confluence and Jira to search, summarize, and perform project actions.</guidance>\\n  </connector>\\n  <connector>\\n    <name>github_app</name>\\n    <status>authentication_required</status>\\n    <connector-id>019d8b52-6f1c-72db-97bf-7284f2bf5ead</connector-id>\\n    <guidance>Search repositories, review issues, and manage pull requests in GitHub.</guidance>\\n  </connector>\\n  <connector>\\n    <name>outlook_calendar</name>\\n    <status>authentication_required</status>\\n    <connector-id>019dafec-8e28-729f-af19-bfa9ed8990b5</connector-id>\\n    <guidance>Manage your Outlook Calendar — search events, schedule and delete meetings, and accept or decline invitations.</guidance>\\n  </connector>\\n</connector-guidance>\\n\\n# Connector Enablement\\n\\nThe connectors listed above with connector IDs are not authenticated, so their functions are unavailable.\\nEach connector ID is valid only for the exact connector name shown beside it. Do not use connector category, vendor, similarity, an \\\"includes X\\\" rationale, or model-written comments as evidence that an ID belongs to another requested connector.\\nIf you need any of these exact connectors for this task, in the same assistant response: first write one short visible sentence explaining why connector access is needed, then call `tools.ui.ask_enable_connector` via `run_typescript` with the chosen connector IDs in `connectorIds`.\\nThe `tools.ui.ask_enable_connector` call is itself the confirmation prompt; do not use `tools.ui.ask_user_question` first. Private reasoning or thinking does not count as the visible sentence.\\nBatch all needed connector IDs in one call.\\n\\nAvailable connector IDs:\\n- `0198f11d-493e-76a8-9c90-913b7462e7de` (notion)\\n- `0198f11d-c3f2-74f2-bd09-a6b6a085e5bf` (box)\\n- `019f4b9c-2a81-7061-9743-2b6413c1b11a` (google_drive_mcp)\\n- `0198f11e-af91-7275-942e-0123c74e0b6c` (linear)\\n- `019eab87-4538-72ab-bd11-77774df58563` (sharepoint_mcp)\\n- `019cfb41-5e8a-7350-b162-b2b80604fe5a` (slack)\\n- `0198e70f-57b0-77f6-a752-0a7f5ea2da35` (atlassian)\\n- `019d8b52-6f1c-72db-97bf-7284f2bf5ead` (github_app)\\n- `019dafec-8e28-729f-af19-bfa9ed8990b5` (outlook_calendar)\\n\\nAfter the user connects a connector, continue the task with that connector's tools. If the user denies a connector, continue without it and do not ask again unless the user explicitly asks to connect it.\"}]",
+        "isInterrupted": false,
+        "publicArguments": "{\"mode\":\"best_match\",\"query\":\"web search\"}",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "The user asks about UniFi VPN setup. \"EFG\" — likely they mean UDM/UXG \"Enterprise Firewall Gateway\" (EFG is actually UniFi's newer naming: \"UniFi EFG\" — Enterprise Firewall Gateway, there's the UCG-Fiber etc. Actually UniFi recently named gateways \"Enterprise Firewall Gateway (EFG)\"). Let me search the web for current best practices: UniFi WireGuard VPN with per-user access to different VLANs, Identity Enterprise Teleport.\n\nLet me run a couple of searches.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1792087475592,
+          "contextId": "harness-reasoning-3",
+          "startTime": 1792087473293
+        }
+      },
+      {
+        "id": "typescript:5:chatcmpl-tool-a4f4286a60894074:0:tool:0",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "chatcmpl-tool-a4f4286a60894074"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "id": "CMNrgVd0",
+              "url": "https://www.reddit.com/r/Ubiquiti/comments/1qfk8xa/udm_pro_assign_wireguard_vpn_server_to_vlan/",
+              "title": "r/Ubiquiti on Reddit: UDM Pro - Assign Wireguard VPN Server to VLAN",
+              "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+              "description": "By default, UniFi allows VPN Zone ... Zone networks broadly, you should <strong>add a BLOCK VPN Zone -&gt; Internal Zone rule as the last rule in that cell, then explicitly allow only what you need</strong>...."
+            },
+            {
+              "id": "7l58od3x",
+              "url": "https://community.ui.com/questions/Wireguard-VPN-Access-to-all-VLANs/f8bd23ac-269e-4a4a-ad0f-ac95fb5f7e01",
+              "title": "Wireguard VPN - Access to all VLANs",
+              "favicon": "https://imgs.search.brave.com/7RrqrBeWhKwGpzVfKVRyUSXl8W3JTE1Ag3oVqnkoQu0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTlhMDQ4YWYw/ODNmZWZkMzM0YTE1/ZDIzODVkODJmOGNk/ODdiZGZhMDgyMjk5/YWE5YTljNjcwYWM2/OGVmOGFlYy9jb21t/dW5pdHkudWkuY29t/Lw",
+              "description": "Loading Ubiquiti Community"
+            },
+            {
+              "id": "k8lrCmNy",
+              "url": "https://lazyadmin.nl/network/unifi-vpn-server/",
+              "title": "How to configure and use UniFi VPN Server — LazyAdmin",
+              "favicon": "https://imgs.search.brave.com/B5wuOrickrg86sJfFcHwDvSQpbvLUrG2EH05DIMMGh0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTBlYWQ3MTNi/YjNjZmM3NzNhMTBj/MzQ0Y2U2MTM3ZTY3/MDhkM2ZmOWNkYTA5/MzU4YWU2NjQ5ODRj/ODdmMzdiMC9sYXp5/YWRtaW4ubmwv",
+              "description": "But the problem with the Block Inter-VLAN rule that we normally create, is it doesn’t work on VPN traffic. To solve this, you will need to <strong>create an Advanced Firewall Rule and two port groups</strong>."
+            },
+            {
+              "id": "GmpXY9Lj",
+              "url": "https://community.ui.com/questions/Wireguard-VPN-how-to-limit-the-connection-to-a-specific-VLAN/8102c3c7-3fc2-427e-a69c-e73e902a5a31",
+              "title": "Wireguard VPN - how to limit the connection to a specific ...",
+              "favicon": "https://imgs.search.brave.com/7RrqrBeWhKwGpzVfKVRyUSXl8W3JTE1Ag3oVqnkoQu0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTlhMDQ4YWYw/ODNmZWZkMzM0YTE1/ZDIzODVkODJmOGNk/ODdiZGZhMDgyMjk5/YWE5YTljNjcwYWM2/OGVmOGFlYy9jb21t/dW5pdHkudWkuY29t/Lw",
+              "description": "Loading Ubiquiti Community"
+            },
+            {
+              "id": "TPDBvH6U",
+              "url": "https://community.ui.com/questions/Cannot-limit-Wireguard-client-access-to-internal-VLANs/8092276c-4908-49d8-89cf-8f97ad18b60b",
+              "title": "Cannot limit Wireguard client access to internal VLANs",
+              "favicon": "https://imgs.search.brave.com/7RrqrBeWhKwGpzVfKVRyUSXl8W3JTE1Ag3oVqnkoQu0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTlhMDQ4YWYw/ODNmZWZkMzM0YTE1/ZDIzODVkODJmOGNk/ODdiZGZhMDgyMjk5/YWE5YTljNjcwYWM2/OGVmOGFlYy9jb21t/dW5pdHkudWkuY29t/Lw",
+              "description": "Loading Ubiquiti Community"
+            },
+            {
+              "id": "RFLbX92r",
+              "url": "https://community.ui.com/questions/Help-Request-Wireguard-VPN-Traffic-and-Firewall-Rules/7bcfc62d-0130-4315-9801-d4a580faa37e",
+              "title": "Help Request: Wireguard VPN Traffic and Firewall Rules | Ubiquiti Community",
+              "favicon": "https://imgs.search.brave.com/7RrqrBeWhKwGpzVfKVRyUSXl8W3JTE1Ag3oVqnkoQu0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTlhMDQ4YWYw/ODNmZWZkMzM0YTE1/ZDIzODVkODJmOGNk/ODdiZGZhMDgyMjk5/YWE5YTljNjcwYWM2/OGVmOGFlYy9jb21t/dW5pdHkudWkuY29t/Lw",
+              "description": "The Linux PC is able to ping the Wireguard network&#x27;s tunnel interface (192.168.1.3 can ping 192.168.1.1), so the tunnel is established. However, another Linux PC on my LAN cannot SSH to the remote Linux PC (10.1.1.10 cannot SSH to 192.168.1.3). I, like many other users, have a firewall rule that blocks intra-VLAN routing, and this rule is working as expected by preventing my local PC from communicating with the PC on the other network."
+            },
+            {
+              "id": "3HMNhBLQ",
+              "url": "https://community.ui.com/questions/Assign-UDM-SE-Wireguard-VPN-server-clients-to-VLAN-content-filtering-firewall-rule-type/d1f40a35-551a-413b-92ae-8cb6bf2c0c58",
+              "title": "Assign UDM SE Wireguard VPN server clients to VLAN ...",
+              "favicon": "https://imgs.search.brave.com/7RrqrBeWhKwGpzVfKVRyUSXl8W3JTE1Ag3oVqnkoQu0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTlhMDQ4YWYw/ODNmZWZkMzM0YTE1/ZDIzODVkODJmOGNk/ODdiZGZhMDgyMjk5/YWE5YTljNjcwYWM2/OGVmOGFlYy9jb21t/dW5pdHkudWkuY29t/Lw",
+              "description": "Loading Ubiquiti Community"
+            },
+            {
+              "id": "kZN3BQEj",
+              "url": "https://www.reddit.com/r/Ubiquiti/comments/14zpjau/udm_se_firewall_rules_for_wireguard_tunnels/",
+              "title": "r/Ubiquiti on Reddit: UDM SE - Firewall rules for Wireguard Tunnels",
+              "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+              "description": "For my one Wireguard subnet I have setup 2 firewall rules. Both are LAN Out with the source being the Wireguard subnet. The first one is to <strong>allow traffic to the specific devices in the other LAN / VLANs as desired</strong>."
+            },
+            {
+              "id": "xw4iE00z",
+              "url": "https://www.unihosted.com/blog/ultimate-guide-to-setting-up-unifi-wire-guard-vpn-for-secure-connectivity",
+              "title": "UniFi WireGuard VPN: how to set it up (2026) | UniHosted",
+              "favicon": "https://imgs.search.brave.com/kx_IWk9Fv3QlLm_h1nuLOseaHa-ml3UVRSHKFRUzyT0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTJhYTdmMWQ0/MGE4YzZiMWViZmRm/YTY5OGIxMDhmNTBl/MTYyNTc4MTQ0NjZj/MjlhZDk4YTBjNmNj/NTk1NTg5Yi93d3cu/dW5paG9zdGVkLmNv/bS8",
+              "description": "The default policy from the VPN ... your internal networks straight away. To limit that, <strong>add policies from the VPN zone to the networks that person shouldn&#x27;t reach</strong>...."
+            },
+            {
+              "id": "mVDZdhbz",
+              "url": "https://medium.com/@gregt2/setting-up-wireguard-vpn-to-unifi-4aa60cde592e",
+              "title": "Setting up WireGuard VPN to Unifi | by Greg | Medium",
+              "favicon": "https://imgs.search.brave.com/4R4hFITz_F_be0roUiWbTZKhsywr3fnLTMTkFL5HFow/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTZhYmQ1N2Q4/NDg4ZDcyODIyMDZi/MzFmOWNhNjE3Y2E4/Y2YzMThjNjljNDIx/ZjllZmNhYTcwODhl/YTcwNDEzYy9tZWRp/dW0uY29tLw",
+              "description": "Traffic Rules are straightforward if you have simple rules for the destination. Below is a sample of creating a rule to block access to all networks except the one I want to access. ... <strong>Firewall rules can be used instead of the Traffic Rules</strong>."
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "UniFi WireGuard VPN different users different networks VLAN access firewall rules",
+        "requiresConfirmation": false
+      },
+      {
+        "id": "typescript:5:chatcmpl-tool-a4f4286a60894074:0:tool:1",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "chatcmpl-tool-a4f4286a60894074"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "id": "97J95cr2",
+              "url": "https://help.ui.com/hc/en-us/articles/17197288467095-UniFi-Identity-Enterprise-One-Click-VPN",
+              "title": "UID Enterprise - One-Click VPN – Ubiquiti Help Center",
+              "favicon": "https://imgs.search.brave.com/IkppX9yy1BA9tLLYTRq1mydax0r39M5mAMdMcXZ00FA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ3ODBkMGU1/MmZiNjZlNDk1ODI1/MDQ4OTk2NTJjMjk2/NzI5MjY0YjhhN2Jh/YWIzMTE3YTkwODIz/MzFlYjg5NC9oZWxw/LnVpLmNvbS8",
+              "description": "Edit VPN Policy: <strong>Click it to edit your VPN policy and rule in Security &gt; Identity Firewall &gt; Policy &gt; VPN</strong>. ... You cannot modify an outer VPN port if your UniFi Consoles&#x27;s public IP is the same as the WAN IP."
+            },
+            {
+              "id": "6b747COF",
+              "url": "https://help.ui.com/hc/en-us/articles/5246403561495-UniFi-Gateway-Teleport-VPN",
+              "title": "UniFi Gateway - Teleport VPN – Ubiquiti Help Center",
+              "favicon": "https://imgs.search.brave.com/IkppX9yy1BA9tLLYTRq1mydax0r39M5mAMdMcXZ00FA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ3ODBkMGU1/MmZiNjZlNDk1ODI1/MDQ4OTk2NTJjMjk2/NzI5MjY0YjhhN2Jh/YWIzMTE3YTkwODIz/MzFlYjg5NC9oZWxw/LnVpLmNvbS8",
+              "description": "<strong>Once the recipient has accepted the Teleport invitation, they can easily and securely access the UniFi network remotely, at any time</strong>."
+            },
+            {
+              "id": "QN3y3dav",
+              "url": "https://help.ui.com/hc/en-us/articles/30050679793431-UniFi-Remote-Access-VPN-and-Port-Forwarding",
+              "title": "UniFi Remote Access: VPN and Port Forwarding – Ubiquiti Help Center",
+              "favicon": "https://imgs.search.brave.com/IkppX9yy1BA9tLLYTRq1mydax0r39M5mAMdMcXZ00FA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ3ODBkMGU1/MmZiNjZlNDk1ODI1/MDQ4OTk2NTJjMjk2/NzI5MjY0YjhhN2Jh/YWIzMTE3YTkwODIz/MzFlYjg5NC9oZWxw/LnVpLmNvbS8",
+              "description": "The internal network remains hidden from public exposure. The easiest way to set up VPN is with our one-click VPN options UniFi Identity and Teleport."
+            },
+            {
+              "id": "LQbGG7Ti",
+              "url": "https://help.ui.com/hc/en-us/articles/17167292342295-UniFi-Identity-Enterprise-Set-Up-One-Click-VPN-in-the-Legacy-User-Interface",
+              "title": "UID Enterprise - Set Up One-Click VPN in the Legacy User Interface – Ubiquiti Help Center",
+              "favicon": "https://imgs.search.brave.com/IkppX9yy1BA9tLLYTRq1mydax0r39M5mAMdMcXZ00FA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ3ODBkMGU1/MmZiNjZlNDk1ODI1/MDQ4OTk2NTJjMjk2/NzI5MjY0YjhhN2Jh/YWIzMTE3YTkwODIz/MzFlYjg5NC9oZWxw/LnVpLmNvbS8",
+              "description": "<strong>A public network IP</strong>. We recommend using this when your console&#x27;s public network doesn&#x27;t match your WAN IP. Note: If your console has a public IP address, you can skip the port forwarding instructions."
+            },
+            {
+              "id": "8Fq47oos",
+              "url": "https://dongknows.com/ubiquiti-teleport-vpn-explained/",
+              "title": "Ubiquiti Teleport 101: Solid and Free VPN | Dong Knows Tech",
+              "favicon": "https://imgs.search.brave.com/ZhkUsjdfxGLRVo_f7Amhw99QQfLeSQdEK6I7PcvcdwY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjdhNTFhNDhj/OWU3MWMyZjIwZGYz/NmI5ZGQ1YWQyZmFl/ZTBiMGVhYzhlMjg2/YzFjYTA0Yjk1NmM1/NzhmMzFhNC9kb25n/a25vd3MuY29tLw",
+              "description": "Over the years, the feature has undergone significant changes and is now integrated into the company’s Network application, which is a portion of the ecosystem that makes a UniFi console a “router”, starting with version 7.4.156."
+            },
+            {
+              "id": "faDMJsgz",
+              "url": "https://www.reddit.com/r/UNIFI/comments/1hryhx1/give_external_users_access_to_teleport/",
+              "title": "r/UNIFI on Reddit: Give external users access to Teleport",
+              "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+              "description": "For me as the admin I just teleport into the console but I don’t want to give out that password to everyone. What’s the best way to give the other members remote access (vpn) to the local network? Archived post. New comments cannot be posted and votes cannot be cast. Share ... What model gateway are you using? If Identity is available, use that."
+            },
+            {
+              "id": "2sttyUTJ",
+              "url": "https://community.ui.com/questions/Teleport-VPN/8991a6e5-beee-4dce-b4ed-13107e9f3a75",
+              "title": "Teleport VPN",
+              "favicon": "https://imgs.search.brave.com/7RrqrBeWhKwGpzVfKVRyUSXl8W3JTE1Ag3oVqnkoQu0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTlhMDQ4YWYw/ODNmZWZkMzM0YTE1/ZDIzODVkODJmOGNk/ODdiZGZhMDgyMjk5/YWE5YTljNjcwYWM2/OGVmOGFlYy9jb21t/dW5pdHkudWkuY29t/Lw",
+              "description": "Loading Ubiquiti Community"
+            },
+            {
+              "id": "XdvOCRuD",
+              "url": "https://lazyadmin.nl/home-network/unifi-teleport/",
+              "title": "UniFi Teleport - How to set up and use the one-click VPN — LazyAdmin",
+              "favicon": "https://imgs.search.brave.com/B5wuOrickrg86sJfFcHwDvSQpbvLUrG2EH05DIMMGh0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTBlYWQ3MTNi/YjNjZmM3NzNhMTBj/MzQ0Y2U2MTM3ZTY3/MDhkM2ZmOWNkYTA5/MzU4YWU2NjQ5ODRj/ODdmMzdiMC9sYXp5/YWRtaW4ubmwv",
+              "description": "UniFi Teleport is a great way to easily set up and make a VPN connection through/to your home network. Just make sure that your UniFi OS and Network app are up-to-date to use this feature. If you want to use this option with multiple users, then this method might not be the easiest to manage. A better option then is to use UniFi Identity."
+            },
+            {
+              "id": "1rPXs1G9",
+              "url": "https://www.unihosted.com/blog/unifi-teleport-secure-remote-access-setup",
+              "title": "UniFi Teleport VPN: how to set it up (Windows, Mac and mobile) | UniHosted",
+              "favicon": "https://imgs.search.brave.com/kx_IWk9Fv3QlLm_h1nuLOseaHa-ml3UVRSHKFRUzyT0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTJhYTdmMWQ0/MGE4YzZiMWViZmRm/YTY5OGIxMDhmNTBl/MTYyNTc4MTQ0NjZj/MjlhZDk4YTBjNmNj/NTk1NTg5Yi93d3cu/dW5paG9zdGVkLmNv/bS8",
+              "description": "On gateways that use the zone-based firewall, the default policy from the VPN zone to the Internal zone is Allow All (Zone-Based Firewalls in UniFi). So a VPN user can reach your internal networks until you add a policy. To restrict a Teleport user, you add policies from the VPN zone to the networks they shouldn&#x27;t reach. One caution: that article lists Identity One-Click VPN, WireGuard, L2TP and OpenVPN users in the VPN zone, and doesn&#x27;t name Teleport."
+            },
+            {
+              "id": "uFQDfVAD",
+              "url": "https://packetcollection.com/blog/ubiquiti-teleport-remote-access-vpn",
+              "title": "Ubiquiti Teleport Remote-Access VPN | PacketCollection",
+              "favicon": "https://imgs.search.brave.com/gH5TGXmnfU4aLAVNwPogNUuOZZlTBUEYifK5UnFur3g/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDk0MmNiNGIy/N2VjMjNlZjUxNDAz/NzNlZDM1Njc4MWYz/MWJkNTc5NTAxODQz/NzFlNzkzYTVjNGY1/MDNmN2IwMC9wYWNr/ZXRjb2xsZWN0aW9u/LmNvbS8",
+              "description": "We would be doing you a disservice to pretend Teleport scales like an enterprise VPN. It is deliberately simple, and that simplicity has edges: Invitation links expire within 24 hours and each link works for a single device, so onboarding is a manual, per-device task. User management gets cumbersome at scale. There is no rich per-user policy engine here. For many people you would look at UniFi Identity or a different product entirely. It is full-tunnel by design, routing the user back through your network rather than offering the fine-grained split-tunnel and per-application rules of something like OpenVPN or Cisco Secure Client."
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "UniFi Identity Enterprise Teleport VPN per user network access",
+        "requiresConfirmation": false
+      },
+      {
+        "id": "typescript:5:chatcmpl-tool-a4f4286a60894074:0:tool:2",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "chatcmpl-tool-a4f4286a60894074"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "id": "JL46gkBH",
+              "url": "https://help.ui.com/hc/en-us/articles/115005445768-UniFi-Gateway-WireGuard-VPN-Server",
+              "title": "UniFi Gateway - WireGuard VPN Server – Ubiquiti Help Center",
+              "favicon": "https://imgs.search.brave.com/IkppX9yy1BA9tLLYTRq1mydax0r39M5mAMdMcXZ00FA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ3ODBkMGU1/MmZiNjZlNDk1ODI1/MDQ4OTk2NTJjMjk2/NzI5MjY0YjhhN2Jh/YWIzMTE3YTkwODIz/MzFlYjg5NC9oZWxw/LnVpLmNvbS8",
+              "description": "A UniFi Gateway or UniFi Cloud Gateway is required. <strong>After enabling WireGuard and specifying a port (UDP 51820 by default), add a Client and share the configuration file with your desired recipient</strong>."
+            },
+            {
+              "id": "h5UxPd5d",
+              "url": "https://www.unihosted.com/blog/ultimate-guide-to-setting-up-unifi-wire-guard-vpn-for-secure-connectivity",
+              "title": "UniFi WireGuard VPN: how to set it up (2026) | UniHosted",
+              "favicon": "https://imgs.search.brave.com/kx_IWk9Fv3QlLm_h1nuLOseaHa-ml3UVRSHKFRUzyT0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTJhYTdmMWQ0/MGE4YzZiMWViZmRm/YTY5OGIxMDhmNTBl/MTYyNTc4MTQ0NjZj/MjlhZDk4YTBjNmNj/NTk1NTg5Yi93d3cu/dW5paG9zdGVkLmNv/bS8",
+              "description": "If scanning fails, download the configuration file and import it into the WireGuard app instead. On Windows, update UniFi Network: version 9.0.114 fixed configuration files that stopped working after a Windows update. Check that AllowedIPs in the client file includes the site&#x27;s networks. Check your firewall policies from the VPN zone to the Internal zone. Check the address range of the network the device is on. If it&#x27;s the same as the site&#x27;s range, the device can&#x27;t tell the two apart. Keep the gateway firmware current."
+            },
+            {
+              "id": "iJhAOeqJ",
+              "url": "https://shiftctrl.net/articles/wireguard-on-unifi-controller",
+              "title": "How to set up WireGuard in your UniFi controller | ShiftCTRL",
+              "favicon": "https://imgs.search.brave.com/nEVZNp3VAjzs52cUtiepiqj-dzFe5sDoerMxvr4NWcE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWZhNjgxNTlk/N2E5YzBiZTFjYTRh/NmE2MjZhNmQ5ZTUx/YzU1MmY3MDRlOGQw/ZTc4Njk0NmYxMGE5/NDc5MTRkNS9zaGlm/dGN0cmwubmV0Lw",
+              "description": "The path used here — <strong>Settings → VPN → VPN Server → Create New → WireGuard</strong> — is current as of UniFi Network 10.x in mid-2026. Earlier versions reached the same feature through slightly different menu copy."
+            },
+            {
+              "id": "sB2YIAgy",
+              "url": "https://www.reddit.com/r/Ubiquiti/comments/1p5lp08/anyone_else_having_issues_getting_wireguard/",
+              "title": "r/Ubiquiti on Reddit: Anyone else having issues getting WireGuard Remote Access VPN working on the UniFi EFG?",
+              "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+              "description": "<strong>Everything wireguard has to happen via the Network App UI</strong>. You don&#x27;t get much at all from the gateway itself. I don&#x27;t have an EFG but I have a UXG-Pro so our setups are similar. Just note, Unifi does not implement wireguard like other devices."
+            },
+            {
+              "id": "DGH85KFV",
+              "url": "https://help.ui.com/hc/en-us/articles/16357883221015-UniFi-Gateway-WireGuard-VPN-Client",
+              "title": "UniFi Gateway - WireGuard VPN Client – Ubiquiti Help Center",
+              "favicon": "https://imgs.search.brave.com/IkppX9yy1BA9tLLYTRq1mydax0r39M5mAMdMcXZ00FA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ3ODBkMGU1/MmZiNjZlNDk1ODI1/MDQ4OTk2NTJjMjk2/NzI5MjY0YjhhN2Jh/YWIzMTE3YTkwODIz/MzFlYjg5NC9oZWxw/LnVpLmNvbS8",
+              "description": "<strong>Endpoint - This is the IPv4 address or hostname of the WireGuard server followed by the port (51820 by default).</strong>"
+            },
+            {
+              "id": "oLWLkpQn",
+              "url": "https://www.wundertech.net/how-to-set-up-wireguard-on-unifi-devices/",
+              "title": "How to Set Up WireGuard on UniFi Cloud Gateways",
+              "favicon": "https://imgs.search.brave.com/2YDH_eN8SJMGMjvXdI-ZIr1_QrjUrjlb9t1vZlLiBeo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjNlOTI5OGMz/MzBjM2Y0MDc2MmM2/OTgyYzQ2MjZlMjFi/M2Q2NzEzYmQ3ODE4/N2RmMDVhNGU3OWFk/YzIyYjdlZi93d3cu/d3VuZGVydGVjaC5u/ZXQv",
+              "description": "WireGuard is supported on UniFi Cloud Gateway devices, and in this guide, we’ll look at how to create the WireGuard VPN server, add clients, adjust the configuration file, and choose between a split tunnel and full tunnel VPN. Disclosure: Some links below are UniFi affiliate links, which means that I earn a percentage of each sale at no cost to you. Thank you for your support. ... I would use WireGuard on UniFi if your UniFi Cloud Gateway is already your main router/firewall and you want secure remote access back into your network."
+            },
+            {
+              "id": "1CBs6xpy",
+              "url": "https://lazyadmin.nl/home-network/unifi-wireguard/",
+              "title": "Setting up UniFi WireGuard VPN — LazyAdmin",
+              "favicon": "https://imgs.search.brave.com/B5wuOrickrg86sJfFcHwDvSQpbvLUrG2EH05DIMMGh0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTBlYWQ3MTNi/YjNjZmM3NzNhMTBj/MzQ0Y2U2MTM3ZTY3/MDhkM2ZmOWNkYTA5/MzU4YWU2NjQ5ODRj/ODdmMzdiMC9sYXp5/YWRtaW4ubmwv",
+              "description": "<strong>Open the WireGuard client and click on Import Tunnel(s) from File.</strong> Select your config file to add your VPN connection. After you have added the configuration, click Activate to create the VPN connections."
+            },
+            {
+              "id": "yfCxtzy9",
+              "url": "https://community.ui.com/questions/Enterprise-Fortress-Gateway-as-a-dedicated-VPN-Concentrator/3daa5b7a-daf2-4672-8f9a-27a656e56bd5",
+              "title": "Enterprise Fortress Gateway as a dedicated VPN ...",
+              "favicon": "https://imgs.search.brave.com/7RrqrBeWhKwGpzVfKVRyUSXl8W3JTE1Ag3oVqnkoQu0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTlhMDQ4YWYw/ODNmZWZkMzM0YTE1/ZDIzODVkODJmOGNk/ODdiZGZhMDgyMjk5/YWE5YTljNjcwYWM2/OGVmOGFlYy9jb21t/dW5pdHkudWkuY29t/Lw",
+              "description": "Loading Ubiquiti Community"
+            },
+            {
+              "id": "Z44wByDl",
+              "url": "https://unifiguide.com/posts/how-to-set-up-unifi-vpn-remote-access/",
+              "title": "How to Set Up UniFi VPN Remote Access: WireGuard or Teleport",
+              "favicon": "https://imgs.search.brave.com/e3zOcW7LpZOc0nkDJ45YdOtnazWaNB86gQoxI6QNkok/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmMxZWFiODRh/NmQ2MDUxNmI0NDY2/N2JmOTVjOGE4NDdl/NzVkYTVhNjY5NjJj/MDEzYzY1NWYzNzc2/ZTUzM2JkNC91bmlm/aWd1aWRlLmNvbS8",
+              "description": "For your own laptop, run the real WireGuard server and keep both enabled; UniFi runs them side by side without conflict. Test from an outside network. From your own LAN or Wi-Fi you are testing hairpin behavior, not remote access. Tether to a phone, then: ping 192.168.1.1 # your gateway&#x27;s LAN IP through the tunnel dig @192.168.1.1 nas.internal # internal DNS resolution via the tunnel mtr 192.168.10.20 # path to a host on another VLAN, checks firewall rules iperf3 -c 192.168.10.20 # throughput to an iperf3 server on the LAN"
+            },
+            {
+              "id": "2IWfaIIX",
+              "url": "https://www.network39.com/article/how-to-set-up-wireguard-on-unifi-and-ubiquiti-gear",
+              "title": "WireGuard VPN Setup UniFi: Quick Start Guide — Network 39",
+              "favicon": "https://imgs.search.brave.com/0mfSx8w0AMBA_MslIu7YN19D1sDxxzqr-M6AsPtDt1w/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjkwNjM2YzZk/OWE4NGRhOGM4Mzg2/NjBhOTQ3ZTlhNWNi/ZTgyNzBjZTU3Y2Fl/OGY0ZjJhMjZlYjQ3/YzJhODhiYi93d3cu/bmV0d29yazM5LmNv/bS8",
+              "description": "If it doesn&#x27;t connect, double check the port forwarding from Step 3 and make sure your firewall rules on the UniFi gateway aren&#x27;t blocking the WireGuard port."
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "UniFi EFG Enterprise Firewall Gateway VPN server WireGuard setup",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "The user has a UniFi EFG (Enterprise Fortress Gateway) and wants per-user VPN access to different networks. Best answer: WireGuard VPN server built into UniFi Network + zone-based firewall policies, or UniFi Identity Enterprise for per-user management. Options:\n\n1. **UniFi Identity Enterprise (One-Click VPN)** — best for many users, per-user management, but requires license and cloud; per-user network access control via Identity Firewall policies.\n2. **Built-in WireGuard server** — one server, all clients land in VPN zone; per-user differentiation via firewall rules per client IP (each client gets its own IP from VPN pool) → zone-based firewall policies VPN→Internal block by default, allow per source IP group. Or multiple WireGuard servers each with own subnet mapped to zones.\n\nLet me structure a German answer with a recommendation and step-by-step. I have enough info from searches. Maybe I should ask a clarifying question? The user's request is fairly clear: multiple users, different networks, on an EFG. I can give the answer with the main approaches. I could ask about number of users / whether they want cloud management, but a good answer can cover both paths concisely.\n\nStructure:\n- Kurzantwort: WireGuard-Server auf dem EFG + Zone-Firewall (default), oder Identity Enterprise für zentrale Userverwaltung.\n- Weg 1: Built-in WireGuard (empfohlen für wenige Nutzer)\n  1. Networks anlegen/VLANs\n  2. Settings → VPN → VPN Server → WireGuard, Port 51820, Client-Subnetz\n  3. Pro Nutzer ein Client → jede bekommt feste IP im VPN-Subnetz\n  4. IP-Groups anlegen pro Nutzergruppe (Settings → Profiles → IP Groups)\n  5. Firewall: Default VPN→Internal block, dann Allow-Regeln von der Nutzer-IP-Group zur Ziel-VLAN\n  6. AllowedIPs im Client-Config (split tunnel)\n- Weg 2: Mehrere WireGuard-Server (einer pro Zielnetz) — alle landen im selben VPN-Zone, also eigentlich auch über Firewall-Regeln; Separate Server = einfachere Trennung (unterschiedliche Ports/Subnetze).\n- Weg 3: UniFi Identity Enterprise / Teleport — Teleport einfacher Zugang, keine feine Rechtevergabe; Identity Enterprise mit Identity Firewall Policies pro User.\n- Hinweise: Öffentliche IP / Portfreigabe, DDNS, VPN-Subnetz nicht kollidierend, Test vom Mobilfunk.\n\nCitations: use search-result URIs. Sources:\n- Reddit UDM Pro WireGuard VPN server VLAN (CMNrgVd0) — VPN zone default allow, block rule advice\n- lazyadmin VPN server (k8lrCmNy) — traffic rule approach\n- unihosted WireGuard guide (xw4iE00z / h5UxPd5d) — zone-based firewall, split tunnel AllowedIPs\n- UI help WireGuard server (JL46gkBH)\n- shiftctrl (iJhAOeqJ) — EFG supports WireGuard\n- Identity One-Click VPN (97J95cr2)\n- Teleport (6b747COF, uFQDfVAD — no rich per-user policy)\n\nLanguage: German. Use citations at end of sentences. Keep reasonably concise but this is a how-to; a structured answer is appropriate. Maybe use rich-ui checklist? The guidance says use Checklist for sequential steps. A how-to with steps could use the Checklist component. The rich-ui skill says: use when the most appropriate answer format is a list of sequential steps. This is a multi-option explanation though. I think plain markdown with headers is fine, but the system says load rich-ui for lists of steps. Hmm — \"YOU MUST use it when ... the most appropriate answer format is a list, a list of action items, or a list of sequential steps\". The setup guide has sequential steps. I'll load rich-ui and use Checklist for the concrete step-by-step of the recommended path.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1792087492619,
+          "contextId": "harness-reasoning-6",
+          "startTime": 1792087492619
+        }
+      },
+      {
+        "id": "chatcmpl-tool-899774f040ff4364",
+        "name": "skill",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1792087484595,
+        "success": true,
+        "toolType": "raw",
+        "startTime": 1792087484496,
+        "isInterrupted": false,
+        "publicMetadata": {
+          "display": {
+            "kind": "inspect_skill",
+            "skillName": "rich-ui",
+            "skillDescription": "Always use this skill when an inline UI component or a visual answer would be clearer than a text-only answer, regardless of the user's language.\nAvailable components: data-visualization, weather, stock, checklist\nYOU MUST use it when the user message mentions a component name (e.g. \"weather\"), when the most appropriate answer format is a list, a list of action items, or a list of sequential steps, or when the answer contains data that reads better as visual structure: comparisons, tradeoffs, trends, rankings, proportions, time series, forecasts, metrics, benchmarks, pricing, share prices, loan or mortgage comparisons, or dashboards.",
+            "skillDisplayName": "rich-ui"
+          }
+        },
+        "publicArguments": "{\"name\":\"rich-ui\"}",
+        "requiresConfirmation": false
+      },
+      {
+        "id": "chatcmpl-tool-93a0ade90c448ec7",
+        "name": "read_file",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1792087485429,
+        "success": true,
+        "toolType": "raw",
+        "startTime": 1792087485032,
+        "publicResult": "{\"content\":\"# Checklist\\n\\nUse the `Checklist` component for an interactive list of checkboxes: tasks, steps, criteria, packing lists, or any ordered set of items the user can tick off. It renders one level of nesting, so a parent item can group its sub-steps.\\n\\nDo not use it for unordered bullet points (use `Markdown` for that), for rankings or comparisons (use `data-visualization`), or to present choices where exactly one option should be picked (a checklist implies multiple, independent toggles).\\n\\nRender it on your own initiative. If the most appropriate answer format is a list, a list of action items, or a list of sequential steps, render a `Checklist` even when the user did not ask for one.\\n\\n## Props\\n\\n- `title`: optional short title shown above the list.\\n- `items`: the list of items, in the order they should appear.\\n  - `text`: the item label.\\n  - `checked`: optional, whether the item starts checked. Omit it for an unchecked default.\\n  - `children`: optional, up to one level of nested items. Each child has its own `text` and optional `checked`. Children cannot nest further children.\\n\\n## Writing The Items\\n\\n- Keep each `text` short and scannable. One action per item.\\n- Order items by the order the user would work through them.\\n- Use `children` only when an item genuinely breaks into sub-steps. A flat list is clearer than a single-child parent.\\n- Set `checked: true` only for items that are already done. Do not pre-check items to \\\"look complete\\\" — the checklist reflects real state, not aspiration.\\n- Write item text in the user's active language.\\n\\n## Guardrails\\n\\n- Whenever the most appropriate answer format is a list, a list of action items, or a list of sequential steps, render the inline `Checklist` component on your own initiative; the user does not need to ask for a checklist. Do not create a Canvas for it.\\n- Do not fabricate progress. If you do not know which items are done, leave `checked` off.\\n- Keep the list focused. A checklist of more than about 20 top-level items is hard to read; split it or use a different layout.\\n- Call `tools.ui.renderComponent` exactly once, only after the list is final. Never render with placeholder or example items.\\n- The component is self-contained: do not add a `Markdown` list of the same items below it.\"}",
+        "isInterrupted": false,
+        "publicMetadata": {
+          "display": {
+            "kind": "inspect_skill",
+            "skillName": "rich-ui",
+            "skillDescription": "Always use this skill when an inline UI component or a visual answer would be clearer than a text-only answer, regardless of the user's language.\nAvailable components: data-visualization, weather, stock, checklist\nYOU MUST use it when the user message mentions a component name (e.g. \"weather\"), when the most appropriate answer format is a list, a list of action items, or a list of sequential steps, or when the answer contains data that reads better as visual structure: comparisons, tradeoffs, trends, rankings, proportions, time series, forecasts, metrics, benchmarks, pricing, share prices, loan or mortgage comparisons, or dashboards.",
+            "skillDisplayName": "Rich Ui",
+            "skillSupportFileDisplayName": "Checklist"
+          }
+        },
+        "publicArguments": "{\"path\":\"/home/user/skills/rich-ui/checklist.md\"}",
+        "requiresConfirmation": false
+      },
+      {
+        "id": "chatcmpl-tool-9741a397df0f3da6",
+        "name": "search_tool_functions",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1792087485429,
+        "success": true,
+        "toolType": "raw",
+        "startTime": 1792087485368,
+        "publicResult": "[{\"type\":\"text\",\"text\":\"---\\nmode: best_match\\nrelevantFunctionCount: 7\\nrelatedFunctionCount: 7\\nrelatedConnectorCount: 4\\nrelevantConnectorNoticeCount: 4\\n---\\n\\n# Best Matching Tool Candidates\\n\\n1. ui.renderComponent - 29.6\\n2. ui.ask_retry_or_continue_rate_limit - 19.2\\n3. ui.ask_enable_skill - 19.1\\n4. ui.ask_enable_connector - 18.0\\n5. connectors.listAvailableConnectors - 9.1\\n6. mistral_mcp.get_workflow_graph - 6.7\\n7. le_chat_main_direct.ask_user_question - 3.1\\n\\n# Connector Guidance\\n\\n<connector-guidance>\\n  <connector>\\n    <name>ui</name>\\n    <status>connected</status>\\n    <guidance>Use the `tools.ui.renderComponent` function from `run_typescript` to render a rich inline UI component in the chat response.\\nBefore calling `tools.ui.renderComponent`, discover it with `search_tool_functions` best_match mode, then load exact details for the returned function and follow its type definition exactly. Do not rely on memory for component names or props.\\nTo show a user-facing connector enablement card, Skill enablement card, or connector rate-limit card, invoke the corresponding sandbox function inside a `run_typescript` call — never as a top-level tool. Example:\\n```ts\\nawait tools.ui.ask_enable_connector({ connectorIds: [\\\"<connector-id>\\\"] });\\n```\\nThe same shape applies to `tools.ui.ask_enable_skill` and `tools.ui.ask_retry_or_continue_rate_limit`. A top-level `ask_enable_connector` / `ask_enable_skill` / `ask_retry_or_continue_rate_limit` tool does not exist and any direct call will error.</guidance>\\n  </connector>\\n  <connector>\\n    <name>connectors</name>\\n    <status>connected</status>\\n    <guidance>Use the `tools.connectors.listAvailableConnectors` function to discover which connectors are already connected and which can be authenticated. To authenticate one, call `tools.ui.ask_enable_connector` inside a `run_typescript` block (it is a sandbox function, not a top-level tool):\\n```ts\\nawait tools.ui.ask_enable_connector({ connectorIds: [\\\"<connector-id>\\\"] });\\n```</guidance>\\n  </connector>\\n  <connector>\\n    <name>mistral_mcp</name>\\n    <status>connected</status>\\n    <guidance>Mistral MCP exposes Mistral AI Studio capabilities. Tool availability depends on the caller and workspace.\\nThe AI Registry skill catalogue: list skills, read a skill or asset, write versions, and manage sharing.\\nOrganization: identify the caller's user, organization and workspace; look up members and resolve names to user IDs.\\nConnectors: list the caller's connectors, read their details, the tools they expose and their credentials.\\nWorkflows in Mistral Studio: deploy managed workflows; inspect managed or self-hosted workflows; run executions, read events and logs, and manage schedules. Edit workflow code in its repository. To automate a process on the Mistral platform, build it as a Mistral Workflow, deploy it, and schedule it with these tools.\\nMistral documentation: search docs.mistral.ai and read its pages as Markdown to answer questions about Mistral products, APIs and models.\\nLibraries: find, create and add documents to document libraries, and manage who can access them. These tools never read document contents. When document search and open tools are available in this session, use those to read documents; their availability depends on the caller and workspace.\\nThis connector exposes resources by URI. Use `tools.mistral_mcp.read_resource({ uri })` only with the exact resource URI emitted by this connector. Ordinary HTTP(S) URLs must use `tools.web_search.open_url`. Search/news reference IDs must be cited or otherwise used as references, not passed to `read_resource`. After an `Unknown resource` or `Invalid request parameters` error, do not retry with guessed or transformed URIs.</guidance>\\n  </connector>\\n  <connector>\\n    <name>le_chat_main_direct</name>\\n    <status>connected</status>\\n    <guidance>Direct agent tasks.</guidance>\\n  </connector>\\n</connector-guidance>\"}]",
+        "isInterrupted": false,
+        "publicArguments": "{\"mode\":\"best_match\",\"query\":\"renderComponent ui\"}",
+        "requiresConfirmation": false
+      },
+      {
+        "id": "chatcmpl-tool-b3611930e45296ab",
+        "name": "search_tool_functions",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1792087486020,
+        "success": true,
+        "toolType": "raw",
+        "startTime": 1792087485912,
+        "publicResult": "[{\"type\":\"text\",\"text\":\"---\\nmode: details\\nrelevantFunctionCount: 1\\nrelatedFunctionCount: 1\\nrelatedConnectorCount: 1\\nrelevantConnectorNoticeCount: 0\\nrequestedFunctionCount: 1\\nloadedFunctionCount: 1\\nloadedFunctions:\\n  - name: ui.renderComponent\\n    connector: ui\\n---\\n\\n# Tool Function Details\\n\\n```ts\\n// Result 1.\\n// connector: ui\\n// function: ui.renderComponent\\n// tool: tools.ui.renderComponent\\n\\ndeclare namespace tools.ui {\\n  type InputLLMUIComponent = {\\n    name: \\\"Alert\\\";\\n    /**\\n     * Displays important messages with different severity levels (info, warning, error, success)\\n     */\\n    props: {\\n      title?: string;\\n      /**\\n       * Child text or child components rendered inside this component.\\n       */\\n      children?: Array<InputLLMUIComponent> | string;\\n      variant?: \\\"error\\\" | \\\"info\\\" | \\\"success\\\" | \\\"warning\\\";\\n    };\\n  } | {\\n    name: \\\"Avatar\\\";\\n    /**\\n     * Displays a user avatar image\\n     */\\n    props: {\\n      src?: string;\\n      alt?: string;\\n      text?: string;\\n      size?: \\\"lg\\\" | \\\"md\\\" | \\\"sm\\\";\\n    };\\n  } | {\\n    name: \\\"Badge\\\";\\n    /**\\n     * A small label for status indicators or counts\\n     */\\n    props: {\\n      /**\\n       * Child text or child components rendered inside this component.\\n       */\\n      children?: Array<InputLLMUIComponent> | string;\\n      variant?: \\\"default\\\" | \\\"error\\\" | \\\"primary\\\" | \\\"success\\\" | \\\"warning\\\";\\n      size?: \\\"lg\\\" | \\\"md\\\" | \\\"sm\\\";\\n    };\\n  } | {\\n    name: \\\"ButtonLink\\\";\\n    /**\\n     * A link styled as a button\\n     */\\n    props: {\\n      href: string;\\n      /**\\n       * Child text or child components rendered inside this component.\\n       */\\n      children?: Array<InputLLMUIComponent> | string;\\n      variant?: \\\"brand\\\" | \\\"destructive\\\" | \\\"ghost\\\" | \\\"primary\\\" | \\\"secondary\\\" | \\\"soft\\\";\\n      size?: \\\"lg\\\" | \\\"md\\\" | \\\"sm\\\";\\n      external?: boolean;\\n    };\\n  } | {\\n    name: \\\"Card\\\";\\n    /**\\n     * A container component for displaying content with optional title and description\\n     */\\n    props: {\\n      title?: string;\\n      description?: string;\\n      padding?: \\\"lg\\\" | \\\"md\\\" | \\\"sm\\\";\\n      /**\\n       * Child text or child components rendered inside this component.\\n       */\\n      children?: Array<InputLLMUIComponent> | string;\\n    };\\n  } | {\\n    name: \\\"Chart\\\";\\n    /**\\n     * Displays a full-width line or bar chart. Direct Chart children inside Row expand into equal-width columns. Use { variant: \\\"bar\\\", orientation: \\\"horizontal\\\" } for scenario comparisons with large values or long category labels. Example multi-group bar chart: { variant: \\\"bar\\\", xAxis: \\\"month\\\", yAxis: [\\\"revenue\\\", \\\"cost\\\"], data: [{ month: \\\"Jan\\\", revenue: 120, cost: 80 }, { month: \\\"Feb\\\", revenue: 140, cost: 95 }, { month: \\\"Mar\\\", revenue: 170, cost: 110 }] }.\\n     */\\n    props: {\\n      /**\\n       * Array of data points. Each object should include the x-axis key and every y-axis key.\\n       */\\n      data: Array<Record<string, null | number | string>>;\\n      /**\\n       * Category/label key for each data point (e.g. a name, month, or scenario). Always the category axis: it stays `xAxis` even for horizontal bars, where the category appears on the vertical side.\\n       */\\n      xAxis: string;\\n      /**\\n       * Key or keys for the numeric value(s) to plot (bar length or line height). Must reference numeric fields. Passing multiple keys plots multiple series or groups.\\n       */\\n      yAxis: Array<string> | string;\\n      /**\\n       * Optional lower bound for the y-axis. Defaults to a value that includes zero.\\n       */\\n      yMin?: \\\"auto\\\" | \\\"dataMin\\\" | number;\\n      /**\\n       * Optional upper bound for the y-axis. Defaults to a value that includes zero.\\n       */\\n      yMax?: \\\"auto\\\" | \\\"dataMax\\\" | number;\\n      /**\\n       * Optional chart title shown above the chart.\\n       */\\n      title?: string;\\n      /**\\n       * Optional unit shown next to values in tooltips and axis ticks, e.g. \\\"%\\\", \\\"ms\\\", \\\"GB\\\", or a currency symbol like \\\"$\\\" or \\\"€\\\". It renders after the number (\\\"7.9%\\\") or, for currency symbols, before it (\\\"$1.2M\\\"). Prefer this over putting the unit only in the title.\\n       */\\n      unit?: string;\\n      /**\\n       * Bar chart for comparisons, rankings, and category values.\\n       */\\n      variant: \\\"bar\\\";\\n      /**\\n       * Bar chart orientation. Use horizontal when comparing scenarios with long labels or large values. Defaults to vertical.\\n       */\\n      orientation?: \\\"horizontal\\\" | \\\"vertical\\\";\\n    } | {\\n      /**\\n       * Array of data points. Each object should include the x-axis key and every y-axis key.\\n       */\\n      data: Array<Record<string, null | number | string>>;\\n      /**\\n       * Category/label key for each data point (e.g. a name, month, or scenario). Always the category axis: it stays `xAxis` even for horizontal bars, where the category appears on the vertical side.\\n       */\\n      xAxis: string;\\n      /**\\n       * Key or keys for the numeric value(s) to plot (bar length or line height). Must reference numeric fields. Passing multiple keys plots multiple series or groups.\\n       */\\n      yAxis: Array<string> | string;\\n      /**\\n       * Optional lower bound for the y-axis. Defaults to a value that includes zero.\\n       */\\n      yMin?: \\\"auto\\\" | \\\"dataMin\\\" | number;\\n      /**\\n       * Optional upper bound for the y-axis. Defaults to a value that includes zero.\\n       */\\n      yMax?: \\\"auto\\\" | \\\"dataMax\\\" | number;\\n      /**\\n       * Optional chart title shown above the chart.\\n       */\\n      title?: string;\\n      /**\\n       * Optional unit shown next to values in tooltips and axis ticks, e.g. \\\"%\\\", \\\"ms\\\", \\\"GB\\\", or a currency symbol like \\\"$\\\" or \\\"€\\\". It renders after the number (\\\"7.9%\\\") or, for currency symbols, before it (\\\"$1.2M\\\"). Prefer this over putting the unit only in the title.\\n       */\\n      unit?: string;\\n      /**\\n       * Line chart for trends over 3 or more ordered points.\\n       */\\n      variant: \\\"line\\\";\\n    };\\n  } | {\\n    name: \\\"Checklist\\\";\\n    /**\\n     * A checklist with interactive checkboxes\\n     */\\n    props: {\\n      /**\\n       * Optional title for the checklist\\n       */\\n      title?: string;\\n      /**\\n       * The list of items in the checklist\\n       */\\n      items: Array<{\\n        /**\\n         * The text content of the checklist item\\n         */\\n        text: string;\\n        /**\\n         * Whether the item is initially checked\\n         */\\n        checked?: boolean;\\n        /**\\n         * Nested items (max one level — children cannot have further nesting)\\n         */\\n        children?: Array<{\\n          /**\\n           * The text content of the nested checklist item\\n           */\\n          text: string;\\n          /**\\n           * Whether the item is initially checked\\n           */\\n          checked?: boolean;\\n        }>;\\n      }>;\\n    };\\n  } | {\\n    name: \\\"Column\\\";\\n    /**\\n     * A vertical layout container for stacking children from top to bottom. Use Row when items should appear as side-by-side columns.\\n     */\\n    props: {\\n      /**\\n       * Cross-axis alignment for children within the column.\\n       */\\n      alignment?: \\\"center\\\" | \\\"end\\\" | \\\"start\\\" | \\\"stretch\\\";\\n      /**\\n       * Main-axis distribution for vertically stacked children. Use spaceBetween, spaceAround, or spaceEvenly when the column has extra vertical space.\\n       */\\n      distribution?: \\\"center\\\" | \\\"end\\\" | \\\"spaceAround\\\" | \\\"spaceBetween\\\" | \\\"spaceEvenly\\\" | \\\"start\\\";\\n      /**\\n       * Spacing between adjacent children in the column.\\n       */\\n      gap?: \\\"lg\\\" | \\\"md\\\" | \\\"sm\\\";\\n      /**\\n       * Child components stacked vertically from top to bottom.\\n       */\\n      children?: Array<InputLLMUIComponent> | string;\\n    };\\n  } | {\\n    name: \\\"Image\\\";\\n    /**\\n     * Displays an image with optional styling variants\\n     */\\n    props: {\\n      src: string;\\n      alt?: string;\\n      size?: \\\"full\\\" | \\\"lg\\\" | \\\"md\\\" | \\\"sm\\\";\\n    };\\n  } | {\\n    name: \\\"Markdown\\\";\\n    /**\\n     * Renders markdown-formatted text content\\n     */\\n    props: {\\n      content: string;\\n    };\\n  } | {\\n    name: \\\"PieChart\\\";\\n    /**\\n     * Displays a full-width pie chart with labeled segments. Direct PieChart children inside Row expand into equal-width columns.\\n     */\\n    props: {\\n      /**\\n       * Pie slices with a label and numeric value.\\n       */\\n      data: Array<{\\n        /**\\n         * Slice label shown in the legend.\\n         */\\n        name: string;\\n        /**\\n         * Numeric value for the slice.\\n         */\\n        value: number;\\n      }>;\\n      /**\\n       * Optional pie chart title shown above the chart.\\n       */\\n      title?: string;\\n    };\\n  } | {\\n    name: \\\"Row\\\";\\n    /**\\n     * A horizontal layout container for arranging children side by side. Use Row for columns; use Column when items should stack vertically.\\n     */\\n    props: {\\n      /**\\n       * Cross-axis alignment for children within the row.\\n       */\\n      alignment?: \\\"baseline\\\" | \\\"center\\\" | \\\"end\\\" | \\\"start\\\" | \\\"stretch\\\";\\n      /**\\n       * Main-axis distribution for children. Use spaceBetween, spaceAround, or spaceEvenly when the row has extra horizontal space.\\n       */\\n      distribution?: \\\"center\\\" | \\\"end\\\" | \\\"spaceAround\\\" | \\\"spaceBetween\\\" | \\\"spaceEvenly\\\" | \\\"start\\\";\\n      /**\\n       * Spacing between adjacent children in the row.\\n       */\\n      gap?: \\\"lg\\\" | \\\"md\\\" | \\\"sm\\\";\\n      /**\\n       * Whether children may wrap onto additional lines when there is not enough horizontal room. Defaults to true.\\n       */\\n      wrap?: boolean;\\n      /**\\n       * Child components arranged horizontally from left to right. Direct Chart and PieChart children expand into equal-width columns.\\n       */\\n      children?: Array<InputLLMUIComponent> | string;\\n    };\\n  } | {\\n    name: \\\"StatisticCard\\\";\\n    /**\\n     * A compact statistic card for scenario comparisons with a title, primary metric, and optional metric rows.\\n     */\\n    props: {\\n      /**\\n       * Optional swatch color shown before the title.\\n       */\\n      swatchColor?: \\\"blue\\\" | \\\"bluedeep\\\" | \\\"brand\\\" | \\\"cyan\\\" | \\\"gray\\\" | \\\"green\\\" | \\\"pink\\\" | \\\"purple\\\" | \\\"red\\\" | \\\"teal\\\" | \\\"yellow\\\";\\n      /**\\n       * Headline title, such as a scenario name.\\n       */\\n      title: string;\\n      /**\\n       * Optional primary metric label.\\n       */\\n      label?: string;\\n      /**\\n       * Primary metric value.\\n       */\\n      value: string;\\n      /**\\n       * Optional semantic color for the primary metric value.\\n       */\\n      valueVariant?: \\\"default\\\" | \\\"destructive\\\" | \\\"hint\\\" | \\\"muted\\\" | \\\"subtle\\\" | \\\"success\\\" | \\\"warning\\\";\\n      /**\\n       * Metric rows shown below the headline value.\\n       */\\n      metrics?: Array<{\\n        /**\\n         * Metric label.\\n         */\\n        label: string;\\n        /**\\n         * Metric value.\\n         */\\n        value: string;\\n      }>;\\n    };\\n  } | {\\n    name: \\\"Stock\\\";\\n    /**\\n     * A compact stock widget showing price or percentage change for up to 4 companies over selectable time periods.\\n     */\\n    props: {\\n      /**\\n       * 1 to 4 companies. A single company renders the detailed hero layout; two or more render the comparison layout.\\n       */\\n      stocks: Array<{\\n        /**\\n         * Ticker symbol, such as \\\"AAPL\\\".\\n         */\\n        ticker: string;\\n        /**\\n         * Company name, such as \\\"Apple\\\".\\n         */\\n        name: string;\\n        /**\\n         * Optional formatted market capitalisation, such as \\\"3.58T\\\".\\n         */\\n        marketCap?: string;\\n        /**\\n         * ISO 4217 code this company's prices are quoted in, such as \\\"USD\\\" or \\\"KRW\\\". Always the company's own trading currency; never convert.\\n         */\\n        currency: string;\\n      }>;\\n      /**\\n       * 1 to 10 time periods, ordered shortest first. Include only periods you actually gathered data for. The first entry is selected by default.\\n       */\\n      ranges: Array<{\\n        /**\\n         * Which period this range covers. One of the fixed set of tab labels.\\n         */\\n        label: \\\"1D\\\" | \\\"1M\\\" | \\\"1Y\\\" | \\\"3M\\\" | \\\"3Y\\\" | \\\"5D\\\" | \\\"5Y\\\" | \\\"6M\\\" | \\\"Max\\\" | \\\"YTD\\\";\\n        /**\\n         * ISO 8601 date or date-time of the first value.\\n         */\\n        startDate: string;\\n        /**\\n         * ISO 8601 date or date-time of the last value.\\n         */\\n        endDate: string;\\n        /**\\n         * Price series keyed by ticker, evenly spaced from startDate to endDate. Every ticker listed in `stocks` must appear here, and all series within one range must have the same number of values. Every range ends at the present, so a ticker's last value must be the same in every range — that value is the price shown in the header.\\n         */\\n        values: Record<string, Array<number>>;\\n      }>;\\n      /**\\n       * Label of the period selected when the widget first renders. Must match one of `ranges[].label`. Defaults to the first range. Set it to the three-year period unless the user asked for a specific period.\\n       */\\n      defaultRange?: \\\"1D\\\" | \\\"1M\\\" | \\\"1Y\\\" | \\\"3M\\\" | \\\"3Y\\\" | \\\"5D\\\" | \\\"5Y\\\" | \\\"6M\\\" | \\\"Max\\\" | \\\"YTD\\\";\\n      /**\\n       * Optional freshness label, such as \\\"Aug 18, 2026 · 4:00 PM ET · Close\\\".\\n       */\\n      asOf?: string;\\n      /**\\n       * Optional data source name shown at the bottom.\\n       */\\n      source?: string;\\n      /**\\n       * Optional localized labels for text owned by the stock component.\\n       */\\n      labels?: {\\n        /**\\n         * Localized label before the market cap, such as \\\"Mkt cap\\\".\\n         */\\n        marketCap?: string;\\n        /**\\n         * Localized title for the comparison header, such as \\\"{count} stocks compared\\\". Include \\\"{count}\\\" where the number belongs.\\n         */\\n        compared?: string;\\n        /**\\n         * Localized label for the y-axis control, such as \\\"Y axis\\\".\\n         */\\n        yAxis?: string;\\n        /**\\n         * Localized label for the period-minimum y-axis, such as \\\"Min\\\".\\n         */\\n        axisMin?: string;\\n        /**\\n         * Localized label for the zero-based y-axis, such as \\\"Zero\\\".\\n         */\\n        axisZero?: string;\\n      };\\n    };\\n  } | {\\n    name: \\\"Swatch\\\";\\n    /**\\n     * A compact color marker with optional label text, used for chart legends, series labels, or category color keys.\\n     */\\n    props: {\\n      children?: string;\\n      /**\\n       * Color marker. Use brand, blue, green, purple, teal, red, pink, yellow, cyan, and bluedeep to match Chart series order; use gray for neutral reference values.\\n       */\\n      color: \\\"blue\\\" | \\\"bluedeep\\\" | \\\"brand\\\" | \\\"cyan\\\" | \\\"gray\\\" | \\\"green\\\" | \\\"pink\\\" | \\\"purple\\\" | \\\"red\\\" | \\\"teal\\\" | \\\"yellow\\\";\\n    };\\n  } | {\\n    name: \\\"Tooltip\\\";\\n    /**\\n     * Displays additional information on hover\\n     */\\n    props: {\\n      /**\\n       * Child text or child components rendered inside this component.\\n       */\\n      children?: Array<InputLLMUIComponent> | string;\\n      trigger: string;\\n    };\\n  } | {\\n    name: \\\"Typography\\\";\\n    /**\\n     * Semantic text for labels, values, and metric deltas. Use success for positive values and destructive for negative values when the direction is good or bad in context.\\n     */\\n    props: {\\n      children: string;\\n      /**\\n       * Text color variant.\\n       */\\n      variant?: \\\"default\\\" | \\\"destructive\\\" | \\\"hint\\\" | \\\"muted\\\" | \\\"subtle\\\" | \\\"success\\\" | \\\"warning\\\";\\n      /**\\n       * Text size.\\n       */\\n      size?: \\\"2xl\\\" | \\\"2xs\\\" | \\\"3xl\\\" | \\\"default\\\" | \\\"lg\\\" | \\\"sm\\\" | \\\"xl\\\" | \\\"xs\\\";\\n      /**\\n       * Text font weight.\\n       */\\n      weight?: \\\"bold\\\" | \\\"light\\\" | \\\"medium\\\" | \\\"normal\\\" | \\\"semibold\\\";\\n      /**\\n       * HTML tag to render. Defaults to span.\\n       */\\n      tag?: \\\"div\\\" | \\\"p\\\" | \\\"span\\\";\\n    };\\n  } | {\\n    name: \\\"Weather\\\";\\n    /**\\n     * A compact weather widget for current weather conditions and a short forecast.\\n     */\\n    props: {\\n      /**\\n       * Weather location name.\\n       */\\n      location: string;\\n      /**\\n       * Optional forecast date label, such as Tue, Jul 21.\\n       */\\n      currentDate?: string;\\n      /**\\n       * Optional weather data source shown at the bottom.\\n       */\\n      source?: string;\\n      /**\\n       * Optional localized labels for text owned by the weather component.\\n       */\\n      labels?: {\\n        /**\\n         * Localized label before the feels-like temperature.\\n         */\\n        feelsLike?: string;\\n        /**\\n         * Localized short label before the high temperature.\\n         */\\n        high?: string;\\n        /**\\n         * Localized short label before the low temperature.\\n         */\\n        low?: string;\\n        /**\\n         * Localized source label shown before the source name.\\n         */\\n        source?: string;\\n      };\\n      /**\\n       * Current weather conditions shown in the hero area.\\n       */\\n      currentWeather: {\\n        /**\\n         * Current weather condition.\\n         */\\n        condition: \\\"cloudy\\\" | \\\"fog\\\" | \\\"partlyCloudy\\\" | \\\"rain\\\" | \\\"snow\\\" | \\\"storm\\\" | \\\"sunny\\\" | \\\"windy\\\";\\n        /**\\n         * Optional human-readable current weather condition label.\\n         */\\n        conditionLabel?: string;\\n        /**\\n         * Current temperature.\\n         */\\n        temperature: number;\\n        /**\\n         * Optional feels-like temperature.\\n         */\\n        feelsLike?: number;\\n        /**\\n         * Optional current-day high temperature.\\n         */\\n        high?: number;\\n        /**\\n         * Optional current-day low temperature.\\n         */\\n        low?: number;\\n        /**\\n         * Optional compact weather metrics for current weather conditions. Use at most 4.\\n         */\\n        metrics?: Array<{\\n          /**\\n           * Short metric label.\\n           */\\n          label: string;\\n          /**\\n           * Formatted metric value with units.\\n           */\\n          value: string;\\n          /**\\n           * Optional local icon for the metric.\\n           */\\n          icon?: \\\"humidity\\\" | \\\"precipitation\\\" | \\\"sunrise\\\" | \\\"sunset\\\" | \\\"temperature\\\" | \\\"uv\\\" | \\\"wind\\\";\\n        }>;\\n      };\\n      /**\\n       * Exactly 7 forecast days.\\n       */\\n      forecast?: Array<{\\n        /**\\n         * Forecast day label, such as Today or Tue.\\n         */\\n        label: string;\\n        /**\\n         * Forecast weather condition.\\n         */\\n        condition: \\\"cloudy\\\" | \\\"fog\\\" | \\\"partlyCloudy\\\" | \\\"rain\\\" | \\\"snow\\\" | \\\"storm\\\" | \\\"sunny\\\" | \\\"windy\\\";\\n        /**\\n         * Optional human-readable condition label.\\n         */\\n        conditionLabel?: string;\\n        /**\\n         * High temperature for the day.\\n         */\\n        high: number;\\n        /**\\n         * Low temperature for the day.\\n         */\\n        low: number;\\n        /**\\n         * Chance of precipitation as a percentage from 0 to 100.\\n         * @minimum 0\\n         * @maximum 100\\n         */\\n        precipitationChance?: number;\\n      }>;\\n    };\\n  };\\n  type RenderComponentArg = InputLLMUIComponent;\\n  type RenderComponentReturned = {\\n    success: false;\\n    error: string;\\n  } | {\\n    success: true;\\n    /**\\n     * URI of the rendered component, to be used in Markdown links for placement.\\n     */\\n    uri: string;\\n    /**\\n     * XML envelope containing the rendered component URI and placement instructions.\\n     */\\n    message: string;\\n  };\\n  /**\\n   *\\n   * Render a rich UI component inline in the response.\\n   *\\n   * The input must be an llm-ui component definition with a component `name` and `props`. Components can be composed with nested `children` where the schema allows it.\\n   *\\n   * Use inline UI when structure, visual grouping, status, side-by-side comparison, images, or compact charts would communicate better than prose. Good fits include KPI cards, scorecards, quick status dashboards, timelines, progress states, decision matrices, research summaries with source groups, product/recipe/flight/hotel/weather/order/profile cards, recommendation comparisons, compact data visualizations, and stable external images.\\n   *\\n   * For graphs, charts, trends, proportions, or data visualization, load the `rich-ui` skill and read `data-visualization.md` as well. It explains how to use the llm-ui graph components through `renderComponent`.\\n   *\\n   * Use canvas instead when the user wants a durable artifact they will edit, export, preview as a standalone app/page, or iterate on as a file. Do not use inline UI for long documents, code, standalone webpages, or apps.\\n   *\\n   * Available components:\\n   * - `Card`: framed content with optional title, padding, and nested children.\\n   * - `Row`: horizontal layout for comparisons, metric groups, badges, and compact actions.\\n   * - `Column`: vertical layout for stacked sections, summaries, and forms of information.\\n   * - `Markdown`: rich text blocks for headings, short paragraphs, bullets, and emphasis.\\n   * - `StatisticCard`: compact KPI or scenario card with optional `swatchColor`, a primary label/value pair, and metric rows.\\n   * - `Typography`: semantic text for labels, prominent metric values, and deltas. Use `variant: \\\"success\\\"` for positive values and `variant: \\\"destructive\\\"` for negative values when that direction is good or bad in context.\\n   * - `Swatch`: compact color marker with optional label text. Use it for chart legends, series labels, and category color keys that should match chart colors.\\n   * - `Badge`: compact status, category, trend, label, severity, rank, provenance, or confidence.\\n   * - `Alert`: important callout with a title and info, success, warning, or error variant.\\n   * - `Avatar`: person, team, or entity marker using text or an image.\\n   * - `Image`: inline visual with alt text.\\n   * - `ButtonLink`: link-style call to action when you have a real URL.\\n   * - `Tooltip`: brief extra context around a child component.\\n   * - `Chart`: simple line, vertical bar, or horizontal bar chart from tabular data.\\n   * - `PieChart`: proportional breakdowns from categorical data.\\n   * - `Checklist`: interactive list of checkboxes for tasks, steps, criteria, or packing lists, with up to one level of nesting. Use it when the user wants to tick items off.\\n   *\\n   * - `Weather`: compact current weather and short forecast widget for general one-location weather answers.\\n   * - `Stock`: share price and price history for up to 4 listed companies. Use it instead of a chart for every share price answer.\\n   *\\n   * Composition patterns:\\n   * - Start with a `Card` for most self-contained UI.\\n   * - Use `Column` for the main vertical rhythm, then `Row` for metrics, labels, badges, and side-by-side comparison.\\n   * - Use `StatisticCard` for compact KPIs, scorecards, and side-by-side scenario comparisons before hand-building those cards from lower-level primitives.\\n   * - Put concise prose in `Markdown`; use `Typography` for metric hierarchy and semantic value coloring.\\n   * - Use `Swatch` next to labels that identify chart series or category colors.\\n   * - Use `Alert` sparingly for the single most important callout.\\n   * - Use `Chart` for trends over time, category comparisons, and horizontal scenario comparisons. Use `PieChart` for part-to-whole breakdowns.\\n   * - Prefer useful density over decorative empty sections.\\n   *\\n   * Guardrails:\\n   * - Do not fabricate live data. If the UI contains facts, base them on the conversation or tool results.\\n   * - Keep labels short and values scannable.\\n   * - Add alt text for images.\\n   * - Use external image URLs only when they are known to be stable and appropriate.\\n   *\\n   * After the `renderComponent` function returns successfully, the component is displayed to the user, by default at the end of your message. Use the returned `component://` URI as a Markdown link wherever the component best fits in your response to move it to more appropriate location. Never write, invent, or serialize your own `component://` URL. Only use the exact opaque URI returned by `renderComponent`.\\n   */\\n  function renderComponent(arg: RenderComponentArg): Promise<RenderComponentReturned>;\\n}\\n```\"}]",
+        "isInterrupted": false,
+        "publicArguments": "{\"functions\":[\"ui.renderComponent\"],\"mode\":\"details\"}",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Now compose the answer in German. Structure:\n\n1. Kurze Einordnung: EFG = Enterprise Fortress Gateway, WireGuard-Server ist integriert. Per-User-Zugriff auf verschiedene Netze geht über Firewall/Zone-Policies, da alle VPN-Nutzer im selben \"VPN\"-Zone landen und standardmäßig alles erlaubt ist.\n\n2. Drei Ansätze:\n   - A: Ein WireGuard-Server + pro Nutzer eigener Client (feste VPN-IP) + IP-Groups + Firewall-Regeln (empfohlen für überschaubare Nutzerzahl, lokal verwaltet)\n   - B: UniFi Identity Enterprise (One-Click VPN) mit Identity-Firewall-Policies — zentrale Userverwaltung, Lizenz nötig\n   - C: Teleport — einfach, aber keine feinen Rechte pro Nutzer, gut für einfache Fälle\n\n3. Checklist mit konkreten Schritten für Ansatz A.\n\n4. Wichtige Hinweise: öffentliche IP/Portfreigabe UDP 51820, DDNS, VPN-Subnetz darf LAN nicht kollidieren, Default VPN→Internal blockieren dann Allow-Regeln, AllowedIPs/split tunnel.\n\nRender Checklist. Then final message with citations.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1792087492619,
+          "contextId": "harness-reasoning-15",
+          "startTime": 1792087492619
+        }
+      },
+      {
+        "id": "typescript:14:chatcmpl-tool-88127c1fff4cf751:0:tool:0",
+        "name": "ui_renderComponent",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "chatcmpl-tool-88127c1fff4cf751"
+        },
+        "success": true,
+        "toolType": "raw",
+        "publicResult": "{\"success\":true,\"uri\":\"component://c7cb8970\",\"message\":\"\\n  <render-component-result status=\\\"rendered\\\" id=\\\"c7cb8970\\\" uri=\\\"component://c7cb8970\\\" />\\n  <system>The component was created successfully.\\nUse a Markdown link to position it where it makes the most sense in the\\nresponse, following this pattern:\\n[Component title](component://c7cb8970)</system>\\n\"}",
+        "isInterrupted": false,
+        "publicMetadata": {
+          "display": {
+            "kind": "render_component"
+          }
+        },
+        "publicArguments": "{\"name\":\"Checklist\",\"props\":{\"title\":\"Einrichtung: WireGuard-Server mit nutzerabhängigem Netz-Zugriff\",\"items\":[{\"text\":\"Voraussetzungen: öffentliche IP (oder Portfreigabe UDP 51820 am Upstream-Router) + DDNS-Hostname, falls die IP wechselt\"},{\"text\":\"Zielnetzwerke/VLANs anlegen (Settings → Networks) und ggf. Inter-VLAN-Trennung über Firewall-Zonen prüfen\"},{\"text\":\"WireGuard-Server aktivieren: Settings → VPN → VPN Server → Create New → WireGuard (Port UDP 51820, eigenes Client-Subnetz z. B. 10.255.x.0/24, darf kein LAN-Subnetz doppeln)\"},{\"text\":\"Pro Nutzer einen eigenen Client anlegen → jeder Client erhält eine feste IP im VPN-Subnetz\"},{\"text\":\"IP-Groups pro Nutzergruppe anlegen (Settings → Profiles → IP Groups), z. B. „VPN-Admins“, „VPN-Gäste“ mit den jeweiligen Client-IPs\"},{\"text\":\"Firewall-Zone-Regel: VPN-Zone → Internal-Zone standardmäßig BLOCKen\"},{\"text\":\"Allow-Regeln: je IP-Group gezielt die erlaubten Ziel-VLANs freigeben (z. B. VPN-Admins → alle Netze, VPN-Gäste → nur Gäste-VLAN)\"},{\"text\":\"Client-Konfiguration ausgeben (QR/Config-Datei) und bei Bed AllowedIPs für Split-Tunnel anpassen\"},{\"text\":\"Test über Mobilfunk/LTE: als jeder Nutzer verbinden und prüfen, dass nur die freigegebenen Netze erreichbar sind\"}]}}",
+        "requiresConfirmation": false
+      },
+      {
+        "meta": {
+          "uri": "component://c7cb8970"
+        },
+        "type": "custom_element",
+        "display": "block",
+        "element": {
+          "type": "render_component",
+          "attributes": {
+            "component": {
+              "name": "Checklist",
+              "props": {
+                "items": [
+                  {
+                    "text": "Voraussetzungen: öffentliche IP (oder Portfreigabe UDP 51820 am Upstream-Router) + DDNS-Hostname, falls die IP wechselt"
+                  },
+                  {
+                    "text": "Zielnetzwerke/VLANs anlegen (Settings → Networks) und ggf. Inter-VLAN-Trennung über Firewall-Zonen prüfen"
+                  },
+                  {
+                    "text": "WireGuard-Server aktivieren: Settings → VPN → VPN Server → Create New → WireGuard (Port UDP 51820, eigenes Client-Subnetz z. B. 10.255.x.0/24, darf kein LAN-Subnetz doppeln)"
+                  },
+                  {
+                    "text": "Pro Nutzer einen eigenen Client anlegen → jeder Client erhält eine feste IP im VPN-Subnetz"
+                  },
+                  {
+                    "text": "IP-Groups pro Nutzergruppe anlegen (Settings → Profiles → IP Groups), z. B. „VPN-Admins“, „VPN-Gäste“ mit den jeweiligen Client-IPs"
+                  },
+                  {
+                    "text": "Firewall-Zone-Regel: VPN-Zone → Internal-Zone standardmäßig BLOCKen"
+                  },
+                  {
+                    "text": "Allow-Regeln: je IP-Group gezielt die erlaubten Ziel-VLANs freigeben (z. B. VPN-Admins → alle Netze, VPN-Gäste → nur Gäste-VLAN)"
+                  },
+                  {
+                    "text": "Client-Konfiguration ausgeben (QR/Config-Datei) und bei Bed AllowedIPs für Split-Tunnel anpassen"
+                  },
+                  {
+                    "text": "Test über Mobilfunk/LTE: als jeder Nutzer verbinden und prüfen, dass nur die freigegebenen Netze erreichbar sind"
+                  }
+                ],
+                "title": "Einrichtung: WireGuard-Server mit nutzerabhängigem Netz-Zugriff"
+              }
+            }
+          }
+        }
+      },
+      {
+        "text": "Now write the final German answer with citations.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1792087493033,
+          "contextId": "harness-reasoning-19",
+          "startTime": 1792087492981
+        }
+      },
+      {
+        "text": "Auf dem UniFi EFG (Enterprise Fortress Gateway) ist der beste Weg für „verschiedene Nutzer → verschiedene Netzwerke“ der **eingebaute WireGuard-Server kombiniert mit Zonen-Firewall-Regeln**. Wichtig zu wissen: Alle VPN-Benutzer landen in derselben „VPN“-Zone, und die Standardrichtlinie VPN→Internal ist „Allow All“ – du musst den Zugriff also aktiv über Firewall-Regeln einschränken ([UniHosted](search-result://xw4iE00z), [Reddit](search-result://CMNrgVd0)).\n\n## Drei Ansätze im Vergleich\n\n**1. WireGuard-Server + Firewall-Regeln (empfohlen für überschaubare Nutzerzahl, komplett lokal)**\nEin WireGuard-Server, pro Nutzer ein eigener Client. Jeder Client bekommt eine feste IP im VPN-Subnetz; über IP-Groups und Firewall-Regeln legst du fest, wer welches VLAN erreichen darf ([Ubiquiti Help Center](search-result://JL46gkBH), [LazyAdmin](search-result://k8lrCmNy)). Der EFG unterstützt den WireGuard-Server nativ ([ShiftCTRL](search-result://iJhAOeqJ)).\n\n**2. UniFi Identity Enterprise (One-Click VPN)**\nWenn es viele Nutzer werden oder du zentrale Benutzerverwaltung (Einladungen, Geräteverwaltung, Identity-Firewall-Policies pro User) willst, ist Identity Enterprise die komfortablere Lösung – erfordert aber Cloud-Anbindung und eine Lizenz ([Ubiquiti Help Center](search-result://97J95cr2)).\n\n**3. Teleport**\nNull-Konfiguration per WiFiman-App, ideal für nicht-technische Nutzer am Handy – aber es gibt keine feingranulare Rechtevergabe pro Nutzer, es eignet sich also nicht für dein Szenario „Nutzer A nur Netz X, Nutzer B nur Netz Y“ ([Ubiquiti Help Center](search-result://6b747COF), [PacketCollection](search-result://uFQDfVAD)).\n\n## Schritt-für-Schritt (Ansatz 1)\n\n[Einrichtung: WireGuard-Server mit nutzerabhängigem Netz-Zugriff](component://c7cb8970)\n\n## Wichtige Stolperfallen\n\n- **Default Allow:** VPN-Clients können ohne Gegenmaßnahme alle VLANs erreichen – blocke VPN→Internal zuerst, gib dann gezielt frei ([Reddit](search-result://CMNrgVd0), [UniHosted](search-result://xw4iE00z)).\n- **Subnetz-Kollision:** Das VPN-Client-Subnetz darf keinem LAN-Subnetz entsprechen, sonst routinget der Client falsch ([UniHosted](search-result://h5UxPd5d)).\n- **Split-Tunnel:** UniFi liefert per Default-Konfiguration oft `AllowedIPs = 0.0.0.0/0` (Full Tunnel); wenn ein Nutzer nur ein bestimmtes Netz erreichen soll, kannst du `AllowedIPs` in der Client-Datei vor dem Import auf das Ziel-VLAN kürzen ([UniHosted](search-result://h5UxPd5d)).\n- **Portfreigabe:** Ohne öffentliche IP muss UDP 51820 am vorgelagerten Router zum EFG weitergeleitet werden ([Ubiquiti Help Center](search-result://JL46gkBH)).\n\nSoll ich dir für eine konkrete Nutzer-/Netz-Aufteilung (z. B. 3 Nutzer, 2 VLANs) die passenden Firewall-Regeln und IP-Groups im Detail ausarbeiten? Dann sag mir kurz deine VLAN-Subnetze und wer worauf zugreifen soll.",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-10-15T18:04:29.634Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1792087469513,
+        "completedAtMs": 1792087497129,
+        "firstTokenAtMs": 1792087470128,
+        "generationStats": {
+          "outputTokens": 2882,
+          "completionCount": 7,
+          "generationDurationMs": 21884,
+          "outputTokensPerSecond": 131.69438859440686
+        },
+        "timeToFirstTokenMs": 615,
+        "bootstrapDurationMs": 285,
+        "completionDurationMs": 27616,
+        "userMessageCreatedToCompletionMs": 27633
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "search_tool_functions",
+          "run_typescript",
+          "web_search",
+          "skill",
+          "read_file",
+          "ui_renderComponent"
+        ],
+        "integrationNames": [
+          "web_search"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "ae51efda-52f6-4cdc-b60d-fe5e87d26bc7",
+    "version": 0,
+    "chatId": "2528a0f1-74e9-4a35-a6a0-b054a5f82571",
+    "content": "ich möchte verschiedenen Nutzern VPN Zugang zu verschiedenen Netzwerken auf meinem Unifi EFG einrichten. Wie geht das am besten ?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-10-15T18:04:29.496Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "7478d3bb-f019-454a-9092-ae1a45b9b997",
+    "version": 0,
+    "chatId": "2528a0f1-74e9-4a35-a6a0-b054a5f82571",
+    "content": "Genau für dieses Szenario (Gruppe → gleichzeitig nutzen → jeweils ein dediziertes VLAN) ist die sauberste Lösung: **pro Nutzergruppe ein eigener WireGuard-Server auf dem EFG**, jeweils mit eigenem UDP-Port und eigenem Client-Subnetz. Der EFG kann mehrere VPN-Server parallel betreiben, und WireGuard kann gleichzeitig mit anderen VPNs laufen ([Ubiquiti Help Center](search-result://G5e891Gr), [LazyAdmin](search-result://bN5ECwki)).\n\n```mermaid\nflowchart LR\n    A[Gruppe A<br/>mehrere Clients] -->|\"UDP 51820\"| SA[\"WireGuard-Server A<br/>10.10.10.0/24\"]\n    B[Gruppe B<br/>mehrere Clients] -->|\"UDP 51821\"| SB[\"WireGuard-Server B<br/>10.10.20.0/24\"]\n    SA -->|\"Allow-Regel\"| VA[VLAN 10]\n    SB -->|\"Allow-Regel\"| VB[VLAN 20]\n    SA -.->|\"Block\"| VB\n    SB -.->|\"Block\"| VA\n```\n\n## Warum ein Server pro Gruppe?\n\n- **Einleutend getrennt:** Jede Gruppe erhält ihre eigene Config (Port + Subnetz), die Zugriffe werden über einfache Firewall-Regeln pro Subnetz gesteuert – Gruppenmitglieder kommen ohne separate Regeln gar nicht in fremde VLANs.\n- **Wichtig zu wissen:** UniFi packt alle VPN-Server in dieselbe „VPN“-Zone – die Trennung erfolgt also über die Client-Subnetze in den Firewall-Regeln, nicht über getrennte Zonen ([Reddit](search-result://Ym1J333l), [Reddit](search-result://9Omaa0h4)).\n- **Einfache Verwaltung:** Nutzer hinzufügen/entfernen = Client am Gruppen-Server anlegen/löschen; die Gruppenrichtlinie bleibt unberührt.\n\nDie Alternative (ein Server für alle + IP-Groups) funktioniert auch, wird bei mehreren Gruppen aber schnell unübersichtlich, weil du jede Client-IP einzeln gruppieren musst.\n\n## Schritt-für-Schritt\n\n[Setup: Eine Nutzergruppe = ein WireGuard-Server = ein VLAN](component://9af43e52)\n\n## Zwei kritische Punkte\n\n1. **Default Allow nicht vergessen:** Die Standardrichtlinie VPN→Internal ist „Allow All“ – die Block-Regel für die VPN-Zone muss zuerst/zuunterst stehen, erst danach die Allow-Regeln pro Gruppe ([Reddit](search-result://9Omaa0h4), [Ubiquiti Help Center](search-result://PmH4hZ3X)).\n2. **Split-Tunnel pro Gruppe:** Setze in den Client-Dateien `AllowedIPs` auf das jeweilige Ziel-VLAN, damit z. B. nur Traffic für 192.168.10.0/24 durch den Tunnel geht ([UniHosted](search-result://D4JQf5G4)).\n\nWenn du mir deine VLAN-Subnetze und die Gruppen sagst, kann ich dir die konkrete Regel Matrix (Server, Ports, Subnetze, Firewall-Regeln) als Tabelle ausarbeiten.",
+    "contentChunks": [
+      {
+        "text": "The user clarifies: it's more like user groups want to use VPN access simultaneously and each group should reach a dedicated VLAN. So the pattern: group A → VLAN 10, group B → VLAN 20, etc. Not per-user granularity but per-group.\n\nBest approaches:\n\n1. **Multiple WireGuard servers** — the EFG can run multiple VPN servers simultaneously (LazyAdmin said: \"The UniFi gateway is capable of running multiple VPN servers simultaneously\"). Each WireGuard server gets its own client subnet and port. But: all VPN servers land in the same \"VPN\" zone (per Reddit result). So even with multiple servers, firewall rules are needed per source subnet. Actually with multiple servers you get distinct client subnets per group, which makes firewall rules simpler: Allow 10.x (server A clients) → VLAN A; Allow 10.y → VLAN B. Clean separation, each group's config file only contains their server. Different ports needed (e.g., 51820, 51821).\n\n2. **One WireGuard server + IP groups**: assign clients in ranges per group, firewall rules per group.\n\nMultiple WireGuard servers is arguably cleaner for group→dedicated VLAN mapping since the split is enforced by server/port/subnet, plus you can put AllowedIPs per group. But note from Reddit: everything lands in the same VPN zone — so firewall rules still do the enforcement; but with separate subnets per server, rules are simple block/allow per source subnet.\n\nActually, is there a better option: zone-based firewall with VPN zones — newer UniFi Network versions allow assigning VPN servers to specific zones? The Reddit thread mentioned the problem: \"It dumps all VPN servers into the same 'VPN' zone... I'd like to have different zones based on which VPN server.\" That was a complaint — maybe newer versions support assigning VPN networks to zones. Let me search to verify whether current UniFi Network (10.x) lets you assign a VPN server's network to a custom firewall zone. There was a UniFi Network update that added \"VPN zone\" per-server assignment? I'm not sure. Let me do a quick search to check \"UniFi assign VPN server to firewall zone\" / \"UniFi Network 9.0 zone-based firewall VPN server assign zone\".\n\nAlso check: multiple WireGuard servers on one gateway simultaneously — confirm for EFG.\n\nThen give recommendation: one WireGuard server per group, each with own port + client subnet, firewall rules per subnet, or custom zones if supported.\n\nLet me search.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1792087940378,
+          "contextId": "harness-reasoning-0",
+          "startTime": 1792087936371
+        }
+      },
+      {
+        "id": "typescript:16:chatcmpl-tool-abc365fd507b0417:0:tool:0",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "chatcmpl-tool-abc365fd507b0417"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "id": "ECacWksA",
+              "url": "https://www.reddit.com/r/Ubiquiti/comments/1qfk8xa/udm_pro_assign_wireguard_vpn_server_to_vlan/",
+              "title": "r/Ubiquiti on Reddit: UDM Pro - Assign Wireguard VPN Server to VLAN",
+              "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+              "description": "You should be able to set firewall rules already for the wireguard server/interface ... The problem is, it dumps all VPN servers into the same &quot;VPN&quot; zone. I&#x27;d like to have different zones based on which VPN server and I&#x27;d like those different VPN servers to be assigned to different VLANS. So, really, I think the only way this could be accomplished is by setting up separate networks (with assigned VLANS) in the UDM and then setting up WG VirtualMachine servers for for each of those networks."
+            },
+            {
+              "id": "D4JQf5G4",
+              "url": "https://www.unihosted.com/blog/ultimate-guide-to-setting-up-unifi-wire-guard-vpn-for-secure-connectivity",
+              "title": "UniFi WireGuard VPN: how to set it up (2026) | UniHosted",
+              "favicon": "https://imgs.search.brave.com/kx_IWk9Fv3QlLm_h1nuLOseaHa-ml3UVRSHKFRUzyT0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTJhYTdmMWQ0/MGE4YzZiMWViZmRm/YTY5OGIxMDhmNTBl/MTYyNTc4MTQ0NjZj/MjlhZDk4YTBjNmNj/NTk1NTg5Yi93d3cu/dW5paG9zdGVkLmNv/bS8",
+              "description": "That&#x27;s split tunneling. To split the tunnel, <strong>edit the AllowedIPs line in the client file before you import it</strong>. List the site&#x27;s networks, separated by commas. Check the file UniFi Network generated first, so you know what you&#x27;re changing."
+            },
+            {
+              "id": "PmH4hZ3X",
+              "url": "https://help.ui.com/hc/en-us/articles/115003173168-Zone-Based-Firewalls-in-UniFi",
+              "title": "Zone-Based Firewalls in UniFi – Ubiquiti Help Center",
+              "favicon": "https://imgs.search.brave.com/IkppX9yy1BA9tLLYTRq1mydax0r39M5mAMdMcXZ00FA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ3ODBkMGU1/MmZiNjZlNDk1ODI1/MDQ4OTk2NTJjMjk2/NzI5MjY0YjhhN2Jh/YWIzMTE3YTkwODIz/MzFlYjg5NC9oZWxw/LnVpLmNvbS8",
+              "description": "The UniFi firewall includes several predefined, built-in zones to which networks and interfaces are associated. External: For incoming traffic that is untrusted, or requires more strict control, such as general Internet traffic on the WAN, or a connection with a third-party VPN client service."
+            },
+            {
+              "id": "Ym1J333l",
+              "url": "https://www.reddit.com/r/Ubiquiti/comments/1lmhina/vpn_access_for_home_and_business_separate_zones/",
+              "title": "r/Ubiquiti on Reddit: VPN access for home and business, separate zones",
+              "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+              "description": "Just create two WireGuard VPN’s with both an other subnet. Then they will both be in Zone VPN. But you can make firewall rules based on what subnet they originate from."
+            },
+            {
+              "id": "K299rSzE",
+              "url": "https://help.ui.com/hc/en-us/articles/115005445768-UniFi-Gateway-WireGuard-VPN-Server",
+              "title": "UniFi Gateway - WireGuard VPN Server – Ubiquiti Help Center",
+              "favicon": "https://imgs.search.brave.com/IkppX9yy1BA9tLLYTRq1mydax0r39M5mAMdMcXZ00FA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ3ODBkMGU1/MmZiNjZlNDk1ODI1/MDQ4OTk2NTJjMjk2/NzI5MjY0YjhhN2Jh/YWIzMTE3YTkwODIz/MzFlYjg5NC9oZWxw/LnVpLmNvbS8",
+              "description": "<strong>After enabling WireGuard and specifying a port (UDP 51820 by default), add a Client and share the configuration file with your desired recipient</strong>. Once the recipient has installed the WireGuard program or mobile app, they can import the configuration ..."
+            },
+            {
+              "id": "Xu3ulJ8q",
+              "url": "https://community.ui.com/questions/WireGuard-client-change-FW-zone/85f44fac-9187-4b1b-bba6-87b726b45521",
+              "title": "WireGuard client - change FW zone?",
+              "favicon": "https://imgs.search.brave.com/7RrqrBeWhKwGpzVfKVRyUSXl8W3JTE1Ag3oVqnkoQu0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTlhMDQ4YWYw/ODNmZWZkMzM0YTE1/ZDIzODVkODJmOGNk/ODdiZGZhMDgyMjk5/YWE5YTljNjcwYWM2/OGVmOGFlYy9jb21t/dW5pdHkudWkuY29t/Lw",
+              "description": "These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly · These cookies ..."
+            },
+            {
+              "id": "zNUlhTxd",
+              "url": "https://lazyadmin.nl/home-network/unifi-zone-based-firewall/",
+              "title": "UniFi Zone-Based Firewall - What you need to Know — LazyAdmin",
+              "favicon": "https://imgs.search.brave.com/B5wuOrickrg86sJfFcHwDvSQpbvLUrG2EH05DIMMGh0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTBlYWQ3MTNi/YjNjZmM3NzNhMTBj/MzQ0Y2U2MTM3ZTY3/MDhkM2ZmOWNkYTA5/MzU4YWU2NjQ5ODRj/ODdmMzdiMC9sYXp5/YWRtaW4ubmwv",
+              "description": "Gateway – Traffic from and to your UniFi Gateway (DNS, DHCP, HTTPS/SSH Management) VPN – All VPN Traffic, including Teleport, Wireguard/OpenVPN/L2TP VPN server, Site-Magic, etc"
+            },
+            {
+              "id": "rFW09ODN",
+              "url": "https://lazyadmin.nl/network/unifi-vpn-server/",
+              "title": "How to configure and use UniFi VPN Server — LazyAdmin",
+              "favicon": "https://imgs.search.brave.com/B5wuOrickrg86sJfFcHwDvSQpbvLUrG2EH05DIMMGh0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTBlYWQ3MTNi/YjNjZmM3NzNhMTBj/MzQ0Y2U2MTM3ZTY3/MDhkM2ZmOWNkYTA5/MzU4YWU2NjQ5ODRj/ODdmMzdiMC9sYXp5/YWRtaW4ubmwv",
+              "description": "You will need to make sure that you are running UniFi OS 3.x and UniFi Network 7.4 or newer. Note that this article is based on UniFi OS 4.x and UniFi Network 8.x. When creating a VPN server you can choose between three different VPN types: ... WireGuard is the latest technology when it comes to VPN connections."
+            },
+            {
+              "id": "uygfaGxq",
+              "url": "https://community.ui.com/questions/c0ac8858-b1e7-4a3c-af37-6bda46a4d1f2",
+              "title": "Gateway Access For Zone Based Firewall VPN | Ubiquiti Community",
+              "favicon": "https://imgs.search.brave.com/7RrqrBeWhKwGpzVfKVRyUSXl8W3JTE1Ag3oVqnkoQu0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTlhMDQ4YWYw/ODNmZWZkMzM0YTE1/ZDIzODVkODJmOGNk/ODdiZGZhMDgyMjk5/YWE5YTljNjcwYWM2/OGVmOGFlYy9jb21t/dW5pdHkudWkuY29t/Lw",
+              "description": "Hi All, I have a wireguard VPN server set up on a UDM. It automatically goes into the VPN Zone Based Firewall zone. I&#x27;ve added two custom rules with the specific VPN as the source and the Gateway as the Destination. The first rule is a Block All Traffic Rule. The second rule is an Allow Return"
+            },
+            {
+              "id": "GChsRFJ1",
+              "url": "https://www.reddit.com/r/Ubiquiti/comments/1jaoxsn/question_about_unifi_firewall_and_wireguard/",
+              "title": "r/Ubiquiti on Reddit: Question about Unifi firewall and Wireguard",
+              "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+              "description": "VPN connections exist in the External zone of the ZBF. That means, that you can <strong>create rules based on IP, MAC or even geolocation (early access feature) to block or allow</strong>. Just be sure that you set the allow rule above the blocking rule."
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "UniFi Network assign VPN server to firewall zone multiple WireGuard servers separate zones",
+        "requiresConfirmation": false
+      },
+      {
+        "id": "typescript:16:chatcmpl-tool-abc365fd507b0417:0:tool:1",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "chatcmpl-tool-abc365fd507b0417"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "id": "bf0f351B",
+              "url": "https://community.ui.com/questions/UDM-Pro-Network-7-3-83-multiple-Wireguard-servers-less-greater-VLANs/fcfd4f54-fafb-4287-a2c6-9a56610aa9a4",
+              "title": "UDM-Pro (Network 7.3.83) multiple Wireguard servers <->",
+              "favicon": "https://imgs.search.brave.com/7RrqrBeWhKwGpzVfKVRyUSXl8W3JTE1Ag3oVqnkoQu0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTlhMDQ4YWYw/ODNmZWZkMzM0YTE1/ZDIzODVkODJmOGNk/ODdiZGZhMDgyMjk5/YWE5YTljNjcwYWM2/OGVmOGFlYy9jb21t/dW5pdHkudWkuY29t/Lw",
+              "description": "Loading Ubiquiti Community"
+            },
+            {
+              "id": "9Omaa0h4",
+              "url": "https://www.reddit.com/r/Ubiquiti/comments/1qfk8xa/udm_pro_assign_wireguard_vpn_server_to_vlan/",
+              "title": "r/Ubiquiti on Reddit: UDM Pro - Assign Wireguard VPN Server to VLAN",
+              "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+              "description": "How policy separation works in practice Even though all WG servers live in the VPN zone, you can still fully separate access by server/subnet. For example: WG Client A -&gt; Gateway -&gt; WG Server A (10.0.20.0/24) -&gt; VLAN 120 (Trusted zone) WG Client B -&gt; Gateway -&gt; WG Server B (10.0.30.0/24) -&gt; VLAN 130 (Internal zone) ... By default, UniFi allows VPN Zone -&gt; Internal Zone traffic, so if you do not want VPN clients to access Internal Zone networks broadly, you should add a BLOCK VPN Zone -&gt; Internal Zone rule as the last rule in that cell, then explicitly allow only what you need."
+            },
+            {
+              "id": "B74jMXiK",
+              "url": "https://www.reddit.com/r/WireGuard/comments/110gzgr/wireguard_two_vlans_on_one_server/",
+              "title": "r/WireGuard on Reddit: Wireguard: two \"VLANs\" on one server?",
+              "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+              "description": "You than should have two Ethernet gateways on your Pi (one for local and one for IoT) which is connected to your VLANs on your UniFi router accordingly. You create firewall rules on your Pi to drop all traffic from 10.0.1.0/24 to local VLAN. Kind of this. You could also create two WireGuard interfaces and limit traffic based on this interfaces."
+            },
+            {
+              "id": "QVyMPHS9",
+              "url": "https://www.reddit.com/r/Ubiquiti/comments/1jukly8/multiple_wireguard_vpn_clients/",
+              "title": "r/Ubiquiti on Reddit: Multiple Wireguard VPN clients",
+              "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+              "description": "Are you sure that Proton isn&#x27;t blocking you for two simultaneous connections with the same key? ... Works for me with vlans. ... Have protonvpn was able to setup Two VPN Clients one using openvpn the other using wireguard protocol."
+            },
+            {
+              "id": "jDT2VERi",
+              "url": "https://community.ui.com/questions/Wireguard-VPN-Access-to-all-VLANs/f8bd23ac-269e-4a4a-ad0f-ac95fb5f7e01",
+              "title": "Wireguard VPN - Access to all VLANs",
+              "favicon": "https://imgs.search.brave.com/7RrqrBeWhKwGpzVfKVRyUSXl8W3JTE1Ag3oVqnkoQu0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTlhMDQ4YWYw/ODNmZWZkMzM0YTE1/ZDIzODVkODJmOGNk/ODdiZGZhMDgyMjk5/YWE5YTljNjcwYWM2/OGVmOGFlYy9jb21t/dW5pdHkudWkuY29t/Lw",
+              "description": "Loading Ubiquiti Community"
+            },
+            {
+              "id": "tRxvcsGF",
+              "url": "https://community.ui.com/questions/can-i-setup-individual-VLANs-with-separate-VPN-s-using-wireguard-on-my-24-us-switch/031a727f-0983-4102-8f73-99b3efa23aac",
+              "title": "can i setup individual VLANs with separate VPN s using ...",
+              "favicon": "https://imgs.search.brave.com/7RrqrBeWhKwGpzVfKVRyUSXl8W3JTE1Ag3oVqnkoQu0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTlhMDQ4YWYw/ODNmZWZkMzM0YTE1/ZDIzODVkODJmOGNk/ODdiZGZhMDgyMjk5/YWE5YTljNjcwYWM2/OGVmOGFlYy9jb21t/dW5pdHkudWkuY29t/Lw",
+              "description": "Loading Ubiquiti Community"
+            },
+            {
+              "id": "g0ZB6cXw",
+              "url": "https://community.ui.com/questions/UDM-SE-WireGuard-VPN-Server-Setup-do-i-Need-a-specific-VLAN/6c8dabec-6d51-439a-acf5-81afe4518762",
+              "title": "WireGuard VPN Server Setup: do i Need a specific VLAN?",
+              "favicon": "https://imgs.search.brave.com/7RrqrBeWhKwGpzVfKVRyUSXl8W3JTE1Ag3oVqnkoQu0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTlhMDQ4YWYw/ODNmZWZkMzM0YTE1/ZDIzODVkODJmOGNk/ODdiZGZhMDgyMjk5/YWE5YTljNjcwYWM2/OGVmOGFlYy9jb21t/dW5pdHkudWkuY29t/Lw",
+              "description": "Loading Ubiquiti Community"
+            },
+            {
+              "id": "G5e891Gr",
+              "url": "https://help.ui.com/hc/en-us/articles/115005445768-UniFi-Gateway-WireGuard-VPN-Server",
+              "title": "UniFi Gateway - WireGuard VPN Server – Ubiquiti Help Center",
+              "favicon": "https://imgs.search.brave.com/IkppX9yy1BA9tLLYTRq1mydax0r39M5mAMdMcXZ00FA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ3ODBkMGU1/MmZiNjZlNDk1ODI1/MDQ4OTk2NTJjMjk2/NzI5MjY0YjhhN2Jh/YWIzMTE3YTkwODIz/MzFlYjg5NC9oZWxw/LnVpLmNvbS8",
+              "description": "<strong>A UniFi Gateway or UniFi Cloud Gateway is required</strong>. After enabling WireGuard and specifying a port (UDP 51820 by default), add a Client and share the configuration file with your desired recipient."
+            },
+            {
+              "id": "Jaz7AEJy",
+              "url": "https://community.ui.com/questions/Assign-UDM-SE-Wireguard-VPN-server-clients-to-VLAN-content-filtering-firewall-rule-type/d1f40a35-551a-413b-92ae-8cb6bf2c0c58",
+              "title": "Assign UDM SE Wireguard VPN server clients to VLAN ...",
+              "favicon": "https://imgs.search.brave.com/7RrqrBeWhKwGpzVfKVRyUSXl8W3JTE1Ag3oVqnkoQu0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTlhMDQ4YWYw/ODNmZWZkMzM0YTE1/ZDIzODVkODJmOGNk/ODdiZGZhMDgyMjk5/YWE5YTljNjcwYWM2/OGVmOGFlYy9jb21t/dW5pdHkudWkuY29t/Lw",
+              "description": "Loading Ubiquiti Community"
+            },
+            {
+              "id": "bN5ECwki",
+              "url": "https://lazyadmin.nl/network/unifi-vpn-server/",
+              "title": "How to configure and use UniFi VPN Server — LazyAdmin",
+              "favicon": "https://imgs.search.brave.com/B5wuOrickrg86sJfFcHwDvSQpbvLUrG2EH05DIMMGh0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTBlYWQ3MTNi/YjNjZmM3NzNhMTBj/MzQ0Y2U2MTM3ZTY3/MDhkM2ZmOWNkYTA5/MzU4YWU2NjQ5ODRj/ODdmMzdiMC9sYXp5/YWRtaW4ubmwv",
+              "description": "Best starting point in these cases is to <strong>check the system log &gt; triggers to make sure that not a firewall rule is blocking the traffic</strong>. Hello. You have some great articles. They help me so much."
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "UniFi multiple WireGuard VPN servers simultaneously one per user group VLAN best practice",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Now I have confirmation: even with multiple WireGuard servers, all land in the same VPN zone; separation is done per server subnet via firewall rules (Reddit threads CMNrgVd0/9Omaa0h4, Ym1J333l confirm: \"Create two WireGuard VPNs with both an other subnet. Then they will both be in Zone VPN. But you can make firewall rules based on what subnet they originate from.\").\n\nSo for the user's scenario (groups, simultaneous use, each group → dedicated VLAN):\n\n**Recommended: one WireGuard server per group**, each with own UDP port and own client subnet. Then:\n- Firewall: default block VPN→Internal, then one allow rule per group: source = group's VPN subnet → destination = dedicated VLAN.\n- Advantage: clean per-group separation, each group gets its own config (endpoint port + subnet), a user from group A can't reach VLAN B even if their device is misconfigured, since rule blocks. Also easier revocation: remove client from server.\n- AllowedIPs in the client config per group = only that VLAN's subnet → split tunnel, and even client-side only routes the target network.\n\nAlternative: single server + IP groups works too but is messier for groups.\n\nStructure the answer:\n- Kurzfazit: für Gruppen-Szenario → ein WireGuard-Server pro Gruppe, jeweils eigener Port + eigenes Client-Subnetz; Firewall-Regeln pro Subnetz.\n- Wichtig: alle Server landen in derselben VPN-Zone → Trennung über Subnetz-basierte Firewall-Regeln.\n- Mermaid? Could show small diagram of the setup. A mermaid diagram might help visualize: Client group A → WG Server A (10.10.10.0/24) → VLAN 10; group B → WG Server B (10.10.20.0/24) → VLAN 20. That's a brief explanatory diagram — allowed in chat. Maybe keep it simple with a table instead. A small mermaid flowchart could be nice. Let me include one compact mermaid diagram.\n\n- Konkrete Schritte (updated checklist): render a new checklist? I rendered one last turn. A new checklist tailored to group setup would be useful. Yes, render one checklist for the group-based setup.\n\nSteps:\n1. Pro Gruppe ein WireGuard-Server: Settings → VPN → VPN Server → Create New → WireGuard; eigener UDP-Port (z.B. 51820 Gruppe A, 51821 Gruppe B), eigenes Client-Subnetz pro Server.\n2. Portfreigaben am Upstream-Router für jeden Port (falls NAT) bzw. öffentliche IP/DDNS.\n3. Clients in jeweiligem Server anlegen, Config an Gruppe verteilen; AllowedIPs auf Ziel-VLAN kürzen.\n4. Firewall: Default Block VPN-Zone → Internal-Zone als letzte Regel.\n5. Pro Gruppe Allow-Regel: Quelle = VPN-Subnetz der Gruppe → Ziel = dediziertes VLAN.\n6. Optional: zusätzliche Block-Regel Gruppe A Subnetz → Gruppe B Subnetz (VPN-interne Trennung).\n7. Test.\n\nAlso mention: same DDNS hostname, different ports; one config file per user per group.\n\nCitations:\n- Multiple WG servers both in VPN zone, rules by subnet: Ym1J333l, 9Omaa0h4\n- Default VPN→Internal allow, need block: CMNrgVd0 / PmH4hZ3X (zone-based firewalls help center: VPN zone definition) — PmH4hZ3X is the Ubiquiti help center article on zone-based firewalls.\n- WireGuard can be used alongside other VPNs: G5e891Gr.\n- AllowedIPs split tunnel: D4JQf5G4.\n- LazyAdmin confirmed multiple VPN servers simultaneously: bN5ECwki / earlier lazyadmin (k8lrCmNy from turn 1 — I can still cite from turn 1 results).\n\nRender a new checklist via renderComponent. One call. Then final answer in German.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1792087951181,
+          "contextId": "harness-reasoning-3",
+          "startTime": 1792087951181
+        }
+      },
+      {
+        "id": "typescript:18:chatcmpl-tool-9b300dcd0212fd86:0:tool:0",
+        "name": "ui_renderComponent",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "chatcmpl-tool-9b300dcd0212fd86"
+        },
+        "success": true,
+        "toolType": "raw",
+        "publicResult": "{\"success\":true,\"uri\":\"component://9af43e52\",\"message\":\"\\n  <render-component-result status=\\\"rendered\\\" id=\\\"9af43e52\\\" uri=\\\"component://9af43e52\\\" />\\n  <system>The component was created successfully.\\nUse a Markdown link to position it where it makes the most sense in the\\nresponse, following this pattern:\\n[Component title](component://9af43e52)</system>\\n\"}",
+        "isInterrupted": false,
+        "publicMetadata": {
+          "display": {
+            "kind": "render_component"
+          }
+        },
+        "publicArguments": "{\"name\":\"Checklist\",\"props\":{\"title\":\"Setup: Eine Nutzergruppe = ein WireGuard-Server = ein VLAN\",\"items\":[{\"text\":\"Pro Gruppe einen eigenen WireGuard-Server anlegen (Settings → VPN → VPN Server → Create New → WireGuard), z. B. „VPN-Gruppe-A“ auf UDP 51820, „VPN-Gruppe-B“ auf UDP 51821\"},{\"text\":\"Pro Server ein eigenes Client-Subnetz vergeben (z. B. 10.10.10.0/24 und 10.10.20.0/24) – darf mit keinem LAN-Subnetz kollidieren\"},{\"text\":\"Ports am Upstream-Router weiterleiten (falls der EFG hinter NAT sitzt) und DDNS einrichten, falls die öffentliche IP wechselt\"},{\"text\":\"Mitglieder der Gruppe als Clients am jeweiligen Server anlegen (Config/QR an alle Gruppenmitglieder verteilen)\"},{\"text\":\"AllowedIPs in den Client-Dateien auf das Ziel-VLAN kürzen (Split Tunnel), z. B. AllowedIPs = 192.168.10.0/24 für Gruppe A\"},{\"text\":\"Zonen-Firewall: Standardregel „Block VPN-Zone → Internal-Zone“ als letzte Regel einrichten\"},{\"text\":\"Pro Gruppe eine Allow-Regel: Quelle = VPN-Subnetz der Gruppe → Ziel = dediziertes VLAN (z. B. 10.10.10.0/24 → 192.168.10.0/24)\"},{\"text\":\"Optional: Block-Regel zwischen den VPN-Subnetzen der Gruppen, damit VPN-Clients der Gruppe A keine Clients der Gruppe B erreichen\"},{\"text\":\"Test über Mobilfunk: Gruppe A erreicht nur VLAN A, Gruppe B nur VLAN B; Ports und DNS prüfen\"}]}}",
+        "requiresConfirmation": false
+      },
+      {
+        "meta": {
+          "uri": "component://9af43e52"
+        },
+        "type": "custom_element",
+        "display": "block",
+        "element": {
+          "type": "render_component",
+          "attributes": {
+            "component": {
+              "name": "Checklist",
+              "props": {
+                "items": [
+                  {
+                    "text": "Pro Gruppe einen eigenen WireGuard-Server anlegen (Settings → VPN → VPN Server → Create New → WireGuard), z. B. „VPN-Gruppe-A“ auf UDP 51820, „VPN-Gruppe-B“ auf UDP 51821"
+                  },
+                  {
+                    "text": "Pro Server ein eigenes Client-Subnetz vergeben (z. B. 10.10.10.0/24 und 10.10.20.0/24) – darf mit keinem LAN-Subnetz kollidieren"
+                  },
+                  {
+                    "text": "Ports am Upstream-Router weiterleiten (falls der EFG hinter NAT sitzt) und DDNS einrichten, falls die öffentliche IP wechselt"
+                  },
+                  {
+                    "text": "Mitglieder der Gruppe als Clients am jeweiligen Server anlegen (Config/QR an alle Gruppenmitglieder verteilen)"
+                  },
+                  {
+                    "text": "AllowedIPs in den Client-Dateien auf das Ziel-VLAN kürzen (Split Tunnel), z. B. AllowedIPs = 192.168.10.0/24 für Gruppe A"
+                  },
+                  {
+                    "text": "Zonen-Firewall: Standardregel „Block VPN-Zone → Internal-Zone“ als letzte Regel einrichten"
+                  },
+                  {
+                    "text": "Pro Gruppe eine Allow-Regel: Quelle = VPN-Subnetz der Gruppe → Ziel = dediziertes VLAN (z. B. 10.10.10.0/24 → 192.168.10.0/24)"
+                  },
+                  {
+                    "text": "Optional: Block-Regel zwischen den VPN-Subnetzen der Gruppen, damit VPN-Clients der Gruppe A keine Clients der Gruppe B erreichen"
+                  },
+                  {
+                    "text": "Test über Mobilfunk: Gruppe A erreicht nur VLAN A, Gruppe B nur VLAN B; Ports und DNS prüfen"
+                  }
+                ],
+                "title": "Setup: Eine Nutzergruppe = ein WireGuard-Server = ein VLAN"
+              }
+            }
+          }
+        }
+      },
+      {
+        "text": "Write the final answer in German, with the architecture diagram (mermaid), checklist, and citations.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1792087951790,
+          "contextId": "harness-reasoning-7",
+          "startTime": 1792087951637
+        }
+      },
+      {
+        "text": "Genau für dieses Szenario (Gruppe → gleichzeitig nutzen → jeweils ein dediziertes VLAN) ist die sauberste Lösung: **pro Nutzergruppe ein eigener WireGuard-Server auf dem EFG**, jeweils mit eigenem UDP-Port und eigenem Client-Subnetz. Der EFG kann mehrere VPN-Server parallel betreiben, und WireGuard kann gleichzeitig mit anderen VPNs laufen ([Ubiquiti Help Center](search-result://G5e891Gr), [LazyAdmin](search-result://bN5ECwki)).\n\n```mermaid\nflowchart LR\n    A[Gruppe A<br/>mehrere Clients] -->|\"UDP 51820\"| SA[\"WireGuard-Server A<br/>10.10.10.0/24\"]\n    B[Gruppe B<br/>mehrere Clients] -->|\"UDP 51821\"| SB[\"WireGuard-Server B<br/>10.10.20.0/24\"]\n    SA -->|\"Allow-Regel\"| VA[VLAN 10]\n    SB -->|\"Allow-Regel\"| VB[VLAN 20]\n    SA -.->|\"Block\"| VB\n    SB -.->|\"Block\"| VA\n```\n\n## Warum ein Server pro Gruppe?\n\n- **Einleutend getrennt:** Jede Gruppe erhält ihre eigene Config (Port + Subnetz), die Zugriffe werden über einfache Firewall-Regeln pro Subnetz gesteuert – Gruppenmitglieder kommen ohne separate Regeln gar nicht in fremde VLANs.\n- **Wichtig zu wissen:** UniFi packt alle VPN-Server in dieselbe „VPN“-Zone – die Trennung erfolgt also über die Client-Subnetze in den Firewall-Regeln, nicht über getrennte Zonen ([Reddit](search-result://Ym1J333l), [Reddit](search-result://9Omaa0h4)).\n- **Einfache Verwaltung:** Nutzer hinzufügen/entfernen = Client am Gruppen-Server anlegen/löschen; die Gruppenrichtlinie bleibt unberührt.\n\nDie Alternative (ein Server für alle + IP-Groups) funktioniert auch, wird bei mehreren Gruppen aber schnell unübersichtlich, weil du jede Client-IP einzeln gruppieren musst.\n\n## Schritt-für-Schritt\n\n[Setup: Eine Nutzergruppe = ein WireGuard-Server = ein VLAN](component://9af43e52)\n\n## Zwei kritische Punkte\n\n1. **Default Allow nicht vergessen:** Die Standardrichtlinie VPN→Internal ist „Allow All“ – die Block-Regel für die VPN-Zone muss zuerst/zuunterst stehen, erst danach die Allow-Regeln pro Gruppe ([Reddit](search-result://9Omaa0h4), [Ubiquiti Help Center](search-result://PmH4hZ3X)).\n2. **Split-Tunnel pro Gruppe:** Setze in den Client-Dateien `AllowedIPs` auf das jeweilige Ziel-VLAN, damit z. B. nur Traffic für 192.168.10.0/24 durch den Tunnel geht ([UniHosted](search-result://D4JQf5G4)).\n\nWenn du mir deine VLAN-Subnetze und die Gruppen sagst, kann ich dir die konkrete Regel Matrix (Server, Ports, Subnetze, Firewall-Regeln) als Tabelle ausarbeiten.",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-10-15T18:12:14.588Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1792087934452,
+        "completedAtMs": 1792087955220,
+        "firstTokenAtMs": 1792087936370,
+        "generationStats": {
+          "outputTokens": 2697,
+          "completionCount": 3,
+          "generationDurationMs": 16361,
+          "outputTokensPerSecond": 164.84322474176395
+        },
+        "timeToFirstTokenMs": 1918,
+        "bootstrapDurationMs": 304,
+        "completionDurationMs": 20768,
+        "userMessageCreatedToCompletionMs": 20667
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "run_typescript",
+          "web_search",
+          "ui_renderComponent"
+        ],
+        "integrationNames": [
+          "web_search"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "45520617-bf08-445e-ab1c-b5035adf8d82",
+    "version": 0,
+    "chatId": "2528a0f1-74e9-4a35-a6a0-b054a5f82571",
+    "content": "Es verhält sich eher so, dass einen nutzergruppe gleichzetig den VPN Zugang nutzen will und ein dediziertes VLAN Erreichen will.",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-10-15T18:12:14.553Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  }
+]

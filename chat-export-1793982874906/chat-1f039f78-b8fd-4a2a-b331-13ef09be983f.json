@@ -1,0 +1,322 @@
+[
+  {
+    "id": "886c8c1c-5dc7-4157-b990-3366945d744f",
+    "version": 0,
+    "chatId": "1f039f78-b8fd-4a2a-b331-13ef09be983f",
+    "content": "welche wifi standards werden vom Iphone 14 pro unterstützt ?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-09-16T17:13:18.028Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "c80c10bf-663b-4d72-842a-4a92fd015164",
+    "version": 0,
+    "chatId": "1f039f78-b8fd-4a2a-b331-13ef09be983f",
+    "content": "Das iPhone 14 Pro unterstützt **Wi-Fi 6 (802.11ax) mit 2×2 MIMO**, aber **nicht den Wi-Fi 6E-Standard**.",
+    "contentChunks": [
+      {
+        "id": "ZvrYjIb16",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1789578803352,
+        "success": true,
+        "toolType": "rag",
+        "startTime": 1789578801710,
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "ar": "البحث على الويب",
+            "de": "Websuche",
+            "en": "Web Search",
+            "es": "Búsqueda web",
+            "fr": "Recherche Web",
+            "it": "Ricerca web",
+            "nl": "Webzoeken",
+            "pl": "Wyszukiwanie w sieci",
+            "pt-BR": "Pesquisa na web"
+          }
+        },
+        "customLocale": {
+          "done_description": {
+            "en": "web_search"
+          },
+          "working_description": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "7Pz3ftE4": {
+            "url": "https://www.mactechnews.de/forum/discussion/iPhone-16-WLAN-Spezifikationen-351744.html",
+            "date": null,
+            "rank": 9,
+            "title": "iPhone 16 WLAN-Spezifikationen | iPhone | Forum | MacTechNews.de",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/DMldOpaoQMBbOOLa78UGSdnWOo8qPcjNJpN1PiKqXAA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDQwNGYxMDMy/OWQ3MjQ1YmMyOTI5/MzNhMmQ3NDVkOTk4/MWJiMjBhZTZmMTBl/ODRjMzU5Mzk1MTE5/NWYzZGI4OS93d3cu/bWFjdGVjaG5ld3Mu/ZGUv",
+              "thumbnail": null
+            },
+            "snippets": [],
+            "description": "Immer aktuelle Apple-News, Tipps, Tricks und Testberichte rund um Mac, iPhone, iPad und Co."
+          },
+          "CK25xK73": {
+            "url": "https://www.bastianoso.de/tipps-tricks/welchen-wlan-standard-unterstuetzt-mein-iphone.html",
+            "date": null,
+            "rank": 0,
+            "title": "Wie ist der WLAN-Standard vom iPhone | @Bastianoso [Apple, IEEE80211, iOS, iPhone, MIMO, Wi-Fi, WLAN ]",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/oA3GWVk9zP_ERiTlqTF7VCjlTEvvBQsQmvxzH9E5hOE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjIxMzMwZmU5/NTdkZDk4YTVjNmQ4/MDNhMTdmMjNkNWIy/ZGNmNTJmYjQ5Mzg5/ZDA4ODAxNWEzZjJm/YzE2NWIxNy93d3cu/YmFzdGlhbm9zby5k/ZS8",
+              "thumbnail": "https://www.bastianoso.de/wp-content/uploads/2014/07/bastianoso-als-app.jpg"
+            },
+            "snippets": [
+              "Hinweis: Letzte Änderung: Daten für neue iPhones bis einschließlich iPhone 16 (Pro/Pro Max) hinzugefügt. Letzte Woche beschrieb ich, wie man herausfinden kann welchen WLAN-Standard Apple-Computer unterstützen — doch was ist der WLAN-Standard vom iPhone? Leider ist das nicht so einfach herauszufinden, denn softwareseitig ist es nicht möglich, einfach zu sehen, welcher IEEE-Standard unterstützt wird.",
+              "Übersicht der verschiedenen WLAN-Standard vom iPhone, gegliedert nach Erscheinungsdatum vom 1. iPhone bis zum neuesten Smartphone von Apple.",
+              "Der Einfachheit halber, habe ich diese Informationen über den jeweiligen WLAN-Standard vom iPhone für die verschiedenen iPhone-Modelle hier gesammelt. Wenn Du mehr über die unterschiedlichen WLAN-Standards wissen möchtest, kann ich Dir die Definition der IEEE-Norm auf Wikipedia empfehlen. Übersicht der unterstützten WLAN-Standards von Apples iPhones ab dem iPhone 6S"
+            ],
+            "description": "Theoretisch ist derzeit ein <strong>8×8 MIMO</strong> möglich, mit dem der WLAN-Standard vom iPhone erweitert werden könnte. Übersicht der unterstützten WLAN-Standards von Apples iPhones vom Originalen bis zum 6er."
+          },
+          "H93vEBqM": {
+            "url": "https://www.lte-anbieter.info/smartphones/smartphone-iphone-14-plus-pro-pro-max",
+            "date": null,
+            "rank": 7,
+            "title": "iPhone 14 / Plus / Pro / Pro Max | Datenblatt & Features",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/Md9XXWF-20GqT1Foz7E7MRcBrKnBXXooHxpCJHd--Hw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjJhMTdhZmQw/Y2E0OTY1NmYxNDE0/ZjMwZmMxM2E1MWI0/M2IyOTBkMGFkYzk0/YWE5YzIwMTE2MjFl/OGNiYTQ0Zi93d3cu/bHRlLWFuYmlldGVy/LmluZm8v",
+              "thumbnail": "https://www.lte-anbieter.info/smartphones/wp-content/uploads/2022/09/iphone14.webp"
+            },
+            "snippets": [
+              "Abgesehen von diesen genannten Punkten, gibt es keine weiteren Unterschiede zwischen dem iPhone 14 und dem Plus-Modell. Beide basieren auf dem A15 Bionic Chip, der schon in der vorherigen Generation verbaut war. Kombiniert wird dieser mit 128, 256 oder 512 GB – je nach Wahl des Kunden. Für die Konnektivität ist ein 5G-Modem an Bord, das Sub-6-GHz unterstützt. Natürlich funkt es aber auch mit LTE und nutzt hierbei bis zu Cat 16 und Gigabit LTE mit 4×4 MIMO und LAA. Als weitere Funkverbindungen sind WLAN bis hin zu Wi-Fi 6 (802.11ax) mit 2×2 MIMO, Bluetooth 5.3, NFC sowie die üblichen Satellitenverbindungen wie GPS für Ortung und Navigation im Einsatz.",
+              "Während das iPhone 14 für bis zu 80 Stunden Audio- und 20 Stunden Videowiedergabe gut sein soll, hält das iPhone 14 Plus bis zu 100 bzw. 26 Stunden durch. Geladen wird in beiden Fällen mit einem 20 Watt Netzteil binnen 30 Minuten auf 50 Prozent. Alternativ zur Kabellösung ist auch wieder das kabellose Laden via MagSafe mit bis zu 15 Watt und per Qi-Standard mit bis zu 7,5 Watt möglich.",
+              "Im September 2022 hat Apple seine neue iPhone 14-Generation vorgestellt. Wie im Vorjahr gibt es auch diesmal wieder vier verschiedene Modelle. Neben dem klassischen iPhone 14, hat der Konzern aus Cupertino das iPhone 14 Plus, das iPhone 14 Pro sowie das iPhone 14 Pro Max präsentiert.",
+              "Wie im Vorjahr, bieten die beiden Pro-Modelle iPhone 14 Pro und iPhone 14 Pro Max wieder einige Upgrades gegenüber dem regulären iPhone 14 (Plus). Dies betrifft unter anderem den Prozessor. Apple verbaut hier seine neue und erneut verbesserte Generation A16 Bionic Chip."
+            ],
+            "description": "Als weitere Funkverbindungen sind WLAN <strong>bis hin zu Wi-Fi 6 (802.11ax) mit 2×2 MIMO</strong>, Bluetooth 5.3, NFC sowie die üblichen Satellitenverbindungen wie GPS für Ortung und Navigation im Einsatz."
+          },
+          "Jq3QOFD1": {
+            "url": "https://support.apple.com/de-de/111849",
+            "date": null,
+            "rank": 6,
+            "title": "iPhone 14 Pro - Technische Daten - Apple Support (DE)",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/7np7ILB-AZuODSDeHPnjni4xjMSje3VAOsle8NhuABg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODM2NGRlN2Rl/NzFiZDUxNjNhZjI4/ODYwYmFkMzA4YjRm/OWQ1NDc3ODM0ODNl/NjYzNjdlYWRkYmY4/ZDUxMDFjOC9zdXBw/b3J0LmFwcGxlLmNv/bS8",
+              "thumbnail": null
+            },
+            "snippets": [
+              "Das iPhone 14 Pro Display hat gerundete Ecken, die den Kurven des Designs folgen und sich innerhalb eines normalen Rechtecks befinden. Als Standard-Rechteck gemessen hat das Display eine Diagonale von 6,12\" (15,54 cm).",
+              "Welche Mobilfunktechnologie unterstützt wird, ist von der Modellnummer des iPhone und davon abhängig, ob das Gerät für GSM Netze konfiguriert ist. Der verfügbare Speicherplatz ist geringer und hängt von vielen Faktoren ab. Eine Standard-Konfiguration nutzt ungefähr 12 GB bis 17 GB Speicherplatz, inklusive iOS 16 mit den neuesten Features und Apple Apps, die gelöscht werden können.",
+              "Das iPhone 14 und das iPhone 14 Pro können einen schweren Autounfall erkennen und Hilfe rufen. Erfordert eine Mobilfunkverbindung oder WLAN Anrufe."
+            ],
+            "description": "Nähere Informationen zur 5G und LTE Unterstützung gibt es beim jeweiligen Mobilfunkanbieter und auf apple.com/de/iphone/cellular. Die Verfügbarkeit von Ultrabreitband kann je nach Region variieren. Für FaceTime Anrufe müssen Anrufende und Angerufene ein FaceTime fähiges Gerät und eine WLAN Verbindung nutzen. Die Verfügbarkeit über ein Mobilfunknetz ist abhängig von den Bedingungen des Anbieters. Es können Datengebühren anfallen. Nur Videoinhalte mit Standard Dynamic Range (SDR)."
+          },
+          "cO5GU5W1": {
+            "url": "https://support.apple.com/de-de/102285",
+            "date": null,
+            "rank": 5,
+            "title": "Wi-Fi 6E- oder Wi-Fi 7-Netzwerke mit Apple-Geräten verwenden - Apple Support (DE)",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/7np7ILB-AZuODSDeHPnjni4xjMSje3VAOsle8NhuABg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODM2NGRlN2Rl/NzFiZDUxNjNhZjI4/ODYwYmFkMzA4YjRm/OWQ1NDc3ODM0ODNl/NjYzNjdlYWRkYmY4/ZDUxMDFjOC9zdXBw/b3J0LmFwcGxlLmNv/bS8",
+              "thumbnail": null
+            },
+            "snippets": [
+              "Apple-Geräte, die sich mit einem Wi-Fi 6E- oder Wi-Fi 7-Netzwerk verbinden können, können das 6-GHz-WLAN-Band des Netzwerks nutzen, um schnellere und stabilere WLAN-Verbindungen zu ermöglichen. Oder sie können so konfiguriert werden, dass sie nur die 2,4-GHz- oder 5-GHz-Bänder dieses Netzwerks verwenden. Um einem Wi-Fi 6E- oder Wi-Fi 7-Netzwerk beizutreten, benötigest du ein Apple-Gerät, das Wi-Fi 6E oder höher unterstützt: ... iPhone 15 Pro, iPhone 15 Pro Max oder neuer (außer iPhone 15, iPhone 15 Plus, iPhone 16e, iPhone 17e)",
+              "Wähle im Einblendmenü neben „Wi-Fi 6E-Modus“ die Option „Aus“. Diese Option wird angezeigt, wenn dein unterstütztes Gerät mit einem Wi-Fi 6E- oder Wi-Fi 7-Netzwerk verbunden ist. Öffne „Einstellungen“, und tippe auf „WLAN“.",
+              "Tippe auf „Wi-Fi 6E-Modus“ und dann auf „Aus“. Diese Option wird angezeigt, wenn dein unterstütztes Gerät mit einem Wi-Fi 6E- oder Wi-Fi 7-Netzwerk verbunden ist. Wi-Fi 6E- oder Wi-Fi 7-Funktionen, die im 6-GHz-Band arbeiten, sind nicht in allen Regionen verfügbar. Weitere Informationen: Verfügbarkeit von Wi-Fi 7 auf Apple-Geräten. Hier erfährst du mehr über die WLAN-Spezifikationen für Apple-Geräte.",
+              "Allgemeine Informationen zum Herstellen einer Verbindung mit einem WLAN-Netzwerk findest du unter WLAN-Verbindung auf dem iPhone oder iPad herstellen oder Dem Mac mit einem WLAN-Netzwerk verbinden."
+            ],
+            "description": "Apple-Geräte, die sich mit einem <strong>Wi-Fi 6E- oder Wi-Fi 7-Netzwerk</strong> verbinden können, können das 6-GHz-WLAN-Band des Netzwerks nutzen, um schnellere und stabilere WLAN-Verbindungen zu ermöglichen. Oder sie können so konfiguriert werden, dass sie nur die 2,4-GHz- oder 5-GHz-Bänder dieses ..."
+          },
+          "cXrgBIwB": {
+            "url": "https://www.notebookcheck.com/Geruecht-Apples-iPhone-14-kommt-dank-Wi-Fi-6E-Support-mit-schnellerem-WLAN.579985.0.html",
+            "date": null,
+            "rank": 3,
+            "title": "Gerücht: Apples iPhone 14 kommt dank Wi-Fi 6E Support mit schnellerem WLAN - Notebookcheck.com News",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/q9wbWhaXT_d_AmIJo3jXiLvtJqNXjixPMT3UBTzLzlY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTQ5MGNmNDhk/N2RhZjQ2ZGYzZTRj/Yzg1NDlhMDk5ZmY5/OGJmYjhiYTdmNWJk/YmYzYzZjMjUwODdk/YzUyMzMzYi93d3cu/bm90ZWJvb2tjaGVj/ay5jb20v",
+              "thumbnail": "https://www.notebookcheck.com/fileadmin/Notebooks/News/_nc3/iPhone_14_Pro_Max_WLAN_Wifi_6E.jpg"
+            },
+            "snippets": [
+              "Im Juli dieses Jahres berichteten wir, dass die deutsche Bundesnetzagentur den Weg für den schnellen WLAN-Standard 6E geebnet hat, in dem sie die benötigten Funkfrequenzen im 6GHz-Band freigegeben hat. Davon könnten nächstes Jahr auch die Käufer eines iPhone 14 oder iPhone 14 Pro profitieren, welches sich erst kürzlich in einem hübschen Render-Video gezeigt hat. Nachdem die aktuelle iPhone-Generation (ab 799 Euro bei Amazon) trotz entsprechender Gerüchte den neuen Wifi 6E Standard doch nicht unterstützt, ist sich der bekannte Apple-Leaker Ming-Chi Kuo laut einem Artikel von MacRumors nun nämlich durchaus sicher, dass Apple mit dem iPhone 14 und iPhone 14 Pro die neue schnelle WLAN-Technologie endlich einführen wird.",
+              "Apples iPhone 14 und iPhone 14 Pro sollen mit Wi-Fi 6E Support in WLAN-Netzen schneller unterwegs sein (Bild: Waqar Khan) Die vermutlich nächstes Jahr erscheinenden iPhone 14 und iPhone 14 Pro Modelle von Apple sollen den neuen Wifi-Standard 6E unterstützen, der mit höheren Durchsatzraten und besseren Latenzen für noch schnellere Datenverbindungen in WLAN-Netzen sorgen soll.",
+              "Der Kauf eines Apple iPhone 14 alleine würde jedoch nicht ausreichen, um in den Genuss der Vorzüge des neuen WLAN-Standards 6E zu kommen. Hierfür muss auch die entsprechende Netzwerk-Hardware, wie beispielsweise ein Wifi 6E kompatibler Router vorhanden sein. Diese Geräte sind auf dem deutschen Markt jedoch noch sehr rar, obwohl diverse andere Flaggschiff-Smartphones wie das Samsung Galaxy S21 Ultra oder das Asus ROG Phone 5 Pro Wifi 6E bereits unterstützen.",
+              "Apples anstehende Adoption von Wifi 6E könnte dabei endlich zu einer schnelleren Verbreitung des neuen WLAN-Standards führen. ... Deal: 55 Zoll 4K OLED TV von LG bei Saturn und Media Markt zum Schnäppchenpreis erhältlich 22.11.2021 · Arbeitsspeicher-Knappheit: DDR5-RAM wird schon kurz nach Intels Alder Lake Launch zur Mangelware 20.11.2021 · Leak: Ein Renderbild zeigt die Apple Watch Series 8 mit wenigen Neuerungen 19.11.2021 · Leaker: Das Apple iPhone 14 Pro könnte USB-C erhalten, nicht aber das günstigere iPhone 14 19.11.2021"
+            ],
+            "description": "Apples iPhone 14 und iPhone 14 Pro sollen mit Wi-Fi 6E Support in WLAN-Netzen schneller unterwegs sein (Bild: Waqar Khan) Die vermutlich nächstes Jahr erscheinenden iPhone 14 und iPhone 14 Pro Modelle von Apple sollen den neuen <strong>Wifi-Standard 6E</strong> ..."
+          },
+          "eVnp6MhR": {
+            "url": "https://www.maclife.de/news/iphone-14-ohne-wifi-6e-standard-100121305.html",
+            "date": null,
+            "rank": 1,
+            "title": "iPhone 14 ohne WiFi-6E-Standard | Mac Life",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/VSHd9knE-z3kTE5we8EAhJ7-_h4xmt6QxX4rWzGkkhM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWRkNGRkNjA1/YjcyZjM4NGIwYTZl/MzM0MzgwNDVhZGEx/NTY2MzAwMjAzNjY2/NTJjMWI5ODg0NDgw/ZGU1YzVkYy93d3cu/bWFjbGlmZS5kZS8",
+              "thumbnail": "https://www.maclife.de/media/maclife/styles/tec_frontend_large/public/images/editors/2022_36/apple-iphone-14-pro-max-1662579963-0-0.jpg?itok=FozF-yUf"
+            },
+            "snippets": [
+              "Keines der neuen iPhone 14-Modelle unterstützt den neuesten WiFi 6E-Standard. Warum Apple nicht zumindest bei den iPhone 14 Pro-Modellen den Umstieg nutzt, ist unbekannt. Andere Smartphone-Hersteller sind da schon deutlich weiter. Samsung setzt zum Beispiel bei dem Galaxy S 22 Ultra bereits auf WiFi 6 E.",
+              "Die EU hat entsprechende Bereiche (5,945 bis 6,425 GHz) schon freigegeben. Diese Bandbreite ist allein fast genauso groß, wie im 2,4- und dem 5-GHz-Band zusammen. Der WLAN-Standard ist damit nicht nur schneller, sondern auch effizienter. ... Apple kündigt das iPhone 14 und iPhone 14 Pro an.",
+              "Apple überrascht wie in jedem Jahr auch dieses Mal wieder durch Verzicht. Für die neue iPhone 14-Familie traf Apple die Entscheidung, auf die Unterstützung",
+              "Apple überrascht wie in jedem Jahr auch dieses Mal wieder durch Verzicht. Für die neue iPhone 14-Familie traf Apple die Entscheidung, die Unterstützung des neueren WiFi-6E-Standards noch zu ignorieren."
+            ],
+            "description": "<strong>Keines der neuen iPhone 14-Modelle unterstützt den neuesten WiFi 6E-Standard</strong>. Warum Apple nicht zumindest bei den iPhone 14 Pro-Modellen den Umstieg nutzt, ist unbekannt. Andere Smartphone-Hersteller sind da schon deutlich weiter."
+          },
+          "mNyq1K4X": {
+            "url": "https://www.reddit.com/r/iphone/comments/xgyqwf/how_fast_is_iphone_14_pro_wifi/?tl=de",
+            "date": null,
+            "rank": 4,
+            "title": "r/iphone on Reddit: Wie schnell ist das iPhone 14 Pro WiFi?",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+              "thumbnail": "https://share.redd.it/preview/post/xgyqwf?tl=de"
+            },
+            "snippets": [
+              "Posted by u/[Deleted Account] - 20 votes and 29 comments",
+              "Ich habe ein iPhone 14PM. Allerdings identische Geschwindigkeiten wie bei meinem 13PM ... Ich hab gerade die 16.000 bekommen. Hoffe auf ordentliche Reichweite und zukünftige Kompatibilität. Bin mir nicht sicher, ob eines meiner Geräte 6E unterstützt. Mein 14 Pro Max nicht und genauso wenig die Xbox Series X und PS5.",
+              "Unterstützt das iPhone 14 mu-mimo? In den Apple-Spezifikationen steht nur 2x2 mimo, ist das dasselbe wie mu-mimo? Danke. ... kriegt 800 runter und 51 hoch (ich hab 1000 runter und 50 hoch). Auf 2,5 Gbit LAN hab ich ungefähr 1100 runter & auf Wifi 6e Geräten krieg ich 1100 auf Wifi, aber nicht auf meinem 14 pm. ... Das iPhone 14 Pro wird mindestens bis 2032 unterstützt.",
+              "Ich habe das iPhone 14 Pro Max mit Att 1000mb Glasfaser. Mein Router ist der Nighthawk RAX49. Über eine kabelgebundene Verbindung wie meine \"XboxOne Series X\" bekomme ich konstant 900 bis 950 Mbps, das ist super! Mein Handy liegt im Durchschnitt bei 500 bis 550 über WLAN."
+            ],
+            "description": "20 votes, 29 comments. Ich habe mit verschiedenen Terminals und mit ein paar Freunden getestet, und wir kriegen immer, mit <strong>WiFi 6E</strong> Netzwerken und…"
+          },
+          "opExazwq": {
+            "url": "https://wccftech.com/iphone-14-and-iphone-14-pro-models-do-not-feature-the-latest-wifi-6e-standard/",
+            "date": null,
+            "rank": 8,
+            "title": "iPhone 14 and iPhone 14 Pro Models Do Not Feature The Latest WiFi 6E Standard",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/rtQ1eG2E6DxPt3r81p3pLwmGecC0t-Lq4sAY3LYw_lA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjk3NWQyNDVj/MmM0OGE3MTJiYTE1/N2VkY2YzNDc3Mjhj/MDMyY2E3YTIzYjY4/YTczY2U4MDM4NDBj/NDgzMzA4OC93Y2Nm/dGVjaC5jb20v",
+              "thumbnail": "https://cdn.wccftech.com/wp-content/uploads/2022/09/iPhone-14-Pro-e1662582435807.jpg"
+            },
+            "snippets": [
+              "Apple recently announced its iPhone 14 and iPhone 14 Pro models to the world. While the standard models have received their fair share of upgrades, the highlight of the event is possibly the new iPhone 14 Pro models. The iPhone 14 series is packed with the latest technology, but it seems like Apple missed a major one.",
+              "It would have been great if Apple has added the feature since it already introduced a new Satellite connectivity feature for emergency reasons, Nonetheless, the iPhone 14 Pro models are still great considering the number of features it brings to the table. The standard versions are equipped with the A15 Bionic chip, while the 'Pro' models shine with the A16 Bionic.",
+              "Read all comments on iPhone 14 and iPhone 14 Pro Models Do Not Feature The Latest WiFi 6E Standard"
+            ],
+            "description": "All iPhone 14 and iPhone 14 Pro models lack the latest <strong>WiFi 6E standard</strong>."
+          },
+          "peZ0UZna": {
+            "url": "https://support.apple.com/de-ch/guide/deployment/dep268652e6c/web",
+            "date": null,
+            "rank": 2,
+            "title": "WLAN- und Ethernet-Spezifikationen für Apple-Geräte - Apple Support (CH)",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/7np7ILB-AZuODSDeHPnjni4xjMSje3VAOsle8NhuABg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODM2NGRlN2Rl/NzFiZDUxNjNhZjI4/ODYwYmFkMzA4YjRm/OWQ1NDc3ODM0ODNl/NjYzNjdlYWRkYmY4/ZDUxMDFjOC9zdXBw/b3J0LmFwcGxlLmNv/bS8",
+              "thumbnail": null
+            },
+            "snippets": [
+              "WLAN-Spezifikationen für das iPhone 11 bis iPhone 15 (außer dem iPhone 15 Pro) und iPhone 16e sind in der folgenden Tabelle aufgeführt.",
+              "WLAN-Spezifikationen für die folgenden iPhone-Modelle sind in der nachfolgenden Tabelle aufgeführt: iPhone Air, iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max",
+              "iPhone 16, iPhone 16 Plus, iPhone 16 Pro, iPhone 16 Pro Max · Diese Modelle unterstützen auch Wi-Fi 7 in den Bändern 2,4 GHz, 5 GHz und 6 GHz sowie Multi-Link Operation (MLO). WLAN-Spezifikationen für alle iPhone 15 Pro-Modelle sind in der Tabelle unten aufgeführt."
+            ],
+            "description": "Microsoft Exchange zum Identifizieren eines iPhone, eines iPad oder einer Apple Vision Pro verwenden ... Nachfolgend werden die WLAN-Spezifikationsdetails für Apple-Geräte erläutert."
+          }
+        },
+        "isInterrupted": false,
+        "publicArguments": "iPhone 14 Pro unterstützte WLAN-Standards",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Das iPhone 14 Pro unterstützt **Wi-Fi 6 (802.11ax) mit 2×2 MIMO**, aber **nicht den Wi-Fi 6E-Standard**",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "eVnp6MhR",
+          "H93vEBqM",
+          "opExazwq"
+        ]
+      },
+      {
+        "text": ".",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-09-16T17:13:18.463Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1789578798475,
+        "completedAtMs": 1789578805418,
+        "firstTokenAtMs": 1789578801709,
+        "generationStats": {
+          "outputTokens": 67,
+          "completionCount": 1,
+          "generationDurationMs": 3367,
+          "outputTokensPerSecond": 19.899019899019898
+        },
+        "timeToFirstTokenMs": 3234,
+        "completionDurationMs": 6943,
+        "userMessageCreatedToCompletionMs": 7390
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "web_search"
+        ],
+        "integrationNames": [
+          "web_search"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  }
+]

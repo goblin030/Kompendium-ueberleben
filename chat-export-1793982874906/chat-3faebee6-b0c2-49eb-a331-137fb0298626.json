@@ -1,0 +1,393 @@
+[
+  {
+    "id": "2bc37719-737a-412a-9e4f-36d9bafe7f10",
+    "version": 0,
+    "chatId": "3faebee6-b0c2-49eb-a331-137fb0298626",
+    "content": "welche GPU wäre der nachfpolger der L40S ?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-08-26T11:31:52.182Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "b382b7c5-eec1-4f9e-b481-46bc62340b76",
+    "version": 0,
+    "chatId": "3faebee6-b0c2-49eb-a331-137fb0298626",
+    "content": "Der Nachfolger der **NVIDIA L40S** ist die **NVIDIA RTX PRO 6000 Blackwell Server Edition**. Diese neue GPU basiert auf der **Blackwell-Architektur** und ist speziell für Rechenzentrums-Anwendungen wie KI, Grafik und Simulation optimiert. Sie wird als direkter Nachfolger der L40S positioniert und bietet Verbesserungen in Architektur, Speicher und Leistung für professionelle Umgebungen.\n\nFalls du spezifischere Details zur Leistung oder Verfügbarkeit suchst, lass es mich wissen!",
+    "contentChunks": [
+      {
+        "id": "RUuQMfCFC",
+        "name": "search_tool_functions",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1787743913252,
+        "success": true,
+        "toolType": "raw",
+        "startTime": 1787743913137,
+        "publicResult": "---\nmode: best_match\nrelevantFunctionCount: 15\nrelatedFunctionCount: 15\nrelatedConnectorCount: 7\nrelevantConnectorNoticeCount: 7\n---\n\n# Best Matching Tool Candidates\n\n1. scheduled_tasks.create - 3.4\n2. scheduled_tasks.update - 3.3\n3. scheduled_tasks.list - 2.9\n4. le_chat_main_direct.ask_user_question - 2.9\n5. image_generation.generate_image - 2.5\n6. image_generation.edit_image - 2.5\n7. file_system.bash - 2.2\n8. uploads.analyze_image - 1.3\n9. web_search.news_search - 1.1\n10. web_search.open_url - 0.8\n11. web_search.read_resource - 0.7\n12. web_search.web_search - 0.7\n13. web_search.finance_search - 0.7\n14. web_search.weather_search - 0.6\n15. ui.renderComponent - 0.4\n\n# Connector Guidance\n\n<connector-guidance>\n  <connector>\n    <name>scheduled_tasks</name>\n    <status>connected</status>\n    <guidance>Create, list, update, pause, resume, and delete time-based reminders, recurring reports, and future prompts. No connector/webhook/event triggers or external-event-started chats.</guidance>\n  </connector>\n  <connector>\n    <name>le_chat_main_direct</name>\n    <status>connected</status>\n    <guidance>Direct agent tasks.</guidance>\n  </connector>\n  <connector>\n    <name>image_generation</name>\n    <status>connected</status>\n    <guidance>You have the ability to generate images from text descriptions using the `generate_image` tool, and to edit existing images using the `edit_image` tool.\n### When to generate images\nYou can generate an image from a given text ONLY if a user asks explicitly to draw, paint, generate, make an image, painting, meme. Do not hesitate to be verbose in the prompt to ensure the image is generated as the user wants. Don't generate the same image twice in the same conversation.\n### When to edit images\nYou can edit an existing image ONLY if the user asks explicitly to modify, transform, retouch, replace, remove, add, or otherwise edit an image. Use the `image_url` of the image from the conversation, including its auth token when present.\n### When not to generate images\nStrictly DO NOT GENERATE AN IMAGE IF THE USER ASKS FOR A CANVAS or asks to create content unrelated to images. When in doubt, don't generate an image.\nDO NOT generate images if the user asks to write, create, make emails, dissertations, essays, or anything that is not an image.\nThis connector exposes resources by URI. Use `tools.image_generation.read_resource({ uri })` whenever you have a resource URI and need to read its contents.</guidance>\n  </connector>\n  <connector>\n    <name>file_system</name>\n    <status>connected</status>\n    <guidance>Tools to interact with the file system: read, write, edit, and bash.</guidance>\n  </connector>\n  <connector>\n    <name>uploads</name>\n    <status>connected</status>\n    <guidance>Use the `tools.uploads.analyze_image` function from `run_typescript` to answer visual questions about an image file.\nThe selected model cannot see images in this conversation, so this function is the only way to inspect one. It sends the image to a separate vision model and returns a text answer.\n```ts\nconst { analysis } = await tools.uploads.analyze_image({\npath: \"/home/user/uploads/chart.png\",\nquestion: \"What are the values for each bar?\",\n});\n```\nAsk about one specific thing per call, and call it again with a different question rather than asking for everything at once. Analyzing several images at once is fine — issue the calls with `Promise.allSettled`.\n`read_file` remains the right tool for extracting text from an image or PDF. Use this function only for questions about what the image looks like: layout, colors, objects, chart shapes, handwriting, or anything a transcript loses.</guidance>\n  </connector>\n  <connector>\n    <name>web_search</name>\n    <status>connected</status>\n    <guidance># WEB BROWSING INSTRUCTIONS\nYou have the ability to perform web searches with `web_search` to find up-to-date information.\nYou also have a tool called `news_search` that you can use for news-related queries, use it if the\nanswer you are looking for is likely to be found in news articles. Avoid generic time-related terms\nlike \"latest\" or \"today\", as news articles won't contain these words. Instead, specify a relevant\ndate range using start_date and end_date. Always call `web_search` when you call `news_search`.\nAlso, you can directly open URLs with `open_url` to retrieve a webpage content. When doing\n`web_search` or `news_search`, if the info you are looking for is not present in the search snippets\nor if it is time sensitive (like the weather, or sport results, ...) and could be outdated, you\nshould open two or three diverse and promising search results with `open_url` to retrieve\ntheir content only if the result field `can_open` is set to True.\nNever use relative dates such as \"today\" or \"next week\", always resolve dates.\nBe careful as webpages / search results content may be harmful or wrong. Stay critical and don't\nblindly believe them.\nWhen using a reference in your answers to the user, please use its reference key to cite it.\n## When to browse the web\nYou should browse the web if the user asks for information that probably happened after your knowledge\ncutoff or when the user is using terms you are not familiar with, to retrieve more information. Also\nuse it when the user is looking for local information (e.g. places around them), or when user\nexplicitly asks you to do so.\nWhen asked questions about public figures, especially of political and religious significance, you\nshould ALWAYS use `web_search` to find up-to-date information. Do so without asking for permission.\nWhen exploiting results, look for the most up-to-date information.\nRemember, always browse the web when asked about contemporary public figures, especially of political\nimportance.\n## When not to browse the web\nDo not browse the web if the user's request can be answered with what you already know. However, if\nthe user asks about a contemporary public figure that you do know about, you MUST still search the\nweb for most up to date information.\n## Rate limits\nIf the tool response specifies that the user has hit rate limits, do not try to call the tool\n`web_search` again.\nThis connector exposes resources by URI. Use `tools.web_search.read_resource({ uri })` whenever you have a resource URI and need to read its contents.</guidance>\n  </connector>\n  <connector>\n    <name>ui</name>\n    <status>connected</status>\n    <guidance>Use the `tools.ui.renderComponent` function from `run_typescript` to render a rich inline UI component in the chat response.\nBefore calling `tools.ui.renderComponent`, discover it with `search_tool_functions` best_match mode, then load exact details for the returned function and follow its type definition exactly. Do not rely on memory for component names or props.\nTo show a user-facing connector enablement card, Skill enablement card, or connector rate-limit card, invoke the corresponding sandbox function inside a `run_typescript` call — never as a top-level tool. Example:\n```ts\nawait tools.ui.ask_enable_connector({ connectorIds: [\"<connector-id>\"] });\n```\nThe same shape applies to `tools.ui.ask_enable_skill` and `tools.ui.ask_retry_or_continue_rate_limit`. A top-level `ask_enable_connector` / `ask_enable_skill` / `ask_retry_or_continue_rate_limit` tool does not exist and any direct call will error.</guidance>\n  </connector>\n</connector-guidance>",
+        "isInterrupted": false,
+        "publicArguments": "{\"mode\":\"best_match\",\"query\":\"NVIDIA L40S successor GPU\"}",
+        "requiresConfirmation": false
+      },
+      {
+        "id": "typescript:5:YE0dKWKjE:0:tool:0",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "YE0dKWKjE"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "url": "https://www.nvidia.com/de-de/data-center/l40s/",
+              "title": "L40S-GPU für KI und Grafikleistung | NVIDIA",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.nvidia.com&sz=256"
+            },
+            {
+              "url": "https://www.spheron.network/blog/nvidia-l4-vs-l40s-cheapest-gpu-inference-2026/",
+              "title": "NVIDIA L4 vs L40S: Cheapest GPU for AI Inference (2026) | Spheron Blog",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.spheron.network&sz=256"
+            },
+            {
+              "url": "https://pcserverandparts.com/news/used-gpu-server-buying-guide-2026-l40s-vs-a100-vs-rtx-4090/",
+              "title": "Used GPU Server Buying Guide 2026: L40S vs A100 vs RTX 4090 - PCSP",
+              "favicon": "https://www.google.com/s2/favicons?domain=pcserverandparts.com&sz=256"
+            },
+            {
+              "url": "https://www.thundercompute.com/blog/nvidia-l40-pricing",
+              "title": "NVIDIA L40 and L40S Pricing (August 2026) | Thunder Compute",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.thundercompute.com&sz=256"
+            },
+            {
+              "url": "https://getdeploying.com/gpus/nvidia-l40s",
+              "title": "L40S Cloud Pricing: Compare 29+ Providers (2026)",
+              "favicon": "https://www.google.com/s2/favicons?domain=getdeploying.com&sz=256"
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "NVIDIA L40S Nachfolger GPU 2026",
+        "requiresConfirmation": false
+      },
+      {
+        "id": "typescript:7:l4OJ8YOje:0:tool:0",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "l4OJ8YOje"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "url": "https://www.amax.com/nvidia-rtx-pro-6000-blackwell-server-edition-vs-nvidia-l40s/",
+              "title": "NVIDIA RTX PRO 6000 Blackwell Server Edition vs NVIDIA L40S - AMAX Engineering",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.amax.com&sz=256"
+            },
+            {
+              "url": "https://www.nvidia.com/de-de/data-center/l40s/",
+              "title": "L40S-GPU für KI und Grafikleistung | NVIDIA",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.nvidia.com&sz=256"
+            },
+            {
+              "url": "https://www.reddit.com/r/GeForceNOW/comments/1jv0kdw/rtx_pro_6000_blackwell_server_edition_listed/?tl=de",
+              "title": "r/GeForceNOW on Reddit: RTX Pro 6000 Blackwell Server Edition gelistet – wahrscheinlich der Nachfolger der L40 in GFN-Rigs",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.reddit.com&sz=256"
+            },
+            {
+              "url": "https://intuitionlabs.ai/articles/nvidia-data-center-gpu-specs",
+              "title": "NVIDIA Data Center GPU Specs: A Complete Comparison Guide | IntuitionLabs",
+              "favicon": "https://www.google.com/s2/favicons?domain=intuitionlabs.ai&sz=256"
+            },
+            {
+              "url": "https://pcserverandparts.com/news/used-gpu-server-buying-guide-2026-l40s-vs-a100-vs-rtx-4090/",
+              "title": "Used GPU Server Buying Guide 2026: L40S vs A100 vs RTX 4090 - PCSP",
+              "favicon": "https://www.google.com/s2/favicons?domain=pcserverandparts.com&sz=256"
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "NVIDIA Blackwell L40S Nachfolger 2026",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Der Nachfolger der **NVIDIA L40S** ist die **NVIDIA RTX PRO 6000 Blackwell Server Edition**. Diese neue GPU basiert auf der **Blackwell-Architektur** und ist speziell für Rechenzentrums-Anwendungen wie KI, Grafik und Simulation optimiert. Sie wird als direkter Nachfolger der L40S positioniert und bietet Verbesserungen in Architektur, Speicher und Leistung für professionelle Umgebungen",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "IvuNhgMA",
+          "4C2RGSWH"
+        ]
+      },
+      {
+        "text": ".\n\nFalls du spezifischere Details zur Leistung oder Verfügbarkeit suchst, lass es mich wissen!",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-08-26T11:31:52.528Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1787743912535,
+        "completedAtMs": 1787743919788,
+        "firstTokenAtMs": 1787743913129,
+        "generationStats": {
+          "outputTokens": 295,
+          "completionCount": 4,
+          "generationDurationMs": 1727,
+          "outputTokensPerSecond": 170.816444701795
+        },
+        "timeToFirstTokenMs": 594,
+        "completionDurationMs": 7253,
+        "userMessageCreatedToCompletionMs": 7606
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "search_tool_functions",
+          "run_typescript",
+          "web_search"
+        ],
+        "integrationNames": [
+          "web_search"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "9b5f5568-1d8b-42ed-85d1-92ef8ff0c59b",
+    "version": 0,
+    "chatId": "3faebee6-b0c2-49eb-a331-137fb0298626",
+    "content": "wann ist EoS für die L40s karten ?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-08-26T11:32:27.335Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "a1b7122b-b4a9-4253-addb-dcd412e62524",
+    "version": 0,
+    "chatId": "3faebee6-b0c2-49eb-a331-137fb0298626",
+    "content": "Aktuell gibt es **kein offizielles End-of-Support (EoS)-Datum** speziell für die **NVIDIA L40S** in den verfügbaren Quellen. Allerdings gibt es folgende Hinweise:\n\n- Die **L40S** gehört zur **Ada-Lovelace-Generation** (z. B. L4, L20, L40, L40S) und wird weiterhin über den **NVIDIA AI Enterprise Infra 7.x LTSB-Zweig** unterstützt. Der ältere **Infra 4.10 LTSB-Zweig** erreichte im **Juli 2026** sein Ende, aber die L40S bleibt vorerst in neueren LTSB-Versionen unterstützt.\n- Der **Production Branch 6** (PB6) von NVIDIA AI Enterprise erreicht im **Januar 2027** sein Ende, was möglicherweise Auswirkungen auf die Software-Unterstützung für die L40S haben könnte.\n\n### Empfehlung:\nDa die L40S noch aktiv in Rechenzentren eingesetzt wird und der Nachfolger (**RTX PRO 6000 Blackwell Server Edition**) bereits verfügbar ist, könnte das **EoS für die L40S voraussichtlich zwischen 2027 und 2028** liegen. Für eine genaue Bestätigung solltest du die **offiziellen NVIDIA-Lebenszyklus-Dokumente** oder deinen NVIDIA-Vertretungspartner kontaktieren.\n\nFalls du spezifischere Infos zur Treiberunterstützung suchst, lass es mich wissen!",
+    "contentChunks": [
+      {
+        "id": "typescript:9:YAwXacvyH:0:tool:0",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "YAwXacvyH"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "url": "https://docs.nvidia.com/ai-enterprise/lifecycle/latest/eol-notices.html",
+              "title": "End of Life Notices — NVIDIA AI Enterprise Lifecycle Policy",
+              "favicon": "https://www.google.com/s2/favicons?domain=docs.nvidia.com&sz=256"
+            },
+            {
+              "url": "https://docs.nvidia.com/vgpu/news/vgpu-software-lifecycle-on-supported-gpus/index.html",
+              "title": "NVIDIA Virtual GPU Software Lifecycle on Supported GPUs (August 3, 2026) - NVIDIA Docs",
+              "favicon": "https://www.google.com/s2/favicons?domain=docs.nvidia.com&sz=256"
+            },
+            {
+              "url": "https://eosl.date/eol/product/nvidia/",
+              "title": "NVIDIA Driver End of Life (EOL) Dates and End of Support (EOS) Dates | 610.57.04 - August 2026 Release",
+              "favicon": "https://www.google.com/s2/favicons?domain=eosl.date&sz=256"
+            },
+            {
+              "url": "https://www.parkplacetechnologies.com/eosl/nvidia/",
+              "title": "NVIDIA End of Life List - EOSL & EOL Dates | Park Place",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.parkplacetechnologies.com&sz=256"
+            },
+            {
+              "url": "https://viperatech.com/news-details/upcoming-eol-notifications-nvidia-h100-nvl-l40-and-a2-models",
+              "title": "Upcoming EOL Notifications: NVIDIA H100 NVL, L40, and A2 Models",
+              "favicon": "https://www.google.com/s2/favicons?domain=viperatech.com&sz=256"
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "NVIDIA L40S End of Support EoS Lebenszyklus 2026",
+        "requiresConfirmation": false
+      },
+      {
+        "id": "typescript:11:EKs2AuwTg:0:tool:0",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "EKs2AuwTg"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "url": "https://docs.nvidia.com/vgpu/news/vgpu-software-lifecycle-on-supported-gpus/index.html",
+              "title": "NVIDIA Virtual GPU Software Lifecycle on Supported GPUs (August 3, 2026) - NVIDIA Docs",
+              "favicon": "https://www.google.com/s2/favicons?domain=docs.nvidia.com&sz=256"
+            },
+            {
+              "url": "https://docs.nvidia.com/ai-enterprise/lifecycle/latest/eol-notices.html",
+              "title": "End of Life Notices — NVIDIA AI Enterprise Lifecycle Policy",
+              "favicon": "https://www.google.com/s2/favicons?domain=docs.nvidia.com&sz=256"
+            },
+            {
+              "url": "https://www.parkplacetechnologies.com/eosl/nvidia/",
+              "title": "NVIDIA End of Life List - EOSL & EOL Dates | Park Place",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.parkplacetechnologies.com&sz=256"
+            },
+            {
+              "url": "https://eosl.date/eol/product/nvidia/",
+              "title": "NVIDIA Driver End of Life (EOL) Dates and End of Support (EOS) Dates | 610.57.04 - August 2026 Release",
+              "favicon": "https://www.google.com/s2/favicons?domain=eosl.date&sz=256"
+            },
+            {
+              "url": "https://viperatech.com/news-details/upcoming-eol-notifications-nvidia-h100-nvl-l40-and-a2-models",
+              "title": "Upcoming EOL Notifications: NVIDIA H100 NVL, L40, and A2 Models",
+              "favicon": "https://www.google.com/s2/favicons?domain=viperatech.com&sz=256"
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "NVIDIA L40S End of Support EoS Lebenszyklus 2026 2027",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Aktuell gibt es **kein offizielles End-of-Support (EoS)-Datum** speziell für die **NVIDIA L40S** in den verfügbaren Quellen. Allerdings gibt es folgende Hinweise:\n\n- Die **L40S** gehört zur **Ada-Lovelace-Generation** (z. B. L4, L20, L40, L40S) und wird weiterhin über den **NVIDIA AI Enterprise Infra 7.x LTSB-Zweig** unterstützt. Der ältere **Infra 4.10 LTSB-Zweig** erreichte im **Juli 2026** sein Ende, aber die L40S bleibt vorerst in neueren LTSB-Versionen unterstützt",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "F5J66GNF",
+          "JH0yICsi"
+        ]
+      },
+      {
+        "text": ".\n- Der **Production Branch 6** (PB6) von NVIDIA AI Enterprise erreicht im **Januar 2027** sein Ende, was möglicherweise Auswirkungen auf die Software-Unterstützung für die L40S haben könnte",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "JH0yICsi"
+        ]
+      },
+      {
+        "text": ".\n\n### Empfehlung:\nDa die L40S noch aktiv in Rechenzentren eingesetzt wird und der Nachfolger (**RTX PRO 6000 Blackwell Server Edition**) bereits verfügbar ist, könnte das **EoS für die L40S voraussichtlich zwischen 2027 und 2028** liegen. Für eine genaue Bestätigung solltest du die **offiziellen NVIDIA-Lebenszyklus-Dokumente** oder deinen NVIDIA-Vertretungspartner kontaktieren.\n\nFalls du spezifischere Infos zur Treiberunterstützung suchst, lass es mich wissen!",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-08-26T11:32:28.030Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1787743948070,
+        "completedAtMs": 1787743960906,
+        "firstTokenAtMs": 1787743950301,
+        "generationStats": {
+          "outputTokens": 525,
+          "completionCount": 3,
+          "generationDurationMs": 3369,
+          "outputTokensPerSecond": 155.83259127337487
+        },
+        "timeToFirstTokenMs": 2231,
+        "completionDurationMs": 12836,
+        "userMessageCreatedToCompletionMs": 13571
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "run_typescript",
+          "web_search"
+        ],
+        "integrationNames": [
+          "web_search"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  }
+]

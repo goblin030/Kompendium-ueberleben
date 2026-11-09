@@ -1,0 +1,333 @@
+[
+  {
+    "id": "fc8bd7d2-9832-465e-8998-73f2869142e6",
+    "version": 0,
+    "chatId": "545c9e25-1903-480e-8e60-2c2c306878c8",
+    "content": "wo kann ich an versteigerungen teilnehmen bei denen UPS seine ausrangierten Fahrzeuge verkauft?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-07-31T09:11:09.898Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "f096acd6-1d52-4cf9-81b0-71f8cc716e78",
+    "version": 0,
+    "chatId": "545c9e25-1903-480e-8e60-2c2c306878c8",
+    "content": "An Versteigerungen, bei denen UPS seine ausrangierten Fahrzeuge verkauft, kannst du unter anderem über die Plattform **AssetOrb** teilnehmen. Dort werden regelmäßig ausrangierte Transporter und Lieferwagen, auch von UPS, versteigert. Die Teilnahme ist einfach: Du registrierst dich kostenlos auf der Website, wählst das gewünschte Fahrzeug aus dem Online-Katalog aus und gibst dein Gebot direkt online ab. Vor der Auktion besteht oft die Möglichkeit, die Fahrzeuge persönlich zu besichtigen.\n\nFalls du nach weiteren Optionen suchst, lohnt sich auch ein Blick auf Plattformen wie **eBay Kleinanzeigen** oder spezielle Foren, in denen gelegentlich UPS-Fahrzeuge angeboten werden.\n\nMöchtest du direkt zu den aktuellen Auktionen auf AssetOrb weitergeleitet werden?",
+    "contentChunks": [
+      {
+        "id": "qTdvQPz5z",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1785489073514,
+        "success": true,
+        "toolType": "rag",
+        "startTime": 1785489071825,
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "ar": "البحث على الويب",
+            "de": "Websuche",
+            "en": "Web Search",
+            "es": "Búsqueda web",
+            "fr": "Recherche Web",
+            "it": "Ricerca web",
+            "nl": "Webzoeken",
+            "pl": "Wyszukiwanie w sieci",
+            "pt-BR": "Pesquisa na web"
+          }
+        },
+        "customLocale": {
+          "done_description": {
+            "en": "web_search"
+          },
+          "working_description": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "1LgL3F7S": {
+            "url": "https://trademachines.de/fahrzeuge",
+            "date": null,
+            "rank": 4,
+            "title": "▷ Gebrauchte Fahrzeuge in Versteigerung günstig kaufen",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/VFXiHqB7LyHf3KJySnEWTBtP01dbpX2jVFD61nnRiwo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWQ5MGMyODE0/MjdhYTBhYzU0NTg2/OGNkMmRiMWFiODYx/OWNlNzYyZTAxMTRj/MjZjMDY0YTIzMmNl/ZmQ0MDFiOC90cmFk/ZW1hY2hpbmVzLmRl/Lw",
+              "thumbnail": null
+            },
+            "snippets": [
+              "Nach dem Zuschlag erhältst du Abholhinweise; bei Bedarf unterstützt dich unser Logistikteam mit Transport und Verladung. In jeder Transportauktion kannst du transparent kaufen, eine Auktion für den Transport bietet dir klare Prozesse vom Gebot bis zur Rechnung.",
+              "In unserer Transportauktion und jeder Logistikauktion auf Surplex kaufst du gebrauchte Transport- und Logistiktechnik transparent per Versteigerung. Eine Auktion für den Transport hilft dir, Budget und Zeit zu sparen, ohne bei der Qualität Abstriche zu machen.",
+              "In der Logistikauktion findest du häufig Batterieladegeräte, Traktionsbatterien, Gabelverlängerungen, Zinkenverstellgeräte, Beleuchtung und Sicherheitszubehör. Solche Lots ergänzen bestehende Flotten und passen gut zu Auktionen für den Transport, wenn du schnell kompatible Komponenten nachrüsten willst.",
+              "Bevor du in der Auktion für den Transport bietest, prüfe Zustand und passende Spezifikationen. In der Auktion für den Transport helfen dir Datenblätter, Bilder und Besichtigungstermine, um fundiert zu kaufen.",
+              "Nach dem Zuschlag erhältst du Abholhinweise; bei Bedarf unterstützt dich unser Logistikteam mit Transport und Verladung. In jeder Transportauktion kannst du transparent kaufen, eine Auktion für den Transport bietet dir klare Prozesse vom Gebot bis zur Rechnung."
+            ],
+            "description": "Nach dem Zuschlag erhältst du Abholhinweise; bei Bedarf unterstützt dich unser Logistikteam mit Transport und Verladung. In jeder Transportauktion kannst du transparent kaufen, eine Auktion für den Transport bietet dir klare Prozesse vom Gebot bis zur Rechnung."
+          },
+          "2oYijQ9k": {
+            "url": "https://www.kleinanzeigen.de/s-anhaenger-nutzfahrzeuge/ups/k0c276",
+            "date": null,
+            "rank": 2,
+            "title": "Ups, Nutzfahrzeuge & Anhänger | kleinanzeigen.de",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/8fIkKEnHXvfwhfzZjDnrjVxziXUWrYwE-7iyG2ZSQB4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTE5OTI2N2Ey/OTc3YTVkOTk0NWQx/NWMyMjljMTBhNTI1/OTNkZjc3MDg4MTY2/NmU2NTQ0NTRmNGEy/YzQ2YWI1NC93d3cu/a2xlaW5hbnplaWdl/bi5kZS8",
+              "thumbnail": "https://static.kleinanzeigen.de/static/img/common/logo/logo-kleinanzeigen-og-vertical.png"
+            },
+            "snippets": [
+              "SUper Basis für Foottruck Umbau oder Camper Umbau. Sonderpreis letztes Fahrzeug!!!",
+              "Fahrzeug-Nr. für Kundenanfragen: 142 Bremsen vorne und hinten neu!",
+              "SUper Basis für Foottruck Umbau oder Camper Umbau. Sonderpreis letztes Fahrzeug!!!"
+            ],
+            "description": "SUper Basis für Foottruck Umbau oder Camper Umbau. Sonderpreis letztes Fahrzeug!!!"
+          },
+          "7l3K8mtW": {
+            "url": "https://www.kleinanzeigen.de/s-anhaenger-nutzfahrzeuge/lkw/ups/k0c276+anhaenger_nutzfahrzeuge.art_s:lkw",
+            "date": null,
+            "rank": 3,
+            "title": "Ups, Gebrauchte LKW kaufen | kleinanzeigen.de",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/8fIkKEnHXvfwhfzZjDnrjVxziXUWrYwE-7iyG2ZSQB4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTE5OTI2N2Ey/OTc3YTVkOTk0NWQx/NWMyMjljMTBhNTI1/OTNkZjc3MDg4MTY2/NmU2NTQ0NTRmNGEy/YzQ2YWI1NC93d3cu/a2xlaW5hbnplaWdl/bi5kZS8",
+              "thumbnail": "https://static.kleinanzeigen.de/static/img/common/logo/logo-kleinanzeigen-og-vertical.png"
+            },
+            "snippets": [
+              "12.04.2026 · Noch originaler UPS 508 zu verkaufen. Von Spier auf Mercedes Fahrgestell aufgebaut, problemlose... 18.999 € · 19.850 € · LKW · 4 · 37213 Witzenhausen · 13.03.2023 · Hallo, es gibt eine WhatsApp Gruppe zum Austausch von Informationen und Hilfe zum P36 von Spier,... 1 € · LKW · Ähnliche Suchanfragen · dhl · paketzusteller · dhl fahrzeug ·",
+              "12.04.2026 · Noch originaler UPS 508 zu verkaufen. Von Spier auf Mercedes Fahrgestell aufgebaut, problemlose... 18.999 € · 19.850 € · LKW · 4 · 37213 Witzenhausen · 13.03.2023 · Hallo, es gibt eine WhatsApp Gruppe zum Austausch von Informationen und Hilfe zum P36 von Spier,... 1 € · LKW · Ähnliche Suchanfragen · dhl · paketzusteller · dhl fahrzeug ·"
+            ],
+            "description": "12.04.2026 · Noch originaler UPS 508 zu verkaufen. Von Spier auf Mercedes Fahrgestell aufgebaut, problemlose... 18.999 € · 19.850 € · LKW · 4 · 37213 Witzenhausen · 13.03.2023 · Hallo, es gibt eine WhatsApp Gruppe zum Austausch von Informationen und Hilfe zum P36 von Spier,... 1 € · LKW · Ähnliche Suchanfragen · dhl · paketzusteller · dhl fahrzeug ·"
+          },
+          "Ei4cpeL6": {
+            "url": "https://womobox.de/forum/thread/8967-wohin-entschwinden-die-ups-fahrzeuge/",
+            "date": null,
+            "rank": 8,
+            "title": "Wohin entschwinden die UPS-Fahrzeuge? - Rund um den Paketkoffer - womobox & Leerkabinen-Forum",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/A1u2xts1C24JyikVSTCPC8EdgZLwvzvSvO2n7iPsxAQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDVlYTJlNzBk/Njg2N2I1NzJhMTE3/MjViNDRlZjQwZGI0/NTBmNWI3YjBkMTcz/MTJmNzM4YzU1ODI3/MmMxZDEwMS93b21v/Ym94LmRlLw",
+              "thumbnail": null
+            },
+            "snippets": [
+              "Hallo, während bei div. Händlern massenhaft ausgemusterte DHL-Fahrzeuge angeboten werden, scheint es für UPS-Fahrzeuge keinen Markt zu geben! Habe vor Kurzem einen schönen recht neuen UPS-Sprinter-Koffer gesehen und daraufhin mal im Netz gestöbert, da…",
+              "Jährlich (2026) 77,2 % 77,2% (385,83 von 500 EUR) Jetzt spenden"
+            ],
+            "description": "Hallo, während bei div. Händlern massenhaft ausgemusterte DHL-Fahrzeuge angeboten werden, scheint es für UPS-Fahrzeuge keinen Markt zu geben! Habe vor Kurzem einen schönen recht neuen UPS-Sprinter-Koffer gesehen und daraufhin mal im Netz gestöbert, da…"
+          },
+          "SkGNp7jM": {
+            "url": "https://womobox.de/forum/thread/9291-dhl-dpd-ups-sprinter-transporter-auto-wo-kaufen/",
+            "date": null,
+            "rank": 7,
+            "title": "DHL / DPD / UPS Sprinter Transporter Auto wo kaufen? - Rund um den Paketkoffer - womobox & Leerkabinen-Forum",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/A1u2xts1C24JyikVSTCPC8EdgZLwvzvSvO2n7iPsxAQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDVlYTJlNzBk/Njg2N2I1NzJhMTE3/MjViNDRlZjQwZGI0/NTBmNWI3YjBkMTcz/MTJmNzM4YzU1ODI3/MmMxZDEwMS93b21v/Ym94LmRlLw",
+              "thumbnail": null
+            },
+            "snippets": [
+              "http://www.zoll-auktion.de (Auktionsseite des Zolls) Man findet nicht immer was aber ich find gerade Zollauktion ist immer nen Blick werte insbesonder wenn man auch auf der Suche nach anderen Fahrzeugen ist (ob jetzt WoMo Ausbau, PKW Selbstnutzung oder weiterverkauf)",
+              "http://www.zoll-auktion.de (Auktionsseite des Zolls) Man findet nicht immer was aber ich find gerade Zollauktion ist immer nen Blick werte insbesonder wenn man auch auf der Suche nach anderen Fahrzeugen ist (ob jetzt WoMo Ausbau, PKW Selbstnutzung oder weiterverkauf)",
+              "Vorteil der Ersteigerugsplattform: Man bekommt ein sehr ehrliches Mängelgutachten und Preise, die sonst nur Händler bekommen. Allerdings kann man sich die Fahrzeuge vorher nicht ansehen, muss sich also mit dem Gutachten zufrieden geben.",
+              "Vorteil der Händler: Man hat eine sehr große Auswahl an Fahrzeugen, die man sich selbst ansehen kann. Deswegen habe ich dort gekauft. Bin schätzungsweise unter 30 verschiedene Postkoffer druntergekrabbelt, bis ich mich entschieden hatte. Nachteil: Mindestens 20% teurer als beim Versteigerungsportal.",
+              "Zu den Fahrzeugen: Die Motorisierung ist beim „alten“ Sprinter T1N die kleinste, die es gibt. Finde es aber für gemütliches Wohnmobil fahren ausreichend. Das Drehmoment der Motoren ist gefühlt sehr gut z.B. beim Anfahren am Berg. Anhänger sollte auch gehen."
+            ],
+            "description": "http://www.zoll-auktion.de (Auktionsseite des Zolls) Man findet nicht immer was aber ich find gerade Zollauktion ist immer nen Blick werte insbesonder wenn man auch auf der Suche nach anderen Fahrzeugen ist (ob jetzt WoMo Ausbau, PKW Selbstnutzung oder weiterverkauf)"
+          },
+          "TU9xUUce": {
+            "url": "https://www.assetorb.com/fahrzeug-auktionen/",
+            "date": null,
+            "rank": 0,
+            "title": "Fahrzeug Auktionen - Auktionsübersicht | AssetOrb",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/x0e3-ey8WSUYZTcAR38h9vlsJwPQM7PFg93ab2DRMmo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGM4ZjBhZDJl/OGU5YjcyYWM1N2M2/OWU1ODk4NTNiZDYw/YWFhY2M0MTkwYTkz/MjU0YzMwODMwZjlj/ODE0OTRiZi93d3cu/YXNzZXRvcmIuY29t/Lw",
+              "thumbnail": null
+            },
+            "snippets": [
+              "Entdecken Sie unsere Fahrzeugauktionen und finden Sie Ihr nächstes Fahrzeug zu einem attraktiven Preis. ... Endet Fr, 15. Mai 2026 11:00 ... Auf der Suche nach einem einzigartigen Projekt? <strong>Bei AssetOrb können Sie ausrangierte Transporter oder Lieferwagen ersteigern</strong>, die sich ideal für den ...",
+              "Unsere Auktionen umfassen ein breites Spektrum an Fahrzeugen aus Insolvenzen, Betriebs- und Standortschließungen sowie exklusive Sammlerfahrzeuge aus privaten Sammlungen. Entdecken Sie unsere Fahrzeugauktionen und finden Sie Ihr nächstes Fahrzeug zu einem attraktiven Preis. ... Endet Fr, 15. Mai 2026 11:00 ... Auf der Suche nach einem einzigartigen Projekt? Bei AssetOrb können Sie ausrangierte Transporter oder Lieferwagen ersteigern, die sich ideal für den Umbau zu einem Wohnmobil eignen.",
+              "Nach diesen Schritten sind Sie erfolgreich registriert und können an unseren Fahrzeugauktionen teilnehmen. Die Gebotsabgabe bei Fahrzeugauktionen auf AssetOrb erfolgt einfach und transparent über unsere Online-Plattform. Nachdem Sie sich registriert und eingeloggt haben, wählen Sie das Fahrzeug, für das Sie sich interessieren, aus unserem Online-Katalog aus und navigieren zur Auktionsseite.",
+              "An unseren Fahrzeug Auktionen teilzunehmen ist kinderleicht: Registrieren Sie sich kostenlos auf Assetorb.com, finden Sie das passende Fahrzeug und geben Sie Ihr Gebot direkt online ab. Nach erfolgreicher Gebotsabgabe können Sie Ihr neues Fahrzeug bequem bei uns abholen.",
+              "Ja, Sie können die Fahrzeuge vor der Auktion besichtigen. Die Besichtigungstermine finden Sie in den Auktionsdetails zu jedem Fahrzeug auf unserer Plattform. Wir empfehlen Ihnen dringend, von dieser Möglichkeit Gebrauch zu machen und das Fahrzeug vor der Gebotsabgabe persönlich in Augenschein zu nehmen."
+            ],
+            "description": "Entdecken Sie unsere Fahrzeugauktionen und finden Sie Ihr nächstes Fahrzeug zu einem attraktiven Preis. ... Endet Fr, 15. Mai 2026 11:00 ... Auf der Suche nach einem einzigartigen Projekt? <strong>Bei AssetOrb können Sie ausrangierte Transporter oder Lieferwagen ersteigern</strong>, die sich ideal für den ..."
+          },
+          "WGVC7Q5P": {
+            "url": "https://www.paketda.de/post/flottenverkauf.php",
+            "date": null,
+            "rank": 9,
+            "title": "Gebrauchtfahrzeuge der Deutschen Post kaufen",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/DF9gtioKrX-GeBt9a-v-nsrhJ4h2OPKSXQOY3F8eQTA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTlhYzJhYjMy/OTI3ZmM3MTMxY2Fi/NTdjNTA4MjM2MGRm/ZDA3OTdjZjJiY2Zi/ZmFiYjA3ZTdmM2Jk/YTBlOGZjZC93d3cu/cGFrZXRkYS5kZS8",
+              "thumbnail": "https://www.paketda.de/post/fuhrpark-dtpost.jpg"
+            },
+            "snippets": [
+              "... Die Deutsche Post unterhält ... besuchen wollen, können Sie dies an folgenden Orten tun: <strong>31702 Lüdersfeld, 61137 Schöneck, 06780 Zörbig, 89290 Buch</strong>....",
+              "Der Verkauf der Fahrzeuge erfolgt im Auktionsverfahren. Die aktuellen Versteigerungstermine für Gebrauchtfahrzeuge der Deutschen Post finden Sie auf der o.g. Homepage. Die Fahrzeuge sind selbstverständlich frei von Werbeaufklebern der Deutschen Post / DHL. Allerdings können Beschädigungen vorhanden sein, die den Kaufpreis mindern.",
+              "Falls Ihnen einen Fahrzeug richtig gut gefällt, und bloß die gelbe Farbe Sie noch vom Kauf abhält, können Sie durchaus eine Neulackierung in Erwägung ziehen. In Ihrer Wunschfarbe kostet dies bei einem Fachbetrieb i.d.R. ? 2000 - 3000. ... Die Deutsche Post unterhält vier zentrale Fuhrparks im Norden, Süden, Westen und Osten der Bundesrepublik. Wenn Sie eine Auktion für Gebrauchtfahrzeuge besuchen wollen, können Sie dies an folgenden Orten tun: 31702 Lüdersfeld, 61137 Schöneck, 06780 Zörbig, 89290 Buch.",
+              "DHL und Deutsche Post ersetzen veraltete Fahrzeuge regelmäßig durch neue PKW und LKW. Die Gebrauchtfahrzeuge werden über eine eigene Onlinebörse verkauft. Dies kann sowohl für Privatpersonen als auch Gewerbetreibende eine günstige Gelegenheit sein, um eines der ausrangierten Post-Fahrzeuge zu erwerben."
+            ],
+            "description": "... Die Deutsche Post unterhält ... besuchen wollen, können Sie dies an folgenden Orten tun: <strong>31702 Lüdersfeld, 61137 Schöneck, 06780 Zörbig, 89290 Buch</strong>...."
+          },
+          "YrRr9ebA": {
+            "url": "https://www.dasparking.de/gebrauchtwagen/ups.html",
+            "date": null,
+            "rank": 1,
+            "title": "ups Gebrauchtwagen - Gebrauchtwagen suchen - Das Parking",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/qClgDDEt3uNv91tsVonMvvo0AvlbjIx-ATbqQWNXY-k/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGIzYTAyZmU0/ODEwODRmMzZjNGJh/NTliMDlkZmQ5NGNk/OGRiNmNmOGVhZjkx/NTExY2I3ZTkyNTVl/MjE0YTAzOS93d3cu/ZGFzcGFya2luZy5k/ZS8",
+              "thumbnail": null
+            },
+            "snippets": [
+              "FAHRZEUGHISTORIE ÜBERPRÜFEN VERKAUFEN SIE IHR AUTO · kleinanzeigen.demobile.de · 68.505 € · ursprünglicher Preis : 71.412+ Händler · Zu den Favoriten hinzufügen · Eine Mitteilung erstellen · Melden · Auszublenden oder Diese Anzeige melden · Favoriten · Löschen · ursprünglicher Preis : 71.412 · 68.505 € · ursprünglicher Preis : 71.412 · 68.505 € · crafter 35 sommer ups koffer klima navi kamera · 08.01.2026 ·",
+              "FAHRZEUGHISTORIE ÜBERPRÜFEN VERKAUFEN SIE IHR AUTO · autoscout24.de · 15.500 € + Privat · Zu den Favoriten hinzufügen · Eine Mitteilung erstellen · Melden · Auszublenden oder Diese Anzeige melden · Favoriten · Löschen · 15.500 € · 15.500 € · ups transporter / kastenwagen – automatik – top zustand · 03.05.2026 ·",
+              "FAHRZEUGHISTORIE ÜBERPRÜFEN VERKAUFEN SIE IHR AUTO · kleinanzeigen.demobile.de · 68.505 € · ursprünglicher Preis : 71.412+ Händler · Zu den Favoriten hinzufügen · Eine Mitteilung erstellen · Melden · Auszublenden oder Diese Anzeige melden · Favoriten · Löschen · ursprünglicher Preis : 71.412 · 68.505 € · ursprünglicher Preis : 71.412 · 68.505 € · crafter 35 sommer ups koffer klima navi kamera · 08.01.2026 ·"
+            ],
+            "description": "FAHRZEUGHISTORIE ÜBERPRÜFEN VERKAUFEN SIE IHR AUTO · kleinanzeigen.demobile.de · 68.505 € · ursprünglicher Preis : 71.412+ Händler · Zu den Favoriten hinzufügen · Eine Mitteilung erstellen · Melden · Auszublenden oder Diese Anzeige melden · Favoriten · Löschen · ursprünglicher Preis : 71.412 · 68.505 € · ursprünglicher Preis : 71.412 · 68.505 € · crafter 35 sommer ups koffer klima navi kamera · 08.01.2026 ·"
+          },
+          "bNXWUErN": {
+            "url": "https://www.gutefrage.net/frage/wo-kann-man-ausgemusterte-ups-trucks-kaufen",
+            "date": null,
+            "rank": 5,
+            "title": "Wo kann man ausgemusterte UPS-Trucks kaufen? (Truck, Gebrauchtfahrzeug)",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/ku8RHH73Y5CdBxab4XH3RwqZ6clyKvBN3SDFPjhq-Dw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzUwMDU0NWZi/YjE0ZGU0ZDhjMDhm/MDRiZGYzNmExNGRj/Nzg1YzAyNjkzMDY0/MDJkMTllZWRhNzlk/NTUzNTM5Ny93d3cu/Z3V0ZWZyYWdlLm5l/dC8",
+              "thumbnail": "https://images.gutefrage.net/media/themenwelt/1680/0_full.jpg?v=1651036654000"
+            },
+            "snippets": [
+              "ich hab derzeit einen verfügbar. preis euro 6000.-, standort nähe heilbronn. dein mail geht nicht, darum dr post hier. [email protected] 0043 676 6770200 die fahrzeuge werde leider immer weniger, also wer noch welche haben möchte sollte sich beeilen. in einem jahr sind dann keine mehr da und das grosse weinen ist angesagt.",
+              "ich hab derzeit einen verfügbar. preis euro 6000.-, standort nähe heilbronn. dein mail geht nicht, darum dr post hier. [email protected] 0043 676 6770200 die fahrzeuge werde leider immer weniger, also wer noch welche haben möchte sollte sich beeilen. in einem jahr sind dann keine mehr da und das grosse weinen ist angesagt."
+            ],
+            "description": "ich hab derzeit einen verfügbar. preis euro 6000.-, standort nähe heilbronn. dein mail geht nicht, darum dr post hier. [email protected] 0043 676 6770200 die fahrzeuge werde leider immer weniger, also wer noch welche haben möchte sollte sich beeilen. in einem jahr sind dann keine mehr da und das grosse weinen ist angesagt."
+          },
+          "wTWZGAH9": {
+            "url": "https://www.caronsale.com/glossar/auto-versteigerung-munchen",
+            "date": null,
+            "rank": 6,
+            "title": "Auto Versteigerung München | CarOnSale | CarOnSale",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/yV66KFMP5Xd3oNcs9d6PoN4xws8YdH-RdfHlu2gWbLQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGY0ODEzYjE2/Yjg2NGFlMzEzOWYx/MzEzMTJiZDFkZDk3/MGY3ZjRiYmNlMTZk/NjVmMzAzNzkyYWIy/OTI2ZDU3MC93d3cu/Y2Fyb25zYWxlLmNv/bS8",
+              "thumbnail": "https://cdn.prod.website-files.com/62a3558d1a75102ff414d412/62a3558e1a7510626414d903_IllustrationenGlossar(Auktion2).jpg"
+            },
+            "snippets": [
+              "Normalerweise sind viele der behördlichen Auktionen mittlerweile zentralisiert über die Zoll Auktion, aber die behördlichen Auto Versteigerungen in München stellen dabei die Ausnahme. An diesen Auktionen können sowohl Privatleute als auch Händler teilnehmen. Neben beschlagnahmten Fahrzeugen werden auch ausrangierte Polizeifahrzeuge und andere Behördenfahrzeuge angeboten.",
+              "Normalerweise sind viele der behördlichen Auktionen mittlerweile zentralisiert über die Zoll Auktion, aber die behördlichen Auto Versteigerungen in München stellen dabei die Ausnahme. An diesen Auktionen können sowohl Privatleute als auch Händler teilnehmen. Neben beschlagnahmten Fahrzeugen werden auch ausrangierte Polizeifahrzeuge und andere Behördenfahrzeuge angeboten."
+            ],
+            "description": "Normalerweise sind viele der behördlichen Auktionen mittlerweile zentralisiert über die Zoll Auktion, aber die behördlichen Auto Versteigerungen in München stellen dabei die Ausnahme. An diesen Auktionen können sowohl Privatleute als auch Händler teilnehmen. Neben beschlagnahmten Fahrzeugen werden auch ausrangierte Polizeifahrzeuge und andere Behördenfahrzeuge angeboten."
+          }
+        },
+        "isInterrupted": false,
+        "publicArguments": "UPS Auktionen ausrangierte Fahrzeuge teilnehmen 2026",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "An Versteigerungen, bei denen UPS seine ausrangierten Fahrzeuge verkauft, kannst du unter anderem über die Plattform **AssetOrb** teilnehmen. Dort werden regelmäßig ausrangierte Transporter und Lieferwagen, auch von UPS, versteigert. Die Teilnahme ist einfach: Du registrierst dich kostenlos auf der Website, wählst das gewünschte Fahrzeug aus dem Online-Katalog aus und gibst dein Gebot direkt online ab. Vor der Auktion besteht oft die Möglichkeit, die Fahrzeuge persönlich zu besichtigen",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "TU9xUUce"
+        ]
+      },
+      {
+        "text": ".\n\nFalls du nach weiteren Optionen suchst, lohnt sich auch ein Blick auf Plattformen wie **eBay Kleinanzeigen** oder spezielle Foren, in denen gelegentlich UPS-Fahrzeuge angeboten werden",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "2oYijQ9k",
+          "7l3K8mtW"
+        ]
+      },
+      {
+        "text": ".\n\nMöchtest du direkt zu den aktuellen Auktionen auf AssetOrb weitergeleitet werden?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-07-31T09:11:10.327Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1785489070341,
+        "completedAtMs": 1785489077765,
+        "firstTokenAtMs": 1785489071823,
+        "generationStats": {
+          "outputTokens": 205,
+          "completionCount": 1,
+          "generationDurationMs": 5785,
+          "outputTokensPerSecond": 35.43647363872083
+        },
+        "timeToFirstTokenMs": 1482,
+        "completionDurationMs": 7424,
+        "userMessageCreatedToCompletionMs": 7867
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "web_search"
+        ],
+        "integrationNames": [
+          "web_search"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  }
+]

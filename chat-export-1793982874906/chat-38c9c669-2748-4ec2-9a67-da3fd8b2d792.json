@@ -1,0 +1,188 @@
+[
+  {
+    "id": "e2fa1bb6-4345-4d20-8d62-00993be02f84",
+    "version": 0,
+    "chatId": "38c9c669-2748-4ec2-9a67-da3fd8b2d792",
+    "content": "Kurze Antwort: **Nein – § 77 Soldatengesetz (SG) hat mit der Bewertung von Erkrankungen nichts zu tun.** Dort geht es nur um die Dienstleistungsüberwachung und Haftung (z. B. bei Dienstleistungen ohne Wehrdienstverhältnis) ([gesetze-im-internet.de](https://www.gesetze-im-internet.de/sg/__77.html), [LX Gesetze](search-result://CYOf1L3I)). Eine Regelung „Drogenabhängigkeit = dauerhafte Erkrankung\" existiert dort nicht.\n\nWas stattdessen relevant ist, falls das Ihr eigentlicher Kontext ist:\n\n- **Dienstunfähigkeit:** Ein Berufssoldat wird nach **§ 44 SG** in den Ruhestand versetzt, wenn er dauerhaft dienstunfähig ist ([anwalt.de](search-result://nz0kue9b)). Ob Drogenabhängigkeit dazu führt, entscheidet der aufschiebende Feststellungsvorgang ärztlich – eine automatische „Dauererkrankung\" ist sie nicht.\n- **Gesundheitliche Pflicht:** Nach **§ 17 Abs. 4 SG** muss ein Soldat seine Gesundheit erhalten/wiederherstellen – Drogenkonsum verletzt diese Pflicht und wurde vom Bundesverwaltungsgericht als Dienstvergehen (bis hin zur Höchstmaßnahme) gewertet ([BVerwG](search-result://ao6FaHsW), [Rechtsportal](search-result://aJ74CiAU)).\n- **Versorgungsrechtlich** gilt: Eine selbstverschuldete Erkrankung (Drogenkonsum) ist in aller Regel **keine Dienstbeschädigung** – Leistungen nach dem Soldatenversorgungsgesetz/SVG bleiben also meist ausgeschlossen.\n- In den **ersten vier Dienstjahren** droht bei Drogenverstößen regelmäßig die **fristlose Entlassung nach § 55 Abs. 5 SG** ([anwalt.de](search-result://gsGt3jrR)).\n\nMeinten Sie vielleicht eine andere Vorschrift (z. B. § 44 SG, § 55 Abs. 5 SG oder eine Bestimmung aus dem SVG/ZDv 20/7 „Dauernde Dienstunfähigkeit\")? Wenn Sie mir sagen, in welchem Zusammenhang die Frage steht (Entlassung, Versetzung in den Ruhestand, Versorgung), kann ich die Antwort gezielt darauf eingehen.",
+    "contentChunks": [
+      {
+        "text": "Legal question about German Soldatenversorgungsgesetz / Soldatengesetz §77? Actually §77 SG? User says \"§77 Soldaten Gesetz\" — likely Soldatenversorgungsgesetz? Drogenabhängigkeit als Dienstbeschädigung? I should search web to verify.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1791301403505,
+          "contextId": "harness-reasoning-0",
+          "startTime": 1791301402506
+        }
+      },
+      {
+        "id": "typescript:3:chatcmpl-tool-a7e76491ad8f301a:0:tool:0",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "chatcmpl-tool-a7e76491ad8f301a"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "id": "mG1g2UB0",
+              "url": "https://www.gesetze-im-internet.de/sg/__77.html",
+              "title": "§ 77 SG - Einzelnorm",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.gesetze-im-internet.de&sz=256",
+              "description": "Vorsorge zu treffen, dass Mitteilungen der Wehrersatzbehörde sie unverzüglich erreichen, · <strong>Erkrankungen und Verletzungen sowie Verschlimmerungen von Erkrankungen und Verletzungen seit der Untersuchung gemäß § 71 Satz 1, der letzten Überprüfungsuntersuchung gemäß § 71 Satz 2 und §</strong> ..."
+            },
+            {
+              "id": "jxbGRvzw",
+              "url": "https://www.die-anwalts-kanzlei.de/konsum-von-drogen-durch-soldaten-der-bundeswehr-welche-strafen-drohen/",
+              "title": "Strafen bei Konsum von Drogen als Soldat der Bundeswehr",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.die-anwalts-kanzlei.de&sz=256",
+              "description": "Welche Strafen drohen Soldaten der Bundeswehr nach dem BtMG und dem Disziplinarrecht – Konsum von Cannabis, Kokain &amp; Co."
+            },
+            {
+              "id": "ao6FaHsW",
+              "url": "https://www.bverwg.de/de/210514U2WD7.13.0",
+              "title": "BVerwG 2 WD 7.13, Urteil vom 21. Mai 2014 | Bundesverwaltungsgericht",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.bverwg.de&sz=256",
+              "description": "4 Satz 2 SG bestehende Pflicht, seine Gesundheit nicht zu beeinträchtigen, indem er durch den Konsum von „Crystal Meth“ seine Gesundheit in einem Maße beschädigte, das seine Verwendungsfähigkeit in wesentlichen Kernbereichen aufhob. Da dies zu seiner vollständigen Dienstunfähigkeit führte, steht die hinreichende Schwere der Beeinträchtigung fest (vgl. Urteil vom 30. Juli 1980 - BVerwG 2 WD 20.80 - S. 11; Walz/Eichen/Sohm, Soldatengesetz, Kommentar, 2."
+            },
+            {
+              "id": "aJ74CiAU",
+              "url": "https://www.rechtsportal.de/Rechtsprechung/Rechtsprechung/2018/BVerwG/Erwerb-und-Besitz-von-Betaeubungsmitteln-durch-einen-Soldaten-als-schwerwiegendes-Dienstvergehen-Verhaengung-der-Hoechstmassnahme",
+              "title": "Erwerb und Besitz von Betäubungsmitteln durch einen Soldaten als schwerwiegendes Dienstvergehen; Verhängung der Höchstmaßnahme - Rechtsportal",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.rechtsportal.de&sz=256",
+              "description": "Wer nur gelegentlich Drogen konsumiert, legt sich keine Vorräte unterschiedlicher Arten von Betäubungsmitteln in einer zumindest zweistelligen Zahl von Konsumeinheiten an. Hinzu kommt, dass die Gutachter eine Drogenabhängigkeit des früheren Soldaten diagnostiziert haben, die einen dauerhaften Eigenkonsum bedingt."
+            },
+            {
+              "id": "4vIjDVFL",
+              "url": "https://www.ra-kotz.de/zeitsoldat-fristlose-entlassung-wegen-kokainkonsums.htm",
+              "title": "Zeitsoldat - fristlose Entlassung wegen Kokainkonsum",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.ra-kotz.de&sz=256",
+              "description": "Selbst ein einmaliger Betäubungsmittelkonsum könne eine Wiederholungsgefahr begründen. Dass sich die Klägerin einer Therapie unterzogen habe, stehe dem nicht entgegen. Ein drogenfreier Zeitraum von wenigen Monaten unter dem Druck einer drohenden Entlassung sei kein Beleg für eine dauerhafte Drogenabstinenz."
+            },
+            {
+              "id": "CYOf1L3I",
+              "url": "https://lxgesetze.de/sg/77",
+              "title": "§ 77 SG – Dienstleistungsüberwachung; Haftung",
+              "favicon": "https://www.google.com/s2/favicons?domain=lxgesetze.de&sz=256",
+              "description": "§ 77 SG – Der Dienstleistungsüberwachung unterliegen die in § 59 Abs. 1 bis 3 genannten Personen."
+            },
+            {
+              "id": "gsGt3jrR",
+              "url": "https://www.anwalt.de/rechtstipps/soldatenrecht-mit-welchen-folgen-ist-nach-drogenkonsum-zu-rechnen-214267.html",
+              "title": "Soldatenrecht: Mit welchen Folgen ist nach Drogenkonsum zu rechnen ?",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.anwalt.de&sz=256",
+              "description": "Soldaten der Bundeswehr werden ... führen kann. <strong>Für Soldaten in den ersten vier Dienstjahren erfolgt bei einem Verstoß in der Regel eine fristlose Entlassung gemäß § 55 Abs. 5 Soldatengesetz</strong>...."
+            },
+            {
+              "id": "MEZoDRgY",
+              "url": "https://www.strafverteidiger-schueller.de/schwerpunkte/bet%C3%A4ubungsmittel-recht/drogen-und-berufsrecht-%C3%A4rzte-soldaten/",
+              "title": "Drogen und Berufsrecht Ärzte Soldaten - Bundesweite Mandatsübernahme: Betäubungsmittelrecht, Strafrecht, Führerscheinsachen",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.strafverteidiger-schueller.de&sz=256",
+              "description": "Drogen und Berufsrecht Wer gegen das BtMG verstößt, kann sich auch außerhalb der eigentlichen Strafverfolgung massive Probleme einhandeln. Dies gilt besonders für Ärzte, Soldaten und Beamte (gerade für solche des Polizeidienstes). Hier drohen berufsrechtlich und standesrechtlich teils drakonische Folgen."
+            },
+            {
+              "id": "48hSvrRL",
+              "url": "https://www.bmvg.de/resource/blob/5014710/c71bde62a2b8c7ed76b794038aaf5f60/20210106-gesetzentwurf-neuordnung-soldatenversorgungsrecht-data.pdf",
+              "title": "Gesetzentwurf der Bundesregierung",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.bmvg.de&sz=256",
+              "description": "Entwurf eines Gesetzes über die Entschädigung der Soldatinnen und · Soldaten und zur Neuordnung des Soldatenversorgungsrechts"
+            },
+            {
+              "id": "nz0kue9b",
+              "url": "https://www.anwalt.de/rechtstipps/drogenkonsum-durch-soldaten-strafverfahren-disziplinarverfahren-und-entlassung-spezialist_016375.html",
+              "title": "Drogenkonsum durch Soldaten - Strafverfahren, Disziplinarverfahren und Entlassung - Spezialist",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.anwalt.de&sz=256",
+              "description": "Die zentrale Vorschrift für Berufssoldaten ist § 44 Soldatengesetz (SG). Danach ist ein Berufssoldat in den Ruhestand zu versetzen, wenn er dienstunfähig ist."
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "§77 Soldatengesetz Drogenabhängigkeit dauerhafte Erkrankung Dienstbeschädigung",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "The user asks: is drug addiction a permanent illness under §77 Soldatengesetz? §77 SG concerns Dienstleistungsüberwachung/Haftung — not relevant to classification of illness. Likely they mean §§ 44 SG / SVG (Dienstunfähigkeit) or maybe they're thinking of a specific provision. Answer: no single \"dauerhafte Erkrankung\" category in §77 SG. §77 SG regulates liability during service monitoring. The relevant provisions: §44 SG (Dienstunfähigkeit), §17(4) SG health duty; drug addiction typically self-inflicted → not Dienstbeschädigung, so no Versorgung; if dauerhaft dienstunfähig → Versetzung in Ruhestand possible. Provide brief clarification, ask what context.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1791301407173,
+          "contextId": "harness-reasoning-4",
+          "startTime": 1791301405322
+        }
+      },
+      {
+        "text": "Kurze Antwort: **Nein – § 77 Soldatengesetz (SG) hat mit der Bewertung von Erkrankungen nichts zu tun.** Dort geht es nur um die Dienstleistungsüberwachung und Haftung (z. B. bei Dienstleistungen ohne Wehrdienstverhältnis) ([gesetze-im-internet.de](https://www.gesetze-im-internet.de/sg/__77.html), [LX Gesetze](search-result://CYOf1L3I)). Eine Regelung „Drogenabhängigkeit = dauerhafte Erkrankung\" existiert dort nicht.\n\nWas stattdessen relevant ist, falls das Ihr eigentlicher Kontext ist:\n\n- **Dienstunfähigkeit:** Ein Berufssoldat wird nach **§ 44 SG** in den Ruhestand versetzt, wenn er dauerhaft dienstunfähig ist ([anwalt.de](search-result://nz0kue9b)). Ob Drogenabhängigkeit dazu führt, entscheidet der aufschiebende Feststellungsvorgang ärztlich – eine automatische „Dauererkrankung\" ist sie nicht.\n- **Gesundheitliche Pflicht:** Nach **§ 17 Abs. 4 SG** muss ein Soldat seine Gesundheit erhalten/wiederherstellen – Drogenkonsum verletzt diese Pflicht und wurde vom Bundesverwaltungsgericht als Dienstvergehen (bis hin zur Höchstmaßnahme) gewertet ([BVerwG](search-result://ao6FaHsW), [Rechtsportal](search-result://aJ74CiAU)).\n- **Versorgungsrechtlich** gilt: Eine selbstverschuldete Erkrankung (Drogenkonsum) ist in aller Regel **keine Dienstbeschädigung** – Leistungen nach dem Soldatenversorgungsgesetz/SVG bleiben also meist ausgeschlossen.\n- In den **ersten vier Dienstjahren** droht bei Drogenverstößen regelmäßig die **fristlose Entlassung nach § 55 Abs. 5 SG** ([anwalt.de](search-result://gsGt3jrR)).\n\nMeinten Sie vielleicht eine andere Vorschrift (z. B. § 44 SG, § 55 Abs. 5 SG oder eine Bestimmung aus dem SVG/ZDv 20/7 „Dauernde Dienstunfähigkeit\")? Wenn Sie mir sagen, in welchem Zusammenhang die Frage steht (Entlassung, Versetzung in den Ruhestand, Versorgung), kann ich die Antwort gezielt darauf eingehen.",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-10-06T15:43:21.864Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1791301401759,
+        "completedAtMs": 1791301411417,
+        "firstTokenAtMs": 1791301402505,
+        "generationStats": {
+          "outputTokens": 822,
+          "completionCount": 2,
+          "generationDurationMs": 7032,
+          "outputTokensPerSecond": 116.89419795221843
+        },
+        "timeToFirstTokenMs": 746,
+        "bootstrapDurationMs": 390,
+        "completionDurationMs": 9658,
+        "userMessageCreatedToCompletionMs": 10406
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "run_typescript",
+          "web_search"
+        ],
+        "integrationNames": [
+          "web_search"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "7460d88b-24bb-4747-95b6-db2ae98c65d2",
+    "version": 0,
+    "chatId": "38c9c669-2748-4ec2-9a67-da3fd8b2d792",
+    "content": "ist drogenabhängigkeit eine Dauerhafte Erkrankung nach §77 Soldaten Gesetzt?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-10-06T15:43:21.011Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  }
+]

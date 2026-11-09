@@ -1,0 +1,64 @@
+[
+  {
+    "id": "6a245819-4e8b-4ef3-a550-932cf63d7195",
+    "version": 0,
+    "chatId": "673a98fd-757a-4889-9480-c32a5e86ef18",
+    "content": "Die Abkürzungen **HYOK** und **BYOK** stehen für:\n\n- **HYOK** = **\"Hold Your Own Key\"**\n  → Der Nutzer verwaltet seine eigenen kryptografischen Schlüssel selbst (z. B. für Verschlüsselung oder digitale Signaturen). Das gibt maximale Kontrolle, aber auch volle Verantwortung für Sicherheit und Backup.\n\n- **BYOK** = **\"Bring Your Own Key\"**\n  → Der Nutzer bringt seinen eigenen Schlüssel mit, der dann von einem externen Dienst (z. B. einer Cloud-Plattform) genutzt wird. Der Dienst verwaltet die Schlüssel *für* den Nutzer, aber der Nutzer behält die Hoheit über den Schlüssel selbst (z. B. durch Bereitstellung oder Rotation).\n\n### Unterschied:\n- **HYOK** = Schlüssel bleiben *ausschließlich* beim Nutzer (z. B. lokal oder in eigener Hardware).\n- **BYOK** = Schlüssel werden *in eine externe Umgebung eingebracht* (z. B. Cloud-Dienst), aber der Nutzer kontrolliert sie.\n\nBeide Konzepte sind wichtig in der **Cloud-Sicherheit** (z. B. bei AWS KMS, Azure Key Vault) und **Datenschutz-Compliance** (z. B. DSGVO), um die Kontrolle über sensible Daten zu behalten.",
+    "contentChunks": [
+      {
+        "text": "Die Abkürzungen **HYOK** und **BYOK** stehen für:\n\n- **HYOK** = **\"Hold Your Own Key\"**\n  → Der Nutzer verwaltet seine eigenen kryptografischen Schlüssel selbst (z. B. für Verschlüsselung oder digitale Signaturen). Das gibt maximale Kontrolle, aber auch volle Verantwortung für Sicherheit und Backup.\n\n- **BYOK** = **\"Bring Your Own Key\"**\n  → Der Nutzer bringt seinen eigenen Schlüssel mit, der dann von einem externen Dienst (z. B. einer Cloud-Plattform) genutzt wird. Der Dienst verwaltet die Schlüssel *für* den Nutzer, aber der Nutzer behält die Hoheit über den Schlüssel selbst (z. B. durch Bereitstellung oder Rotation).\n\n### Unterschied:\n- **HYOK** = Schlüssel bleiben *ausschließlich* beim Nutzer (z. B. lokal oder in eigener Hardware).\n- **BYOK** = Schlüssel werden *in eine externe Umgebung eingebracht* (z. B. Cloud-Dienst), aber der Nutzer kontrolliert sie.\n\nBeide Konzepte sind wichtig in der **Cloud-Sicherheit** (z. B. bei AWS KMS, Azure Key Vault) und **Datenschutz-Compliance** (z. B. DSGVO), um die Kontrolle über sensible Daten zu behalten.",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-08-26T15:19:28.215Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1787757568230,
+        "completedAtMs": 1787757571577,
+        "firstTokenAtMs": 1787757569308,
+        "generationStats": {
+          "outputTokens": 280,
+          "completionCount": 1,
+          "generationDurationMs": 1972,
+          "outputTokensPerSecond": 141.98782961460446
+        },
+        "timeToFirstTokenMs": 1078,
+        "completionDurationMs": 3347,
+        "userMessageCreatedToCompletionMs": 3713
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [],
+        "integrationNames": []
+      }
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "81409ba2-db9f-4a57-9c18-db83f9234b9e",
+    "version": 0,
+    "chatId": "673a98fd-757a-4889-9480-c32a5e86ef18",
+    "content": "was bedeuten die Abkürzungen  HYOK/BYOK)",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-08-26T15:19:27.864Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  }
+]

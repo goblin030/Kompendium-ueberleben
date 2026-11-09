@@ -2105,3 +2105,15 @@ Event-Typen siehe WORKFLOW.md „Logging“.
 | 2026-11-08T20:07:00+01:00 | orchestrator | decision | Gate kalibriert: L1 quellseitig (Subset-Font-BBox zu ungenau), F0-F3 nur Doku-Text >=7pt, Abb.-Rechtecke weiß >=150x100pt | skills/overlap-gate/ |
 | 2026-11-08T20:08:00+01:00 | orchestrator | output | review-v14/ angelegt (v3.3 PDFs + EPUBs + Suche + README) zum Owner-Review freigegeben | review-v14/ |
 | 2026-11-08T20:09:00+01:00 | archivar | output | BACKLOG OV-1 erledigt, review-v14 offen; HANDOVER aktualisiert | archiv/* |
+
+
+### Durchlauf v3.4 + review-v15 — Label-Kollisionen in SVGs (2026-11-08, 20:30–20:35+01:00, Phase K)
+
+| ts | agent | event | detail | artifact |
+|---|---|---|---|---|
+| 2026-11-08T20:30:00+01:00 | orchestrator | review_feedback | Owner-Beispiel ART-0078 Abb. 2: Maßtext auf Pfeillinie, doppelte Fußzeile — 1.568 Label-Kollisionen in 603/645 art-SVGs (817 T2T, 751 T2L) | review-v15/ |
+| 2026-11-08T20:31:00+01:00 | illustrator | decision | Regel 13: Labels nie auf Linien, nie doppelt auf einer Zeile; Check svg_label_collision_check.py = 0 vor Schreiben | agents/08-illustrator.md, PROMPT-REGELN.md |
+| 2026-11-08T20:32:00+01:00 | illustrator | output | svg_label_fix.py auf 645 art-SVGs: 1.381 Halos + 817 Verschiebungen; Recheck 0/645; XML valide; Meta 0 | illustrationen/art-*.svg |
+| 2026-11-08T20:33:00+01:00 | doc-builder | output | v3.4: 10/10 PDF/A-2b, 580 S. (seitenzahl-identisch), Overlap-Gate 0, Meta 0, EPUBs EPUBCheck 10/10 | 06-dokumente/v3.4/ |
+| 2026-11-08T20:34:00+01:00 | orchestrator | output | review-v15/ angelegt zum Owner-Review | review-v15/ |
+| 2026-11-08T20:35:00+01:00 | archivar | output | BACKLOG OV-3 erledigt, review-v15 offen; HANDOVER | archiv/* |

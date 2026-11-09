@@ -1,0 +1,98 @@
+[
+  {
+    "id": "7d3f6f0b-3941-401a-b008-9173fce53fd9",
+    "version": 0,
+    "chatId": "b92bcfa3-c898-4671-85a5-4190c44edb49",
+    "content": "Hi Robert! How’s your day going so far?",
+    "contentChunks": [
+      {
+        "text": "Hi Robert! How’s your day going so far?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-06-18T09:46:54.104Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "339c859a-2173-4968-973e-731addd8e373",
+    "version": 0,
+    "chatId": "b92bcfa3-c898-4671-85a5-4190c44edb49",
+    "content": "Welche Optionen muss ich in meiner .ssh/config eintragen, damit das forwarding meiner SSH Keys und Zertifikate korrekt funktioniert ?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-06-18T09:48:34.456Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "ad7196f7-116c-490f-9a59-6ee0b7988075",
+    "version": 0,
+    "chatId": "b92bcfa3-c898-4671-85a5-4190c44edb49",
+    "content": "hi",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-06-18T09:46:52.701Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "cf1b752e-dd62-4ed8-90fa-512be7659fb4",
+    "version": 0,
+    "chatId": "b92bcfa3-c898-4671-85a5-4190c44edb49",
+    "content": "\n1. Identify the specific use case for SSH key and certificate forwarding in your scenario.\n2. Gather information on the basic structure and common options of the .ssh/config file.\n3. Research the specific options related to SSH key forwarding in the .ssh/config file.\n4. Investigate the options and configurations for SSH certificate forwarding in the .ssh/config file.\n5. Look into any additional options or configurations that might be necessary for your specific use case, such as proxy commands or specific host configurations.\n6. Verify the correct syntax and placement of the identified options within the .ssh/config file.\n7. Test the configurations by attempting to establish an SSH connection with the specified options.\n8. Troubleshoot any issues that arise during testing, such as connection failures or key/certificate forwarding errors.\n",
+    "contentChunks": [
+      {
+        "text": "\n1. Identify the specific use case for SSH key and certificate forwarding in your scenario.\n2. Gather information on the basic structure and common options of the .ssh/config file.\n3. Research the specific options related to SSH key forwarding in the .ssh/config file.\n4. Investigate the options and configurations for SSH certificate forwarding in the .ssh/config file.\n5. Look into any additional options or configurations that might be necessary for your specific use case, such as proxy commands or specific host configurations.\n6. Verify the correct syntax and placement of the identified options within the .ssh/config file.\n7. Test the configurations by attempting to establish an SSH connection with the specified options.\n8. Troubleshoot any issues that arise during testing, such as connection failures or key/certificate forwarding errors.\n",
+        "type": "text",
+        "_context": {
+          "type": "deep_research_plan",
+          "isLast": true,
+          "status": "requested",
+          "taskId": "task_019eda22194577d0bfa6afe080139300",
+          "endTime": 1781776122364,
+          "contextId": "7e46bcd2-0c8c-418b-a736-af9c4bc84839",
+          "startTime": 1781776115052
+        }
+      },
+      {
+        "type": "task",
+        "taskId": "task_019eda22194577d0bfa6afe080139300",
+        "taskType": "deep_research",
+        "researchEngine": "default"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-06-18T09:48:34.845Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  }
+]

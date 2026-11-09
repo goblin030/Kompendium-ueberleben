@@ -1,0 +1,751 @@
+[
+  {
+    "id": "6ef10ae9-bf24-4b65-a90c-d6d72b6513b2",
+    "version": 0,
+    "chatId": "77df394b-a9cd-45f3-a0b9-f5daf12c5a53",
+    "content": "Wer ist der Artist hinter dem Synonym SIXSENSE?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-07-19T09:15:07.129Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "7fd93e1f-c8e7-4af5-82c9-11a116f8e21b",
+    "version": 0,
+    "chatId": "77df394b-a9cd-45f3-a0b9-f5daf12c5a53",
+    "content": "Am",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-07-19T09:15:31.868Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "e00ba69a-f96a-42c8-9e04-9e59046dfb1f",
+    "version": 0,
+    "chatId": "77df394b-a9cd-45f3-a0b9-f5daf12c5a53",
+    "content": "Ben (Ben Damski) ist nicht nur als **SIXSENSE** aktiv, sondern auch unter dem Pseudonym **Synchromatrix**. Er produziert seit 1996 Musik und hat zahlreiche Alben, EPs, Kollaborationen und Remixe auf führenden Labels für elektronische Tanzmusik veröffentlicht. Zu seinen Projekten und Veröffentlichungen gehören unter anderem:\n\n- **Alben unter SIXSENSE**: *Layers Of Art*, *Interstellar Visitors*, *Deeper Eyes*, *Global Power*, *Musical Microscope*, *U.F.O. Phenomenon*, *The Host*.\n- **Alben unter Synchromatrix**: *Beyond Imagination*.\n- **Kollaborationen**: Er hat mit Künstlern wie **Rammix**, **Alter3D Perception**, **SilentBreakers** und **DoctorSpook** zusammengearbeitet.\n- **Labels**: Seine Musik erscheint auf Labels wie **Spiral Trax**, **Sting Records**, **Geomagnetic Records** und **Ovnimoon Records**.\n\nBen ist einer der führenden Underground-Produzenten für **Full On und Progressive Psychedelic Trance** sowie **Ambient Music** und hat sich in der Szene einen Namen gemacht.",
+    "contentChunks": [
+      {
+        "id": "y2P9PypQJ",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1784452561955,
+        "success": true,
+        "toolType": "rag",
+        "startTime": 1784452559793,
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "ar": "البحث على الويب",
+            "de": "Websuche",
+            "en": "Web Search",
+            "es": "Búsqueda web",
+            "fr": "Recherche Web",
+            "it": "Ricerca web",
+            "nl": "Webzoeken",
+            "pl": "Wyszukiwanie w sieci",
+            "pt-BR": "Pesquisa na web"
+          }
+        },
+        "customLocale": {
+          "done_description": {
+            "en": "web_search"
+          },
+          "working_description": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "cdoimkyu": {
+            "url": "https://spiraltrax.bandcamp.com/album/sixsense-layers-of-art-easediv003-ease-division",
+            "date": null,
+            "rank": 2,
+            "title": "Sixsense - Layers Of Art (EASEDIV003 - Ease Division), by Spiral Trax",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/qfRB4NmHJnyvFDwxvtl7vJglgluQ77SgxGp9NKhH6LE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzVjMGJlNGZj/MzhiMGRhYTZlN2Fk/NTRlZTg3NjhhOTMz/MDIxNzIwOGY3ZjVl/YTZkM2VkYTQwYjIx/OTMyOGUxNS9zcGly/YWx0cmF4LmJhbmRj/YW1wLmNvbS8",
+              "thumbnail": "https://f4.bcbits.com/img/a3998738404_10.jpg"
+            },
+            "snippets": [
+              "Ben has continuously produced music since 1996 under the titles Sixsense and Synchromatrix and has <strong>released many albums, EPs collaborations, and remixes over the years on leading electronic dance music labels around the world</strong>.",
+              "Sixsense - Layers Of Art (EASEDIV003 - Ease Division) by Spiral Trax, released 28 August 2020 1. Roots Of Heaven 2. Final Way 3. Zero Point 4. Koko Echo 5. Low My Mind 6. Silent Desert 7. I Want U 8. Layers Of Art 9. Morning Flash (Ambient Version) 10. Shanti Bunti Sixsense - Layers Of Art (EASEDIV003 - Ease Division) 01 - Sixsense - Roots Of Heaven 02 - Sixsense - Final Way 03 - Sixsense - Zero Point 04 - Sixsense - Koko Echo 05 - Sixsense - Low My Mind 06 - Sixsense - Silent Desert 07 - Sixsense - I Want U 08 - Sixsense - Layers Of Art 09 - Sixsense, Rammix - Morning Flash (Ambient Version) 10 - Sixsense, Rammix - Shanti Bunti Sixsense is back with an awesome album called 'Layers Of Art'!",
+              "Sixsense is one of the leading underground Psy - Trance music producers from Israel specializing in the sub-genre of Full On and Progressive Psychedelic Trance and Ambient Music. Ben has continuously produced music since 1996 under the titles Sixsense and Synchromatrix and has released many albums, EPs collaborations, and remixes over the years on leading electronic dance music labels around the world.",
+              "10 track album"
+            ],
+            "description": "Ben has continuously produced music since 1996 under the titles Sixsense and Synchromatrix and has <strong>released many albums, EPs collaborations, and remixes over the years on leading electronic dance music labels around the world</strong>."
+          },
+          "cvyusmdl": {
+            "url": "https://geomagneticrec.com/album/sixsense-global-power-geolp042-geomagnetic-records",
+            "date": null,
+            "rank": 5,
+            "title": "Sixsense - Global Power (geoLP042 - Geomagnetic Records), by Geomagnetic Records",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/2Meqfb25K-b_zyOZsEmnIT8MpGSX4iKPS0DFkQsaOd4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDJiY2ZiYjQ1/NjI1YjYxOGYzNzkw/MTE2YTJlMjYyNGI1/MjRlNDY3ZTg5NTM1/YjFhNTFiNDhiYTY5/M2RiNjgxNS9nZW9t/YWduZXRpY3JlYy5j/b20v",
+              "thumbnail": "https://f4.bcbits.com/img/a0172507079_10.jpg"
+            },
+            "snippets": [
+              "Ben has continuously produced music since 1996 under the titles Sixsense and Synchromatrix and has <strong>released many albums, EPs collaborations, and remixes over the years on leading electronic dance music labels around the world</strong>.",
+              "Sixsense is one of the leading underground Psy - Trance music producers from Israel specializing in the sub-genre of Full On and Progressive Psychedelic Trance and Ambient Music. Ben has continuously produced music since 1996 under the titles Sixsense and Synchromatrix and has released many albums, EPs collaborations, and remixes over the years on leading electronic dance music labels around the world.",
+              "Includes unlimited streaming via the free Bandcamp app, plus high-quality downloads of Psylestial - Warping Reality (​geosp154 - Geomagnetic Records), Abigail Noises - Fairies In a Magical Forest (​geosp153 - Geomagnetic Records), Psylestial - Gravitational Anomaly (​geosp152 - Geomagnetic Records), Rhythmic Wind - Sinners (​geosp151 - Geomagnetic Records), Sixsense - Desert Crash (geoLP081 - Geomagnetic Records), Cloud6 - Mandolin (​geosp150 - Geomagnetic Records), Don Quixote - Psyogenix (​geosp149 - Geomagnetic Records), Acid Dj - LSDination (geoep388 - Geomagnetic), and 558 more.",
+              "10 track album"
+            ],
+            "description": "Ben has continuously produced music since 1996 under the titles Sixsense and Synchromatrix and has <strong>released many albums, EPs collaborations, and remixes over the years on leading electronic dance music labels around the world</strong>."
+          },
+          "fberkxzq": {
+            "url": "https://geomagneticrec.com/album/sixsense-musical-microscope-geolp057-geomagnetic-records",
+            "date": null,
+            "rank": 6,
+            "title": "Sixsense - Musical Microscope (geoLP057 -Geomagnetic Records), by Geomagnetic Records",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/2Meqfb25K-b_zyOZsEmnIT8MpGSX4iKPS0DFkQsaOd4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDJiY2ZiYjQ1/NjI1YjYxOGYzNzkw/MTE2YTJlMjYyNGI1/MjRlNDY3ZTg5NTM1/YjFhNTFiNDhiYTY5/M2RiNjgxNS9nZW9t/YWduZXRpY3JlYy5j/b20v",
+              "thumbnail": "https://f4.bcbits.com/img/a0382441793_10.jpg"
+            },
+            "snippets": [
+              "Ben has continuously produced music since 1996 under the titles Sixsense and Synchromatrix and has <strong>released many albums, EPs collaborations, and remixes over the years on leading electronic dance music labels around the world</strong>.",
+              "Sixsense is one of the leading underground Psy - Trance music producers from Israel specializing in the sub-genre of Full On and Progressive Psychedelic Trance and Ambient Music. Ben has continuously produced music since 1996 under the titles Sixsense and Synchromatrix and has released many albums, EPs collaborations, and remixes over the years on leading electronic dance music labels around the world.",
+              "10 track album"
+            ],
+            "description": "Ben has continuously produced music since 1996 under the titles Sixsense and Synchromatrix and has <strong>released many albums, EPs collaborations, and remixes over the years on leading electronic dance music labels around the world</strong>."
+          },
+          "hhdfmauu": {
+            "url": "https://spiraltrax.bandcamp.com/album/sixsense-the-host-spit186-spiral-trax",
+            "date": null,
+            "rank": 9,
+            "title": "Sixsense - The Host (​​SPIT186 - Spiral Trax), by Spiral Trax",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/qfRB4NmHJnyvFDwxvtl7vJglgluQ77SgxGp9NKhH6LE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzVjMGJlNGZj/MzhiMGRhYTZlN2Fk/NTRlZTg3NjhhOTMz/MDIxNzIwOGY3ZjVl/YTZkM2VkYTQwYjIx/OTMyOGUxNS9zcGly/YWx0cmF4LmJhbmRj/YW1wLmNvbS8",
+              "thumbnail": "https://f4.bcbits.com/img/a2816183616_10.jpg"
+            },
+            "snippets": [
+              "Ben has continuously produced music since 1996 under the titles Sixsense and Synchromatrix and has <strong>released many albums, EPs collaborations, and remixes over the years on leading electronic dance music labels around the world</strong>.",
+              "Sixsense - The Host (​​SPIT186 - Spiral Trax) by Spiral Trax, released 11 October 2019 1. Brain Computer 2. For The Planet 3. Hi Drive 4. High Dose 5. The Host 6. Super Duper Fly 7. Snatch The Sphere 8. Born To Freedom 9. I Got To Move 10. Project X Sixsense - The Host (​​SPIT186 - Spiral Trax) 01 - Sixsense - Brain Computer 02 - Sixsense - For The Planet 03 - Sixsense - Hi Drive 04 - Sixsense - High Dose 05 - Sixsense - The Host 06 - Sixsense - Super Duper Fly 07 - Sixsense - Snatch The Sphere 08 - Tune Boosters, Sixsense - Born To Freedom 09 - Sixsense - I Got To Move 10 - Sixsense - Project X Spiral Trax is back, this time with a new LP album from well-established artist 'Sixsense' called 'The Host'!",
+              "Sixsense is one of the leading underground Psy - Trance music producers from Israel specializing in the sub-genre of Full On and Progressive Psychedelic Trance and Ambient Music. Ben has continuously produced music since 1996 under the titles Sixsense and Synchromatrix and has released many albums, EPs collaborations, and remixes over the years on leading electronic dance music labels around the world.",
+              "10 track album"
+            ],
+            "description": "Ben has continuously produced music since 1996 under the titles Sixsense and Synchromatrix and has <strong>released many albums, EPs collaborations, and remixes over the years on leading electronic dance music labels around the world</strong>."
+          },
+          "mtegduvn": {
+            "url": "https://ovnimoonrecords.bandcamp.com/album/sixsense-u-f-o-phenomenon-ovnicd122-ovnimoon-records",
+            "date": null,
+            "rank": 7,
+            "title": "Sixsense - U.F.O. Phenomenon (OVNICD122 - Ovnimoon records) | Sixsense | Ovnimoon Records",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/UNU1-Txkxrk6HGFFC3vRlx7WKEwC7mYeSQeO_brKrV0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODQ4ZjRlZTMz/MjBmNDM0MDJhMDIy/MTEwY2Y4NWNmMWVm/ODZkNjc1ZjVhN2Q2/MDUzMjJmMzVhYmYz/MjRjYjcyMy9vdm5p/bW9vbnJlY29yZHMu/YmFuZGNhbXAuY29t/Lw",
+              "thumbnail": "https://f4.bcbits.com/img/a1166829154_10.jpg"
+            },
+            "snippets": [
+              "Ben has continuously produced music since 1996 under the titles Sixsense &amp; Synchromatrix and has <strong>released many albums, EPs collaborations and remixes over the years on leading electronic dance music labels around the world</strong>.",
+              "Sixsense - U.F.O. Phenomenon (OVNICD122 - Ovnimoon records) by Sixsense, released 04 June 2018 1. Locked In 2. Aliens 3. Darksiders 4. Gravitational Waves 5. Psychedelic Spots 6. Sixsense, Alter3D Perception - Frequencies 7. U.F.O Phenomenon 8. Sixsense, Alter3D Perception - Space Lights 9. Visual Flash 10.",
+              "Sixsense is one of the leading underground Psy - Trance music producers from Israel specializing in the sub-genre of Full On and Progressive Psychedelic Trance and Ambient Music. Ben has continuously produced music since 1996 under the titles Sixsense & Synchromatrix and has released many albums, EPs collaborations and remixes over the years on leading electronic dance music labels around the world.",
+              "If you like Sixsense - U.F.O. Phenomenon (OVNICD122 - Ovnimoon records), you may also like: ... This album by the electronic artist is made up of archival work created from 2013 to 2022. Bandcamp New & Notable Jun 23, 2023 go to album ... Created in Goa, India, without the benefit of a studio, “Serpentine” is an adrenaline shot to the heart—relentlessly joyous dance music.",
+              "Limited Edition CD OVNICD122 - Sixsense - U.F.O. Phenomenon Includes unlimited streaming of Sixsense - U.F.O."
+            ],
+            "description": "Ben has continuously produced music since 1996 under the titles Sixsense &amp; Synchromatrix and has <strong>released many albums, EPs collaborations and remixes over the years on leading electronic dance music labels around the world</strong>."
+          },
+          "vtnjwlmz": {
+            "url": "https://stingrecordsmusic.bandcamp.com/album/sixsense-deeper-eyes-strdw164-sting-records",
+            "date": null,
+            "rank": 4,
+            "title": "Sixsense - Deeper Eyes (STRDW164 - Sting Records), by Sting Records",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/lVIXPep5onTYmhUm0f56Cps8a33MjnyiZ0CLxfqK32c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGUwMDMwYzE1/YWMxZGNhZmYwMzEy/MjgyOWM0ZDU3MzRh/NDA2NWUxZGI1OGQx/YmY4MzAwOGU3MTcw/NDRmNmM4ZC9zdGlu/Z3JlY29yZHNtdXNp/Yy5iYW5kY2FtcC5j/b20v",
+              "thumbnail": "https://f4.bcbits.com/img/a3397845892_10.jpg"
+            },
+            "snippets": [
+              "Ben has continuously produced music since 1996 under the titles Sixsense and Synchromatrix and has <strong>released many albums, EPs collaborations and remixes over the years on leading electronic dance music labels around the world</strong>.",
+              "Sixsense - Deeper Eyes (STRDW164 - Sting Records) by Sting Records, released 01 January 2021 1. Deeper Eyes 2. Flowless 3. Future Changes 4. Gear To Heaven 5. Glider Gate 6. Hot 7. Humanoids 8. Indutech 9. Loop My Plug 10. Lunch Up Sixsense - Deeper Eyes (STRDW164 - Sting Records) 01 - Sixsense - Deeper Eyes 02 - Sixsense - Flowless 03 - Sixsense - Future Changes 04 - Sixsense - Gear To Heaven 05 - Sixsense - Glider Gate 06 - Sixsense - Hot 07 - Sixsense - Humanoids 08 - Sixsense - Indutech 09 - Sixsense - Loop My Plug 10 - Sixsense - Lunch Up Sting Records is more than proud to release a new ALBUM 'Deeper Eyes' from a rising star Sixsense!",
+              "Sixsense is one of the leading underground Psy - Trance music producers from Israel specializing in the sub-genre of Full On and Progressive Psychedelic Trance and Ambient Music. Ben has continuously produced music since 1996 under the titles Sixsense and Synchromatrix and has released many albums, EPs collaborations and remixes over the years on leading electronic dance music labels around the world.",
+              "10 track album"
+            ],
+            "description": "Ben has continuously produced music since 1996 under the titles Sixsense and Synchromatrix and has <strong>released many albums, EPs collaborations and remixes over the years on leading electronic dance music labels around the world</strong>."
+          },
+          "xixzxwtd": {
+            "url": "https://spiraltrax.bandcamp.com/album/sixsense-interstellar-visitors-spit227-spiral-trax",
+            "date": null,
+            "rank": 3,
+            "title": "Sixsense - Interstellar Visitors (​​SPIT227 - Spiral Trax), by Spiral Trax",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/qfRB4NmHJnyvFDwxvtl7vJglgluQ77SgxGp9NKhH6LE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzVjMGJlNGZj/MzhiMGRhYTZlN2Fk/NTRlZTg3NjhhOTMz/MDIxNzIwOGY3ZjVl/YTZkM2VkYTQwYjIx/OTMyOGUxNS9zcGly/YWx0cmF4LmJhbmRj/YW1wLmNvbS8",
+              "thumbnail": "https://f4.bcbits.com/img/a3575147666_10.jpg"
+            },
+            "snippets": [
+              "Ben has continuously produced music since 1996 under the titles Sixsense and Synchromatrix and has <strong>released many albums, EPs collaborations, and remixes over the years on leading electronic dance music labels around the world</strong>.",
+              "Sixsense - Interstellar Visitors (​​SPIT227 - Spiral Trax) by Spiral Trax, released 25 December 2020 1. Emotional 2. Blow 3. In The Blue Dream 4. Interstellar Visitors 5. Unidenified 6. X Bot 7. My Mind 8. X Force 9. Balbala (Remix 2020) 10. Too Hot Sixsense - Interstellar Visitors (​​SPIT227 - Spiral Trax) 01 - Sixsense - Emotional 02 - Sixsense - Blow 03 - Sixsense - In The Blue Dream 04 - Sixsense - Interstellar Visitors 05 - Sixsense - Unidenified 06 - Sixsense - X Bot 07 - Sixsense - My Mind 08 - Sixsense - X Force 09 - Sixsense - Balbala (Remix 2020) 10 - Sixsense - Too Hot Spiral Trax Records is more than proud to present the new album 'Interstellar Visitors' from the well-known Sixsense Project!",
+              "Sixsense is one of the leading underground Psy - Trance music producers from Israel specializing in the sub-genre of Full On and Progressive Psychedelic Trance and Ambient Music. Ben has continuously produced music since 1996 under the titles Sixsense and Synchromatrix and has released many albums, EPs collaborations, and remixes over the years on leading electronic dance music labels around the world.",
+              "10 track album"
+            ],
+            "description": "Ben has continuously produced music since 1996 under the titles Sixsense and Synchromatrix and has <strong>released many albums, EPs collaborations, and remixes over the years on leading electronic dance music labels around the world</strong>."
+          },
+          "xxfgiemz": {
+            "url": "https://soundcloud.com/user-641786574",
+            "date": null,
+            "rank": 0,
+            "title": "Stream Synchromatrix - ( Sixsense Ben D ) music | Listen to songs, albums, playlists for free on SoundCloud",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/cITFBqfwL8R8KcVrBVnr4mutx1MdwZ3SrxiSlMNye2E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTA5ZDgyNGJl/NjljY2RjMmFkYWFi/YThkMjA5NjkxNTNh/YzBmMGI0YWIxNGE4/YTVhNjI3N2IwODQ0/ZTEyMDk4Yy9zb3Vu/ZGNsb3VkLmNvbS8",
+              "thumbnail": "https://i1.sndcdn.com/avatars-6bUL1uwBnc1jqiMB-xD9UNg-t1080x1080.jpg"
+            },
+            "snippets": [
+              "&quot; Synchromatrix &quot; - Is A New Project By A.K.A : Sixsense (UNERGROUND PSYCHEDELIC PSYTRANCE) Music BY : Ben Damski (37) ISRAEL Enjoy @) boom ..... Vol Up",
+              "\" Synchromatrix \" - Is A New Project By A.K.A : Sixsense (UNERGROUND PSYCHEDELIC PSYTRANCE) Music BY : Ben Damski (37) ISRAEL Enjoy @) boom ..... Vol Up"
+            ],
+            "description": "&quot; Synchromatrix &quot; - Is A New Project By A.K.A : Sixsense (UNERGROUND PSYCHEDELIC PSYTRANCE) Music BY : Ben Damski (37) ISRAEL Enjoy @) boom ..... Vol Up"
+          },
+          "yboqcqrq": {
+            "url": "https://www.beatport.com/artist/synchromatrix/813810",
+            "date": null,
+            "rank": 8,
+            "title": "SYNCHROMATRIX Music & Downloads on Beatport",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/JTYPcoPzmarKnwQKQ1rFgvP8-KOPwZalO5zn7OuhNuE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2U0NmUwZmEw/YzY5Zjk4MzFmMTgw/ZmJmNDJjZWMxMDNi/ZjUxMTUzYTY3OGY5/MDRkMWJhODkxYjBm/M2UyNTJmZC93d3cu/YmVhdHBvcnQuY29t/Lw",
+              "thumbnail": "https://geo-media.beatport.com/image_size/590x404/9661c5ad-7a04-4dbf-ada8-88695673e1e8.jpg"
+            },
+            "snippets": [
+              "SYNCHROMATRIX - ( A.K.A SIXSENSE - 39 ) New Psychedelic Psytrance Side Project By Israeli Music Creator : BEN DAMSKI",
+              "DoctorSpook, Solar Infinity, Ambra, Cloud6, Ovnimoon, Balcosmos, Hux Flux, Trizono, The Witch Doctor, Atlantis, Oberon, Astro-D, Frechenhäuser, Veak, Dunk, Karizmatik, Futurist, Robotscot, Rumblejumble Clash, One-Dread, Dj 2 Clean, Jack Hardy, Jigglypuff, Dj RumBuRak, Deep`n Shine, SIXSENSE, SYNCHROMATRIX, Material Music, PsyShout, Jose, Sci Fi, Maria Fraiz, Kri Samadhi, Stars Sacred Service, Funcster, Planetary Child, Om Bass, DJ Swindla, SilentBreakers, Effectrix, Space Shift, Telekiness, PsyTronic, Psymetrica, One Dread, Uppressor, Melanite DJ, DJ Sparks, Raul B, Triscele, Arc Voyager 25, Matt Harper, Ben Damski, Yazca Rap",
+              "Ovnimoon, DoctorSpook, Cloud6, Futurist, Xoluvatake, Supreme Matty, Ben Damski, Musaeus, Thay, Veak, SIXSENSE, Zire, Jigglypuff, Dunk, Planetary Child, Neil Badboy, Mjay, Karizmatik, DJ Sparks, The Witch Doctor, Seti Project, Rhythmic Wind, Dj RumBuRak, SYNCHROMATRIX, Ambra, Robotscot, Tree Force, Yaar, Trizono, SilentBreakers, Psymetrica, Minimalist, One-Dread, Dj 2 Clean, Utopian Brainfarts, Funcster, Alkemya, Audio Monk, Katerina Shi, Matt Harper, Uppressor, Raul B, Telekiness, Vvsq, Melanite DJ, Om Bass, Arc Voyager 25, Rumblejumble Clash, Soul LieD, Space Shift, Mashrum, Stars Sacred Service, Daniel Ayisi, Ika",
+              "Mou5ZyZZ, Hyperversus, Atomas 303, Ana Adina, Etnica, Logic Bomb, The Digital Blonde, Ovnimoon, The Witch Doctor, Norma Project, Ascent, Liquid Sound, Shogan, SIXSENSE, Ambra, DoctorSpook, Tech6, Echotek, Micha, Bass Lotus, Solar Spectrum, Chris Milosz, SilentBreakers, Mythospheric, Rythmic, SYNCHROMATRIX, Ekinopsis, Womp-Life, Arsham Salahi, Sectastral, Sharmatix, Inner Cosmos, Frechenhäuser, Funicon, Funcster, Golden Drop, Material Music, Rogue, Kadar, Sun Melody, Dj RumBuRak, DUNSTAN DMT, Cloud6, AnAmStyle, AudioStorm, Mond, Aspect, Lambda, Story of Light, Intensiva, Ben Damski, Introspect",
+              "Ovnimoon, MoRsei, Logic Bomb, Genejoke, SIXSENSE, GoaStream, Astro-D, Liquid Love, Shabboo Harper, Abigail Noises, Psy Agency, Atongmu, Audio Dream, Nostromosis, Median Project, PeZZe Project, SYNCHROMATRIX, Oplewing, Kuruk, Pudova, Ascent, Deadhand, Barby, Kezo Moon, Atomas 303, Audiostream, California Sunshine (Har-El), Deep Creation, Zattera, Vaktun, El Zisco, Flucturion 2.0 ... Hard Dance Psyborgs, Vol. 1 (DJ Mix) Kyng of Thievez, SIXSENSE, Ambra, Darkson, Jigglypuff, Robotscot, AcidProjekt, Sonus X, SYNCHROMATRIX, M-Trip, Psynecdoche, Extrateravers, Effectrix, Ride The Neon, Hatza Ha, N3verold, Planetary Child"
+            ],
+            "description": "SYNCHROMATRIX - ( A.K.A SIXSENSE - 39 ) New Psychedelic Psytrance Side Project By Israeli Music Creator : BEN DAMSKI"
+          },
+          "zflitngf": {
+            "url": "https://spiraltrax.bandcamp.com/album/synchromatrix-beyond-imagination-spit247-spiral-trax",
+            "date": null,
+            "rank": 1,
+            "title": "Synchromatrix - Beyond Imagination (​​SPIT247 - Spiral Trax), by Spiral Trax",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/qfRB4NmHJnyvFDwxvtl7vJglgluQ77SgxGp9NKhH6LE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzVjMGJlNGZj/MzhiMGRhYTZlN2Fk/NTRlZTg3NjhhOTMz/MDIxNzIwOGY3ZjVl/YTZkM2VkYTQwYjIx/OTMyOGUxNS9zcGly/YWx0cmF4LmJhbmRj/YW1wLmNvbS8",
+              "thumbnail": "https://f4.bcbits.com/img/a2725543828_10.jpg"
+            },
+            "snippets": [
+              "Ben has continuously produced music since 1996 under the titles Sixsense and Synchromatrix and has <strong>released many albums, EPs collaborations, and remixes over the years on leading electronic dance music labels around the world</strong>.",
+              "Synchromatrix - Beyond Imagination (​​SPIT247 - Spiral Trax) by Spiral Trax, released 17 September 2021 1. Beyond Imagination Synchromatrix - Beyond Imagination (​​SPIT247 - Spiral Trax) 01 - Synchromatrix - Beyond Imagination We are more than proud to present an outstanding new track from a well-known Synchromatrix called Beyond Imagination!",
+              "Behind the Synchromatrix project is Ben Damski, one of the leading underground Psy - Trance music producers from Israel specializing in the sub-genre of Full On and Progressive Psychedelic Trance and Ambient Music. Ben has continuously produced music since 1996 under the titles Sixsense and Synchromatrix and has released many albums, EPs collaborations, and remixes over the years on leading electronic dance music labels around the world.",
+              "1 track album"
+            ],
+            "description": "Ben has continuously produced music since 1996 under the titles Sixsense and Synchromatrix and has <strong>released many albums, EPs collaborations, and remixes over the years on leading electronic dance music labels around the world</strong>."
+          }
+        },
+        "isInterrupted": false,
+        "publicArguments": "Ben Sixsense Synchromatrix Projekte und Kollaborationen",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Ben (Ben Damski) ist nicht nur als **SIXSENSE** aktiv, sondern auch unter dem Pseudonym **Synchromatrix**. Er produziert seit 1996 Musik und hat zahlreiche Alben, EPs, Kollaborationen und Remixe auf führenden Labels für elektronische Tanzmusik veröffentlicht. Zu seinen Projekten und Veröffentlichungen gehören unter anderem:\n\n- **Alben unter SIXSENSE**: *Layers Of Art*, *Interstellar Visitors*, *Deeper Eyes*, *Global Power*, *Musical Microscope*, *U.F.O. Phenomenon*, *The Host*",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "cdoimkyu",
+          "xixzxwtd",
+          "vtnjwlmz",
+          "cvyusmdl",
+          "fberkxzq",
+          "hhdfmauu"
+        ]
+      },
+      {
+        "text": ".\n- **Alben unter Synchromatrix**: *Beyond Imagination*",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "zflitngf"
+        ]
+      },
+      {
+        "text": ".\n- **Kollaborationen**: Er hat mit Künstlern wie **Rammix**, **Alter3D Perception**, **SilentBreakers** und **DoctorSpook** zusammengearbeitet",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "cdoimkyu",
+          "mtegduvn"
+        ]
+      },
+      {
+        "text": ".\n- **Labels**: Seine Musik erscheint auf Labels wie **Spiral Trax**, **Sting Records**, **Geomagnetic Records** und **Ovnimoon Records**",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "cdoimkyu",
+          "xixzxwtd",
+          "vtnjwlmz",
+          "cvyusmdl",
+          "fberkxzq",
+          "mtegduvn",
+          "hhdfmauu"
+        ]
+      },
+      {
+        "text": ".\n\nBen ist einer der führenden Underground-Produzenten für **Full On und Progressive Psychedelic Trance** sowie **Ambient Music** und hat sich in der Szene einen Namen gemacht",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "zflitngf",
+          "cdoimkyu",
+          "xixzxwtd",
+          "vtnjwlmz",
+          "cvyusmdl",
+          "fberkxzq",
+          "mtegduvn",
+          "hhdfmauu"
+        ]
+      },
+      {
+        "text": ".",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-07-19T09:15:56.870Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "20d4cd06-50ed-44b4-953a-9b85b89f2668",
+    "version": 0,
+    "chatId": "77df394b-a9cd-45f3-a0b9-f5daf12c5a53",
+    "content": "An Welchen Projecten beteiligt er sich sonst so ?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-07-19T09:15:56.540Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "ebd28d59-4393-4471-ab44-f4af698f3c73",
+    "version": 0,
+    "chatId": "77df394b-a9cd-45f3-a0b9-f5daf12c5a53",
+    "content": "Hinter dem Synonym **SIXSENSE** steckt der Künstler **Ben**, der seit 1996 unter diesem und dem Namen **Synchromatrix** Musik produziert.",
+    "contentChunks": [
+      {
+        "id": "4jE0LgQJc",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1784452512598,
+        "success": true,
+        "toolType": "rag",
+        "startTime": 1784452510685,
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "ar": "البحث على الويب",
+            "de": "Websuche",
+            "en": "Web Search",
+            "es": "Búsqueda web",
+            "fr": "Recherche Web",
+            "it": "Ricerca web",
+            "nl": "Webzoeken",
+            "pl": "Wyszukiwanie w sieci",
+            "pt-BR": "Pesquisa na web"
+          }
+        },
+        "customLocale": {
+          "done_description": {
+            "en": "web_search"
+          },
+          "working_description": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "eyquyqzg": {
+            "url": "https://synonyme.woxikon.de/synonyme/k%C3%BCnstler.php",
+            "date": null,
+            "rank": 2,
+            "title": "ᐅ Künstler Synonym | Alle Synonyme - Bedeutungen - Ähnliche Wörter",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/83GXVRIlq17DtigPcvLl6vfXr1jHyWKcd9OlZGpGukw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2NiZDdjMDhl/ODgyMDc2MTNmM2M1/ODY3OTU4NzkzMDc2/MDk5MTM5YTk5Y2I3/ZGEwOGJhMGEwMjY1/NzAzYzNlNC9zeW5v/bnltZS53b3hpa29u/LmRlLw",
+              "thumbnail": null
+            },
+            "snippets": [
+              "Schriftsteller Vater Künstler Journalist Produzent Verfasser Schöpfer Urheber Buchautor Literat Erschaffer Stückeschreiber Prosaschriftsteller Schreiberling Kunstschaffender Dramendichter",
+              "In der rechten Sidebar finden Sie für Künstler eine rote Flagge. In dem Menü können Sie für Künstler neue Vorschläge hinzufügen, nicht passende Synonyme für Künstler melden oder fehlerhafte Schreibweisen überarbeiten.",
+              "Wir haben 62 Synonyme für Wort. Die korrekte Schreibweise ist Künst·ler. Außerdem findest du Wörter die Vor und Nach Künstler stehen, Zeitformen und verschiedene Bedeutungen. ... © 2026 woxikon.de · Impressum · Mediadaten · Rätseltipps · Datenschutzerklärung · Datenschutzeinstellungen · » ᐅ Künstler Synonym | Alle Synonyme - Bedeutungen - Ähnliche Wörter",
+              "Schriftsteller Vater Künstler Journalist Produzent Verfasser Schöpfer Urheber Buchautor Literat Erschaffer Stückeschreiber Prosaschriftsteller Schreiberling Kunstschaffender Dramendichter",
+              "Künstler Kabarettist Komiker Comedian Narr Clown Kasper Humorist Eulenspiegel Schalk Unterhaltungskünstler"
+            ],
+            "description": "Schriftsteller Vater Künstler Journalist Produzent Verfasser Schöpfer Urheber Buchautor Literat Erschaffer Stückeschreiber Prosaschriftsteller Schreiberling Kunstschaffender Dramendichter"
+          },
+          "fimhafnb": {
+            "url": "https://de.wiktionary.org/wiki/K%C3%BCnstler",
+            "date": null,
+            "rank": 8,
+            "title": "Künstler – Wiktionary",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/zb_2MiU7FDMkzJ-fFzjQAgkx8bZhaRHB_J8NuGsOm8U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTY2MjgwMWEz/MjA2NjEyYzJjN2Yw/NGMwNTU3Njk2Yzg5/ZjhkM2UxMzU5MmYz/ODY0ZDc5ZDAxNmNl/YmVjODBkZi9kZS53/aWt0aW9uYXJ5Lm9y/Zy8",
+              "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/94/Laurence_caruana_in_his_Bastille_studio.jpg"
+            },
+            "snippets": [
+              "[1] <strong>Architekt, Artist, Bildhauer, Dichter, Fotograf, Grafiker, Komiker, Komponist, Maler, Mangaka, Musiker, Sänger, Schauspieler, Schriftsteller, Tänzer, Zauberer, Zeichner</strong> · [1] Aktionskünstler, Drahtseilkünstler, Filmkünstler, ...",
+              "Jahrhundert in der Bedeutung „Schöpfer von Kunstwerken“[1] :Ableitung zu dem Substantiv Kunst mit dem Derivatem (Ableitungsmorphem) -ler und Ablaut ... [1] Architekt, Artist, Bildhauer, Dichter, Fotograf, Grafiker, Komiker, Komponist, Maler, Mangaka, Musiker, Sänger, Schauspieler, Schriftsteller, Tänzer, Zauberer, Zeichner · [1] Aktionskünstler, Drahtseilkünstler, Filmkünstler, Graffiti-Künstler/Graffitikünstler, Hobbykünstler, Jugendstilkünstler, Möchtegernkünstler, Profikünstler, Solokünstler, Straßenkünstler, Videokünstler, Zauberkünstler, Zeichenkünstler",
+              "[1] „Unter den Künstlern war Janoschs Vorbild Paul Klee, mit dem ihn die Vorliebe für reine, klare Grundfarben verbindet.“[5]",
+              "[2] Auf dem Skateboard ist Ahlff ein wahrer Künstler.",
+              "[1] „Nicht nur Literaten, auch bildende Künstler stellten sich begeistert in den Dienst der kolonialen Sache.“[2]"
+            ],
+            "description": "[1] <strong>Architekt, Artist, Bildhauer, Dichter, Fotograf, Grafiker, Komiker, Komponist, Maler, Mangaka, Musiker, Sänger, Schauspieler, Schriftsteller, Tänzer, Zauberer, Zeichner</strong> · [1] Aktionskünstler, Drahtseilkünstler, Filmkünstler, ..."
+          },
+          "ifdbonxl": {
+            "url": "https://www.dwds.de/wb/K%C3%BCnstler",
+            "date": null,
+            "rank": 4,
+            "title": "Künstler – Schreibung, Definition, Bedeutung, Etymologie, Synonyme, Beispiele | DWDS",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/mncHufKv-7iJDxLQBWznTrnf-WwHvG3J6TQ2QM7Zrcs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODQ5ZGIyNTgw/YjM1Mzg3N2ZmM2Ez/OTMzYWU2NTUzMTE4/ODI1NGJmYmYxMjMx/ZjQ2ZDY4NmNiMzg3/MDc1YTI0ZC93d3cu/ZHdkcy5kZS8",
+              "thumbnail": "https://www.dwds.de/dwds_static/images/dwds-og.png"
+            },
+            "snippets": [
+              "Künstler – Schreibung, Definition, Bedeutung, Etymologie, Synonyme, Beispiele | DWDS",
+              "Künstler – Schreibung, Definition, Bedeutung, Etymologie, Synonyme, Beispiele | DWDS",
+              "Tatsächlich fand sich ein Künstler, aber zehn Tage vor dem Konzert erkrankte der an Hepatitis.",
+              "Wortbildung mit ›Künstler‹ als Erstglied: Künstleragentur … 71 weitere · Künstlerallüre · Künstleranekdote · Künstleratelier · Künstlerauge · Künstlerberuf · Künstlerblut · Künstlerbuch · Künstlerbund · Künstlerdasein · Künstlerdorf ·",
+              "Künstlerduo · Künstlereigenheit · Künstlereingang · Künstlereitelkeit · Künstlerensemble · Künstlerfamilie · Künstlerfarbe · Künstlerfest · Künstlerfreund · Künstlergage · Künstlergeneration · Künstlergeschichte · Künstlergruppe · Künstlerhand ·"
+            ],
+            "description": "Künstler – Schreibung, Definition, Bedeutung, Etymologie, Synonyme, Beispiele | DWDS"
+          },
+          "jdixjtmq": {
+            "url": "https://spiraltrax.bandcamp.com/album/sixsense-layers-of-art-easediv003-ease-division",
+            "date": null,
+            "rank": 6,
+            "title": "Sixsense - Layers Of Art (EASEDIV003 - Ease Division), by Spiral Trax",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/qfRB4NmHJnyvFDwxvtl7vJglgluQ77SgxGp9NKhH6LE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzVjMGJlNGZj/MzhiMGRhYTZlN2Fk/NTRlZTg3NjhhOTMz/MDIxNzIwOGY3ZjVl/YTZkM2VkYTQwYjIx/OTMyOGUxNS9zcGly/YWx0cmF4LmJhbmRj/YW1wLmNvbS8",
+              "thumbnail": "https://f4.bcbits.com/img/a3998738404_10.jpg"
+            },
+            "snippets": [
+              "<strong>Ben</strong> has continuously produced music since 1996 under the titles Sixsense and Synchromatrix and has released many albums, EPs collaborations, and remixes over the years on leading electronic dance music labels around the world.",
+              "Sixsense - Layers Of Art (EASEDIV003 - Ease Division) by Spiral Trax, released 28 August 2020 1. Roots Of Heaven 2. Final Way 3. Zero Point 4. Koko Echo 5. Low My Mind 6. Silent Desert 7. I Want U 8. Layers Of Art 9. Morning Flash (Ambient Version) 10. Shanti Bunti Sixsense - Layers Of Art (EASEDIV003 - Ease Division) 01 - Sixsense - Roots Of Heaven 02 - Sixsense - Final Way 03 - Sixsense - Zero Point 04 - Sixsense - Koko Echo 05 - Sixsense - Low My Mind 06 - Sixsense - Silent Desert 07 - Sixsense - I Want U 08 - Sixsense - Layers Of Art 09 - Sixsense, Rammix - Morning Flash (Ambient Version) 10 - Sixsense, Rammix - Shanti Bunti Sixsense is back with an awesome album called 'Layers Of Art'!",
+              "Ben has continuously produced music since 1996 under the titles Sixsense and Synchromatrix and has released many albums, EPs collaborations, and remixes over the years on leading electronic dance music labels around the world.",
+              "www.facebook.com/SixsenseMusic/ soundcloud.com/sixsense Spiral Trax Records bit.ly/Facebook_SpiralTrax bit.ly/Souncloud_SpiralTrax bit.ly/Twitter_SpiralTrax bit.ly/Instagram_SpiralTrax bit.ly/YouTube_SpiralTrax bit.ly/BandCamp_SpiralTrax bit.ly/Beatport_SpiralTrax bit.ly/Psyshop_SpiralTrax spoti.fi/Spotify_SpiralTrax bit.ly/Deezer_SpiralTrax pdora.co/Pandora_SpiralTrax 2020 © Spiral Trax Records – SPIT159",
+              "10 track album"
+            ],
+            "description": "<strong>Ben</strong> has continuously produced music since 1996 under the titles Sixsense and Synchromatrix and has released many albums, EPs collaborations, and remixes over the years on leading electronic dance music labels around the world."
+          },
+          "kehecant": {
+            "url": "https://synonyme.woxikon.de/synonyme/k%C3%BCnstlername.php",
+            "date": null,
+            "rank": 5,
+            "title": "ᐅ Künstlername Synonym | Alle Synonyme - Bedeutungen - Ähnliche Wörter",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/83GXVRIlq17DtigPcvLl6vfXr1jHyWKcd9OlZGpGukw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2NiZDdjMDhl/ODgyMDc2MTNmM2M1/ODY3OTU4NzkzMDc2/MDk5MTM5YTk5Y2I3/ZGEwOGJhMGEwMjY1/NzAzYzNlNC9zeW5v/bnltZS53b3hpa29u/LmRlLw",
+              "thumbnail": null
+            },
+            "snippets": [
+              "Synonyme für &quot;Künstlername&quot; ▶ 18 gefundene Synonyme ✓ 3 verschiedene Bedeutungen für Künstlername ✓ Ähnliches &amp; anderes Wort für Künstlername ✓",
+              "In der rechten Sidebar finden Sie für Künstlername eine rote Flagge. In dem Menü können Sie für Künstlername neue Vorschläge hinzufügen, nicht passende Synonyme für Künstlername melden oder fehlerhafte Schreibweisen überarbeiten.",
+              "Wir haben 18 Synonyme für Wort. Die korrekte Schreibweise ist Künst·ler·na·me. Außerdem findest du Wörter die Vor und Nach Künstlername stehen, Zeitformen und verschiedene Bedeutungen. ... © 2026 woxikon.de · Impressum · Mediadaten · Rätseltipps · Datenschutzerklärung · Datenschutzeinstellungen · » ᐅ Künstlername Synonym | Alle Synonyme - Bedeutungen - Ähnliche Wörter"
+            ],
+            "description": "Synonyme für &quot;Künstlername&quot; ▶ 18 gefundene Synonyme ✓ 3 verschiedene Bedeutungen für Künstlername ✓ Ähnliches &amp; anderes Wort für Künstlername ✓"
+          },
+          "nfivzoua": {
+            "url": "https://music.apple.com/us/artist/sixsense/251648024",
+            "date": null,
+            "rank": 1,
+            "title": "Sixsense on Apple Music",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/p3JE1nro9YK6YhvfL9A_3it2bPRG2ORglpB42e-1mSs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTNkNjhlY2Nk/MjdmYzU4MTc4OTg4/OTQ3NzIxMTVlMjQ1/ODMzZWQzZjY2ZWNk/OThjMDBmN2VjNzU3/NTRmYWVmZS9tdXNp/Yy5hcHBsZS5jb20v",
+              "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music/c9/90/d8/mzi.doahwthd.jpg/486x486bb.png"
+            },
+            "snippets": [
+              "Listen to music by Sixsense on Apple Music. Find top songs and albums by Sixsense including Creative Strangers, Night Shadow and more.",
+              "Goa Noise (feat. Sixsense) - Single"
+            ],
+            "description": "Listen to music by Sixsense on Apple Music. Find top songs and albums by Sixsense including Creative Strangers, Night Shadow and more."
+          },
+          "rjudekmw": {
+            "url": "https://anderes-wort-fuer.de/K%C3%BCnstler/",
+            "date": null,
+            "rank": 3,
+            "title": "KÜNSTLER Synonym-Lexikothek • ein anderes Wort für Künstler",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/iIdPzVDZBFygtWj9qxddFzakCp7DwAYwujf5Kma2Rs8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjNiZWViNTIx/YWRkN2JhMmIzZjc2/NmU0ZDE1ZGRjZWEx/M2M4YmEwMTQwMjhj/ZDllODM0ZWJmOWRl/MzhjYmNjZC9hbmRl/cmVzLXdvcnQtZnVl/ci5kZS8",
+              "thumbnail": null
+            },
+            "snippets": [
+              "Hier findest Du Wörter mit einer ähnlichen Bedeutung wie Künstler. Mit Hilfe eines strukturalen Wort-Analyse-Algorithmus durchsucht unsere Suchfunktion das · Synonym-Lexikon nach der Wortfamilie oder Wörtern im Umfeld von Künstler. Wörter mit einem ähnlichen Wortstamm wie Künstler werden gruppiert angezeigt, Wörter mit der größten Trefferrelevanz werden weiter oben gelistet.",
+              "Hier findest Du Wörter mit einer ähnlichen Bedeutung wie Künstler. Mit Hilfe eines strukturalen Wort-Analyse-Algorithmus durchsucht unsere Suchfunktion das · Synonym-Lexikon nach der Wortfamilie oder Wörtern im Umfeld von Künstler. Wörter mit einem ähnlichen Wortstamm wie Künstler werden gruppiert angezeigt, Wörter mit der größten Trefferrelevanz werden weiter oben gelistet.",
+              "Weiterführende Informationen zur semantischen Wortherkunft und Rechtschreibung von Künstler werden bereitgestellt vom Wörterbuch www.wortwurzel.de, dem kostenlosen Nachschlagewerk für Wortbedeutungen."
+            ],
+            "description": "Hier findest Du Wörter mit einer ähnlichen Bedeutung wie Künstler. Mit Hilfe eines strukturalen Wort-Analyse-Algorithmus durchsucht unsere Suchfunktion das · Synonym-Lexikon nach der Wortfamilie oder Wörtern im Umfeld von Künstler. Wörter mit einem ähnlichen Wortstamm wie Künstler werden gruppiert angezeigt, Wörter mit der größten Trefferrelevanz werden weiter oben gelistet."
+          },
+          "svasjnin": {
+            "url": "https://sixsensemusic.bandcamp.com/",
+            "date": null,
+            "rank": 7,
+            "title": "Music | Sixsense Music",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/EcG-5ANLuJoJe1K23I0XPRz5Kl9CItTXvcvgiM26Fiw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTgwYzc2N2U0/MjBjMjdjYjc2ZjQ2/ZjZlNmFmM2E0MjIw/NjViYWJlNWIxOTE4/ODY5MDk4ZWQzZmIx/Nzg1NzI1Zi9zaXhz/ZW5zZW11c2ljLmJh/bmRjYW1wLmNvbS8",
+              "thumbnail": "https://f4.bcbits.com/img/0031966349_23.jpg"
+            },
+            "snippets": [
+              "Back To The Sound Of The Underground SilentBreakers, Sixsense, DoctorSpook",
+              "Sixsense & SilentBreakers - Mythical Phenomenon (Remixes Album) (​​sixsense0106 - Sixsense Music)",
+              "Silentbreakers - Psychedelic Alice LP (​​sixsense0105 - Sixsense Music)",
+              "SilentBreakers, DoctorSpook - This Is Drugs (​​sixsense0108 - Sixsense Music)",
+              "Back To The Sound Of The Underground SilentBreakers, Sixsense, DoctorSpook"
+            ],
+            "description": "Back To The Sound Of The Underground SilentBreakers, Sixsense, DoctorSpook"
+          },
+          "xcfkywgu": {
+            "url": "https://synonyme.woxikon.de/synonyme/k%C3%BCnstlergruppe.php",
+            "date": null,
+            "rank": 9,
+            "title": "ᐅ Künstlergruppe Synonym | Alle Synonyme - Bedeutungen - Ähnliche Wörter",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/83GXVRIlq17DtigPcvLl6vfXr1jHyWKcd9OlZGpGukw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2NiZDdjMDhl/ODgyMDc2MTNmM2M1/ODY3OTU4NzkzMDc2/MDk5MTM5YTk5Y2I3/ZGEwOGJhMGEwMjY1/NzAzYzNlNC9zeW5v/bnltZS53b3hpa29u/LmRlLw",
+              "thumbnail": null
+            },
+            "snippets": [
+              "Bund Bündnis Ring Kette Abhandlung Leine Verständigung Gürtel Hindernis Faden Seil Verbundenheit Künstlergruppe Joch Riemen Schnur Koppel Zusammengehörigkeit Fibel Band Besatz Strick Buch Schinken",
+              "In der rechten Sidebar finden Sie für Künstlergruppe eine rote Flagge. In dem Menü können Sie für Künstlergruppe neue Vorschläge hinzufügen, nicht passende Synonyme für Künstlergruppe melden oder fehlerhafte Schreibweisen überarbeiten.",
+              "Wir haben 106 Synonyme für Wort. Die korrekte Schreibweise ist Künst·ler·grup·pe. Außerdem findest du Wörter die Vor und Nach Künstlergruppe stehen, Zeitformen und verschiedene Bedeutungen. ... © 2026 woxikon.de · Impressum · Mediadaten · Rätseltipps · Datenschutzerklärung · Datenschutzeinstellungen · » ᐅ Künstlergruppe Synonym | Alle Synonyme - Bedeutungen - Ähnliche Wörter",
+              "Bund Bündnis Ring Kette Abhandlung Leine Verständigung Gürtel Hindernis Faden Seil Verbundenheit Künstlergruppe Joch Riemen Schnur Koppel Zusammengehörigkeit Fibel Band Besatz Strick Buch Schinken"
+            ],
+            "description": "Bund Bündnis Ring Kette Abhandlung Leine Verständigung Gürtel Hindernis Faden Seil Verbundenheit Künstlergruppe Joch Riemen Schnur Koppel Zusammengehörigkeit Fibel Band Besatz Strick Buch Schinken"
+          },
+          "xkwyqcmx": {
+            "url": "https://www.discogs.com/artist/185988-Sixsense",
+            "date": null,
+            "rank": 0,
+            "title": "Sixsense Discography: Vinyl, CDs, & More | Discogs",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/USTQrTn-C11KzCbr2q7U7YxwHG_c5FG7zCgiaydVw4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmM4NWVkYzdh/ODRiZGUzODU4MjA3/ZjljOTg4N2Q5Zjk4/NDIzMWFiYWM1YmFh/NmQ1MGU0ZjgzOWUx/ZDZiMzJiZS93d3cu/ZGlzY29ncy5jb20v",
+              "thumbnail": "https://i.discogs.com/iM5Ffdb5eLy1-IbyYLH0WzJIwljjM--7_RmQzgdPf5I/rs:fit/g:sm/q:90/h:267/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE4NTk4/OC0xMjcwOTc4OTc4/LmpwZWc.jpeg"
+            },
+            "snippets": [
+              "Explore Sixsense&#x27;s biography, discography, and artist credits. Shop rare vinyl records, top albums, and more on Discogs.",
+              "Explore the discography of Sixsense. Shop for vinyl, CDs, and more from Sixsense on Discogs."
+            ],
+            "description": "Explore Sixsense&#x27;s biography, discography, and artist credits. Shop rare vinyl records, top albums, and more on Discogs."
+          }
+        },
+        "isInterrupted": false,
+        "publicArguments": "Künstler hinter dem Synonym SIXSENSE",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Hinter dem Synonym **SIXSENSE** steckt der Künstler **Ben**, der seit 1996 unter diesem und dem Namen **Synchromatrix** Musik produziert",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "jdixjtmq"
+        ]
+      },
+      {
+        "text": ".",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-07-19T09:15:08.040Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "d4a84572-b962-4f41-898c-5a72dea3885f",
+    "version": 0,
+    "chatId": "77df394b-a9cd-45f3-a0b9-f5daf12c5a53",
+    "content": "Hinter dem Synonym **SIXSENSE** steht der Künstler **Ben**, der seit 1996 unter diesem Pseudonym (sowie auch als **Synchromatrix**) Musik produziert und zahlreiche Alben, EPs und Kollaborationen veröffentlicht hat.",
+    "contentChunks": [
+      {
+        "id": "m4iW9dRip",
+        "name": "open_url",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1784452535032,
+        "success": true,
+        "toolType": "raw",
+        "startTime": 1784452534740,
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "ar": "البحث على الويب",
+            "de": "Websuche",
+            "en": "Web Search",
+            "es": "Búsqueda web",
+            "fr": "Recherche Web",
+            "it": "Ricerca web",
+            "nl": "Webzoeken",
+            "pl": "Wyszukiwanie w sieci",
+            "pt-BR": "Pesquisa na web"
+          }
+        },
+        "customLocale": {
+          "done_description": {
+            "en": "open_url"
+          },
+          "working_description": {
+            "en": "open_url"
+          }
+        },
+        "publicResult": "Error executing tool open_url: Client failed to connect: All connection attempts failed",
+        "isInterrupted": false,
+        "publicArguments": null,
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Hinter dem Synonym **SIXSENSE** steht der Künstler **Ben**, der seit 1996 unter diesem Pseudonym (sowie auch als **Synchromatrix**) Musik produziert und zahlreiche Alben, EPs und Kollaborationen veröffentlicht hat",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "jdixjtmq"
+        ]
+      },
+      {
+        "text": ".",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-07-19T09:15:32.145Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  }
+]

@@ -1,0 +1,469 @@
+[
+  {
+    "id": "c60bfe74-ee4f-41ed-9b60-e7822dd086e4",
+    "version": 0,
+    "chatId": "2a4cbe96-59e0-4d51-825d-b0f0c764fd2d",
+    "content": "darf ein betriebsrat eine Betriebsversammlung remote, Hybrid oder nur in Präsenz abhalten ?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-08-25T10:09:17.758Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "7a06d283-73b5-4323-b50f-9dffc5b38812",
+    "version": 0,
+    "chatId": "2a4cbe96-59e0-4d51-825d-b0f0c764fd2d",
+    "content": "Aktuell (Stand August 2026) dürfen Betriebsversammlungen **grundsätzlich nur noch in Präsenz** abgehalten werden. Die während der Corona-Pandemie geltende Sonderregelung in § 129 BetrVG, die auch digitale oder hybride Betriebsversammlungen ermöglichte, wurde nicht verlängert und ist seit dem 7. April 2023 außer Kraft. Seitdem gilt wieder: Die Teilnahme an einer Betriebsversammlung muss gemäß § 42 Abs. 1 BetrVG ausschließlich in Präsenz erfolgen. Hybrid- oder reine Online-Formate sind derzeit nicht mehr zulässig, es sei denn, es gibt neue gesetzliche Änderungen, die dies wieder ermöglichen würden.\n\nZusammengefasst:\n- **Präsenz:** Erlaubt und aktuell die einzige rechtlich sichere Form.\n- **Hybrid oder remote:** Derzeit nicht zulässig, sofern keine neue gesetzliche Regelung vorliegt.\n\nFalls sich die Rechtslage kürzlich geändert haben sollte, wäre eine aktuelle Überprüfung der Gesetzestexte oder eine Rücksprache mit einem Fachanwalt für Arbeitsrecht ratsam. Möchten Sie wissen, ob es aktuell neue Gesetzentwürfe oder Diskussionen zu diesem Thema gibt?",
+    "contentChunks": [
+      {
+        "id": "jmKuKmc0f",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1787652561522,
+        "success": true,
+        "toolType": "rag",
+        "startTime": 1787652559661,
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "ar": "البحث على الويب",
+            "de": "Websuche",
+            "en": "Web Search",
+            "es": "Búsqueda web",
+            "fr": "Recherche Web",
+            "it": "Ricerca web",
+            "nl": "Webzoeken",
+            "pl": "Wyszukiwanie w sieci",
+            "pt-BR": "Pesquisa na web"
+          }
+        },
+        "customLocale": {
+          "done_description": {
+            "en": "web_search"
+          },
+          "working_description": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "2jQ1wu8c": {
+            "url": "https://www.betriebsrat.de/news/betriebsversammlung/digitale-betriebsversammlung-geht-das-noch-36283",
+            "date": null,
+            "rank": 1,
+            "title": "Digitale Betriebsversammlung – geht das noch? | Was Betriebsräte jetzt zum Thema Hybrid- oder Online-Betriebsversammlung wissen müssen",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/rMs3GId5AipyzDHKPG7arWirIL-_W7VeAdyGtdXEcZ8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzcxOGI0Zjhl/OGFlMzVmZWUyM2Y1/MDM3OTcwNGE2N2Rl/NzVlNWVmYmQ5ZTU4/M2U2ZWJhOWRhZjc1/ZGFlNTg2YS93d3cu/YmV0cmllYnNyYXQu/ZGUv",
+              "thumbnail": "https://www.betriebsrat.de/static/ifb-preview.png"
+            },
+            "snippets": [
+              "April 2023 ist Schluss mit der Möglichkeit für Betriebsräte, digitale oder hybride Betriebsversammlungen durchzuführen. Denn <strong>die Regelung in § 129 BetrVG wurde nicht verlängert (Stand: 26.09.2023).</strong> Auch Online-Einigungsstellen sind nicht ...",
+              "Betriebsversammlung in Corona-Zeiten: Als Betriebsrat stehen Sie hier vor vielen Fragen: Hybrid oder Online-Betriebsversammlung? Was regelt § 129 BetrVG?",
+              "Während wir in Präsenzveranstaltungen maximal drei Wortmeldungen hatten, haben wir digital weit über 80 Fragen bekommen.“ Ganz davon abgesehen, gilt es für den Betriebsrat von Isabellenhütte Heusler, sich schon bald nach geeigneten Räumlichkeiten umzusehen, wie Kim Jeanny Diehl bestätigt: „Aufgrund unseres Wachstums haben wir mittlerweile auf dem Betriebsgelände gar keine Möglichkeit mehr, so viele Mitarbeiter in Präsenz unterzubekommen. Ausreichend große Hallen in der Umgebung sind leider auch rar. Wir wissen also zum jetzigen Zeitpunkt nicht, welche Örtlichkeit wir ab Sommer nutzen können.“ Noch haben sie die leise Hoffnung, dass der Gesetzgeber in Sachen digitale Betriebsversammlung nochmals umdenken könnte – quasi die Rolle rückwärts machen. Oder zumindest hybride Versammlungen zulässt, das würde laut Kim Jeanny Diehl schon helfen.",
+              "Warum gibt es dann eigentlich keine hybriden Betriebsversammlungen mehr? Die Vorteile liegen auf der Hand: Online lässt ein Teil der Belegschaft besser erreichen. Die Beteiligung ist einfach größer, insbesondere bei Schichtsystemen. Und nicht immer gibt es für Präsenzveranstaltungen einen gut erreichbaren Raum, der groß genug ist.",
+              "Nicht zu vergessen, dass es in hybriden Veranstaltungen oftmals deutlich mehr Wortmeldungen gibt – per Chat und mit der Möglichkeit der Anonymität fällt das offensichtlich leichter. Die Umstellung von Präsenz auf (auch) virtuelle Veranstaltungen brachte im Ergebnis deutliche Verbesserungen mit sich. Die Digitalisierung stockt also mal wieder bei den Betriebsräten – leider. Am Ende zählt aber nicht (nur) die Frage, ob eine Betriebsversammlung vor Ort stattfindet oder nicht, „sondern wie interessant und professionell die Betriebsversammlung und die Öffentlichkeitsarbeit des Betriebsrats ist“. Ein schwacher Trost – aber auch da ist etwas Wahres dran!"
+            ],
+            "description": "April 2023 ist Schluss mit der Möglichkeit für Betriebsräte, digitale oder hybride Betriebsversammlungen durchzuführen. Denn <strong>die Regelung in § 129 BetrVG wurde nicht verlängert (Stand: 26.09.2023).</strong> Auch Online-Einigungsstellen sind nicht ..."
+          },
+          "7oM8ti6k": {
+            "url": "https://www.betriebsrat.de/news/betriebsratssitzung/digitale-sitzungen-des-betriebsrats-das-sind-die-voraussetzungen-19700",
+            "date": null,
+            "rank": 4,
+            "title": "ifb | Voraussetzungen für digitale Sitzungen des Betriebsrats",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/rMs3GId5AipyzDHKPG7arWirIL-_W7VeAdyGtdXEcZ8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzcxOGI0Zjhl/OGFlMzVmZWUyM2Y1/MDM3OTcwNGE2N2Rl/NzVlNWVmYmQ5ZTU4/M2U2ZWJhOWRhZjc1/ZGFlNTg2YS93d3cu/YmV0cmllYnNyYXQu/ZGUv",
+              "thumbnail": "https://www.betriebsrat.de/static/ifb-preview.png"
+            },
+            "snippets": [
+              "Das bedeutet: Laut § 30 Abs. 2 BetrVG bleibt die Präsenzsitzung damit der Regelfall. Die Regelung gilt auch für GBR/ KBR. <strong>Die Regelungen der Geschäftsordnung sind die Grundlage</strong>!",
+              "Ein großer Schritt in die digitale Welt für Betriebsräte: Virtuelle Betriebsratssitzungen sind dauerhaft möglich! § 30 Abs. 2 BetrVG sieht die Möglichkeit vor.",
+              "Das bedeutet: Laut § 30 Abs. 2 BetrVG bleibt die Präsenzsitzung damit der Regelfall. Die Regelung gilt auch für GBR/ KBR. Die Regelungen der Geschäftsordnung sind die Grundlage!",
+              "die Voraussetzungen für eine solche Teilnahme in der Geschäftsordnung unter Sicherung des Vorrangs der Präsenzsitzung festgelegt sind,"
+            ],
+            "description": "Das bedeutet: Laut § 30 Abs. 2 BetrVG bleibt die Präsenzsitzung damit der Regelfall. Die Regelung gilt auch für GBR/ KBR. <strong>Die Regelungen der Geschäftsordnung sind die Grundlage</strong>!"
+          },
+          "VsdM73zh": {
+            "url": "https://www.lto.de/recht/hintergruende/h/betriebsraete-digitalisierung-hybrid-betriebsratswahlen-anhoerung-reform-betrvg",
+            "date": null,
+            "rank": 7,
+            "title": "Betriebsräte: BetrVG muss digitaler werden",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/TAtuWYykTbNGoI1ycib8tMWsPVCE0ICeWwJQpf33oBU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDgzMzI3Zjg4/YmYwZGMyZDE3NjEy/NGEyNzI1MDhhNTI0/YmI3Y2Q1MWNkY2Nk/NTE4ZmNhNzY4NTY4/MWIxMTI1Yi93d3cu/bHRvLmRlLw",
+              "thumbnail": "https://www.lto.de/fileadmin/_processed_/e/4/csm_AdobeStock_599206620_72aadc992e.jpeg"
+            },
+            "snippets": [
+              "Juni 2021 in Kraft getreten ist, zurückzuführen. So findet beispielsweise die Betriebsratssitzung zwar grundsätzlich und vorrangig in <strong>Präsenz</strong> statt – unter den wiederum förmlichen Voraussetzungen des § 30 Abs.",
+              "Das Betriebsverfassungsgesetz (BetrVG), eine Dampfmaschine in der Ära der Digitalisierung, stößt bei der Anpassung an die Anforderungen moderner, digitaler Betriebsratsarbeit zunehmend an seine Grenzen. Ein zentrales Problem ist die Notwendigkeit physischer Präsenz und einer schriftlichen Form für bestimmte Prozesse. Das BetrVG verlangt oft eine physische Anwesenheit, was mit den Möglichkeiten der digitalen Kommunikation in Konflikt steht. Dies betrifft zum Beispiel die Abhaltung von Betriebsversammlungen und Betriebsratssitzungen oder die Beschlussfassung in Einigungsstellen.",
+              "Diese sind vornehmlich auf das Betriebsrätemodernisierungsgesetz, welches am 18. Juni 2021 in Kraft getreten ist, zurückzuführen. So findet beispielsweise die Betriebsratssitzung zwar grundsätzlich und vorrangig in Präsenz statt – unter den wiederum förmlichen Voraussetzungen des § 30 Abs.",
+              "Eine ähnliche Skepsis herrscht gegenüber den Online-Wahlen: Diese sollen aus Sicht des Deutschen Gewerkschaftsbundes (DGB) immer nur als \"dritte Option\" neben Wahlen in Präsenz und der Briefwahl ermöglicht werden. Es bleibt also abzuwarten, in welche Richtung sich diese Diskussion entwickeln wird und ob der Antrag Umsetzungschancen hat. ... Eine weitere Digitalisierung im BetrVG ist unumgänglich, um den Anforderungen der heutigen Arbeitswelt gerecht zu werden, insbesondere aber, um die Betriebsratsarbeit auf dasselbe digital-dynamische Niveau zu heben, mit dem Arbeitgeber bereits heute arbeiten und das im Sinne von Unternehmen und Belegschaft insgesamt ist.",
+              "Anhörung zu Digitalisierung im BetrVG: . In: Legal Tribune Online, 22.12.2023 , https://www.lto.de/persistent/a_id/53484 (abgerufen am: 02.07.2026 ) Kopieren Infos zum Zitiervorschlag"
+            ],
+            "description": "Juni 2021 in Kraft getreten ist, zurückzuführen. So findet beispielsweise die Betriebsratssitzung zwar grundsätzlich und vorrangig in <strong>Präsenz</strong> statt – unter den wiederum förmlichen Voraussetzungen des § 30 Abs."
+          },
+          "biRCCguf": {
+            "url": "https://kuettner-rechtsanwaelte.de/blog/die-virtuelle-betriebsversammlung-zulaessigkeit-und-grenzen",
+            "date": null,
+            "rank": 0,
+            "title": "Die virtuelle Betriebsversammlung – Zulässigkeit und Grenzen",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/wPakTAMwli-k824twsFrooIjGuWPll5UNuBLCzkqYTg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjliYjA1YWNl/MTk4MDdhZGQwY2I2/NTUxNzZlOGI4ZjU4/NGQwNjEwYTgyZDNi/NTU0MzdlZmNmYjAw/ZTc0YTQxZi9rdWV0/dG5lci1yZWNodHNh/bndhZWx0ZS5kZS8",
+              "thumbnail": "https://kuettner-rechtsanwaelte.de/images/easyblog_articles/185/b2ap3_large_digital.jpg"
+            },
+            "snippets": [
+              "Bei der Bewertung der Zulässigkeit muss zwischen der Durchführung einer ausschließlich digitalen Betriebsversammlung (II.) sowie einer in Präsenz stattfindenden Versammlung, welche nur gestreamt (III.) oder sogar aufgezeichnet (IV.) und anschließend veröffentlicht wird (V.) unterschieden werden.",
+              "Auch vor dem Betriebsverfassungsrecht macht die Digitalisierung keinen Halt und regt an, über Alternativen zur klassischen Betriebsversammlung in Präsenz nachzudenken. Die Frage danach, ob man die in Präsenz stattfindende Betriebsversammlung in eine auf unser digitales Zeitalter angepasste Art und Weise durchführt, tritt in den letzten Jahren verme...",
+              "Für die Praxis bedeutet dies, dass die Durchführung der virtuellen Betriebsversammlung die Hürde mit sich bringt, dass Datenschutz und Persönlichkeitsrechte gewahrt werden müssen. Zudem darf die technische Umsetzbarkeit eines Hybrid-Modells nicht darüber hinwegtäuschen, dass die Nichtöffentlichkeit nach wie vor gesichert werden muss. Bei Streaming und Aufzeichnung muss die rechtliche Durchführung nach den oben genannten Maßgaben abgesichert werden, um Risiken vorzubeugen. ... Freitag, 17. Juli 2026 Sprache im Betriebsverfassungsrecht: Worauf Arbeitgeber achten müssen",
+              "Die Frage danach, ob man die in Präsenz stattfindende Betriebsversammlung in eine auf unser digitales Zeitalter angepasste Art und Weise durchführt, tritt in den letzten Jahren vermehrt auf. In einer digitalen Arbeitswelt liegen die Vorteile einer virtuellen Betriebsversammlung für Arbeitgeber und Betriebsräte auf der Hand.",
+              "Bei der Bewertung der Zulässigkeit muss zwischen der Durchführung einer ausschließlich digitalen Betriebsversammlung (II.) sowie einer in Präsenz stattfindenden Versammlung, welche nur gestreamt (III.) oder sogar aufgezeichnet (IV.) und anschließend veröffentlicht wird (V.) unterschieden werden."
+            ],
+            "description": "Bei der Bewertung der Zulässigkeit muss zwischen der Durchführung einer ausschließlich digitalen Betriebsversammlung (II.) sowie einer in Präsenz stattfindenden Versammlung, welche nur gestreamt (III.) oder sogar aufgezeichnet (IV.) und anschließend veröffentlicht wird (V.) unterschieden werden."
+          },
+          "dMWk4wLZ": {
+            "url": "https://forum.betriebsrat.de/thread/36124-betriebsversammlung-in-pr%C3%A4senz-online-oder-hybrid/",
+            "date": null,
+            "rank": 2,
+            "title": "Betriebsversammlung in Präsenz, online oder hybrid - Allgemeine Themen - Forum für Betriebsräte",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/NqrROzL4KzuSUYO_vrOtrnu5DprT_boehqQwQJSPP3c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWNhYjk1NWVk/MDhlMTQxYWE1MzVk/NWYzMmMxMWU4MDhm/YzY5ODJlZGNiNjhm/MDIyMmNiMDU1YTEw/YTQ5ZGRjOC9mb3J1/bS5iZXRyaWVic3Jh/dC5kZS8",
+              "thumbnail": null
+            },
+            "snippets": [
+              "Daher ist es uns leider nicht mehr gestattet, eine Online-Teilnahme an der Betriebsversammlung anzubieten. <strong>Die Teilnahme muss gemäß den aktuellen gesetzlichen Vorgaben des § 42 Abs. 1 BetrVG wieder ausschließlich in Präsenz erfolgen</strong>.",
+              "Die Präsenzveranstaltung ist neben der reinen Betriebsversammlung zu einem \"Treffpunkt\" geworden, bei dem man auch mal wieder Kollegen/-innen sieht und ins Gespräch kommt, die man sonst nicht so trifft. Ein Vorteil, den auch unsere Geschäftsleitung mittlerweile erkannt hat. Die weiteren digital, weil es bei unserer dezentralen Aufstellung schlicht und einfach effektiver ist und man so Teile der Belegschaft erreicht, die normal nicht zu Präsenzveranstaltungen kommen. Ich weiß, rechtlich nicht in Ordnung, aber die Realität zeigt, dass es hervorragend funktioniert und von allen Beteiligten (MA/BR/AG) positiv gesehen wird.",
+              "Daher ist es uns leider nicht mehr gestattet, eine Online-Teilnahme an der Betriebsversammlung anzubieten. Die Teilnahme muss gemäß den aktuellen gesetzlichen Vorgaben des § 42 Abs. 1 BetrVG wieder ausschließlich in Präsenz erfolgen.",
+              "Wir machen die Betriebsversammlung in Präsenz um dem Gesetz nachzukommen und dann machen wir am nächsten Tag eine \"Infoveranstaltung\" mit dem gleichen Inhalt online um den Mitarbeiterwünschen nachzukommen.",
+              "Dabei ist aufgrund der Besonderheiten des Betriebs (viele nicht-deutschsprachige MA, \"Hauptsprache\" Englisch) die Betriebsversammlung auf Deutsch und die Infoveranstaltung auf Englisch. ... Wir machen sie auch nur in Präsenz."
+            ],
+            "description": "Daher ist es uns leider nicht mehr gestattet, eine Online-Teilnahme an der Betriebsversammlung anzubieten. <strong>Die Teilnahme muss gemäß den aktuellen gesetzlichen Vorgaben des § 42 Abs. 1 BetrVG wieder ausschließlich in Präsenz erfolgen</strong>."
+          },
+          "lxc9slDj": {
+            "url": "https://aur-blog.eu/virtuelle-betriebsversammlung/",
+            "date": null,
+            "rank": 9,
+            "title": "Virtuelle Betriebsversammlung – Verschiedene Meinungen und alle haben sie Recht - Virtuelle Betriebsversammlung – Verschiedene Meinungen und alle haben sie Recht AuR-Blog",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/9lDmtjMoUNIOJYBdvyKmKPzffEQiKAYqZmDSlJICODE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjljNzBhM2Zk/NzFmN2I2NDc4M2Qy/NTE4NDVmOTNiMDRk/MzllNzY5YjAzNTNk/ODQ5MmNhOGY2ODdl/ZWZhNTAzOC9hdXIt/YmxvZy5ldS8",
+              "thumbnail": "https://aur-blog.eu/wp-content/uploads/2023/03/video-conference-g9960b069b_1920.jpg"
+            },
+            "snippets": [
+              "<strong>3 BetrVG, der den entsprechenden Vorschlag regelt, macht zunächst eine hybride Teilnahme an Betriebsversammlungen dauerhaft möglich</strong>. Auf der anderen Seite schützt er aber auch die Präsenzversammlung, indem zwei derartige Versammlungen im ...",
+              "Es sollte den BR-Gremien überlassen sein, die Form der Betriebsversammlungen (Präsenz, hybrid oder virtuell) nach den Anforderungen ihrer Betriebe selbst festzulegen. Antworten · Heike Anscheit am 23. Mai 2023 um 13:47 · Hier sollte es keine Vorgaben geben. Jeder Betriebsrat kennt seinen Betrieb und weiß, wann er welche Form wählt.",
+              "3 BetrVG, der den entsprechenden Vorschlag regelt, macht zunächst eine hybride Teilnahme an Betriebsversammlungen dauerhaft möglich. Auf der anderen Seite schützt er aber auch die Präsenzversammlung, indem zwei derartige Versammlungen im Jahr vorgeschrieben bleiben. Zentral ist, dass die Entscheidung über die Form der Teilnahme nicht der Arbeitgeber fällt, sondern immer nur der Betriebsrat bzw.",
+              "Die erste Geschichte – nennen wir sie Skylla – warnt davor, dass sich eine Betriebsversammlung in Präsenz vor allem durch einen großen organisatorischen Aufwand auszeichnen würden. Dieser habe aufgrund mangelnder Beteiligung und fehlender Diskussionskultur zudem keinen entsprechenden Nutzen zur Folge.",
+              "Eine Betriebsversammlung in Präsenz kann dagegen – auch aufgrund der teilweise aufwendigen Vorbereitungen und des Ruhens der Arbeit während der Versammlung – eine Demonstration der Solidarität sein. Der Arbeitgeber erlebe ggf. den Unmut der versammelten Belegschaft hautnah."
+            ],
+            "description": "<strong>3 BetrVG, der den entsprechenden Vorschlag regelt, macht zunächst eine hybride Teilnahme an Betriebsversammlungen dauerhaft möglich</strong>. Auf der anderen Seite schützt er aber auch die Präsenzversammlung, indem zwei derartige Versammlungen im ..."
+          },
+          "rAFiUVKf": {
+            "url": "https://kluge-seminare.de/br-portal/wissen/geschaeftsfuehrung-des-betriebsrats/virtuelle-und-hybride-betriebsratssitzungen/",
+            "date": null,
+            "rank": 8,
+            "title": "Virtuelle und hybride Betriebsratssitzungen",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/d5BjjfxkB2ZSlQ7tnl-tkUjNxH_JjRy9-h2lwk0EZk4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjZkYTY4MmM1/MzEyZTFlZTY1YjEy/YWE4MjliYjNhNjY0/MGMwNzZmMGU3MGE5/MjQyOTZjNjVmMTcx/YjRjYWQ1Ni9rbHVn/ZS1zZW1pbmFyZS5k/ZS8",
+              "thumbnail": null
+            },
+            "snippets": [
+              "<strong>Nach dem Willen des Gesetzgebers sollen Betriebsratssitzungen grundsätzlich als reine Präsenzsitzungen stattfinden, bei denen alle Teilnehmer physisch vor Ort anwesend sind</strong>. Unter bestimmten Voraussetzungen kann eine Betriebsratssitzung aber auch als Video- oder Telefonkonferenz stattfinden.",
+              "Wir suchen Referenten (m/w/d) für Betriebsratsschulungen! © 2026 Dr.",
+              "Grundsätzlich sollen Betriebsratssitzungen in Präsenz stattfinden, doch unter bestimmten Voraussetzungen sind auch Video- oder Telefonkonferenzen möglich. Doch welche Bedingungen müssen dafür erfüllt sein? Welche Rolle spielt die Geschäftsordnung des Betriebsrats?",
+              "Nach dem Willen des Gesetzgebers sollen Betriebsratssitzungen grundsätzlich als reine Präsenzsitzungen stattfinden, bei denen alle Teilnehmer physisch vor Ort anwesend sind. Unter bestimmten Voraussetzungen kann eine Betriebsratssitzung aber auch als Video- oder Telefonkonferenz stattfinden.",
+              "Möglich ist auch eine hybride Sitzung, also eine Sitzung, die in Präsenz stattfindet, bei der sich aber einzelne Teilnehmer per Video oder Telefon dazuschalten können. Die Voraussetzungen für die Zulässigkeit einer Betriebsratssitzung als reine Video- oder Telefonkonferenz und als hybride Sitzung sind identisch."
+            ],
+            "description": "<strong>Nach dem Willen des Gesetzgebers sollen Betriebsratssitzungen grundsätzlich als reine Präsenzsitzungen stattfinden, bei denen alle Teilnehmer physisch vor Ort anwesend sind</strong>. Unter bestimmten Voraussetzungen kann eine Betriebsratssitzung aber auch als Video- oder Telefonkonferenz stattfinden."
+          },
+          "tvJwCWAj": {
+            "url": "https://www.betriebsrat.com/br-forum/744735/betriebsversammlung-hybrid-praesenz-und-stream",
+            "date": null,
+            "rank": 6,
+            "title": "Betriebsversammlung Hybrid: Präsenz und Stream | BR-Forum",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/93tGi-ite6dv7OFnHJelLSlNxkUtMiFN6unWUrhhNGA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDMyOGIzOThj/ZmRhMjhjMzI5NGU2/YmVjNTI5MDdiYzEy/Yzg1NjA5NWI4ZThl/MTk3YjYxODAzOGNi/NzlkNTEzYS93d3cu/YmV0cmllYnNyYXQu/Y29tLw",
+              "thumbnail": "https://www.betriebsrat.com/br-forum/opengraph-image"
+            },
+            "snippets": [
+              "In §30 sind Betriebsratssitzungen geregelt, die weiterhin digital oder hybrid abgehalten werden können, solange dies in der GO so geregelt wurde und der Durchführung in Präsenz der Vorrang eingeräumt wird. §129 regelt die Betriebsversammlung, die bis zum Ablauf des 7.",
+              "In §30 sind Betriebsratssitzungen geregelt, die weiterhin digital oder hybrid abgehalten werden können, solange dies in der GO so geregelt wurde und der Durchführung in Präsenz der Vorrang eingeräumt wird. §129 regelt die Betriebsversammlung, die bis zum Ablauf des 7.",
+              "Es sollte aber technisch abgesichert sein, dass das Schutzniveau erreicht wird, welches auch bei einer Präsenzveranstaltung gegeben ist. Und wie willst du sicherstellen das es doch niemand aufnimmt? Es gibt ja genügend Programme um soetwas zu bewerkstelligen. Wie sollen die MA, die über den Stream zuschauen, fragen stellen können? (Bei der Betriebsversammlung treffen sich alle Arbeitnehmer*innen des Betriebes und der Betriebsrat, um sich über aktuelle Themen des Betriebs auszutauschen)",
+              "Hallo zusammen, habe Coronamäßig den Überblick verloren... Stimmt es, dass ab 01.07. Betriebsversammlungen nur noch in Präsenz stattfinden dürfen?",
+              "Hallo Zusammen, aufgrund der aktuellen (Corona-)Lage ist eine Betriebsversammlung in Präsenz zur Bildung eines Wahlvorstands bestenfalls suboptimal."
+            ],
+            "description": "In §30 sind Betriebsratssitzungen geregelt, die weiterhin digital oder hybrid abgehalten werden können, solange dies in der GO so geregelt wurde und der Durchführung in Präsenz der Vorrang eingeräumt wird. §129 regelt die Betriebsversammlung, die bis zum Ablauf des 7."
+          },
+          "v5uufFWB": {
+            "url": "https://efarbeitsrecht.net/digitale-betriebsverfassung-status-quo-und-ausblick/",
+            "date": null,
+            "rank": 3,
+            "title": "Digitale Betriebsverfassung – Status quo und Ausblick – Expertenforum Arbeitsrecht (#EFAR)",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/Df2KQ2tkm--fphyTnKT8pMec_g1m8jj7DKoeDx4ihus/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTlkYWFlNmJj/M2I5MGY0YmFlZGRl/M2M5MGRhOTQ0OWNi/YzJlZGZhMGM4YTg3/NTIxMzYzNDk3ZWYz/YzBiZjAyMi9lZmFy/YmVpdHNyZWNodC5u/ZXQv",
+              "thumbnail": "https://efarbeitsrecht.net/wp-content/uploads/2024/12/video-conference-5162927_1280.jpg"
+            },
+            "snippets": [
+              "Es fehlt u.a. an einer vermehrten und echten Digitalisierung der Betriebsratstätigkeit durch ausdrückliche Öffnung für virtuelle Betriebsversammlungen, Einigungsstellenverfahren sowie Online-Betriebsratswahlen. Zusammengefasst enthielt das Betriebsrätemodernisierungsgesetz in Sachen „Digitalisierung“ folgende Neuerungen: In § 30 Abs. 1 BetrVG wurde zwar der Vorrang der Präsenzsitzung bestätigt, aber die an bestimmte Voraussetzungen geknüpfte Teilnahme an einer Betriebsratssitzung mittels Video- und Telefonkonferenz ermöglicht und hinsichtlich der erforderlichen Voraussetzungen konturiert (§ 30 Abs.",
+              "Es fehlt u.a. an einer vermehrten und echten Digitalisierung der Betriebsratstätigkeit durch ausdrückliche Öffnung für virtuelle Betriebsversammlungen, Einigungsstellenverfahren sowie Online-Betriebsratswahlen. Zusammengefasst enthielt das Betriebsrätemodernisierungsgesetz in Sachen „Digitalisierung“ folgende Neuerungen: In § 30 Abs. 1 BetrVG wurde zwar der Vorrang der Präsenzsitzung bestätigt, aber die an bestimmte Voraussetzungen geknüpfte Teilnahme an einer Betriebsratssitzung mittels Video- und Telefonkonferenz ermöglicht und hinsichtlich der erforderlichen Voraussetzungen konturiert (§ 30 Abs.",
+              "Erstmals könnten die Betriebsratswahlen im Jahr 2026 auch online durchgeführt werden. Ein Gesetzentwurf für eine Testphase während der regulären Betriebsratswahlen in anderthalb Jahren liegt nun vor. Von der digitalen Stimmabgabe erhofft man sich eine höhere Wahlbeteiligung – vor allem bei jüngeren Beschäftigten und solchen, die remote arbeiten und nicht regelmäßig vor Ort sind.",
+              "Die geplanten Änderungen am BetrVG sind im Referentenentwurf des Tariftreuegesetzes vom 24.10.2024 enthalten und umfassen einen Vorstoß, 2026 erstmalig Online-Betriebsratswahlen zu ermöglichen. Hierbei soll die Online-Wahl nur eine zusätzliche Option sein.",
+              "Während es in der Zeit der Corona-Pandemie für Betriebsräte die Möglichkeit bzw. das Erfordernis gab, auf digitale Modelle umzusteigen, etwa bei der Abhaltung von Betriebsversammlungen und Betriebsratssitzungen, dominiert nach dem Ende der Pandemie wieder eine analoge Betriebsratsarbeit."
+            ],
+            "description": "Es fehlt u.a. an einer vermehrten und echten Digitalisierung der Betriebsratstätigkeit durch ausdrückliche Öffnung für virtuelle Betriebsversammlungen, Einigungsstellenverfahren sowie Online-Betriebsratswahlen. Zusammengefasst enthielt das Betriebsrätemodernisierungsgesetz in Sachen „Digitalisierung“ folgende Neuerungen: In § 30 Abs. 1 BetrVG wurde zwar der Vorrang der Präsenzsitzung bestätigt, aber die an bestimmte Voraussetzungen geknüpfte Teilnahme an einer Betriebsratssitzung mittels Video- und Telefonkonferenz ermöglicht und hinsichtlich der erforderlichen Voraussetzungen konturiert (§ 30 Abs."
+          },
+          "yCwUXxhs": {
+            "url": "https://www.businessportal24.com/de/hybride-betriebsversammlungen-effizient-interaktiv-und-rechtskonform.html",
+            "date": null,
+            "rank": 5,
+            "title": "Hybride Betriebsversammlungen: Effizient, interaktiv und rechtskonform! : Businessportal24.com",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/0HgSJ-XXRuv9ck6kv03xqWl4kwgJnp3cUXItEAFZPDA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzI1OGI0NzJh/MGNkOTA1MTMyYjU0/ZGRjZjI0ZTM1MTc3/MWZjZjFhMWMyZDNh/NTlkYTFkNjNkNDgx/NDFmMTdhOS93d3cu/YnVzaW5lc3Nwb3J0/YWwyNC5jb20v",
+              "thumbnail": null
+            },
+            "snippets": [
+              "Die Betriebsversammlung während der Pandemie: Bitte per Livestream · Während der Pandemie ermöglichte § 129 Abs. 1 BetrVG die Durchführung virtueller Versammlungen. Die Ausnahme diente dem Infektionsschutz und bot zugleich eine praktikable Alternative zur Präsenzversammlung.",
+              "Die Betriebsversammlung während der Pandemie: Bitte per Livestream · Während der Pandemie ermöglichte § 129 Abs. 1 BetrVG die Durchführung virtueller Versammlungen. Die Ausnahme diente dem Infektionsschutz und bot zugleich eine praktikable Alternative zur Präsenzversammlung.",
+              "Doch diese Möglichkeit endete am 7. April 2023 - seither sind Betriebsversammlungen wieder grundsätzlich in Präsenz abzuhalten.",
+              "Zwar gab es während der Pandemie formulierte Sonderregelungen, die die digitale Übertragung ausdrücklich erlaubten, leider jedoch zurückgenommen wurden, doch das ursprüngliche Recht rund um die Durchführung einer Betriebsversammlung bietet deutlich mehr Spielraum als vielen bekannt ist! Und das eröffnet Chancen: Für die Attraktivität der Arbeitgeber, Flexibilität der Mitarbeitende und einen modernen Betriebsrat!",
+              "Hybride Betriebsversammlung: Livestream oder Aufzeichnung? Was ist erlaubt? Bei der Durchführung hybrider Versammlungen durch den Betriebsrat ist nochmals zwischen Live-Streaming und Aufzeichnung der Versammlung zu unterscheiden."
+            ],
+            "description": "Die Betriebsversammlung während der Pandemie: Bitte per Livestream · Während der Pandemie ermöglichte § 129 Abs. 1 BetrVG die Durchführung virtueller Versammlungen. Die Ausnahme diente dem Infektionsschutz und bot zugleich eine praktikable Alternative zur Präsenzversammlung."
+          }
+        },
+        "isInterrupted": false,
+        "publicArguments": "Betriebsrat Betriebsversammlung remote Hybrid Präsenz rechtliche Grundlagen 2026",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Aktuell (Stand August 2026) dürfen Betriebsversammlungen **grundsätzlich nur noch in Präsenz** abgehalten werden. Die während der Corona-Pandemie geltende Sonderregelung in § 129 BetrVG, die auch digitale oder hybride Betriebsversammlungen ermöglichte, wurde nicht verlängert und ist seit dem 7. April 2023 außer Kraft. Seitdem gilt wieder: Die Teilnahme an einer Betriebsversammlung muss gemäß § 42 Abs. 1 BetrVG ausschließlich in Präsenz erfolgen. Hybrid- oder reine Online-Formate sind derzeit nicht mehr zulässig, es sei denn, es gibt neue gesetzliche Änderungen, die dies wieder ermöglichen würden",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "2jQ1wu8c",
+          "dMWk4wLZ",
+          "yCwUXxhs"
+        ]
+      },
+      {
+        "text": ".\n\nZusammengefasst:\n- **Präsenz:** Erlaubt und aktuell die einzige rechtlich sichere Form.\n- **Hybrid oder remote:** Derzeit nicht zulässig, sofern keine neue gesetzliche Regelung vorliegt.\n\nFalls sich die Rechtslage kürzlich geändert haben sollte, wäre eine aktuelle Überprüfung der Gesetzestexte oder eine Rücksprache mit einem Fachanwalt für Arbeitsrecht ratsam. Möchten Sie wissen, ob es aktuell neue Gesetzentwürfe oder Diskussionen zu diesem Thema gibt?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-08-25T10:09:18.116Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1787652558124,
+        "completedAtMs": 1787652565749,
+        "firstTokenAtMs": 1787652559661,
+        "generationStats": {
+          "outputTokens": 286,
+          "completionCount": 1,
+          "generationDurationMs": 5376,
+          "outputTokensPerSecond": 53.19940476190476
+        },
+        "timeToFirstTokenMs": 1537,
+        "completionDurationMs": 7625,
+        "userMessageCreatedToCompletionMs": 7991
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "web_search"
+        ],
+        "integrationNames": [
+          "web_search"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "f1a76a1b-c7d1-4001-a99e-e1d7955c2fe2",
+    "version": 0,
+    "chatId": "2a4cbe96-59e0-4d51-825d-b0f0c764fd2d",
+    "content": "Aktuell (Stand August 2026) ist die Betriebsversammlung nach § 42 Abs. 1 BetrVG **grundsätzlich nur in Präsenz zulässig**. Da digitale oder hybride Formate seit April 2023 nicht mehr rechtlich abgedeckt sind, müssen Betriebsräte kreative, aber rechtssichere Lösungen finden, um auch dezentral arbeitende Mitarbeiter einzubinden.\n\n**Praktische Lösungsansätze:**\n\n1. **Präsenzversammlung am Hauptsitz + regionale Zusatzveranstaltungen**\n   Die Hauptversammlung findet in Präsenz am Firmensitz statt. Zusätzlich können **regionale Präsenzveranstaltungen** an anderen Standorten oder in zentral gelegenen Räumlichkeiten organisiert werden, um die Teilnahme für dezentrale Mitarbeiter zu erleichtern. So bleibt die rechtliche Vorgabe gewahrt, und die Erreichbarkeit wird verbessert.\n\n2. **Nachbereitung per Video oder Livestream (ohne Beschlussfassung)**\n   Die eigentliche Betriebsversammlung muss in Präsenz stattfinden. Allerdings kann der Betriebsrat im Anschluss eine **Informationsveranstaltung per Livestream oder Aufzeichnung** anbieten, in der die Inhalte der Versammlung vermittelt werden. Wichtig: In dieser digitalen Veranstaltung dürfen **keine Beschlüsse gefasst** werden, da nur die Präsenzversammlung rechtlich bindend ist.\n\n3. **Nutzung von Dienstreisen oder Homeoffice-Regelungen**\n   Falls möglich, können Mitarbeiter, die nicht am Hauptsitz arbeiten, für den Tag der Betriebsversammlung als **Dienstreise** einberufen werden. Alternativ kann der Arbeitgeber die Kosten für Anreise und Unterkunft übernehmen, um die Teilnahme zu fördern.\n\n4. **Mehrere kleine Präsenzveranstaltungen**\n   Statt einer großen Versammlung können **mehrere kleinere Präsenzveranstaltungen** an verschiedenen Standorten oder zu verschiedenen Zeiten abgehalten werden. So wird die logistische Hürde für die Mitarbeiter verringert, und die rechtlichen Anforderungen bleiben erfüllt.\n\n5. **Betriebsvereinbarung prüfen**\n   In Einzelfällen könnte eine **Betriebsvereinbarung** mit dem Arbeitgeber geschlossen werden, die alternative Formen der Teilnahme regelt – allerdings nur, soweit dies nicht gegen gesetzliche Vorgaben verstößt. Hier ist eine rechtliche Prüfung unerlässlich.\n\n---\n**Wichtig:** Beschlüsse, Wahlen oder offizielle Abstimmungen der Betriebsversammlung müssen **immer in Präsenz** stattfinden. Digitale Formate können nur zur Information genutzt werden, nicht für verbindliche Entscheidungen.\n\nFalls die dezentrale Struktur Ihres Unternehmens besonders ausgeprägt ist, könnte es sinnvoll sein, sich für eine **Reform des BetrVG** einzusetzen oder auf politische Initiativen zu achten, die digitale Betriebsversammlungen wieder ermöglichen. Möchten Sie Unterstützung bei der Organisation einer solchen Lösung oder bei der Prüfung der rechtlichen Rahmenbedingungen?",
+    "contentChunks": [
+      {
+        "text": "Aktuell (Stand August 2026) ist die Betriebsversammlung nach § 42 Abs. 1 BetrVG **grundsätzlich nur in Präsenz zulässig**. Da digitale oder hybride Formate seit April 2023 nicht mehr rechtlich abgedeckt sind, müssen Betriebsräte kreative, aber rechtssichere Lösungen finden, um auch dezentral arbeitende Mitarbeiter einzubinden.\n\n**Praktische Lösungsansätze:**\n\n1. **Präsenzversammlung am Hauptsitz + regionale Zusatzveranstaltungen**\n   Die Hauptversammlung findet in Präsenz am Firmensitz statt. Zusätzlich können **regionale Präsenzveranstaltungen** an anderen Standorten oder in zentral gelegenen Räumlichkeiten organisiert werden, um die Teilnahme für dezentrale Mitarbeiter zu erleichtern. So bleibt die rechtliche Vorgabe gewahrt, und die Erreichbarkeit wird verbessert.\n\n2. **Nachbereitung per Video oder Livestream (ohne Beschlussfassung)**\n   Die eigentliche Betriebsversammlung muss in Präsenz stattfinden. Allerdings kann der Betriebsrat im Anschluss eine **Informationsveranstaltung per Livestream oder Aufzeichnung** anbieten, in der die Inhalte der Versammlung vermittelt werden. Wichtig: In dieser digitalen Veranstaltung dürfen **keine Beschlüsse gefasst** werden, da nur die Präsenzversammlung rechtlich bindend ist",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "dMWk4wLZ",
+          "yCwUXxhs"
+        ]
+      },
+      {
+        "text": ".\n\n3. **Nutzung von Dienstreisen oder Homeoffice-Regelungen**\n   Falls möglich, können Mitarbeiter, die nicht am Hauptsitz arbeiten, für den Tag der Betriebsversammlung als **Dienstreise** einberufen werden. Alternativ kann der Arbeitgeber die Kosten für Anreise und Unterkunft übernehmen, um die Teilnahme zu fördern.\n\n4. **Mehrere kleine Präsenzveranstaltungen**\n   Statt einer großen Versammlung können **mehrere kleinere Präsenzveranstaltungen** an verschiedenen Standorten oder zu verschiedenen Zeiten abgehalten werden. So wird die logistische Hürde für die Mitarbeiter verringert, und die rechtlichen Anforderungen bleiben erfüllt.\n\n5. **Betriebsvereinbarung prüfen**\n   In Einzelfällen könnte eine **Betriebsvereinbarung** mit dem Arbeitgeber geschlossen werden, die alternative Formen der Teilnahme regelt – allerdings nur, soweit dies nicht gegen gesetzliche Vorgaben verstößt. Hier ist eine rechtliche Prüfung unerlässlich.\n\n---\n**Wichtig:** Beschlüsse, Wahlen oder offizielle Abstimmungen der Betriebsversammlung müssen **immer in Präsenz** stattfinden. Digitale Formate können nur zur Information genutzt werden, nicht für verbindliche Entscheidungen.\n\nFalls die dezentrale Struktur Ihres Unternehmens besonders ausgeprägt ist, könnte es sinnvoll sein, sich für eine **Reform des BetrVG** einzusetzen oder auf politische Initiativen zu achten, die digitale Betriebsversammlungen wieder ermöglichen. Möchten Sie Unterstützung bei der Organisation einer solchen Lösung oder bei der Prüfung der rechtlichen Rahmenbedingungen?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-08-25T10:28:11.765Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1787653691772,
+        "completedAtMs": 1787653699468,
+        "firstTokenAtMs": 1787653694373,
+        "generationStats": {
+          "outputTokens": 634,
+          "completionCount": 1,
+          "generationDurationMs": 5038,
+          "outputTokensPerSecond": 125.8435887256848
+        },
+        "timeToFirstTokenMs": 2601,
+        "completionDurationMs": 7696,
+        "userMessageCreatedToCompletionMs": 8172
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [],
+        "integrationNames": []
+      }
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "6e7d83a0-fdd0-4ef0-9d2b-f5b4d23057a5",
+    "version": 0,
+    "chatId": "2a4cbe96-59e0-4d51-825d-b0f0c764fd2d",
+    "content": "was wäre eine praktische Lösung wenn ein grossteil der Belegschaft nicht am Standort der Firma ansässig ist ?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-08-25T10:28:11.296Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "0250077c-3453-4729-afd4-f5a8c28203e6",
+    "version": 0,
+    "chatId": "2a4cbe96-59e0-4d51-825d-b0f0c764fd2d",
+    "content": "In einer **Betriebsversammlung** darf der Betriebsrat eine Vielzahl von Themen ansprechen, die die Belegschaft und den Betrieb betreffen. Die rechtliche Grundlage hierfür findet sich vor allem in **§ 43 BetrVG (Betriebsverfassungsgesetz)**. Danach können insbesondere folgende Themen behandelt werden:\n\n---\n\n### **1. Allgemeine betriebliche Angelegenheiten**\n- **Wirtschaftliche Lage des Unternehmens**: Informationen über die wirtschaftliche Entwicklung, Investitionen, Umsatz, Gewinne oder Verluste.\n- **Betriebliche Veränderungen**: Umstrukturierungen, Standortverlagerungen, Fusionen, Übernahmen oder Schließungen.\n- **Arbeitsplatzsicherheit**: Maßnahmen zur Sicherung oder zum Abbau von Arbeitsplätzen.\n\n---\n\n### **2. Arbeitsbedingungen und -organisation**\n- **Arbeitszeitregelungen**: Einführung oder Änderung von Arbeitszeitmodellen (z. B. Gleitzeit, Schichtarbeit, Homeoffice).\n- **Überstunden und Mehrarbeit**: Diskussion über Ausmaß, Vergütung oder Ausgleich.\n- **Urlaubsplanung**: Regelungen zu Urlaubsanträgen, -kontingenten oder betriebsbedingten Sperrzeiten.\n- **Pausen und Erholung**: Gestaltung von Pausenräumen oder -zeiten.\n\n---\n### **3. Personelle Angelegenheiten**\n- **Einstellungen und Entlassungen**: Informationen über geplante Einstellungen, Kündigungen oder Sozialpläne.\n- **Beförderungen und Versetzungen**: Kriterien für innerbetriebliche Aufstiege oder Versetzungen.\n- **Ausbildung und Weiterbildung**: Angebote zur beruflichen Qualifizierung oder Fortbildung.\n- **Gleichstellung und Diversität**: Maßnahmen zur Förderung von Chancengleichheit, Inklusion oder gegen Diskriminierung.\n\n---\n### **4. Soziales und Gesundheit**\n- **Betriebliches Gesundheitsmanagement (BGM)**: Maßnahmen zur Gesundheitsförderung (z. B. betriebliche Sportangebote, psychologische Unterstützung).\n- **Arbeitsschutz**: Themen wie Ergonomie, Schutz vor Belastungen (z. B. Lärm, Stress) oder Pandemie-Maßnahmen.\n- **Betriebliche Altersvorsorge**: Informationen zu Angeboten oder Änderungen.\n\n---\n### **5. Rechte und Pflichten des Betriebsrats**\n- **Berichte des Betriebsrats**: Rechenschaftslegung über die Arbeit des Gremiums.\n- **Wahlen**: Durchführung von Betriebsratswahlen oder Wahlvorbereitungen.\n- **Betriebsvereinbarungen**: Vorstellung oder Diskussion von geplanten oder abgeschlossenen Vereinbarungen zwischen Betriebsrat und Arbeitgeber.\n- **Konflikte mit dem Arbeitgeber**: Aktuelle Streitpunkte oder Verhandlungsstände.\n\n---\n### **6. Sonstige Themen mit Belegschaftsbezug**\n- **Betriebliche Sozialleistungen**: Kantinenangebote, Jobtickets, betriebliche Kindergärten oder Zuschüsse.\n- **Umwelt- und Nachhaltigkeitsthemen**: Maßnahmen des Unternehmens im Bereich Umweltschutz oder Corporate Social Responsibility (CSR).\n- **Digitale Transformation**: Einführung neuer Technologien, Software oder digitaler Arbeitsmittel.\n- **Betriebsklima und Mitarbeiterzufriedenheit**: Ergebnisse von Mitarbeiterbefragungen oder Maßnahmen zur Verbesserung der Arbeitsatmosphäre.\n\n---\n### **Was nicht behandelt werden darf:**\n- **Reine Gewerkschaftsthemen**: Die Betriebsversammlung ist kein Forum für gewerkschaftliche Werbung oder Tarifverhandlungen.\n- **Rein private Angelegenheiten**: Themen ohne Bezug zum Betrieb oder zur Belegschaft.\n- **Vertrauliche Personaldaten**: Individuelle Gehälter oder persönliche Daten einzelner Mitarbeiter dürfen nicht öffentlich diskutiert werden.\n\n---\n**Hinweis:** Der Betriebsrat hat das **Initiativrecht** für die Themen der Betriebsversammlung. Der Arbeitgeber kann zwar Themen vorschlagen, aber nicht verbieten – es sei denn, sie verstoßen gegen Gesetz oder Betriebsvereinbarungen.\n\n---\n**Frage an Sie:** Gibt es ein konkretes Thema, das Sie in Ihrer nächsten Betriebsversammlung ansprechen möchten und bei dem Sie unsicher sind, ob es zulässig ist?",
+    "contentChunks": [
+      {
+        "text": "In einer **Betriebsversammlung** darf der Betriebsrat eine Vielzahl von Themen ansprechen, die die Belegschaft und den Betrieb betreffen. Die rechtliche Grundlage hierfür findet sich vor allem in **§ 43 BetrVG (Betriebsverfassungsgesetz)**. Danach können insbesondere folgende Themen behandelt werden:\n\n---\n\n### **1. Allgemeine betriebliche Angelegenheiten**\n- **Wirtschaftliche Lage des Unternehmens**: Informationen über die wirtschaftliche Entwicklung, Investitionen, Umsatz, Gewinne oder Verluste.\n- **Betriebliche Veränderungen**: Umstrukturierungen, Standortverlagerungen, Fusionen, Übernahmen oder Schließungen.\n- **Arbeitsplatzsicherheit**: Maßnahmen zur Sicherung oder zum Abbau von Arbeitsplätzen.\n\n---\n\n### **2. Arbeitsbedingungen und -organisation**\n- **Arbeitszeitregelungen**: Einführung oder Änderung von Arbeitszeitmodellen (z. B. Gleitzeit, Schichtarbeit, Homeoffice).\n- **Überstunden und Mehrarbeit**: Diskussion über Ausmaß, Vergütung oder Ausgleich.\n- **Urlaubsplanung**: Regelungen zu Urlaubsanträgen, -kontingenten oder betriebsbedingten Sperrzeiten.\n- **Pausen und Erholung**: Gestaltung von Pausenräumen oder -zeiten.\n\n---\n### **3. Personelle Angelegenheiten**\n- **Einstellungen und Entlassungen**: Informationen über geplante Einstellungen, Kündigungen oder Sozialpläne.\n- **Beförderungen und Versetzungen**: Kriterien für innerbetriebliche Aufstiege oder Versetzungen.\n- **Ausbildung und Weiterbildung**: Angebote zur beruflichen Qualifizierung oder Fortbildung.\n- **Gleichstellung und Diversität**: Maßnahmen zur Förderung von Chancengleichheit, Inklusion oder gegen Diskriminierung.\n\n---\n### **4. Soziales und Gesundheit**\n- **Betriebliches Gesundheitsmanagement (BGM)**: Maßnahmen zur Gesundheitsförderung (z. B. betriebliche Sportangebote, psychologische Unterstützung).\n- **Arbeitsschutz**: Themen wie Ergonomie, Schutz vor Belastungen (z. B. Lärm, Stress) oder Pandemie-Maßnahmen.\n- **Betriebliche Altersvorsorge**: Informationen zu Angeboten oder Änderungen.\n\n---\n### **5. Rechte und Pflichten des Betriebsrats**\n- **Berichte des Betriebsrats**: Rechenschaftslegung über die Arbeit des Gremiums.\n- **Wahlen**: Durchführung von Betriebsratswahlen oder Wahlvorbereitungen.\n- **Betriebsvereinbarungen**: Vorstellung oder Diskussion von geplanten oder abgeschlossenen Vereinbarungen zwischen Betriebsrat und Arbeitgeber.\n- **Konflikte mit dem Arbeitgeber**: Aktuelle Streitpunkte oder Verhandlungsstände.\n\n---\n### **6. Sonstige Themen mit Belegschaftsbezug**\n- **Betriebliche Sozialleistungen**: Kantinenangebote, Jobtickets, betriebliche Kindergärten oder Zuschüsse.\n- **Umwelt- und Nachhaltigkeitsthemen**: Maßnahmen des Unternehmens im Bereich Umweltschutz oder Corporate Social Responsibility (CSR).\n- **Digitale Transformation**: Einführung neuer Technologien, Software oder digitaler Arbeitsmittel.\n- **Betriebsklima und Mitarbeiterzufriedenheit**: Ergebnisse von Mitarbeiterbefragungen oder Maßnahmen zur Verbesserung der Arbeitsatmosphäre.\n\n---\n### **Was nicht behandelt werden darf:**\n- **Reine Gewerkschaftsthemen**: Die Betriebsversammlung ist kein Forum für gewerkschaftliche Werbung oder Tarifverhandlungen.\n- **Rein private Angelegenheiten**: Themen ohne Bezug zum Betrieb oder zur Belegschaft.\n- **Vertrauliche Personaldaten**: Individuelle Gehälter oder persönliche Daten einzelner Mitarbeiter dürfen nicht öffentlich diskutiert werden.\n\n---\n**Hinweis:** Der Betriebsrat hat das **Initiativrecht** für die Themen der Betriebsversammlung. Der Arbeitgeber kann zwar Themen vorschlagen, aber nicht verbieten – es sei denn, sie verstoßen gegen Gesetz oder Betriebsvereinbarungen.\n\n---\n**Frage an Sie:** Gibt es ein konkretes Thema, das Sie in Ihrer nächsten Betriebsversammlung ansprechen möchten und bei dem Sie unsicher sind, ob es zulässig ist?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-08-25T10:52:28.920Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1787655148934,
+        "completedAtMs": 1787655163615,
+        "firstTokenAtMs": 1787655156388,
+        "generationStats": {
+          "outputTokens": 898,
+          "completionCount": 1,
+          "generationDurationMs": 7210,
+          "outputTokensPerSecond": 124.5492371705964
+        },
+        "timeToFirstTokenMs": 7454,
+        "completionDurationMs": 14681,
+        "userMessageCreatedToCompletionMs": 14974
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [],
+        "integrationNames": []
+      }
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "474eb7b6-922e-4447-a653-3a22c4704aea",
+    "version": 0,
+    "chatId": "2a4cbe96-59e0-4d51-825d-b0f0c764fd2d",
+    "content": "welche themen kann ein Betriebsrat in einer betriebsversammlung ansprechen ?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-08-25T10:52:28.641Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  }
+]

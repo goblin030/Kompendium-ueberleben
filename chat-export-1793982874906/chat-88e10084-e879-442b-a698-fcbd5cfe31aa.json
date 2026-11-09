@@ -1,0 +1,78 @@
+[
+  {
+    "id": "253e4748-1a4f-4510-8b0d-39fe7890d5d8",
+    "version": 0,
+    "chatId": "88e10084-e879-442b-a698-fcbd5cfe31aa",
+    "content": "Was sind die 7 Todsünden?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-07-29T01:41:40.649Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "45f743fb-9493-45e5-8a89-307fdb1b9667",
+    "version": 0,
+    "chatId": "88e10084-e879-442b-a698-fcbd5cfe31aa",
+    "content": "Die **sieben Todsünden** sind ein Konzept aus der christlichen Moraltheologie, das sieben grundlegende Laster oder moralische Verfehlungen beschreibt. Sie stammen ursprünglich aus den Lehren der frühen christlichen Mönche und wurden später in der Theologie systematisiert. Hier sind sie:\n\n\nDie sieben Todsünden\n\n\n| **Todsünde**       | **Beschreibung**                                                                 |\n|---------------------|---------------------------------------------------------------------------------|\n| **Hochmut**         | Überheblichkeit, Arroganz oder ein übersteigertes Selbstwertgefühl.             |\n| **Geiz**            | Übermäßige Habgier oder das Ansammeln von Reichtum ohne Großzügigkeit.         |\n| **Wollust**         | Unmäßiges Verlangen nach sinnlicher Lust, besonders sexueller Natur.           |\n| **Zorn**            | Unkontrollierte Wut oder Hass, die zu Zerstörung oder Gewalt führen kann.       |\n| **Völlerei**        | Maßloses Essen, Trinken oder Genuss, das über das gesunde Maß hinausgeht.      |\n| **Neid**            | Missgunst oder der Wunsch, das zu besitzen, was andere haben.                  |\n| **Trägheit**        | Faulheit oder Gleichgültigkeit, besonders in spirituellen oder moralischen Dingen. |\n\nDiese Liste diente historisch als moralischer Kompass, um Gläubige vor schädlichem Verhalten zu warnen. Heute wird sie oft als kulturelles oder literarisches Motiv verwendet.\n\nFalls du mehr über eine bestimmte Todsünde wissen möchtest, lass es mich wissen!",
+    "contentChunks": [
+      {
+        "text": "Die **sieben Todsünden** sind ein Konzept aus der christlichen Moraltheologie, das sieben grundlegende Laster oder moralische Verfehlungen beschreibt. Sie stammen ursprünglich aus den Lehren der frühen christlichen Mönche und wurden später in der Theologie systematisiert. Hier sind sie:\n\n",
+        "type": "text"
+      },
+      {
+        "type": "custom_element",
+        "display": "block",
+        "element": {
+          "type": "table-metadata",
+          "attributes": {
+            "title": "Die sieben Todsünden"
+          }
+        }
+      },
+      {
+        "text": "\n\n| **Todsünde**       | **Beschreibung**                                                                 |\n|---------------------|---------------------------------------------------------------------------------|\n| **Hochmut**         | Überheblichkeit, Arroganz oder ein übersteigertes Selbstwertgefühl.             |\n| **Geiz**            | Übermäßige Habgier oder das Ansammeln von Reichtum ohne Großzügigkeit.         |\n| **Wollust**         | Unmäßiges Verlangen nach sinnlicher Lust, besonders sexueller Natur.           |\n| **Zorn**            | Unkontrollierte Wut oder Hass, die zu Zerstörung oder Gewalt führen kann.       |\n| **Völlerei**        | Maßloses Essen, Trinken oder Genuss, das über das gesunde Maß hinausgeht.      |\n| **Neid**            | Missgunst oder der Wunsch, das zu besitzen, was andere haben.                  |\n| **Trägheit**        | Faulheit oder Gleichgültigkeit, besonders in spirituellen oder moralischen Dingen. |\n\nDiese Liste diente historisch als moralischer Kompass, um Gläubige vor schädlichem Verhalten zu warnen. Heute wird sie oft als kulturelles oder literarisches Motiv verwendet.\n\nFalls du mehr über eine bestimmte Todsünde wissen möchtest, lass es mich wissen!",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-07-29T01:41:41.869Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1785289301877,
+        "completedAtMs": 1785289306571,
+        "firstTokenAtMs": 1785289302946,
+        "generationStats": {
+          "outputTokens": 351,
+          "completionCount": 1,
+          "generationDurationMs": 3470,
+          "outputTokensPerSecond": 101.15273775216137
+        },
+        "timeToFirstTokenMs": 1069,
+        "completionDurationMs": 4694,
+        "userMessageCreatedToCompletionMs": 5922
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [],
+        "integrationNames": []
+      }
+    },
+    "canvas": [],
+    "files": []
+  }
+]

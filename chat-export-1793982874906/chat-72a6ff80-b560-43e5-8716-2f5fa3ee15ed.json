@@ -1,0 +1,358 @@
+[
+  {
+    "id": "adf48ac4-09f3-4397-bd22-074c1ea3c5de",
+    "version": 0,
+    "chatId": "72a6ff80-b560-43e5-8716-2f5fa3ee15ed",
+    "content": "Traktor short ut load stem ",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-07-28T17:33:21.356Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "e1635e53-1291-4c19-a81c-211ff2431e7e",
+    "version": 0,
+    "chatId": "72a6ff80-b560-43e5-8716-2f5fa3ee15ed",
+    "content": "To load a **short UT (User Track) as a Stem** in Traktor, you can use the following methods:\n\n- **Drag and Drop:** Click the track from your Track Collection and drag it onto the desired Deck. By default, if a Stem version is available, Traktor will load the Stem version into a Stem Deck. If you want to load the original track instead, hold **[Shift]** on your keyboard while dragging and dropping the track, or double-press the Load button on your Traktor controller.\n- **Load Button:** Press the Load button on your Traktor controller to load the Stem version. If you prefer to load the original track, use the **[Shift] + Load** combination.\n- **Settings:** You can also adjust the settings so that a single click loads the normal track instead of the Stem version.\n\nTraktor automatically switches the Deck to **Stem Deck** mode when a Stem file is loaded, and to **Track Deck** for regular tracks.",
+    "contentChunks": [
+      {
+        "id": "MHr6Tzodd",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1785260006652,
+        "success": true,
+        "toolType": "rag",
+        "startTime": 1785260004224,
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "ar": "البحث على الويب",
+            "de": "Websuche",
+            "en": "Web Search",
+            "es": "Búsqueda web",
+            "fr": "Recherche Web",
+            "it": "Ricerca web",
+            "nl": "Webzoeken",
+            "pl": "Wyszukiwanie w sieci",
+            "pt-BR": "Pesquisa na web"
+          }
+        },
+        "customLocale": {
+          "done_description": {
+            "en": "web_search"
+          },
+          "working_description": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "4x0wZifV": {
+            "url": "https://www.youtube.com/shorts/Vf314CKXMKc",
+            "date": null,
+            "rank": 3,
+            "title": "Stem separation is here 🎉 Traktor Pro 4 lets you automatically create stems from any track - YouTube",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+              "thumbnail": "https://i.ytimg.com/vi/Vf314CKXMKc/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&amp;rs=AOn4CLD8MCRNeeZf09lbDkB3qVdOpcIJGg&amp;usqp=CCk"
+            },
+            "snippets": [
+              "Any track from your collection can now be separated into stems. Traktor Pro 4 lets you precisely isolate and manipulate drums, bass, instruments, and vocals...."
+            ],
+            "description": "Any track from your collection can now be separated into stems. Traktor Pro 4 lets you precisely isolate and manipulate drums, bass, instruments, and vocals...."
+          },
+          "CGnWhvab": {
+            "url": "https://www.reddit.com/r/traktorpro/comments/1ed410u/once_ive_generated_stems_can_i_still_load_the/",
+            "date": null,
+            "rank": 0,
+            "title": "r/traktorpro on Reddit: Once I’ve generated stems, can I still load the song in the normal view?",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+              "thumbnail": "https://share.redd.it/preview/post/1ed410u"
+            },
+            "snippets": [
+              "<strong>One click is STEMS</strong> and double click is the normal track, but you can change this in the settings so that the normal track is loaded with one click.",
+              "Posted by u/GoldVictory158 - 4 votes and 18 comments",
+              "This way you also don't have to set the deck to track or stem specifically, it just changes based on the loading. ... Very good find! ... You asked a yes/ no question. This is the answer ... Spectre_loudly: yes. So you are saying the stems must be removed? Apparently that is incorrect. ... You could have watched the short tutorial videos to find this out.",
+              "I can make a deck a regular track deck, and not a stem deck, but as soon as a load a stemmed track it will switch to stem deck.",
+              "One click is STEMS and double click is the normal track, but you can change this in the settings so that the normal track is loaded with one click."
+            ],
+            "description": "<strong>One click is STEMS</strong> and double click is the normal track, but you can change this in the settings so that the normal track is loaded with one click."
+          },
+          "Jr7Jr1WT": {
+            "url": "https://community.native-instruments.com/discussion/35813/load-stems-load-normal-track",
+            "date": null,
+            "rank": 6,
+            "title": "Load Stems/load normal track - Community",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/Ly1HTYLjpw2UhlFNzOslcQdofqWHyHkIql5JmyOcwAo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2Q1ZjM0Nzk4/OWNiMTA2Nzc2OGU5/YzdiYTFkOGRkNTU1/ZDFiMmM5MDY0YTdi/NDk5YTYxZTNlMTk2/YmZiODEyNi9jb21t/dW5pdHkubmF0aXZl/LWluc3RydW1lbnRz/LmNvbS8",
+              "thumbnail": "https://us.v-cdn.net/6034896/uploads/Y1M8A4PUE758/banner-white.png"
+            },
+            "snippets": [
+              "When I load the file,using my controller, Traktor automatically loads the Stems version. The only way to work around this is to <strong>use the mouse (or mousepad) and drag the track in one of the decks</strong>."
+            ],
+            "description": "When I load the file,using my controller, Traktor automatically loads the Stems version. The only way to work around this is to <strong>use the mouse (or mousepad) and drag the track in one of the decks</strong>."
+          },
+          "JrZ5OwQZ": {
+            "url": "https://blog.native-instruments.com/how-to-mix-stems/",
+            "date": null,
+            "rank": 4,
+            "title": "How to mix with stems in Traktor Pro 4 | Native Instruments Blog",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/eCZNRScWhx9s2SxcwR7MLFFR9luX69bThaXTpI9m3Ok/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2NkYmY0Nzhi/ZmU1YjI5YjRmMDc2/NWU3MTIyM2E0YzEz/NThhZDg2YTY2MzY1/NTUyNzFiODdhNDZj/ZDU3YjI2My9ibG9n/Lm5hdGl2ZS1pbnN0/cnVtZW50cy5jb20v",
+              "thumbnail": "https://blog.native-instruments.com/wp-content/uploads/2024/09/how-to-mix-with-stems-in-traktor-pro-4-featured.jpg"
+            },
+            "snippets": [
+              "You can load the Stem version of a track using a simple drag-and-drop method. <strong>Click the track from the Track Collection, and drag and drop the track onto the desired Deck, or press the Load button on your Traktor Controller</strong>.",
+              "You can load the Stem version of a track using a simple drag-and-drop method. Click the track from the Track Collection, and drag and drop the track onto the desired Deck, or press the Load button on your Traktor Controller. By default, the Deck Type automatically switches to Stem Deck, and the Stem version of the track is loaded.",
+              "Alternatively, you can load the original track instead of its Stem version by holding [Shift] on your computer keyboard while dragging and dropping the track or by double-pressing the Load button on your Traktor controller.",
+              "Traktor’s cutting-edge DJ controllers are portable, and the controls are intuitively laid out for creative mixing with Stems. You’ll enjoy the flexibility of mixing with both Stem tracks and audio tracks using a Traktor DJ controller. To load Stems using the Traktor X1 MK3, choose the Stem track to load and press the Load button on the controller.",
+              "The track will load up automatically as a Stem. The numbers buttons 1-4 on the controller can be configured to mute Stems. This means when you press the numbers buttons on the Traktor X1 MK3, the corresponding part of the Stem will be muted."
+            ],
+            "description": "You can load the Stem version of a track using a simple drag-and-drop method. <strong>Click the track from the Track Collection, and drag and drop the track onto the desired Deck, or press the Load button on your Traktor Controller</strong>."
+          },
+          "Jx9ESjoC": {
+            "url": "https://www.native-instruments.com/ni-tech-manuals/traktor-play-user-guide/en/working-with-stems",
+            "date": null,
+            "rank": 1,
+            "title": "Working with Stems",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/dGfRiRbnmZANo_Z9V7jm5B2GkfuQpHWzalnz3F6qC4Q/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzg5YmQ3MmUy/YjI5OGQ2NDBjYmIw/Yjg5ZDRjNmU2NzAw/NWVjOThhZWNkZjk5/OGZhMzhjYmVjYjU5/ZWM1NWY1Ni93d3cu/bmF0aXZlLWluc3Ry/dW1lbnRzLmNvbS8",
+              "thumbnail": null
+            },
+            "snippets": [
+              "In this section you learn how to use Stem files in Traktor Play. In this section you learn how to load and play back Stem files in the Stem Decks.",
+              "In this section you learn how to use Stem files in Traktor Play. In this section you learn how to load and play back Stem files in the Stem Decks.",
+              "A Stem file is a track in a custom format with the file extension “.stem.mp4” that contains four audio tracks (the Stems). Each Stem represents one of the key elements of the track, for example, drums, bass, synths, and vocals. By default, when a Stem file is played back in Traktor all Stems are audible and summarize to the entire track.",
+              "Generated Stem files: Traktor can separate your tracks into three instrumental Stems and one vocal Stem: drums and percussion, bass, other, and vocals. The third Stem (“other”) is the instrumental remainder after removing drums and bass, and can vary from track to track.",
+              "The availability of a Stem version for a track is indicated by the Stem Link symbol in the status column: When loading a track with an available Stem file, you can choose whether to load the Stem version into a Stem Deck or the original track into a Track Deck."
+            ],
+            "description": "In this section you learn how to use Stem files in Traktor Play. In this section you learn how to load and play back Stem files in the Stem Decks."
+          },
+          "N97gi8FF": {
+            "url": "https://support.native-instruments.com/hc/en-us/articles/210295045-How-Can-I-Control-the-Individual-Stems-on-a-TRAKTOR-Stem-Deck",
+            "date": null,
+            "rank": 2,
+            "title": "How Can I Control the Individual Stems on a TRAKTOR Stem Deck? – Native Instruments",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/SzS9jIVJNobYNA7j3TEXt-bzckP9qCbupX3vH2SNJKA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzYwNTcxMjli/YTkwZWFmZTNjYTE3/MjY3ZjkyNWQ1MjA5/MTZjN2ExYWZlZGM5/ZjZhYTRlYWY4OThj/NTJiN2ZhYS9zdXBw/b3J0Lm5hdGl2ZS1p/bnN0cnVtZW50cy5j/b20v",
+              "thumbnail": "https://support.native-instruments.com/hc/theming_assets/01HZKNNKEG64K6FBG96M0BD60T"
+            },
+            "snippets": [
+              "To gain hardware control on the individual Stems, simply load a Stem file (.stem.mp4) into a TRAKTOR Deck while your controller is connected (for the KONTROL D2/F1, you will need to select and confirm a Deck by moving / pushing down the encoder upon first connection).",
+              "Since TRAKTOR 2.10.1, the Stem Deck displays all four separate tracks as well as individual controls for VOLUME, FILTER and FX SEND. Note: When loading a file to the Deck, the TRAKTOR software will detect the filetype and switch the Deck flavor automatically to Track Deck (for any supported file format), Remix Deck (for .trak files) and Stem Deck (for .stem.mp4 files).",
+              "To gain hardware control on the individual Stems, simply load a Stem file (.stem.mp4) into a TRAKTOR Deck while your controller is connected (for the KONTROL D2/F1, you will need to select and confirm a Deck by moving / pushing down the encoder upon first connection).",
+              "While optimal control and visualization of Stems can only be achieved with our dedicated NI devices, it is possible to map Stem commands to a third-party surface controller. TRAKTOR's Controller Manager includes a subset of input / output commands for controlling the volume, FX and Filter cutoff frequency of each of the four Stems of a Stem Deck or Slots of a Remix Deck.",
+              "Note: It is also possible to implement Stem Deck assignments in a Generic Keyboard mapping so you can trigger commands from your computer keyboard, however the physical properties of the computer keys are very limited in their scope of interaction. Learn more about MIDI commands and Generic MIDI mappings in your TRAKTOR manual and in the Related Articles section at the bottom of this article."
+            ],
+            "description": "To gain hardware control on the individual Stems, simply load a Stem file (.stem.mp4) into a TRAKTOR Deck while your controller is connected (for the KONTROL D2/F1, you will need to select and confirm a Deck by moving / pushing down the encoder upon first connection)."
+          },
+          "QQvwe2yf": {
+            "url": "https://tractortaishan.com/how-to-use-stems-in-traktor/",
+            "date": null,
+            "rank": 5,
+            "title": "How To Use Stems In Traktor - Taishan Tractors,Tractors Manufacturer 25 Years, Farm Tractors",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/jt1VpbMWuXoWRg0nqYP3VA9ze19QExAA5Q4LeeBx7vU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWQwYzQxMmM2/ZWIwZjllZmY0OWIz/ZGMzMzkyMDgwZjVm/MGM1NDk2YmFlODkz/Mzg3YTIzYzU5YmEz/NmQ3MGFiOS90cmFj/dG9ydGFpc2hhbi5j/b20v",
+              "thumbnail": null
+            },
+            "snippets": [
+              "Traktor allows you to create playlists and folders to help you keep track of your stems. You can also use the tagging feature to add metadata to your stems, such as the artist name, genre, and BPM. This will make it easier to find and mix your stems later on. Step 4: Load your stems onto decks To start mixing your stems, you need to load them onto the decks in Traktor.",
+              "In Traktor, stems are represented by colored waveforms. Each stem has its own waveform, allowing you to visually identify and manipulate individual elements of a track. By default, stems are color-coded with drums in red, bass in blue, vocals in green, and melody in purple. However, you can customize these colors to your preference. To start mixing with stems, load a stem file onto a deck in Traktor.",
+              "Now that you have your stem loaded, you can start manipulating the individual elements. Traktor offers various tools and effects to help you do this. For example, you can use the EQ knobs to boost or cut specific frequencies of a stem.",
+              "Traktor allows you to create playlists and folders to help you keep track of your stems. You can also use the tagging feature to add metadata to your stems, such as the artist name, genre, and BPM. This will make it easier to find and mix your stems later on. Step 4: Load your stems onto decks To start mixing your stems, you need to load them onto the decks in Traktor.",
+              "This will automatically match the BPM of each stem, making it easier to create seamless transitions between tracks. To enable sync, simply click the Sync button on each deck. Traktor will then adjust the tempo of each stem to match the master deck. Step 6: Mix your stems Now that your stems are loaded and synced, you can start mixing them together."
+            ],
+            "description": "Traktor allows you to create playlists and folders to help you keep track of your stems. You can also use the tagging feature to add metadata to your stems, such as the artist name, genre, and BPM. This will make it easier to find and mix your stems later on. Step 4: Load your stems onto decks To start mixing your stems, you need to load them onto the decks in Traktor."
+          },
+          "SfNdLAht": {
+            "url": "https://www.youtube.com/watch?v=1a9T51RdjfI",
+            "date": null,
+            "rank": 8,
+            "title": "Live - A complete Guide to STEMS in Traktor plus Q&A - YouTube",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+              "thumbnail": "https://i.ytimg.com/vi/1a9T51RdjfI/maxresdefault.jpg"
+            },
+            "snippets": [
+              "In this live stream, we&#x27;re looking at STEMS in NATIVE INSTRUMENTS TRAKTORAs always you can ask questions live and we&#x27;ll do our best to answer in the stream!T..."
+            ],
+            "description": "In this live stream, we&#x27;re looking at STEMS in NATIVE INSTRUMENTS TRAKTORAs always you can ask questions live and we&#x27;ll do our best to answer in the stream!T..."
+          },
+          "VDpRtNxv": {
+            "url": "https://djworx.com/traktor-2-9-is-out-now-stems-are-go/",
+            "date": null,
+            "rank": 9,
+            "title": "Traktor 2.9 is out now — Stems are go! – DJWORX",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/t8c8J5gvY12Lyefe9o8GwcaPWGmPObGlsAFh7kNjkZk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWYwOGI3OTMw/Mjc5NzVjOWZlYTli/ZDQ5NGE0Nzc3ZjM1/MTcxMzAwNjk1OGM4/ZDEyMDAxZDk4NGNi/N2VmMzMxNy9kandv/cnguY29tLw",
+              "thumbnail": "https://djworx.com/wp-content/uploads/2015/08/stems-d2.jpg"
+            },
+            "snippets": [
+              "Traktor 2.9 is out, and with it come Stems. You can head off to the usual sources to buy some, but you&#x27;ll have to wait a while to make your own.",
+              "Fear not dear readers, for this is the one you’ve been waiting for, because today, Native Instruments has finally released the format into the wild, and first out of the box to support unsurprisingly is Traktor 2.9. And to open up the magical world of Stems to everyone else, NI is also running an aggressive but short sale on stems compatible gear.",
+              "The one thing we did notice today was that moving away from Traktor on our Macs makes Traktor go funny. Music plays, but the screens on the D2 freeze. So Stems are out to buy and play with, and NI has temporarily slashed prices on suitable controllers. You’ll have to wait to create your own but that’s coming. All we know is that from our short play, Stems are a lot of fun.",
+              "New Stem Deck Flavor in TRAKTOR PRO TRAKTOR 2.9.0 introduces a new Stem Deck which is capable of playing and mixing .stem.mp4 files. Thanks to the Automatic Deck Flavor Switching that was introduced in TRAKTOR 2.8.0, a Deck will automatically switch to Stem Deck whenever you load a .stem.mp4 file.",
+              "These optimizations can be enjoyed even when not playing Stem files. Fixed Issue with Preview Player Loading via Controller Manager There was a bug where attempting to load something into the Preview Player via Controller Manager (hardware control) while no track was selected would result in the function not working until restarting TRAKTOR."
+            ],
+            "description": "Traktor 2.9 is out, and with it come Stems. You can head off to the usual sources to buy some, but you&#x27;ll have to wait a while to make your own."
+          },
+          "vF7sQ7pM": {
+            "url": "https://macprovideo.com/article/audio-software/how-to-mix-stems-using-traktor-pro-2-10-2-and-the-s4",
+            "date": null,
+            "rank": 7,
+            "title": "How to Mix Stems Using TRAKTOR PRO 2.10.2 and the S4",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/KNvsm4ZQZxNzQ8su1U752goVsSo7S_K5UhaEzjdNuLw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDkwM2M5MDUx/NDljYmVlMDU4OGU3/ZTgzY2VlODkyODRh/ODlhYjAyYTEzZjY3/YmEwNDQ5MjRhMjY0/N2JiMWIxNC9tYWNw/cm92aWRlby5jb20v",
+              "thumbnail": "https://d29rinwu2hi5i3.cloudfront.net/article_media/9fcc261d-7dde-445d-96cf-74c15f0af413/headine-traktor-stems-tutorial.jpg"
+            },
+            "snippets": [
+              "Stems need to be analyzed before ... Stem onto a Stem Deck the way you would normally load up tracks; by <strong>clicking Load or dragging the Stem onto the Deck</strong>....",
+              "Curious about NI's Stems format but unsure how to get started? Mixing with Stems is easier than you think. Here's how to incorporate Stems into your performance using the latest version of Traktor.",
+              "Learn all of today's popular software for Mac & Windows. Watch videos showing production tips & tricks. View Industry-leading Artists at work in top studios. Real Video, Real Pros, Real Education",
+              "Make sure you’ve got a few Stems in your collection and start up the latest version of Traktor. Click on the letter of a Deck and change it into a Stem deck by selecting 'Stem Deck'. Stems need to be analyzed before they can be played; right-click on a Stem and then click Analyze. Once analysis is finished, load up the Stem onto a Stem Deck the way you would normally load up tracks; by clicking Load or dragging the Stem onto the Deck.",
+              "This could mean it’s the right time to advance your mixing techniques if you haven’t already begun using Stems. The latest version of Traktor Pro 2.10.2 is a free update that offers a 4-track view of the Stem Decks in the main Traktor view. What you’ll see in Traktor is similar to the Stem Deck screens that were previously only available to owners of the Kontrol S8, D2 and S5."
+            ],
+            "description": "Stems need to be analyzed before ... Stem onto a Stem Deck the way you would normally load up tracks; by <strong>clicking Load or dragging the Stem onto the Deck</strong>...."
+          }
+        },
+        "isInterrupted": false,
+        "publicArguments": "Traktor short UT load stem",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "To load a **short UT (User Track) as a Stem** in Traktor, you can use the following methods:\n\n- **Drag and Drop:** Click the track from your Track Collection and drag it onto the desired Deck. By default, if a Stem version is available, Traktor will load the Stem version into a Stem Deck. If you want to load the original track instead, hold **[Shift]** on your keyboard while dragging and dropping the track, or double-press the Load button on your Traktor controller",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "JrZ5OwQZ"
+        ]
+      },
+      {
+        "text": ".\n- **Load Button:** Press the Load button on your Traktor controller to load the Stem version. If you prefer to load the original track, use the **[Shift] + Load** combination",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "JrZ5OwQZ"
+        ]
+      },
+      {
+        "text": ".\n- **Settings:** You can also adjust the settings so that a single click loads the normal track instead of the Stem version",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "CGnWhvab"
+        ]
+      },
+      {
+        "text": ".\n\nTraktor automatically switches the Deck to **Stem Deck** mode when a Stem file is loaded, and to **Track Deck** for regular tracks",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "N97gi8FF",
+          "VDpRtNxv"
+        ]
+      },
+      {
+        "text": ".",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-07-28T17:33:22.923Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1785260002937,
+        "completedAtMs": 1785260012169,
+        "firstTokenAtMs": 1785260004224,
+        "generationStats": {
+          "outputTokens": 243,
+          "completionCount": 1,
+          "generationDurationMs": 7791,
+          "outputTokensPerSecond": 31.18983442433577
+        },
+        "timeToFirstTokenMs": 1287,
+        "completionDurationMs": 9232,
+        "userMessageCreatedToCompletionMs": 10813
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "web_search"
+        ],
+        "integrationNames": [
+          "web_search"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "id": "d889c954-da24-46f6-9671-ed480181c8de",
+    "version": 0,
+    "chatId": "f7611ba2-15f9-46bf-9cb2-aad2e3f5a390",
+    "content": "wofür ist eine DIN EN ISO 50001:2018 Zertifizierung gedacht ?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-07-28T09:43:22.543Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "0d813021-7368-454e-bcc6-a483400c3364",
+    "version": 0,
+    "chatId": "f7611ba2-15f9-46bf-9cb2-aad2e3f5a390",
+    "content": "Die **DIN EN ISO 50001:2018** ist ein internationaler Standard für **Energiemanagementsysteme (EnMS)**. Die Zertifizierung ist dafür gedacht:\n\n- **Energieeffizienz** in Organisationen systematisch zu verbessern,\n- **Energiekosten** zu senken,\n- **Energieverbrauch** und **CO₂-Emissionen** zu reduzieren,\n- **Rechtliche und behördliche Anforderungen** im Energiebereich einzuhalten,\n- **Nachhaltigkeit** und **Klimaschutz** zu fördern.\n\nSie richtet sich an Unternehmen, öffentliche Einrichtungen und Organisationen jeder Größe und Branche, die ihre Energieleistung strukturiert optimieren möchten. Die Norm folgt dem **PDCA-Zyklus** (Plan-Do-Check-Act) und ist kompatibel mit anderen Managementsystemen wie ISO 9001 (Qualität) oder ISO 14001 (Umwelt).",
+    "contentChunks": [
+      {
+        "text": "Die **DIN EN ISO 50001:2018** ist ein internationaler Standard für **Energiemanagementsysteme (EnMS)**. Die Zertifizierung ist dafür gedacht:\n\n- **Energieeffizienz** in Organisationen systematisch zu verbessern,\n- **Energiekosten** zu senken,\n- **Energieverbrauch** und **CO₂-Emissionen** zu reduzieren,\n- **Rechtliche und behördliche Anforderungen** im Energiebereich einzuhalten,\n- **Nachhaltigkeit** und **Klimaschutz** zu fördern.\n\nSie richtet sich an Unternehmen, öffentliche Einrichtungen und Organisationen jeder Größe und Branche, die ihre Energieleistung strukturiert optimieren möchten. Die Norm folgt dem **PDCA-Zyklus** (Plan-Do-Check-Act) und ist kompatibel mit anderen Managementsystemen wie ISO 9001 (Qualität) oder ISO 14001 (Umwelt).",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-07-28T09:43:22.941Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1785231802957,
+        "completedAtMs": 1785231807143,
+        "firstTokenAtMs": 1785231804991,
+        "generationStats": {
+          "outputTokens": 210,
+          "completionCount": 1,
+          "generationDurationMs": 1951,
+          "outputTokensPerSecond": 107.63710917478215
+        },
+        "timeToFirstTokenMs": 2034,
+        "completionDurationMs": 4186,
+        "userMessageCreatedToCompletionMs": 4600
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [],
+        "integrationNames": []
+      }
+    },
+    "canvas": [],
+    "files": []
+  }
+]

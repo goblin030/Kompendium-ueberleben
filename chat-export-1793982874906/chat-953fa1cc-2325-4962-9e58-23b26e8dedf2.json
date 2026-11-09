@@ -1,0 +1,50 @@
+[
+  {
+    "id": "3d2dd61e-3b0c-4471-8745-46d43a755fd5",
+    "version": 0,
+    "chatId": "953fa1cc-2325-4962-9e58-23b26e8dedf2",
+    "content": "In Deutschland regelt das **Betriebsverfassungsgesetz (BetrVG)** die Freistellung von Betriebsratsmitgliedern für ihre Aufgaben. Hier die wichtigsten Punkte:\n\n### 🕒 **Freistellungszeiten nach § 37 BetrVG**\n- **Betriebsratsmitglieder** haben Anspruch auf **bezahlte Arbeitsbefreiung** für ihre Betriebsratstätigkeit.\n- Die **genaue Zeit** hängt von der **Betriebsgröße** ab:\n\n| Betriebsgröße | Freistellungszeit pro Monat |\n|---------------|-----------------------------|\n| 51–100 Arbeitnehmer | 50 Stunden |\n| 101–200 Arbeitnehmer | 100 Stunden |\n| 201–500 Arbeitnehmer | 150 Stunden |\n| 501–1.000 Arbeitnehmer | 200 Stunden |\n| 1.001–2.000 Arbeitnehmer | 300 Stunden |\n| 2.001–3.000 Arbeitnehmer | 400 Stunden |\n| Ab 3.001 Arbeitnehmer | 500 Stunden |\n\n- **Vorsitzender und Stellvertreter** erhalten **doppelte Freistellungszeit** (z. B. 100 Stunden bei 51–100 Mitarbeitern).\n- **Ausschussmitglieder** erhalten **zusätzliche Zeit** (z. B. 25 Stunden bei 101–200 Mitarbeitern).\n\n### ⚠️ **Wichtige Hinweise**\n- Die Freistellung gilt **nur für notwendige Betriebsratsaufgaben** (z. B. Sitzungen, Beratungen, Schulungen).\n- Der Arbeitgeber darf die Freistellung **nicht verweigern**, wenn sie für die Betriebsratsarbeit erforderlich ist.\n- **Überstundenausgleich** ist möglich, wenn die Freistellung zu Arbeitszeitüberschreitungen führt.\n\n### 📌 **Rechtsgrundlage**\n- **§ 37 BetrVG** (Freistellung von Betriebsratsmitgliedern)\n- **§ 38 BetrVG** (Schulungen und Weiterbildung)\n\nFalls du konkrete Fragen zu deinem Betrieb hast, lohnt sich ein Blick in den **Betriebsratsbeschluss** oder eine Rücksprache mit dem **Betriebsrat** oder einem **Anwalt für Arbeitsrecht**.\n\nBrauchst du weitere Details zu einem bestimmten Fall?",
+    "contentChunks": [
+      {
+        "text": "In Deutschland regelt das **Betriebsverfassungsgesetz (BetrVG)** die Freistellung von Betriebsratsmitgliedern für ihre Aufgaben. Hier die wichtigsten Punkte:\n\n### 🕒 **Freistellungszeiten nach § 37 BetrVG**\n- **Betriebsratsmitglieder** haben Anspruch auf **bezahlte Arbeitsbefreiung** für ihre Betriebsratstätigkeit.\n- Die **genaue Zeit** hängt von der **Betriebsgröße** ab:\n\n| Betriebsgröße | Freistellungszeit pro Monat |\n|---------------|-----------------------------|\n| 51–100 Arbeitnehmer | 50 Stunden |\n| 101–200 Arbeitnehmer | 100 Stunden |\n| 201–500 Arbeitnehmer | 150 Stunden |\n| 501–1.000 Arbeitnehmer | 200 Stunden |\n| 1.001–2.000 Arbeitnehmer | 300 Stunden |\n| 2.001–3.000 Arbeitnehmer | 400 Stunden |\n| Ab 3.001 Arbeitnehmer | 500 Stunden |\n\n- **Vorsitzender und Stellvertreter** erhalten **doppelte Freistellungszeit** (z. B. 100 Stunden bei 51–100 Mitarbeitern).\n- **Ausschussmitglieder** erhalten **zusätzliche Zeit** (z. B. 25 Stunden bei 101–200 Mitarbeitern).\n\n### ⚠️ **Wichtige Hinweise**\n- Die Freistellung gilt **nur für notwendige Betriebsratsaufgaben** (z. B. Sitzungen, Beratungen, Schulungen).\n- Der Arbeitgeber darf die Freistellung **nicht verweigern**, wenn sie für die Betriebsratsarbeit erforderlich ist.\n- **Überstundenausgleich** ist möglich, wenn die Freistellung zu Arbeitszeitüberschreitungen führt.\n\n### 📌 **Rechtsgrundlage**\n- **§ 37 BetrVG** (Freistellung von Betriebsratsmitgliedern)\n- **§ 38 BetrVG** (Schulungen und Weiterbildung)\n\nFalls du konkrete Fragen zu deinem Betrieb hast, lohnt sich ein Blick in den **Betriebsratsbeschluss** oder eine Rücksprache mit dem **Betriebsrat** oder einem **Anwalt für Arbeitsrecht**.\n\nBrauchst du weitere Details zu einem bestimmten Fall?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-07-22T08:43:15.823Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "assistantAnswerSignals": {
+        "toolNames": [],
+        "integrationNames": []
+      }
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "893581f1-02aa-44a9-a75d-a418746a0498",
+    "version": 0,
+    "chatId": "953fa1cc-2325-4962-9e58-23b26e8dedf2",
+    "content": "wieviel zeit darf man sich als Arbeitnehmer für Betriebsratsaufgaben reservieren ",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-07-22T08:43:14.599Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "id": "a8434c14-e83b-4e2a-80d8-a91686372cce",
+    "version": 0,
+    "chatId": "b7aa3bf8-ffea-42c4-bcda-280f172e992a",
+    "content": "welche rechte haben ersatzmitgllieder eines Betriebsrates einsicht in Mails, Protokolle und andere Dokumentation des BR zu erhalten? ",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-07-22T08:20:44.151Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "d990d44f-bb74-4377-9d7c-f557c9560c90",
+    "version": 0,
+    "chatId": "b7aa3bf8-ffea-42c4-bcda-280f172e992a",
+    "content": "Ersatzmitglieder eines Betriebsrats haben **kein automatisches Recht auf Einsicht in Mails, Protokolle oder andere Dokumentation des Betriebsrats** – **außer im Vertretungsfall**.\n\n### 📌 **Rechtslage nach BetrVG:**\n- **§ 34 Abs. 3 BetrVG** sieht vor, dass **nur feste Betriebsratsmitglieder** ein **jederzeitiges Einsichtsrecht** in alle Unterlagen des Betriebsrats (inkl. Protokolle, E-Mails, Betriebsvereinbarungen, Ausschussdokumente) haben.\n- **Ersatzmitglieder im \"Standby-Modus\"** (ohne aktive Vertretung) haben **keinen gesetzlichen Anspruch** auf Einsicht. Der Betriebsrat **kann** ihnen aber freiwillig Zugang gewähren, wenn:\n  - ein **berechtigtes Interesse** besteht (z. B. Vorbereitung auf mögliche Vertretung),\n  - **keine Geheimhaltungspflicht** (z. B. personenzugangsbeschränkte Daten) entgegensteht.\n\n- **Sobald ein Ersatzmitglied ein verhindertes Stamm-Mitglied vertritt**, rückt es **kraft Gesetzes als vollwertiges BR-Mitglied nach** und erhält **umgehend alle Einsichtsrechte** (§ 34 Abs. 3 BetrVG). Ab diesem Zeitpunkt darf es **sämtliche Unterlagen einsehen** – inkl. Protokolle, E-Mails und interne Dokumente.\n\n---\n### 🔹 **Praktische Empfehlung:**\n- **Im Vertretungsfall:** Volles Einsichtsrecht wie ein Stamm-Mitglied.\n- **Außerhalb der Vertretung:** Kein automatischer Anspruch, aber der BR **sollte** Ersatzmitglieder informieren, um Handlungsfähigkeit zu sichern (z. B. durch regelmäßige Weiterleitung von Protokollen oder gezielte Schulungen).\n- **Achtung:** Der BR kann interne Regeln aufstellen, z. B. Ersatzmitgliedern **begrenzten Zugang** zu nicht-vertraulichen Unterlagen zu gewähren.\n\n*Quellen: [§ 34 Abs. 3 BetrVG](https://www.betriebsrat.de/fachartikel/ersatzmitglied/informations-und-einsichtsrechte-fuer-ersatzmitglieder-3124179), [Poko-Institut](https://www.poko.de/betriebsrat/betriebsrat-know-how/rollen-des-betriebsrats-die-aufgaben-im-ueberblick/ersatzmitglied-betriebsrat-welche-rechte-und-pflichten-gelten/sitzungsprotokoll-fuer-betriebsrat-ersatzmitglieder), [aas-Seminare](https://www.aas-seminare.de/betrvg-kommentare/sitzungsniederschrift/)*",
+    "contentChunks": [
+      {
+        "text": "Der Benutzer fragt auf Deutsch nach den Rechten von Ersatzmitgliedern eines Betriebsrats in Bezug auf Einsicht in E-Mails, Protokolle und andere Dokumentation des Betriebsrats. Dies ist eine spezifische Rechtsfrage zum deutschen Betriebsverfassungsrecht. Ich muss prüfen, welche gesetzlichen Regelungen hier gelten.\n\nIch sollte die relevanten Paragraphen des Betriebsverfassungsgesetzes (BetrVG) recherchieren. Besonders relevant sind:\n- § 30 BetrVG (Allgemeine Rechte und Pflichten)\n- § 34 BetrVG (Betriebsratsitzungen)\n- § 35 BetrVG (Beschlussfähigkeit)\n- § 37 BetrVG (Rechte der Ersatzmitglieder)\n\nErsatzmitglieder haben nach deutschem Betriebsverfassungsrecht nur dann volle Rechte, wenn sie tatsächlich für ein verhindertes ordentliches Mitglied einspringen. Ansonsten haben sie nur eingeschränkte Rechte.\n\nIch sollte die internal-search Skill verwenden, um genaue Informationen zu finden.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1784708448435,
+          "contextId": "harness-reasoning-0",
+          "startTime": 1784708445889
+        }
+      },
+      {
+        "id": "d6RHsEDVf",
+        "name": "skill",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1784708448730,
+        "success": true,
+        "toolType": "raw",
+        "startTime": 1784708448435,
+        "publicResult": "<skill_content name=\"internal-search\">\n<source>/home/user/skills/internal-search/SKILL.md</source>\n# Skill: internal-search\n\nRouting Protocol for Information Retrieval\nYou are an expert routing agent. You must determine the nature of the user's query before selecting a tool. Use the following logic to route requests efficiently:\n\n# 1. Identification Phase\n\nAnalyze the user's intent:\n\nInternal Information: Does the query concern company projects, internal documentation, private data, or organizational knowledge?\n\nExternal/General Information: Does the query concern public knowledge, general facts, or topics unrelated to the organization's private data?\n\n# 2. Execution Logic\n\nIF the query relates to INTERNAL INFORMATION:\nYou MUST follow this strict priority hierarchy. Do not bypass higher-priority tools for lower-priority ones.\n\nIntegrations (internal-search / specialized tools): This is the primary and mandatory source for project statuses, technical documentation, and structured company data.\n\nUser Library: Use this only when the user explicitly mentions \"Document Libraries\" or \"Libraries\". Otherwise, route internal document or knowledge requests through connected integrations.\n\nWeb Search: Prohibited unless the information is explicitly public or if all internal sources have been exhausted and failed.\n\nIF the query relates to EXTERNAL / GENERAL INFORMATION:\n\nWeb Search: Use the web tools immediately. Do not search your internal integrations or User Library, as they are irrelevant for public data.\n\n# 3. Clarification Rule\n\nIf you are unsure whether a query is \"Internal\" or \"Public,\" you must ask the user for clarification before attempting a search. Do not guess the category\n\n## Integration Selection Guide\n\nSelect integrations based on the type of information the user needs. Only use integrations the user has connected. Integration names below are examples; any connected integration matching the category applies.\n\nCategories:\n\nDocument & Knowledge Management — files, docs, presentations, spreadsheets, wikis, knowledge bases, specs, RFCs, SOPs.\nIntegrations e.g.: Google Drive, SharePoint, OneDrive, Dropbox, Box, Notion, Confluence, Quip, Coda, Airtable.\n\nMessaging & Communication — conversations, discussions, decisions, announcements, tribal knowledge, informal context never formally documented. Messaging apps are one of the best sources for unwritten institutional knowledge: decisions in threads, context behind choices, real-time discussions.\nIntegrations e.g.: Slack, Discord, Microsoft Teams, Google Chat.\n\nEmail — external communications, approvals, confirmations, event invitations, vendor correspondence, notifications from other services. Email is a rich and universal source; nearly every user has one. Emails often contain meeting invites, status updates, approval chains, and attachments that exist nowhere else.\nIntegrations e.g.: Gmail, Outlook.\n\nCalendar & Scheduling — meetings, events, availability, scheduling conflicts, attendee lists, agendas.\nIntegrations e.g.: Google Calendar, Outlook Calendar.\n\nProject & Task Management — issue tracking, task status, sprint progress, roadmaps, bug reports, feature requests, assignments, milestones.\nIntegrations e.g.: Jira, Linear, Trello, Asana, ClickUp, Monday.com, GitHub Issues.\n\nCode & Development — source code, pull requests, repositories, code reviews, CI/CD status, technical implementations.\nIntegrations e.g.: GitHub, GitLab, Bitbucket.\n\nFinance & Billing — payments, invoices, subscriptions, customer transactions, billing history.\nIntegrations e.g.: Stripe.\n\nRouting rules:\n- If `search_tool_functions` shows that a needed connector requires authentication before its functions are available, do not silently skip it or substitute a weaker source. Use only connector IDs that are clearly associated with the exact connector shown by the tool result; connector category, vendor, similarity, or model-written comments are not evidence of a match. Do not substitute Atlassian for Notion, Gmail or MCP Fleet for Slack, or any other nearby connector. In the same assistant response, write one short visible sentence explaining why you need the connector (e.g. \"To find your recent issues, I need to connect Linear.\"), then call the programmatic `tools.ui.ask_enable_connector` function via `run_typescript` with the exact connector ID from the tool result. The `tools.ui.ask_enable_connector` call is itself the confirmation UI — do not use `tools.ui.ask_user_question` to first ask whether the user wants to connect. Private reasoning or thinking does not count as the visible sentence. If the result includes that connector in `connectedConnectorIds`, continue the task with that connector. If the result includes that connector in `deniedConnectorIds`, respect the user's refusal, continue without that connector, and do not retry `tools.ui.ask_enable_connector` for it unless the user explicitly asks to connect it.\n- Cross-category queries: for decisions or context try Messaging first, then Docs for formal write-ups. For schedules try Calendar first, then Email for invitations. For project status try Project & Task Management first, then Messaging for informal updates.\n- When multiple integrations in the same category are connected, do a shallow search across all of them, then look deeper into the ones that returned relevant results.\n\nBase directory for this skill: /home/user/skills/internal-search\nRelative paths in this skill are relative to this base directory.\nThis skill's root SKILL.md file is already loaded in this block; do not read it again.\nUse read_file only for needed support files under this base directory.\nNote: file list is sampled.\n\n<skill_files>\n\n</skill_files>\n</skill_content>",
+        "isInterrupted": false,
+        "publicMetadata": {
+          "display": {
+            "kind": "inspect_skill",
+            "skillName": "internal-search",
+            "skillDescription": "Use this skill to retrieve information from internal knowledge bases, private documents, project repositories, or specific organizational databases. It is mandatory for any user query that requires searching, looking up, extracting, synthesizing, or verifying information not covered by general knowledge. Trigger this skill systematically when the user asks about - Project statuses, roadmaps, or progress updates. - Internal policies, standard operating procedures, or documentation. - Data stored in company wikis, technical docs, or archives. - Sensitive or non-public information specific to the organization. If the user's request implies a need for factual verification against internal sources rather than general knowledge, invoke this skill immediately.",
+            "skillDisplayName": "Internal Search"
+          }
+        },
+        "publicArguments": "{\"name\":\"internal-search\"}",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Die internal-search Skill wurde geladen. Der Benutzer fragt nach Ersatzmitgliedern eines Betriebsrats und deren Einsichtsrechten in Mails, Protokolle und andere Dokumentation. Dies ist eine spezifische Rechtsfrage zum deutschen Betriebsverfassungsgesetz (BetrVG).\n\nIch muss die relevanten gesetzlichen Bestimmungen recherchieren. Die wichtigsten Paragraphen sind:\n- § 30 BetrVG (Allgemeine Rechte und Pflichten des Betriebsrats)\n- § 34 BetrVG (Betriebsratssitzungen)\n- § 35 BetrVG (Beschlussfähigkeit)\n- § 37 BetrVG (Rechte der Ersatzmitglieder)\n\nErsatzmitglieder haben nach dem BetrVG nur dann volle Rechte, wenn sie tatsächlich für ein verhindertes ordentliches Mitglied einspringen. Ansonsten haben sie nur eingeschränkte Rechte. Sie haben aber ein Recht auf Information und Einsicht in die notwendigen Unterlagen, um ihre Aufgaben wahrnehmen zu können.\n\nIch sollte eine Websuche durchführen, um aktuelle und genaue Informationen zu diesen Rechten zu finden. Die Suche sollte sich auf offizielle Quellen oder seriöse juristische Portale konzentrieren.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1784708450891,
+          "contextId": "harness-reasoning-3",
+          "startTime": 1784708449100
+        }
+      },
+      {
+        "id": "NPn4G3Ez3",
+        "name": "search_tool_functions",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1784708451256,
+        "success": true,
+        "toolType": "raw",
+        "startTime": 1784708450891,
+        "publicResult": "---\nmode: best_match\nrelevantFunctionCount: 0\nrelatedFunctionCount: 0\nrelatedConnectorCount: 0\nrelevantConnectorNoticeCount: 0\n---\n\nNo matching tool functions found for query \"Betriebsverfassungsgesetz Ersatzmitglieder Rechte Einsicht Protokolle Dokumente\". Try a broader search query.",
+        "isInterrupted": false,
+        "publicArguments": "{\"mode\":\"best_match\",\"query\":\"Betriebsverfassungsgesetz Ersatzmitglieder Rechte Einsicht Protokolle Dokumente\",\"connectors\":[],\"functions\":[]}",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Die Suche nach Tool-Funktionen hat keine passenden Ergebnisse geliefert. Das ist nicht überraschend, da es sich um eine allgemeine Rechtsfrage handelt und nicht um eine spezifische Tool-Anfrage. Ich sollte direkt eine Websuche durchführen, um die relevanten gesetzlichen Bestimmungen zu finden.\n\nIch suche nach den spezifischen Paragraphen des BetrVG, die die Rechte von Ersatzmitgliedern regeln, insbesondere in Bezug auf Einsichtsrechte in Dokumentation.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1784708455108,
+          "contextId": "harness-reasoning-6",
+          "startTime": 1784708454088
+        }
+      },
+      {
+        "id": "2543681f-42e3-46d5-9587-a61cf4d8b447",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "Qu5279C7M"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "url": "https://www.betriebsrat.de/fachartikel/ersatzmitglied/informations-und-einsichtsrechte-fuer-ersatzmitglieder-3124179",
+              "title": "Informations- und Einsichtsrechte für Ersatzmitglieder | Wissen ist Macht – Wie komme ich als Ersatzmitglied des Betriebsrats an Informationen?",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.betriebsrat.de&sz=256"
+            },
+            {
+              "url": "https://kluge-seminare.de/br-portal/wissen/betriebsratmitglieder/recht-auf-einsicht-in-betriebsratsunterlagen/",
+              "title": "Betriebsratsmitglied: Recht auf Einsicht in Betriebsratsunterlagen - Dr. Kluge Seminare",
+              "favicon": "https://www.google.com/s2/favicons?domain=kluge-seminare.de&sz=256"
+            },
+            {
+              "url": "https://www.aas-seminare.de/betrvg-kommentare/sitzungsniederschrift/",
+              "title": "Sitzungsniederschrift - aas Seminare",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.aas-seminare.de&sz=256"
+            },
+            {
+              "url": "https://www.poko.de/betriebsrat/betriebsrat-know-how/rollen-des-betriebsrats-die-aufgaben-im-ueberblick/ersatzmitglied-betriebsrat-welche-rechte-und-pflichten-gelten/sitzungsprotokoll-fuer-betriebsrat-ersatzmitglieder",
+              "title": "Sitzungsprotokoll für Betriebsrat-Ersatzmitglieder? / Poko-Institut",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.poko.de&sz=256"
+            },
+            {
+              "url": "https://verdi-bub.de/seminar/3662",
+              "title": "Das Ersatzmitglied im Betriebsrat",
+              "favicon": "https://www.google.com/s2/favicons?domain=verdi-bub.de&sz=256"
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "Betriebsverfassungsgesetz §37 Ersatzmitglieder Rechte Einsicht Protokolle Dokumente BR",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Ich habe Suchergebnisse erhalten, die sich auf die Rechte von Ersatzmitgliedern im Betriebsrat beziehen. Die wichtigsten Informationen sind:\n\n1. **§ 34 Abs. 3 BetrVG**: Das Recht, Unterlagen des Betriebsrats jederzeit einzusehen, haben **nur die festen Mitglieder** des Betriebsrats. Dies ist die zentrale gesetzliche Regelung.\n\n2. **Ersatzmitglieder im Standby-Modus**: Diese haben **kein automatisches Einsichtsrecht**. Der Betriebsrat kann ihnen aber ein Informations- und Einsichtsrecht einräumen, wenn ein berechtigtes Interesse besteht und keine Geheimhaltungspflicht entgegensteht.\n\n3. **Nachrückende Ersatzmitglieder**: Sobald ein Ersatzmitglied ein verhindertes Stamm-Mitglied vertritt, rückt es kraft Gesetzes als Betriebsratsmitglied nach und genießt zu diesem Zeitpunkt **umfassende Einsichts- und Informationsrechte** im Betriebsrat.\n\n4. **Praktische Handhabung**: Es wird empfohlen, Ersatzmitglieder im Vertretungsfall umfassend zu informieren, da sie dann die volle Rechtsstellung eines BR-Mitglieds haben.\n\n5. **Protokolle und Unterlagen**: Während der Vertretung haben Ersatzmitglieder Anspruch auf Einsicht in alle Unterlagen des Betriebsrats und seiner Ausschüsse (Protokolle, Anträge, Betriebsvereinbarungen, Schriftverkehr etc.).\n\n6. **Außerhalb von Vertretungsfällen**: Kein automatisches Recht, aber der Betriebsrat kann freiwillig Zugang gewähren, wenn ein berechtigtes Interesse besteht (z.B. zur Vorbereitung auf mögliche zukünftige Vertretungsfälle).\n\nIch sollte diese Informationen klar und strukturiert für den Benutzer aufbereiten.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1784708462377,
+          "contextId": "harness-reasoning-9",
+          "startTime": 1784708459796
+        }
+      },
+      {
+        "text": "Ersatzmitglieder eines Betriebsrats haben **kein automatisches Recht auf Einsicht in Mails, Protokolle oder andere Dokumentation des Betriebsrats** – **außer im Vertretungsfall**.\n\n### 📌 **Rechtslage nach BetrVG:**\n- **§ 34 Abs. 3 BetrVG** sieht vor, dass **nur feste Betriebsratsmitglieder** ein **jederzeitiges Einsichtsrecht** in alle Unterlagen des Betriebsrats (inkl. Protokolle, E-Mails, Betriebsvereinbarungen, Ausschussdokumente) haben.\n- **Ersatzmitglieder im \"Standby-Modus\"** (ohne aktive Vertretung) haben **keinen gesetzlichen Anspruch** auf Einsicht. Der Betriebsrat **kann** ihnen aber freiwillig Zugang gewähren, wenn:\n  - ein **berechtigtes Interesse** besteht (z. B. Vorbereitung auf mögliche Vertretung),\n  - **keine Geheimhaltungspflicht** (z. B. personenzugangsbeschränkte Daten) entgegensteht.\n\n- **Sobald ein Ersatzmitglied ein verhindertes Stamm-Mitglied vertritt**, rückt es **kraft Gesetzes als vollwertiges BR-Mitglied nach** und erhält **umgehend alle Einsichtsrechte** (§ 34 Abs. 3 BetrVG). Ab diesem Zeitpunkt darf es **sämtliche Unterlagen einsehen** – inkl. Protokolle, E-Mails und interne Dokumente.\n\n---\n### 🔹 **Praktische Empfehlung:**\n- **Im Vertretungsfall:** Volles Einsichtsrecht wie ein Stamm-Mitglied.\n- **Außerhalb der Vertretung:** Kein automatischer Anspruch, aber der BR **sollte** Ersatzmitglieder informieren, um Handlungsfähigkeit zu sichern (z. B. durch regelmäßige Weiterleitung von Protokollen oder gezielte Schulungen).\n- **Achtung:** Der BR kann interne Regeln aufstellen, z. B. Ersatzmitgliedern **begrenzten Zugang** zu nicht-vertraulichen Unterlagen zu gewähren.\n\n*Quellen: [§ 34 Abs. 3 BetrVG](https://www.betriebsrat.de/fachartikel/ersatzmitglied/informations-und-einsichtsrechte-fuer-ersatzmitglieder-3124179), [Poko-Institut](https://www.poko.de/betriebsrat/betriebsrat-know-how/rollen-des-betriebsrats-die-aufgaben-im-ueberblick/ersatzmitglied-betriebsrat-welche-rechte-und-pflichten-gelten/sitzungsprotokoll-fuer-betriebsrat-ersatzmitglieder), [aas-Seminare](https://www.aas-seminare.de/betrvg-kommentare/sitzungsniederschrift/)*",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-07-22T08:20:45.204Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "skill",
+          "search_tool_functions",
+          "run_typescript",
+          "web_search"
+        ],
+        "integrationNames": [
+          "web_search"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  }
+]

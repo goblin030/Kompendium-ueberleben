@@ -1,0 +1,396 @@
+[
+  {
+    "id": "e0fe93b3-a56d-446f-a9ca-c9ebc22a825d",
+    "version": 0,
+    "chatId": "77c89455-1d21-4a13-b885-8d43afd054c3",
+    "content": "Wer ist der Psytrance Artist Tristan?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-09-22T19:56:30.270Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "4dd96fd2-4ae4-497e-9646-e263c76e21e1",
+    "version": 0,
+    "chatId": "77c89455-1d21-4a13-b885-8d43afd054c3",
+    "content": "Der Psytrance-Künstler **Tristan** ist **Tristan Cooke**, ein britischer Psytrance- und Goa-Trance-DJ und Produzent. Er wurde 1970 geboren und ist seit den frühen 1990er-Jahren eine prägende Figur in der Psytrance-Szene. Nach seinem Studium an der Warwick University reiste er durch Indien und spielte auf Full-Moon-Partys in Goa, bevor er nach Großbritannien zurückkehrte und sich in der Londoner Trance-Szene etablierte. Heute tritt er weltweit auf großen Psytrance-Festivals wie Boom, Ozora und anderen auf. Tristan hat mehrere Soloalben sowie Kollaborationen veröffentlicht, darunter auch unter dem Projektnamen **Killerwatts** mit Avalon.\n\nMöchtest du mehr über seine Musik oder seine Auftritte erfahren?",
+    "contentChunks": [
+      {
+        "id": "lLHlfioQy",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1790106994627,
+        "success": true,
+        "toolType": "rag",
+        "startTime": 1790106992408,
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "ar": "البحث على الويب",
+            "de": "Websuche",
+            "en": "Web Search",
+            "es": "Búsqueda web",
+            "fr": "Recherche Web",
+            "it": "Ricerca web",
+            "nl": "Webzoeken",
+            "pl": "Wyszukiwanie w sieci",
+            "pt-BR": "Pesquisa na web"
+          }
+        },
+        "customLocale": {
+          "done_description": {
+            "en": "web_search"
+          },
+          "working_description": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "1UnO1sqN": {
+            "url": "https://www.discogs.com/artist/18710-Tristan",
+            "date": null,
+            "rank": 8,
+            "title": "Tristan Discography: Vinyl, CDs, & More",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/USTQrTn-C11KzCbr2q7U7YxwHG_c5FG7zCgiaydVw4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmM4NWVkYzdh/ODRiZGUzODU4MjA3/ZjljOTg4N2Q5Zjk4/NDIzMWFiYWM1YmFh/NmQ1MGU0ZjgzOWUx/ZDZiMzJiZS93d3cu/ZGlzY29ncy5jb20v",
+              "thumbnail": "https://i.discogs.com/x7c_LOKZy_Ln60su4ZBdCe76O1Waf1uAcVKsSJX9Qb4/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE4NzEw/LTEyMzc1NDEzODMu/anBlZw.jpeg"
+            },
+            "snippets": [
+              "Künstler bearbeiten · Mehr Bilder · Bürgerl. Name: Tristan Cooke · Profil: UK Psychedelic Trance producer/DJ. Seiten: djtristan.com, Facebook, MySpace, SoundCloud, Bandcamp, Posterogs · Aliasse: Delusions Of Grandeur (2), Tristan Cooke, Word Of Mouth (3) Varianten: Alle werden angezeigt | Tristan ·",
+              "DJ Tristan, Tristansubtance, Tristin · [a18710] Künstler bearbeiten · Teilen · Vinyl und CDs · -Diskographie · 4 Albums · 16 Singles & EPs · 3 Compilations · 2 DJ Mixes · 13 Miscellaneous · 25 Albums · 5 Singles & EPs · 166 Compilations · 28 Mixes · 4 Videos ·",
+              "Tristan Discography at Discogs"
+            ],
+            "description": "Künstler bearbeiten · Mehr Bilder · Bürgerl. Name: <strong>Tristan Cooke</strong> · Profil: UK Psychedelic Trance producer/DJ. Seiten: djtristan.com, Facebook, MySpace, SoundCloud, Bandcamp, Posterogs · Aliasse: Delusions Of Grandeur (2), <strong>Tristan Cooke</strong>, ..."
+          },
+          "4LMiZmVL": {
+            "url": "https://en.wikipedia.org/wiki/Tristan_(musician)",
+            "date": null,
+            "rank": 3,
+            "title": "Tristan (musician) - Wikipedia",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+              "thumbnail": null
+            },
+            "snippets": [
+              "Tristan Cooke (born 1970), is a British psytrance and Goa trance DJ and producer. After graduating from Warwick University, he travelled throughout India playing at Full Moon parties in Goa, before returning to the UK in 1993 swiftly establishing his name on the London trance scene at events ...",
+              "As DJ Tristan, he now performs around the globe at the biggest psytrance festivals, such as Boom and Ozora, as well as other more mainstream dance festivals such as Glastonbury.",
+              "↑ \"Tristan\". Psytrance.pl.",
+              "↑ \"Tristan Interview #2023\". Psychedelic Magazine.",
+              "↑ \"DJ Tristan\". Mushroom Magazine."
+            ],
+            "description": "<strong>Tristan</strong> Cooke (born 1970), is a British <strong>psytrance</strong> and Goa trance DJ and producer."
+          },
+          "DVreYQ68": {
+            "url": "https://de.wikipedia.org/wiki/Avalon_(Musiker)",
+            "date": null,
+            "rank": 0,
+            "title": "Avalon (Musiker)",
+            "source": "wikipedia",
+            "can_open": true,
+            "metadata": {
+              "source": "wikipedia",
+              "doc_lang": "de",
+              "query_lang": "de"
+            },
+            "snippets": [
+              "**Avalon** (bürgerlicher Name **Leon Kane**) ist ein britischer Full-On-Psytrance-DJ und -Produzent. Im Juni 2020 verließ er London und lebt seitdem in Portugal.\n\n## Karriere\n\nAvalon begann seine Karriere als DJ im Jahr 2003, da es seiner Aussage nach zu dieser Zeit kaum gute DJs im Vereinigten Königreich zu buchen gab und er es deshalb selber machen wollte.\n\nEr begann zu produzieren und veröffentlichte im Jahr 2005 seine ersten beiden Tracks *Crystalline Phases* und *Quantum Bits* zusammen mit dem aus Brighton stammenden Psytrance-Produzenten Alex Diplock unter dem Projektnamen Reality Grid. Im Mai 2007 veröffentlichte das Duo das Album *Reality Check* auf dem Label Wildthings Records. 2009 verließ Kane das Projekt Reality Grid.\n\n2010 wurde er bei Nano Records unter Vertrag genommen. Im Jahr 2009 veröffentlichte Avalon dort seine erste EP *Avalanche*. 2010 folgte sein Solo-Debütalbum *Distant Futures*. Es enthält 10 Full-On-Psytrance-Tracks, darunter gemeinsame Songs mit den britischen Psytrance-Produzenten DJ Tristan (Tristan Cooke), Dickster (Dick Trevor) und Cosmosis (Bill Halsey) und es wurde vom israelischen Produzenten Ido Ophir gemastert.\n\nSeit dem Jahr 2012 veröffentlichte Avalon zwei Alben zusammen mit Dj Tristan unter dem Projektnamen *Killerwatts* und seit 2015 zusammen mit dem Psytrance-Projekt Sonic Species (Joe Markendale) ein Album unter dem gemeinsamen Alias *Future Frequency*.\n\nEr spielte unter anderem auf dem Ozora Festival in Ungarn, dem Boom Festival in Portugal, auf der Tomorrowland in Belgien, auf den A State Of Trance Festivals, dem Electric Daisy Carnival in Las Vegas und dem Burning Man in Nevada.\n\n## ‌ Diskografie (Auswahl)\n\n**Alben**\n\n-   ‌ 2009: als Reality Grid – *Reality Check* (Wildthings Records)\n-   2010: *Distant Futures* (Nano Records)\n-   2012: *The Remixes Volume One* (Nano Records)\n-   2017: *The Remixes Volume Two* (Nano Records)\n-   2019: *Rise* (Nano Records)\n-   2022: *Rise (The Remixes)* (Nano Records)\n\n**EPs**\n\n-   2009: *Avalanche* (Nano Records)\n-   2010: *Session One* (Nano Records, mit *Mr Peculiar*)\n-   2011: *Session Two* (Nano Records, mit *Sinerider*)\n\n**Singles**\n\n-   2018: Avalon & Burn In Noise – *Time And Space (Spirit Architect Remix)* (Dacru Records)\n-   2019: Avalon & Azax – *Universal* (VII)\n\n"
+            ],
+            "description": null
+          },
+          "H2KX8GGx": {
+            "url": "https://de.wikipedia.org/wiki/Chicago_(K%C3%BCnstler)",
+            "date": null,
+            "rank": 2,
+            "title": "Chicago (Künstler)",
+            "source": "wikipedia",
+            "can_open": true,
+            "metadata": {
+              "source": "wikipedia",
+              "doc_lang": "de",
+              "query_lang": "de"
+            },
+            "snippets": [
+              "Chicago\n\n**DJ Chicago** (* 1951 in Chicago in Illinois, USA), bürgerlicher Name *David Christman,* ist ein US-amerikanischer Psytrance-Artist und Mitbegründer von 1200 Micrograms. Schon früh prägte er den elektronischen Goa im Jahre 1983. Seitdem trat er zusammen mit anderen Künstlern wie Raja Ram, Riktam oder Bansi weltweit auf Festivals mit der Künstlervereinigung 1200 Micrograms auf, bis diese sich Ende 2016 auflöste.\n\n## Biografie\n\nChristman wuchs in Chicago auf. Danach reiste er eine Weile durch die Welt, um neue Kulturen und Bräuche kennen zu lernen. Seinen ersten Kontakt mit bewusstseinserweiternden Substanzen hatte er 1966, was seinen weiteren Weg maßgeblich beeinflusste. 1983 hatte er seinen Weg in die zu der Zeit aufkommende Goa-/Psy-Bewegung gefunden, in der er bis heute aktiv ist.\n\n1999 gründeten er, Raja Ram (Ronald Rothfield), Rikatam und Bansi die Künstlergruppierung *1200 Micrograms*. Die Idee hierfür kam ihnen, nach eigenen Angaben, auf 1200 Microgram LSD. Daraufhin publizierten sie in ihrem ersten Album *(1200 Micrograms)* zahlreiche Tracks unter dem Namen weiterer psychedelischer Substanzen wie z. B. Ayahuasca, Mescaline, Magic Mushrooms oder DMT.\n\nSie erreichten eine große Popularität in der Psytrance-Szene rund um die Welt und traten auf zahlreichen Festivals auf, bis sich die Gruppierung 2016 aufgrund interner Streitigkeiten auflöste.\n\n## Diskographie\n\nAls alleiniger Künstler sind keine Tracks bekannt, jedoch veröffentlichte er in der Gruppierung 1200 Micrograms mehrere Alben:\n\n-   *1200 Micrograms* (TIP World, 2002)\n-   *Heroes of the Imagination* (TIP World, 2003)\n-   *The Time Machine* (TIP World, 2004)\n-   *Live in Brazil* (TIP World, 2005)\n-   *1200 Micrograms Remixed* (TIP World, 2006)\n-   *Magic Numbers* (TIP World, 2007)\n-   *Gramology (EP)* (TIP World, 2010)\n-   *96% (EP)* (TIP World, 2012)\n-   *A Trip Inside The Outside (EP)* (Tip World, 2013)\n-   *1200 Mic's* (Tip World, 2013)\n-   *Ritualism (EP)* (Tip World, 2016)\n\n"
+            ],
+            "description": null
+          },
+          "KxZgbMM2": {
+            "url": "https://djtristan.com/about-dj-tristan/",
+            "date": null,
+            "rank": 9,
+            "title": "About DJ Tristan | Psytrance Pioneer & NANO Records Icon",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/2YEwO7zQPmDBIE6wRaeqLM6wvp0Xru6QecLtwLLq9D8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGMxZGFhMjY0/ZDc2MmIzMzRhMzY0/ZWUzYzg5NDIwZmRh/N2RmM2U1ZGMwY2Yx/YWM1NWFiN2VhZTkw/MjY5NGEzOS9kanRy/aXN0YW4uY29tLw",
+              "thumbnail": "https://djtristan.com/wp-content/uploads/2024/08/tristan-gig-photo-about-hero.jpg"
+            },
+            "snippets": [
+              "With over two decades of electrifying the global stages, Tristan’s journey from the vibrant shores of Goa to the heart of the underground movement showcases his deep connection to the pulsating rhythms of Psytrance.",
+              "Explore the world of DJ Tristan, a trailblazer in Psytrance music.",
+              "Instagram Icon Linking To DJ Tristan's Official Profile For Exclusive Updates And Photos. Facebook Icon Linking To DJ Tristan's Official Page For Updates And Events. YouTube Icon For DJ Tristan's Official Videos And Music. Spotify Icon For DJ Tristan's Music Releases."
+            ],
+            "description": "Tristan has been Dj’ing and producing for more than 20 years, performing his unique psychedelic sound at hundreds of the best Psy-trance festivals and clubs around the globe, released four solo and three collaboration albums (one as ‘Fearsome Engine’ with Laughing Buddha, and two as Killerwatts with Avalon), plus countless singles, remixes, and collaborations with many of the most respected artists in the scene. Tristan has been a corner-stone of the Psychedelic Trance community since it’s inception in the early nineties, spending every season in Goa soaking up the vibe from the source, as well as hosting some of its most happening events."
+          },
+          "N6Pg3Gxb": {
+            "url": "https://www.insomniac.com/music/artists/tristan/",
+            "date": null,
+            "rank": 7,
+            "title": "Tristan – Artists",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/Ha86mMFU8bCST9xbmbMQNmsEZ6bQJ29TbaxF2C2Qi4Q/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTYwNTc1YzEw/Y2NhOThiYTI1NTRj/NzQ0NWI4MmYyM2I5/OTliZTdhNjgxZjNl/MzE5MjJmYzZkMThk/YThkZGJmNy93d3cu/aW5zb21uaWFjLmNv/bS8",
+              "thumbnail": "https://d3vhc53cl8e8km.cloudfront.net/artists/3141/kAaAuSn589fjY4R7VMSeNOLs4X0jY4kOyLpKTZqI.jpeg"
+            },
+            "snippets": [
+              "With a career as long as psy-trance has history, Tristan has been a constant in the ever-changing outdoor festival scene for many years. Playing at some of the most important festivals across the globe, Tristan and his music has a massive following of dedicated fans who love his full-on journeys of deep gurgling psychedelia.",
+              "A newly re-kitted studio and his studying of the guitar has added some new flavours to Tristan’s signature sound, ensuring that all his fans will be utterly satisfied by these new offerings, clearly his best work to date.",
+              "Tristan’s innate sense of the dancefloor and full power psychedelic moments place him in a league of only the very highest calibre of producer."
+            ],
+            "description": "Having collaborated with pretty much every other ‘big’ name in trance at some point and releasing 2 classic albums for the famed Twisted Records, Tristan has moved into a new arena, and is now fully onboard with the NANO Records family, who are currently blazing a trail through psy-dom with their passionate approach to good times and good music!"
+          },
+          "jobFFigq": {
+            "url": "https://de.wikipedia.org/wiki/Tristan_Rain",
+            "date": null,
+            "rank": 4,
+            "title": "Tristan Rain",
+            "source": "wikipedia",
+            "can_open": true,
+            "metadata": {
+              "source": "wikipedia",
+              "doc_lang": "de",
+              "query_lang": "de"
+            },
+            "snippets": [
+              "**Tristan Rain** (* 17. Mai 1972 in Liestal) ist ein Schweizer Maler und Fotokünstler.\n\n## Biografie\n\nTristan Rain ist in Liestal geboren und in Münchenstein aufgewachsen (Kanton Basel-Landschaft). Nach seiner Architekturausbildung (1989–1993) und dem Besuch der Kunstgewerbeschule Basel (1990–1993, Malerei, Fotografie, Kunstgeschichte) arbeitete er mit Architekten und Innenarchitekten in Münchenstein und Basel. Seit 1995 ist er in Paris als Künstler tätig. Sein Werk entsteht zwischen Paris, Berlin und Stockholm.\n\n## Werk\n\nRain interessiert sich seit seiner Kindheit für Archäologie und für Kartografie und seine künstlerischen Werke verwenden oft archäologische sowie kartographische Konzepte. Er arbeitet in Form von zweiteiligen Werkgruppen, sogenannten Diptychen. Sie werden von einer stark reduzierten Farbpalette dominiert. In den monochrom scheinenden Farbflächen stehen labile, geometrische Konstruktionen aus metallfarbener Farbe. Es handelt sich um konzeptuelle Arbeiten bei denen ein versteckter Farbenreichtum erst langsam erschlossen werden kann. Er lässt Objekte oder Personen hinter einem Schleier vermuten. Der Künstler stellt seine Werke seit 1995 regelmässig in Galerien und Museen aus.\n\n"
+            ],
+            "description": null
+          },
+          "jq9Rb0gi": {
+            "url": "https://nanomusic.net/artist/tristan/",
+            "date": null,
+            "rank": 6,
+            "title": "Tristan - NANO Records Official",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/czfeipL8CQq7Q2bNKQD82QScpjnUIRUqC5T3B57FNtc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDk3ZjY0ZjVj/NmNkMDE4NmUwMGFj/ZTExNDQ3NDk2ZTFh/NDNmMjU2ZmMzNTc5/MWU4ZjVmNTVlZjdj/NTIyNGI2ZS9uYW5v/bXVzaWMubmV0Lw",
+              "thumbnail": "https://nanomusic.net/wp-content/uploads/2015/11/nano-records-artist-tristan-thumb.jpg"
+            },
+            "snippets": [
+              "Tristan has been a corner-stone of the Psychedelic Trance community since it’s inception in the early nineties, spending every season in Goa soaking up the vibe from the source, as well as hosting some of its most happening events.",
+              "Continually inspired by the psychedelic underground movement, Tristan can be found as often on the dancefloor as behind the decks, proving his boundless enthusiasm and energy for this music and culture is straight from the heart.",
+              "The name ‘Tristan’ is synonymous with Psychedelic Trance and the history of Nano Records."
+            ],
+            "description": "Tristan has been Dj’ing and producing for more than 30 years, performing his unique psychedelic sound at hundreds of the best Psy-trance festivals and clubs around the globe, released four solo and three collaboration albums (one as ‘Fearsome Engine’ with Laughing Buddha, and two as ‘Killerwatts’ with Avalon), plus countless singles, remixes, and collaborations with many of the most respected artists in the scene."
+          },
+          "uJki90n8": {
+            "url": "https://www.youtube.com/@TristanOfficial",
+            "date": null,
+            "rank": 5,
+            "title": "Tristan",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+              "thumbnail": "https://yt3.googleusercontent.com/ytc/AIdro_mppVcmyqq3ytvftiz9dOYJ1whaVwWLmlLyHxwj4dlBQw=s900-c-k-c0x00ffffff-no-rj"
+            },
+            "snippets": [],
+            "description": "AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy &amp; SafetyHow YouTube worksTest new features · © 2026 Google LLC · Tristan - YouTube"
+          },
+          "xdoqm5Z4": {
+            "url": "https://djtristan.com/",
+            "date": null,
+            "rank": 1,
+            "title": "DJ Tristan | Official Website – Psytrance Producer & DJ",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/2YEwO7zQPmDBIE6wRaeqLM6wvp0Xru6QecLtwLLq9D8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGMxZGFhMjY0/ZDc2MmIzMzRhMzY0/ZWUzYzg5NDIwZmRh/N2RmM2U1ZGMwY2Yx/YWM1NWFiN2VhZTkw/MjY5NGEzOS9kanRy/aXN0YW4uY29tLw",
+              "thumbnail": "https://djtristan.com/wp-content/uploads/2024/07/fresh-beats-background.jpg"
+            },
+            "snippets": [
+              "Crafted from luxurious bamboo fibre, each shirt celebrates the iconic album covers from DJ Tristan’s discography. ... Ever dreamed of mastering the art of psytrance directly under a legendary artist?",
+              "Explore our exclusive masterclass currently available, designed and led by DJ Tristan himself. Stay tuned as we expand our offerings to include more specialised classes tailored to advance your skills and knowledge in psytrance production.",
+              "Book DJ Tristan here for an unforgettable Psytrance experience.",
+              "Seize this rare opportunity to learn firsthand in the studio, discovering the secrets behind Tristan's groundbreaking psytrance techniques."
+            ],
+            "description": "Explore the official website of DJ Tristan, one of the world’s leading Psytrance DJs and producers. Discover his latest releases, exclusive merch, and masterclasses."
+          }
+        },
+        "isInterrupted": false,
+        "publicArguments": "Psytrance Künstler Tristan Biografie 2026",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Der Psytrance-Künstler **Tristan** ist **Tristan Cooke**, ein britischer Psytrance- und Goa-Trance-DJ und Produzent. Er wurde 1970 geboren und ist seit den frühen 1990er-Jahren eine prägende Figur in der Psytrance-Szene. Nach seinem Studium an der Warwick University reiste er durch Indien und spielte auf Full-Moon-Partys in Goa, bevor er nach Großbritannien zurückkehrte und sich in der Londoner Trance-Szene etablierte. Heute tritt er weltweit auf großen Psytrance-Festivals wie Boom, Ozora und anderen auf. Tristan hat mehrere Soloalben sowie Kollaborationen veröffentlicht, darunter auch unter dem Projektnamen **Killerwatts** mit Avalon",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "4LMiZmVL",
+          "jq9Rb0gi",
+          "KxZgbMM2"
+        ]
+      },
+      {
+        "text": ".\n\nMöchtest du mehr über seine Musik oder seine Auftritte erfahren?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-09-22T19:56:31.031Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1790106990295,
+        "completedAtMs": 1790106997082,
+        "firstTokenAtMs": 1790106992405,
+        "generationStats": {
+          "outputTokens": 198,
+          "completionCount": 1,
+          "generationDurationMs": 4490,
+          "outputTokensPerSecond": 44.097995545657014
+        },
+        "timeToFirstTokenMs": 2110,
+        "bootstrapDurationMs": 833,
+        "completionDurationMs": 6787,
+        "userMessageCreatedToCompletionMs": 6812
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "web_search"
+        ],
+        "integrationNames": [
+          "web_search"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "5eaf50d0-0f2a-451c-90f6-21bf240b479d",
+    "version": 0,
+    "chatId": "77c89455-1d21-4a13-b885-8d43afd054c3",
+    "content": "Tristan Cooke, bekannt als **DJ Tristan**, ist seit über 30 Jahren in der Psytrance-Szene aktiv. Er hat nicht nur als DJ und Produzent gearbeitet, sondern auch als wichtiger Akteur in der Entwicklung des Genres, insbesondere in den frühen 1990er-Jahren in Goa. Dort absorbierte er die Energie und den Stil der aufkommenden Psytrance-Bewegung und organisierte selbst Events. Seine Musik ist bekannt für ihre psychedelischen Klänge und tiefen, mitreißenden Beats, die auf Festivals weltweit für Begeisterung sorgen.\n\n### Wichtige Stationen und Projekte:\n- **Soloalben:** Tristan hat mehrere Soloalben veröffentlicht, darunter Klassiker wie *The Unseen Master* und *Chemical Tension*.\n- **Kollaborationen:** Er arbeitete mit vielen bekannten Künstlern der Szene zusammen, etwa mit **Avalon** (Leon Kane) unter dem Projektnamen **Killerwatts** oder mit **Laughing Buddha** als *Fearsome Engine*.\n- **Labels:** Er war eng mit **Twisted Records** verbunden und ist jetzt Teil der **NANO Records**-Familie, wo er weiterhin Musik veröffentlicht.\n- **Auftritte:** Tristan spielt regelmäßig auf den größten Psytrance-Festivals wie **Boom Festival (Portugal)**, **Ozora Festival (Ungarn)**, **Glastonbury (UK)** und vielen anderen.\n\n### Musikstil:\nSein Sound ist tief verwurzelt im **Full-On-Psytrance** und **Goa Trance**, oft geprägt von psychedelischen Elementen, kraftvollen Bässen und melodischen Linien, die den Zuhörer auf eine Reise mitnehmen.\n\n---\n### Aktuelles:\nAuf seiner [offiziellen Website](https://djtristan.com/) bietet er nicht nur Musik, sondern auch **Masterclasses** an, in denen er sein Wissen und seine Techniken für die Psytrance-Produktion weitergibt.\n\n---\nMöchtest du mehr über seine Diskografie, seine nächsten Auftritte oder seine Masterclasses wissen? Oder interessierst du dich für Empfehlungen seiner bekanntesten Tracks?",
+    "contentChunks": [
+      {
+        "text": "Tristan Cooke, bekannt als **DJ Tristan**, ist seit über 30 Jahren in der Psytrance-Szene aktiv. Er hat nicht nur als DJ und Produzent gearbeitet, sondern auch als wichtiger Akteur in der Entwicklung des Genres, insbesondere in den frühen 1990er-Jahren in Goa. Dort absorbierte er die Energie und den Stil der aufkommenden Psytrance-Bewegung und organisierte selbst Events. Seine Musik ist bekannt für ihre psychedelischen Klänge und tiefen, mitreißenden Beats, die auf Festivals weltweit für Begeisterung sorgen.\n\n### Wichtige Stationen und Projekte:\n- **Soloalben:** Tristan hat mehrere Soloalben veröffentlicht, darunter Klassiker wie *The Unseen Master* und *Chemical Tension*.\n- **Kollaborationen:** Er arbeitete mit vielen bekannten Künstlern der Szene zusammen, etwa mit **Avalon** (Leon Kane) unter dem Projektnamen **Killerwatts** oder mit **Laughing Buddha** als *Fearsome Engine*.\n- **Labels:** Er war eng mit **Twisted Records** verbunden und ist jetzt Teil der **NANO Records**-Familie, wo er weiterhin Musik veröffentlicht.\n- **Auftritte:** Tristan spielt regelmäßig auf den größten Psytrance-Festivals wie **Boom Festival (Portugal)**, **Ozora Festival (Ungarn)**, **Glastonbury (UK)** und vielen anderen",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "4LMiZmVL",
+          "jq9Rb0gi",
+          "KxZgbMM2",
+          "N6Pg3Gxb"
+        ]
+      },
+      {
+        "text": ".\n\n### Musikstil:\nSein Sound ist tief verwurzelt im **Full-On-Psytrance** und **Goa Trance**, oft geprägt von psychedelischen Elementen, kraftvollen Bässen und melodischen Linien, die den Zuhörer auf eine Reise mitnehmen.\n\n---\n### Aktuelles:\nAuf seiner [offiziellen Website](https://djtristan.com/) bietet er nicht nur Musik, sondern auch **Masterclasses** an, in denen er sein Wissen und seine Techniken für die Psytrance-Produktion weitergibt",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "xdoqm5Z4",
+          "KxZgbMM2"
+        ]
+      },
+      {
+        "text": ".\n\n---\nMöchtest du mehr über seine Diskografie, seine nächsten Auftritte oder seine Masterclasses wissen? Oder interessierst du dich für Empfehlungen seiner bekanntesten Tracks?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-09-22T19:58:52.141Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1790107131717,
+        "completedAtMs": 1790107139977,
+        "firstTokenAtMs": 1790107136299,
+        "generationStats": {
+          "outputTokens": 499,
+          "completionCount": 1,
+          "generationDurationMs": 3661,
+          "outputTokensPerSecond": 136.30155695165254
+        },
+        "timeToFirstTokenMs": 4582,
+        "bootstrapDurationMs": 447,
+        "completionDurationMs": 8260,
+        "userMessageCreatedToCompletionMs": 8158
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [],
+        "integrationNames": []
+      }
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "13185f54-710c-4986-9400-5ae6f7746474",
+    "version": 0,
+    "chatId": "77c89455-1d21-4a13-b885-8d43afd054c3",
+    "content": "ja",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-09-22T19:58:51.819Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  }
+]

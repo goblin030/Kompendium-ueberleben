@@ -1,0 +1,64 @@
+[
+  {
+    "id": "1acc5a09-8ba7-4939-9417-5208d2bbfcec",
+    "version": 0,
+    "chatId": "4df2b653-149d-4e1e-ac1a-a07138a7aed3",
+    "content": "Kann ich aus alten Brötchen \"French Toast\" machen?\n",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-07-31T06:21:30.697Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "7d3a8730-81fb-413a-93d2-792f93e4435f",
+    "version": 0,
+    "chatId": "4df2b653-149d-4e1e-ac1a-a07138a7aed3",
+    "content": "Ja, Robert, du kannst **French Toast** (auch bekannt als *Arme Ritter* oder *Pain Perdu*) problemlos aus alten Brötchen zubereiten! Alte Brötchen eignen sich sogar besonders gut, weil sie etwas trockener sind und die Flüssigkeit (Eiermilch) besser aufnehmen.\n\n---\n\n### **Einfaches Rezept für French Toast aus Brötchen**\n**Zutaten (für 2 Portionen):**\n- 4 alte Brötchen (am besten vom Vortag)\n- 2 Eier\n- 100 ml Milch (oder Sahne für eine reichhaltigere Variante)\n- 1 TL Zucker (optional, nach Geschmack)\n- 1 TL Zimt (optional)\n- 1 Prise Salz\n- Butter oder Öl zum Braten\n- **Toppings:** Ahornsirup, Puderzucker, frische Früchte, Nussnougatcreme oder Honig\n\n---\n\n**Zubereitung:**\n1. **Brötchen vorbereiten:**\n   Schneide die Brötchen in ca. 1,5–2 cm dicke Scheiben.\n\n2. **Eiermilch anrühren:**\n   Verquirle die Eier mit Milch, Zucker, Zimt und einer Prise Salz in einer flachen Schüssel.\n\n3. **Brötchen einweichen:**\n   Lege die Brötchenscheiben für **ca. 20–30 Sekunden pro Seite** in die Eiermilch, bis sie die Flüssigkeit gut aufgenommen haben. Sie sollten feucht, aber nicht matschig sein.\n\n4. **Braten:**\n   Erhitze etwas Butter oder Öl in einer Pfanne bei mittlerer Hitze.\n   Brate die Scheiben **goldbraun von beiden Seiten** (ca. 2–3 Minuten pro Seite).\n\n5. **Servieren:**\n   Warm mit deinen Lieblingstoppings genießen!\n\n---\n**Tipp:**\n- Für eine **extra-knusprige Variante** kannst du die Scheiben vor dem Braten kurz in **Paniermehl** wenden.\n- Falls die Brötchen sehr hart sind, kannst du sie vor dem Einweichen kurz in **warme Milch** tauchen, damit sie weicher werden.\n\n---\nMöchtest du eine bestimmte Variante ausprobieren (z. B. süß mit Karamell oder herzhaft mit Käse)? Ich helfe dir gerne mit Anpassungen! 😊",
+    "contentChunks": [
+      {
+        "text": "Ja, Robert, du kannst **French Toast** (auch bekannt als *Arme Ritter* oder *Pain Perdu*) problemlos aus alten Brötchen zubereiten! Alte Brötchen eignen sich sogar besonders gut, weil sie etwas trockener sind und die Flüssigkeit (Eiermilch) besser aufnehmen.\n\n---\n\n### **Einfaches Rezept für French Toast aus Brötchen**\n**Zutaten (für 2 Portionen):**\n- 4 alte Brötchen (am besten vom Vortag)\n- 2 Eier\n- 100 ml Milch (oder Sahne für eine reichhaltigere Variante)\n- 1 TL Zucker (optional, nach Geschmack)\n- 1 TL Zimt (optional)\n- 1 Prise Salz\n- Butter oder Öl zum Braten\n- **Toppings:** Ahornsirup, Puderzucker, frische Früchte, Nussnougatcreme oder Honig\n\n---\n\n**Zubereitung:**\n1. **Brötchen vorbereiten:**\n   Schneide die Brötchen in ca. 1,5–2 cm dicke Scheiben.\n\n2. **Eiermilch anrühren:**\n   Verquirle die Eier mit Milch, Zucker, Zimt und einer Prise Salz in einer flachen Schüssel.\n\n3. **Brötchen einweichen:**\n   Lege die Brötchenscheiben für **ca. 20–30 Sekunden pro Seite** in die Eiermilch, bis sie die Flüssigkeit gut aufgenommen haben. Sie sollten feucht, aber nicht matschig sein.\n\n4. **Braten:**\n   Erhitze etwas Butter oder Öl in einer Pfanne bei mittlerer Hitze.\n   Brate die Scheiben **goldbraun von beiden Seiten** (ca. 2–3 Minuten pro Seite).\n\n5. **Servieren:**\n   Warm mit deinen Lieblingstoppings genießen!\n\n---\n**Tipp:**\n- Für eine **extra-knusprige Variante** kannst du die Scheiben vor dem Braten kurz in **Paniermehl** wenden.\n- Falls die Brötchen sehr hart sind, kannst du sie vor dem Einweichen kurz in **warme Milch** tauchen, damit sie weicher werden.\n\n---\nMöchtest du eine bestimmte Variante ausprobieren (z. B. süß mit Karamell oder herzhaft mit Käse)? Ich helfe dir gerne mit Anpassungen! 😊",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-07-31T06:21:32.055Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1785478892067,
+        "completedAtMs": 1785478907301,
+        "firstTokenAtMs": 1785478893248,
+        "generationStats": {
+          "outputTokens": 531,
+          "completionCount": 1,
+          "generationDurationMs": 13794,
+          "outputTokensPerSecond": 38.49499782514136
+        },
+        "timeToFirstTokenMs": 1181,
+        "completionDurationMs": 15234,
+        "userMessageCreatedToCompletionMs": 16604
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [],
+        "integrationNames": []
+      }
+    },
+    "canvas": [],
+    "files": []
+  }
+]

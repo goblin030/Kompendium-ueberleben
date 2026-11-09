@@ -1,0 +1,205 @@
+[
+  {
+    "id": "bfe33ccd-63b7-4da6-bc2b-5db4f72b6de8",
+    "version": 0,
+    "chatId": "de925b2a-4fb3-4cbe-835d-655c7787be0f",
+    "content": "gibt es spezielle Frmatierungen, damit Berwerbungen machiel lesbarer werden ?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-10-07T13:41:31.488Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "f6248bdc-1cc0-4baa-a3a3-ea094afa8357",
+    "version": 0,
+    "chatId": "de925b2a-4fb3-4cbe-835d-655c7787be0f",
+    "content": "Das gängige Standard-Tool zur Prüfung von Bewerbungen ist ein **ATS – Applicant Tracking System** (auch Bewerbungsmanagement-System genannt).\n\nKurz erklärt:\n- Es filtert, analysiert und verwaltet eingehende Bewerbungen automatisch\n- Bekannte Anbieter in Deutschland: **SAP SuccessFactors**, **Personio**, **Workday**, **Greenhouse**, **Lever** und **Softgarden**\n- Viele Unternehmen nutzen das ATS für ein erst automatisiertes Screening (z. B. anhand von Keywords aus der Stellenanzeige), bevor ein Mensch die Bewerbung liest\n\nDeshalb der oft gegebene Tipp: relevante Begriffe aus der Stellenausschreibung naturally in Lebenslauf und Anschreiben verwenden, damit das ATS die Bewerbung positiv einordnet.\n\nMeintest du so ein Recruiting-Tool, oder ging es dir eher um KI-gestützte Bewerbungsfotos/-Checks (z. B. für Bewerbungsfotos) oder um Rechtschreibprüfung?",
+    "contentChunks": [
+      {
+        "text": "German question: common standard tool for screening applications? ATS (Applicant Tracking System). Answer briefly in German.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1791380147036,
+          "contextId": "harness-reasoning-0",
+          "startTime": 1791380146861
+        }
+      },
+      {
+        "text": "Das gängige Standard-Tool zur Prüfung von Bewerbungen ist ein **ATS – Applicant Tracking System** (auch Bewerbungsmanagement-System genannt).\n\nKurz erklärt:\n- Es filtert, analysiert und verwaltet eingehende Bewerbungen automatisch\n- Bekannte Anbieter in Deutschland: **SAP SuccessFactors**, **Personio**, **Workday**, **Greenhouse**, **Lever** und **Softgarden**\n- Viele Unternehmen nutzen das ATS für ein erst automatisiertes Screening (z. B. anhand von Keywords aus der Stellenanzeige), bevor ein Mensch die Bewerbung liest\n\nDeshalb der oft gegebene Tipp: relevante Begriffe aus der Stellenausschreibung naturally in Lebenslauf und Anschreiben verwenden, damit das ATS die Bewerbung positiv einordnet.\n\nMeintest du so ein Recruiting-Tool, oder ging es dir eher um KI-gestützte Bewerbungsfotos/-Checks (z. B. für Bewerbungsfotos) oder um Rechtschreibprüfung?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-10-07T13:35:46.133Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1791380146017,
+        "completedAtMs": 1791380154404,
+        "firstTokenAtMs": 1791380146861,
+        "generationStats": {
+          "outputTokens": 248,
+          "completionCount": 1,
+          "generationDurationMs": 2139,
+          "outputTokensPerSecond": 115.94202898550726
+        },
+        "timeToFirstTokenMs": 844,
+        "bootstrapDurationMs": 476,
+        "completionDurationMs": 8387,
+        "userMessageCreatedToCompletionMs": 8402
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [],
+        "integrationNames": []
+      }
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "29dc1f32-9746-4137-9993-c7e34b8ba696",
+    "version": 0,
+    "chatId": "de925b2a-4fb3-4cbe-835d-655c7787be0f",
+    "content": "wie heist das gängige standart tool zur prüfung von Bewerbungen ?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-10-07T13:35:46.002Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "ca6afdd7-dc2e-482f-a19e-a48e72ed7eed",
+    "version": 0,
+    "chatId": "de925b2a-4fb3-4cbe-835d-655c7787be0f",
+    "content": "gibt es einen standard nach dem Bewerbungen formatiert werden sollten ",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-10-07T13:36:28.947Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "1691b8a1-6385-4b95-8244-865188ebdd55",
+    "version": 0,
+    "chatId": "de925b2a-4fb3-4cbe-835d-655c7787be0f",
+    "content": "# Formate für Bewerbungen in Deutschland\n\nEin **verbindliches, genormtes Format gibt es nicht** – aber es haben sich klare Standards etabliert, an denen sich die meisten Personaler und ATS-Systeme orientieren:\n\n## 📄 Der deutsche Standard („ klassische Bewerbungs-mappe\")\n\n**Reihenfolge der Unterlagen:**\n1. **Anschreiben** (1 Seite, Din-A4)\n2. **Lebenslauf** (1–2 Seiten, tabellarisch, mit Datum und Unterschrift)\n3. **Zeugnisse** (aktuell rückwärts chronologisch)\n4. **Zertifikate / Arbeitsproben** (optional)\n\n**Tabellarischer Lebenslauf:**\n- Rückwärts chronologisch (neueste Position zuerst)\n- Spalten: Zeitraum | Position/Arbeitgeber | Ort | Hauptaufgaben\n- Lückenlose Zeitspannen, keine großen Lücken\n- Foto ist **in Deutschland nicht Pflicht** (AGG), aber immer noch verbreitet\n\n## 🤖 Der „ATS-Standard\" (wichtig bei Online-Bewerbung)\n\nDamit das Applicant Tracking System (aus unserer letzten Nachricht) alles korrekt ausliest:\n\n- **Dateiformat:** PDF (außer explizit anderes Format gefordert – manche ATS bevorzugen Word)\n- **keine Tabellen, Textfelder, Grafiken oder Spalten** im Lebenslauf – ATS können sie nicht parsen\n- **Standard-Schriftarten:** Arial, Calibri, Helvetica, 10–12 pt\n- **Standard-Überschriften verwenden:** „Berufserfahrung\", „Ausbildung\", „Kenntnisse\"\n- **Dateiname:** `Nachname_Vorname_Lebenslauf.pdf`\n- **kein Lebenslauf als Foto/Scan**, sondern durchsuchbarer Text (keine Bild-PDF)\n\n## 💡 Kurz gesagt\n\nDer De-facto-Standard ist: **tabellarischer Lebenslauf + kurzes Anschreiben, als ATS-freundliche PDF**, wenn online beworben wird. In UK/USA gelten ähnliche ATS-Regeln, aber dort ist das Anschreiben (Cover Letter) stärker verbreitet und der CV statt des klassischen deutschen Lebenslaufs.\n\nSoll ich dir eine Vorlage (z. B. als Word- oder LaTeX-Format) erstellen, an der du dich orientieren kannst?# Formate für Bewerbungen in Deutschland\n\nEin **verbindliches, genormtes Format gibt es nicht** – aber es haben sich klare Standards etabliert, an denen sich Personaler und ATS-Systeme orientieren:\n\n## 📄 Der deutsche Standard („klassische Bewerbungsmappe\")\n\n**Reihenfolge der Unterlagen:**\n1. **Anschreiben** (max. 1 Seite, DIN A4)\n2. **Lebenslauf** (1–2 Seiten, tabellarisch, mit Datum und Unterschrift)\n3. **Zeugnisse** (rückwärts chronologisch)\n4. **Zertifikate / Arbeitsproben** (optional)\n\n**Tabellarischer Lebenslauf:**\n- Rückwärts chronologisch (neueste Position zuerst)\n- Spalten: Zeitraum | Position/Arbeitgeber | Ort | Hauptaufgaben\n- Lückenlose Zeitspannen\n- Foto ist **nicht Pflicht** (AGG), aber in Deutschland immer noch verbreitet\n\n## 🤖 Der „ATS-Standard\" (wichtig bei Online-Bewerbung)\n\nDamit das Applicant Tracking System (siehe vorherige Nachricht) alles korrekt ausliest:\n\n- **Dateiformat:** PDF (außer explizit anders gefordert)\n- **Keine Tabellen, Textfelder, Spalten oder Grafiken** im Lebenslauf – viele ATS können sie nicht auslesen\n- **Standard-Schriftarten:** Arial, Calibri, Helvetica, 10–12 pt\n- **Standard-Überschriften:** „Berufserfahrung\", „Ausbildung\", „Kenntnisse\"\n- **Dateiname:** `Nachname_Vorname_Lebenslauf.pdf`\n- **Durchsuchbarer Text**, keine eingescannte Bild-PDF\n\n## 💡 Kurz gesagt\n\nDe-facto-Standard: **tabellarischer Lebenslauf + kurzes Anschreiben als ATS-freundliche PDF**. International (UK/USA) gilt Ähnliches, dort ist der CV statt des klassischen deutschen Lebenslaufs üblich und das Foto unüblich.\n\nSoll ich dir eine Vorlage für einen Lebenslauf oder Anschreiben erstellen?",
+    "contentChunks": [
+      {
+        "text": "# Formate für Bewerbungen in Deutschland\n\nEin **verbindliches, genormtes Format gibt es nicht** – aber es haben sich klare Standards etabliert, an denen sich die meisten Personaler und ATS-Systeme orientieren:\n\n## 📄 Der deutsche Standard („ klassische Bewerbungs-mappe\")\n\n**Reihenfolge der Unterlagen:**\n1. **Anschreiben** (1 Seite, Din-A4)\n2. **Lebenslauf** (1–2 Seiten, tabellarisch, mit Datum und Unterschrift)\n3. **Zeugnisse** (aktuell rückwärts chronologisch)\n4. **Zertifikate / Arbeitsproben** (optional)\n\n**Tabellarischer Lebenslauf:**\n- Rückwärts chronologisch (neueste Position zuerst)\n- Spalten: Zeitraum | Position/Arbeitgeber | Ort | Hauptaufgaben\n- Lückenlose Zeitspannen, keine großen Lücken\n- Foto ist **in Deutschland nicht Pflicht** (AGG), aber immer noch verbreitet\n\n## 🤖 Der „ATS-Standard\" (wichtig bei Online-Bewerbung)\n\nDamit das Applicant Tracking System (aus unserer letzten Nachricht) alles korrekt ausliest:\n\n- **Dateiformat:** PDF (außer explizit anderes Format gefordert – manche ATS bevorzugen Word)\n- **keine Tabellen, Textfelder, Grafiken oder Spalten** im Lebenslauf – ATS können sie nicht parsen\n- **Standard-Schriftarten:** Arial, Calibri, Helvetica, 10–12 pt\n- **Standard-Überschriften verwenden:** „Berufserfahrung\", „Ausbildung\", „Kenntnisse\"\n- **Dateiname:** `Nachname_Vorname_Lebenslauf.pdf`\n- **kein Lebenslauf als Foto/Scan**, sondern durchsuchbarer Text (keine Bild-PDF)\n\n## 💡 Kurz gesagt\n\nDer De-facto-Standard ist: **tabellarischer Lebenslauf + kurzes Anschreiben, als ATS-freundliche PDF**, wenn online beworben wird. In UK/USA gelten ähnliche ATS-Regeln, aber dort ist das Anschreiben (Cover Letter) stärker verbreitet und der CV statt des klassischen deutschen Lebenslaufs.\n\nSoll ich dir eine Vorlage (z. B. als Word- oder LaTeX-Format) erstellen, an der du dich orientieren kannst?# Formate für Bewerbungen in Deutschland\n\nEin **verbindliches, genormtes Format gibt es nicht** – aber es haben sich klare Standards etabliert, an denen sich Personaler und ATS-Systeme orientieren:\n\n## 📄 Der deutsche Standard („klassische Bewerbungsmappe\")\n\n**Reihenfolge der Unterlagen:**\n1. **Anschreiben** (max. 1 Seite, DIN A4)\n2. **Lebenslauf** (1–2 Seiten, tabellarisch, mit Datum und Unterschrift)\n3. **Zeugnisse** (rückwärts chronologisch)\n4. **Zertifikate / Arbeitsproben** (optional)\n\n**Tabellarischer Lebenslauf:**\n- Rückwärts chronologisch (neueste Position zuerst)\n- Spalten: Zeitraum | Position/Arbeitgeber | Ort | Hauptaufgaben\n- Lückenlose Zeitspannen\n- Foto ist **nicht Pflicht** (AGG), aber in Deutschland immer noch verbreitet\n\n## 🤖 Der „ATS-Standard\" (wichtig bei Online-Bewerbung)\n\nDamit das Applicant Tracking System (siehe vorherige Nachricht) alles korrekt ausliest:\n\n- **Dateiformat:** PDF (außer explizit anders gefordert)\n- **Keine Tabellen, Textfelder, Spalten oder Grafiken** im Lebenslauf – viele ATS können sie nicht auslesen\n- **Standard-Schriftarten:** Arial, Calibri, Helvetica, 10–12 pt\n- **Standard-Überschriften:** „Berufserfahrung\", „Ausbildung\", „Kenntnisse\"\n- **Dateiname:** `Nachname_Vorname_Lebenslauf.pdf`\n- **Durchsuchbarer Text**, keine eingescannte Bild-PDF\n\n## 💡 Kurz gesagt\n\nDe-facto-Standard: **tabellarischer Lebenslauf + kurzes Anschreiben als ATS-freundliche PDF**. International (UK/USA) gilt Ähnliches, dort ist der CV statt des klassischen deutschen Lebenslaufs üblich und das Foto unüblich.\n\nSoll ich dir eine Vorlage für einen Lebenslauf oder Anschreiben erstellen?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-10-07T13:36:28.961Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1791380188851,
+        "completedAtMs": 1791380201655,
+        "firstTokenAtMs": 1791380189571,
+        "generationStats": {
+          "outputTokens": 991,
+          "completionCount": 1,
+          "generationDurationMs": 12024,
+          "outputTokensPerSecond": 82.41849634065204
+        },
+        "timeToFirstTokenMs": 720,
+        "bootstrapDurationMs": 365,
+        "completionDurationMs": 12804,
+        "userMessageCreatedToCompletionMs": 12708
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [],
+        "integrationNames": []
+      }
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "3b1a17c5-c9bc-475c-9de1-db7915b15393",
+    "version": 0,
+    "chatId": "de925b2a-4fb3-4cbe-835d-655c7787be0f",
+    "content": "# Maschinenlesbare Bewerbungen – Formatierungsregeln\n\nJa, es gibt konkrete Formatierungsregeln, damit ATS-Systeme (und auch KI-Tools wie CV-Parser) deine Bewerbung korrekt einlesen können. Die wichtigsten:\n\n## ✅ So formatieren\n\n**Struktur & Text**\n- **Einfache linear angeordnete Abschnitte** von oben nach unten (keine mehrspaltigen Layouts!)\n- **Standard-Überschriften** nutzen, die Parser erkennen: „Berufserfahrung\", „Ausbildung\", „Kenntnisse\", „Sprachen\"\n- Nur **Standard-HTML/Unicode-Zeichen** – keine Sonderzeichen, Emojis, Pfeile (→) oder Aufzählungsgrafiken\n- Einfache Aufzählungszeichen (•, -) sind okay\n\n**Daten & Angaben**\n- **Daten im Format `MM/JJJJ – MM/JJJJ`** schreiben, z. B. „03/2022 – 06/2024\" – Parser erkennen das am zuverlässigsten\n- Kontaktinfos als **reinen Text**, nicht in Kopfzeile/Fußzeile (werden oft überlesen)\n- Berufsbezeichnungen **exakt wie in der Stellenanzeige** verwenden\n\n**Datei & Technik**\n- **Durchsuchbare Text-PDF** (testen: Text im PDF markierbar? Wenn ja → okay)\n- Dateiname: `Nachname_Vorname_Lebenslauf.pdf`\n- Standard-Schrift (Arial, Calibri), 10–12 pt, mind. 1 cm Rand\n\n## ❌ Vermeiden\n\n- Tabellen und Spalten-Layouts (Parser lesen zeilenweise → Daten werden falsch zugeordnet)\n- Textfelder, Textboxen, SmartArt\n- Grafiken, Logos, Icons, Fotos **im Textfluss** (Foto bei Bedarf isoliert oben)\n- Kopf- und Fußzeilen für wichtige Infos\n- Kursive Schrift, Unterstreichungen, verspielte Schriftarten\n- Abkürzungen ohne Auflösung (z. B. „FH\" statt „Fachhochschule\")\n\n## 🔍 Praxistipp\n\nKopiere deinen Lebenslauf in einen **Plain-Text-Editor** (Notepad): Wenn die Reihenfolge und Inhalte dort noch logisch lesbar sind, kann es auch ein Parser. Alternativ gibt es kostenlose ATS-Checker online (z. B. Jobscan, resume-worded).\n\nHinweis: Bei manchen ATS (v. a. ältere Systeme mancher Konzerne) wird explizit **Word (.docx)** statt PDF besser verarbeitet – wenn die Stellenanzeige nichts sagt, ist PDF der sichere Standard.\n\nSoll ich dir eine komplett ATS-optimierte Lebenslauf-Vorlage erstellen, an der du dich orientieren kannst?",
+    "contentChunks": [
+      {
+        "text": "The user asks about special formatting to make applications machine-readable. Answer in German, concise.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1791380493483,
+          "contextId": "harness-reasoning-0",
+          "startTime": 1791380492458
+        }
+      },
+      {
+        "text": "# Maschinenlesbare Bewerbungen – Formatierungsregeln\n\nJa, es gibt konkrete Formatierungsregeln, damit ATS-Systeme (und auch KI-Tools wie CV-Parser) deine Bewerbung korrekt einlesen können. Die wichtigsten:\n\n## ✅ So formatieren\n\n**Struktur & Text**\n- **Einfache linear angeordnete Abschnitte** von oben nach unten (keine mehrspaltigen Layouts!)\n- **Standard-Überschriften** nutzen, die Parser erkennen: „Berufserfahrung\", „Ausbildung\", „Kenntnisse\", „Sprachen\"\n- Nur **Standard-HTML/Unicode-Zeichen** – keine Sonderzeichen, Emojis, Pfeile (→) oder Aufzählungsgrafiken\n- Einfache Aufzählungszeichen (•, -) sind okay\n\n**Daten & Angaben**\n- **Daten im Format `MM/JJJJ – MM/JJJJ`** schreiben, z. B. „03/2022 – 06/2024\" – Parser erkennen das am zuverlässigsten\n- Kontaktinfos als **reinen Text**, nicht in Kopfzeile/Fußzeile (werden oft überlesen)\n- Berufsbezeichnungen **exakt wie in der Stellenanzeige** verwenden\n\n**Datei & Technik**\n- **Durchsuchbare Text-PDF** (testen: Text im PDF markierbar? Wenn ja → okay)\n- Dateiname: `Nachname_Vorname_Lebenslauf.pdf`\n- Standard-Schrift (Arial, Calibri), 10–12 pt, mind. 1 cm Rand\n\n## ❌ Vermeiden\n\n- Tabellen und Spalten-Layouts (Parser lesen zeilenweise → Daten werden falsch zugeordnet)\n- Textfelder, Textboxen, SmartArt\n- Grafiken, Logos, Icons, Fotos **im Textfluss** (Foto bei Bedarf isoliert oben)\n- Kopf- und Fußzeilen für wichtige Infos\n- Kursive Schrift, Unterstreichungen, verspielte Schriftarten\n- Abkürzungen ohne Auflösung (z. B. „FH\" statt „Fachhochschule\")\n\n## 🔍 Praxistipp\n\nKopiere deinen Lebenslauf in einen **Plain-Text-Editor** (Notepad): Wenn die Reihenfolge und Inhalte dort noch logisch lesbar sind, kann es auch ein Parser. Alternativ gibt es kostenlose ATS-Checker online (z. B. Jobscan, resume-worded).\n\nHinweis: Bei manchen ATS (v. a. ältere Systeme mancher Konzerne) wird explizit **Word (.docx)** statt PDF besser verarbeitet – wenn die Stellenanzeige nichts sagt, ist PDF der sichere Standard.\n\nSoll ich dir eine komplett ATS-optimierte Lebenslauf-Vorlage erstellen, an der du dich orientieren kannst?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-10-07T13:41:31.506Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1791380491288,
+        "completedAtMs": 1791380501054,
+        "firstTokenAtMs": 1791380492457,
+        "generationStats": {
+          "outputTokens": 638,
+          "completionCount": 1,
+          "generationDurationMs": 8479,
+          "outputTokensPerSecond": 75.2447222549829
+        },
+        "timeToFirstTokenMs": 1169,
+        "bootstrapDurationMs": 773,
+        "completionDurationMs": 9766,
+        "userMessageCreatedToCompletionMs": 9566
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [],
+        "integrationNames": []
+      }
+    },
+    "canvas": [],
+    "files": []
+  }
+]

@@ -1,0 +1,385 @@
+[
+  {
+    "id": "d22f917c-9cfc-4319-831f-f8f606d16be4",
+    "version": 0,
+    "chatId": "a8ac3fa0-905b-43c0-a147-86959ffecb58",
+    "content": "Für den Denqbar DQ4200 wird in der Bedienungsanleitung und in technischen Dokumenten **Motoröl der Viskositätsklasse SAE 10W40** empfohlen. Dies gilt für die meisten Benzinmotoren von Denqbar, sofern nicht anders angegeben.\n\nZusätzlich empfiehlt Denqbar für ihre Stromerzeuger generell **vollsynthetisches Motoröl**, da es die besten Schmiereigenschaften bietet und Ablagerungen vermeidet.\n\nFalls du die genaue Spezifikation für deinen DQ4200 noch einmal in der Originalanleitung nachlesen möchtest, findest du diese auf Seite 21 der Betriebsanleitung. Möchtest du noch weitere Details zu Marken oder Alternativen wissen?",
+    "contentChunks": [
+      {
+        "id": "Fs62zlPgN",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1783453089046,
+        "success": true,
+        "toolType": "rag",
+        "startTime": 1783453087222,
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "ar": "البحث على الويب",
+            "de": "Websuche",
+            "en": "Web Search",
+            "es": "Búsqueda web",
+            "fr": "Recherche Web",
+            "it": "Ricerca web",
+            "nl": "Webzoeken",
+            "pl": "Wyszukiwanie w sieci",
+            "pt-BR": "Pesquisa na web"
+          }
+        },
+        "customLocale": {
+          "done_description": {
+            "en": "web_search"
+          },
+          "working_description": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "eboakkxz": {
+            "url": "https://www.denqbar.com/blog/Tipps-amp-Tricks-Welche-Ouml-lsorte-ist-die-Richtige/b-49/",
+            "date": null,
+            "rank": 0,
+            "title": "DENQBAR GmbH",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/ysUejmLWnOx3o-Aa1HjcOJ93k2h8MuaTEliPgtIbPcI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2Q5OTFiYTc1/YTcwMDU2MTY3ZjY3/MDZlZTE2YzQ5MTAw/MDJmZmQ1YmE0Mjli/YjRmM2Q4YmRhMTdl/MDYxNTE0MC93d3cu/ZGVucWJhci5jb20v",
+              "thumbnail": "https://cdn02.plentymarkets.com/jm91bracrbxo/plugin/15/ceres/"
+            },
+            "snippets": [
+              "Viele Kunden fragen uns: Welche Ölsorte soll ich für die DENQBAR Inverter Stromerzeuger oder den DENQBAR Gartenhäcksler verwenden? Heute wollen wir kurz die idealen Ölsorten für unsere Benzinmotoren und die von ihnen betriebenen Geräte vorstellen und erläutern, was es mit den kryptischen ...",
+              "Bei der SAE-Klassifikation handelt es sich um festgelegte Viskositätsklassen, welche die Fließeigenschaften des Motoröls beschreiben. Diese Klassifikation wird bei den herkömmlich erhältlichen Mehrbereichs-Motorenölen mit SAE Zahl1 W - Zahl2 angegeben. Dabei steht die erste Zahl für die Niedrigtemperatur-Viskosität und die zweite Zahl für Hochtemeperatur-Viskosität.",
+              "Je kleiner die Zahl desto dünnflüssiger ist das kalte Motoröl, ebenso sagt es aus, dass das Öl bis zu einer niedrigeren Temperatur noch pumpbar ist und damit für den Motor verarbeitbar. Je kleiner der Wert desto besser verteilt sich das Öl beim Kaltstart des Motors und schützt ihn so vor Verschleiß.",
+              "Die zweite Zahl gibt die Viskosität des Öls im heißen Zustand an, dass heißt je höher diese Zahl ist, desto dickflüssiger ist das heiße Motoröl. Auch hier gilt je niedriger die Zahl desto leichter läuft der Motor. Hier gibt es jedoch die Ausnahme: Die Belastbarkeit des Motoröls steigt, je höher die Zahl ist.",
+              "Immer noch informationshungrig? Dann lesen Sie gerne auch unseren Beitrag zum richtigen Motoröl, gezielt für die DENQBAR Inverter Generatoren! Im Teil 2 von diesem Beitrag finden Sie alle Infos über die Motoröl Spezifikationen API und ACEA!"
+            ],
+            "description": "Viele Kunden fragen uns: Welche Ölsorte soll ich für die DENQBAR Inverter Stromerzeuger oder den DENQBAR Gartenhäcksler verwenden? Heute wollen wir kurz die idealen Ölsorten für unsere Benzinmotoren und die von ihnen betriebenen Geräte vorstellen und erläutern, was es mit den kryptischen ..."
+          },
+          "fnnqsmex": {
+            "url": "https://volt.store/produkt/denqbar-dq-4200/",
+            "date": null,
+            "rank": 8,
+            "title": "DENQBAR DQ-4200 - volt.store",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/x5D3M2uBimzJTjyc1hPSRKOecL4hzlKfCXBsQYUWYf4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2MwYzU3N2Iw/MjZlMzc3MDhlZTNh/YTgwMThiYmJkZmYx/MzAwMTI0ZDE1ODkz/OGNiOWMwMGMyNThj/ZGE2Njk5OC92b2x0/LnN0b3JlLw",
+              "thumbnail": "https://volt.store/wp-content/uploads/2025/04/dq4200_inverter.jpg"
+            },
+            "snippets": [
+              "max. Leistung: 4,2 kW Dauerleistung: 3,8 kW Lautstärke: 63 dBA Ausgangsspannung: 230 V Gewicht: 42 kg Besonderheit: Parallel-Schaltung, Ölmangelabschaltung",
+              "Egal wie groß die Herausforderungen auch sind: Mit unserem Flaggschiff – dem bärenstarken DQ-4200 – erhalten Sie ein High-End-Gerät, das Sie immer und überall zuverlässig mit sauberem Strom versorgt. Maximale Leistung bei gleichzeitig flüsterleisem Betrieb und ein hervorragendes Startverhalten: Mit diesem mobilen Kraftwunder hat DENQBAR die Standards in der Oberklasse der mobilen Stromerzeugung neu definiert!!"
+            ],
+            "description": "max. Leistung: 4,2 kW Dauerleistung: 3,8 kW Lautstärke: 63 dBA Ausgangsspannung: 230 V Gewicht: 42 kg Besonderheit: Parallel-Schaltung, Ölmangelabschaltung"
+          },
+          "ithlyifz": {
+            "url": "https://docplayer.org/185229477-Ruettelplatte-mit-benzinmotor.html",
+            "date": null,
+            "rank": 6,
+            "title": "Rüttelplatte mit Benzinmotor - PDF Kostenfreier Download",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/UCXi5A9WJZTit3LmuIDYILEd47dyCM4i2vYnYOQ3FxU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWI0NTMzZTJl/M2JkYmU5MTI5NGMw/MTMzOTdhMmNjNTFh/NjJkZjQxOTVmYzQ0/MGNlOGJlNmQ2ZjQ1/YTA0MzUxNy9kb2Nw/bGF5ZXIub3JnLw",
+              "thumbnail": "https://docplayer.org/thumbs/108/185229477.jpg"
+            },
+            "snippets": [
+              "Benzinersatz ist nicht zu empfehlen, weil dieser die Bauteile des Kraftstoffsystems BETRIEB 1. Startvorbereitung Prüfen Sie vor jedem Start die folgenden Punkte: - Kraftstoffstand der Tank sollte mindestens halb voll sein - Motorölstand / Erregerölstand - Dichtheit der Kraftstoffleitungen - fester Sitz aller äußeren Schraubverbindungen - Gasregulierhebel in Leerlaufstellung bringen 2. Starten und Stoppen des Motors Befolgen Sie dazu bitte die Hinweise der beiliegenden Bedienungs- und Wartungsanleitung Benzinmotor DQ160/DQ200/DQ270/DQ by DENQBAR GmbH",
+              "Benzinersatz ist nicht zu empfehlen, weil dieser die Bauteile des Kraftstoffsystems BETRIEB 1. Startvorbereitung Prüfen Sie vor jedem Start die folgenden Punkte: - Kraftstoffstand der Tank sollte mindestens halb voll sein - Motorölstand / Erregerölstand - Dichtheit der Kraftstoffleitungen - fester Sitz aller äußeren Schraubverbindungen - Gasregulierhebel in Leerlaufstellung bringen 2. Starten und Stoppen des Motors Befolgen Sie dazu bitte die Hinweise der beiliegenden Bedienungs- und Wartungsanleitung Benzinmotor DQ160/DQ200/DQ270/DQ by DENQBAR GmbH",
+              "Erregeröl erforderlich Eine detaillierte Beschreibung der Wartungsarbeiten am Motor entnehmen Sie bitte der beigefügten Betriebs- und Wartungsanleitung für den Benzinmotor by DENQBAR GmbH · 15 Erreger (Abb. 1, DQ-0139, Nummer 4): Ölstand kontrollieren: 1. Rüttelplatte waagerecht stellen. 2. Einfüllbohrung (Abb. 1, DQ-0139, Nummer 4a) öffnen. 3. Ölspiegel muss bis Gewindeanfang der Einfüllbohrung reichen. 4. Ggf. Motoröl SAE 10W40 durch Einfüllbohrung einfüllen (Trichter verwenden).",
+              "Sollte das Gerät zu unsachgemäßen Gebrauch verwendet werden, so distanzieren sich der Verkäufer, sowie der Hersteller von jeglichen Gewährleistungen! Die DENQBAR GmbH arbeitet ständig an der Weiterentwicklung ihrer Produkte und behält sich daher das Recht auf Änderungen ohne vorherige Ankündigung, z.b.",
+              "Es besteht leichte bis mittlere Verletzungsgefahr bei Nichteinhaltung dieser Anweisung! Es besteht die Gefahr den Motor oder andere Sachwerte zu beschädigen, wenn diese Anweisung nicht eingehalten wird! Wichtige Textpassagen in der Bedienungsanleitung werden mit diesem Zeichen markiert! by DENQBAR GmbH"
+            ],
+            "description": "Benzinersatz ist nicht zu empfehlen, weil dieser die Bauteile des Kraftstoffsystems BETRIEB 1. Startvorbereitung Prüfen Sie vor jedem Start die folgenden Punkte: - Kraftstoffstand der Tank sollte mindestens halb voll sein - Motorölstand / Erregerölstand - Dichtheit der Kraftstoffleitungen - fester Sitz aller äußeren Schraubverbindungen - Gasregulierhebel in Leerlaufstellung bringen 2. Starten und Stoppen des Motors Befolgen Sie dazu bitte die Hinweise der beiliegenden Bedienungs- und Wartungsanleitung Benzinmotor DQ160/DQ200/DQ270/DQ by DENQBAR GmbH"
+          },
+          "ksfouaog": {
+            "url": "https://www.manualslib.de/manual/849470/Denqbar-Dq-4200.html?page=29",
+            "date": null,
+            "rank": 5,
+            "title": "Technische Daten; Abmessungen Und Gewicht - Denqbar DQ-4200 Originalbetriebsanleitung [Seite 29] | ManualsLib",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/aOvu_SG5OWjK_fzzUwX3D6f5xkZrAcpr0-2-M9p2-I0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODYyNTNlYTUz/YTkzMDRiOTdkZDYy/YWNhMmI3NGIwNTNk/MjBhZWZjNTA0NzNh/YTA2ZGMzN2E3YTY5/ZmUwNDI1OC93d3cu/bWFudWFsc2xpYi5k/ZS8",
+              "thumbnail": "https://data.manualslib.de/product-images/670/849470/denqbar-dq-4200-stromerzeuger.jpg"
+            },
+            "snippets": [
+              "Denqbar Dq-4200 Online-Anleitung: Technische Daten, Abmessungen Und Gewicht. Abmessungen Und Gewicht Lxbxh Nettogewichl Motor Motorlyp Hubraum Kühlung Zündung Ölmenge Lnhalt Benzinlank Zündkeze Maximale Aufstellhöhe (Ünn) Zulässige Umgebungstemperatur Stromerzeuger Modell Typ...",
+              "DQ4200 · TYP · Stromezeugungsaggregat · mit kleiner Leistung · Ausführungsklasse · Schutzgrad · IP23M · Güleklasse · B · Leistungsfaktor · Cos · g · 1 · AC · Ausgangsleistung · Nennspannung · (V) 230 · Nennfrequenz (Hz) 50 · Nennstrom · (A) 't6,5 ·"
+            ],
+            "description": "Denqbar Dq-4200 Online-Anleitung: Technische Daten, Abmessungen Und Gewicht. Abmessungen Und Gewicht Lxbxh Nettogewichl Motor Motorlyp Hubraum Kühlung Zündung Ölmenge Lnhalt Benzinlank Zündkeze Maximale Aufstellhöhe (Ünn) Zulässige Umgebungstemperatur Stromerzeuger Modell Typ..."
+          },
+          "wufnazss": {
+            "url": "https://www.facebook.com/denqbar/posts/welches-motor%C3%B6l-ist-das-richtige-f%C3%BCr-mein-denqbar-produkt-hier-ein-kleiner-%C3%BCberb/675846912453453/",
+            "date": null,
+            "rank": 9,
+            "title": "Welches Motoröl ist das Richtige für mein Denqbar Produkt ...",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/UPSLokJBKWPdNzHbqH5o3CgD13zMvR3pUTn8bk7hmPM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWM3NjZkMmE4/MTU1MTk4ZDU5YzU3/NjUxY2ExZTdjNWQx/NjJlNTY1Y2VlODM4/MmRmMDgzZDBiMmI3/YzU4NmU4ZS93d3cu/ZmFjZWJvb2suY29t/Lw",
+              "thumbnail": null
+            },
+            "snippets": [
+              "DENQBAR, Pirna. 21,087 likes · 5 talking about this · 3 were here. DENQBAR GmbH Longuyoner Str. 14 01796 Pirna info@denqbar.de"
+            ],
+            "description": "DENQBAR, Pirna. 21,087 likes · 5 talking about this · 3 were here. DENQBAR GmbH Longuyoner Str. 14 01796 Pirna info@denqbar.de"
+          },
+          "xfgbzwbs": {
+            "url": "https://www.denqbar.com/blog/b-416",
+            "date": null,
+            "rank": 1,
+            "title": "Motoröl für die DENQBAR Generatoren",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/ysUejmLWnOx3o-Aa1HjcOJ93k2h8MuaTEliPgtIbPcI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2Q5OTFiYTc1/YTcwMDU2MTY3ZjY3/MDZlZTE2YzQ5MTAw/MDJmZmQ1YmE0Mjli/YjRmM2Q4YmRhMTdl/MDYxNTE0MC93d3cu/ZGVucWJhci5jb20v",
+              "thumbnail": "https://cdn02.plentymarkets.com/jm91bracrbxo/plugin/15/ceres/"
+            },
+            "snippets": [
+              "Motoröl - wer hätte gedacht, dass in der schmierigen, goldgelben Flüssigkeit so viel drin steckt? Kein Wunder, denn Öl gehört in jeden Motor. Ob in Ihrem Auto, in einer Industriemaschine oder im Motor Ihres smarten DENQBAR Inverter Stromerzeugers: Ohne das richtige Motoröl schnurrt kein ...",
+              "Motoröl - wer hätte gedacht, dass in der schmierigen, goldgelben Flüssigkeit so viel drin steckt? Kein Wunder, denn Öl gehört in jeden Motor. Ob in Ihrem Auto, in einer Industriemaschine oder im Motor Ihres smarten DENQBAR Inverter Stromerzeugers: Ohne das richtige Motoröl schnurrt kein Getriebe.",
+              "Perfektes Motoröl pflegt die beweglichen Teile (Kolben etc.) des Motors; diese kontinuierliche Schmierung wirkt aktiv der Korrosion entgegen und trägt maßgeblich zur perfekten Leistung und Langlebigkeit Ihres Stromerzeugers bei.",
+              "Es gibt eine Vielzahl von Motoren und damit auch unterschiedliche Anforderungen an das Öl. Aus diesem Grund haben verschiedene Institutionen Normen entworfen, anhand derer sich die verschiedenen Motoröle kategorisieren lassen.",
+              "Genau die SAE ist auch API ein Interessenverband, der sich mit den Mindestanforderungen von Motor- sowie Getriebeölen hinsichtlich des Qualitätsniveaus beschäftigt. Meist werden die Freigaben API und ACEA zusätzlich zur SAE-Angabe in der Detailbeschreibung der Motoröle aufgeführt und beziehen sich auf die Normen der jeweiligen Organisation."
+            ],
+            "description": "Motoröl - wer hätte gedacht, dass in der schmierigen, goldgelben Flüssigkeit so viel drin steckt? Kein Wunder, denn Öl gehört in jeden Motor. Ob in Ihrem Auto, in einer Industriemaschine oder im Motor Ihres smarten DENQBAR Inverter Stromerzeugers: Ohne das richtige Motoröl schnurrt kein ..."
+          },
+          "xzjkwmzv": {
+            "url": "https://www.manualslib.de/manual/849470/Denqbar-Dq-4200.html?page=21",
+            "date": null,
+            "rank": 3,
+            "title": "Wartung; Motoröl Wechseln - Denqbar DQ-4200 Originalbetriebsanleitung [Seite 21] | ManualsLib",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/aOvu_SG5OWjK_fzzUwX3D6f5xkZrAcpr0-2-M9p2-I0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODYyNTNlYTUz/YTkzMDRiOTdkZDYy/YWNhMmI3NGIwNTNk/MjBhZWZjNTA0NzNh/YTA2ZGMzN2E3YTY5/ZmUwNDI1OC93d3cu/bWFudWFsc2xpYi5k/ZS8",
+              "thumbnail": "https://static-eu-data.manualslib.com/product-images/670/849470/denqbar-dq-4200-stromerzeuger.jpg"
+            },
+            "snippets": [
+              "Denqbar Dq-4200 Online-Anleitung: Wartung, Motoröl Wechseln. Fchrungl Zehen Sie Den Zündkerzenstecker Vor Wartungsarbeiten Immer Eine.gute \\ Hrt_Ung Lhres Stromerzeugers Sorgt Für Einen Sicheren, Sparsamen Problemlosen Betrieb. Auch Die Luftverschmu-Tzung Vor Der \\ Hrtung Den..."
+            ],
+            "description": "Denqbar Dq-4200 Online-Anleitung: Wartung, Motoröl Wechseln. Fchrungl Zehen Sie Den Zündkerzenstecker Vor Wartungsarbeiten Immer Eine.gute \\ Hrt_Ung Lhres Stromerzeugers Sorgt Für Einen Sicheren, Sparsamen Problemlosen Betrieb. Auch Die Luftverschmu-Tzung Vor Der \\ Hrtung Den..."
+          },
+          "ydcnhmdu": {
+            "url": "https://www.stromgenerator.pro/oel-fuer-stromerzeuger-motorenoel/",
+            "date": null,
+            "rank": 7,
+            "title": "Öl für Stromerzeuger – Welches Motorenöl sollte ich verwenden? - Stromgenerator",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/1osg2ij6sLpnBZttCsJlSpZZfjXGqncZXrWpax-nzE8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDMxOTlkMjEx/ODY0MTc1NTMzMjc3/NzdhMmRjMmY1ZDVl/YWVhODdkZWI0MDgy/YTQ1Y2RlNzRlNWQx/YzE1YTFkMS93d3cu/c3Ryb21nZW5lcmF0/b3IucHJvLw",
+              "thumbnail": null
+            },
+            "snippets": [
+              "Das <strong>vollsynthetische Motoröl</strong> bietet somit aber die besten Schmiereigenschaften und ist damit das optimale Öl für Stromerzeuger. Bei einem mineralischen oder teilsynthetischen Öl kann es unter Umständen zu Ablagerungen kommen. Einige Hersteller, wie etwa Denqbar, empfehlen daher für den ...",
+              "Das vollsynthetische Motoröl bietet somit aber die besten Schmiereigenschaften und ist damit das optimale Öl für Stromerzeuger. Bei einem mineralischen oder teilsynthetischen Öl kann es unter Umständen zu Ablagerungen kommen. Einige Hersteller, wie etwa Denqbar, empfehlen daher für den Betrieb ihrer Stromgeneratoren nur vollsynthetisches Motoröl.",
+              "Grundsätzlich ist ein 10W 30 oder 10W 40 als Öl für Stromerzeuger empfehlenswert. Diese werden auch als Universal, Mehrzweck oder Allrounder Motoröle bezeichnet. Ein höherqualitatives ist immer empfehlenswert, da man hier in der Regel auch länger Freude daran hat.",
+              "Läuft der Stromgenerator aber nur 4 – 5 Mal im Jahr dann kann man auch beruhigt auch zu einem günstigen Stromerzeuger Öl zurückgreifen. Die Hersteller empfehlen in der Regel die passenden und am besten geeignetsten Motoröle für ihre Stromgeneratoren.",
+              "Der erste Wert dieser Klassifikation kann zwischen 0 und 25 sein und zeichnet die Niedrigtemperatur-Viskosität aus. Es gibt mit diesem Wert an, wie flüssig das Motoröl bei niedrigen Temperaturen ist."
+            ],
+            "description": "Das <strong>vollsynthetische Motoröl</strong> bietet somit aber die besten Schmiereigenschaften und ist damit das optimale Öl für Stromerzeuger. Bei einem mineralischen oder teilsynthetischen Öl kann es unter Umständen zu Ablagerungen kommen. Einige Hersteller, wie etwa Denqbar, empfehlen daher für den ..."
+          },
+          "yuhsdwwf": {
+            "url": "https://www.denqbar.cz/fotky102419/fotov/_ps_38manual_compactor_v316-forward.pdf",
+            "date": null,
+            "rank": 4,
+            "title": "- 1 - © by DENQBAR GmbH www.denqbar.com",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/Ao2ws5-ouUWzr3Y5YoVDiZblne4CZPEpSmg5wh0VDNo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTMzZmMwNjU3/NDMyOWU3MjI4ODJl/MmYyOGQ5NzA2MWFl/YzlkNDE2ZmE5MDY1/MWFmM2Y0NTQ4NTlm/Mzk0YjA2ZS93d3cu/ZGVucWJhci5jei8",
+              "thumbnail": null
+            },
+            "snippets": [
+              "Der Ölspiegel muss bis Gewindeanfang der Einfüllbohrung (Abb. 1, Nummer 4a) reichen. Motoröl SAE",
+              "Vor Inbetriebnahme Motoröl sowie Erregeröl und Kraftstoff einfüllen.",
+              "Der Ölspiegel muss bis Gewindeanfang der Einfüllbohrung (Abb. 1, Nummer 4a) reichen. Motoröl SAE"
+            ],
+            "description": "Der Ölspiegel muss bis Gewindeanfang der Einfüllbohrung (Abb. 1, Nummer 4a) reichen. Motoröl SAE"
+          },
+          "zadcgyoa": {
+            "url": "https://www.denqbar.com/en/operating-fluids",
+            "date": null,
+            "rank": 2,
+            "title": "Correct fueling of DENQBAR generators: Fuel and oil at a glance | DENQBAR.com",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "en",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/ysUejmLWnOx3o-Aa1HjcOJ93k2h8MuaTEliPgtIbPcI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2Q5OTFiYTc1/YTcwMDU2MTY3ZjY3/MDZlZTE2YzQ5MTAw/MDJmZmQ1YmE0Mjli/YjRmM2Q4YmRhMTdl/MDYxNTE0MC93d3cu/ZGVucWJhci5jb20v",
+              "thumbnail": "https://cdn02.plentymarkets.com/jm91bracrbxo/frontend/DENQBAR_Layout/denqbar_logo.png"
+            },
+            "snippets": [
+              "Similar to a car, an inverter generator also requires the right fuel and proper engine lubrication to function properly. Here you will find all the important information about the recommended operating fluids for your DENQBAR generator."
+            ],
+            "description": "Similar to a car, an inverter generator also requires the right fuel and proper engine lubrication to function properly. Here you will find all the important information about the recommended operating fluids for your DENQBAR generator."
+          }
+        },
+        "isInterrupted": false,
+        "publicArguments": "Denqbar DQ4200 Motoröl Empfehlung",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Für den Denqbar DQ4200 wird in der Bedienungsanleitung und in technischen Dokumenten **Motoröl der Viskositätsklasse SAE 10W40** empfohlen. Dies gilt für die meisten Benzinmotoren von Denqbar, sofern nicht anders angegeben",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "xzjkwmzv",
+          "ithlyifz"
+        ]
+      },
+      {
+        "text": ".\n\nZusätzlich empfiehlt Denqbar für ihre Stromerzeuger generell **vollsynthetisches Motoröl**, da es die besten Schmiereigenschaften bietet und Ablagerungen vermeidet",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "ydcnhmdu"
+        ]
+      },
+      {
+        "text": ".\n\nFalls du die genaue Spezifikation für deinen DQ4200 noch einmal in der Originalanleitung nachlesen möchtest, findest du diese auf Seite 21 der Betriebsanleitung",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "xzjkwmzv"
+        ]
+      },
+      {
+        "text": ". Möchtest du noch weitere Details zu Marken oder Alternativen wissen?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-07-07T19:38:06.142Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "d0037853-6c73-48c2-a1de-09be0c91025c",
+    "version": 0,
+    "chatId": "a8ac3fa0-905b-43c0-a147-86959ffecb58",
+    "content": "Welches Motoröl benötigt der denqbar dq4200",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-07-07T19:38:04.422Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "e64d2c7d-ffa2-48e6-8ed6-3b9833cd035f",
+    "version": 0,
+    "chatId": "a8ac3fa0-905b-43c0-a147-86959ffecb58",
+    "content": "Wie viel Öl benötigt er insgesamt?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-07-07T19:44:46.304Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "4b64fab1-e272-4c1a-9eec-fdea60979834",
+    "version": 0,
+    "chatId": "a8ac3fa0-905b-43c0-a147-86959ffecb58",
+    "content": "Der Denqbar DQ4200 benötigt **ca. 0,6 Liter Motoröl** für den Motor.",
+    "contentChunks": [
+      {
+        "id": "NhZkERk2o",
+        "name": "open_url",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1783453491663,
+        "success": true,
+        "toolType": "raw",
+        "startTime": 1783453488984,
+        "publicResult": [
+          {
+            "text": "url: https://www.manualslib.de/manual/849470/Denqbar-Dq-4200.html?page=29\n\ntitle: Technische Daten; Abmessungen Und Gewicht - Denqbar DQ-4200 Originalbetriebsanleitung [Seite 29]\n\ndescription: Denqbar Dq-4200 Online-Anleitung: Technische Daten, Abmessungen Und Gewicht. Abmessungen Und Gewicht Lxbxh Nettogewichl Motor Motorlyp Hubraum Kühlung Zündung Ölmenge Lnhalt Benzinlank Zündkeze Maximale Aufstellhöhe (Ünn) Zulässige Umgebungstemperatur Stromerzeuger Modell Typ...\n\ndate: 2026-07-07T19:44:50\n\n× **Lesezeichen wurde hinzugefügt** \n\n× **Zu meinen Handbüchern hinzugefügt** \n\n1.  Anleitungen\n2.  Marken\n3.  Denqbar Anleitungen\n4.  Stromerzeuger\n5.  DQ-4200\n6.  Originalbetriebsanleitung\n\n# Technische Daten; Abmessungen Und Gewicht - Denqbar Dq-4200 Originalbetriebsanleitung\n\n Vorschau ausblenden \n\n**1**\n\n \n\n**2**\n\n \n\n**3**\n\n \n\n**4**\n\n \n\n**5**\n\n \n\n**6**\n\n \n\n**7**\n\n \n\n**8**\n\n \n\n**9**\n\n \n\n**10**\n\n \n\n**11**\n\n \n\n**12**\n\n \n\n**13**\n\n \n\n**14**\n\n \n\n**15**\n\n \n\n**16**\n\n \n\n**17**\n\n \n\n**18**\n\n \n\n**19**\n\n \n\n**20**\n\n \n\n**21**\n\n \n\n**22**\n\n \n\n**23**\n\n \n\n**24**\n\n \n\n**25**\n\n \n\n**26**\n\n \n\n**27**\n\n \n\n**28**\n\n \n\n**29**\n\n \n\n**30**\n\n \n\n**31**\n\n \n\n**32**\n\n \n\n**33**\n\n \n\n**34**\n\n \n\n**35**\n\n \n\n**36**\n\n \n\n**37**\n\n \n\n**38**\n\n \n\n**39**\n\n \n\n**40**\n\n \n\n**41**\n\n \n\n**42**\n\n \n\n**43**\n\n \n\n**44**\n\n \n\n**45**\n\n \n\n**46**\n\n \n\n**47**\n\n \n\n**48**\n\n \n\n**49**\n\n \n\n**50**\n\n \n\n**51**\n\n \n\n**52**\n\n \n\n**53**\n\n \n\n**54**\n\n \n\n**55**\n\n \n\n**56**\n\n \n\n**57**\n\n \n\n*   Seite von 57\n\n    / 57\n\n*   Inhalt\n*   Inhaltsverzeichnis\n*   Fehlerbehebung\n*   Lesezeichen\n\n \n\nInhaltsverzeichnis\n\nVerfügbare Sprachen\n\n*   DE\n*   \n\n#### Verfügbare Sprachen\n\n*   DEUTSCH, seite 1\n*   \n\nTECHNISCHE DATEN\n\nAbmessungen und Gewicht\n\nLxBxH\n\n605 x 432 x 500 mm\n\nNettogewichl\n\n42 ks\n\nMotor\n\nMotorlyp\n\n4-Takt,\n\nOHV,\n\nEinzylinder\n\nHubraum\n\n223\n\ncm3\n\nKühlung\n\nLuft\n\nZündung\n\nTCL\n\nölmenge\n\nca. 0,6\n\nI\n\nlnhalt Benzinlank\n\n11\n\nI\n\nZündkeze\n\nA6RTC / FTRTC\n\nMaximale Aufstellhöhe (üNN)\n\n1000\n\nm\n\nZulässige Umgebungstemperatur\n\n-1\n\n0 \"C bis +40\n\n'C\n\nStromerzeuger\n\nMODELL\n\nDQ4200\n\nTYP\n\nStromezeugungsaggregat\n\nmit kleiner Leistung\n\nAusführungsklasse\n\nSchutzgrad\n\nIP23M\n\nGüleklasse\n\nB\n\nLeistungsfaktor\n\nCos\n\ng\n\n1\n\nAC\n\nAusgangsleistung\n\nNennspannung\n\n(V)\n\n230\n\nNennfrequenz (Hz)\n\n50\n\nNennstrom\n\n(A)\n\n't6,5\n\nNennleistung COP\n\n(kW\n\n3,8\n\nMaximalleistung\n\n(kW\n\n4,2\n\nDC\n\nAusgangsleistung\n\n12V\n\n8.3\n\nA\n\n5V\n\n2.1Aund1A\n\n Inhaltsverzeichnis \n\n Vorherige Seite \n\n Nächste Seite \n\n*   1\n*   ...\n*   26\n*   27\n*   28\n*   29\n*   30\n*   31\n*   32\n*   33\n\nQuicklinks anzeigen \n\n*   Quicklinks:\n*   Bestimmungsgemäße Verwendung\n*   Vor Lnbetriebnahme\n*   Lnbetriebnahme\n*   Wartung\n*   Technische Daten\n\n#### Quicklinks ausblenden:\n\n## Kapitel\n\n*   Deutsch 2\n*   English 30\n\nInhaltsverzeichnis\n\n## Fehlerbehebung\n\n*   Fehlersuche 26\n*   Troubleshooting 54\n\n#### Verwandte Anleitungen für Denqbar DQ-4200\n\n*   Stromerzeuger Denqbar DQ-3600ER Originalbetriebsanleitung\n\n    (72 Seiten)\n\n*   Stromerzeuger Denqbar DQ-2200ER Originalbetriebsanleitung\n\n    Digitaler stromerzeuger, benzinbetrieben mit inverter (72 Seiten)\n\n#### Verwandte Inhalte für Denqbar DQ-4200\n\n*   DQ-2200ER Technische Daten\n\n    Denqbar DQ-2200ER\n\n*   DQ-3600ER Technische Daten\n\n    Denqbar DQ-3600ER\n\n#### Inhaltsverzeichnis\n\n#### Drucken\n\n Seite 29 drucken Dokument drucken (57 Seiten) \n\n#### Lesezeichen umbenennen\n\n#### Lesezeichen löschen?\n\n#### Möchten Sie es aus Ihren Handbüchern löschen?\n\n#### Anmelden\n\nODER \n\n Noch keinen Account? Registrieren Sie sich jetzt!    \n Passwort vergessen? \n\n#### Anleitung hochladen\n\n Von PC hochladen \n\n Von URL hochladen \n\nVielen Dank für Ihre Hilfe!  ",
+            "type": "text"
+          }
+        ],
+        "isInterrupted": false,
+        "publicArguments": null,
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Der Denqbar DQ4200 benötigt **ca. 0,6 Liter Motoröl** für den Motor",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "ksfouaog"
+        ]
+      },
+      {
+        "text": ".",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-07-07T19:44:47.185Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id": "882ad8c4-2a3e-4678-b36f-cf411f0535f5",
+    "version": 0,
+    "chatId": "c934e539-83e0-4735-bbb1-3a820d695f9b",
+    "content": "Kurz zusammengefasst: Die Daten sind auf einer **anonym betriebenen Leak-Website** veröffentlicht, die über keine offizielle, von Medien verlinkte Adresse verfügt. Hier der Überblick:\n\n**Was veröffentlicht wurde**\n- Rund **421.179 E-Mails aus zehn AfD-Postfächern** (u. a. Konten von Alexander Gauland, Beatrix von Storch, Jörg Meuthen, Bundesgeschäftsstelle, Leif-Erik Holm), Datenumfang etwa 280–300 GB, zudem über 41.000 PDFs, Word-Dateien und Datenbank-Dumps ([heise](https://search-result://KzBjSYZ3... )). Die Seite zeigt nur einen **durchsuchbaren Index mit KI-generierten Zusammenfassungen** – die Original-Dateien müssen separat per BitTorrent heruntergeladen werden ([Süddeutsche](search-result://THfQPVvy), [heise](search-result://KzBjSYZ3)).\n\n**Wo du die Daten findest**\n- Die Leak-Seite selbst ist nur Mitte Oktober registriert worden, sitzt laut Impressum in Wyoming (USA) und gibt keine Auskunft über die Herkunft der Daten. Deutsche Medien verlinken sie **bewusst nicht**; die Adresse kursiert vor allem auf X/Twitter und in Foren ([tagesschau](search-result://CHoyzIym)).\n- Seriös aufbereitet sind die Inhalte bislang nur über **journalistische Auswertungen**, z. B. bei taz, Süddeutscher, t-online und ZDF, die einzelne Dokumente und Zusammenhänge einordnen ([taz](search-result://Als6wc0a), [t-online](search-result://X1snxa2A), [ZDF](search-result://TjJF3E4Y)).\n\n**Wichtige Vorsicht**\n- Die Echtheit der Mails ist **nicht offiziell verifiziert**; der Index könnte auch manipuliert sein, und im Leak sollen auch Phishing- und Spam-Mails stecken ([Morgenpost](search-result://BM4BK59x)).\n- Der Hack ist in Deutschland strafbar (Ausspähung/Abfangen von Daten); die AfD hat Anzeige erstattet. Das **Herunterladen und Speichern** der Original-Daten kann für Privatpersonen rechtlich riskant sein – Journalisten genießen bei Recherche weitere Freiräume ([ZDF](search-result://TjJF3E4Y)).\n- Da die Leak-Adresse in sozialen Medien kursiert, kursieren auch **Fake-Seiten mit Malware** – Vorsicht bei unbekannten Links.\n\nFalls du bestimmte Inhalte (z. B. die Berichte zu Parteiausschlussverfahren oder zu einzelnen Politikern) suchst, kann ich dir die journalistischen Auswertungen dazu gezielt raussuchen.",
+    "contentChunks": [
+      {
+        "text": "The user is asking where they can view data from the \"AfD mail leak.\" This is a real news event — there was a leak of AfD emails. I recall there was a leak of AfD party emails that journalists analyzed; there might be a public searchable database. I should search the web for current, accurate information rather than rely on memory.\n\nThe question is in German, so I respond in German. Let me search.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1792609604289,
+          "contextId": "harness-reasoning-0",
+          "startTime": 1792609603650
+        }
+      },
+      {
+        "id": "typescript:3:chatcmpl-tool-832f7801f4b57412:0:tool:0",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "chatcmpl-tool-832f7801f4b57412"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "id": "CHoyzIym",
+              "url": "https://www.tagesschau.de/inland/innenpolitik/afd-hackerangriff-102.html",
+              "title": "AfD bestätigt Hackerangriff auf E-Mail-Konten | tagesschau.de",
+              "favicon": "https://you.com/favicon?domain=www.tagesschau.de&size=128",
+              "thumbnail": "https://images.tagesschau.de/image/bef8fad3-a7ce-4254-bb86-991e7bf082b0/AAABmeKpCqU/AAABnSSvrFg/16x9-big/afd-logo-170.jpg?width=1280",
+              "description": "Unbekannte haben einen Hackerangriff auf Mail-Konten der AfD verübt und laut eigenen Angaben Daten daraus veröffentlicht. Die AfD bestätigte einen Angriff auf Postfächer, die aber überwiegend nicht mehr genutzt würden."
+            },
+            {
+              "id": "oZpJsPyN",
+              "url": "https://www.heise.de/en/news/Massive-AfD-data-breach-exposes-illegally-copied-files-11493923.html",
+              "title": "Massenhaft AfD-Daten widerrechtlich migriert",
+              "favicon": "https://you.com/favicon?domain=www.heise.de&size=128",
+              "thumbnail": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/5/7/5/5/53726987c2f37c957d2c16a8dff17667_edited_108233339_e2de534ff6-9fd4483be70e2bcd.png?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "description": "The “Alternative for Germany” party apparently suffered a data breach. Some 421,000 emails were published, offering a glimpse inside the party."
+            },
+            {
+              "id": "Als6wc0a",
+              "url": "https://taz.de/Website-veroeffentlicht-tausende-Mails/!6222819/",
+              "title": "Riesiges E-Mail-Datenleak bei der AfD",
+              "favicon": "https://you.com/favicon?domain=taz.de&size=128",
+              "thumbnail": "https://taz.de/picture/8811565/1200/42311250.jpeg",
+              "description": "Bei der AfD kommt es zu einem E-Mail-Datenleak: Zehntausende interne Mails gelangen auf eine öffentliche Website."
+            },
+            {
+              "id": "gReOsja0",
+              "url": "https://www.zdfheute.de/politik/deutschland/afd-hackerangriff-e-mail-konten-100.html",
+              "title": "Hackerangriff auf E-Mail-Konten der AfD: Daten online aufgetaucht",
+              "favicon": "https://you.com/favicon?domain=www.zdfheute.de&size=128",
+              "thumbnail": "https://www.zdfheute.de/assets/hackerangriff-afd-100~1280x720?cb=1792481344058",
+              "description": "Hacker haben E-Mail-Konten der AfD angegriffen, wie die Partei bestätigt. Sie macht keine Angaben dazu, welche AfD-Politiker betroffen sind."
+            },
+            {
+              "id": "BM4BK59x",
+              "url": "https://www.morgenpost.de/politik/article413460413/421000-e-mails-dokumente-und-bilder-wird-ein-hackerangriff-der-afd-gefaehrlich.html",
+              "title": "AfD-Hackerangriff: 421.000 E-Mails, Dokumente und Bilder – Albtraum ...",
+              "favicon": "https://you.com/favicon?domain=www.morgenpost.de&size=128",
+              "thumbnail": "https://img.sparknews.funkemedien.de/413464664/413464664_1792510150_v16_9_1600.jpeg",
+              "description": "Unbekannte sollen zahlreiche Mails und Dateien von AfD-Politikern erbeutet und veröffentlicht haben. Wie brisant sind die Inhalte? Das ist bekannt."
+            },
+            {
+              "id": "phtJznDw",
+              "url": "https://www.spiegel.de/netzwelt/web/afd-bestaetigt-hackerangriff-auf-e-mail-konten-daten-im-internet-veroeffentlicht-a-d4b2543e-1dae-461a-a343-8c14b3b7d2ee",
+              "title": "AfD bestätigt Hackerangriff auf E-Mail-Konten - Daten im Internet ...",
+              "favicon": "https://you.com/favicon?domain=www.spiegel.de&size=128",
+              "thumbnail": "https://cdn.prod.www.spiegel.de/images/b11860d8-73d0-4e40-830d-36cb47d24ca1_w1200_r1.778_fpx40.56_fpy44.98.jpg",
+              "description": "Unbekannte haben Hunderttausende E-Mails veröffentlicht, die von Konten der AfD stammen sollen. Die Partei bestätigt einen Angriff, spielt die Bedeutung aber herunter."
+            },
+            {
+              "id": "X1snxa2A",
+              "url": "https://www.t-online.de/nachrichten/deutschland/parteien/id_101489532/afd-mails-geleaked-nazi-parolen-und-interne-mails-im-netz-aufgetaucht.html",
+              "title": "AfD-Mails geleaked: Nazi-Parolen und interne Mails im Netz aufgetaucht",
+              "favicon": "https://you.com/favicon?domain=www.t-online.de&size=128",
+              "thumbnail": "https://images.t-online.de/2026/09/X5kYeTCLFjaU/0x341:6551x3685/fit-in/1200x0/2-unternehmertag-der-afd-fraktion-alice-weidel-afd-beim-2-unternehmertag-der-afd-fraktion-im-deutschen-bundestag-am-10-09-26-in-berlin-berlin-berlin-deutschland-bundestag-2nd-entrepreneurs-day-of-the-afd-parliamentary-group-alice-weidel-of-the-afd-at-the-2nd-entrepreneurs-day-of-the-afd-parliamentary-group-in-the-german-bundestag-on-september-10-2026-in-berlin-berlin-berlin-germany-bundestag.jpg",
+              "description": "Die AfD hat einen Hackerangriff auf einen ihrer Dienstleister bestätigt. Im Internet sollen mehr als 420.000 E-Mails aufgetaucht sein. Darunter finden sich offenbar interne Unterlagen zu Parteiausschlüssen."
+            },
+            {
+              "id": "TjJF3E4Y",
+              "url": "https://www.zdfheute.de/politik/afd-mails-leak-was-wir-wissen-was-nicht-100.html",
+              "title": "Geleakte AfD-Mails: Was wir wissen und was nicht",
+              "favicon": "https://you.com/favicon?domain=www.zdfheute.de&size=128",
+              "thumbnail": "https://www.zdfheute.de/assets/26-dpa935-u20-08-afd-logo---symbolbild-100~1280x720?cb=1788459174343",
+              "description": "Hacker haben Mails von AfD-Konten gehackt. Welche Daten wurden erbeutet? Und welche Konsequenzen sind denkbar für ein mögliches Verbotsverfahren?"
+            },
+            {
+              "id": "eqYlgeHA",
+              "url": "https://www.sueddeutsche.de/politik/afd-hackerangriff-datenleck-cybersicherheit-rechtsextremismus-li.3566216",
+              "title": "Hackerangriff auf AfD: Hunderttausende interne Mails könnten ...",
+              "favicon": "https://you.com/favicon?domain=www.sueddeutsche.de&size=128",
+              "thumbnail": "https://www.sueddeutsche.de/2026/10/20/d8aaea7d-8bc5-4617-8e7f-6cc47b9706bf.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C182%2C3500%2C1969",
+              "description": "Hacker verschafften sich mutmaßlich Zugang zu Mail-Postfächern der AfD. Mehr als 420 000 interne Nachrichten könnten betroffen sein."
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "AfD Mail Leak Daten einsehen Rechercheportal",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "The user asks where they can view the leaked AfD mail data. Key facts: an anonymous website hosts a searchable index of ~421,000 emails (281 GB dataset, also as BitTorrent). The site's URL — I should be careful about whether to share the actual leak site URL. The site is anonymous, its legality is questionable (data published possibly through hacked data — in Germany, \"Ausspähung von Daten\" is criminal; accessing/downloading leaked hacked data could be legally problematic for the user). Many outlets have declined to link directly. I should tell them what exists: an anonymous leak website (searchable index), torrent download, and journalistic coverage. I don't actually have the URL in the search results. Let me do one more search to see if the site name is reported (e.g., \"afd-leak\" site name). Actually, media deliberately don't name the site. I should mention where to find information: journalistic summaries, and that the leak site itself is anonymous and its URL is circulating on social media; German media are cautious about linking. Also warn about legal risks: downloading hacked data can be legally risky ( offences like \"Verbreitung erhobener Daten\" § 202d StGB - dealing with stolen data (Hehlerei mit Daten). Accessing could be problematic. Also authenticity not verified, possible phishing/spam. Also caution about malware — fake sites.\n\nI could do a quick search for the site name to be complete. Let me search briefly.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1792609611372,
+          "contextId": "harness-reasoning-3",
+          "startTime": 1792609611372
+        }
+      },
+      {
+        "id": "typescript:5:chatcmpl-tool-8632cf563512a04e:0:tool:0",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "chatcmpl-tool-8632cf563512a04e"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "id": "UIw3qZU5",
+              "url": "https://borncity.com/blog/2026/10/20/afd-leak-421-179-interne-e-mails-abgezogen/",
+              "title": "AFD-Leak; 421.179 interne E-Mails abgezogenBorns IT- und Windows-Blog",
+              "favicon": "https://you.com/favicon?domain=borncity.com&size=128",
+              "thumbnail": "https://borncity.com/blog/wp-content/uploads/2026/10/AFD-Leak2.jpg",
+              "description": "Die Mail-Server der AFD wurden über eine gravierende Sicherheitslücke gehackt. Dem Angreifer gelang es laut eigenen Angaben 302 GB an E-Mail-Daten abzuziehen."
+            },
+            {
+              "id": "E36AnpjP",
+              "url": "https://taz.de/Website-veroeffentlicht-tausende-Mails/!6222819/",
+              "title": "Interne E-Mails öffentlich: AfD blamiert sich mit Datenleak | taz.de",
+              "favicon": "https://you.com/favicon?domain=taz.de&size=128",
+              "thumbnail": "https://taz.de/picture/8811565/1200/42311250.jpeg",
+              "description": "Bei der AfD kommt es zu einem E-Mail-Datenleak: Zehntausende interne Mails gelangen auf eine öffentliche Website."
+            },
+            {
+              "id": "P14NTUAo",
+              "url": "https://www.morgenpost.de/politik/article413460413/421000-e-mails-dokumente-und-bilder-wird-ein-hackerangriff-der-afd-gefaehrlich.html",
+              "title": "AfD-Hackerangriff: 421.000 E-Mails, Dokumente und Bilder – Albtraum ...",
+              "favicon": "https://you.com/favicon?domain=www.morgenpost.de&size=128",
+              "thumbnail": "https://img.sparknews.funkemedien.de/413464664/413464664_1792510150_v16_9_1600.jpeg",
+              "description": "Unbekannte sollen zahlreiche Mails und Dateien von AfD-Politikern erbeutet und veröffentlicht haben. Wie brisant sind die Inhalte? Das ist bekannt."
+            },
+            {
+              "id": "KzBjSYZ3",
+              "url": "https://www.heise.de/en/news/Massive-AfD-data-breach-exposes-illegally-copied-files-11493923.html",
+              "title": "Massive AfD data breach exposes illegally copied files | heise online",
+              "favicon": "https://you.com/favicon?domain=www.heise.de&size=128",
+              "thumbnail": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/5/7/5/5/53726987c2f37c957d2c16a8dff17667_edited_108233339_e2de534ff6-9fd4483be70e2bcd.png?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "description": "The “Alternative for Germany” party apparently suffered a data breach. Some 421,000 emails were published, offering a glimpse inside the party."
+            },
+            {
+              "id": "TKOX24Za",
+              "url": "https://securityaffairs.com/201346/data-breach/afd-email-breach-exposes-421000-messages-in-anonymous-online-archive.html",
+              "title": "AfD Email Breach Exposes 421000 Messages in ...",
+              "favicon": "https://you.com/favicon?domain=securityaffairs.com&size=128",
+              "thumbnail": "https://securityaffairs.com/wp-content/uploads/2026/10/image-50.png",
+              "description": "A data breach exposed AfD emails, while an anonymous site published AI summaries of 421,000 messages, raising questions about authenticity and privacy."
+            },
+            {
+              "id": "THfQPVvy",
+              "url": "https://www.sueddeutsche.de/politik/afd-hackerangriff-datenleck-cybersicherheit-rechtsextremismus-li.3566216",
+              "title": "Hackerangriff auf AfD: Hunderttausende interne Mails könnten ...",
+              "favicon": "https://you.com/favicon?domain=www.sueddeutsche.de&size=128",
+              "thumbnail": "https://www.sueddeutsche.de/2026/10/20/d8aaea7d-8bc5-4617-8e7f-6cc47b9706bf.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C182%2C3500%2C1969",
+              "description": "Hacker verschafften sich mutmaßlich Zugang zu Mail-Postfächern der AfD. Mehr als 420 000 interne Nachrichten könnten betroffen sein."
+            },
+            {
+              "id": "Z9EbW6yW",
+              "url": "https://www.t-online.de/nachrichten/deutschland/parteien/id_101489532/afd-mails-geleaked-nazi-parolen-und-interne-mails-im-netz-aufgetaucht.html",
+              "title": "AfD-Mails geleaked: Nazi-Parolen und interne Mails im Netz aufgetaucht",
+              "favicon": "https://you.com/favicon?domain=www.t-online.de&size=128",
+              "thumbnail": "https://images.t-online.de/2026/09/X5kYeTCLFjaU/0x341:6551x3685/fit-in/1200x0/2-unternehmertag-der-afd-fraktion-alice-weidel-afd-beim-2-unternehmertag-der-afd-fraktion-im-deutschen-bundestag-am-10-09-26-in-berlin-berlin-berlin-deutschland-bundestag-2nd-entrepreneurs-day-of-the-afd-parliamentary-group-alice-weidel-of-the-afd-at-the-2nd-entrepreneurs-day-of-the-afd-parliamentary-group-in-the-german-bundestag-on-september-10-2026-in-berlin-berlin-berlin-germany-bundestag.jpg",
+              "description": "Die AfD hat einen Hackerangriff auf einen ihrer Dienstleister bestätigt. Im Internet sollen mehr als 420.000 E-Mails aufgetaucht sein. Darunter finden sich offenbar interne Unterlagen zu Parteiausschlüssen."
+            },
+            {
+              "id": "fYL7ENYy",
+              "url": "https://www.handelsblatt.com/politik/deutschland/parteien-hackerangriff-auf-e-mail-konten-der-afd/100263431.html",
+              "title": "Cyberangriff: Hacker erbeuten offenbar Hunderttausende AfD-E-Mails",
+              "favicon": "https://you.com/favicon?domain=www.handelsblatt.com&size=128",
+              "thumbnail": "https://images.handelsblatt.com/qkoaWoMBN1ZS/cover/1920/1080/0/0/182/15/0.5/0.5/alexander-gauland-.jpeg",
+              "description": "Unbekannte behaupten, über 400.000 AfD-Mails veröffentlicht zu haben. Die Partei spricht von einem „Angriff auf das deutsche Parteiensystem und damit auf die Demokratie“."
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "AfD Leak Website Name Adresse durchsuchbar Index 421000 Mails",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "The media deliberately don't link the leak site directly. The site URL isn't in results. I can explain: anonymous leak site with searchable index (only summaries, not full mails), plus BitTorrent download of the full 281-302 GB dataset. German media aren't linking it directly. The URL circulates on social media/X.\n\nLegal caution: In Germany, the underlying hack is criminal (\"Ausspähen von Daten\" § 202a StGB); downloading/persistently saving leaked data could constitute \"Verbreitung erhobener Daten\" (§ 202d StGB – Datenhehlerei) — accessing public leak sites is legally grey; journalists have research privileges to some degree. Also authenticity not verified; malware risk with fake sites; highly personal data of private individuals included (DSGVO issues).\n\nI'll give a concise answer in German with sources, plus caution. I shouldn't hunt down and share the actual leak URL — it's an anonymous site; media deliberately withhold it. I can note where it's circulating and how to be safe, and recommend journalistic summaries.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1792609618804,
+          "contextId": "harness-reasoning-7",
+          "startTime": 1792609612634
+        }
+      },
+      {
+        "text": "Kurz zusammengefasst: Die Daten sind auf einer **anonym betriebenen Leak-Website** veröffentlicht, die über keine offizielle, von Medien verlinkte Adresse verfügt. Hier der Überblick:\n\n**Was veröffentlicht wurde**\n- Rund **421.179 E-Mails aus zehn AfD-Postfächern** (u. a. Konten von Alexander Gauland, Beatrix von Storch, Jörg Meuthen, Bundesgeschäftsstelle, Leif-Erik Holm), Datenumfang etwa 280–300 GB, zudem über 41.000 PDFs, Word-Dateien und Datenbank-Dumps ([heise](https://search-result://KzBjSYZ3... )). Die Seite zeigt nur einen **durchsuchbaren Index mit KI-generierten Zusammenfassungen** – die Original-Dateien müssen separat per BitTorrent heruntergeladen werden ([Süddeutsche](search-result://THfQPVvy), [heise](search-result://KzBjSYZ3)).\n\n**Wo du die Daten findest**\n- Die Leak-Seite selbst ist nur Mitte Oktober registriert worden, sitzt laut Impressum in Wyoming (USA) und gibt keine Auskunft über die Herkunft der Daten. Deutsche Medien verlinken sie **bewusst nicht**; die Adresse kursiert vor allem auf X/Twitter und in Foren ([tagesschau](search-result://CHoyzIym)).\n- Seriös aufbereitet sind die Inhalte bislang nur über **journalistische Auswertungen**, z. B. bei taz, Süddeutscher, t-online und ZDF, die einzelne Dokumente und Zusammenhänge einordnen ([taz](search-result://Als6wc0a), [t-online](search-result://X1snxa2A), [ZDF](search-result://TjJF3E4Y)).\n\n**Wichtige Vorsicht**\n- Die Echtheit der Mails ist **nicht offiziell verifiziert**; der Index könnte auch manipuliert sein, und im Leak sollen auch Phishing- und Spam-Mails stecken ([Morgenpost](search-result://BM4BK59x)).\n- Der Hack ist in Deutschland strafbar (Ausspähung/Abfangen von Daten); die AfD hat Anzeige erstattet. Das **Herunterladen und Speichern** der Original-Daten kann für Privatpersonen rechtlich riskant sein – Journalisten genießen bei Recherche weitere Freiräume ([ZDF](search-result://TjJF3E4Y)).\n- Da die Leak-Adresse in sozialen Medien kursiert, kursieren auch **Fake-Seiten mit Malware** – Vorsicht bei unbekannten Links.\n\nFalls du bestimmte Inhalte (z. B. die Berichte zu Parteiausschlussverfahren oder zu einzelnen Politikern) suchst, kann ich dir die journalistischen Auswertungen dazu gezielt raussuchen.",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-10-21T19:06:42.941Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1792609602860,
+        "completedAtMs": 1792609625685,
+        "firstTokenAtMs": 1792609603649,
+        "generationStats": {
+          "outputTokens": 1361,
+          "completionCount": 3,
+          "generationDurationMs": 18823,
+          "outputTokensPerSecond": 72.30515858258514
+        },
+        "timeToFirstTokenMs": 789,
+        "bootstrapDurationMs": 361,
+        "completionDurationMs": 22825,
+        "userMessageCreatedToCompletionMs": 22844
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "run_typescript",
+          "web_search"
+        ],
+        "integrationNames": [
+          "web_search"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "09e3d890-f480-40a2-96ff-f7f1b227ce33",
+    "version": 0,
+    "chatId": "c934e539-83e0-4735-bbb1-3a820d695f9b",
+    "content": "wo kann ich die daten aus dem leak der afd mail einsehen ?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-10-21T19:06:42.841Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "ef0389b8-7f41-4264-85c9-ae68b6d7be81",
+    "version": 0,
+    "chatId": "c934e539-83e0-4735-bbb1-3a820d695f9b",
+    "content": "Die URL habe ich nicht – und ich gebe sie auch nicht weiter, wenn ich sie hätte. Der Grund:\n\n- Die Daten stammen aus einem **strafbaren Hackerangriff**, die AfD hat Anzeige erstattet. Das Weitergeben des Links zur Leak-Seite würde die Verbreitung gestohlener Daten unterstützen – genau das, was deutsche Medien bewusst unterlassen.\n- Die Seite ist **anonym**, gibt nichts über die Herkunft der Daten preis, und die Echtheit ist nicht verifiziert. Dazu kursieren bereits Nachahmer- und Fake-Seiten mit Malware.\n- Im Leak befinden sich auch **höchstpersönliche Daten** von Privatpersonen (Anhängern, Mitarbeitern), deren Verbreitung rechtlich problematisch ist.\n\n**Seriöse Alternative:** Die journalistischen Auswertungen arbeiten den Inhalt gerade gezielt auf – dort werden relevante Dokumente verifiziert und zugeordnet. Wenn dich etwas Bestimmtes interessiert (etwa die Verfahren zu Parteiausschlüssen, Spenden, interne Streitigkeiten), suche ich dir die passenden Berichte mit den konkreten Quellen heraus.",
+    "contentChunks": [
+      {
+        "text": "The user is asking for the exact URL of the anonymous leak site hosting the searchable AI-generated index of leaked AfD emails. Should I provide it?\n\nConsiderations:\n1. The data comes from a criminal hack (unauthorized access to computer systems — in Germany, this falls under § 202a StGB for data espionage and related offenses). Providing the URL would help distribute the proceeds of a crime.\n2. German media have deliberately chosen not to link to the site — a considered editorial decision across major outlets, which signals that linking is not a routine, harmless act.\n3. Practically, I don't have the URL anyway. My search results didn't include it, and I shouldn't hunt for it via search tools to then pass it along. Even if I could find it, I shouldn't facilitate access to the fruits of a crime.\n4. There are legitimacy concerns: the site is anonymous, its operators are unknown, authenticity is unverified, and it may contain personal data of private individuals (which raises data protection issues).\n\nSo my answer is: I don't have the URL and won't provide it, and I should explain why honestly — it stems from a criminal hack, media deliberately aren't linking it, and there are legal and security risks. I can offer alternatives: point to journalistic reporting where individual documents are cited and verified, which is the safer route.\n\nThe response should be in German, concise, and honest.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1792609756498,
+          "contextId": "harness-reasoning-0",
+          "startTime": 1792609754562
+        }
+      },
+      {
+        "text": "Die URL habe ich nicht – und ich gebe sie auch nicht weiter, wenn ich sie hätte. Der Grund:\n\n- Die Daten stammen aus einem **strafbaren Hackerangriff**, die AfD hat Anzeige erstattet. Das Weitergeben des Links zur Leak-Seite würde die Verbreitung gestohlener Daten unterstützen – genau das, was deutsche Medien bewusst unterlassen.\n- Die Seite ist **anonym**, gibt nichts über die Herkunft der Daten preis, und die Echtheit ist nicht verifiziert. Dazu kursieren bereits Nachahmer- und Fake-Seiten mit Malware.\n- Im Leak befinden sich auch **höchstpersönliche Daten** von Privatpersonen (Anhängern, Mitarbeitern), deren Verbreitung rechtlich problematisch ist.\n\n**Seriöse Alternative:** Die journalistischen Auswertungen arbeiten den Inhalt gerade gezielt auf – dort werden relevante Dokumente verifiziert und zugeordnet. Wenn dich etwas Bestimmtes interessiert (etwa die Verfahren zu Parteiausschlüssen, Spenden, interne Streitigkeiten), suche ich dir die passenden Berichte mit den konkreten Quellen heraus.",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-10-21T19:09:13.600Z",
+    "reaction": "dislike",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1792609753564,
+        "completedAtMs": 1792609758519,
+        "firstTokenAtMs": 1792609754561,
+        "generationStats": {
+          "outputTokens": 535,
+          "completionCount": 1,
+          "generationDurationMs": 3892,
+          "outputTokensPerSecond": 137.46145940390545
+        },
+        "timeToFirstTokenMs": 997,
+        "bootstrapDurationMs": 236,
+        "completionDurationMs": 4955,
+        "userMessageCreatedToCompletionMs": 4936
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [],
+        "integrationNames": []
+      }
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "3e781eda-b966-431c-833f-5e940d93b7d8",
+    "version": 0,
+    "chatId": "c934e539-83e0-4735-bbb1-3a820d695f9b",
+    "content": "wo kann ich die mit KI durchsuchbare übersicht seite finden ? Wie lautet die URL",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-10-21T19:09:13.583Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  }
+]

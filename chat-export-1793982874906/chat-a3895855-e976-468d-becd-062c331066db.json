@@ -1,0 +1,554 @@
+[
+  {
+    "id": "15d9f632-cf5c-49e3-a6d8-dd486d00ba80",
+    "version": 0,
+    "chatId": "a3895855-e976-468d-becd-062c331066db",
+    "content": "woher bekomme ich den \"Fragebogen zur SteuerlichenErfassung ?\"",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-10-30T19:58:02.589Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "cbbc7bbd-97ea-4ffe-9b00-3ba0b5c2d835",
+    "version": 0,
+    "chatId": "a3895855-e976-468d-becd-062c331066db",
+    "content": "Den Fragebogen zur steuerlichen Erfassung (bracht man z. B. bei Gründung einer selbstständigen/freiberuflichen Tätigkeit) bekommen Sie auf drei Wegen:\n\n1. **ELSTER (empfohlen):** Unter [www.elster.de](https://www.elster.de) → „Mein ELSTER“ → Formulare → „Alle Vordrucke“ → Suche nach „Steuerliche Erfassung“. Sie füllen ihn direkt online aus und übermitteln ihn elektronisch an Ihr Finanzamt – das ist die schnellste Variante.\n\n2. **Formulardatenbank der Finanzverwaltung:** Auf [formulare-bfinv.de](https://www.formulare-bfinv.de) können Sie den Fragebogen als ausfüllbares PDF herunterladen (Suchbegriff „steuerliche Erfassung“). Das ausgefüllte PDF können Sie ausdrucken und unterschrieben per Post ans Finanzamt schicken.\n\n3. **Finanzamt direkt:** Jedes Finanzamt hält den Vordruck vor – entweder persönlich abholen oder anfordern; meist stellen die Ämter das PDF auch auf ihrer Website bereit.\n\n**Hinweis:** Für eine elektronische Abgabe über ELSTER brauchen Sie ggf. ein ELSTER-Konto (kostenlos zu registrieren). Je nach Bundesland kann die Übermittlung des Papierbogens nicht mehr akzeptiert werden – dann bleibt nur der ELSTER-Weg.\n\nFalls Sie möchten, kann ich Ihnen die konkreten Felder und typische Stolperfallen beim Ausfüllen erklären (z. B. geschätzter Gewinn, Kleinunternehmerregelung, Anlage für betriebliche Steuern).",
+    "contentChunks": [
+      {
+        "text": "Simple question in German. The form \"Fragebogen zur steuerlichen Erfassung\" is available from the Finanzamt or via ELSTER (\"ELSTERFormular\"). Could search web briefly. It's stable knowledge but search is encouraged for administrative rules. I'll do a quick search.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1793390284822,
+          "contextId": "harness-reasoning-0",
+          "startTime": 1793390284240
+        }
+      },
+      {
+        "id": "typescript:3:chatcmpl-tool-a825353c9e6fd7ca:0:tool:0",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "chatcmpl-tool-a825353c9e6fd7ca"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "id": "OFFGJKLx",
+              "url": "https://de.wikipedia.org/wiki/Fragebogen_zur_Erfassung_k%C3%B6rperlichen_Wohlbefindens",
+              "title": "Fragebogen zur Erfassung körperlichen Wohlbefindens",
+              "favicon": "https://www.google.com/s2/favicons?domain=de.wikipedia.org&sz=256",
+              "description": "Der **Fragebogen zur Erfassung körperlichen Wohlbefindens** (**FEW 16**) ist ein psychologisches Selbstbeurteilungsverfahren zur Erfassung positiver Aspekte des Wohlbefindens bei Erwachsenen. Andere Fragebögen erfassen entweder das psychische Wohlbefinden oder verwenden eine negative Operationalisierung des Wohlbefindens im Sinne einer Befindlichkeitsstörung. Der einzige Fragebogen, der sich ebenfalls am positiven Pol orientiert, ist der Fragebogen zum aktuellen körperlichen Wohlbefinden (FAW) von Renate Frank. Der FEW 16 besteht aus 16 Fragen, von denen jeweils 4 Fragen zu einer der folgenden vier Skalen zugeordnet werden:"
+            },
+            {
+              "id": "HqrEj4ZW",
+              "url": "https://de.wikipedia.org/wiki/Biografischer_Fragebogen",
+              "title": "Biografischer Fragebogen",
+              "favicon": "https://www.google.com/s2/favicons?domain=de.wikipedia.org&sz=256",
+              "description": "**Biografische Fragebogen** dienen der standardisierten Erfassung „nachprüfbarer objektiver oder subjektiver Informationen und Einschätzungen früherer, gegenwärtiger und zukünftiger Merkmale der Lebensgeschichte“. Man spricht auch von sogenannten „L-Daten“ (life record data). Ihr Einsatz erfolgt vor allem im Rahmen der psychologischen Diagnostik, besonders bei Fragestellungen der der Klinischen Psychologie oder Personalpsychologie. Diese standardisierte Dokumentation kann einerseits der Vorbereitung auf Gespräche (z. B. der Exploration) dienen. Andererseits können die Fragebogendaten auch direkt ausgewertet und bewertet werden (z. B. Häufigkeit und Belastung durch kritische Lebensereignisse). Auch für Forschungsfragestellungen ist die standardisierte Erfassung biografischer Daten eine Voraussetzung zur Herstellung von Vergleichbarkeit, etwa in der (Forschung zur Wirkung kritischer Lebensereignisse)."
+            },
+            {
+              "id": "o0HNPuLl",
+              "url": "https://de.wikipedia.org/wiki/Fragebogen_zur_Analyse_motivationaler_Schemata",
+              "title": "Fragebogen zur Analyse motivationaler Schemata",
+              "favicon": "https://www.google.com/s2/favicons?domain=de.wikipedia.org&sz=256",
+              "description": "Der **Fragebogen zur Analyse motivationaler Schemata** (**FAMOS**) ist ein psychologischer Test zur Erfassung von Therapiezielen. Er erfasst 14 Annäherungsziele und 9 Vermeidungsziele (siehe auch positive Formulierung von Therapiezielen). Er ermöglicht die Messung der Veränderungen von Vermeidungs- und Annäherungszielen im Rahmen von Psychotherapien. Er wird beispielsweise zusammen mit dem Inkongruenzfragebogen (INK) zur Klärung der Therapiemotivation von Essstörungspatienten empfohlen. Martin Grosse Holtforth und Klaus Grawe konnten zeigen, dass ältere Psychotherapiepatienten sich in ihren Annäherungs- und Vermeidungszielen von jüngeren unterscheiden."
+            },
+            {
+              "id": "R90HUhs3",
+              "url": "https://de.wikipedia.org/wiki/Fragebogen_zu_schlafbezogenen_Kognitionen",
+              "title": "Fragebogen zu schlafbezogenen Kognitionen",
+              "favicon": "https://www.google.com/s2/favicons?domain=de.wikipedia.org&sz=256",
+              "description": "Der **Fragebogen zu schlafbezogenen Kognitionen** (**FB-SK**) ist ein psychologischer Fragebogen zur Selbstbeurteilung von Kognitionen bezüglich des eigenen Schlafs. "
+            },
+            {
+              "id": "KsStjIES",
+              "url": "https://de.wikipedia.org/wiki/Kurz-Fragebogen_zur_Arbeitsanalyse",
+              "title": "Kurz-Fragebogen zur Arbeitsanalyse",
+              "favicon": "https://www.google.com/s2/favicons?domain=de.wikipedia.org&sz=256",
+              "description": "Der **Kurz-Fragebogen zur Arbeitsanalyse (KFZA)** ist ein arbeitspsychologischer Fragebogen, der 1995 von Jochen Prümper, Klaus Hartmannsgruber und Michael Frese als Instrument zur Ermittlung psychischer Belastungen in der Arbeitssituation entwickelt und veröffentlicht wurde. Es handelt sich um ein theoretisch fundiertes, standardisiertes, quantitatives Verfahren der Verhältnisprävention, welches bereits langjährig in der betrieblichen Praxis im Einsatz ist. Der KFZA ist ein subjektives Erhebungsinstrument, d. h., er liefert Informationen über das Erleben der Arbeitssituation aus der Sichtweise der Beschäftigten."
+            },
+            {
+              "id": "w7xkIeUt",
+              "url": "https://de.wikipedia.org/wiki/Fragebogen_zu_Dissoziativen_Symptomen",
+              "title": "Fragebogen zu Dissoziativen Symptomen",
+              "favicon": "https://www.google.com/s2/favicons?domain=de.wikipedia.org&sz=256",
+              "description": "Die **Dissociative Experience Scale** (DES) ist ein psychologischer Fragebogen zur Erfassung dissoziativer Symptome über Selbstbeurteilung in englischer Sprache. In der englischsprachigen Originalversion stammt er von Bernstein und Putnam aus dem Jahre 1986. Die deutsche Adaptation wurde von Freyberger und Mitarbeitern im Jahre 1999 veröffentlicht unter der Bezeichnung **Fragebogen zu dissoziativen Symptomen** (FDS). Eine Kurzform des FDS mit 20 Fragen (FDS-20) wurde zur Erfassung umgrenzter Zeiträume entwickelt. Es wurde auch eine Version für Kinder und Jugendliche entwickelt unter dem Namen **Adolescent Dissociative Experience Scale** (A-DES). Von Brunner und Mitarbeitern wurde im Jahr 1999 eine deutsche Fassung unter dem Namen **Skala Dissoziativen Erlebens** (SDE-J) veröffentlicht."
+            },
+            {
+              "id": "TtdocwDU",
+              "url": "https://de.wikipedia.org/wiki/Inventar_zur_Erfassung_Interpersonaler_Probleme",
+              "title": "Inventar zur Erfassung Interpersonaler Probleme",
+              "favicon": "https://www.google.com/s2/favicons?domain=de.wikipedia.org&sz=256",
+              "description": "Das **Inventar zur Erfassung Interpersonaler Probleme** (**IIP-D** dt. Version; engl. *Inventory of Interpersonal Problems*, *IIP*) ist ein Fragebogen zur Erfassung interpersonaler Probleme, der sich am Interpersonalen Circumplex-Modell orientiert. Es handelt sich um ein häufig eingesetztes Instrument im Rahmen der Psychotherapieforschung."
+            },
+            {
+              "id": "yV4Vh9Pf",
+              "url": "https://de.wikipedia.org/wiki/Elster_(Software)",
+              "title": "Elster (Software)",
+              "favicon": "https://www.google.com/s2/favicons?domain=de.wikipedia.org&sz=256",
+              "description": "**Elster** (Apronym für **El**ektronische **St**euer**er**klärung) ist ein 1996 gestartetes Onlineportal der deutschen Steuerverwaltungen aller Länder und des Bundes zur Abwicklung der Steuererklärungen und Steueranmeldungen über das Internet. Elster-Entwickler und bundesweiter Koordinator ist das Bayerische Landesamt für Steuern in München. Elster wurde nach 2007 zu einem der 19 Verfahren von KONSENS erklärt."
+            },
+            {
+              "id": "jLcM9eKe",
+              "url": "https://de.wikipedia.org/wiki/Herzberg_(Elster)",
+              "title": "Herzberg (Elster)",
+              "favicon": "https://www.google.com/s2/favicons?domain=de.wikipedia.org&sz=256",
+              "description": " Marienkirche und Rathaus Marktplatz"
+            },
+            {
+              "id": "b0Ms9LJc",
+              "url": "https://de.wikipedia.org/wiki/Elster",
+              "title": "Elster",
+              "favicon": "https://www.google.com/s2/favicons?domain=de.wikipedia.org&sz=256",
+              "description": "### Heraldik"
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "Fragebogen zur steuerlichen Erfassung ELSTER download wo bekomme ich",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Search results weren't specific. Answer from knowledge with ELSTER reference. The form \"Fragebogen zur steuerlichen Erfassung\" (for founding a business/freiberuflich) is available: ELSTER \"Mein ELster\" → Formulare → alle Formulare → Steuerliche Erfassung; download PDF at elster.de; also at Finanzamt forms service (formulare-bfinv.de). Answer in German.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1793390287418,
+          "contextId": "harness-reasoning-4",
+          "startTime": 1793390286526
+        }
+      },
+      {
+        "text": "Den Fragebogen zur steuerlichen Erfassung (bracht man z. B. bei Gründung einer selbstständigen/freiberuflichen Tätigkeit) bekommen Sie auf drei Wegen:\n\n1. **ELSTER (empfohlen):** Unter [www.elster.de](https://www.elster.de) → „Mein ELSTER“ → Formulare → „Alle Vordrucke“ → Suche nach „Steuerliche Erfassung“. Sie füllen ihn direkt online aus und übermitteln ihn elektronisch an Ihr Finanzamt – das ist die schnellste Variante.\n\n2. **Formulardatenbank der Finanzverwaltung:** Auf [formulare-bfinv.de](https://www.formulare-bfinv.de) können Sie den Fragebogen als ausfüllbares PDF herunterladen (Suchbegriff „steuerliche Erfassung“). Das ausgefüllte PDF können Sie ausdrucken und unterschrieben per Post ans Finanzamt schicken.\n\n3. **Finanzamt direkt:** Jedes Finanzamt hält den Vordruck vor – entweder persönlich abholen oder anfordern; meist stellen die Ämter das PDF auch auf ihrer Website bereit.\n\n**Hinweis:** Für eine elektronische Abgabe über ELSTER brauchen Sie ggf. ein ELSTER-Konto (kostenlos zu registrieren). Je nach Bundesland kann die Übermittlung des Papierbogens nicht mehr akzeptiert werden – dann bleibt nur der ELSTER-Weg.\n\nFalls Sie möchten, kann ich Ihnen die konkreten Felder und typische Stolperfallen beim Ausfüllen erklären (z. B. geschätzter Gewinn, Kleinunternehmerregelung, Anlage für betriebliche Steuern).",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-10-30T19:58:02.641Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1793390282608,
+        "completedAtMs": 1793390292502,
+        "firstTokenAtMs": 1793390284239,
+        "generationStats": {
+          "outputTokens": 561,
+          "completionCount": 2,
+          "generationDurationMs": 4909,
+          "outputTokensPerSecond": 114.27989407211246
+        },
+        "timeToFirstTokenMs": 1631,
+        "bootstrapDurationMs": 1296,
+        "completionDurationMs": 9894,
+        "userMessageCreatedToCompletionMs": 9913
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "run_typescript",
+          "web_search"
+        ],
+        "integrationNames": [
+          "web_search"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "d916cfb5-a621-4e5d-a191-67a9d816d27b",
+    "version": 0,
+    "chatId": "a3895855-e976-468d-becd-062c331066db",
+    "content": "**§ 4 UStG regelt die Steuerbefreiungen** – also Umsätze, die zwar steuerbar sind, aber **ohne Umsatzsteuer** abgerechnet werden (auf Rechnungen steht dann z. B. „steuerfrei gem. § 4 Nr. 14 UStG“). ([Wikipedia](search-result://YFtyPvJm))\n\n## Die drei Gruppen der Befreiungen\n\n1. **Volle Steuerbefreiung mit Vorsteuerabzug (Nr. 1–7):** v. a. Exportumsätze – Ausfuhrlieferungen und innergemeinschaftliche Lieferungen in andere EU-Länder. Der Vorsteuerabzug bleibt erhalten.\n2. **Befreiung mit Optionsmöglichkeit (§ 9 UStG):** v. a. Finanz- und Grundstücksumsätze, Vermietung/Verpachtung. Man kann unter bestimmten Voraussetzungen auf die Befreiung verzichten, um wieder Vorsteuer ziehen zu können.\n3. **Befreiung ohne Option und ohne Vorsteuerabzug:** sozialpolitisch motivierte Befreiungen, z. B. Heilbehandlungen (Nr. 14), Bildungs-/Unterrichtsleistungen (Nr. 21 a/b), Versicherungsvermittlung (Nr. 7), Vermietung (Nr. 12), kreditäre Umsätze (Nr. 8), bestimmte Kulturleistungen. Hier bleibt die Umsatzsteuer auf den Eingangsleistungen als Kostenlast hängen. ([Wikipedia](search-result://YFtyPvJm))\n\n## Bedeutung für den Fragebogen zur steuerlichen Erfassung\n\nIm Fragebogen gibt es ein Feld zur Steuerbefreiung nach § 4 UStG. Das betrifft Sie nur, wenn Ihre Tätigkeit **typischerweise befreite Umsätze** erzeugt, z. B.:\n\n- **Heilberufe** (Ärzte, Psychotherapeuten, Physiotherapeuten, Hebammen) → Nr. 14\n- **Unterricht/Lehrtätigkeit** anerkannter Bildungseinrichtungen → Nr. 21\n- **Künstlerische Leistungen** an öffentlich geförderten Einrichtungen → Nr. 18\n- **Versicherungs-/Finanzvermittlung** → Nr. 7 bzw. Nr. 8\n- **Vermietung von Grundstücken** → Nr. 12\n\n**Praktische Konsequenz:** Bei befreiten Umsätzen nach Nr. 8 ff. entfällt der Vorsteuerabzug – Sie zahlen dann Umsatzsteuer auf Ihre Ausgaben endgültig als Kosten. Eine reine Befreiung nach Nr. 14 (Heilbehandlungen) kann nicht zur Steuerpflicht optiert werden. ([Wikipedia](search-result://6oetN9cM))\n\nWichtig: § 4 UStG ist **nicht** dasselbe wie die Kleinunternehmerregelung (§ 19 UStG) – dort sind Umsätze zwar steuerfrei, aber das ist eine andere Norm, die im Fragebogen separat abgefragt wird.\n\nWenn Sie mir sagen, welche Tätigkeit Sie anmelden möchten, sage ich Ihnen konkret, ob Ihre Umsätze unter § 4 UStG fallen und was Sie im Fragebogen ankreuzen sollten.",
+    "contentChunks": [
+      {
+        "text": "The user is asking about § 4 UStG — the German turnover tax exemptions (Steuerbefreiungen). This is a legal/administrative question, and I should check for current information. § 4 UStG is a relatively stable provision in German law, but I want to verify there haven't been recent amendments, especially since there have been changes around photovoltaic systems (§ 4 Nr. 9 and § 12 items). There was a notable change in 2023 with the zero tax rate for PV systems (§ 12 Abs. 3 UStG), and § 4 Nr. 9 Buchst. a UStG was relevant there.\n\nLet me search for the current version and provide a clear overview of the tax exemptions under § 4 UStG, particularly in the context of the user's previous question about the Fragebogen zur steuerlichen Erfassung — they're likely filling out the section on tax exemptions (e.g., whether they provide tax-exempt services like medical, educational, or insurance-related services). That context matters: they probably need to check boxes in the questionnaire regarding § 4 UStG exemptions.\n\nI'll do a quick web search to confirm the current state and get a citable source.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1793392066289,
+          "contextId": "harness-reasoning-0",
+          "startTime": 1793392063003
+        }
+      },
+      {
+        "id": "typescript:7:chatcmpl-tool-b9b07de0852f77a2:0:tool:0",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "chatcmpl-tool-b9b07de0852f77a2"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "id": "k8hivzV9",
+              "url": "https://de.wikipedia.org/wiki/Umsatzsteuergesetz",
+              "title": "Umsatzsteuergesetz",
+              "favicon": "https://www.google.com/s2/favicons?domain=de.wikipedia.org&sz=256",
+              "description": "**Umsatzsteuergesetz** (kurz **UStG**) steht für:"
+            },
+            {
+              "id": "oKdciGbk",
+              "url": "https://de.wikipedia.org/wiki/Bankenschl%C3%BCssel",
+              "title": "Bankenschlüssel",
+              "favicon": "https://www.google.com/s2/favicons?domain=de.wikipedia.org&sz=256",
+              "description": "Mit dem **Bankenschlüssel** wird in Deutschland im Umsatzsteuergesetz (UStG) ein gemäß § 15 Absatz 4 Umsatzsteuergesetz ermittelter Verteilungsschlüssel für den Abzug von Vorsteuern in Kreditinstituten bezeichnet. Er bestimmt die Verteilung der nicht direkt zuordenbaren Kosten zwischen den Geschäften, die umsatzsteuerpflichtig sind und denen, die es nicht sind."
+            },
+            {
+              "id": "S1Si40ks",
+              "url": "https://de.wikipedia.org/wiki/Helga_Zeuner",
+              "title": "Helga Zeuner",
+              "favicon": "https://www.google.com/s2/favicons?domain=de.wikipedia.org&sz=256",
+              "description": "**Helga Zeuner** (auch **Helga Schlosser-Zeuner**; geboren 7. Februar 1938) ist eine deutsche Juristin und ehemalige Richterin. Von 1991 bis 2010 war sie Richterin am Niedersächsischen Staatsgerichtshof."
+            },
+            {
+              "id": "6oetN9cM",
+              "url": "https://de.wikipedia.org/wiki/Option_(Umsatzsteuerrecht)",
+              "title": "Option (Umsatzsteuerrecht)",
+              "favicon": "https://www.google.com/s2/favicons?domain=de.wikipedia.org&sz=256",
+              "description": "Unter **Option** versteht man im Umsatzsteuerrecht die Ausübung eines Wahlrechts. Die folgende nicht abschließende Aufzählung enthält die wichtigsten Optionen:"
+            },
+            {
+              "id": "960TwU9e",
+              "url": "https://de.wikipedia.org/wiki/Innergemeinschaftlicher_Erwerb_(Deutschland)",
+              "title": "Innergemeinschaftlicher Erwerb (Deutschland)",
+              "favicon": "https://www.google.com/s2/favicons?domain=de.wikipedia.org&sz=256",
+              "description": "### Sonderfall Verbringen"
+            },
+            {
+              "id": "5FVQtzJh",
+              "url": "https://de.wikipedia.org/wiki/Fiskalvertretung",
+              "title": "Fiskalvertretung",
+              "favicon": "https://www.google.com/s2/favicons?domain=de.wikipedia.org&sz=256",
+              "description": "Eine **Fiskalvertretung** ist ein Wirtschaftsbeteiligter, der im Auftrag eines ausländischen Wirtschaftsbeteiligten dessen umsatzsteuerlichen Verpflichtungen gegenüber den einheimischen Steuerbehörden übernimmt."
+            },
+            {
+              "id": "ePBu2tZg",
+              "url": "https://de.wikipedia.org/wiki/Umkehrung_der_Steuerschuldnerschaft_(Deutschland)",
+              "title": "Umkehrung der Steuerschuldnerschaft (Deutschland)",
+              "favicon": "https://www.google.com/s2/favicons?domain=de.wikipedia.org&sz=256",
+              "description": "Die **Umkehrung der Steuerschuldnerschaft** (englisch reverse charge, dt. auch Steuerschuldumkehr) ist eine Spezialregelung im Umsatzsteuerrecht, nach der nicht der leistende Unternehmer, sondern der Leistungsempfänger die Umsatzsteuer zu entrichten hat.## Grundsatz  "
+            },
+            {
+              "id": "raBL02Rm",
+              "url": "https://de.wikipedia.org/wiki/Intrastat",
+              "title": "Intrastat",
+              "favicon": "https://www.google.com/s2/favicons?domain=de.wikipedia.org&sz=256",
+              "description": "**Intrastat** (kurz für **Innergemeinschaftliche Handelsstatistik**, auch **ICTS**) ist eine Statistik der EU-Mitgliedstaaten über den Intrahandel und beruht auf der Verordnung (EU) 2019/2152 vom 27. November 2019 über europäische Unternehmensstatistiken. Diese EU-Verordnung regelt unionsweite Mindeststandards der handelsstatistischen Erfassung."
+            },
+            {
+              "id": "YFtyPvJm",
+              "url": "https://de.wikipedia.org/wiki/Umsatzsteuergesetz_(Deutschland)",
+              "title": "Umsatzsteuergesetz (Deutschland)",
+              "favicon": "https://www.google.com/s2/favicons?domain=de.wikipedia.org&sz=256",
+              "description": "## Steuerbefreiungen"
+            },
+            {
+              "id": "ROb0pjEG",
+              "url": "https://de.wikipedia.org/wiki/Reisevermittler",
+              "title": "Reisevermittler",
+              "favicon": "https://www.google.com/s2/favicons?domain=de.wikipedia.org&sz=256",
+              "description": "## Arten von Reisevermittler-Verträgen"
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "§ 4 UStG Steuerbefreiungen Umsatzsteuergesetz aktuelle Fassung",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "The user is asking about § 4 UStG, likely in the context of the Fragebogen zur steuerlichen Erfassung — where you have to indicate whether your turnover is exempt from VAT under § 4 UStG (e.g., for freelancers in healthcare, education, or insurance intermediation). I'll give a concise overview of § 4 UStG and explain which numbering schemes matter for the questionnaire, citing the Wikipedia article on the German VAT Act as my source.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1793392069140,
+          "contextId": "harness-reasoning-4",
+          "startTime": 1793392068527
+        }
+      },
+      {
+        "text": "**§ 4 UStG regelt die Steuerbefreiungen** – also Umsätze, die zwar steuerbar sind, aber **ohne Umsatzsteuer** abgerechnet werden (auf Rechnungen steht dann z. B. „steuerfrei gem. § 4 Nr. 14 UStG“). ([Wikipedia](search-result://YFtyPvJm))\n\n## Die drei Gruppen der Befreiungen\n\n1. **Volle Steuerbefreiung mit Vorsteuerabzug (Nr. 1–7):** v. a. Exportumsätze – Ausfuhrlieferungen und innergemeinschaftliche Lieferungen in andere EU-Länder. Der Vorsteuerabzug bleibt erhalten.\n2. **Befreiung mit Optionsmöglichkeit (§ 9 UStG):** v. a. Finanz- und Grundstücksumsätze, Vermietung/Verpachtung. Man kann unter bestimmten Voraussetzungen auf die Befreiung verzichten, um wieder Vorsteuer ziehen zu können.\n3. **Befreiung ohne Option und ohne Vorsteuerabzug:** sozialpolitisch motivierte Befreiungen, z. B. Heilbehandlungen (Nr. 14), Bildungs-/Unterrichtsleistungen (Nr. 21 a/b), Versicherungsvermittlung (Nr. 7), Vermietung (Nr. 12), kreditäre Umsätze (Nr. 8), bestimmte Kulturleistungen. Hier bleibt die Umsatzsteuer auf den Eingangsleistungen als Kostenlast hängen. ([Wikipedia](search-result://YFtyPvJm))\n\n## Bedeutung für den Fragebogen zur steuerlichen Erfassung\n\nIm Fragebogen gibt es ein Feld zur Steuerbefreiung nach § 4 UStG. Das betrifft Sie nur, wenn Ihre Tätigkeit **typischerweise befreite Umsätze** erzeugt, z. B.:\n\n- **Heilberufe** (Ärzte, Psychotherapeuten, Physiotherapeuten, Hebammen) → Nr. 14\n- **Unterricht/Lehrtätigkeit** anerkannter Bildungseinrichtungen → Nr. 21\n- **Künstlerische Leistungen** an öffentlich geförderten Einrichtungen → Nr. 18\n- **Versicherungs-/Finanzvermittlung** → Nr. 7 bzw. Nr. 8\n- **Vermietung von Grundstücken** → Nr. 12\n\n**Praktische Konsequenz:** Bei befreiten Umsätzen nach Nr. 8 ff. entfällt der Vorsteuerabzug – Sie zahlen dann Umsatzsteuer auf Ihre Ausgaben endgültig als Kosten. Eine reine Befreiung nach Nr. 14 (Heilbehandlungen) kann nicht zur Steuerpflicht optiert werden. ([Wikipedia](search-result://6oetN9cM))\n\nWichtig: § 4 UStG ist **nicht** dasselbe wie die Kleinunternehmerregelung (§ 19 UStG) – dort sind Umsätze zwar steuerfrei, aber das ist eine andere Norm, die im Fragebogen separat abgefragt wird.\n\nWenn Sie mir sagen, welche Tätigkeit Sie anmelden möchten, sage ich Ihnen konkret, ob Ihre Umsätze unter § 4 UStG fallen und was Sie im Fragebogen ankreuzen sollten.",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-10-30T20:27:41.566Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1793392060997,
+        "completedAtMs": 1793392074117,
+        "firstTokenAtMs": 1793392063002,
+        "generationStats": {
+          "outputTokens": 1157,
+          "completionCount": 2,
+          "generationDurationMs": 8968,
+          "outputTokensPerSecond": 129.014272970562
+        },
+        "timeToFirstTokenMs": 2005,
+        "bootstrapDurationMs": 1352,
+        "completionDurationMs": 13120,
+        "userMessageCreatedToCompletionMs": 13091
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "run_typescript",
+          "web_search"
+        ],
+        "integrationNames": [
+          "web_search"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "c6390d34-1341-4d2d-b99f-cd5aae2994e2",
+    "version": 0,
+    "chatId": "a3895855-e976-468d-becd-062c331066db",
+    "content": "§ 4 UStG ",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-10-30T20:27:41.026Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "3014fd67-afa8-4662-b915-3b8405fd1e6b",
+    "version": 0,
+    "chatId": "a3895855-e976-468d-becd-062c331066db",
+    "content": "**§ 24 UStG regelt die Durchschnittssatzbesteuerung (Pauschalierung) für land- und forstwirtschaftliche Betriebe.** Satz 1 von Abs. 1 ordnet an, dass für diese Betriebe die Umsatzsteuer auf Umsätze, für die Steuerentgelte zu entrichten sind, **pauschal nach Durchschnittssätzen berechnet** wird – statt nach den allgemeinen Steuersätzen (7 % / 19 %) mit einzelnem Vorsteuerabzug. ([Wikipedia](search-result://3OEs1cbz))\n\n## Was das konkret bedeutet\n\nDer Land-/Forstwirt schlägt auf seine Umsätze mit **selbst erzeugten Produkten** einen besonderen Durchschnittssatz auf ([Wikipedia](search-result://3OEs1cbz)):\n\n| Umsatzart | Durchschnittssatz |\n|---|---|\n| Forstwirtschaftliche Erzeugnisse (ohne Sägewerksprodukte) | **5,5 %** |\n| Übrige landwirtschaftliche Umsätze (Getreide, Vieh, Milch etc.) | **7,8 %** (2024 noch 8,4 %) |\n| Sägewerkserzeugnisse, Getränke, alkoholische Flüssigkeiten, sonstige Leistungen | **19 %** |\n\n Gleichzeitig wird auch die **Vorsteuer pauschal** mit denselben Prozentsätzen (5,5 % bzw. 7,8 %) von den Umsätzen festgesetzt. Bei den Sätzen 5,5 % und 7,8 % gleichen sich Steuer und pauschale Vorsteuer exakt aus – das Ergebnis ist **Null**: Der Betrieb zahlt praktisch keine Umsatzsteuer ans Finanzamt und muss keine Vorsteuer einzeln nachweisen. ([Wikipedia](search-result://3OEs1cbz))\n\n## Voraussetzungen und Grenzen\n\n- Die Pauschalierung gilt **kraft Gesetzes**, sofern nicht verzichtet wird.\n- Seit 2022 gilt eine Umsatzgrenze: Vorjahresumsatz von **max. 600.000 €**. ([Wikipedia](search-result://3OEs1cbz))\n- **Verzicht möglich:** Nach § 24 Abs. 4 UStG kann der Betrieb bis zum 10. Januar des Folgejahres für mindestens 5 Jahre auf die Pauschalierung verzichten – sinnvoll z. B. bei hohen Vorsteuerbeträgen durch Baumaßnahmen oder Maschinenkäufe. ([Wikipedia](search-result://6oetN9cM))\n- Exportumsätze (§ 4 Nr. 1–7 UStG) bleiben auch bei der Pauschalierung steuerfrei. ([Wikipedia](search-result://3OEs1cbz))\n\n## Bezug zum Fragebogen zur steuerlichen Erfassung\n\nWenn Sie einen land- und forstwirtschaftlichen Betrieb anmelden, wird im Fragebogen genau diese Regelung abgefragt („Berechnung der Umsatzsteuer nach Durchschnittssätzen gem. § 24 UStG“ bzw. ob verzichtet wird). Kreuzen Sie die Pauschalierung an, wenn Sie sie nutzen wollen – für die meisten kleineren Betriebe ist das der einfachste Weg: keine Vorsteuererfassung, keine Umsatzsteuer-Voranmeldung in der Regel nötig.\n\nAuch relevant: Ein land- und forstwirtschaftlicher Betrieb ist **kein Gewerbe** und löst daher keine Gewerbesteuer aus (Ausnahme: Kapitalgesellschaften/Genossenschaften). ([Wikipedia](search-result://4iLBRBsF))\n\nMelden Sie einen landwirtschaftlichen/forstwirtschaftlichen Betrieb an? Dann kann ich Ihnen die relevanten Felder im Fragebogen dazu im Detail durchgehen.",
+    "contentChunks": [
+      {
+        "text": "§ 24 Abs. 1 Satz 1 UStG — pauschale Vorsteuersätze für land- und forstwirtschaftliche Betriebe (Durchschnittssatzbesteuerung nach § 24). The user is going through UStG norms relevant to the Fragebogen. Provide explanation. Stable knowledge; could search quickly but I can answer from knowledge. The search guidance says search for legal/administrative rules; a quick search for accuracy is fine.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1793392181283,
+          "contextId": "harness-reasoning-0",
+          "startTime": 1793392180672
+        }
+      },
+      {
+        "id": "typescript:11:chatcmpl-tool-a8a4648f94f5b00d:0:tool:0",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "chatcmpl-tool-a8a4648f94f5b00d"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "id": "3OEs1cbz",
+              "url": "https://de.wikipedia.org/wiki/Vorsteuerpauschale_(Deutschland)",
+              "title": "Vorsteuerpauschale (Deutschland)",
+              "favicon": "https://www.google.com/s2/favicons?domain=de.wikipedia.org&sz=256",
+              "description": "Unternehmen müssen i. d. R. gem. § 13 Umsatzsteuergesetz (UStG) Umsatzsteuer auf Inlandsleistungen erheben und ans Finanzamt abführen und erhalten gem. § 15 UStG die von ihnen gezahlten Umsatzsteuern auf Leistungen anderer Unternehmer (sog. Vorsteuern) erstattet. Bestimmte Gruppen konnten bzw. können ihr Vorsteuerguthaben pauschal ermitteln, die **Vorsteuerpauschale**: Anstatt die Vorsteuer aus den tatsächlich geleisteten Umsatzsteuerzahlungen zu summieren, durften bzw. dürfen diese Unternehmer sie nach sogenannten „allgemeinen Durchschnittssätzen“ ohne Nachweise pauschal als Prozentsatz vom eigenen Umsatz errechnen."
+            },
+            {
+              "id": "4iLBRBsF",
+              "url": "https://de.wikipedia.org/wiki/Land-_und_forstwirtschaftlicher_Betrieb",
+              "title": "Land- und forstwirtschaftlicher Betrieb",
+              "favicon": "https://www.google.com/s2/favicons?domain=de.wikipedia.org&sz=256",
+              "description": "Insgesamt gibt es in Österreich etwa 200.000 land- und forstwirtschaftliche Betriebe, im Vergleich zu 300.000 Betrieben der sonstigen Produktions- und Dienstleistungsbereiche insgesamt. Die Bruttowertschöpfung beträgt etwa 3 Mrd. €, das sind nur knapp 3 % der Produktion und weniger als 1,5 % der betrieblichen Gesamtwertschöpfung Österreichs."
+            },
+            {
+              "id": "lDotPJaj",
+              "url": "https://de.wikipedia.org/wiki/Land-_und_forstwirtschaftliches_Betriebsinformationssystem",
+              "title": "Land- und forstwirtschaftliches Betriebsinformationssystem",
+              "favicon": "https://www.google.com/s2/favicons?domain=de.wikipedia.org&sz=256",
+              "description": "Das **Land- und forstwirtschaftliche Betriebsinformationssystem** (**LFBIS**) ist die österreichische Variante der landesweit eindeutigen Kennzeichnung landwirtschaftlicher und forstwirtschaftlicher Betriebe: Jeder Betrieb bekommt eine siebenstellige Nummer, wobei die letzte Ziffer eine Prüfziffer darstellt, zugeteilt, anhand derer er bundesweit identifiziert werden kann. Die Vergabe und Wartung dieser Nummer erfolgt durch Statistik Austria und ist im Rahmen des LFBIS Gesetzes, bzw. Verordnungen geregelt."
+            },
+            {
+              "id": "NbQHNC5F",
+              "url": "https://de.wikipedia.org/wiki/Land-_und_Forstwirtschaftliches_Register",
+              "title": "Land- und Forstwirtschaftliches Register",
+              "favicon": "https://www.google.com/s2/favicons?domain=de.wikipedia.org&sz=256",
+              "description": "Das **Land- und Forstwirtschaftliche Register** (**LFR**) ist ein österreichisches Datenbanksystem mit Informationen über land- und forstwirtschaftliche Einheiten in Österreich, das der Statistik dient und von Statistik Austria geführt und gewartet wird."
+            },
+            {
+              "id": "7y8HcAZ3",
+              "url": "https://de.wikipedia.org/wiki/Eink%C3%BCnfte_aus_Land-_und_Forstwirtschaft_(%C3%96sterreich)",
+              "title": "Einkünfte aus Land- und Forstwirtschaft (Österreich)",
+              "favicon": "https://www.google.com/s2/favicons?domain=de.wikipedia.org&sz=256",
+              "description": "### Vollpauschalierung"
+            },
+            {
+              "id": "uQPgrY7i",
+              "url": "https://de.wikipedia.org/wiki/Land_%26_Forst",
+              "title": "Land & Forst",
+              "favicon": "https://www.google.com/s2/favicons?domain=de.wikipedia.org&sz=256",
+              "description": " Ein typisches Cover der LAND & FORST. Copyright: Kristoffer Finn Erstausgabe \"Landwirthschaftliche Zeitung\" am 1. Mai 1848. Copyright: LAND & FORST"
+            },
+            {
+              "id": "1SY0f3AT",
+              "url": "https://de.wikipedia.org/wiki/H%C3%B6here_land-_und_forstwirtschaftliche_Schule",
+              "title": "Höhere land- und forstwirtschaftliche Schule",
+              "favicon": "https://www.google.com/s2/favicons?domain=de.wikipedia.org&sz=256",
+              "description": "Die **Höhere land- und forstwirtschaftliche Schulen** (**HLFS**) sind im Bildungssystem in Österreich einige Schulen für Agrarberufe, die dem Unterrichtsministerium und Land- und Forstwirtschaftsministerium direkt unterstellt sind."
+            },
+            {
+              "id": "vOvNBE4b",
+              "url": "https://de.wikipedia.org/wiki/Pauschale_Beihilfe",
+              "title": "Pauschale Beihilfe",
+              "favicon": "https://www.google.com/s2/favicons?domain=de.wikipedia.org&sz=256",
+              "description": "Bei der **Pauschalen Beihilfe** (Hamburger Modell) werden monatlich 50 % der Krankenkassenbeiträge vom Dienstherr übernommen. So erhalten auch gesetzlich versicherte Beamte von ihrem Dienstherren eine finanzielle Entlastung, äquivalent zum Arbeitgeberanteil der TV-L Beschäftigten."
+            },
+            {
+              "id": "DflngpaJ",
+              "url": "https://de.wikipedia.org/wiki/H%C3%BCttenberg_Land",
+              "title": "Hüttenberg Land",
+              "favicon": "https://www.google.com/s2/favicons?domain=de.wikipedia.org&sz=256",
+              "description": "f0"
+            },
+            {
+              "id": "f96526p4",
+              "url": "https://de.wikipedia.org/wiki/Forstwirtschaftliche_Gesamtrechnung_der_Schweiz",
+              "title": "Forstwirtschaftliche Gesamtrechnung der Schweiz",
+              "favicon": "https://www.google.com/s2/favicons?domain=de.wikipedia.org&sz=256",
+              "description": "Die **Forstwirtschaftliche Gesamtrechnung (FGR)** ist eine wirtschaftliche Synthesestatistik, deren Hauptziel die Analyse des Produktionsprozesses und des darin erzielten Primäreinkommens der Forstwirtschaft ist. Sie bildet einen zusammenhängenden, buchhalterischen Rahmen, der an die besonderen Gegebenheiten der Forstwirtschaft angepasst ist. Da die FGR ein Satellitenkonto der Volkswirtschaftlichen Gesamtrechnung (VGR) der Schweiz darstellt, orientiert sie und sich an den Grundregeln des Zentralrahmens der VGR (Inlandkonzept, Kontenabfolge, Produktionsgrenze, Bewertungskonzepte usw.). Die methodologischen Prinzipien, auf welchen die FGR aufgebaut ist, sind auf europäischer Ebene harmonisiert (Eurostat), was Vergleichsanalysen mit über 30 Ländern ermöglicht (BFS 2021a)."
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "§ 24 UStG Durchschnittssatz land- und forstwirtschaftliche Betriebe pauschale Vorsteuersätze Wortlaut",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Explain § 24 Abs. 1 Satz 1 UStG: Durchschnittssatzbesteuerung for land- and forestry. Satz 1: \"Für land- und forstwirtschaftliche Betriebe ... werden ... die Umsatzsteuer ... nach Durchschnittssätzen berechnet\" — essentially, the tax is calculated by flat rates on turnover from self-produced products.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1793392183513,
+          "contextId": "harness-reasoning-4",
+          "startTime": 1793392183003
+        }
+      },
+      {
+        "text": "**§ 24 UStG regelt die Durchschnittssatzbesteuerung (Pauschalierung) für land- und forstwirtschaftliche Betriebe.** Satz 1 von Abs. 1 ordnet an, dass für diese Betriebe die Umsatzsteuer auf Umsätze, für die Steuerentgelte zu entrichten sind, **pauschal nach Durchschnittssätzen berechnet** wird – statt nach den allgemeinen Steuersätzen (7 % / 19 %) mit einzelnem Vorsteuerabzug. ([Wikipedia](search-result://3OEs1cbz))\n\n## Was das konkret bedeutet\n\nDer Land-/Forstwirt schlägt auf seine Umsätze mit **selbst erzeugten Produkten** einen besonderen Durchschnittssatz auf ([Wikipedia](search-result://3OEs1cbz)):\n\n| Umsatzart | Durchschnittssatz |\n|---|---|\n| Forstwirtschaftliche Erzeugnisse (ohne Sägewerksprodukte) | **5,5 %** |\n| Übrige landwirtschaftliche Umsätze (Getreide, Vieh, Milch etc.) | **7,8 %** (2024 noch 8,4 %) |\n| Sägewerkserzeugnisse, Getränke, alkoholische Flüssigkeiten, sonstige Leistungen | **19 %** |\n\n Gleichzeitig wird auch die **Vorsteuer pauschal** mit denselben Prozentsätzen (5,5 % bzw. 7,8 %) von den Umsätzen festgesetzt. Bei den Sätzen 5,5 % und 7,8 % gleichen sich Steuer und pauschale Vorsteuer exakt aus – das Ergebnis ist **Null**: Der Betrieb zahlt praktisch keine Umsatzsteuer ans Finanzamt und muss keine Vorsteuer einzeln nachweisen. ([Wikipedia](search-result://3OEs1cbz))\n\n## Voraussetzungen und Grenzen\n\n- Die Pauschalierung gilt **kraft Gesetzes**, sofern nicht verzichtet wird.\n- Seit 2022 gilt eine Umsatzgrenze: Vorjahresumsatz von **max. 600.000 €**. ([Wikipedia](search-result://3OEs1cbz))\n- **Verzicht möglich:** Nach § 24 Abs. 4 UStG kann der Betrieb bis zum 10. Januar des Folgejahres für mindestens 5 Jahre auf die Pauschalierung verzichten – sinnvoll z. B. bei hohen Vorsteuerbeträgen durch Baumaßnahmen oder Maschinenkäufe. ([Wikipedia](search-result://6oetN9cM))\n- Exportumsätze (§ 4 Nr. 1–7 UStG) bleiben auch bei der Pauschalierung steuerfrei. ([Wikipedia](search-result://3OEs1cbz))\n\n## Bezug zum Fragebogen zur steuerlichen Erfassung\n\nWenn Sie einen land- und forstwirtschaftlichen Betrieb anmelden, wird im Fragebogen genau diese Regelung abgefragt („Berechnung der Umsatzsteuer nach Durchschnittssätzen gem. § 24 UStG“ bzw. ob verzichtet wird). Kreuzen Sie die Pauschalierung an, wenn Sie sie nutzen wollen – für die meisten kleineren Betriebe ist das der einfachste Weg: keine Vorsteuererfassung, keine Umsatzsteuer-Voranmeldung in der Regel nötig.\n\nAuch relevant: Ein land- und forstwirtschaftlicher Betrieb ist **kein Gewerbe** und löst daher keine Gewerbesteuer aus (Ausnahme: Kapitalgesellschaften/Genossenschaften). ([Wikipedia](search-result://4iLBRBsF))\n\nMelden Sie einen landwirtschaftlichen/forstwirtschaftlichen Betrieb an? Dann kann ich Ihnen die relevanten Felder im Fragebogen dazu im Detail durchgehen.",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-10-30T20:29:39.655Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1793392179604,
+        "completedAtMs": 1793392187543,
+        "firstTokenAtMs": 1793392180671,
+        "generationStats": {
+          "outputTokens": 1084,
+          "completionCount": 2,
+          "generationDurationMs": 5391,
+          "outputTokensPerSecond": 201.07586718605083
+        },
+        "timeToFirstTokenMs": 1067,
+        "bootstrapDurationMs": 670,
+        "completionDurationMs": 7939,
+        "userMessageCreatedToCompletionMs": 7914
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "run_typescript",
+          "web_search"
+        ],
+        "integrationNames": [
+          "web_search"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "9da280df-cba2-4729-96a6-1422dce15f5b",
+    "version": 0,
+    "chatId": "a3895855-e976-468d-becd-062c331066db",
+    "content": "§ 24 Absatz 1 Satz 1 UStG",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-10-30T20:29:39.629Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  }
+]

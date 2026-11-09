@@ -1,0 +1,337 @@
+[
+  {
+    "id": "d20ebd00-dbd4-4738-974f-093ae1c1e213",
+    "version": 0,
+    "chatId": "c9d90f11-dbec-4405-83c3-9cbb18c17c21",
+    "content": "Wie und wie lange kann der Konsum von Ketamin bei Menschen nachgewiesen werden?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-07-13T16:05:45.270Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "92da3df3-247d-445e-866b-3bf0833816c2",
+    "version": 0,
+    "chatId": "c9d90f11-dbec-4405-83c3-9cbb18c17c21",
+    "content": "Der Konsum von Ketamin kann auf verschiedene Weise und für unterschiedliche Zeiträume nachgewiesen werden:\n\n- **Blut:** Ketamin ist im Blut in der Regel bis zu 16 Stunden nach dem Konsum nachweisbar.\n- **Urin:** Im Urin kann Ketamin (bzw. sein Abbauprodukt Dehydro-Norketamin) etwa 1–4 Tage nach dem Konsum nachgewiesen werden. Die genaue Dauer hängt von der konsumierten Menge, der Häufigkeit des Konsums und individuellen Faktoren ab.\n- **Haare:** Eine Haaranalyse ermöglicht den Nachweis über einen viel längeren Zeitraum – pro Zentimeter Haarlänge etwa einen Monat. Bei einer Haarlänge von 12 cm kann der Konsum also bis zu 12 Monate zurückverfolgt werden.\n\nZusammengefasst: Für einen kurzfristigen Nachweis eignen sich Blut und Urin, für einen langfristigen Nachweis (Wochen bis Monate) ist eine Haaranalyse notwendig. Möchtest du noch mehr über die einzelnen Nachweismethoden wissen?",
+    "contentChunks": [
+      {
+        "id": "jdQTx1Rxw",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1783958754270,
+        "success": true,
+        "toolType": "rag",
+        "startTime": 1783958750154,
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "ar": "البحث على الويب",
+            "de": "Websuche",
+            "en": "Web Search",
+            "es": "Búsqueda web",
+            "fr": "Recherche Web",
+            "it": "Ricerca web",
+            "nl": "Webzoeken",
+            "pl": "Wyszukiwanie w sieci",
+            "pt-BR": "Pesquisa na web"
+          }
+        },
+        "customLocale": {
+          "done_description": {
+            "en": "web_search"
+          },
+          "working_description": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "dcxrmzed": {
+            "url": "https://self-diagnostics.com/de/magazin/nachweiszeiten-drogen.html",
+            "date": null,
+            "rank": 1,
+            "title": "Nachweiszeiten von Drogen in Blut, Urin & Speichel",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/zoq4AAb9LXJyEGOHYui7h2waow2pdI-ZzeB63lRMzm0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmQ1MjMxODky/YWJlZGFmM2Y3M2Qx/MTg0Y2NiNGYwNGY5/ZGU2OWE3YTMyY2I3/NTI2NTQ4ZWE5MTE0/YjVjOGVhNC9zZWxm/LWRpYWdub3N0aWNz/LmNvbS8",
+              "thumbnail": "https://self-diagnostics.com/media/amasty/blog/drogen-nachweiszeiten-1200x600.jpg"
+            },
+            "snippets": [
+              "Wie lange sind im Screening Drogen nachweisbar? ✓ Tabelle Nachweiszeit im Urin ✓ Tabelle Nachweiszeit im Speichel ► Überblick verschaffen",
+              "Ketamin Drogentest (KET) | Cut-off 1000 ng/mL · 13,49 € · Nicht lieferbar · Urin-Alkoholtest | EtG (Ethylglucuronid) Schnelltest · 13,49 € · In den Warenkorb · Benzodiazepine Drogentest · 5,29 € · Nicht lieferbar · WerteKompass (5) Testwissen (5) Drogencheck (7) Infektion (7) Alltagsdiagnostik (5) RetroDiagnostik (3) Eisenreiche Lebensmittel: Tabelle und Alltagstipps · 20. Mai 2026 16 Min.",
+              "Wie lange Drogen durch Blut, Urin- und Speicheltests nachweisbar sind hängt u.",
+              "Was viele nicht wissen: Selbst zu Hause kann man Drogenkonsum nachweisen – mit unseren qualitativ hochwertigen Drogen-Urintests.",
+              "Ab wann und wie lange lassen sich Drogen in Blut, Urin & Speichel nachweisen?"
+            ],
+            "description": "Wie lange sind im Screening Drogen nachweisbar? ✓ Tabelle Nachweiszeit im Urin ✓ Tabelle Nachweiszeit im Speichel ► Überblick verschaffen"
+          },
+          "dkufkdsc": {
+            "url": "https://self-diagnostics.com/de/drogenschnelltest-ketamin-10-teststreifen.html",
+            "date": null,
+            "rank": 7,
+            "title": "Drogenschnelltest Ketamin - Cut-off 1000 ng/mL",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/zoq4AAb9LXJyEGOHYui7h2waow2pdI-ZzeB63lRMzm0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmQ1MjMxODky/YWJlZGFmM2Y3M2Qx/MTg0Y2NiNGYwNGY5/ZGU2OWE3YTMyY2I3/NTI2NTQ4ZWE5MTE0/YjVjOGVhNC9zZWxm/LWRpYWdub3N0aWNz/LmNvbS8",
+              "thumbnail": "https://self-diagnostics.com/media/catalog/product/0/1/01_drugs_pouches_1000x1000px_1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:"
+            },
+            "snippets": [
+              "Ketamin-Nachweisbarkeit im Urin: <strong>1-3 Tage</strong> Beginn der Nachweiszeit: Ab ca.",
+              "„Cut-off“ ist der englische Begriff für „Nachweisgrenze“. Ein Cut-off von 1000 ng/ml bedeutet, dass der Test Ketamin ab einer Konzentration von 1000 Nanogramm pro Milliliter Urin nachweisen kann. Je empfindlicher der Test ist, desto geringere Mengen sind nötig, um ein positives Ergebnis zu erhalten. Durch den Konsum von Ketamin kann es zu Bluthochdruck, Übelkeit, Sehstörungen, Schwindel sowie zu einer Harnwegsschädigung kommen.",
+              "Der Ketamin Test weist Ketamin im Urin nach.",
+              "Ketamin-Nachweisbarkeit im Urin: 1-3 Tage Beginn der Nachweiszeit: Ab ca.",
+              "2-6 Stunden nach dem Konsum erkennt der Test Ketamin im Urin."
+            ],
+            "description": "Ketamin-Nachweisbarkeit im Urin: <strong>1-3 Tage</strong> Beginn der Nachweiszeit: Ab ca."
+          },
+          "hbvvjjrg": {
+            "url": "https://ama-prevention.com/de/blogs/drogen-und-offentliche-gesundheit/wie-lange-bleibt-die-drogen-im-korper-entdecken-sie-die-wichtigsten-fakten",
+            "date": null,
+            "rank": 6,
+            "title": "Dauer des Verbleibs von Drogen im Körper: Umfassender Leitfaden – AMA Prévention",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/UgcmXAsr_eBC11VYxN5B8NVPTUYqRrfvUbyWPVRb9OM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTQ0NTE4N2E2/MTgwNDQ1ZGMzYjc0/NDY1Y2YzYjUzOGIz/OWFlNWQ4YjUzNTM3/ZjQ3MTQ2ZjFkMTZj/NDU1MmY1Ni9hbWEt/cHJldmVudGlvbi5j/b20v",
+              "thumbnail": "https://ama-prevention.com/cdn/shop/articles/2e62865a336a656be574cd74d462ef11_1bc257a9-ce85-45d5-bc73-b3e550eb61d7.jpg?v=1777638856&width=1920"
+            },
+            "snippets": [
+              "Dieser umfassende Leitfaden erklärt die Unterschiede zwischen Urin-Test, Speicheltest, Blutentnahme und Haaranalyse sowie die wichtigsten bekannten Nachweiszeiten für Cannabis, Kokain, Amphetamine, MDMA, Opiate, GHB, Ketamin und Benzodiazepine.",
+              "Dieser umfassende Leitfaden erklärt die Unterschiede zwischen Urin-Test, Speicheltest, Blutentnahme und Haaranalyse sowie die wichtigsten bekannten Nachweiszeiten für Cannabis, Kokain, Amphetamine, MDMA, Opiate, GHB, Ketamin und Benzodiazepine.",
+              "Die Nachweisdauer von Drogen variiert je nach Substanz, verwendetem Test und Person. Speichel und Blut sind vor allem für kürzlichen Konsum geeignet; Urin deckt oft einen längeren Zeitraum ab; Haare ermöglichen die Untersuchung einer längeren Historie.",
+              "Nachweiszeiten, Unterschiede zwischen Urin, Speichel, Blut und Haaren sowie wichtige Punkte zur Interpretation eines Testergebnisses. Ihr Browser unterstützt die HTML5-Audio-Wiedergabe nicht. Wenn der Player nicht angezeigt wird, können Sie Hier auf das Audio zugreifen. Schnelle Antwort: Wie lange bleiben Drogen nachweisbar? Urin, Speichel, Blut, Haare: die Unterschiede verstehen",
+              "Eine Droge kann je nach verwendetem Test einige Stunden, mehrere Tage, Wochen oder Monate nachweisbar sein. Im Allgemeinen erkennen Blut und Speichel eher einen kürzlichen Konsum, der Urin oft ein längeres Zeitfenster, und Haare erlauben die Suche nach einer längeren Historie."
+            ],
+            "description": "Dieser umfassende Leitfaden erklärt die Unterschiede zwischen Urin-Test, Speicheltest, Blutentnahme und Haaranalyse sowie die wichtigsten bekannten Nachweiszeiten für Cannabis, Kokain, Amphetamine, MDMA, Opiate, GHB, Ketamin und Benzodiazepine."
+          },
+          "mpbvrzzc": {
+            "url": "https://www.drogendetektive.com/collections/nachweisbarkeit-verschiedener-drogenarten",
+            "date": null,
+            "rank": 0,
+            "title": "Drogennachweis Zeitfenster: Urin, Blut, Haare - Drogendetektive – Bavarian Lifescience",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/r1D-ibtWQsndXAn1VOSdnewHWs6iJkL9s_JSYHjWr6c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmI3MWE1Yjg5/NDEwN2MwZWFhYWZj/NzdjMjVjNDVmMTVj/MGM1N2ViN2QxYzVm/NGY1ZTU4NDNmMGYw/NmM1YTk3NS93d3cu/ZHJvZ2VuZGV0ZWt0/aXZlLmNvbS8",
+              "thumbnail": "http://www.drogendetektive.com/cdn/shop/files/BLS-Logo.svg?height=628&pad_color=ffffff&v=1742208137&width=1200"
+            },
+            "snippets": [
+              "Während Blut, Urin oder Speichel meist nur kurze Zeitfenster abdecken, kann eine Haaranalyse Hinweise auf länger zurückliegenden Konsum liefern. Bei privaten Analysen können Sie die Probe selbst entnehmen und einsenden. Sie erhalten eine klare Labor-Auswertung. Je nach Haarlänge kann der Untersuchungszeitraum in einzelne Abschnitte aufgeteilt werden. Cannabis, Kokain, Amphetamine, Opiate, Benzodiazepine, Ketamin, GHB und weitere Stoffe können je nach Analyse untersucht werden.",
+              "Während Blut, Urin oder Speichel meist nur kurze Zeitfenster abdecken, kann eine Haaranalyse Hinweise auf länger zurückliegenden Konsum liefern. Bei privaten Analysen können Sie die Probe selbst entnehmen und einsenden. Sie erhalten eine klare Labor-Auswertung. Je nach Haarlänge kann der Untersuchungszeitraum in einzelne Abschnitte aufgeteilt werden. Cannabis, Kokain, Amphetamine, Opiate, Benzodiazepine, Ketamin, GHB und weitere Stoffe können je nach Analyse untersucht werden.",
+              "Nachweiszeiten von Cannabis, Kokain, Amphetaminen, MDMA, Opiaten, Benzodiazepinen und weiteren Substanzen – verständlich erklärt für Urin, Blut, Speichel und Haare.",
+              "Für einen Monat wird ungefähr 1 cm Haar benötigt.",
+              "Haaranalyse Ratgeber Alles rund um Ablauf, Zeitraum und Aussagekraft. Segmentanalyse erklärt Wann eine Aufteilung in Zeitabschnitte sinnvoll ist."
+            ],
+            "description": "Während Blut, Urin oder Speichel meist nur kurze Zeitfenster abdecken, kann eine Haaranalyse Hinweise auf länger zurückliegenden Konsum liefern. Bei privaten Analysen können Sie die Probe selbst entnehmen und einsenden. Sie erhalten eine klare Labor-Auswertung. Je nach Haarlänge kann der Untersuchungszeitraum in einzelne Abschnitte aufgeteilt werden. Cannabis, Kokain, Amphetamine, Opiate, Benzodiazepine, Ketamin, GHB und weitere Stoffe können je nach Analyse untersucht werden."
+          },
+          "mvzqmqcw": {
+            "url": "https://www.eve-rave.org/drogen-abc/nachweiszeiten/",
+            "date": null,
+            "rank": 5,
+            "title": "eve&rave Münster e.V. – Nachweiszeiten",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/AqRhqQ24FmXlODfXivfGr9l_oKRPXDNQ0URiP3oX93o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmVmZTAwYzc1/ODg0MDQ3YmYyY2Jj/ZmY1MDI4NjVkNTEx/N2YzNGI3YWY3OWUx/NWJmODFlYTA1MWMw/NWU4OTE4MC93d3cu/ZXZlLXJhdmUub3Jn/Lw",
+              "thumbnail": "https://www.eve-rave.org/s/img/emotionheader.jpg"
+            },
+            "snippets": [
+              "Weitere interessante Produkte findest ... Skripte oder ändere die Einstellungen deines Browsers! ... Blut: - ca. <strong>6 Stunden – 1 Tag nach einmaligem Konsum</strong> ... Tests: Mit diesen Tests kann Kokain im Urin oder im Speichel nachgewiesen ...",
+              "Urin: - ca. 1 – 4 Tage nach einmaligem Konsum (im Labor) - ca. 5 – 10 Tage nach häufigem Konsum (im Labor) - ca. 7 – 14 Tage nach dauerhaftem Konsum (im Labor) Blut: - ca. 6 – 12 Stunden nach einmaligem Konsum ... Tests: Mit einem Test kann man überprüfen, ob in einem Getränk Ketamin (ein möglicher Wirkstoff von KO-Tropfen) enthalten ist.",
+              "Der andere Test weist Ketamin auf Oberflächen nach. Weitere interessante Produkte findest Du in unserem „Shop“! Sollten Dir hier keine Produkte angezeigt werden, deaktiviere deinen Ad-Blocker, erlaube Skripte oder ändere die Einstellungen deines Browsers! ... Blut: - ca. 6 Stunden – 1 Tag nach einmaligem Konsum ... Tests: Mit diesen Tests kann Kokain im Urin oder im Speichel nachgewiesen werden.",
+              "Es kommen immer wieder neue und noch empfindlichere Methoden zum Einsatz, um diese Stoffe in Körperflüssigkeiten (Schweiß, Speichel, Urin und Blut), den Haaren oder Nägeln, dem Atem, über Körperreflexe (Pupillenreflex) oder auch auf Oberflächen (Ausweise, Geldscheine, Spiegel, Lenkrad, usw.) nachzuweisen.",
+              "Konsumierst Du Drogen, sind diese nach wenigen Minuten in Deinem Blut und Speichel nachweisbar. Mit einiger Verzögerung sind sie dann auch in Deinem Urin und Schweiß aufzufinden. Einige Tage nach dem Konsum lagern sich die meisten Substanzen und/oder deren Abbauprodukte auch in Deinen Haaren und Nägeln ein."
+            ],
+            "description": "Weitere interessante Produkte findest ... Skripte oder ändere die Einstellungen deines Browsers! ... Blut: - ca. <strong>6 Stunden – 1 Tag nach einmaligem Konsum</strong> ... Tests: Mit diesen Tests kann Kokain im Urin oder im Speichel nachgewiesen ..."
+          },
+          "pdqgatrc": {
+            "url": "https://www.aerztliches-gutachten.info/nachweiszeiten-von-drogen-im-blut/",
+            "date": null,
+            "rank": 9,
+            "title": "Nachweiszeiten von Drogen im Blut - Ärztliches Gutachten",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/TtX4KgPUs19NbseajPNO5paRA7C2hwQ9YKF2krLlDk8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWY3Mjg5Zjhm/NWRjZWM1MTFhMDkw/MzZjOWI4ZjI1Zjg5/Y2U1M2YxYWY2NWQ3/ZDQxOTgwOGYwYTAw/MDU2ODM3MC93d3cu/YWVyenRsaWNoZXMt/Z3V0YWNodGVuLmlu/Zm8v",
+              "thumbnail": "https://www.aerztliches-gutachten.info/wp-content/uploads/2020/11/Aerztliches-Gutachten-Drogen.jpg"
+            },
+            "snippets": [
+              "Die Nachweisbarkeit von Ketamin im Blut beträgt <strong>bis zu 16 Stunden</strong>.",
+              "Alle Nachweiszeiten von den gängigsten Drogen und Betäubungsmitteln im Blut in einer kompakten und aktuellen Übersicht.",
+              "Die Nachweisbarkeit von Ketamin im Blut beträgt bis zu 16 Stunden.",
+              "Erfahre in diesem Artikel alles über die Nachweiszeiten der gängigsten Drogen im Urin."
+            ],
+            "description": "Die Nachweisbarkeit von Ketamin im Blut beträgt <strong>bis zu 16 Stunden</strong>."
+          },
+          "scubebxs": {
+            "url": "https://www.sicher-testen.ch/de/drogentest/haaranalyse/ketamin-2/",
+            "date": null,
+            "rank": 2,
+            "title": "Haaranalyse Ketamin: Langzeit-Nachweis im Labor",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/O2SJa7FRK_4GOh8xq5cpbnkhBIqOJdc_4NlNzHlpAs0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjI1YzA5ZjUz/MjI0Y2IxZTI0Yzdk/YTNhMDdlMmRiODRm/YzdmM2NmYTJiMmMy/MTVmYWRlZTQ5MDJi/MzAyOTk4My93d3cu/c2ljaGVyLXRlc3Rl/bi5jaC8",
+              "thumbnail": "https://www.sicher-testen.ch/wp-content/uploads/2014/03/Haarstraehne-fuer-Haaranalyse.jpg"
+            },
+            "snippets": [
+              "Nachweiszeitraum: abhängig von der Haarlänge (z. B. 12 cm ≈ <strong>12 Monate</strong>) Bericht: Bei positivem Befund werden die exakten gemessenen Konzentrationswerte angegeben ... eine langfristige Beurteilung der Ketamin-Einnahme benötigt wird (Nachweise, ...",
+              "Nachweiszeitraum: abhängig von der Haarlänge (z. B. 12 cm ≈ 12 Monate) Bericht: Bei positivem Befund werden die exakten gemessenen Konzentrationswerte angegeben ... eine langfristige Beurteilung der Ketamin-Einnahme benötigt wird (Nachweise, Kontrollen, Selbstcheck) Urin- oder Bluttests den gewünschten Zeitraum nicht abdecken",
+              "Eine besondere Herausforderung in der Diagnostik ist die relativ schnelle Verstoffwechselung der Substanz: In herkömmlichen Urin- oder Speicheltests ist Ketamin oft nur wenige Tage (ca. 2–4 Tage) nachweisbar. Ein negativer Urintest schliesst daher einen regelmässigen Konsum in der Vergangenheit nicht sicher aus. Hier setzt die Expertise von medictest an: Unsere spezialisierte Haaranalyse schliesst diese diagnostische Lücke.",
+              "Haaranalyse für Drogen in der Schweiz von zertifiziertem Labor. medictest Diagnostik – Ihr Experte für Drogentest, Drogenscreening bzw. Drogenschnelltests. Drogentest für Oberflächen/FlüssigkeitenMit dem Oberflächentest/Wischtest können Sie sichtbare und unsichtbare Spuren von Drogen nachweisen. Ebenso können damit feste Substanzen (Tabletten, Pflanzenteile, Pulver), Flüssigkeiten aus Ampullen und Urinproben untersucht werden.",
+              "Inklusive Haarentnahme-Set, Anleitung und frankiertem Rückumschlag – diskrete Probenahme zu Hause und professionelle Laboranalyse mit detailliertem Befund. ... Ketamin (szenetypisch oft „Special K“ oder „Keta“ genannt) ist ein dissoziatives Anästhetikum, das medizinisch zur Narkoseeinleitung genutzt, jedoch zunehmend als Rauschmittel missbraucht wird."
+            ],
+            "description": "Nachweiszeitraum: abhängig von der Haarlänge (z. B. 12 cm ≈ <strong>12 Monate</strong>) Bericht: Bei positivem Befund werden die exakten gemessenen Konzentrationswerte angegeben ... eine langfristige Beurteilung der Ketamin-Einnahme benötigt wird (Nachweise, ..."
+          },
+          "sujotmxt": {
+            "url": "https://mindzone.info/nachweiszeiten/",
+            "date": null,
+            "rank": 8,
+            "title": "Nachweiszeiten - sauber drauf! mindzone.info",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/k-B7XS234OJrAUtNDXUgPz6-VFp28tas-Vsmgmr-MNI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjQzODY3MjNj/NmNhOTZjYjJiNzY3/MjdlZTFhOWU3NmM0/ODVlZWJmYWI0NjBi/NDYwMWIwMWYzNzE5/NjRmZDMwNS9taW5k/em9uZS5pbmZvLw",
+              "thumbnail": "https://mindzone.info/wp-content/uploads/2016/09/mindzone.info-neu-2016-pillen-stickers-010-002-quad.jpg"
+            },
+            "snippets": [
+              "Nachweis im Blut Abbauprodukte bis zu 24 Std. Wirkungsdauer 30 Min. - 3 Std. je nach Dosis und Konsumform · Nachweis im Urin <strong>1-4 Tage</strong>.",
+              "Nachweiszeiten Inhalte Anzeigen 1 Nachweiszeiten 1.1 Nachweiszeiten von psychoaktiven SubstanzenWie lange können Drogen im Körper nachgewiesen werden? 1.1.1 2C-B 1.1.2 Alkohol 1.1.3 Amphetamin (Speed) 1.1.4 Barbiturate 1.1.5 Benzodiazepine 1.1.6 Cannabis (THC) 1.1.7 Codein 1.1.8 Ecstasy (MDMA) 1.1.9 GHB/ GBL/ BDO 1.1.10 Heroin 1.1.11 Ketamin 1.1.12 Kokain 1.1.13 LSD 1.1.14 Methadon 1.1.15 Methamphetamin (Crystal) 1.1.16 Opiate […]",
+              "Die in der Tabelle angegebenen Zeiten für die Nachweisbarkeit der verschiedenen Substanzen im Urin und im Blut sind nur ungefähre Orientierungswerte. Nachweiszeiten im Urin sind meist vom ph-Wert und der Konzentration des Harns abhängig. In allen Körperhaaren sind Drogen je nach Haarlänge über viele Monate nachweisbar.",
+              "Drogenkonsum lässt sich prinzipiell im Urin, im Blut und in den Haaren nachweisen.",
+              "Nachweis im Blut Abbauprodukte bis zu 24 Std. Wirkungsdauer 30 Min. - 3 Std. je nach Dosis und Konsumform · Nachweis im Urin 1-4 Tage."
+            ],
+            "description": "Nachweis im Blut Abbauprodukte bis zu 24 Std. Wirkungsdauer 30 Min. - 3 Std. je nach Dosis und Konsumform · Nachweis im Urin <strong>1-4 Tage</strong>."
+          },
+          "swilaahy": {
+            "url": "https://www.praxis-suchtmedizin.ch/index.php/de/designerdrogen/allgemeine-infos/nachweisbarkeit",
+            "date": null,
+            "rank": 4,
+            "title": "Nachweisbarkeit",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/AEr1bIgxorJ_s7QdHXETCZtjnPEoflJBpCfWMhUGPas/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODEzNDc2N2Ix/NzdmYWMwYzVhOTBk/MGRhODFmZWM4NDYy/NzBkOGJhYmE0MTBk/YzI2MGU3Njg3ZDZh/ODFlMWY4MC93d3cu/cHJheGlzLXN1Y2h0/bWVkaXppbi5jaC8",
+              "thumbnail": null
+            },
+            "snippets": [
+              "Ketamin: im Urin <strong>2–4 Tage</strong> nachweisbar (Der Nachweis muss über ein spezialisiertes Labor erfolgen, da kein Urinschnelltest verfügbar ist!) ... Cannabis: bis zu 30 Tagen, bei regelmässigem Konsum bis zu 3 Monaten nachweisbar! Cannabispassivrauch führt nicht zu einer positiven Urinkontrolle ...",
+              "Ketamin: im Urin 2–4 Tage nachweisbar (Der Nachweis muss über ein spezialisiertes Labor erfolgen, da kein Urinschnelltest verfügbar ist!) ... Cannabis: bis zu 30 Tagen, bei regelmässigem Konsum bis zu 3 Monaten nachweisbar! Cannabispassivrauch führt nicht zu einer positiven Urinkontrolle (Ausnahme extreme Exposition im Auto/kleiner Raum). ... Opiate/Methadon: 2-4 Tage (s. Kapitel Heroin) Vorteile der Haaranalyse sind das grosse zeitliche Erfassungsfenster von ca.",
+              "Die praktikabelste Methode ist der Nachweis im Urin, sie ist am wenigsten invasiv, es existieren Schnelltests, doch können auch genauere Analysen via spezialisierte Labors erfolgen. Die Nachweisbarkeit von Drogen im Serum ist nur von sehr kurzer Dauer. Haarproben sind aufwendig und teuer, werden aber von spezialisierten Labors, insbesondere von den Laboratorien der Institute für Rechtsmedizin, angeboten.",
+              "Dieser relativiert sich jedoch bei notwendigen engmaschigen Urinkontrollen über dieselbe Zeitspanne. Faustregel: Haarwachstum etwa 1 cm/Monat (0.8-1.4cm); benötigt werden in der Regel Haare in der Länge von 5 cm, um eine Aussage für die letzten 6 Monate machen zu können.",
+              "Urinproben ermöglichen Aussagen über ein kurz- bis mittelfristiges Zeitfenster. Um Aussagen über ein längerfristiges Zeitfenster zu erhalten, werden Haaranalysen durchgeführt."
+            ],
+            "description": "Ketamin: im Urin <strong>2–4 Tage</strong> nachweisbar (Der Nachweis muss über ein spezialisiertes Labor erfolgen, da kein Urinschnelltest verfügbar ist!) ... Cannabis: bis zu 30 Tagen, bei regelmässigem Konsum bis zu 3 Monaten nachweisbar! Cannabispassivrauch führt nicht zu einer positiven Urinkontrolle ..."
+          },
+          "sylowvrc": {
+            "url": "https://www.drugscouts.de/faq-detail/nachweisbarkeit-ketamin",
+            "date": null,
+            "rank": 3,
+            "title": "Nachweisbarkeit Ketamin - | drugscouts.de",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/SrC6ey0GEp52lI6PU2WlWTlazIFzJiCUhFrqe5dtRFA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjg1ZDU1MzVl/MzlhMDIxNzViOTc2/OTg4OWMyOWZiZjUw/OGY5MzQ1ZTNmYTAx/M2YxYzc5ZmVjMTQ5/MDYzYmZlMy93d3cu/ZHJ1Z3Njb3V0cy5k/ZS8",
+              "thumbnail": null
+            },
+            "snippets": [
+              "Generell gesehen sind fast jede Substanz bzw. deren Abbauprodukte im Urin nachweisbar. Bei Ketamin ist das Stoffwechselprodukt Dehydro-Norketamin <strong>bis zu drei Tage</strong> nach dem Konsum nachweisbar. Wie bei allen Substanzen hängt auch bei Ketamin die Nachweisdauer aber nicht nur von der Substanz ...",
+              "Generell gesehen sind fast jede Substanz bzw. deren Abbauprodukte im Urin nachweisbar. Bei Ketamin ist das Stoffwechselprodukt Dehydro-Norketamin bis zu drei Tage nach dem Konsum nachweisbar. Wie bei allen Substanzen hängt auch bei Ketamin die Nachweisdauer aber nicht nur von der Substanz selbst und von der eingenommenen Menge bzw.",
+              "Jetzt mache ich momentan Urinabgaben beim TÜV wegen meinem Führerschein. Ich konsumiere auch keine Drogen mehr, außer Alkohol. Wenn aber das Angebot kommt, mal wieder Ketamin zu nehmen, wäre ich nicht unbedingt davon abgeneigt, denn man soll es ja nicht feststellen können.",
+              "In einer von einem Arzt per Teststreifen durchgeführten Urinkontrolle, sei es im Rahmen einer polizeilichen Maßnahme, eine die den Führerschein betrifft oder einer allgemeinen ärztlichen Untersuchung wird fast ausschließlich nach den klassischen Drogen wie Cannabis, Amphetamine, Kokain, Opiate, Benzodiazepine und Methadon gesucht, außer es besteht der Verdacht, dass Du Ketamin genommen hast, dann kann dein Urin im Labor in einem komlexen Verfahren im Labor mittels HPLC (Hochleistungsflüssigkeitschromatographie) gezielt darauf untersucht werden.",
+              "Also ich hätte da mal eine Frage, kann man Ketamin eigentlich im Urin feststellen und wenn ja, wie lange?"
+            ],
+            "description": "Generell gesehen sind fast jede Substanz bzw. deren Abbauprodukte im Urin nachweisbar. Bei Ketamin ist das Stoffwechselprodukt Dehydro-Norketamin <strong>bis zu drei Tage</strong> nach dem Konsum nachweisbar. Wie bei allen Substanzen hängt auch bei Ketamin die Nachweisdauer aber nicht nur von der Substanz ..."
+          }
+        },
+        "isInterrupted": false,
+        "publicArguments": "Ketamin Nachweisdauer Urin Blut Haare 2026",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Der Konsum von Ketamin kann auf verschiedene Weise und für unterschiedliche Zeiträume nachgewiesen werden:\n\n- **Blut:** Ketamin ist im Blut in der Regel bis zu 16 Stunden nach dem Konsum nachweisbar",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "pdqgatrc"
+        ]
+      },
+      {
+        "text": ".\n- **Urin:** Im Urin kann Ketamin (bzw. sein Abbauprodukt Dehydro-Norketamin) etwa 1–4 Tage nach dem Konsum nachgewiesen werden. Die genaue Dauer hängt von der konsumierten Menge, der Häufigkeit des Konsums und individuellen Faktoren ab",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "sylowvrc",
+          "swilaahy",
+          "sujotmxt",
+          "dkufkdsc"
+        ]
+      },
+      {
+        "text": ".\n- **Haare:** Eine Haaranalyse ermöglicht den Nachweis über einen viel längeren Zeitraum – pro Zentimeter Haarlänge etwa einen Monat. Bei einer Haarlänge von 12 cm kann der Konsum also bis zu 12 Monate zurückverfolgt werden",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "scubebxs"
+        ]
+      },
+      {
+        "text": ".\n\nZusammengefasst: Für einen kurzfristigen Nachweis eignen sich Blut und Urin, für einen langfristigen Nachweis (Wochen bis Monate) ist eine Haaranalyse notwendig. Möchtest du noch mehr über die einzelnen Nachweismethoden wissen?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-07-13T16:05:49.039Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  }
+]

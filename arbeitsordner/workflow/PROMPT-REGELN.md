@@ -31,10 +31,13 @@ jeweils eigenen Abschnitt an jede Datei unter `agents/*.md` angehängt.
     Explosionsansichten, Schritt-Overlays, Texturen, Proportionen) — nicht nur Symbole.
 13. **Text-Bild-Überlagerungen — 0-Toleranz mit deterministischem Gate (Skill
     `skills/overlap-gate/`):** Nach jedem Build läuft `overlap_check.py` (150-dpi-Render +
-    Vektor-Analyse) über ALLE PDFs (Quell + druckdaten): F1 verdeckter Doku-Text,
-    F2 Text auf Bild-Tinte, F3 Linie durch Text (K5b), L1 verdecktes SVG-Label in einer
-    Abbildung. 0 Befunde = Freigabe-Voraussetzung; Befund = Rebuild-Pflicht, nie filtern.
+    Vektor-Analyse) über ALLE PDFs (Quell + druckdaten): F0 Text im Bildbereich,
+    F1 verdeckter Doku-Text, F2 Text auf Bild-Tinte, F3 Linie durch Text (K5b).
+    0 Befunde = Freigabe-Voraussetzung; Befund = Rebuild-Pflicht, nie filtern.
     Ursachen-Regeln: **SVG-Z-Order „text-last"** (alle `<text>` nach allen gefüllten Shapes,
-    Check via `svg_zorder_check.py` vor dem Schreiben); **Layout**: figures nur im Fluss
-    (kein `place()`/keine negativen Offsets in Artikel-Inhalten), figure unteilbar
-    (`breakable: false`) + `gap ≥ 8pt`, Caption unterhalb des Bild-Rechtecks.
+    Check via `svg_zorder_check.py` vor dem Schreiben); **SVG-Label-Kollisionen**: kein
+    Label auf einer Linie/Stroke (Dimensionstext auf Maßpfeil) und nie zwei Labels auf
+    derselben Zeile (Fußzeilen-Doppeltext) — Check via `svg_label_collision_check.py`
+    = 0 vor dem Schreiben (T2L/T2T); **Layout**: figures nur im Fluss (kein `place()`/
+    keine negativen Offsets in Artikel-Inhalten), figure unteilbar (`breakable: false`)
+    + `gap ≥ 8pt`, Caption unterhalb des Bild-Rechtecks.

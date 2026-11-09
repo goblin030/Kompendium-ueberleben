@@ -1,0 +1,211 @@
+[
+  {
+    "id": "8a53211b-8083-481f-b961-402d0e862e92",
+    "version": 0,
+    "chatId": "92dfa32d-abf7-449e-a5f4-7711b2365559",
+    "content": "Ah, verstanden! Du möchtest einen **chronologischen Zeitstrahl**, der die **Handlungszeit** der Filme und Serien innerhalb des Star-Wars-Universums zeigt – nicht die Produktionsdaten.\n\nIch passe den Zeitstrahl entsprechend an. Hier ist die **chronologische Reihenfolge** der Star-Wars-Geschichte:\n\n---\n\n### **Star Wars Chronologischer Zeitstrahl (Handlungszeit)**\n\n\nIch erstelle dir jetzt den aktualisierten Zeitstrahl. Einen Moment.",
+    "contentChunks": [
+      {
+        "text": "Ah, verstanden! Du möchtest einen **chronologischen Zeitstrahl**, der die **Handlungszeit** der Filme und Serien innerhalb des Star-Wars-Universums zeigt – nicht die Produktionsdaten.\n\nIch passe den Zeitstrahl entsprechend an. Hier ist die **chronologische Reihenfolge** der Star-Wars-Geschichte:\n\n---\n\n### **Star Wars Chronologischer Zeitstrahl (Handlungszeit)**\n\n\nIch erstelle dir jetzt den aktualisierten Zeitstrahl. Einen Moment.",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-07-12T20:42:54.807Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "ecd7cb20-32ca-4f47-8004-a31a38edbc46",
+    "version": 0,
+    "chatId": "92dfa32d-abf7-449e-a5f4-7711b2365559",
+    "content": "Der Zeitstrahl enthält bereits **The Mandalorian**, **Ahsoka** und **The Book of Boba Fett** – diese sind unter der Sektion **\"Serien\"** aufgeführt.\n\nFalls du eine andere Sortierung oder zusätzliche Details möchtest, lass es mich wissen! Ich kann den Zeitstrahl gerne anpassen. Möchtest du zum Beispiel die Serien nach ihrem **Handlungszeitpunkt** im Star-Wars-Universum sortieren oder weitere Serien ergänzen?",
+    "contentChunks": [
+      {
+        "text": "Der Zeitstrahl enthält bereits **The Mandalorian**, **Ahsoka** und **The Book of Boba Fett** – diese sind unter der Sektion **\"Serien\"** aufgeführt.\n\nFalls du eine andere Sortierung oder zusätzliche Details möchtest, lass es mich wissen! Ich kann den Zeitstrahl gerne anpassen. Möchtest du zum Beispiel die Serien nach ihrem **Handlungszeitpunkt** im Star-Wars-Universum sortieren oder weitere Serien ergänzen?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-07-12T20:41:31.712Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "80078b9c-9b4a-470e-b566-2fb8f74e9618",
+    "version": 0,
+    "chatId": "92dfa32d-abf7-449e-a5f4-7711b2365559",
+    "content": "Der Zeitstrahl soll auch Serien wie The Mandalorian oder Asoka sowie das Buch von Boba Fett beinhaltet ",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-07-12T20:41:31.451Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "1c6f5d47-7c3a-4e50-85d4-7ef6b1ade169",
+    "version": 0,
+    "chatId": "92dfa32d-abf7-449e-a5f4-7711b2365559",
+    "content": "Ich meine nicht die Produktionsdaten sondern die Zeitliche Einordnung innerhalb der gesamten saga",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-07-12T20:42:54.537Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "7c7e49f7-5d15-4042-ade4-b04fac5ebdb9",
+    "version": 0,
+    "chatId": "92dfa32d-abf7-449e-a5f4-7711b2365559",
+    "content": "Erstelle einen Zeitstrahl der die zeitliche Abfolge aller StarWars filme und spiniff Serien darstellt.",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-07-12T20:40:18.007Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "dceefb9c-6c76-416a-b7cb-6ae2ebe3145e",
+    "version": 0,
+    "chatId": "92dfa32d-abf7-449e-a5f4-7711b2365559",
+    "content": "\ntimeline\n    title Star Wars Zeitstrahl\n    \n    section Hauptreihe\n        Episode I: Die dunkle Bedrohung : 1999\n        Episode II: Angriff der Klonkrieger : 2002\n        Episode III: Die Rache der Sith : 2005\n        Episode IV: Eine neue Hoffnung : 1977\n        Episode V: Das Imperium schlägt zurück : 1980\n        Episode VI: Die Rückkehr der Jedi-Ritter : 1983\n        Episode VII: Das Erwachen der Macht : 2015\n        Episode VIII: Die letzten Jedi : 2017\n        Episode IX: Der Aufstieg Skywalkers : 2019\n    \n    section Spin-off Filme\n        Rogue One: A Star Wars Story : 2016\n        Solo: A Star Wars Story : 2018\n    \n    section Serien\n        The Clone Wars (Film) : 2008\n        The Clone Wars (Serie) : 2008–2020\n        Rebels : 2014–2018\n        The Mandalorian : 2019–heute\n        The Book of Boba Fett : 2021–2022\n        Obi-Wan Kenobi : 2022\n        Andor : 2022–heute\n        Ahsoka : 2023\n        Tales of the Jedi : 2022\n        The Bad Batch : 2021–heute\n        Star Wars: Resistance : 2018–2020\n        Star Wars: Visions : 2021–heute\n        Star Wars: Skeleton Crew : 2024\n        Star Wars: The Acolyte : 2024\nHier ist ein Zeitstrahl, der die zeitliche Abfolge aller **Star Wars**-Filme und Spin-off-Serien darstellt. Du kannst den Zeitstrahl bearbeiten oder erweitern, falls etwas fehlt oder angepasst werden soll.\n\nMöchtest du weitere Details oder eine andere Darstellung?",
+    "contentChunks": [
+      {
+        "id": "Bp7eOEoxJ",
+        "name": "write_canvas",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1783888823814,
+        "success": true,
+        "toolType": "raw",
+        "startTime": 1783888820971,
+        "isInterrupted": false,
+        "publicArguments": null,
+        "requiresConfirmation": false
+      },
+      {
+        "id": "03552568-3cab-4fdc-b6ef-66b304532d53",
+        "type": "canva",
+        "version": 0
+      },
+      {
+        "text": "Hier ist ein Zeitstrahl, der die zeitliche Abfolge aller **Star Wars**-Filme und Spin-off-Serien darstellt. Du kannst den Zeitstrahl bearbeiten oder erweitern, falls etwas fehlt oder angepasst werden soll.\n\nMöchtest du weitere Details oder eine andere Darstellung?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-07-12T20:40:19.337Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [
+      {
+        "type": "mermaid",
+        "content": "timeline\n    title Star Wars Zeitstrahl\n    \n    section Hauptreihe\n        Episode I: Die dunkle Bedrohung : 1999\n        Episode II: Angriff der Klonkrieger : 2002\n        Episode III: Die Rache der Sith : 2005\n        Episode IV: Eine neue Hoffnung : 1977\n        Episode V: Das Imperium schlägt zurück : 1980\n        Episode VI: Die Rückkehr der Jedi-Ritter : 1983\n        Episode VII: Das Erwachen der Macht : 2015\n        Episode VIII: Die letzten Jedi : 2017\n        Episode IX: Der Aufstieg Skywalkers : 2019\n    \n    section Spin-off Filme\n        Rogue One: A Star Wars Story : 2016\n        Solo: A Star Wars Story : 2018\n    \n    section Serien\n        The Clone Wars (Film) : 2008\n        The Clone Wars (Serie) : 2008–2020\n        Rebels : 2014–2018\n        The Mandalorian : 2019–heute\n        The Book of Boba Fett : 2021–2022\n        Obi-Wan Kenobi : 2022\n        Andor : 2022–heute\n        Ahsoka : 2023\n        Tales of the Jedi : 2022\n        The Bad Batch : 2021–heute\n        Star Wars: Resistance : 2018–2020\n        Star Wars: Visions : 2021–heute\n        Star Wars: Skeleton Crew : 2024\n        Star Wars: The Acolyte : 2024",
+        "title": "Star Wars Zeitstrahl"
+      }
+    ],
+    "files": []
+  },
+  {
+    "id": "96d0a05f-cb11-41c6-ba9b-4b779f378b91",
+    "version": 0,
+    "chatId": "92dfa32d-abf7-449e-a5f4-7711b2365559",
+    "content": "Erstelle jetzt den Zeitstrahl ",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-07-12T20:43:51.938Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "787faf7a-ece3-4e96-a3f2-14e9479ed896",
+    "version": 0,
+    "chatId": "92dfa32d-abf7-449e-a5f4-7711b2365559",
+    "content": "\ntimeline\n    title Star Wars Chronologischer Zeitstrahl (Handlungszeit)\n    \n    section Hochrepublik und Ära der Jedi\n        The Acolyte : ~100 BBY (vor Episode I)\n        \n    section Vorklonkrieg-Ära\n        Episode I: Die dunkle Bedrohung : 32 BBY\n        The Clone Wars (Film & Serie) : 22–19 BBY\n        The Bad Batch : 19 BBY\n        Episode II: Angriff der Klonkrieger : 22 BBY\n        Episode III: Die Rache der Sith : 19 BBY\n        Tales of the Jedi : ~32–19 BBY\n        \n    section Herrschaft des Imperiums\n        Solo: A Star Wars Story : ~10 BBY\n        Obi-Wan Kenobi : 9 BBY\n        Star Wars: Andor : 5 BBY\n        Star Wars: Rebels : 5–0 BBY\n        Rogue One: A Star Wars Story : 0 BBY\n        Episode IV: Eine neue Hoffnung : 0 BBY/0 ABY\n        \n    section Ära der Rebellion und Neue Republik\n        Episode V: Das Imperium schlägt zurück : 3 ABY\n        Episode VI: Die Rückkehr der Jedi-Ritter : 4 ABY\n        The Mandalorian (Staffel 1–2) : 9 ABY\n        The Book of Boba Fett : 9 ABY\n        The Mandalorian (Staffel 3) : 9–10 ABY\n        Ahsoka : ~10 ABY\n        Star Wars: Skeleton Crew : ~10 ABY\n        \n    section Erste Orden und Widerstand\n        Star Wars: Resistance : 34–35 ABY\n        Episode VII: Das Erwachen der Macht : 34 ABY\n        Episode VIII: Die letzten Jedi : 34 ABY\n        Episode IX: Der Aufstieg Skywalkers : 35 ABY\n        \n    section Anthologien & Alternativuniversen\n        Star Wars: Visions : Außerhalb der Hauptkanons\nHier ist der **chronologische Zeitstrahl** der Star-Wars-Saga, sortiert nach der **Handlungszeit** innerhalb des Universums (BBY = Before the Battle of Yavin, ABY = After the Battle of Yavin).\n\nFalls du noch Anpassungen möchtest – z. B. weitere Serien oder Filme ergänzen – lass es mich wissen!",
+    "contentChunks": [
+      {
+        "id": "RlYL4O8h2",
+        "name": "write_canvas",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1783889036028,
+        "success": true,
+        "toolType": "raw",
+        "startTime": 1783889033276,
+        "isInterrupted": false,
+        "publicArguments": null,
+        "requiresConfirmation": false
+      },
+      {
+        "id": "9dd5d693-3d9a-410c-8d8b-bc170f8f2b80",
+        "type": "canva",
+        "version": 0
+      },
+      {
+        "text": "Hier ist der **chronologische Zeitstrahl** der Star-Wars-Saga, sortiert nach der **Handlungszeit** innerhalb des Universums (BBY = Before the Battle of Yavin, ABY = After the Battle of Yavin).\n\nFalls du noch Anpassungen möchtest – z. B. weitere Serien oder Filme ergänzen – lass es mich wissen!",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-07-12T20:43:52.280Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [
+      {
+        "type": "mermaid",
+        "content": "timeline\n    title Star Wars Chronologischer Zeitstrahl (Handlungszeit)\n    \n    section Hochrepublik und Ära der Jedi\n        The Acolyte : ~100 BBY (vor Episode I)\n        \n    section Vorklonkrieg-Ära\n        Episode I: Die dunkle Bedrohung : 32 BBY\n        The Clone Wars (Film & Serie) : 22–19 BBY\n        The Bad Batch : 19 BBY\n        Episode II: Angriff der Klonkrieger : 22 BBY\n        Episode III: Die Rache der Sith : 19 BBY\n        Tales of the Jedi : ~32–19 BBY\n        \n    section Herrschaft des Imperiums\n        Solo: A Star Wars Story : ~10 BBY\n        Obi-Wan Kenobi : 9 BBY\n        Star Wars: Andor : 5 BBY\n        Star Wars: Rebels : 5–0 BBY\n        Rogue One: A Star Wars Story : 0 BBY\n        Episode IV: Eine neue Hoffnung : 0 BBY/0 ABY\n        \n    section Ära der Rebellion und Neue Republik\n        Episode V: Das Imperium schlägt zurück : 3 ABY\n        Episode VI: Die Rückkehr der Jedi-Ritter : 4 ABY\n        The Mandalorian (Staffel 1–2) : 9 ABY\n        The Book of Boba Fett : 9 ABY\n        The Mandalorian (Staffel 3) : 9–10 ABY\n        Ahsoka : ~10 ABY\n        Star Wars: Skeleton Crew : ~10 ABY\n        \n    section Erste Orden und Widerstand\n        Star Wars: Resistance : 34–35 ABY\n        Episode VII: Das Erwachen der Macht : 34 ABY\n        Episode VIII: Die letzten Jedi : 34 ABY\n        Episode IX: Der Aufstieg Skywalkers : 35 ABY\n        \n    section Anthologien & Alternativuniversen\n        Star Wars: Visions : Außerhalb der Hauptkanons",
+        "title": "Star Wars Chronologischer Zeitstrahl (Handlungszeit)"
+      }
+    ],
+    "files": []
+  }
+]

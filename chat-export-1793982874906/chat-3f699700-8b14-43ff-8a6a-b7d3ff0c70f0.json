@@ -1,0 +1,305 @@
+[
+  {
+    "id": "9041f1ae-3dd0-4638-be27-70b9d7a0376a",
+    "version": 0,
+    "chatId": "3f699700-8b14-43ff-8a6a-b7d3ff0c70f0",
+    "content": "Ich habe auf meiner mycloudEX2Ultra ein veraltetes Betriebssystem. Was muss ich tun um es zu aktualisieren?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-11-03T17:56:24.867Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "aa841463-38c8-456a-9128-d1b6d6a5fdac",
+    "version": 0,
+    "chatId": "3f699700-8b14-43ff-8a6a-b7d3ff0c70f0",
+    "content": "Kurz vorab: Die My Cloud EX2 Ultra unterstützt **My Cloud OS 5**, das aktuelle (und letzte) Betriebssystem für dieses Gerät. Welcher Weg für Sie der richtige ist, hängt davon ab, ob noch das alte OS 3 oder bereits OS 5 läuft.\n\n## Falls Sie noch My Cloud OS 3 haben\n\nOS 3 erhält seit April 2022 keine Sicherheitsupdates und keinen Fernzugriff mehr – ein Upgrade auf OS 5 ist dringend zu empfehlen ([WD: My Cloud OS 3 End of Service](search-result://dmW3dbyW)).\n\nSo funktioniert das Upgrade ([WD Support: Umstellung auf OS 5](search-result://NejCasWd), [WD Support: Manuelles Update](search-result://Ps67Rr2r)):\n\n1. **Backup erstellen** – sicherheitshalber Ihre wichtigsten Daten auf ein externes Medium sichern.\n2. **Zwischenfirmware installieren:** Das Gerät muss zuerst auf Firmware **2.42.115 oder höher** aktualisiert werden. Laden Sie diese von der WD-Support-Website herunter, melden Sie sich im Dashboard als „admin\" an, gehen Sie zu **Einstellungen → Firmware → Manuelle Aktualisierung aus Datei**, wählen Sie die Datei und klicken Sie auf **Installieren und neu starten**.\n3. **Auf OS 5 upgraden:** Nach dem Neustart erscheint im Dashboard das Kästchen **„NEUES OS 5 VERFÜGBAR\"** – klicken Sie es an und folgen Sie dem Assistenten (Installation ca. 5 Min., Neukonfiguration ca. 15 Min.).\n4. Danach richten Sie ein neues Passwort und ein neues My-Cloud-Cloud-Konto ein; alte OS-3-Apps müssen neu installiert werden.\n\n**Wichtig zu wissen:**\n- Das Upgrade ist **unwiderruflich** – ein Rückweg zu OS 3 ist nicht möglich.\n- Während des gesamten Vorgangs darf das Gerät **nie vom Strom getrennt werden**.\n- Alte OS-3-Apps (mobil/web) funktionieren nicht mehr; es gibt neue OS-5-Apps bzw. os5.mycloud.com ([WD Anleitung OS 3→5](search-result://E0zHdreM)).\n\n## Falls Sie bereits My Cloud OS 5 haben\n\nDann reicht ein einfaches Firmware-Update ([WD Support: Firmware unter OS 5 aktualisieren](search-result://LovcaHWf)):\n\n1. Im Dashboard anmelden.\n2. Auf **Aktualisieren** klicken → **Installieren und neu starten**.\n3. Oder manuell: Firmware von der WD-Support-Seite herunterladen und unter **Einstellungen → Firmware-Update → Aus Datei aktualisieren** einspielen.\n\n## Noch ein Hinweis zur Zukunft\n\nDie EX2 Ultra befindet sich laut WD-Lifecycle-Policy in der Phase „Limited Updates\"; das Support-Ende des Geräts ist für **Dezember 2027** angesetzt, und OS 5 wird nur bis Ende 2026 garantiert unterstützt ([WD Product Lifecycle Support Policy](search-result://QallbJWF), [WD OS 3 End of Service](search-result://dmW3dbyW)). Falls Sie das Gerät langfristig weiter nutzen wollen, lohnt sich also mittelfristig ein Blick auf alternatives NAS-Betriebssystem (z. B. OpenWrt-basierte Community-Firmware) oder ein neueres Gerät.\n\nMöchten Sie, dass ich Ihnen die genauen Download-Links zur aktuellen Firmware für die EX2 Ultra heraussuche?",
+    "contentChunks": [
+      {
+        "text": "The user asks in German about updating the OS on a WD My Cloud EX2 Ultra. This is a factual question about a product — I should search the web for current info. My Cloud OS versions: My Cloud EX2 Ultra runs My Cloud OS 5 (OS 3 was deprecated in 2022). WD ended security updates for OS 5? Let me search.\n\nActually, recent news: Western Digital ended support for My Cloud OS 5 — announced end of service. In 2025, WD announced My Cloud OS 5 end of support for certain devices? Let me search to be accurate.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1793728587713,
+          "contextId": "harness-reasoning-0",
+          "startTime": 1793728586918
+        }
+      },
+      {
+        "id": "typescript:3:chatcmpl-tool-9641bdc847636124:0:tool:0",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "chatcmpl-tool-9641bdc847636124"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "id": "LovcaHWf",
+              "url": "https://support-de.wd.com/app/answers/detailweb/a_id/32220/~/my-cloud-os-5:-firmware-automatisch-und-manuell-aktualisieren",
+              "title": "Schritte zum automatischen oder manuellen Aktualisieren der Firmware auf My Cloud OS 5",
+              "favicon": "https://you.com/favicon?domain=support-de.wd.com&size=128",
+              "thumbnail": "https://support-de.wd.com/euf/assets/images/brand-images/wd-og-image.png",
+              "description": "Finden Sie detaillierte Antworten auf Ihre Supportfragen für Ihr Western Digital-, SanDisk-, WD_BLACK- oder WD-Speicherprodukt."
+            },
+            {
+              "id": "NejCasWd",
+              "url": "https://support-de.wd.com/app/answers/detailweb/a_id/29383/lg/de",
+              "title": "How to Manually or Automatically Update My Cloud OS 3 to OS 5",
+              "favicon": "https://you.com/favicon?domain=support-de.wd.com&size=128",
+              "thumbnail": "https://support-de.wd.com/euf/assets/themes/standard/web/image/wd-og-image.jpg",
+              "description": "Finden Sie detaillierte Antworten auf Ihre Supportfragen für Ihr Western Digital-, SanDisk-, WD_BLACK- oder WD-Speicherprodukt."
+            },
+            {
+              "id": "nqsw5d6t",
+              "url": "https://support-de.wd.com/app/answers/detailweb/a_id/32369/~/schritte-zum-manuellen-update-von-my-cloud-os-3-auf-os-5-ohne-internetverbindung",
+              "title": "Schritte zum manuellen Update von My Cloud OS 3 auf OS 5 ohne Internetverbindung",
+              "favicon": "https://you.com/favicon?domain=support-de.wd.com&size=128",
+              "thumbnail": "https://support-de.wd.com/euf/assets/images/brand-images/wd-og-image.png",
+              "description": "Finden Sie detaillierte Antworten auf Ihre Supportfragen für Ihr Western Digital-, SanDisk-, WD_BLACK- oder WD-Speicherprodukt."
+            },
+            {
+              "id": "E0zHdreM",
+              "url": "https://support-de.wd.com/app/answers/detailweb/a_id/30073/~/my-cloud-os-5:-so-aktualisieren-sie-von-my-cloud-os-3",
+              "title": "My Cloud OS 5: So aktualisieren Sie von My Cloud OS 3",
+              "favicon": "https://you.com/favicon?domain=support-de.wd.com&size=128",
+              "thumbnail": "https://support-de.wd.com/euf/assets/images/brand-images/wd-og-image.png",
+              "description": "Finden Sie detaillierte Antworten auf Ihre Supportfragen für Ihr Western Digital-, SanDisk-, WD_BLACK- oder WD-Speicherprodukt."
+            },
+            {
+              "id": "LigmsFdJ",
+              "url": "https://support.wdc.com/download/notes/My_Cloud_EX2_Ultra_OS5_Firmware_Release_Notes.html",
+              "title": "My Cloud EX2 Ultra Firmware Release Notes",
+              "favicon": "https://you.com/favicon?domain=support.wdc.com&size=128",
+              "description": "### MY CLOUD OS 5 LIMITED PUBLIC RELEASE"
+            },
+            {
+              "id": "ACaI4cZM",
+              "url": "https://support-en.wd.com/app/answers/detailweb/a_id/31757/~/update-firmware-on-my-cloud-os-5-automatically-or-manually",
+              "title": "Steps to Update Firmware on My Cloud OS 5 Automatically or Manually",
+              "favicon": "https://you.com/favicon?domain=support-en.wd.com&size=128",
+              "thumbnail": "https://support-en.wd.com/euf/assets/images/brand-images/wd-og-image.png",
+              "description": "Find detailed answers to your support questions for your Western Digital products."
+            },
+            {
+              "id": "VzpbFpTd",
+              "url": "https://support-in.wd.com/app/answers/detailweb/a_id/31757/~/steps-to-update-firmware-on-my-cloud-os-5-automatically-or-manually",
+              "title": "Steps to Update Firmware on My Cloud OS 5 Automatically or Manually",
+              "favicon": "https://you.com/favicon?domain=support-in.wd.com&size=128",
+              "thumbnail": "https://support-in.wd.com/euf/assets/images/brand-images/wd-og-image.png",
+              "description": "Find detailed answers to your support questions for your Western Digital, SanDisk, WD_BLACK, or WD storage product."
+            },
+            {
+              "id": "SzZQqvC6",
+              "url": "https://www.ifun.de/western-digital-cloud-und-nas-systeme-sollen-auf-my-cloud-os-5-updaten-172411/",
+              "title": "Western Digital: Cloud- und NAS-Systeme sollen auf My Cloud OS 5 updaten",
+              "favicon": "https://you.com/favicon?domain=www.ifun.de&size=128",
+              "thumbnail": "https://images.ifun.de/wp-content/uploads/2021/07/western-digital-my-cloud-nas.jpg",
+              "description": "So wie es aussieht, weisen nicht nur die älteren „My Book“-Festplatten von Western Digital schwerwiegende Sicherheitslücken auf, sondern sind generell alle Festplatten des Herstellers bedroht, die noch mit der alten Software-Version My ..."
+            },
+            {
+              "id": "Ps67Rr2r",
+              "url": "https://support-de.wd.com/app/answers/detailweb/a_id/31951/",
+              "title": "Schritte zum manuellen Update von My Cloud OS 3 auf My Cloud OS 5",
+              "favicon": "https://you.com/favicon?domain=support-de.wd.com&size=128",
+              "thumbnail": "https://support-de.wd.com/euf/assets/images/brand-images/wd-og-image.png",
+              "description": "Finden Sie detaillierte Antworten auf Ihre Supportfragen für Ihr Western Digital-, SanDisk-, WD_BLACK- oder WD-Speicherprodukt."
+            },
+            {
+              "id": "b1cr0F7k",
+              "url": "https://community.wd.com/t/mycloudex2ultra-umstellung-auf-os-5/257606",
+              "title": "MyCloudEX2Ultra Umstellung auf OS 5 - Software - WD Community",
+              "favicon": "https://you.com/favicon?domain=community.wd.com&size=128",
+              "thumbnail": "https://global.discourse-cdn.com/wd/original/3X/0/8/08e69114b75d13340837bad84bbb61be32390402.png",
+              "description": "Hallo, Gestern habe ich mein MyCloudEX2Ultra auf OS 5 umgestellt. Heute mußte ich leider feststellen, dass damit die Synchronisationssoftware WD Sync nicht mehr funktioniert (Ja mir ist bekannt das die Software nicht me…"
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "My Cloud EX2 Ultra Betriebssystem aktualisieren My Cloud OS 5 Update",
+        "requiresConfirmation": false
+      },
+      {
+        "id": "typescript:3:chatcmpl-tool-9c98b83b49eea260:0:tool:0",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "chatcmpl-tool-9c98b83b49eea260"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "id": "QallbJWF",
+              "url": "https://www.westerndigital.com/support/software/product-life-cycle-policy",
+              "title": "Product Lifecycle Support Policy",
+              "favicon": "https://you.com/favicon?domain=www.westerndigital.com&size=128",
+              "thumbnail": "https://www.westerndigital.com/content/dam/store/en-us/portal-assets/logos/WesternDigital-Open-Graph-Logo-1600x627-Clear-Spaced.png",
+              "description": "Western Digital delivers innovative storage solutions—HDDs, systems & personal data storage—powering innovation, reliability & future-ready performance."
+            },
+            {
+              "id": "dmW3dbyW",
+              "url": "https://www.westerndigital.com/support/software/my-cloud-os/os3/os3-eos",
+              "title": "My Cloud OS3 End of Service",
+              "favicon": "https://you.com/favicon?domain=www.westerndigital.com&size=128",
+              "thumbnail": "https://www.westerndigital.com/content/dam/store/en-us/portal-assets/logos/WesternDigital-Open-Graph-Logo-1600x627-Clear-Spaced.png",
+              "description": "Western Digital delivers innovative storage solutions—HDDs, systems & personal data storage—powering innovation, reliability & future-ready performance."
+            },
+            {
+              "id": "pX4Bgo37",
+              "url": "https://www.datarecovery.net/newsletters/western-digital-nas-cloud-eol.aspx",
+              "title": "Western Digital to end cloud support for some hard drives in January 2022",
+              "favicon": "https://you.com/favicon?domain=www.datarecovery.net&size=128",
+              "thumbnail": "https://www.datarecovery.net/assets/images/logo.svg",
+              "description": "Western Digital has announced that it is necessary to end support for prior generations of My Cloud OS, including My Cloud OS 3 and WD Cloud OS."
+            },
+            {
+              "id": "UhtVnzSh",
+              "url": "https://community.wd.com/t/stirbt-die-mycloudex2ultra/474070",
+              "title": "Stirbt die MyCloudEX2Ultra? - NAS und Personal Cloud - WD Community",
+              "favicon": "https://you.com/favicon?domain=community.wd.com&size=128",
+              "thumbnail": "https://global.discourse-cdn.com/wd/original/3X/0/8/08e69114b75d13340837bad84bbb61be32390402.png",
+              "description": "Im Shop wird zwar die MyCloudEX2Ultra noch gelistet aber kein Preis mehr vorhanden, also kann man sie nicht mehr bestellen. Was hat das auf sich, Auslaufmodell?"
+            },
+            {
+              "id": "NEsQL8Qh",
+              "url": "https://stadt-bremerhaven.de/wd-my-cloud-western-digital-informiert-ueber-support-ende/",
+              "title": "WD My Cloud: Western Digital informiert über Support-Ende",
+              "favicon": "https://you.com/favicon?domain=stadt-bremerhaven.de&size=128",
+              "thumbnail": "https://stadt-bremerhaven.de/wp-content/uploads/2021/07/wd-mycloud.jpeg",
+              "description": "Wir haben darüber berichtet, dass MyCloud-Lösungen von Western Digital massive Sicherheitslücken hatten. Western Digital betonte damals, ..."
+            },
+            {
+              "id": "q7fX6Thj",
+              "url": "https://www.dpreview.com/news/3393771024/western-digital-is-ending-support-for-older-versions-of-my-cloud-os-affecting-many-products/",
+              "title": "Western Digital is ending support for older versions of My Cloud OS, affecting many products",
+              "favicon": "https://you.com/favicon?domain=www.dpreview.com&size=128",
+              "thumbnail": "https://www.dpreview.com/wp-content/uploads/2020/04/3393771024-wd-my-book-live-1.jpeg?w=1180&h=665&crop=1",
+              "description": "Following numerous security concerns this year, Western Digital has announced that it is ending support for prior generations of My Cloud OS, which will limit the utility of some older products."
+            },
+            {
+              "id": "GbngAWFC",
+              "url": "https://community.wd.com/t/is-support-over-for-my-cloud-os5/285976",
+              "title": "Is support over for My Cloud OS5? - My Cloud EX - WD Community",
+              "favicon": "https://you.com/favicon?domain=community.wd.com&size=128",
+              "thumbnail": "https://global.discourse-cdn.com/wd/original/3X/0/8/08e69114b75d13340837bad84bbb61be32390402.png",
+              "description": "Hi everyone, I think we all deserve some updates and roadmap from Western Digital and @WDStaff. When WD announced OS 3 end of service: My Cloud OS3 End of Service | Western Digital, WD requested to upgrade to OS5 and g…"
+            },
+            {
+              "id": "G2aGIRG0",
+              "url": "https://www.macwelt.de/article/984818/warum-sie-ihr-altes-nas-von-western-digital-ausmustern-sollten.html",
+              "title": "Warum Sie Ihr altes NAS von Western Digital ausmustern sollten - Macwelt",
+              "favicon": "https://you.com/favicon?domain=www.macwelt.de&size=128",
+              "thumbnail": "https://www.macwelt.de/wp-content/uploads/2023/04/4322829_original.jpg?quality=50&strip=all",
+              "description": "Aus Sicherheitsgründen beendet Western Digital den Support von alten NAS-Geräten mit altem Betriebssystem"
+            },
+            {
+              "id": "Wo2IfuIz",
+              "url": "https://www.bleepingcomputer.com/news/security/western-digital-warns-customers-to-update-their-my-cloud-devices/",
+              "title": "Western Digital warns customers to update their My Cloud devices",
+              "favicon": "https://you.com/favicon?domain=www.bleepingcomputer.com&size=128",
+              "thumbnail": "https://www.bleepstatic.com/content/hl-images/2021/08/26/Western-Digital.jpg",
+              "description": "Western Digital is urging customers to update their WD My Cloud devices to the latest available firmware to keep receiving security updates on My Cloud OS firmware reaching the end of support."
+            },
+            {
+              "id": "QB9b8Cy4",
+              "url": "https://www.computerbild.de/artikel/cb-News-Software-Western-Digital-Support-fuer-aeltere-My-Cloud-Versionen-laeuft-aus-31617405.html",
+              "title": "Western Digital: Support für ältere My-Cloud-Versionen läuft aus - COMPUTER BILD",
+              "favicon": "https://you.com/favicon?domain=www.computerbild.de&size=128",
+              "thumbnail": "https://i.computer-bild.de/imgs/1/4/1/5/7/9/2/1/1wd-29170208e5b4e299.png",
+              "description": "Nutzen Sie Netzwerkspeicher von Western Digital? Dann aufgepasst: WD stellt den Support für ältere Versionen von My Cloud OS ein. Diese Systeme sind betroffen."
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "Western Digital My Cloud OS 5 End of Support EX2 Ultra 2025",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Key facts: EX2 Ultra supports OS 5. If still on OS 3, need firmware 2.42.115 or higher first, then upgrade to OS 5 (one-way). If already on OS 5, update via dashboard. Also note: end of support for OS 5 — WD lifecycle says EX2 Ultra End of Support December 2027 (Limited Updates now). Also OS 5 support \"at least until end of 2026\" — today is Nov 2026, so worth mentioning. Support ended April 2022 for OS 3.\n\nGive a clear German step-by-step answer. Ask which OS version they have? I could ask, but I can cover both cases concisely. Better to give both paths. Maybe ask via ask_user_question? The instructions say ask only when materially changes result. Covering both cases is fine and short. I'll answer directly.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1793728591938,
+          "contextId": "harness-reasoning-6",
+          "startTime": 1793728591107
+        }
+      },
+      {
+        "text": "Kurz vorab: Die My Cloud EX2 Ultra unterstützt **My Cloud OS 5**, das aktuelle (und letzte) Betriebssystem für dieses Gerät. Welcher Weg für Sie der richtige ist, hängt davon ab, ob noch das alte OS 3 oder bereits OS 5 läuft.\n\n## Falls Sie noch My Cloud OS 3 haben\n\nOS 3 erhält seit April 2022 keine Sicherheitsupdates und keinen Fernzugriff mehr – ein Upgrade auf OS 5 ist dringend zu empfehlen ([WD: My Cloud OS 3 End of Service](search-result://dmW3dbyW)).\n\nSo funktioniert das Upgrade ([WD Support: Umstellung auf OS 5](search-result://NejCasWd), [WD Support: Manuelles Update](search-result://Ps67Rr2r)):\n\n1. **Backup erstellen** – sicherheitshalber Ihre wichtigsten Daten auf ein externes Medium sichern.\n2. **Zwischenfirmware installieren:** Das Gerät muss zuerst auf Firmware **2.42.115 oder höher** aktualisiert werden. Laden Sie diese von der WD-Support-Website herunter, melden Sie sich im Dashboard als „admin\" an, gehen Sie zu **Einstellungen → Firmware → Manuelle Aktualisierung aus Datei**, wählen Sie die Datei und klicken Sie auf **Installieren und neu starten**.\n3. **Auf OS 5 upgraden:** Nach dem Neustart erscheint im Dashboard das Kästchen **„NEUES OS 5 VERFÜGBAR\"** – klicken Sie es an und folgen Sie dem Assistenten (Installation ca. 5 Min., Neukonfiguration ca. 15 Min.).\n4. Danach richten Sie ein neues Passwort und ein neues My-Cloud-Cloud-Konto ein; alte OS-3-Apps müssen neu installiert werden.\n\n**Wichtig zu wissen:**\n- Das Upgrade ist **unwiderruflich** – ein Rückweg zu OS 3 ist nicht möglich.\n- Während des gesamten Vorgangs darf das Gerät **nie vom Strom getrennt werden**.\n- Alte OS-3-Apps (mobil/web) funktionieren nicht mehr; es gibt neue OS-5-Apps bzw. os5.mycloud.com ([WD Anleitung OS 3→5](search-result://E0zHdreM)).\n\n## Falls Sie bereits My Cloud OS 5 haben\n\nDann reicht ein einfaches Firmware-Update ([WD Support: Firmware unter OS 5 aktualisieren](search-result://LovcaHWf)):\n\n1. Im Dashboard anmelden.\n2. Auf **Aktualisieren** klicken → **Installieren und neu starten**.\n3. Oder manuell: Firmware von der WD-Support-Seite herunterladen und unter **Einstellungen → Firmware-Update → Aus Datei aktualisieren** einspielen.\n\n## Noch ein Hinweis zur Zukunft\n\nDie EX2 Ultra befindet sich laut WD-Lifecycle-Policy in der Phase „Limited Updates\"; das Support-Ende des Geräts ist für **Dezember 2027** angesetzt, und OS 5 wird nur bis Ende 2026 garantiert unterstützt ([WD Product Lifecycle Support Policy](search-result://QallbJWF), [WD OS 3 End of Service](search-result://dmW3dbyW)). Falls Sie das Gerät langfristig weiter nutzen wollen, lohnt sich also mittelfristig ein Blick auf alternatives NAS-Betriebssystem (z. B. OpenWrt-basierte Community-Firmware) oder ein neueres Gerät.\n\nMöchten Sie, dass ich Ihnen die genauen Download-Links zur aktuellen Firmware für die EX2 Ultra heraussuche?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-11-03T17:56:25.773Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1793728584886,
+        "completedAtMs": 1793728596387,
+        "firstTokenAtMs": 1793728586916,
+        "generationStats": {
+          "outputTokens": 1195,
+          "completionCount": 2,
+          "generationDurationMs": 6290,
+          "outputTokensPerSecond": 189.98410174880763
+        },
+        "timeToFirstTokenMs": 2030,
+        "bootstrapDurationMs": 1630,
+        "completionDurationMs": 11501,
+        "userMessageCreatedToCompletionMs": 11520
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "run_typescript",
+          "web_search"
+        ],
+        "integrationNames": [
+          "web_search"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  }
+]

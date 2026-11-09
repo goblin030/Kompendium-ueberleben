@@ -1,0 +1,565 @@
+[
+  {
+    "id": "6eeb3f97-b215-4ab5-acc4-ac9cf6fd9e5b",
+    "version": 0,
+    "chatId": "29a5c396-1d74-4375-9ee1-2758cdcba0fb",
+    "content": "Kurzer Überblick: Das originale **uDMX** stammt von anyma.ch und ist ein Open-Source-/Selbstbau-Projekt (ATmega8, kein spezieller USB-IC, nur DMX-Out, keine galvanische Trennung). Es gibt aber auch fertige Geräte und Klone zu kaufen:\n\n**Fertige Geräte / Klone mit uDMX-Chip (ca. 15–30 €)**\n- **AVLdiy D512 / X-uDMX512, „uDMX512\", „USB-UDMX512\"** – chinesische uDMX-Klone, die regelmäßig auf eBay und AliExpress auftauchen (z. B. „Freestyler uDmx USB DMX512 Interface Adapter\" wird auf eBay gehandelt). Preislich meist um die 15–25 €. ([illutzmination](search-result://rhOMkrll), [eBay](search-result://iN4eHRqT))\n- Auf **eBay/Kleinanzeigen** tauchen immer wieder fertige uDMX-Interfaces auf – lohnt sich, dort regelmäßig zu suchen. ([eBay](search-result://iN4eHRqT), [Kleinanzeigen](search-result://heXHT6rM))\n\n**Selbstbau (die klassische uDMX-Route, ca. 10–15 € Material)**\n- Original-Projekt mit Firmware bei **anyma.ch**; Treiber, FAQs und ein SMD-freies Layout gibt es bei **illutzmination.de** (Windows-/Linux-Treiber, Art-Net-Node-Variante). ([illutzmination](search-result://rhOMkrll), [Elektronik Biberger](search-result://8vX62pOZ))\n- Signierte Treiber für Windows x64 und Nachbau-Anleitungen: **maltepoeggel.de**. ([LED Styles-Forum](search-result://50z3VxOP))\n- Kompatibel mit **QLC+, FreeStyler, DMXControl, PC Dimmer**, MagicQ etc. ([Digital Enlightenment](search-result://3Hn6RnI7), [LED Styles-Forum](search-result://50z3VxOP))\n\n**Wichtige Einschränkungen:** uDMX hat nur einen DMX-Ausgang (512 Kanäle), keinen DMX-In und standardmäßig keine galvanische Trennung – für Bühnen-Produktivbetrieb ist ein Eurolite USB-DMX512 PRO MK2 (~120 €) oder ein ENTTEC die robustere Wahl. ([pcdimmer.de](search-result://a3yctaFt), [Steinigke](search-result://IY90pl7l))\n\nSoll ich dir konkrete, aktuell verfügbare Angebote (z. B. auf eBay/AliExpress) heraussuchen, oder interessiert dich eher die Selbstbau-Variante mit Schaltplan und Treiber-Setup?",
+    "contentChunks": [
+      {
+        "text": "User wants USB-DMX interface with uDMX chip (AN-magic/udmx). Search web.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1793971693872,
+          "contextId": "harness-reasoning-0",
+          "startTime": 1793971693663
+        }
+      },
+      {
+        "id": "typescript:3:chatcmpl-tool-be8dc37b7a710435:0:tool:0",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "chatcmpl-tool-be8dc37b7a710435"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "id": "DrWGXavk",
+              "url": "https://www.shop.feiner-lichttechnik.de/epages/FeinerLichttechnik.mobile/de_DE/;ClassicView=1?ObjectPath=/Shops/FeinerLichttechnik/Products/QC.677-9000",
+              "title": "Chroma-Q Vista UD512 USB/DMX Interface - Feiner Lichttechnik Shop",
+              "favicon": "https://you.com/favicon?domain=www.shop.feiner-lichttechnik.de&size=128",
+              "thumbnail": "https://www.shop.feiner-lichttechnik.de/WebRoot/SageSMB/Shops/FeinerLichttechnik/5D49/8DD4/D7F3/3C67/D745/0A0C/05BD/3650/hauptbild.png",
+              "description": "512 Kanäle, 1,5mtr. Kabel, XLR5pol - Ein Vista3 Dongle ist zusätzlich notwendig!"
+            },
+            {
+              "id": "0A885O9v",
+              "url": "http://www.digital-enlightenment.de/usbdmx.htm",
+              "title": "Selbstbau USB-DMX Interface - Digital Enlightenment",
+              "favicon": "https://you.com/favicon?domain=www.digital-enlightenment.de&size=128",
+              "description": "Das selbstbau USB-DMX Interface mit ausgezeichneter Performance und jeder Menge Profi-Features. Jetzt auch fertig aufgebaut zu erwerben."
+            },
+            {
+              "id": "IY90pl7l",
+              "url": "https://www.steinigke.de/mpn51860121-eurolite-usb-dmx512-pro-interface-mk2.html",
+              "title": "EUROLITE USB-DMX512 PRO Interface MK2",
+              "favicon": "https://you.com/favicon?domain=www.steinigke.de&size=128",
+              "thumbnail": "https://media.steinigke.de/images/71600/60/51860121a.jpg",
+              "description": "USB-DMX-Interface mit integriertem Prozessor für stabile DMX-Ausgabe ✓ Großhandelspreise ✓ Langjährige Erfahrung ✓ Über 9.000 Produkte ✓ Mengenrabatt"
+            },
+            {
+              "id": "iN4eHRqT",
+              "url": "https://www.ebay.de/b/USB-Buhnen-Lichtsteuerungen-Dimmer-mit-DMX-Steuerung/30889/bn_83784312",
+              "title": "USB Bühnen-Lichtsteuerungen & -Dimmer mit DMX Steuerung online kaufen",
+              "favicon": "https://you.com/favicon?domain=www.ebay.de&size=128",
+              "description": "Große Auswahl neuer und gebrauchter USB Bühnen-Lichtsteuerungen & -Dimmer mit DMX Steuerung online entdecken bei eBay.de"
+            },
+            {
+              "id": "9ADDGPKM",
+              "url": "https://www.kleinanzeigen.de/s-multimedia-elektronik/usb-dmx-interface/k0c161",
+              "title": "Usb Dmx Interface, Elektronik gebraucht kaufen",
+              "favicon": "https://you.com/favicon?domain=www.kleinanzeigen.de&size=128",
+              "thumbnail": "https://static.kleinanzeigen.de/static/img/common/logo/logo-kleinanzeigen-og-vertical.png",
+              "description": "Kleinanzeigen: Usb Dmx Interface, Elektronik gebraucht kaufen - Jetzt finden oder inserieren! - kleinanzeigen.de"
+            },
+            {
+              "id": "C4cDDyPc",
+              "url": "https://www.kleinanzeigen.de/s-dmx-usb-interface/k0",
+              "title": "Dmx Usb Interface kleinanzeigen.de",
+              "favicon": "https://you.com/favicon?domain=www.kleinanzeigen.de&size=128",
+              "thumbnail": "https://static.kleinanzeigen.de/static/img/common/logo/logo-kleinanzeigen-og-vertical.png",
+              "description": "Kleinanzeigen: Dmx Usb Interface - Jetzt finden oder inserieren! - kleinanzeigen.de"
+            },
+            {
+              "id": "mKQnz13h",
+              "url": "https://www.ebay.de/p/1842219603",
+              "title": "Dmxking Ultradmx Micro USB DMX Adapter Dmx512 Dongle online kaufen",
+              "favicon": "https://you.com/favicon?domain=www.ebay.de&size=128",
+              "description": "Entdecken Sie Dmxking Ultradmx Micro USB DMX Adapter Dmx512 Dongle in der großen Auswahl bei eBay.de. Kostenlose Lieferung für viele Artikel!"
+            },
+            {
+              "id": "a3yctaFt",
+              "url": "https://www.pcdimmer.de/dmx512-pc-interface/",
+              "title": "DMX512-PC-Interface",
+              "favicon": "https://you.com/favicon?domain=www.pcdimmer.de&size=128",
+              "description": "# DMX512-PC-Interface"
+            },
+            {
+              "id": "NYx2uA4z",
+              "url": "https://www.musikschiessl.de/de/usb2dmx-pro-usb-to-dmx-interface.html",
+              "title": "Musik-Schiessl - USB2DMX PRO - USB to DMX Interface",
+              "favicon": "https://you.com/favicon?domain=www.musikschiessl.de&size=128",
+              "thumbnail": "https://www.musikschiessl.de/images/product_images/info_images/usb2dmx_pro~2.jpg",
+              "description": "Musik-Schiessl in Schwandorf – Ihr Fachgeschäft für Instrumente, Zubehör und Beschallungstechnik. Persönliche Beratung, große Auswahl und schneller Service."
+            },
+            {
+              "id": "heXHT6rM",
+              "url": "https://www.kleinanzeigen.de/s-usb-dmx-interface/k0",
+              "title": "Usb Dmx Interface kleinanzeigen.de",
+              "favicon": "https://you.com/favicon?domain=www.kleinanzeigen.de&size=128",
+              "thumbnail": "https://static.kleinanzeigen.de/static/img/common/logo/logo-kleinanzeigen-og-vertical.png",
+              "description": "Kleinanzeigen: Usb Dmx Interface - Jetzt finden oder inserieren! - kleinanzeigen.de"
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "uDMX USB DMX interface kaufen",
+        "requiresConfirmation": false
+      },
+      {
+        "id": "typescript:3:chatcmpl-tool-a528dff9a09206fd:0:tool:0",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "chatcmpl-tool-a528dff9a09206fd"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "id": "KxRnXQWA",
+              "url": "https://zappedmyself.com/animatronics/dmx-projects/",
+              "title": "DMX Projects",
+              "favicon": "https://you.com/favicon?domain=zappedmyself.com&size=128",
+              "description": "This page last updated Feb 12, 2025These are various DIY DMX related projects that you may find helpful for your animatronic projects. It includes USB to DMX adapter, DMX testers, DMX controllers and DMX lights and DMX motor control."
+            },
+            {
+              "id": "nXxHcdXy",
+              "url": "https://www.brunweb.de/diy-dmx-usb-interface/",
+              "title": "DIY DMX-USB interface",
+              "favicon": "https://you.com/favicon?domain=www.brunweb.de&size=128",
+              "description": "# DIY DMX-USB interface"
+            },
+            {
+              "id": "3Hn6RnI7",
+              "url": "http://www.digital-enlightenment.de/usbdmx.htm",
+              "title": "Selbstbau USB-DMX Interface - Digital Enlightenment",
+              "favicon": "https://you.com/favicon?domain=www.digital-enlightenment.de&size=128",
+              "description": "Das selbstbau USB-DMX Interface mit ausgezeichneter Performance und jeder Menge Profi-Features. Jetzt auch fertig aufgebaut zu erwerben."
+            },
+            {
+              "id": "q8yAurT6",
+              "url": "https://tataylino.com/diy-usb-to-dmx-converter/",
+              "title": "DIY USB to DMX converter - Tataylino.com",
+              "favicon": "https://you.com/favicon?domain=tataylino.com&size=128",
+              "thumbnail": "https://i0.wp.com/tataylino.com/wp-content/uploads/2015/11/rs485.png?fit=1132%2C679&amp;ssl=1",
+              "description": "DMX or DMX512 is short for Digital MultipleX(the number 512 represents the max number of channels), a communication protocol mainly made for lighting"
+            },
+            {
+              "id": "TuKj0IWE",
+              "url": "https://www.codrey.com/electronic-circuits/usb-to-dmx-interface-adapter-converter-v1-0/",
+              "title": "USB to DMX Interface Adapter/Converter (v1.0) - Codrey Electronics",
+              "favicon": "https://you.com/favicon?domain=www.codrey.com&size=128",
+              "thumbnail": "https://www.codrey.com/wp-content/uploads/2018/11/USB-to-DMX-Converter.jpg",
+              "description": "This is another revision of my USB to RS485 Converter circuitry which performs the USB (Universal Serial Bus) to two wire RS485 (two-wire half-duplex) and vice versa. This time the design focus is much more […]"
+            },
+            {
+              "id": "8vX62pOZ",
+              "url": "http://www.elektronik-biberger.de/uDMX",
+              "title": "Elektronik Biberger - Udmx",
+              "favicon": "https://you.com/favicon?domain=www.elektronik-biberger.de&size=128",
+              "description": "Steuere deine DMX Lichtanlage über deinen PC - Ein USB - DMX Wandler zum selber Bauen"
+            },
+            {
+              "id": "GZbLxLHg",
+              "url": "https://www.elektormagazine.com/news/usb-controlled-dmx-interface",
+              "title": "DIY USB controlled DMX interface kit",
+              "favicon": "https://you.com/favicon?domain=www.elektormagazine.com&size=128",
+              "thumbnail": "https://cdn.xingosoftware.com/elektor/images/fetch/dpr_1/https%3A%2F%2Fwww.elektormagazine.com%2Fassets%2Fupload%2Fimages%2F17%2F20160920141811_USB-DMX.png",
+              "description": "Control your various DMX fixtures using a PC with USB interface and the included DMX Light Player software! Write your own software with the provided DLL."
+            },
+            {
+              "id": "rhOMkrll",
+              "url": "http://illutzmination.de/udmx.html",
+              "title": "uDMX - ilLU[TZ]mination",
+              "favicon": "https://you.com/favicon?domain=illutzmination.de&size=128",
+              "description": "uDMX OpenSource USB DMX Interface with drivers for Windows and Linux, OpenDMX, Selbstbau, sometimes called µDMX"
+            },
+            {
+              "id": "50z3VxOP",
+              "url": "https://ledstyles.de/index.php/Thread/20721-DMX-USB-Interface-im-Selbstbau-Fragen-und-Links",
+              "title": "DMX USB Interface im Selbstbau -> Fragen und Links - Talk Talk Talk - LEDSTYLES.DE",
+              "favicon": "https://you.com/favicon?domain=ledstyles.de&size=128",
+              "description": "Hallo alle zusammen. Edetierung: Da es sich hier langsam in die allgemeine uDMX Nachbau \"Richtung\" geht, mit allen dazugehörigen Hardwarefragen, füge ich hier ein kleinen Index ein: USB DMX Interface zum Nachbau von: (externe Links) Digital…"
+            },
+            {
+              "id": "gxCDc5ud",
+              "url": "https://www.reddit.com/r/lightingdesign/comments/iz4n19/i_designed_and_opensource_4_port_usb_to_dmx/",
+              "title": "r/lightingdesign on Reddit: I designed and Opensource 4 port USB to DMX adapter",
+              "favicon": "https://you.com/favicon?domain=www.reddit.com&size=128",
+              "thumbnail": "https://preview.redd.it/i-designed-and-opensource-4-port-usb-to-dmx-adapter-v0-cce8q81ej5p51.png?width=1370&format=png&auto=webp&s=be8ea73612210b0fdf2fbdc761df3a6fac5cb1b2",
+              "description": "63 votes, 25 comments. I'm a college student and in my free time, I design lighting equipment/electronics. For my local youth club, I needed more DMX…"
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "uDMX chip USB DMX adapter DIY kit",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "The uDMX (anyma) is DIY mostly; commercial clones exist: \"AVLdiy D512 / X-uDMX512\" — available on AliExpress/eBay. Mention DIY, illutzmination, maltepoeggel, and cheap eBay/AliExpress clones ~20-30 €. Also QLC+/FreeStyler support. Maybe search AliExpress price quickly? Enough info; answer concisely in German.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1793971698971,
+          "contextId": "harness-reasoning-6",
+          "startTime": 1793971697955
+        }
+      },
+      {
+        "text": "Kurzer Überblick: Das originale **uDMX** stammt von anyma.ch und ist ein Open-Source-/Selbstbau-Projekt (ATmega8, kein spezieller USB-IC, nur DMX-Out, keine galvanische Trennung). Es gibt aber auch fertige Geräte und Klone zu kaufen:\n\n**Fertige Geräte / Klone mit uDMX-Chip (ca. 15–30 €)**\n- **AVLdiy D512 / X-uDMX512, „uDMX512\", „USB-UDMX512\"** – chinesische uDMX-Klone, die regelmäßig auf eBay und AliExpress auftauchen (z. B. „Freestyler uDmx USB DMX512 Interface Adapter\" wird auf eBay gehandelt). Preislich meist um die 15–25 €. ([illutzmination](search-result://rhOMkrll), [eBay](search-result://iN4eHRqT))\n- Auf **eBay/Kleinanzeigen** tauchen immer wieder fertige uDMX-Interfaces auf – lohnt sich, dort regelmäßig zu suchen. ([eBay](search-result://iN4eHRqT), [Kleinanzeigen](search-result://heXHT6rM))\n\n**Selbstbau (die klassische uDMX-Route, ca. 10–15 € Material)**\n- Original-Projekt mit Firmware bei **anyma.ch**; Treiber, FAQs und ein SMD-freies Layout gibt es bei **illutzmination.de** (Windows-/Linux-Treiber, Art-Net-Node-Variante). ([illutzmination](search-result://rhOMkrll), [Elektronik Biberger](search-result://8vX62pOZ))\n- Signierte Treiber für Windows x64 und Nachbau-Anleitungen: **maltepoeggel.de**. ([LED Styles-Forum](search-result://50z3VxOP))\n- Kompatibel mit **QLC+, FreeStyler, DMXControl, PC Dimmer**, MagicQ etc. ([Digital Enlightenment](search-result://3Hn6RnI7), [LED Styles-Forum](search-result://50z3VxOP))\n\n**Wichtige Einschränkungen:** uDMX hat nur einen DMX-Ausgang (512 Kanäle), keinen DMX-In und standardmäßig keine galvanische Trennung – für Bühnen-Produktivbetrieb ist ein Eurolite USB-DMX512 PRO MK2 (~120 €) oder ein ENTTEC die robustere Wahl. ([pcdimmer.de](search-result://a3yctaFt), [Steinigke](search-result://IY90pl7l))\n\nSoll ich dir konkrete, aktuell verfügbare Angebote (z. B. auf eBay/AliExpress) heraussuchen, oder interessiert dich eher die Selbstbau-Variante mit Schaltplan und Treiber-Setup?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-11-06T13:28:11.660Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1793971691598,
+        "completedAtMs": 1793971706874,
+        "firstTokenAtMs": 1793971693663,
+        "generationStats": {
+          "outputTokens": 849,
+          "completionCount": 2,
+          "generationDurationMs": 9951,
+          "outputTokensPerSecond": 85.31805848658426
+        },
+        "timeToFirstTokenMs": 2065,
+        "bootstrapDurationMs": 1683,
+        "completionDurationMs": 15276,
+        "userMessageCreatedToCompletionMs": 15293
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "run_typescript",
+          "web_search"
+        ],
+        "integrationNames": [
+          "web_search"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "ca1136aa-f9c4-43dc-adb2-ab7dd82356e6",
+    "version": 0,
+    "chatId": "29a5c396-1d74-4375-9ee1-2758cdcba0fb",
+    "content": "ich suche nach einem USB zu DMX interface mit uDMX Chip",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-11-06T13:28:11.581Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "720cfe6f-dd45-42bc-bdc3-70bd08a4fad4",
+    "version": 0,
+    "chatId": "29a5c396-1d74-4375-9ee1-2758cdcba0fb",
+    "content": "Ja, aber mit einer wichtigen Einordnung: **uDMX selbst ist nie wireless** – der ATmega8-Chip macht nur USB → DMX-Out per Kabel. Wireless gibt es aber auf drei Wegen:\n\n**1. uDMX + WLAN/Art-Net (die „Bastel-Route\")**\n- Über den **uDMX-ArtNet-Treiber** kann ein PC per WLAN Art-Net/sACN-Daten senden, die lokal an ein uDMX-Interface ausgegeben werden – damit funktioniert uDMX mit jeder Art-Net-fähigen Software (QLC+, MagicQ, DMXControl, FreeStyler). ([illutzmination](search-result://a7UyCxMi))\n- Eleganter als USB-Interface: ein **ESP8266 als WLAN-Art-Net-Node** (ca. 5–10 € Material, MAX485 + XLR dazu) – 2 Universen, Web-Konfiguration, Open Source. ([GitHub](search-result://TbtJ3xIO), [Ulrich Radig](search-result://RUCc6M8E))\n\n**2. Fertige USB-Wireless-DMX-Sticks (2,4 GHz, kein uDMX)**\n- **Eurolite QuickDMX USB** (ca. 44–50 €) – Mini-Transceiver direkt am USB-Port oder am DMX-Ausgang, bis 512 Kanäle, Reichweite bis ~400 m, dazu passende Empfänger ab ~65 €. ([Steinigke](search-result://eTGSNoMA), [idealo](search-result://GSZ431X8))\n- **Briteq WTR-DMX USB Dongle** (~58 €), **Chauvet D-Fi USB 2** (~45 €), **Futurelight WDR USB** (~70 €). ([Music Store](search-result://suETFU2u), [Huss](search-result://UNj3MbLP))\n- Praktischer Trick: Du kannst einen Wireless-Stick auch **hinter ein uDMX-Interface hängen** – der Stick steckt in die XLR-Buchse und sendet das DMX-Signal funkgestützt weiter.\n\n**3. WLAN-/CRMX-Interfaces für professionelle Anwendungen**\n- **Eurolite freeDMX PRO 512** (WLAN, ~315 €) oder **freeDMX AP** (~164 €) – DMX über WLAN per App/Software. ([idealo](search-result://iU6I0SMa))\n- **CRMX/W-DMX** (Futurelight WDS-CRMX ab ~250 €, Wireless Solutions BlackBox, Astera) – die robuste Profi-Lösung für Bühnen, kaum anfällig für WLAN-Störungen. ([Huss](search-result://UNj3MbLP))\n\n**Empfehlung:** Für ein günstiges Hobby-Setup: uDMX (oder ESP8266-Art-Net-Node) + Eurolite QuickDMX USB als Funkstrecke – zusammen unter 100 €. Für Produktionseinsätze lieber direkt CRMX/W-DMX. Soll ich dir eine konkrete Kombi (Sender + Empfänger) für dein Setup zusammenstellen?",
+    "contentChunks": [
+      {
+        "text": "User asks wireless DMX interfaces. Search for wireless DMX USB interfaces (uDMX wireless, CRMX, Wireless DMX USB). Note: uDMX itself is not wireless; wireless solutions are separate (Eurolite Wireless DMX, Astera, Showtec WDMX, or wireless transmitters used with USB DMX). Search quickly.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1793971813725,
+          "contextId": "harness-reasoning-0",
+          "startTime": 1793971813101
+        }
+      },
+      {
+        "id": "typescript:8:chatcmpl-tool-b5d86b8808bfc016:0:tool:0",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "chatcmpl-tool-b5d86b8808bfc016"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "id": "iU6I0SMa",
+              "url": "https://www.idealo.de/preisvergleich/ProductCategory/26540F4261390.html",
+              "title": "DMX-Interface (2026) zum Bestpreis",
+              "favicon": "https://you.com/favicon?domain=www.idealo.de&size=128",
+              "description": "DMX-Interface Preise vergleichen und günstig kaufen bei idealo.de ✓ 72 Produkte ✓ Große Auswahl an Marken ✓ Bewertungen & Testberichte ✓"
+            },
+            {
+              "id": "UNj3MbLP",
+              "url": "https://www.huss-licht-ton.de/index.php/W-DMX-Equipment/cat/328.html?pageresults=100000",
+              "title": "W-DMX Equipment 🥇 Online kaufen bei Huss Licht & Ton",
+              "favicon": "https://you.com/favicon?domain=www.huss-licht-ton.de&size=128",
+              "description": "65 Produkte der Kategorie W-DMX Equipment erhältlich ✅ Frachtfrei ab 50€ ✅ Neuheiten & TOP Deals ✅ Expressversand ► Jetzt besuchen!"
+            },
+            {
+              "id": "v4eR6xB2",
+              "url": "https://www.amazon.de/-/en/Eurolite-QuickDMX-Wireless-Transmitter-Transceiver/dp/B07JJHGF59",
+              "title": "Eurolite QuickDMX USB Wireless Transmitter/Receiver",
+              "favicon": "https://you.com/favicon?domain=www.amazon.de&size=128",
+              "thumbnail": "https://m.media-amazon.com/images/G/01/share-icons/previewdoh/amazon.png",
+              "description": "Eurolite QuickDMX USB Wireless Transmitter/Receiver | Wireless Mini DMX Transceiver 2.4 GHz, Phantom Powered : Amazon.de: Musical Instruments & DJ"
+            },
+            {
+              "id": "r7Wm1fiJ",
+              "url": "https://www.mrproducts.de/de/licht/lichtsteuerungen/wireless-dmx",
+              "title": "Wireless-DMX",
+              "favicon": "https://you.com/favicon?domain=www.mrproducts.de&size=128",
+              "thumbnail": "https://www.mrproducts.de/media/images/category/listingTop/m-dmx-transceiver-ii-back-5hr1.jpg",
+              "description": "Wireless-DMX"
+            },
+            {
+              "id": "suETFU2u",
+              "url": "https://www.musicstore.de/de_DE/EUR/Licht/Wireless-DMX/cat-LICHT-LIGSTEDMX",
+              "title": "W-DMX & Wireless DMX bei MUSIC STORE kaufen",
+              "favicon": "https://you.com/favicon?domain=www.musicstore.de&size=128",
+              "thumbnail": "https://www.musicstore.de/INTERSHOP/static/WFS/MusicStore-MusicStoreShop-Site/-/-/de_DE/images/general/musicstore.jpg",
+              "description": "W-DMX und Wireless DMX für drahtlose Lichtsteuerung entdecken – für saubere Bühnen, mobile Setups und flexible Funkstrecken."
+            },
+            {
+              "id": "eTGSNoMA",
+              "url": "https://www.steinigke.de/mpn70064704-eurolite-quickdmx-usb-funksender-empfaenger.html",
+              "title": "EUROLITE QuickDMX USB Funksender/Empfänger",
+              "favicon": "https://you.com/favicon?domain=www.steinigke.de&size=128",
+              "thumbnail": "https://media.steinigke.de/images/71600/64/70064704a.jpg",
+              "description": "Drahtloser Mini-DMX-Transceiver 2,4 GHz, phantomgespeist ✓ Großhandelspreise ✓ Langjährige Erfahrung ✓ Über 9.000 Produkte ✓ Mengenrabatt"
+            },
+            {
+              "id": "WZHeDvuV",
+              "url": "https://www.kirstein.de/en/Live-Studio/Light/Lighting-Controllers/Eurolite-QuickDMX-USB-Wireless-Transmitter-Receiver.html",
+              "title": "Eurolite QuickDMX USB Wireless Transmitter/Receiver",
+              "favicon": "https://you.com/favicon?domain=www.kirstein.de&size=128",
+              "thumbnail": "https://www.kirstein.de/out/pictures/generated/product/1/450_380_75/161858fd47c135a4c58e2fb2878e4_1.jpg",
+              "description": "Wireless Mini-DMX Transceiver 2.4 GHz, Phantom Powered! ✔ Compact DMX wireless transmitter/receiver in miniature format for wireless transmission of up to 512 DMX channels ✔ User-friendly USB plug with swivel antenna ✔ Range up to 400 ..."
+            },
+            {
+              "id": "bUNSuBSv",
+              "url": "https://www.steinigke.de/licht/lichtsteuerung/wireless-dmx/cat-t1060030-1.html",
+              "title": "Zuverlässige drahtlose DMX-Lösungen für die professionelle Lichtsteuerung",
+              "favicon": "https://you.com/favicon?domain=www.steinigke.de&size=128",
+              "description": "Erfahren Sie mehr über unsere kabellosen DMX-Produkte für eine flexible und zuverlässige Lichtsteuerung in unserem Online-Shop!"
+            },
+            {
+              "id": "GSZ431X8",
+              "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/211531951_-quickdmx-usb-funk-dmx-transceiver-2-4ghz-phantomgespeist-70064704-eurolite.html",
+              "title": "Eurolite QuickDMX USB Funk-DMX-Transceiver 2,4GHz, phantomgespeist (70064704) ab 43,90 €",
+              "favicon": "https://you.com/favicon?domain=www.idealo.de&size=128",
+              "thumbnail": "https://cdn.idealo.com/folder/Product/211531/9/211531951/s1_produktbild_gross/eurolite-quickdmx-usb-funk-dmx-transceiver-2-4ghz-phantomgespeist-70064704.jpg",
+              "description": "Bereits ab 43,90 € ✓ Große Shopvielfalt ✓ Testberichte & Meinungen ✓ | Jetzt Eurolite QuickDMX USB Funk-DMX-Transceiver 2,4GHz, phantomgespeist (70064704) günstig kaufen bei idealo.de"
+            },
+            {
+              "id": "cs3PHNoW",
+              "url": "https://www.conrad.de/de/f/dmx-interface-1701414.html",
+              "title": "%category-title% kaufen",
+              "favicon": "https://you.com/favicon?domain=www.conrad.de&size=128",
+              "description": "�tegory-title% in Top-Qualität bei Conrad.de ✓ Große Auswahl ✓ Zuverlässiger Versand ✓ Exzellenter Service & faire Preise ✓ Jetzt bestellen!"
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "Wireless DMX USB Interface Transceiver kaufen",
+        "requiresConfirmation": false
+      },
+      {
+        "id": "typescript:8:chatcmpl-tool-988ab9927ee687b3:0:tool:0",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "chatcmpl-tool-988ab9927ee687b3"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "id": "TbtJ3xIO",
+              "url": "https://github.com/mtongnz/ESP8266_ArtNetNode_v2",
+              "title": "GitHub - mtongnz/ESP8266_ArtNetNode_v2: ESP8266 based WiFi ArtNet to DMX, RDM and LED Pixels · GitHub",
+              "favicon": "https://you.com/favicon?domain=github.com&size=128",
+              "thumbnail": "https://opengraph.githubassets.com/921ea1370cc0fc81e59d176fa14dcba1520caaf6a22de9d571b287258baea5b3/mtongnz/ESP8266_ArtNetNode_v2",
+              "description": "ESP8266 based WiFi ArtNet to DMX, RDM and LED Pixels - mtongnz/ESP8266_ArtNetNode_v2"
+            },
+            {
+              "id": "VvAQILaC",
+              "url": "https://github.com/mtongnz/ESP8266_ArtNetNode_DMX",
+              "title": "GitHub - mtongnz/ESP8266_ArtNetNode_DMX: ESP8266 based WiFi ArtNet to DMX - Supports 2 full universes",
+              "favicon": "https://you.com/favicon?domain=github.com&size=128",
+              "thumbnail": "https://opengraph.githubassets.com/9b0525905f583be122a05b7b370cfc42f8fcc6a5a7a1247fe626016dbf8bcdd6/mtongnz/ESP8266_ArtNetNode_DMX",
+              "description": "ESP8266 based WiFi ArtNet to DMX - Supports 2 full universes - mtongnz/ESP8266_ArtNetNode_DMX"
+            },
+            {
+              "id": "RUCc6M8E",
+              "url": "https://www.ulrichradig.de/home/index.php/dmx/wlan-art-net-node",
+              "title": "www.UlrichRadig.de :: Microcontroller and more! - WLAN Art-Net Node auf dem ESP8266",
+              "favicon": "https://you.com/favicon?domain=www.ulrichradig.de&size=128",
+              "description": "# www.UlrichRadig.de :: Microcontroller and more!"
+            },
+            {
+              "id": "3vBIlhGX",
+              "url": "https://www.hackster.io/jackguy/esp8266-art-net-dmx-to-ws2812-41c5fa",
+              "title": "ESP8266 Art-Net DMX to WS2812 - Hackster.io",
+              "favicon": "https://you.com/favicon?domain=www.hackster.io&size=128",
+              "thumbnail": "https://www.hackster.io/assets/hackster_avnet_logo_blue.png",
+              "description": "Control WS2812 LED strings with Art-Net DMX over WiFi. Find this and other hardware projects on Hackster.io."
+            },
+            {
+              "id": "nVuHwesC",
+              "url": "https://www.youtube.com/watch?v=k-gNICr0avE",
+              "title": "ESP8266 WLAN DMX CONTROLLER - YouTube",
+              "favicon": "https://you.com/favicon?domain=www.youtube.com&size=128",
+              "thumbnail": "https://i.ytimg.com/vi/k-gNICr0avE/maxresdefault.jpg",
+              "description": "WLAN Art Net NodeSoftware läuft direkt auf dem ESP8266 SoC. Es wird nur noch eine Antenne, ein Spannungsregler 3,3Volt sowie ein RS485 Treiber benötigt."
+            },
+            {
+              "id": "eLR28RA6",
+              "url": "https://github.com/rstephan/ArtnetnodeWifi",
+              "title": "GitHub - rstephan/ArtnetnodeWifi: Arduino library for a Art-Net-Node (artnet) over WiFi, handle DMX data and response to Poll requests. Runs on ESP8266, ESP32, WiFi101 and WiFiNINA devices. · GitHub",
+              "favicon": "https://you.com/favicon?domain=github.com&size=128",
+              "thumbnail": "https://opengraph.githubassets.com/4ac5b4bd95608d26ff1526806b17ac35c5d5e4b4f867c536071d84e006b318e9/rstephan/ArtnetnodeWifi",
+              "description": "Arduino library for a Art-Net-Node (artnet) over WiFi, handle DMX data and response to Poll requests. Runs on ESP8266, ESP32, WiFi101 and WiFiNINA devices. - rstephan/ArtnetnodeWifi"
+            },
+            {
+              "id": "fbH3TnUT",
+              "url": "https://github.com/steffensc/esp8266_wifi_artnet_dmx",
+              "title": "GitHub - steffensc/esp8266_wifi_artnet_dmx: Use an ESP8266 as an ArtNet-Node (configurable via Webinterface) connected via WiFi.",
+              "favicon": "https://you.com/favicon?domain=github.com&size=128",
+              "thumbnail": "https://opengraph.githubassets.com/072c8dd1b16eecd3c0633659481671ac197991560b995966cfa107c1dc8ff809/steffensc/esp8266_wifi_artnet_dmx",
+              "description": "Use an ESP8266 as an ArtNet-Node (configurable via Webinterface) connected via WiFi. - steffensc/esp8266_wifi_artnet_dmx"
+            },
+            {
+              "id": "a7UyCxMi",
+              "url": "https://www.illutzmination.de/udmx-artnet.html?L=1",
+              "title": "uDMX-artnet - ilLU[TZ]mination",
+              "favicon": "https://you.com/favicon?domain=www.illutzmination.de&size=128",
+              "description": "ilLUTZmination ilLUTZminator uDMX USB-DMX Driver DMX Software"
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "uDMX wireless DMX W-LAN Art-Net node ESP8266",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Ja, aber mit einer wichtigen Einordnung: **uDMX selbst ist nie wireless** – der ATmega8-Chip macht nur USB → DMX-Out per Kabel. Wireless gibt es aber auf drei Wegen:\n\n**1. uDMX + WLAN/Art-Net (die „Bastel-Route\")**\n- Über den **uDMX-ArtNet-Treiber** kann ein PC per WLAN Art-Net/sACN-Daten senden, die lokal an ein uDMX-Interface ausgegeben werden – damit funktioniert uDMX mit jeder Art-Net-fähigen Software (QLC+, MagicQ, DMXControl, FreeStyler). ([illutzmination](search-result://a7UyCxMi))\n- Eleganter als USB-Interface: ein **ESP8266 als WLAN-Art-Net-Node** (ca. 5–10 € Material, MAX485 + XLR dazu) – 2 Universen, Web-Konfiguration, Open Source. ([GitHub](search-result://TbtJ3xIO), [Ulrich Radig](search-result://RUCc6M8E))\n\n**2. Fertige USB-Wireless-DMX-Sticks (2,4 GHz, kein uDMX)**\n- **Eurolite QuickDMX USB** (ca. 44–50 €) – Mini-Transceiver direkt am USB-Port oder am DMX-Ausgang, bis 512 Kanäle, Reichweite bis ~400 m, dazu passende Empfänger ab ~65 €. ([Steinigke](search-result://eTGSNoMA), [idealo](search-result://GSZ431X8))\n- **Briteq WTR-DMX USB Dongle** (~58 €), **Chauvet D-Fi USB 2** (~45 €), **Futurelight WDR USB** (~70 €). ([Music Store](search-result://suETFU2u), [Huss](search-result://UNj3MbLP))\n- Praktischer Trick: Du kannst einen Wireless-Stick auch **hinter ein uDMX-Interface hängen** – der Stick steckt in die XLR-Buchse und sendet das DMX-Signal funkgestützt weiter.\n\n**3. WLAN-/CRMX-Interfaces für professionelle Anwendungen**\n- **Eurolite freeDMX PRO 512** (WLAN, ~315 €) oder **freeDMX AP** (~164 €) – DMX über WLAN per App/Software. ([idealo](search-result://iU6I0SMa))\n- **CRMX/W-DMX** (Futurelight WDS-CRMX ab ~250 €, Wireless Solutions BlackBox, Astera) – die robuste Profi-Lösung für Bühnen, kaum anfällig für WLAN-Störungen. ([Huss](search-result://UNj3MbLP))\n\n**Empfehlung:** Für ein günstiges Hobby-Setup: uDMX (oder ESP8266-Art-Net-Node) + Eurolite QuickDMX USB als Funkstrecke – zusammen unter 100 €. Für Produktionseinsätze lieber direkt CRMX/W-DMX. Soll ich dir eine konkrete Kombi (Sender + Empfänger) für dein Setup zusammenstellen?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-11-06T13:30:11.145Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1793971811089,
+        "completedAtMs": 1793971822916,
+        "firstTokenAtMs": 1793971813101,
+        "generationStats": {
+          "outputTokens": 882,
+          "completionCount": 2,
+          "generationDurationMs": 6934,
+          "outputTokensPerSecond": 127.19930775886934
+        },
+        "timeToFirstTokenMs": 2012,
+        "bootstrapDurationMs": 746,
+        "completionDurationMs": 11827,
+        "userMessageCreatedToCompletionMs": 11803
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "run_typescript",
+          "web_search"
+        ],
+        "integrationNames": [
+          "web_search"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "d0bee54d-46f5-446f-9cf4-3e8ed1dca985",
+    "version": 0,
+    "chatId": "29a5c396-1d74-4375-9ee1-2758cdcba0fb",
+    "content": "gibt es da auch welche die wireless DMX unterstützen ?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-11-06T13:30:11.113Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  }
+]

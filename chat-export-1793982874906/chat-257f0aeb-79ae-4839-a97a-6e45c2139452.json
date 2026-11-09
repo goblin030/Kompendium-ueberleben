@@ -1,0 +1,75 @@
+[
+  {
+    "id": "f873128f-0af3-4301-a8e4-3f6fcddbea93",
+    "version": 0,
+    "chatId": "257f0aeb-79ae-4839-a97a-6e45c2139452",
+    "content": "Kurz: **Nein – grundsätzlich nicht.** Die UG (haftungsbeschränkt) ist eine Kapitalgesellschaft („Mini-GmbH\", § 5a GmbHG). Sie ist eine eigene juristische Person, haftet also nur mit dem Gesellschaftsvermögen – der Gesellschafter haftet **nicht** mit seinem Privatvermögen.\n\n**Wichtige Ausnahmen, in denen es doch persönlich teuer werden kann:**\n\n- **Unverhältnismäßige Stammmenge:** Beim Ausfall einer Einlage haften Gesellschafter ggf. nach §§ 24, 26 GmbHG im Auseinanderfall / bei Kapitalheraussetzung.\n- **Darlehen an die eigene UG (Gesellschafterdarlehen):** In der Insolvenz werden diese nachrangig behandelt (§ 39 Abs. 1 Nr. 5 InsO); im Zweifel droht Rückabwicklung nach Anfechtungsrecht.\n- **Eigenkapitalersetzende Leistungen / Kredithaftung:** Bei zu dünner Kapitalausstattung können private Kredite wie Eigenkapital behandelt werden.\n- **Durchgriffshaftung:** Bei Missbrauch der Rechtsform (z. B. Vermögensvermischung, Existenzvernichtung) kann das Gericht die Haftungsbegrenzung durchbrechen.\n- **Fehlende Pflichtangaben:** Fehlt auf Geschäftsbriefen/Websites der Zusatz „UG (haftungsbeschränkt)\" und ggf. die Angabe „Geschäftsführer\", riskiert der Handelnde persönliche Haftung (§ 35a GmbHG, § 179 BGB-Folgen).\n- **Geschäftsführerhaftung:** Als Geschäftsführer haftet man persönlich bei Pflichtverletzungen (§ 43 GmbHG) – z. B. bei Zahlungen nach Zahlungsunfähigkeit (§ 64 GmbHG), Steuerschulden (§ 34a, 35 AO) oder unwahren Erklärungen.\n- **Bürgschaften oder private Garantien:** Banken verlangen bei jungen UGs oft persönliche Bürgschaft – dann haftet das Privatvermögen.\n- **Delikt- und Steuerpflichten:** Die Gesellschaft haftet hier zwar primär, aber passgenaue persönliche Ansprüche (z. B. § 823 BGB) bleiben möglich.\n\nPraktischer Tipp: Die Haftungsbegrenzung ist kein Freibrief – sie hält nur, wenn die formellen Pflichten (Stammmenge, Zusatz auf Briefen, saubere Buchhaltung, kein Privatvermögensverstoß) eingehalten werden. Für den konkreten Einzelfall ist eine anwaltliche Beratung sinnvoll; das hier ist keine Rechtsberatung.",
+    "contentChunks": [
+      {
+        "text": "The user asks a German legal question: does the owner of a UG (haftungsbeschränkte Unternehmergesellschaft) liable with private assets? This is a stable general knowledge question about German company law. No search strictly needed — it's stable legal knowledge. But the instruction says search before answering whenever the answer depends on checkable real-world facts that change or may not be known precisely. German GmbH/UG liability law is stable. I can answer directly in German.\n\nKey points:\n- UG (haftungsbeschränkt) is a mini-GmbH under § 5a GmbHG. Liability limited to company assets, not private assets — same as GmbH.\n- Exceptions: statutory liability, personal guarantees, managing director liability (§ 43 GmbHG), shareholder loans, Durchgriffshaftung (§ 311 Abs. 3, § 313 BGB with Geschäftsbriefangaben § 35a GmbHG), ArbVG (InsO § 39), unpaid share capital (Hinterlegung/Ausfallhaftung § 24, 26 GmbHG), D&O, tort claims, § 823 BGB.\n- Also Geschäftsbriefangaben requirement: if not stated on business letters, personal liability can follow. § 35a GmbHG states it must be indicated; failure — case law says the person acting can be personally liable.\n\nAnswer in German, concise. No search needed since it's stable legal knowledge. Should I search? The rules say search for legal rules... \"legal or administrative rules and thresholds\" — hmm, it says search before answering whenever the answer depends on checkable real-world facts that change or that you may not know precisely. This is basic, stable German corporate law that doesn't change. I'll answer directly but maybe do a quick search to be safe? I think it's fine to answer directly — UG liability is textbook knowledge. But guidance strongly encourages searching for legal rules. The liability principle of the UG hasn't changed since 2008. I'll answer directly, keeping it concise. Add disclaimer: keine Rechtsberatung.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1793605619602,
+          "contextId": "harness-reasoning-0",
+          "startTime": 1793605617245
+        }
+      },
+      {
+        "text": "Kurz: **Nein – grundsätzlich nicht.** Die UG (haftungsbeschränkt) ist eine Kapitalgesellschaft („Mini-GmbH\", § 5a GmbHG). Sie ist eine eigene juristische Person, haftet also nur mit dem Gesellschaftsvermögen – der Gesellschafter haftet **nicht** mit seinem Privatvermögen.\n\n**Wichtige Ausnahmen, in denen es doch persönlich teuer werden kann:**\n\n- **Unverhältnismäßige Stammmenge:** Beim Ausfall einer Einlage haften Gesellschafter ggf. nach §§ 24, 26 GmbHG im Auseinanderfall / bei Kapitalheraussetzung.\n- **Darlehen an die eigene UG (Gesellschafterdarlehen):** In der Insolvenz werden diese nachrangig behandelt (§ 39 Abs. 1 Nr. 5 InsO); im Zweifel droht Rückabwicklung nach Anfechtungsrecht.\n- **Eigenkapitalersetzende Leistungen / Kredithaftung:** Bei zu dünner Kapitalausstattung können private Kredite wie Eigenkapital behandelt werden.\n- **Durchgriffshaftung:** Bei Missbrauch der Rechtsform (z. B. Vermögensvermischung, Existenzvernichtung) kann das Gericht die Haftungsbegrenzung durchbrechen.\n- **Fehlende Pflichtangaben:** Fehlt auf Geschäftsbriefen/Websites der Zusatz „UG (haftungsbeschränkt)\" und ggf. die Angabe „Geschäftsführer\", riskiert der Handelnde persönliche Haftung (§ 35a GmbHG, § 179 BGB-Folgen).\n- **Geschäftsführerhaftung:** Als Geschäftsführer haftet man persönlich bei Pflichtverletzungen (§ 43 GmbHG) – z. B. bei Zahlungen nach Zahlungsunfähigkeit (§ 64 GmbHG), Steuerschulden (§ 34a, 35 AO) oder unwahren Erklärungen.\n- **Bürgschaften oder private Garantien:** Banken verlangen bei jungen UGs oft persönliche Bürgschaft – dann haftet das Privatvermögen.\n- **Delikt- und Steuerpflichten:** Die Gesellschaft haftet hier zwar primär, aber passgenaue persönliche Ansprüche (z. B. § 823 BGB) bleiben möglich.\n\nPraktischer Tipp: Die Haftungsbegrenzung ist kein Freibrief – sie hält nur, wenn die formellen Pflichten (Stammmenge, Zusatz auf Briefen, saubere Buchhaltung, kein Privatvermögensverstoß) eingehalten werden. Für den konkreten Einzelfall ist eine anwaltliche Beratung sinnvoll; das hier ist keine Rechtsberatung.",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-11-02T07:46:56.134Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1793605615106,
+        "completedAtMs": 1793605625455,
+        "firstTokenAtMs": 1793605617244,
+        "generationStats": {
+          "outputTokens": 1051,
+          "completionCount": 1,
+          "generationDurationMs": 7941,
+          "outputTokensPerSecond": 132.35108928346557
+        },
+        "timeToFirstTokenMs": 2138,
+        "bootstrapDurationMs": 1754,
+        "completionDurationMs": 10349,
+        "userMessageCreatedToCompletionMs": 10383
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [],
+        "integrationNames": []
+      }
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "692914a5-e945-4c2a-93e7-871dec24b046",
+    "version": 0,
+    "chatId": "257f0aeb-79ae-4839-a97a-6e45c2139452",
+    "content": "Haftet bei der Unternehmensform UG der Inhaber mit seinem Privatvermögen?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-11-02T07:46:55.072Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  }
+]

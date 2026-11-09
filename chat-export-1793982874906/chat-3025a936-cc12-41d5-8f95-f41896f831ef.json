@@ -1,0 +1,147 @@
+[
+  {
+    "id": "72fa53f2-cc7a-4171-ab31-f9919166e874",
+    "version": 0,
+    "chatId": "3025a936-cc12-41d5-8f95-f41896f831ef",
+    "content": "Hier sind **kostenfreie Quellen für MIDI-Dateien** zum Download:\n\n### 🎵 **Beste Websites für kostenlose MIDI-Dateien**\n1. **[MIDI Planet](https://midiplanet.net/)** – Große Sammlung für Musiker und Produzenten.\n2. **[BitMidi](https://bitmidi.com/)** – Klassische und moderne MIDI-Dateien (auch über [HipHopMakers](https://hiphopmakers.com/best-free-midi-files-midi-songs) empfohlen).\n3. **[MIDINation](https://midination.com/midi/free-midi-files/)** – Moderne Auswahl mit ca. 400 Dateien.\n4. **[Free MIDI Packs bei ProducerSpot](https://www.producerspot.com/)** – Regelmäßig aktualisierte Pakete (EDM, Hip-Hop, Orchester etc.).\n5. **[Hyperbits](https://hyperbits.com/blog/free-midi-files/)** – Kostenlose MIDI-Packs von Hit-Songs (z. B. von Avicii, Calvin Harris).\n6. **[MusicCreator](https://musiccreator.com/blogs/guides/best-free-midi-packs-in-2026)** – Kostenlose Akkordfolgen, Melodien und Drum-Grooves.\n\n### 🔍 **Tipp**\n- **Lizenz prüfen**: Die meisten Dateien sind für private Nutzung frei, für kommerzielle Projekte aber oft nur mit Attribution oder kostenpflichtiger Lizenz nutzbar.\n- **Kategorien**: Viele Seiten bieten Filter nach Genre (z. B. Pop, Klassik, Film-Soundtracks).\n\nFalls du spezifische Genres oder Instrumente suchst, lass es mich wissen! 🎹",
+    "contentChunks": [
+      {
+        "id": "7f269a5c-950a-48e5-9c19-0eff524f4853",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "kIDs0jM3I"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "url": "https://midination.com/midi/free-midi-files/",
+              "title": "35 Best Free Midi Files 2026 [& Websites To Download Them] - MIDINation",
+              "favicon": "https://www.google.com/s2/favicons?domain=midination.com&sz=256"
+            },
+            {
+              "url": "https://hyperbits.com/blog/free-midi-files/",
+              "title": "The Ultimate Collection of Free MIDI Files in 2026 | Hyperbits",
+              "favicon": "https://www.google.com/s2/favicons?domain=hyperbits.com&sz=256"
+            },
+            {
+              "url": "https://hiphopmakers.com/best-free-midi-files-midi-songs",
+              "title": "FREE MIDI Files & MIDI Songs: The 14 Best Websites",
+              "favicon": "https://www.google.com/s2/favicons?domain=hiphopmakers.com&sz=256"
+            },
+            {
+              "url": "https://www.midi.de/katalog/",
+              "title": "Midifiles, MP3 Playbacks & Karaoke Videos - Gesamtkatalog | midi.de",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.midi.de&sz=256"
+            },
+            {
+              "url": "https://www.toptut.com/de/best-free-midi-keyboard-software-windows-mac-android/",
+              "title": "Beste kostenlose Midi-Keyboard-Software 2026 für Windows, Mac und Android – TopTut.com",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.toptut.com&sz=256"
+            },
+            {
+              "url": "https://musiccreator.com/blogs/guides/best-free-midi-packs-in-2026-download-free-chord-progressions-melodies",
+              "title": "Best Free MIDI Packs in 2026 — Download Free Chord Progressions & Melo",
+              "favicon": "https://www.google.com/s2/favicons?domain=musiccreator.com&sz=256"
+            },
+            {
+              "url": "https://midiplanet.net/",
+              "title": "Free MIDI Files For Everyone - MIDI Planet",
+              "favicon": "https://www.google.com/s2/favicons?domain=midiplanet.net&sz=256"
+            },
+            {
+              "url": "https://somio.ai/de/midi-generator/",
+              "title": "Kostenloser KI-MIDI-Generator - MIDI-Musik aus Prompts erstellen",
+              "favicon": "https://www.google.com/s2/favicons?domain=somio.ai&sz=256"
+            },
+            {
+              "url": "https://sampley.me/de/blogs/beat-promotion/ultimative-sammlung-von-top-sites-fur-kostenlose-midi-packs",
+              "title": "Top-Sites für kostenlose MIDI-Pakete: Entdecken Sie die ultimative Sammlung – Sampley",
+              "favicon": "https://www.google.com/s2/favicons?domain=sampley.me&sz=256"
+            },
+            {
+              "url": "https://de.topmediai.com/music-tips/mp3-in-midi-converter/",
+              "title": "MP3 in MIDI umwandeln – Top 5 kostenlose Konverter für alle",
+              "favicon": "https://www.google.com/s2/favicons?domain=de.topmediai.com&sz=256"
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "kostenlose MIDI-Dateien downloaden 2026",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Hier sind **kostenfreie Quellen für MIDI-Dateien** zum Download:\n\n### 🎵 **Beste Websites für kostenlose MIDI-Dateien**\n1. **[MIDI Planet](https://midiplanet.net/)** – Große Sammlung für Musiker und Produzenten.\n2. **[BitMidi](https://bitmidi.com/)** – Klassische und moderne MIDI-Dateien (auch über [HipHopMakers](https://hiphopmakers.com/best-free-midi-files-midi-songs) empfohlen).\n3. **[MIDINation](https://midination.com/midi/free-midi-files/)** – Moderne Auswahl mit ca. 400 Dateien.\n4. **[Free MIDI Packs bei ProducerSpot](https://www.producerspot.com/)** – Regelmäßig aktualisierte Pakete (EDM, Hip-Hop, Orchester etc.).\n5. **[Hyperbits](https://hyperbits.com/blog/free-midi-files/)** – Kostenlose MIDI-Packs von Hit-Songs (z. B. von Avicii, Calvin Harris).\n6. **[MusicCreator](https://musiccreator.com/blogs/guides/best-free-midi-packs-in-2026)** – Kostenlose Akkordfolgen, Melodien und Drum-Grooves.\n\n### 🔍 **Tipp**\n- **Lizenz prüfen**: Die meisten Dateien sind für private Nutzung frei, für kommerzielle Projekte aber oft nur mit Attribution oder kostenpflichtiger Lizenz nutzbar.\n- **Kategorien**: Viele Seiten bieten Filter nach Genre (z. B. Pop, Klassik, Film-Soundtracks).\n\nFalls du spezifische Genres oder Instrumente suchst, lass es mich wissen! 🎹",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-07-30T15:24:26.919Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1785425066929,
+        "completedAtMs": 1785425074319,
+        "firstTokenAtMs": 1785425067610,
+        "generationStats": {
+          "outputTokens": 524,
+          "completionCount": 2,
+          "generationDurationMs": 4140,
+          "outputTokensPerSecond": 126.57004830917876
+        },
+        "timeToFirstTokenMs": 681,
+        "completionDurationMs": 7390,
+        "userMessageCreatedToCompletionMs": 7717
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "run_typescript",
+          "web_search"
+        ],
+        "integrationNames": [
+          "web_search"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "aec24ad6-beb4-47f5-8e3d-b66455a11d97",
+    "version": 0,
+    "chatId": "3025a936-cc12-41d5-8f95-f41896f831ef",
+    "content": "wo kann ich kostenfrei midi files downloaden ß",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-07-30T15:24:26.602Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  }
+]

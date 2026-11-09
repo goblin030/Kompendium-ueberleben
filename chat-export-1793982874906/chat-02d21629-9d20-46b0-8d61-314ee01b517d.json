@@ -1,0 +1,64 @@
+[
+  {
+    "id": "45c0d613-d6be-4583-82b2-954e59d8dabf",
+    "version": 0,
+    "chatId": "02d21629-9d20-46b0-8d61-314ee01b517d",
+    "content": "unter welchen pfd speichert evermix dateien im android",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-07-28T10:48:50.420Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "290c6c75-6b87-4b11-9052-3c506feb9480",
+    "version": 0,
+    "chatId": "02d21629-9d20-46b0-8d61-314ee01b517d",
+    "content": "Evermix, eine App, die oft für das Mischen und Speichern von Musik- und DJ-Sets verwendet wird, speichert in der Regel Dateien in einem spezifischen Ordner auf deinem Android-Gerät. Standardmäßig sind die Pfade oft wie folgt:\n\n- **Interner Speicher:**\n  `/storage/emulated/0/Evermix/`\n  oder\n  `/storage/emulated/0/Music/Evermix/`\n\n- **Externer Speicher (falls eine SD-Karte vorhanden ist):**\n  `/storage/[SD-Karten-ID]/Evermix/`\n  oder\n  `/storage/[SD-Karten-ID]/Music/Evermix/`\n\n### Wie du den genauen Pfad findest:\n1. **In der Evermix-App:**\n   - Öffne die App und gehe zu den Einstellungen.\n   - Suche nach einem Abschnitt wie **\"Speicherort\"**, **\"Export\"**, oder **\"Dateiverwaltung\"**.\n   - Dort wird oft der genaue Pfad angezeigt oder du kannst ihn anpassen.\n\n2. **Mit einem Dateimanager:**\n   - Verwende einen Dateimanager wie **\"Files by Google\"**, **\"Solid Explorer\"**, oder **\"FX File Explorer\"**.\n   - Suche nach einem Ordner namens **Evermix** oder **Music/Evermix**.\n\n3. **Standard-Download-Ordner:**\n   Falls du die Dateien exportiert hast, könnten sie auch im **Download-Ordner** landen:\n   `/storage/emulated/0/Download/`\n\nFalls du die App nicht findest oder der Pfad abweicht, überprüfe die App-spezifischen Einstellungen oder die Dokumentation von Evermix. Möchtest du Hilfe bei der Suche nach einer bestimmten Datei?",
+    "contentChunks": [
+      {
+        "text": "Evermix, eine App, die oft für das Mischen und Speichern von Musik- und DJ-Sets verwendet wird, speichert in der Regel Dateien in einem spezifischen Ordner auf deinem Android-Gerät. Standardmäßig sind die Pfade oft wie folgt:\n\n- **Interner Speicher:**\n  `/storage/emulated/0/Evermix/`\n  oder\n  `/storage/emulated/0/Music/Evermix/`\n\n- **Externer Speicher (falls eine SD-Karte vorhanden ist):**\n  `/storage/[SD-Karten-ID]/Evermix/`\n  oder\n  `/storage/[SD-Karten-ID]/Music/Evermix/`\n\n### Wie du den genauen Pfad findest:\n1. **In der Evermix-App:**\n   - Öffne die App und gehe zu den Einstellungen.\n   - Suche nach einem Abschnitt wie **\"Speicherort\"**, **\"Export\"**, oder **\"Dateiverwaltung\"**.\n   - Dort wird oft der genaue Pfad angezeigt oder du kannst ihn anpassen.\n\n2. **Mit einem Dateimanager:**\n   - Verwende einen Dateimanager wie **\"Files by Google\"**, **\"Solid Explorer\"**, oder **\"FX File Explorer\"**.\n   - Suche nach einem Ordner namens **Evermix** oder **Music/Evermix**.\n\n3. **Standard-Download-Ordner:**\n   Falls du die Dateien exportiert hast, könnten sie auch im **Download-Ordner** landen:\n   `/storage/emulated/0/Download/`\n\nFalls du die App nicht findest oder der Pfad abweicht, überprüfe die App-spezifischen Einstellungen oder die Dokumentation von Evermix. Möchtest du Hilfe bei der Suche nach einer bestimmten Datei?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-07-28T10:48:50.767Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1785235730777,
+        "completedAtMs": 1785235737352,
+        "firstTokenAtMs": 1785235733293,
+        "generationStats": {
+          "outputTokens": 381,
+          "completionCount": 1,
+          "generationDurationMs": 3823,
+          "outputTokensPerSecond": 99.65995291655769
+        },
+        "timeToFirstTokenMs": 2516,
+        "completionDurationMs": 6575,
+        "userMessageCreatedToCompletionMs": 6932
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [],
+        "integrationNames": []
+      }
+    },
+    "canvas": [],
+    "files": []
+  }
+]

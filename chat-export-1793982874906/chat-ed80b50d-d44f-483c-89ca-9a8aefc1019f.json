@@ -1,0 +1,100 @@
+[
+  {
+    "id": "290721e5-0359-4fad-871b-76a3e8460ad4",
+    "version": 0,
+    "chatId": "ed80b50d-d44f-483c-89ca-9a8aefc1019f",
+    "content": "Um den Ubiquiti UMR-INDUSTRIAL (4G LTE Mobile Router) remote zu konfigurieren, gibt es zwei Hauptmöglichkeiten:\n\n### 1. **Über die Ubiquiti Mobility Cloud (empfohlen für Remote-Zugriff)**\n- Der UMR-INDUSTRIAL kann in die **UniFi Mobility Cloud** (mobility.ui.com) eingebunden werden. Dadurch können Sie das Gerät von überall aus über eine webbasierte Oberfläche verwalten.\n- **Schritte:**\n  1. Registrieren Sie sich auf [mobility.ui.com](https://mobility.ui.com) und wählen Sie ein Abo (z. B. 2 €/Monat oder 19 €/Jahr pro Router).\n  2. Verbinden Sie den UMR-INDUSTRIAL mit dem Internet (z. B. über eine SIM-Karte).\n  3. Adoptieren Sie das Gerät in der Mobility Cloud über den dortigen Assistenten (meist per QR-Code oder Seriennummer).\n  4. Nach der Adoption können Sie alle Einstellungen (APN, WLAN, Firewall, VPN etc.) remote vornehmen.\n\n### 2. **Lokale Konfiguration mit späterem Remote-Zugriff**\n- Falls Sie keinen Cloud-Zugriff nutzen möchten, können Sie den Router zunächst lokal konfigurieren:\n  1. Verbinden Sie einen PC/Laptop per Ethernet oder WLAN mit dem UMR-INDUSTRIAL.\n  2. Melden Sie sich im **Local Portal** an (Standard-Passwort: „ui“ oder auf dem Gerät aufgedruckt).\n  3. Konfigurieren Sie hier die Grundeinstellungen (APN, WLAN, etc.).\n  4. Für Remote-Zugriff ohne Cloud können Sie einen **VPN-Tunnel** (z. B. Site-to-Site VPN) zum Router aufbauen oder eine **Portweiterleitung** einrichten – allerdings ist dies bei vielen Mobilfunkanbietern (wegen CG-NAT) nicht möglich.\n\n---\n### Wichtig:\n- **Ohne Mobility Cloud-Abo** ist der Remote-Zugriff stark eingeschränkt, da viele Mobilfunkanbieter keine öffentliche IP zuweisen (CG-NAT).\n- Die Mobility Cloud bietet zusätzlich **GPS-Tracking, zentrale Logs und Benachrichtigungen** – ideal für industrielle oder entfernte Standorte.\n\n---\n**Frage:** Möchten Sie eine Schritt-für-Schritt-Anleitung für die Adoption in der Mobility Cloud oder haben Sie bereits ein Abo und benötigen Hilfe bei der Einrichtung?",
+    "contentChunks": [
+      {
+        "id": "chAS6wpHa",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1779437555513,
+        "success": true,
+        "toolType": "rag",
+        "startTime": 1779437553439,
+        "integration": {
+          "id": "0197c6dd-d5e6-73a2-b66a-1c8cd86fb073",
+          "name": "web_search",
+          "type": "eolienne",
+          "owner_id": null
+        },
+        "publicResult": {
+          "images": []
+        },
+        "isInterrupted": false,
+        "publicArguments": "Ubiquiti UMR-INDUSTRIAL Remote-Konfiguration Anleitung 2026",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Um den Ubiquiti UMR-INDUSTRIAL (4G LTE Mobile Router) remote zu konfigurieren, gibt es zwei Hauptmöglichkeiten:\n\n### 1. **Über die Ubiquiti Mobility Cloud (empfohlen für Remote-Zugriff)**\n- Der UMR-INDUSTRIAL kann in die **UniFi Mobility Cloud** (mobility.ui.com) eingebunden werden. Dadurch können Sie das Gerät von überall aus über eine webbasierte Oberfläche verwalten.\n- **Schritte:**\n  1. Registrieren Sie sich auf [mobility.ui.com](https://mobility.ui.com) und wählen Sie ein Abo (z. B. 2 €/Monat oder 19 €/Jahr pro Router).\n  2. Verbinden Sie den UMR-INDUSTRIAL mit dem Internet (z. B. über eine SIM-Karte).\n  3. Adoptieren Sie das Gerät in der Mobility Cloud über den dortigen Assistenten (meist per QR-Code oder Seriennummer).\n  4. Nach der Adoption können Sie alle Einstellungen (APN, WLAN, Firewall, VPN etc.) remote vornehmen",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          4,
+          8
+        ]
+      },
+      {
+        "text": ".\n\n### 2. **Lokale Konfiguration mit späterem Remote-Zugriff**\n- Falls Sie keinen Cloud-Zugriff nutzen möchten, können Sie den Router zunächst lokal konfigurieren:\n  1. Verbinden Sie einen PC/Laptop per Ethernet oder WLAN mit dem UMR-INDUSTRIAL.\n  2. Melden Sie sich im **Local Portal** an (Standard-Passwort: „ui“ oder auf dem Gerät aufgedruckt).\n  3. Konfigurieren Sie hier die Grundeinstellungen (APN, WLAN, etc.).\n  4. Für Remote-Zugriff ohne Cloud können Sie einen **VPN-Tunnel** (z. B. Site-to-Site VPN) zum Router aufbauen oder eine **Portweiterleitung** einrichten – allerdings ist dies bei vielen Mobilfunkanbietern (wegen CG-NAT) nicht möglich",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          4,
+          3
+        ]
+      },
+      {
+        "text": ".\n\n---\n### Wichtig:\n- **Ohne Mobility Cloud-Abo** ist der Remote-Zugriff stark eingeschränkt, da viele Mobilfunkanbieter keine öffentliche IP zuweisen (CG-NAT).\n- Die Mobility Cloud bietet zusätzlich **GPS-Tracking, zentrale Logs und Benachrichtigungen** – ideal für industrielle oder entfernte Standorte",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          8,
+          11
+        ]
+      },
+      {
+        "text": ".\n\n---\n**Frage:** Möchten Sie eine Schritt-für-Schritt-Anleitung für die Adoption in der Mobility Cloud oder haben Sie bereits ein Abo und benötigen Hilfe bei der Einrichtung?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-05-22T08:12:31.819Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "f5b8365e-62d1-4028-81eb-443c918ad56e",
+    "version": 0,
+    "chatId": "ed80b50d-d44f-483c-89ca-9a8aefc1019f",
+    "content": "wie kann ich einen UbiQuiti WLAN-Router Mobile Router Ultra, UMR-INDUSTRIAL, 4G, bis 150 Mbit/s LTE, 300 Mbit/s, Wi-Fi 4, MU-MIMO von remote konfigurieren ?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-05-22T08:12:30.385Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": true
+    },
+    "canvas": [],
+    "files": []
+  }
+]

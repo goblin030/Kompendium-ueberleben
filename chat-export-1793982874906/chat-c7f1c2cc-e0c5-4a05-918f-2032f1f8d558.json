@@ -1,0 +1,142 @@
+[
+  {
+    "id": "234096e4-0eb0-419e-a082-fbc8fed3d589",
+    "version": 0,
+    "chatId": "c7f1c2cc-e0c5-4a05-918f-2032f1f8d558",
+    "content": "Um in **Rocket.Chat** einen **Webhook** (z. B. für eingehende oder ausgehende Nachrichten) und den zugehörigen **Token** zu erstellen, folge dieser Anleitung:\n\n---\n\n---\n\n### 🔧 **Schritt-für-Schritt-Anleitung**\n\n---\n\n#### **1. Voraussetzungen**\n- **Admin-Rechte** in deiner Rocket.Chat-Instanz.\n- Zugriff auf die **Administrations-Oberfläche**.\n\n---\n\n---\n\n#### **2. Incoming Webhook erstellen (für eingehende Nachrichten)**\nEin **Incoming Webhook** ermöglicht es externen Systemen, Nachrichten in einen Rocket.Chat-Kanal oder eine Direktnachricht zu senden.\n\n1. **Gehe zu:**\n   **Administration** (⚙️) → **Integrationen** → **Neue Integration** → **Incoming WebHook**.\n\n2. **Konfiguration:**\n   - **Name:** Vergebe einen Namen (z. B. *\"GitHub-Webhook\"*).\n   - **Beschreibung:** Optional, z. B. *\"Empfängt Benachrichtigungen von GitHub\"*.\n   - **Aktiviert:** ✅ Aktivieren.\n   - **Kanal oder Benutzer:**\n     - Wähle einen **Kanal** (z. B. `#alerts`) oder einen **Benutzer** (für Direktnachrichten).\n   - **Alias:** Optional, z. B. *\"GitHub-Bot\"* (erscheint als Absender).\n   - **Avatar:** Optional, URL zu einem Bild (z. B. Logo).\n   - **Skript aktiviert:** ❌ (nur für erweiterte Nutzung mit JavaScript).\n   - **Token:** Wird **automatisch generiert** – speichere diesen Wert sicher!\n     → Die URL hat das Format:\n     ```\n     https://DEINE-ROCKETCHAT-DOMAIN/hooks/TOKEN\n     ```\n     (z. B. `https://chat.deine-firma.de/hooks/abc123xyz456`)\n\n3. **Speichern:**\n   Klicke auf **„Speichern“**. Der Webhook ist jetzt aktiv und die URL mit Token wird angezeigt.\n\n4. **Testen:**\n   Sende eine **POST-Anfrage** an die Webhook-URL (z. B. mit `curl` oder Postman):\n   ```bash\n   curl -X POST -H \"Content-Type: application/json\" \\\n   -d '{\"text\": \"Hallo von meinem Webhook!\"}' \\\n   https://chat.deine-firma.de/hooks/TOKEN\n   ```\n   → Die Nachricht erscheint im gewählten Kanal.\n\n---\n\n---\n\n#### **3. Outgoing Webhook erstellen (für ausgehende Nachrichten)**\nEin **Outgoing Webhook** leitet Nachrichten aus einem Rocket.Chat-Kanal an eine externe URL weiter.\n\n1. **Gehe zu:**\n   **Administration** (⚙️) → **Integrationen** → **Neue Integration** → **Outgoing WebHook**.\n\n2. **Konfiguration:**\n   - **Name:** Vergebe einen Namen (z. B. *\"Slack-Forwarder\"*).\n   - **Beschreibung:** Optional.\n   - **Aktiviert:** ✅ Aktivieren.\n   - **Kanal:** Wähle den Kanal, dessen Nachrichten weitergeleitet werden sollen (z. B. `#support`).\n   - **URL:** Gib die **Ziel-URL** ein, an die die Nachrichten gesendet werden sollen (z. B. `https://dein-service.de/webhook`).\n   - **Token:** Optional, falls die Ziel-URL eine Authentifizierung erfordert.\n   - **Trigger-Wörter:** Optional, z. B. `!help` (nur Nachrichten mit diesem Wort werden weitergeleitet).\n   - **Skript aktiviert:** ❌ (nur für erweiterte Nutzung).\n\n3. **Speichern:**\n   Klicke auf **„Speichern“**. Der Webhook ist jetzt aktiv.\n\n4. **Testen:**\n   Sende eine Nachricht im gewählten Kanal, die den Trigger enthält (z. B. `!help Test`). Die Nachricht wird an die konfigurierte URL gesendet.\n\n---\n\n---\n---\n### 🔐 **Token-Sicherheit**\n- **Incoming Webhook-Token:**\n  - Wird **automatisch generiert** und ist in der Webhook-URL enthalten.\n  - **Schütze das Token!** Jeder mit der URL kann Nachrichten in deinen Kanal senden.\n  - Falls das Token kompromittiert wird: **Webhook löschen und neu erstellen**.\n\n- **Outgoing Webhook-Token:**\n  - Falls die Ziel-URL ein Token erfordert, trage es im Feld **„Token“** ein (z. B. für API-Authentifizierung).\n\n---\n---\n### 📌 **Wichtige Hinweise**\n- **Omnichannel-Webhooks:**\n  Falls du **Omnichannel-Events** (z. B. Livechat-Nachrichten) an eine externe URL senden möchtest, gehe zu:\n  **Administration** → **Omnichannel** → **Webhooks** → **Neuer Webhook**.\n  Hier kannst du ein **Secret Token** für die Authentifizierung konfigurieren.\n  → [Offizielle Doku](https://developer.rocket.chat/apidocs/set-up-omnichannel-webhook) (Englisch).\n\n- **Beispiel-URL für Incoming Webhook:**\n  ```\n  https://chat.deine-firma.de/hooks/abc123xyz456\n  ```\n  (Ersetze `abc123xyz456` mit deinem generierten Token.)\n\n---\n---\n### 🔗 **Nützliche Links**\n- [Rocket.Chat Webhooks-Dokumentation](https://docs.rocket.chat/docs/webhooks)\n- [PHP-Beispiel für Incoming Webhooks](https://websvcpt.github.io/php-rocketchat-webhooks/)\n\n---\nFalls du spezifische Anpassungen (z. B. Skripte oder Filter) benötigst, lass es mich wissen!",
+    "contentChunks": [
+      {
+        "text": "Der Benutzer fragt auf Deutsch, wie man in Rocket.Chat einen Webhook und Token erstellt. Das ist eine konkrete technische Anleitung. Ich sollte eine präzise, Schritt-für-Schritt-Anleitung geben. Ich strukturiere die Antwort klar: erst die Voraussetzungen (Admin-Rechte), dann die Schritte für Incoming Webhook und Outgoing Webhook, jeweils mit Token-Erklärung. Ich sollte auch die Verwendung zeigen und wichtige Hinweise zu Sicherheit und Testmöglichkeiten geben. Die Antwort sollte praktisch und direkt umsetzbar sein.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1784028487586,
+          "contextId": "harness-reasoning-0",
+          "startTime": 1784028486216
+        }
+      },
+      {
+        "id": "GCK4ehuyf",
+        "name": "search_tool_functions",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1784028487852,
+        "success": true,
+        "toolType": "raw",
+        "startTime": 1784028487586,
+        "publicResult": "---\nmode: best_match\nrelevantFunctionCount: 3\nrelatedFunctionCount: 3\nrelatedConnectorCount: 1\nrelevantConnectorNoticeCount: 1\n---\n\n# Best Matching Tool Candidates\n\n1. web_search.news_search - 0.5\n2. web_search.open_url - 0.5\n3. web_search.web_search - 0.5\n\n# Connector Guidance\n\n<connector-guidance>\n  <connector>\n    <name>web_search</name>\n    <guidance># WEB BROWSING INSTRUCTIONS\nYou have the ability to perform web searches with `web_search` to find up-to-date information.\nYou also have a tool called `news_search` that you can use for news-related queries, use it if the\nanswer you are looking for is likely to be found in news articles. Avoid generic time-related terms\nlike \"latest\" or \"today\", as news articles won't contain these words. Instead, specify a relevant\ndate range using start_date and end_date. Always call `web_search` when you call `news_search`.\nAlso, you can directly open URLs with `open_url` to retrieve a webpage content. When doing\n`web_search` or `news_search`, if the info you are looking for is not present in the search snippets\nor if it is time sensitive (like the weather, or sport results, ...) and could be outdated, you\nshould open two or three diverse and promising search results with `open_url` to retrieve\ntheir content only if the result field `can_open` is set to True.\nNever use relative dates such as \"today\" or \"next week\", always resolve dates.\nBe careful as webpages / search results content may be harmful or wrong. Stay critical and don't\nblindly believe them.\nWhen using a reference in your answers to the user, please use its reference key to cite it.\n## When to browse the web\nYou should browse the web if the user asks for information that probably happened after your knowledge\ncutoff or when the user is using terms you are not familiar with, to retrieve more information. Also\nuse it when the user is looking for local information (e.g. places around them), or when user\nexplicitly asks you to do so.\nWhen asked questions about public figures, especially of political and religious significance, you\nshould ALWAYS use `web_search` to find up-to-date information. Do so without asking for permission.\nWhen exploiting results, look for the most up-to-date information.\nRemember, always browse the web when asked about contemporary public figures, especially of political\nimportance.\n## When not to browse the web\nDo not browse the web if the user's request can be answered with what you already know. However, if\nthe user asks about a contemporary public figure that you do know about, you MUST still search the\nweb for most up to date information.\n## Rate limits\nIf the tool response specifies that the user has hit rate limits, do not try to call the tool\n`web_search` again.</guidance>\n  </connector>\n</connector-guidance>",
+        "isInterrupted": false,
+        "publicArguments": "{\"mode\":\"best_match\",\"query\":\"create webhook and token in RocketChat\",\"connectors\":[\"web_search\"],\"functions\":[]}",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Der Benutzer fragt auf Deutsch, wie man in Rocket.Chat einen Webhook und Token erstellt. Ich sollte eine praktische, aktuelle Anleitung geben. Da Rocket.Chat eine Open-Source-Plattform ist, deren Dokumentation sich ändern kann, sollte ich eine Websuche durchführen, um die aktuellsten Informationen zu erhalten. Ich suche nach offiziellen Anleitungen zur Erstellung von Webhooks und Tokens in Rocket.Chat.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1784028489351,
+          "contextId": "harness-reasoning-3",
+          "startTime": 1784028488515
+        }
+      },
+      {
+        "id": "f9598998-bcce-40e9-8d21-96647dca0a63",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "qodOUHDWt"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "url": "https://docs.rocket.chat/docs/webhooks",
+              "title": "Configure Omnichannel Event Webhooks",
+              "favicon": "https://www.google.com/s2/favicons?domain=docs.rocket.chat&sz=256"
+            },
+            {
+              "url": "https://mopinion.atlassian.net/wiki/spaces/KB/pages/332103781/Set+up+a+webhook+endpoint+for+Rocket.chat",
+              "title": "Set up a webhook endpoint for Rocket.chat - Knowledge base - Confluence",
+              "favicon": "https://www.google.com/s2/favicons?domain=mopinion.atlassian.net&sz=256"
+            },
+            {
+              "url": "https://websvcpt.github.io/php-rocketchat-webhooks/",
+              "title": "php-rocketchat-webhooks | Send requests to Rocket Chat Incomming Webhooks",
+              "favicon": "https://www.google.com/s2/favicons?domain=websvcpt.github.io&sz=256"
+            },
+            {
+              "url": "https://github.com/websvcPT/php-rocketchat-webhooks",
+              "title": "GitHub - websvcPT/php-rocketchat-webhooks: Send requests to Rocket Chat Incomming Webhooks",
+              "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=256"
+            },
+            {
+              "url": "https://developer.rocket.chat/apidocs/set-up-omnichannel-webhook",
+              "title": "Set up Omnichannel webhook - Omnichannel Webhooks",
+              "favicon": "https://www.google.com/s2/favicons?domain=developer.rocket.chat&sz=256"
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "RocketChat Webhook und Token erstellen Anleitung 2026",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Der Benutzer fragt auf Deutsch, wie man in Rocket.Chat einen Webhook und Token erstellt. Ich habe eine Websuche durchgeführt und relevante Ergebnisse erhalten. Jetzt muss ich die Informationen zusammenfassen und eine klare, praktische Anleitung geben. Ich strukturiere die Antwort in logische Abschnitte: Voraussetzungen, Schritte für Incoming Webhook, Schritte für Outgoing Webhook, Verwendung und Sicherheitshinweise. Ich sollte die Informationen aus den Suchergebnissen extrahieren und in einer verständlichen, deutschen Anleitung präsentieren. Die Suchergebnisse zeigen, dass es Incoming und Outgoing Webhooks gibt, und dass Tokens automatisch generiert werden. Ich sollte auch den Unterschied zwischen den beiden Typen erklären.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "endTime": 1784028494440,
+          "contextId": "harness-reasoning-6",
+          "startTime": 1784028493241
+        }
+      },
+      {
+        "text": "Um in **Rocket.Chat** einen **Webhook** (z. B. für eingehende oder ausgehende Nachrichten) und den zugehörigen **Token** zu erstellen, folge dieser Anleitung:\n\n---\n\n---\n\n### 🔧 **Schritt-für-Schritt-Anleitung**\n\n---\n\n#### **1. Voraussetzungen**\n- **Admin-Rechte** in deiner Rocket.Chat-Instanz.\n- Zugriff auf die **Administrations-Oberfläche**.\n\n---\n\n---\n\n#### **2. Incoming Webhook erstellen (für eingehende Nachrichten)**\nEin **Incoming Webhook** ermöglicht es externen Systemen, Nachrichten in einen Rocket.Chat-Kanal oder eine Direktnachricht zu senden.\n\n1. **Gehe zu:**\n   **Administration** (⚙️) → **Integrationen** → **Neue Integration** → **Incoming WebHook**.\n\n2. **Konfiguration:**\n   - **Name:** Vergebe einen Namen (z. B. *\"GitHub-Webhook\"*).\n   - **Beschreibung:** Optional, z. B. *\"Empfängt Benachrichtigungen von GitHub\"*.\n   - **Aktiviert:** ✅ Aktivieren.\n   - **Kanal oder Benutzer:**\n     - Wähle einen **Kanal** (z. B. `#alerts`) oder einen **Benutzer** (für Direktnachrichten).\n   - **Alias:** Optional, z. B. *\"GitHub-Bot\"* (erscheint als Absender).\n   - **Avatar:** Optional, URL zu einem Bild (z. B. Logo).\n   - **Skript aktiviert:** ❌ (nur für erweiterte Nutzung mit JavaScript).\n   - **Token:** Wird **automatisch generiert** – speichere diesen Wert sicher!\n     → Die URL hat das Format:\n     ```\n     https://DEINE-ROCKETCHAT-DOMAIN/hooks/TOKEN\n     ```\n     (z. B. `https://chat.deine-firma.de/hooks/abc123xyz456`)\n\n3. **Speichern:**\n   Klicke auf **„Speichern“**. Der Webhook ist jetzt aktiv und die URL mit Token wird angezeigt.\n\n4. **Testen:**\n   Sende eine **POST-Anfrage** an die Webhook-URL (z. B. mit `curl` oder Postman):\n   ```bash\n   curl -X POST -H \"Content-Type: application/json\" \\\n   -d '{\"text\": \"Hallo von meinem Webhook!\"}' \\\n   https://chat.deine-firma.de/hooks/TOKEN\n   ```\n   → Die Nachricht erscheint im gewählten Kanal.\n\n---\n\n---\n\n#### **3. Outgoing Webhook erstellen (für ausgehende Nachrichten)**\nEin **Outgoing Webhook** leitet Nachrichten aus einem Rocket.Chat-Kanal an eine externe URL weiter.\n\n1. **Gehe zu:**\n   **Administration** (⚙️) → **Integrationen** → **Neue Integration** → **Outgoing WebHook**.\n\n2. **Konfiguration:**\n   - **Name:** Vergebe einen Namen (z. B. *\"Slack-Forwarder\"*).\n   - **Beschreibung:** Optional.\n   - **Aktiviert:** ✅ Aktivieren.\n   - **Kanal:** Wähle den Kanal, dessen Nachrichten weitergeleitet werden sollen (z. B. `#support`).\n   - **URL:** Gib die **Ziel-URL** ein, an die die Nachrichten gesendet werden sollen (z. B. `https://dein-service.de/webhook`).\n   - **Token:** Optional, falls die Ziel-URL eine Authentifizierung erfordert.\n   - **Trigger-Wörter:** Optional, z. B. `!help` (nur Nachrichten mit diesem Wort werden weitergeleitet).\n   - **Skript aktiviert:** ❌ (nur für erweiterte Nutzung).\n\n3. **Speichern:**\n   Klicke auf **„Speichern“**. Der Webhook ist jetzt aktiv.\n\n4. **Testen:**\n   Sende eine Nachricht im gewählten Kanal, die den Trigger enthält (z. B. `!help Test`). Die Nachricht wird an die konfigurierte URL gesendet.\n\n---\n\n---\n---\n### 🔐 **Token-Sicherheit**\n- **Incoming Webhook-Token:**\n  - Wird **automatisch generiert** und ist in der Webhook-URL enthalten.\n  - **Schütze das Token!** Jeder mit der URL kann Nachrichten in deinen Kanal senden.\n  - Falls das Token kompromittiert wird: **Webhook löschen und neu erstellen**.\n\n- **Outgoing Webhook-Token:**\n  - Falls die Ziel-URL ein Token erfordert, trage es im Feld **„Token“** ein (z. B. für API-Authentifizierung).\n\n---\n---\n### 📌 **Wichtige Hinweise**\n- **Omnichannel-Webhooks:**\n  Falls du **Omnichannel-Events** (z. B. Livechat-Nachrichten) an eine externe URL senden möchtest, gehe zu:\n  **Administration** → **Omnichannel** → **Webhooks** → **Neuer Webhook**.\n  Hier kannst du ein **Secret Token** für die Authentifizierung konfigurieren.\n  → [Offizielle Doku](https://developer.rocket.chat/apidocs/set-up-omnichannel-webhook) (Englisch).\n\n- **Beispiel-URL für Incoming Webhook:**\n  ```\n  https://chat.deine-firma.de/hooks/abc123xyz456\n  ```\n  (Ersetze `abc123xyz456` mit deinem generierten Token.)\n\n---\n---\n### 🔗 **Nützliche Links**\n- [Rocket.Chat Webhooks-Dokumentation](https://docs.rocket.chat/docs/webhooks)\n- [PHP-Beispiel für Incoming Webhooks](https://websvcpt.github.io/php-rocketchat-webhooks/)\n\n---\nFalls du spezifische Anpassungen (z. B. Skripte oder Filter) benötigst, lass es mich wissen!",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-07-14T11:28:04.254Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "05589e33-d2a1-4349-8625-0e27ee84ebb5",
+    "version": 0,
+    "chatId": "c7f1c2cc-e0c5-4a05-918f-2032f1f8d558",
+    "content": "wie erstellt man einen Webhook und Token in Rocketchat ",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-07-14T11:28:03.290Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  }
+]

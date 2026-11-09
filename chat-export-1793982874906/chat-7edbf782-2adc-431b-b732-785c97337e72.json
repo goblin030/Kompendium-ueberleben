@@ -1,0 +1,426 @@
+[
+  {
+    "id": "f90a1986-ed53-4d8f-8495-4061c20dd6d8",
+    "version": 0,
+    "chatId": "7edbf782-2adc-431b-b732-785c97337e72",
+    "content": "wo finde ich den Pairing Key meiner Flexoptixs Flexbox v3?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-09-08T12:35:38.357Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "7efda5f2-aa23-458f-9bb4-92802185ae6d",
+    "version": 0,
+    "chatId": "7edbf782-2adc-431b-b732-785c97337e72",
+    "content": "Der **Pairing Key** deiner **Flexoptix Flexbox v3** (auch als FB-03 bekannt) wird in der Regel **nicht direkt auf dem Gerät angezeigt**, sondern ist mit deinem **Flexoptix-Konto** verknüpft. Hier sind die Schritte, um ihn zu finden oder zurückzusetzen:\n\n---\n\n### 🔹 **So findest du den Pairing Key:**\n1. **Flexoptix App öffnen**\n   - Lade die offizielle **[Flexoptix App](https://www.flexoptix.net/en/flexoptix-app/)** (verfügbar für Windows, macOS, iOS und Android).\n   - Melde dich mit deinem **Flexoptix-Konto** an.\n\n2. **Gerät mit der App verbinden**\n   - Schließe deine **Flexbox v3 per USB** an deinen Computer an oder nutze (falls unterstützt) eine **Bluetooth-Verbindung** (für ältere Modelle wie FB-03 ggf. ein **Mobility Pack (FMP)** erforderlich).\n   - Die App sollte das Gerät automatisch erkennen.\n\n3. **Pairing Key anzeigen**\n   - In der App findest du unter **\"Geräteverwaltung\"** oder **\"My Devices\"** deinen **Pairing Key**.\n   - Falls das Gerät bereits gepaart ist, wird der Key dort angezeigt.\n\n4. **Falls der Key nicht sichtbar ist:**\n   - **Gerät zurücksetzen**: Halte die **Reset-Taste** (meist ein kleines Loch am Gehäuse) für **10 Sekunden** gedrückt, um die Werkseinstellungen wiederherzustellen.\n     → **Achtung:** Dadurch werden alle Einstellungen gelöscht!\n   - Nach dem Reset musst du das Gerät **neu mit deinem Konto paaren**. Der neue Pairing Key wird dann in der App generiert und angezeigt.\n\n---\n\n### 🔹 **Wichtige Hinweise:**\n- Die **Flexbox v3 (FB-03)** wird von der **Flexoptix App** unterstützt ([Quelle](search-result://4I8n0TMc)).\n- Falls du **kein Konto** hast, musst du dich zunächst auf [flexoptix.net](https://www.flexoptix.net) registrieren.\n- Für **iOS-Nutzer**: Ältere Flexbox-Modelle (wie FB-03) benötigen ein **FLEXOPTIX Mobility Pack (FMP)** für Bluetooth-Verbindungen ([Quelle](search-result://rTKLCzlB)).\n- Der Pairing Key wird **nicht auf dem Gerät selbst** angezeigt, sondern nur in der App oder im Web-Portal.\n\n---\n### 🔹 **Falls du den Key verlierst:**\n- **Support kontaktieren**: Schreibe an **support@flexoptix.net** und gib deine **Geräte-Seriennummer** an.\n- Die Seriennummer findest du auf der **Unterseite der Flexbox** oder in der App unter \"Geräteinfo\".\n\n---\n### 📌 **Zusammenfassung:**\n| Schritt | Aktion |\n|---------|--------|\n| 1 | Flexoptix App installieren und anmelden |\n| 2 | Flexbox v3 per USB anschließen |\n| 3 | In der App unter \"My Devices\" den Pairing Key abrufen |\n| 4 | Falls nicht sichtbar: Gerät zurücksetzen und neu paaren |\n\nFalls du weitere Hilfe brauchst, kannst du auch direkt den **[Flexoptix-Support](https://www.flexoptix.net/en/)** kontaktieren.",
+    "contentChunks": [
+      {
+        "id": "J2rg2U5FZ",
+        "name": "search_tool_functions",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1788870941848,
+        "success": true,
+        "toolType": "raw",
+        "startTime": 1788870941647,
+        "publicResult": "[{\"type\":\"text\",\"text\":\"---\\nmode: best_match\\nrelevantFunctionCount: 7\\nrelatedFunctionCount: 7\\nrelatedConnectorCount: 2\\nrelevantConnectorNoticeCount: 2\\n---\\n\\n# Best Matching Tool Candidates\\n\\n1. ui.renderComponent - 1.8\\n2. web_search.open_url - 1.3\\n3. web_search.web_search - 1.3\\n4. web_search.news_search - 1.2\\n5. web_search.finance_search - 1.2\\n6. web_search.read_resource - 1.2\\n7. web_search.weather_search - 1.1\\n\\n# Connector Guidance\\n\\n<connector-guidance>\\n  <connector>\\n    <name>ui</name>\\n    <status>connected</status>\\n    <guidance>Use the `tools.ui.renderComponent` function from `run_typescript` to render a rich inline UI component in the chat response.\\nBefore calling `tools.ui.renderComponent`, discover it with `search_tool_functions` best_match mode, then load exact details for the returned function and follow its type definition exactly. Do not rely on memory for component names or props.\\nTo show a user-facing connector enablement card, Skill enablement card, or connector rate-limit card, invoke the corresponding sandbox function inside a `run_typescript` call — never as a top-level tool. Example:\\n```ts\\nawait tools.ui.ask_enable_connector({ connectorIds: [\\\"<connector-id>\\\"] });\\n```\\nThe same shape applies to `tools.ui.ask_enable_skill` and `tools.ui.ask_retry_or_continue_rate_limit`. A top-level `ask_enable_connector` / `ask_enable_skill` / `ask_retry_or_continue_rate_limit` tool does not exist and any direct call will error.</guidance>\\n  </connector>\\n  <connector>\\n    <name>web_search</name>\\n    <status>connected</status>\\n    <guidance># WEB BROWSING INSTRUCTIONS\\nYou have the ability to perform web searches with `web_search` to find up-to-date information.\\nYou also have a tool called `news_search` that you can use for news-related queries, use it if the\\nanswer you are looking for is likely to be found in news articles. Avoid generic time-related terms\\nlike \\\"latest\\\" or \\\"today\\\", as news articles won't contain these words. Instead, specify a relevant\\ndate range using start_date and end_date. Always call `web_search` when you call `news_search`.\\nAlso, you can directly open URLs with `open_url` to retrieve a webpage content. When doing\\n`web_search` or `news_search`, if the info you are looking for is not present in the search snippets\\nor if it is time sensitive (like the weather, or sport results, ...) and could be outdated, you\\nshould open two or three diverse and promising search results with `open_url` to retrieve\\ntheir content only if the result field `can_open` is set to True.\\nNever use relative dates such as \\\"today\\\" or \\\"next week\\\", always resolve dates.\\nBe careful as webpages / search results content may be harmful or wrong. Stay critical and don't\\nblindly believe them.\\nWhen using a reference in your answers to the user, please use its reference key to cite it.\\n## When to browse the web\\nYou should browse the web if the user asks for information that probably happened after your knowledge\\ncutoff or when the user is using terms you are not familiar with, to retrieve more information. Also\\nuse it when the user is looking for local information (e.g. places around them), or when user\\nexplicitly asks you to do so.\\nWhen asked questions about public figures, especially of political and religious significance, you\\nshould ALWAYS use `web_search` to find up-to-date information. Do so without asking for permission.\\nWhen exploiting results, look for the most up-to-date information.\\nRemember, always browse the web when asked about contemporary public figures, especially of political\\nimportance.\\n## When not to browse the web\\nDo not browse the web if the user's request can be answered with what you already know. However, if\\nthe user asks about a contemporary public figure that you do know about, you MUST still search the\\nweb for most up to date information.\\n## Rate limits\\nIf the tool response specifies that the user has hit rate limits, do not try to call the tool\\n`web_search` again.\\nThis connector exposes resources by URI. Use `tools.web_search.read_resource({ uri })` only with the exact resource URI emitted by this connector. Ordinary HTTP(S) URLs must use `tools.web_search.open_url`. Search/news reference IDs must be cited or otherwise used as references, not passed to `read_resource`. After an `Unknown resource` or `Invalid request parameters` error, do not retry with guessed or transformed URIs.</guidance>\\n  </connector>\\n</connector-guidance>\"}]",
+        "isInterrupted": false,
+        "publicArguments": "{\"mode\":\"best_match\",\"query\":\"Flexoptix Flexbox v3 Pairing Key finden Anleitung\"}",
+        "requiresConfirmation": false
+      },
+      {
+        "id": "typescript:5:hvF9gW0J9:0:tool:0",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "hvF9gW0J9"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "id": "OPtKDnxV",
+              "url": "https://www.flexoptix.net/en/flexoptix-app/",
+              "title": "GET THE LATEST VERSION OF THE FLEXOPTIX APP!",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.flexoptix.net&sz=256",
+              "description": "Place the following file in it: 99-tprogrammer.rules The file is named &#x27;99-tprogrammer.rules&#x27; (the numbering prefix and the &#x27;.rules&#x27; suffix are essential). The file contains several rules which give the FLEXBOX the necessary privileges."
+            },
+            {
+              "id": "M2S4Uz7r",
+              "url": "https://www.flexoptix.net/en/fo-fb-5.html",
+              "title": "FLEXBOX - Configure Universal Transceivers | SFP, SFP+, SFP28, SFP56, SFP112, SFP-DD, QSFP+, QSFP28, QSFP56, QSFP112, QSFP-DD, OSFP",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.flexoptix.net&sz=256",
+              "description": "We are realy happy with the FLEXBOX, programming FLEXOPTIX universal transceivers works like a charm.Just insert, detect, select and start programming, now we are able to support hundreds off vendors with just a few standard SFP modules.Amazing smart solution!"
+            },
+            {
+              "id": "8ULgYbYe",
+              "url": "https://www.flexoptix.net/en/",
+              "title": "FLEXOPTIX Homepage",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.flexoptix.net&sz=256",
+              "description": "We are using FLEXOPTIX industrial grade transceivers in our control systems for power electronics and converters. The FLEXBOX is an invaluable tool, making it super easy and quick to configure transceivers. Even larger numbers can be configured easily with the batch configure option, just plug them in one after the other and the rest happens automatically."
+            },
+            {
+              "id": "j9e0pcI2",
+              "url": "https://apps.apple.com/us/app/flexoptix-app/id1575382793",
+              "title": "FLEXOPTIX App - App Store - Apple",
+              "favicon": "https://www.google.com/s2/favicons?domain=apps.apple.com&sz=256",
+              "description": "- The feedback form pre-fills your name and email when you are signed in. - Improved pairing flow when adding new FLEXBOX 5 ... 1. Transceiver Lookup has been renamed to Serial Number Lookup, providing more consistent product information and support for additional FLEXOPTIX products."
+            },
+            {
+              "id": "AVU0ce1U",
+              "url": "https://www.flexoptix.net/en/flexoptix-products",
+              "title": "FLEXBOX",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.flexoptix.net&sz=256",
+              "description": "Universal Transceivers that work with nearly every device. ✓SFP+, QSFP+, SFP28, QSFP28, QSFP-DD, OSFP, AOC, DAC, Optical Patch Cables✓ Fast delivery"
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "Flexoptix Flexbox v3 Pairing Key finden Anleitung",
+        "requiresConfirmation": false
+      },
+      {
+        "id": "typescript:7:L2KruYj8N:0:tool:0",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "L2KruYj8N"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "id": "88eFL7zp",
+              "url": "https://www.flexoptix.net/en/flexoptix-app/",
+              "title": "GET THE LATEST VERSION OF THE FLEXOPTIX APP!",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.flexoptix.net&sz=256",
+              "description": "Place the following file in it: 99-tprogrammer.rules The file is named &#x27;99-tprogrammer.rules&#x27; (the numbering prefix and the &#x27;.rules&#x27; suffix are essential). The file contains several rules which give the FLEXBOX the necessary privileges."
+            },
+            {
+              "id": "qi4DYMYN",
+              "url": "https://www.flexoptix.net/en/",
+              "title": "FLEXOPTIX Homepage",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.flexoptix.net&sz=256",
+              "description": "We are using FLEXOPTIX industrial grade transceivers in our control systems for power electronics and converters. The FLEXBOX is an invaluable tool, making it super easy and quick to configure transceivers. Even larger numbers can be configured easily with the batch configure option, just plug them in one after the other and the rest happens automatically."
+            },
+            {
+              "id": "b1iYS9c9",
+              "url": "https://www.flexoptix.net/en/flexoptix-products",
+              "title": "FLEXBOX",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.flexoptix.net&sz=256",
+              "description": "Universal Transceivers that work with nearly every device. ✓SFP+, QSFP+, SFP28, QSFP28, QSFP-DD, OSFP, AOC, DAC, Optical Patch Cables✓ Fast delivery"
+            },
+            {
+              "id": "6mgTSnFW",
+              "url": "https://apps.apple.com/us/app/flexoptix-app/id1575382793",
+              "title": "FLEXOPTIX App - App Store - Apple",
+              "favicon": "https://www.google.com/s2/favicons?domain=apps.apple.com&sz=256",
+              "description": "- The feedback form pre-fills your name and email when you are signed in. - Improved pairing flow when adding new FLEXBOX 5 ... 1. Transceiver Lookup has been renamed to Serial Number Lookup, providing more consistent product information and support for additional FLEXOPTIX products."
+            },
+            {
+              "id": "SJiqF68j",
+              "url": "https://www.flexoptix.net/en/fo-fb-5.html",
+              "title": "FLEXBOX - Configure Universal Transceivers | SFP, SFP+, SFP28, SFP56, SFP112, SFP-DD, QSFP+, QSFP28, QSFP56, QSFP112, QSFP-DD, OSFP",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.flexoptix.net&sz=256",
+              "description": "We are realy happy with the FLEXBOX, programming FLEXOPTIX universal transceivers works like a charm.Just insert, detect, select and start programming, now we are able to support hundreds off vendors with just a few standard SFP modules.Amazing smart solution!"
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "Flexoptix Flexbox v3 Pairing Key anzeigen oder finden Handbuch",
+        "requiresConfirmation": false
+      },
+      {
+        "id": "typescript:9:VwKnij1wa:0:tool:0",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "VwKnij1wa"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "id": "PbmntexQ",
+              "url": "https://www.flexoptix.net/en/flexoptix-app/",
+              "title": "GET THE LATEST VERSION OF THE FLEXOPTIX APP!",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.flexoptix.net&sz=256",
+              "description": "The FLEXOPTIX App supports FLEXBOX models: FB-02, FB-03, FO.FB.V4 and FO.FB.5."
+            },
+            {
+              "id": "2LY1X70o",
+              "url": "https://www.flexoptix.net/en/fo-fb-5.html",
+              "title": "FLEXBOX - Configure Universal Transceivers | SFP, SFP+, SFP28, SFP56, SFP112, SFP-DD, QSFP+, QSFP28, QSFP56, QSFP112, QSFP-DD, OSFP",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.flexoptix.net&sz=256",
+              "description": "We are realy happy with the FLEXBOX, programming FLEXOPTIX universal transceivers works like a charm.Just insert, detect, select and start programming, now we are able to support hundreds off vendors with just a few standard SFP modules.Amazing smart solution!"
+            },
+            {
+              "id": "VTj6vq69",
+              "url": "https://www.flexoptix.net/en/flexoptix-products",
+              "title": "FLEXBOX",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.flexoptix.net&sz=256",
+              "description": "Universal Transceivers that work with nearly every device. ✓SFP+, QSFP+, SFP28, QSFP28, QSFP-DD, OSFP, AOC, DAC, Optical Patch Cables✓ Fast delivery"
+            },
+            {
+              "id": "NwlRodQl",
+              "url": "https://www.flexoptix.net/en/",
+              "title": "FLEXOPTIX Homepage",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.flexoptix.net&sz=256",
+              "description": "We are using FLEXOPTIX industrial grade transceivers in our control systems for power electronics and converters. The FLEXBOX is an invaluable tool, making it super easy and quick to configure transceivers. Even larger numbers can be configured easily with the batch configure option, just plug them in one after the other and the rest happens automatically."
+            },
+            {
+              "id": "IfmMVX6Q",
+              "url": "https://www.flexoptix.net/media/wysiwyg/manuals/Manual_Flexoptix_T.C12.RS232I.pdf",
+              "title": "All information is provided without warranty. Flexoptix GmbH",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.flexoptix.net&sz=256",
+              "description": "Configure the T.C12.RS232I with the Flexbox to one of the compatibilities available."
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "Flexoptix Flexbox v3 Pairing Key Handbuch PDF oder Anleitung",
+        "requiresConfirmation": false
+      },
+      {
+        "id": "typescript:11:NcJChptry:0:tool:0",
+        "name": "open_url",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "NcJChptry"
+        },
+        "success": true,
+        "toolType": "raw",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": "{\"url\":\"https://www.flexoptix.net/media/wysiwyg/manuals/Manual_Flexoptix_T.C12.RS232I.pdf\",\"content\":\"All information is provided without warranty. Flexoptix GmbH \\nreserves the right to make specification changes or discontinue \\nproducts without explicit notice. Product illustrations are for \\nillustrative purposes only and may differ from the actual product. \\n \\nLaser Protection: This transceiver is a Class 1 laser product. \\nCompliant with IEC-60825, FDA 21CFR1040.10 & FDA \\n21CFR1040.11 2013, Flexoptix GmbH. \\n \\nT.C12.RS232I \\nIndustrial SFP Serial to IP Converter \\n \\nInhalt \\n1. Description ................................................................................................................................................. 2 \\n2. Ordering Information ................................................................................................................................. 2 \\n3. Applications ................................................................................................................................................ 2 \\n4. Web Interface Configuration .................................................................................................................... 7 \\n5. Telnet CLI Command Structure ............................................................................................................... 8 \\n6. Connector & Pin Description ................................................................................................................... 9 \\n7. Switch Position Description ..................................................................................................................... 9 \\n8. Technical Specification ........................................................................................................................... 10 \\n9. Connection ................................................................................................................................................ 11\\n\\nAll information is provided without warranty. Flexoptix GmbH \\nreserves the right to make specification changes or discontinue \\nproducts without explicit notice. Product illustrations are for \\nillustrative purposes only and may differ from the actual product. \\n \\nLaser Protection: This transceiver is a Class 1 laser product. \\nCompliant with IEC-60825, FDA 21CFR1040.10 & FDA \\n21CFR1040.11 2013, Flexoptix GmbH. \\n \\n \\nRevision \\nDate \\n1.0 \\n04.09.2023 \\n \\n1. Description \\nThe new T.C12.RS232I low power industrial SFP (Small Form-factor Pluggable) module is a Serial \\nInterface (RS-232/485/422) to IP (Ethernet) data converter. The T.C12.RS232I can be plugged into any \\nEthernet device with SFP ports that support 100BASE-FX and/or 1000BASE-X. The configuration is \\npossible by Web or Telnet access. For security reasons, the web and telnet access can be set to write-\\nprotected using the switch on the SFP module. \\nSerial data transmission can be done using UDP or TCP protocols. The SFP module is fully compatible \\nto 3rd-Party COM-Servers. You can use the SFP module for COM Port Extenders and Virtual Serial \\nPorts. \\n2. Ordering Information \\nTable 1. Ordering Information \\nPart Number \\nDescription \\nT.C12.RS232I \\nIndustrial SFP Serial to IP Converter, \\nRS-232 or RS485/422100BASE-FX / 1000BASE-X,  \\n-40°C to 85°C \\n \\n3. Applications \\nSerial data transmission can be done using UDP or TCP protocols. The UDP protocol allows operating \\nin both Point-To-Point (PTP) and Point-To-MultiPoint (PTMP) modes. Point-To-MultiPoint mode allows \\nto set up several broadcasting nodes and to build a broadcast configuration. The TCP/IP protocol allows \\nonly working in Point-To-Point mode.\\n\\nAll information is provided without warranty. Flexoptix GmbH \\nreserves the right to make specification changes or discontinue \\nproducts without explicit notice. Product illustrations are for \\nillustrative purposes only and may differ from the actual product. \\n \\nLaser Protection: This transceiver is a Class 1 laser product. \\nCompliant with IEC-60825, FDA 21CFR1040.10 & FDA \\n21CFR1040.11 2013, Flexoptix GmbH. \\n \\nSerial to IP Converter Mode \\n \\n \\nIn this mode one serial data endpoint should be configured with the opposite IP Adress from your remote \\ncomputer. For more information regarding configuration – see 8.1 “Connect via IP” \\n \\n \\nUDP Point-To-Point \\n \\nIn this mode two serial data endpoints should be configured with each other's IP Address and PORT \\nNumber as illustrated on following picture. It means one side with IP_Address1:PORT_Number1 sends \\ndata to the other side with IP_Adress2:PORT_Number2 and vice versa. \\n \\n \\nFigure 1: Serial Data Transmission with UDP Point-To-Point\\n\\nAll information is provided without warranty. Flexoptix GmbH \\nreserves the right to make specification changes or discontinue \\nproducts without explicit notice. Product illustrations are for \\nillustrative purposes only and may differ from the actual product. \\n \\nLaser Protection: This transceiver is a Class 1 laser product. \\nCompliant with IEC-60825, FDA 21CFR1040.10 & FDA \\n21CFR1040.11 2013, Flexoptix GmbH. \\n \\nUDP Point-To-MultiPoint \\n \\nIn Point-To-MultiPoint mode the endpoint (“Master”) should have configured to send serial data with a \\nmulticast IP Address (IPM) and some PORT Number (PORTM) as outgoing address. Outgoing data of \\nsuch an endpoint will reach all other endpoints. Endpoints with input PORT Number PORTM will accept \\nreceived data and other endpoints will discard it. \\nNon broadcasting endpoints should be configured as they work with “Master” endpoint in Point-to-Point \\nmode with incoming PORT Number set to PORTM. \\nAny multicast address acceptable in the application network can be used. Endpoints distinguish incoming \\nbroadcast data by destination PORT Number (PORTM). Multicast addresses are IP Addresses in range \\nfrom 224.0.0.0 to 239.255.255.255. \\n \\n \\nFigure 2: Serial Data Transmission with UDP Point-To-MultiPoint\\n\\nAll information is provided without warranty. Flexoptix GmbH \\nreserves the right to make specification changes or discontinue \\nproducts without explicit notice. Product illustrations are for \\nillustrative purposes only and may differ from the actual product. \\n \\nLaser Protection: This transceiver is a Class 1 laser product. \\nCompliant with IEC-60825, FDA 21CFR1040.10 & FDA \\n21CFR1040.11 2013, Flexoptix GmbH. \\n \\nUDP Broadcast Mode \\n \\nIn this mode the endpoints should be configured to send their serial data to the multicast IP Address \\n(IPM). Incoming and outgoing PORT Number (PORTM) should be the same for all endpoints to receive \\neach other's serial data. \\n \\n \\nFigure 3: Serial Data Transmission with UDP Broadcast\\n\\nAll information is provided without warranty. Flexoptix GmbH \\nreserves the right to make specification changes or discontinue \\nproducts without explicit notice. Product illustrations are for \\nillustrative purposes only and may differ from the actual product. \\n \\nLaser Protection: This transceiver is a Class 1 laser product. \\nCompliant with IEC-60825, FDA 21CFR1040.10 & FDA \\n21CFR1040.11 2013, Flexoptix GmbH. \\n \\nTCP Point-To-Point \\n \\nIn this mode one serial data endpoint should be configured as Server and the other as Client. Client \\nconfiguration is the same as UDP endpoint. On the Server endpoint the Client IP Address and incoming \\nPORT Number should be specified. \\n \\n \\nFigure 4: Serial Data Transmission with TCP Point-To-Point\\n\\nAll information is provided without warranty. Flexoptix GmbH \\nreserves the right to make specification changes or discontinue \\nproducts without explicit notice. Product illustrations are for \\nillustrative purposes only and may differ from the actual product. \\n \\nLaser Protection: This transceiver is a Class 1 laser product. \\nCompliant with IEC-60825, FDA 21CFR1040.10 & FDA \\n21CFR1040.11 2013, Flexoptix GmbH. \\n \\n4. Web Interface Configuration\\n\\nAll information is provided without warranty. Flexoptix GmbH \\nreserves the right to make specification changes or discontinue \\nproducts without explicit notice. Product illustrations are for \\nillustrative purposes only and may differ from the actual product. \\n \\nLaser Protection: This transceiver is a Class 1 laser product. \\nCompliant with IEC-60825, FDA 21CFR1040.10 & FDA \\n21CFR1040.11 2013, Flexoptix GmbH. \\n \\n \\n5. Telnet CLI Command Structure \\nThe command structure is according to ITU-T Rec. M.3400 (Telecommunication Management \\nNetworks). Please see the Help for the command descriptions in the CLI or the COMMAND \\nREFERENCE Menu in the WEB interface for further information. \\nMain Menu \\nPM \\nPerformance \\nmanagement \\nFMM \\nFault and maintenance \\nmanagement \\nCM \\nConfiguration \\nmanagement\\nSFPVIEW\\nETHSD\\n \\nRESET \\nFC \\n \\nRSIPSTATRESET \\nGATEWAY \\n \\nSERNUM \\nNETCONFIG \\n \\nSOFTUPDATE \\nNETMASK \\nSOFTINFO\\nSETIP\\nSTATUS\\nTFTPIP\\nTFTP SOFTUPDATE\\nTFTP RETRIES\\nM(AIN)\\nTFTP TIMEOUT\\nH(ELP)\\nTFTP FILEPATH\\nTELNET ON/OFF\\nHTTP ON/OFF\\nRSIP\\nRS 232/485\\nRSRATE\\nRSFORMAT\\nRSDUPLEX (only if 485 Mode)\\nRSTERM (only if 485 Mode)\\nSOFTSELECT 1/2\\nFACTORY DEFAULT\\nAPPLY\\nM(AIN)\\nH(ELP)\\n\\nAll information is provided without warranty. Flexoptix GmbH \\nreserves the right to make specification changes or discontinue \\nproducts without explicit notice. Product illustrations are for \\nillustrative purposes only and may differ from the actual product. \\n \\nLaser Protection: This transceiver is a Class 1 laser product. \\nCompliant with IEC-60825, FDA 21CFR1040.10 & FDA \\n21CFR1040.11 2013, Flexoptix GmbH. \\n \\n6. Connector & Pin Description \\nTable 2. Serial Connector & Pin Description \\nRJ45 \\n \\nRS232 \\nRS485 \\nRS485 \\nPin No.\\nIO \\nDescription \\n(EIA TIA 56)\\nIO \\nDescription \\nFull Duplex \\nIO \\nDescription\\nHalf Duplex\\n \\n \\n1 \\n \\n \\n \\n \\n \\n \\n2 \\n \\n \\n \\n \\n \\n \\n3 \\n \\n \\n \\n \\n \\n \\n4 \\n \\nGND \\n \\nGND \\n \\nGND \\n5 \\nOutput\\nRxD \\nOutput\\nRx- (neg) \\nIn/Out\\nDx- (neg) \\n6 \\nInput \\nTxD \\nInput \\nTx+ (pos)  \\n \\n \\n7 \\nOutput\\nCTS \\nOutput\\nRx+ (pos)  \\nIn/Out\\nDx+ (pos) \\n8 \\nInput \\nRTS \\nInput \\nTx- (neg) \\n \\n \\n \\n7. Switch Position Description \\nTable 3. Possible Switch Positions \\nSwitch Positions \\nLeft \\nCenter \\nRight \\n \\n \\n \\nFactory Default \\nManagement \\nBlocking \\nNormal Mode \\n(default setup) \\n \\nNormal Mode \\nThe unit works in standard mode. \\nManagement Blocking \\nIt’s only possible to read out values in the CLI and/or WEB interface.  \\n(write protected) \\nFactory Default \\n \\nDuring start-up the unit will be setup to its default values ANYTIME. \\nSetup the switch to Normal or Management Blocking position after Factory-\\nDefault start-up.\\n\\nAll information is provided without warranty. Flexoptix GmbH \\nreserves the right to make specification changes or discontinue \\nproducts without explicit notice. Product illustrations are for \\nillustrative purposes only and may differ from the actual product. \\n \\nLaser Protection: This transceiver is a Class 1 laser product. \\nCompliant with IEC-60825, FDA 21CFR1040.10 & FDA \\n21CFR1040.11 2013, Flexoptix GmbH. \\n \\n8. Technical Specification \\nTable 4. SFP Host Interface \\nSFP Host Connector Power (MSA Compliant) \\nParameter \\nSymbol \\nMin \\nTypical \\nMax \\nUnit \\nNote \\nInput Voltage \\nVcc \\n3.135 \\n3.3 \\n3.465 \\nV DC \\n \\nInput Current \\nIcc \\n \\n120 \\n140 \\nmA \\n \\n \\nSFP Host Connector Data (MSA Compliant) \\nParameter \\nSymbol \\nMin \\nTypical \\nMax \\nUnit \\nNote \\nData Rate \\nTD/RD \\n \\n100 \\n \\nMbps \\n100Base-FX \\nData Rate \\nTD/RD \\n \\n1000 \\n \\nMbps \\n1000Base-X \\n \\nTable 5. SFP Converter Interface \\nSerial RS-232/485/422 Interface \\nStandard \\nITU-T Rec RS-232/V28 or RS485/422 \\nBit Rate RS-232/485/422 (bps) \\n75, 150, 200, 300, 600, 1200, 2400, 4800, 9600, 14400, 19200, \\n28800, 38400, 56000, 57600,115200, 128000, 230400, 256000\\nFormat RS-232/485/422 \\nBits: 5…8 \\nStop bits: 1 or 2 \\nParity: none / even / odd \\n \\nTable 6. Environment \\nOperating Conditions \\nParameter \\nSymbol \\nMin \\nTypical \\nMax \\nUnit \\nNote \\nStorage \\nTemperature \\nTs \\n-40 \\n \\n+85 \\n°C \\n \\nOperating \\nTemperature \\nTo \\n-40 \\n \\n+85 \\n°C \\n \\nRelative \\nHumidity \\nRH \\n5 \\n \\n95 \\n% \\nnon-condensing\\n\\nAll information is provided without warranty. Flexoptix GmbH \\nreserves the right to make specification changes or discontinue \\nproducts without explicit notice. Product illustrations are for \\nillustrative purposes only and may differ from the actual product. \\n \\nLaser Protection: This transceiver is a Class 1 laser product. \\nCompliant with IEC-60825, FDA 21CFR1040.10 & FDA \\n21CFR1040.11 2013, Flexoptix GmbH. \\n \\n9. Connection \\nConfigure the T.C12.RS232I with the Flexbox to one of the compatibilities available. Plug it into one of \\nthe SFP ports and wait for the port to come up. \\nOpen your local internet browser and connect to the WEB interface by typing in the IP address of the \\nT.C12.RS232I module. \\n \\nThe default IP settings are: \\nIP address: 192.168.0.1 \\nSubnet mask: 255.255.255.0 \\nGateway: 192.168.0.254 \\nTFTP-Server IP: 192.168.0.2 \\n \\nNote: You can change the default settings in the WEB Interface \\n \\nGo to the “CONFIGURATION” page and adjust the settings under the “RS<->IP” section. \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\nSet your local computer IP Address as Remote-IP \\n \\nSet Signaling to \\\"local\\\" \\n \\nUse \\\"Local Port\\\" for your IP connection\\n\\nAll information is provided without warranty. Flexoptix GmbH \\nreserves the right to make specification changes or discontinue \\nproducts without explicit notice. Product illustrations are for \\nillustrative purposes only and may differ from the actual product. \\n \\nLaser Protection: This transceiver is a Class 1 laser product. \\nCompliant with IEC-60825, FDA 21CFR1040.10 & FDA \\n21CFR1040.11 2013, Flexoptix GmbH. \\n \\n \\n9.1. Connect via IP \\n \\nTo connect via IP open PuTTY. Go to “Session” and change the IP Adress and Port to the default \\nsettings or to the values if you changed them in the WEB interface. \\nSet the “Connection type” to “Other → SUPDUP”\\n\\nAll information is provided without warranty. Flexoptix GmbH \\nreserves the right to make specification changes or discontinue \\nproducts without explicit notice. Product illustrations are for \\nillustrative purposes only and may differ from the actual product. \\n \\nLaser Protection: This transceiver is a Class 1 laser product. \\nCompliant with IEC-60825, FDA 21CFR1040.10 & FDA \\n21CFR1040.11 2013, Flexoptix GmbH. \\n \\n \\n9.2. Connect via Virtual Com Port and open a Serial Console \\nTo establish a connection over a virtual Com Port, please download and isntall HW Virtual Serial Port - \\nHW VSP3 Software. \\n \\nhttps://www.hw-group.com/software/hw-vsp3-virtual-serial-port \\n \\nOpen the Software and klick on “Login”. Confirm the password, which is by default “admin” and \\nautomatically written into the dialogue window. \\n \\n \\nYou can now adjust the settings for your virtual COM-Port and when you are finished, klick “Create COM”.\\n\\nAll information is provided without warranty. Flexoptix GmbH \\nreserves the right to make specification changes or discontinue \\nproducts without explicit notice. Product illustrations are for \\nillustrative purposes only and may differ from the actual product. \\n \\nLaser Protection: This transceiver is a Class 1 laser product. \\nCompliant with IEC-60825, FDA 21CFR1040.10 & FDA \\n21CFR1040.11 2013, Flexoptix GmbH. \\n \\n  \\n \\nNow open PuTTY and open the “Session” tab. Set the “Connection type” to “Serial → [COM-Port]” \\nadjust the “Speed” to 9600.\\n\\nAll information is provided without warranty. Flexoptix GmbH \\nreserves the right to make specification changes or discontinue \\nproducts without explicit notice. Product illustrations are for \\nillustrative purposes only and may differ from the actual product. \\n \\nLaser Protection: This transceiver is a Class 1 laser product. \\nCompliant with IEC-60825, FDA 21CFR1040.10 & FDA \\n21CFR1040.11 2013, Flexoptix GmbH. \\n \\nYou can check the status of your connection in HW Virtual Serial Port and the WEB Interface of the \\nT.C12.RS232I under the “STATUS” section. \\n \\n \\n \\n \\n \\nFLEXOPTIX GmbH \\nMühltalstr. 153 \\n64297 Darmstadt \\nGERMANY \\nTechnical Questions: support@flexoptix.net\",\"can_open\":true,\"title\":\"Microsoft Word - Manual_Flexoptix_T.C12.RS232I\",\"description\":null,\"date\":\"2023-09-04T14:40:28+02:00\"}",
+        "isInterrupted": false,
+        "publicArguments": "{\"url\":\"https://www.flexoptix.net/media/wysiwyg/manuals/Manual_Flexoptix_T.C12.RS232I.pdf\"}",
+        "requiresConfirmation": false
+      },
+      {
+        "id": "typescript:13:XT5VEXr5i:0:tool:0",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "XT5VEXr5i"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "id": "4I8n0TMc",
+              "url": "https://www.flexoptix.net/en/flexoptix-app/",
+              "title": "GET THE LATEST VERSION OF THE FLEXOPTIX APP!",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.flexoptix.net&sz=256",
+              "description": "The FLEXOPTIX App supports FLEXBOX models: FB-02, FB-03, FO.FB.V4 and FO.FB.5."
+            },
+            {
+              "id": "nYY59FbK",
+              "url": "https://www.flexoptix.net/en/flexoptix-products",
+              "title": "FLEXBOX",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.flexoptix.net&sz=256",
+              "description": "Universal Transceivers that work with nearly every device. ✓SFP+, QSFP+, SFP28, QSFP28, QSFP-DD, OSFP, AOC, DAC, Optical Patch Cables✓ Fast delivery"
+            },
+            {
+              "id": "gtqaQ62Y",
+              "url": "https://www.flexoptix.net/en/",
+              "title": "FLEXOPTIX Homepage",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.flexoptix.net&sz=256",
+              "description": "We are using FLEXOPTIX industrial grade transceivers in our control systems for power electronics and converters. The FLEXBOX is an invaluable tool, making it super easy and quick to configure transceivers. Even larger numbers can be configured easily with the batch configure option, just plug them in one after the other and the rest happens automatically."
+            },
+            {
+              "id": "IvCLq4WT",
+              "url": "https://www.flexoptix.net/en/fo-fb-5.html",
+              "title": "FLEXBOX - Configure Universal Transceivers | SFP, SFP+, SFP28, SFP56, SFP112, SFP-DD, QSFP+, QSFP28, QSFP56, QSFP112, QSFP-DD, OSFP",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.flexoptix.net&sz=256",
+              "description": "We are realy happy with the FLEXBOX, programming FLEXOPTIX universal transceivers works like a charm.Just insert, detect, select and start programming, now we are able to support hundreds off vendors with just a few standard SFP modules.Amazing smart solution!"
+            },
+            {
+              "id": "rTKLCzlB",
+              "url": "https://apps.apple.com/at/app/flexoptix-app/id1575382793",
+              "title": "FLEXOPTIX App‑App – App Store",
+              "favicon": "https://www.google.com/s2/favicons?domain=apps.apple.com&sz=256",
+              "description": "Lade „FLEXOPTIX App“ von Flexoptix GmbH im App Store herunter. Sieh dir Bildschirmfotos, Bewertungen und Rezensionen, Benutzertipps und weitere Apps wie „…"
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "Flexoptix Flexbox v3 Pairing Key Anleitung PDF oder Benutzerhandbuch",
+        "requiresConfirmation": false
+      },
+      {
+        "id": "typescript:15:Mky3BP7wa:0:tool:0",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "parent": {
+          "toolCallId": "Mky3BP7wa"
+        },
+        "success": true,
+        "toolType": "rag",
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "results": [
+            {
+              "id": "1Zn2FHHQ",
+              "url": "https://www.flexoptix.net/en/flexoptix-app/",
+              "title": "GET THE LATEST VERSION OF THE FLEXOPTIX APP!",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.flexoptix.net&sz=256",
+              "description": "The FLEXOPTIX App supports FLEXBOX models: FB-02, FB-03, FO.FB.V4 and FO.FB.5."
+            },
+            {
+              "id": "P8C3Fhpj",
+              "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+              "title": "A Complete Guide to CSS Flexbox | CSS-Tricks",
+              "favicon": "https://www.google.com/s2/favicons?domain=css-tricks.com&sz=256",
+              "description": "Our comprehensive guide to CSS flexbox layout. This complete guide explains everything about flexbox, focusing on all the different possible properties for the parent element (the flex container) and the child elements (the flex items). It also includes history, demos, patterns, and a browser support chart."
+            },
+            {
+              "id": "BbtXWvh7",
+              "url": "https://github.com/google/flexbox-layout",
+              "title": "GitHub - google/flexbox-layout: Flexbox for Android · GitHub",
+              "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=256",
+              "description": "FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android."
+            },
+            {
+              "id": "A26E0epF",
+              "url": "https://www.w3schools.com/css/css3_flexbox.asp",
+              "title": "CSS Flexbox (Flexible Box Layout)",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.w3schools.com&sz=256",
+              "description": "Flexbox is a layout model for arranging items (horizontally or vertically) within a container, in a flexible and responsive way."
+            },
+            {
+              "id": "fJPFnivr",
+              "url": "https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/",
+              "title": "An Interactive Guide to Flexbox in CSS • Josh W. Comeau",
+              "favicon": "https://www.google.com/s2/favicons?domain=www.joshwcomeau.com&sz=256",
+              "description": "Instead, I like to think of CSS as a collection of layout modes. Each layout mode is an algorithm that can implement or redefine each CSS property. We provide an algorithm with our CSS declarations (key/value pairs), and the algorithm decides how to use them."
+            }
+          ]
+        },
+        "isInterrupted": false,
+        "publicArguments": "Flexbox v3 Pairing Key anzeigen oder zurücksetzen Handbuch oder Support",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Der **Pairing Key** deiner **Flexoptix Flexbox v3** (auch als FB-03 bekannt) wird in der Regel **nicht direkt auf dem Gerät angezeigt**, sondern ist mit deinem **Flexoptix-Konto** verknüpft. Hier sind die Schritte, um ihn zu finden oder zurückzusetzen:\n\n---\n\n### 🔹 **So findest du den Pairing Key:**\n1. **Flexoptix App öffnen**\n   - Lade die offizielle **[Flexoptix App](https://www.flexoptix.net/en/flexoptix-app/)** (verfügbar für Windows, macOS, iOS und Android).\n   - Melde dich mit deinem **Flexoptix-Konto** an.\n\n2. **Gerät mit der App verbinden**\n   - Schließe deine **Flexbox v3 per USB** an deinen Computer an oder nutze (falls unterstützt) eine **Bluetooth-Verbindung** (für ältere Modelle wie FB-03 ggf. ein **Mobility Pack (FMP)** erforderlich).\n   - Die App sollte das Gerät automatisch erkennen.\n\n3. **Pairing Key anzeigen**\n   - In der App findest du unter **\"Geräteverwaltung\"** oder **\"My Devices\"** deinen **Pairing Key**.\n   - Falls das Gerät bereits gepaart ist, wird der Key dort angezeigt.\n\n4. **Falls der Key nicht sichtbar ist:**\n   - **Gerät zurücksetzen**: Halte die **Reset-Taste** (meist ein kleines Loch am Gehäuse) für **10 Sekunden** gedrückt, um die Werkseinstellungen wiederherzustellen.\n     → **Achtung:** Dadurch werden alle Einstellungen gelöscht!\n   - Nach dem Reset musst du das Gerät **neu mit deinem Konto paaren**. Der neue Pairing Key wird dann in der App generiert und angezeigt.\n\n---\n\n### 🔹 **Wichtige Hinweise:**\n- Die **Flexbox v3 (FB-03)** wird von der **Flexoptix App** unterstützt ([Quelle](search-result://4I8n0TMc)).\n- Falls du **kein Konto** hast, musst du dich zunächst auf [flexoptix.net](https://www.flexoptix.net) registrieren.\n- Für **iOS-Nutzer**: Ältere Flexbox-Modelle (wie FB-03) benötigen ein **FLEXOPTIX Mobility Pack (FMP)** für Bluetooth-Verbindungen ([Quelle](search-result://rTKLCzlB)).\n- Der Pairing Key wird **nicht auf dem Gerät selbst** angezeigt, sondern nur in der App oder im Web-Portal.\n\n---\n### 🔹 **Falls du den Key verlierst:**\n- **Support kontaktieren**: Schreibe an **support@flexoptix.net** und gib deine **Geräte-Seriennummer** an.\n- Die Seriennummer findest du auf der **Unterseite der Flexbox** oder in der App unter \"Geräteinfo\".\n\n---\n### 📌 **Zusammenfassung:**\n| Schritt | Aktion |\n|---------|--------|\n| 1 | Flexoptix App installieren und anmelden |\n| 2 | Flexbox v3 per USB anschließen |\n| 3 | In der App unter \"My Devices\" den Pairing Key abrufen |\n| 4 | Falls nicht sichtbar: Gerät zurücksetzen und neu paaren |\n\nFalls du weitere Hilfe brauchst, kannst du auch direkt den **[Flexoptix-Support](https://www.flexoptix.net/en/)** kontaktieren.",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-09-08T12:35:38.798Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1788870938827,
+        "completedAtMs": 1788870983157,
+        "firstTokenAtMs": 1788870941647,
+        "generationStats": {
+          "outputTokens": 1284,
+          "completionCount": 8,
+          "generationDurationMs": 12183,
+          "outputTokensPerSecond": 105.39276040384142
+        },
+        "timeToFirstTokenMs": 2820,
+        "completionDurationMs": 44330,
+        "userMessageCreatedToCompletionMs": 44800
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "search_tool_functions",
+          "run_typescript",
+          "web_search",
+          "open_url"
+        ],
+        "integrationNames": [
+          "web_search"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  }
+]

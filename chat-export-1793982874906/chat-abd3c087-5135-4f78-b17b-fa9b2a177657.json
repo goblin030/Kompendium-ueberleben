@@ -1,0 +1,364 @@
+[
+  {
+    "id": "47d146c5-a4dd-4a1e-87cd-ce7562b701aa",
+    "version": 0,
+    "chatId": "abd3c087-5135-4f78-b17b-fa9b2a177657",
+    "content": "Welche App ist die beste für Lautstärke messen mit dem Androidhandy?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-08-07T19:54:22.612Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "a33f9859-2ee2-47cc-a2f6-859b4f18c4bb",
+    "version": 0,
+    "chatId": "abd3c087-5135-4f78-b17b-fa9b2a177657",
+    "content": "Für die Messung der Lautstärke mit einem Android-Handy werden aktuell (Stand 2026) folgende Apps besonders empfohlen:\n\n- **Dezibel X**: Diese App ist ursprünglich für iOS entwickelt worden, steht aber mittlerweile auch für Android zur Verfügung. Sie bietet zuverlässige, vorkalibrierte Messungen und ein intuitives Interface. Besonders praktisch ist die integrierte HISTO-Grafik, die bei neuen Messungen alte Werte als Vergleich anzeigt. Die App ist kostenlos und hat sehr gute Nutzerbewertungen.\n\n- **Sound Meter**: Eine einfache, kostenlose App, die den Lärmpegel in Dezibel misst. Sie ist besonders für schnelle und unkomplizierte Messungen geeignet.\n\n- **Schallmessung (Sound Meter)**: Diese App zeigt den aktuellen Dezibel-Pegel an und bietet eine Vergleichssituation, um die Geräuschkulisse einzuordnen. Sie ist ebenfalls kostenlos und einfach zu bedienen.\n\n- **NoiseCapture**: Eine kostenlose Android-App, die Schallmessungen ermöglicht und die Ergebnisse per GPS auf einer Karte dem Messort zuordnen kann. Diese App eignet sich besonders, wenn du Messungen dokumentieren und lokalisieren möchtest.\n\nFalls du eine besonders präzise und langfristige Messung suchst, ist **Dezibel X** eine sehr gute Wahl. Für einfache, schnelle Messungen reichen **Sound Meter** oder **Schallmessung** aus. Möchtest du die Messungen auch kartografisch festhalten, ist **NoiseCapture** ideal.\n\nHast du eine bestimmte Anforderung an die App, z. B. Kalibrierungsmöglichkeiten oder eine bestimmte Benutzeroberfläche?",
+    "contentChunks": [
+      {
+        "id": "zhoRC6j3T",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1786132469999,
+        "success": true,
+        "toolType": "rag",
+        "startTime": 1786132468101,
+        "integration": {
+          "id": "019df75b-9179-7745-ba07-9a43052c1344",
+          "name": "web_search",
+          "type": "mcp",
+          "owner_id": null,
+          "displayName": {
+            "ar": "البحث على الويب",
+            "de": "Websuche",
+            "en": "Web Search",
+            "es": "Búsqueda web",
+            "fr": "Recherche Web",
+            "it": "Ricerca web",
+            "nl": "Webzoeken",
+            "pl": "Wyszukiwanie w sieci",
+            "pt-BR": "Pesquisa na web"
+          }
+        },
+        "customLocale": {
+          "done_description": {
+            "en": "web_search"
+          },
+          "working_description": {
+            "en": "web_search"
+          }
+        },
+        "publicResult": {
+          "0A6by1oj": {
+            "url": "https://abc-apps-sound-meter.de.uptodown.com/android",
+            "date": null,
+            "rank": 2,
+            "title": "Sound Meter für Android - Lade die APK von Uptodown herunter",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/MCpEH_zWxZppDsRhgN3qvgQiHzPejLbLZ9Ouu6rN_sw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTQ5NGJiYmRl/NjM4MzdlOGNlNWY0/NTVlOWEzODhiMzU2/NTMyNjFiNzRlMDcw/ZmFlZDE0MzdlOWNl/OWQyMGUzYS9hYmMt/YXBwcy1zb3VuZC1t/ZXRlci5kZS51cHRv/ZG93bi5jb20v",
+              "thumbnail": "https://img.utdstc.com/icon/a92/9c0/a929c0b085634c6d079014a526c16b0a9da480e53a18c8cbdb3a75022de55082:600"
+            },
+            "snippets": [
+              "Lade die APK von <strong>Sound Meter</strong> für Android kostenlos herunter. Messe den Lärmpegel um dich herum. <strong>Sound Meter</strong> ist eine App, mit der du die Dezibel des Lärms...",
+              "11 Mai 2026 · Ältere Versionen · Werbung · Mit Turbo kannst du unter anderem die Werbung entfernen · Kontrolliert von Andrés López · Content Editor Andrés López ist Mitglied des internen Redaktionsteams von Uptodown. Übersetzt von Uptodown Localization Team ·",
+              "xapk 4.0.1 Android + 4.4 23 Mär 2026 · apk 4.0.0 Android + 4.4 13 Aug 2024 · apk 3.9.8 Android + 4.4 8 Jun 2025 · apk 3.8.8 Android + 4.4 29 Mai 2024 · Review die App · 5.0 · 5 · 4 · 3 · 2 · 1 · 1 reviews · Es liegen noch keine Meinungen über Sound Meter vor."
+            ],
+            "description": "Lade die APK von <strong>Sound Meter</strong> für Android kostenlos herunter. Messe den Lärmpegel um dich herum. <strong>Sound Meter</strong> ist eine App, mit der du die Dezibel des Lärms..."
+          },
+          "0NoSc9Kl": {
+            "url": "https://play.google.com/store/apps/details?id=app.tools.soundmeter.decibel.noisedetector&hl=de",
+            "date": null,
+            "rank": 7,
+            "title": "Schallmesser - Dezibelmesser – Apps bei Google Play",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/BRXcD4iaX7N7RXX5b2ues7rPiumLO6jABWJKycKQM3o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjgwZWUzMzVj/YTc2M2VmMDJlYjE2/YmIyYzA3Y2IwZDkx/ZGViYmUxOGU1Njk4/NGI0NDNhOTQ1N2Mw/MDYyNjk4Ny9wbGF5/Lmdvb2dsZS5jb20v",
+              "thumbnail": "https://play-lh.googleusercontent.com/egmIOsgAAuKEqw0zeneAeHXaNZrgURi0I1xHRqeNMpEG_DxW6G8IziXPpsLT9IZrYfMev1euF8ggz8CrnWtX"
+            },
+            "snippets": [
+              "Messen Sie das Umgebungsgeräusch mit einem Schallpegelmesser",
+              "30.04.2026 · Tools · arrow_forward · Was die Sicherheit angeht, solltest du als Erstes verstehen, wie Entwickler deine Daten erheben und weitergeben. Die Datenschutz- und Sicherheitspraktiken können je nach deiner Verwendung, deiner Region und deinem Alter variieren. Diese Informationen wurden vom Entwickler zur Verfügung gestellt und können jederzeit von ihm geändert werden.",
+              "Weitere Informationen dazu, wie Entwickler Angaben zur Weitergabe von Daten machen"
+            ],
+            "description": "Messen Sie das Umgebungsgeräusch mit einem Schallpegelmesser"
+          },
+          "9OSpMeab": {
+            "url": "https://www.heise.de/tipps-tricks/Lautstaerke-messen-Die-besten-Apps-7099917.html",
+            "date": null,
+            "rank": 5,
+            "title": "Lautstärke messen: Die besten Apps | heise online",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/iVFEuOzaHrZ2S1fwtOrXzOWtiuBwY2DWTWUpPiMe0sk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDI3YmNlMDQ2/Zjg3OGEzZjAyOTVh/Y2VlMGZkNjVhMDdh/OWM1ZWFiNjM0OTcy/OGQyNTY3NjUwNDIw/N2UxMDYwMy93d3cu/aGVpc2UuZGUv",
+              "thumbnail": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/3/5/4/6/9/8/4/shutterstock_1783890377-df15e0b26e4bfa06.jpeg?force_format=avif%2Cwebp%2Cjpeg&org_if_sml=1&q=30&width=1920"
+            },
+            "snippets": [
+              "Die <strong>Dezibel-X-App</strong> wurde zuerst speziell für iPhone, iPad und Apple-Watch entwickelt, funktioniert aber auch mit einem Android-Gerät. Die App misst die Lautstärke über einen längeren Zeitraum und hält die Ergebnisse mit Durchschnitts- und ...",
+              "Die Dezibel-App von Abc Apps ist zurzeit nur für Android-Geräte verfügbar, jedoch verfügt diese App über eine besonders gute Bewertung. Das kommt nicht von ungefähr: Sie misst die Lautstärke präzise und ist dabei sehr verlässlich. Für die Verwendung der Schallpegelmess-App müssen Sie den Zugriff auf das interne Mikrofon Ihres Smartphones erlauben.",
+              "Die Dezibel-X-App wurde zuerst speziell für iPhone, iPad und Apple-Watch entwickelt, funktioniert aber auch mit einem Android-Gerät. Die App misst die Lautstärke über einen längeren Zeitraum und hält die Ergebnisse mit Durchschnitts- und Maximalwerten fest."
+            ],
+            "description": "Die <strong>Dezibel-X-App</strong> wurde zuerst speziell für iPhone, iPad und Apple-Watch entwickelt, funktioniert aber auch mit einem Android-Gerät. Die App misst die Lautstärke über einen längeren Zeitraum und hält die Ergebnisse mit Durchschnitts- und ..."
+          },
+          "CQVn9PoB": {
+            "url": "https://play.google.com/store/apps/details?id=com.splendapps.decibel&hl=de",
+            "date": null,
+            "rank": 6,
+            "title": "Schall-Dezibel-Messgerät – Apps bei Google Play",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/BRXcD4iaX7N7RXX5b2ues7rPiumLO6jABWJKycKQM3o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjgwZWUzMzVj/YTc2M2VmMDJlYjE2/YmIyYzA3Y2IwZDkx/ZGViYmUxOGU1Njk4/NGI0NDNhOTQ1N2Mw/MDYyNjk4Ny9wbGF5/Lmdvb2dsZS5jb20v",
+              "thumbnail": "https://play-lh.googleusercontent.com/78vrG8JnL_p5WHRef3xSgoOd81qw06qd4Eivf75lX7wmFn0AyGLjCZzqzWT6fNVPbYN0NfLwW9aBctgSvwOhvFo"
+            },
+            "snippets": [
+              "Willst du Schallpegel messen? Das ist intelligente Schallpegelmesser-App für Android! Unsere Dezibelmessgerät verwendet Ihre eingebaute Mikrofon, um die Lautstärke in Dezibel (dB) zu messen und zeigt Proben auf Millimeter auch. HINWEIS: Mikrofone in den meisten Geräten werden an menschlichen Stimme ausgerichtet sind und die Maximalwerte werden durch die Hardware begrenzt.",
+              "Willst du Schallpegel messen? Das ist intelligente Schallpegelmesser-App für Android! Unsere Dezibelmessgerät verwendet Ihre eingebaute Mikrofon, um die Lautstärke in Dezibel (dB) zu messen und zeigt Proben auf Millimeter auch. HINWEIS: Mikrofone in den meisten Geräten werden an menschlichen Stimme ausgerichtet sind und die Maximalwerte werden durch die Hardware begrenzt.",
+              "Was die Sicherheit angeht, solltest du als Erstes verstehen, wie Entwickler deine Daten erheben und weitergeben. Die Datenschutz- und Sicherheitspraktiken können je nach deiner Verwendung, deiner Region und deinem Alter variieren. Diese Informationen wurden vom Entwickler zur Verfügung gestellt und können jederzeit von ihm geändert werden.",
+              "Weitere Informationen dazu, wie Entwickler Angaben zur Weitergabe von Daten machen"
+            ],
+            "description": "Willst du Schallpegel messen? Das ist intelligente Schallpegelmesser-App für Android! Unsere Dezibelmessgerät verwendet Ihre eingebaute Mikrofon, um die Lautstärke in Dezibel (dB) zu messen und zeigt Proben auf Millimeter auch. HINWEIS: Mikrofone in den meisten Geräten werden an menschlichen Stimme ausgerichtet sind und die Maximalwerte werden durch die Hardware begrenzt."
+          },
+          "EuEfKyhZ": {
+            "url": "https://www.vodafone.de/featured/article/lautstaerke-messen-mit-diesen-dezibel-apps-gelingt-die-messung-51749",
+            "date": null,
+            "rank": 1,
+            "title": "Lautstärke messen: Beste Dezibel-Apps für iOS & Android",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/70jYtjfnCAMcNlLyCoJIZLlfJTFexuy2r4mLyoPnqRw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzU4YjQ5N2Ri/NGY1ZGMzYjk5Njcx/YmYzNzRiMzhkMWFm/MjAzZjM3OTIzNjc5/ZjhkZjg2MDNlNjhl/ZjZiMmQwNi93d3cu/dm9kYWZvbmUuZGUv",
+              "thumbnail": "https://www.vodafone.de/featured/media/cache/single_image/cms/2018/08/Dezibel-App.jpg?v=9aa01d95dfa666544265c45622d877bf"
+            },
+            "snippets": [
+              "Die ursprünglich nur für Dein iPhone erhältliche Dezibel X-App liefert Dir zuverlässige und vorkalibrierte Messungen und besticht durch ein intuitives Interface. Mittlerweile ist der dB-Messer aber auch im Play Store für Android-Smartphones erhältlich. Die integrierte HISTO-Grafik liefert bei neuen Messungen immer alte Werte als Vergleichswert. Dies trägt zur Veranschaulichung der neuen Messungen bei.",
+              "Sei es auf einem Konzert, im Stadion oder sogar am Arbeitsplatz – eine Lautstärkemessung ist in vielen Umgebungen sinnvoll. Dafür brauchst Du nicht zwingend ein Schallpegelmessgerät, sondern kannst stattdessen auf Dezibel-Apps zurückgreifen.",
+              "Wie einfach die App funktioniert und wie gut sie sich zur dB-Messung eignet zeigt auch in Apples App Store die durchschnittliche Nutzerbewertung: Mit 4,7 von 5 Sternen liegt die Anwendung im oberen Bereich. ... Ohne Werbung, Banner oder nervige Popups kommt die Sound Analyzer-App daher. Von ihr kannst Du eine unkomplizierte Lautstärkemessung auf Deinem Smartphone erwarten.",
+              "Die ursprünglich nur für Dein iPhone erhältliche Dezibel X-App liefert Dir zuverlässige und vorkalibrierte Messungen und besticht durch ein intuitives Interface. Mittlerweile ist der dB-Messer aber auch im Play Store für Android-Smartphones erhältlich. Die integrierte HISTO-Grafik liefert bei neuen Messungen immer alte Werte als Vergleichswert. Dies trägt zur Veranschaulichung der neuen Messungen bei.",
+              "Die meisten Dezibel-Apps mit einem \"Pro\" im Namen sind für gewöhnlich kostenpflichtig. Der Dezibel-Messer Pro macht hier keine Ausnahme. Für das iPhone steht der Dezibel-Messer Pro ebenfalls nicht kostenlos zur Verfügung – die App ist aber durchaus praktisch."
+            ],
+            "description": "Die ursprünglich nur für Dein iPhone erhältliche Dezibel X-App liefert Dir zuverlässige und vorkalibrierte Messungen und besticht durch ein intuitives Interface. Mittlerweile ist der dB-Messer aber auch im Play Store für Android-Smartphones erhältlich. Die integrierte HISTO-Grafik liefert bei neuen Messungen immer alte Werte als Vergleichswert. Dies trägt zur Veranschaulichung der neuen Messungen bei."
+          },
+          "F2DPKwVq": {
+            "url": "https://www.chip.de/ratgeber/handy/lautstaerke-messen-die-besten-apps_8de1a0dd-63de-4a12-8929-a725278fa36a.html",
+            "date": null,
+            "rank": 0,
+            "title": "Lautstärke messen: Die besten Apps - CHIP",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/8Y-7_vZONkqk1_SafQD3FoPojWbjBwsfDc82BUoEqAw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWIzYjU5Njhj/OTcxYTRjMTA3Nzk1/MTViZjhhNGJhMDFj/YzgwMzc0NjEzOTEy/ZWRhNzc3MWRlYWYx/OTk5ZGFhMS93d3cu/Y2hpcC5kZS8",
+              "thumbnail": "https://quadro.burda-forward.de/ctf/aca2d3de-99d3-4e6c-bc10-afa3e60d7d72.5cafbd3e-1ab5-435a-86f5-c2e5dd490193.jpeg?im=RegionOfInterestCrop=(5771,3246),regionOfInterest=(2885.5,1623)&hash=6cc57601e148f270833773a43ce383f175b4c830a1e754da8d718ac626b2c946"
+            },
+            "snippets": [
+              "Dadurch lässt sich die dauerhaft kostenlose App noch effektiver zur Lautstärkemessung nutzen. Der integrierte Echtzeit-Audioanalysator (RTA) wertet die Daten direkt aus. Durch diese können Sie sehen, wie sich die aktuelle Lärmbelastung verhält und entwickelt. ... Wäscheklammern haben zwei Löcher – und kaum jemand weiß, wofür sie da sindDonnerstag, 06.08.2026 | 07:15",
+              "Dadurch lässt sich die dauerhaft kostenlose App noch effektiver zur Lautstärkemessung nutzen. Der integrierte Echtzeit-Audioanalysator (RTA) wertet die Daten direkt aus. Durch diese können Sie sehen, wie sich die aktuelle Lärmbelastung verhält und entwickelt. ... Wäscheklammern haben zwei Löcher – und kaum jemand weiß, wofür sie da sindDonnerstag, 06.08.2026 | 07:15",
+              "Telegram-Account löschenFreitag, 08.05.2026 | 14:43 · Android: Papierkorb leeren – so geht'sFreitag, 08.05.2026 | 13:36",
+              "Weder Natron noch Essig: Die ideale Lösung zum Entkalken von DuschköpfenMittwoch, 05.08.2026 | 07:20",
+              "Gärtner verrät: Nicht das Gießen rettet Ihren Garten im SommerDienstag, 04.08.2026 | 09:50"
+            ],
+            "description": "Dadurch lässt sich die dauerhaft kostenlose App noch effektiver zur Lautstärkemessung nutzen. Der integrierte Echtzeit-Audioanalysator (RTA) wertet die Daten direkt aus. Durch diese können Sie sehen, wie sich die aktuelle Lärmbelastung verhält und entwickelt. ... Wäscheklammern haben zwei Löcher – und kaum jemand weiß, wofür sie da sindDonnerstag, 06.08.2026 | 07:15"
+          },
+          "azQCJwsR": {
+            "url": "https://play.google.com/store/apps/details?id=com.gamebasic.decibel&hl=de",
+            "date": null,
+            "rank": 3,
+            "title": "Schallmessung (Sound Meter) – Apps bei Google Play",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/BRXcD4iaX7N7RXX5b2ues7rPiumLO6jABWJKycKQM3o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjgwZWUzMzVj/YTc2M2VmMDJlYjE2/YmIyYzA3Y2IwZDkx/ZGViYmUxOGU1Njk4/NGI0NDNhOTQ1N2Mw/MDYyNjk4Ny9wbGF5/Lmdvb2dsZS5jb20v",
+              "thumbnail": "https://play-lh.googleusercontent.com/eNIQzhQG9A5y_FWEUB6EW_bjLVMYPl7LAdKhUjU1KRg8yblRLnSmIuumfA6m_tV4IK7BCJnAm9nM8aw3N5D2aA"
+            },
+            "snippets": [
+              "Very loud sounds(over ~90 dB) may not be recognized in most device. So please use it as just an auxiliary tools. If you need more accurate dB values, we recommend a actual <strong>sound level meter</strong> for that. Aktualisiert am · 22.03.2026 ·",
+              "Features: - Indicates decibel by gauge - Display the current noise reference - Display min/avg/max decibel values - Display decibel by graph - Can calibrate the decibel for each devices **Notes Microphones in most android devices are aligned to human voice. The maximum values are limited by the device. Very loud sounds(over ~90 dB) may not be recognized in most device. So please use it as just an auxiliary tools. If you need more accurate dB values, we recommend a actual sound level meter for that. Aktualisiert am · 22.03.2026 ·",
+              "Eigenschaften: - Gibt Dezibel durch Spur - Anzeige des aktuellen Rauschreferenz - Anzeige min / avg / max Dezibelwerte - Anzeige Dezibel durch die Kurve - Kann die Dezibel für jede Geräte kalibrieren **Notizen Mikrofone in den meisten Android-Geräte sind für die menschliche Stimme ausgerichtet sind.",
+              "You can experience tidy graphic design with high frame by this smart sound meter app. Features: - Indicates decibel by gauge - Display the current noise reference - Display min/avg/max decibel values - Display decibel by graph - Can calibrate the decibel for each devices **Notes Microphones in most android devices are aligned to human voice.",
+              "Was die Sicherheit angeht, solltest du als Erstes verstehen, wie Entwickler deine Daten erheben und weitergeben. Die Datenschutz- und Sicherheitspraktiken können je nach deiner Verwendung, deiner Region und deinem Alter variieren. Diese Informationen wurden vom Entwickler zur Verfügung gestellt und können jederzeit von ihm geändert werden."
+            ],
+            "description": "Very loud sounds(over ~90 dB) may not be recognized in most device. So please use it as just an auxiliary tools. If you need more accurate dB values, we recommend a actual <strong>sound level meter</strong> for that. Aktualisiert am · 22.03.2026 ·"
+          },
+          "plOXvd3B": {
+            "url": "https://blog.deinhandy.de/lautstaerke-messen-die-3-besten-kostenlosen-dezibel-apps-fuer-android-und-ios",
+            "date": null,
+            "rank": 4,
+            "title": "Lautstärke messen: Die 3 besten kostenlosen Dezibel-Apps für Android und iOS",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/ET9CXGXc6uuDswSv2lBepAR3E1EpUG_wuzULZYd_vPo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDFkYTdiN2Ey/MTFjYTkwMmFiNTkw/MTMyZTMzMTg0MTQ2/MDBlNjg2YzM2NGQx/Mzc4MGQ5NmQxYzkz/NjE4Y2VlYi9ibG9n/LmRlaW5oYW5keS5k/ZS8",
+              "thumbnail": "https://blog.deinhandy.de/wp-content/uploads/2020/02/dezibel-apps-1.jpg"
+            },
+            "snippets": [
+              "Trotz „Pro“ im Namen ist der <strong>Dezibel Messer Pro</strong> kostenlos für Android-Handys und iPhones verfügbar. Diese App zum Dezibel-Messen ist sehr einfach gehalten. Drücke auf den Aufnahme-Button, um die Messung zu beginnen.",
+              "Mit der richtigen Anwendung lässt sich zum Beispiel auch die Lautstärke messen und in Dezibel anzeigen. Willst Du wissen, wie laut es im Stadion, an der Baustelle oder im Büro ist, zeigen wir Dir hier drei kostenlose und gute Dezibel-Apps für Android und iOS. Für die Lautstärkemessung greift das Handy auf die Mikrofone am Gerät zurück.",
+              "Die Schallmessung-App ist leider nur für Android erhältlich. Sie setzt auf ein sehr schlichtes, aber doch informationshaltiges Äußeres. Nach dem Start siehst Du den aktuellen Dezibel-Pegel. Um die aktuelle Geräuschkulisse einzuordnen, wird eine Vergleichssituation angegeben.",
+              "Trotz „Pro“ im Namen ist der Dezibel Messer Pro kostenlos für Android-Handys und iPhones verfügbar. Diese App zum Dezibel-Messen ist sehr einfach gehalten. Drücke auf den Aufnahme-Button, um die Messung zu beginnen. Auch hier werden die aufgenommenen Geräusche einer bestimmten Situation zugewiesen.",
+              "In der kostenlosen Ausführung wird zwischendurch Werbung oder ein Hinweis auf die kostenpflichtige Version eingeblendet. Die Pro-Version erlaubt Geräuschmessungen mit unterschiedlichen dB-Typen, zum Beispiel dB-A oder dB-Z. Zudem speicherst und exportierst Du Messungen ohne Einschränkung. Die Android-Version der App ist aktuell nicht mehr verfügbar."
+            ],
+            "description": "Trotz „Pro“ im Namen ist der <strong>Dezibel Messer Pro</strong> kostenlos für Android-Handys und iPhones verfügbar. Diese App zum Dezibel-Messen ist sehr einfach gehalten. Drücke auf den Aufnahme-Button, um die Messung zu beginnen."
+          },
+          "qL3uEmBv": {
+            "url": "https://laerm.ch/laermwissen/apps-tools/",
+            "date": null,
+            "rank": 9,
+            "title": "Apps & Tools | Lärm.ch - Bruit.ch - Rumore.ch",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/GEtnQo7zK6oA7_h-fQkstS3O8Efcav4hb4bU69yttsM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDQ0ODU3YWE1/MWYxOTU0Yzc2MjI1/MDhhMzNkODc5NDU4/MjQ1MTA5Y2JlNDEw/MTdkYTY0OWVjODA5/OWU4NGI4ZC9sYWVy/bS5jaC8",
+              "thumbnail": "https://laerm.ch/wp-content/uploads/apps_tools.jpg"
+            },
+            "snippets": [
+              "NoiseCapture ist eine gratis Android-App, welche Schallmessungen mit dem Smartphone erlaubt. Als Zusatzfeature können die Messungen mittels GPS auf einer Karte dem Messort zugeordnet werden. Die App kann im Google Play Store oder im gratis Aptoide Store heruntergeladen werden. NoiseCapture von Noise-Planet (noise-planet.org) Um die Apps zur Schallmessung zu benutzen, müssen diese zuerst eingerichtet und kalibriert werden.",
+              "Das Smartphone als Schallpegelmessgerät Smartphones verfügen über sämtliche Elemente (Mikrophon, A/D-Wandler, Prozessor für die Signalverarbeitung), die zum Bau eines Schallpegelmessers benötigt werden. Folgerichtig sind verschiedenste Apps verfügbar, die versprechen, ein Smartphone in ein akustisches Messgerät zu verwandeln.",
+              "NoiseCapture ist eine gratis Android-App, welche Schallmessungen mit dem Smartphone erlaubt. Als Zusatzfeature können die Messungen mittels GPS auf einer Karte dem Messort zugeordnet werden. Die App kann im Google Play Store oder im gratis Aptoide Store heruntergeladen werden. NoiseCapture von Noise-Planet (noise-planet.org) Um die Apps zur Schallmessung zu benutzen, müssen diese zuerst eingerichtet und kalibriert werden.",
+              "Interaktive Tools oder Berechnungswerkzeuge helfen abzuschätzen, wie hoch die Immissionen von Anlagen sind und ob die gesetzlichen Vorgaben erfüllt sind. Die Berechnungswerkzeuge berücksichtigen meistens weder Hindernisdämpfung noch Reflexionen und dienen zur groben Abschätzung der Lärmbelastung und ersetzen keine Gutachten von Fachpersonen."
+            ],
+            "description": "NoiseCapture ist eine gratis Android-App, welche Schallmessungen mit dem Smartphone erlaubt. Als Zusatzfeature können die Messungen mittels GPS auf einer Karte dem Messort zugeordnet werden. Die App kann im Google Play Store oder im gratis Aptoide Store heruntergeladen werden. NoiseCapture von Noise-Planet (noise-planet.org) Um die Apps zur Schallmessung zu benutzen, müssen diese zuerst eingerichtet und kalibriert werden."
+          },
+          "zxMptzso": {
+            "url": "https://de.bestappsforandroid.com/die-besten-kostenlosen-lautstarke-apps-fur-android-im-vergleich/",
+            "date": null,
+            "rank": 8,
+            "title": "Bestappsforandroid",
+            "source": "brave",
+            "can_open": true,
+            "metadata": {
+              "lang": "de",
+              "source": "brave",
+              "favicon": "https://imgs.search.brave.com/qEmuhQTVi2cd9ijcGqTbg58gLknwuZheG2iGhRvUDQ4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTkxODAzMjUw/YTBmYTFhNGNjYzJh/ZDU0YTMwMmQ5Nzcx/YWQyYjgxNjI3MWI0/NzVmNzU1M2NhZGQ0/MDMwYTE0My9kZS5i/ZXN0YXBwc2ZvcmFu/ZHJvaWQuY29tLw",
+              "thumbnail": null
+            },
+            "snippets": [
+              "Wir haben über mehrere Wochen die bekanntesten kostenlosen Lautstärke-Apps auf verschiedenen Android-Geräten installiert, durchgehört und gegeneinander antreten lassen. In diesem Guide bekommst du eine ehrliche Einschätzung: was diese Apps wirklich leisten, wie du sie sauber einrichtest, welche Funktionen den Unterschied machen, wo die Grenzen der Hardware liegen und worauf du bei Werbung, Berechtigungen und Datenschutz achten solltest. Am Ende weißt du genau, welche Lösung 2026 zu deinem Handy passt.",
+              "Wir haben über mehrere Wochen die bekanntesten kostenlosen Lautstärke-Apps auf verschiedenen Android-Geräten installiert, durchgehört und gegeneinander antreten lassen. In diesem Guide bekommst du eine ehrliche Einschätzung: was diese Apps wirklich leisten, wie du sie sauber einrichtest, welche Funktionen den Unterschied machen, wo die Grenzen der Hardware liegen und worauf du bei Werbung, Berechtigungen und Datenschutz achten solltest. Am Ende weißt du genau, welche Lösung 2026 zu deinem Handy passt.",
+              "Klingt oft banal, aber eine dicke Schutzhülle oder ein verdeckter Lautsprecher kostet mehr Lautstärke als jede App zurückgewinnt. Bei Bedarf systemweite Klangverbesserung aktivieren. Viele Geräte haben unter den Toneinstellungen versteckte Verbesserer, die du zuerst ausprobieren solltest, bevor du eine App installierst. Wer ohnehin viel über Dienste hört, kann den Klang teils direkt dort anpassen. In unserem Beitrag zu den besten Spotify Premium Funktionen für Android zeigen wir, wie sich der Equalizer innerhalb der App nutzen lässt.",
+              "Auf der Softwareseite lohnt sich ein Blick auf spezialisierte Tools. In unserem Vergleich der besten Musik-Streaming Apps für Android findest du Dienste mit guter Klangregelung, und einen breiteren Überblick über alle passenden Tools rund um Ton und Wiedergabe bietet unsere Übersicht zur Kategorie Musik und Audio.",
+              "Wer dagegen ohnehin meist über Kopfhörer oder einen externen Lautsprecher hört, braucht meistens eher einen guten Equalizer als einen reinen Booster. Für diese Nutzer lohnt sich der Blick auf unsere Auswahl der besten Equalizer Apps für Android, die deutlich feinere Klangregelung bieten."
+            ],
+            "description": "Wir haben über mehrere Wochen die bekanntesten kostenlosen Lautstärke-Apps auf verschiedenen Android-Geräten installiert, durchgehört und gegeneinander antreten lassen. In diesem Guide bekommst du eine ehrliche Einschätzung: was diese Apps wirklich leisten, wie du sie sauber einrichtest, welche Funktionen den Unterschied machen, wo die Grenzen der Hardware liegen und worauf du bei Werbung, Berechtigungen und Datenschutz achten solltest. Am Ende weißt du genau, welche Lösung 2026 zu deinem Handy passt."
+          }
+        },
+        "isInterrupted": false,
+        "publicArguments": "beste Android-App zur Lautstärkemessung 2026",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "Für die Messung der Lautstärke mit einem Android-Handy werden aktuell (Stand 2026) folgende Apps besonders empfohlen:\n\n- **Dezibel X**: Diese App ist ursprünglich für iOS entwickelt worden, steht aber mittlerweile auch für Android zur Verfügung. Sie bietet zuverlässige, vorkalibrierte Messungen und ein intuitives Interface. Besonders praktisch ist die integrierte HISTO-Grafik, die bei neuen Messungen alte Werte als Vergleich anzeigt. Die App ist kostenlos und hat sehr gute Nutzerbewertungen",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "EuEfKyhZ",
+          "9OSpMeab"
+        ]
+      },
+      {
+        "text": ".\n\n- **Sound Meter**: Eine einfache, kostenlose App, die den Lärmpegel in Dezibel misst. Sie ist besonders für schnelle und unkomplizierte Messungen geeignet",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "0A6by1oj",
+          "azQCJwsR"
+        ]
+      },
+      {
+        "text": ".\n\n- **Schallmessung (Sound Meter)**: Diese App zeigt den aktuellen Dezibel-Pegel an und bietet eine Vergleichssituation, um die Geräuschkulisse einzuordnen. Sie ist ebenfalls kostenlos und einfach zu bedienen",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "azQCJwsR",
+          "plOXvd3B"
+        ]
+      },
+      {
+        "text": ".\n\n- **NoiseCapture**: Eine kostenlose Android-App, die Schallmessungen ermöglicht und die Ergebnisse per GPS auf einer Karte dem Messort zuordnen kann. Diese App eignet sich besonders, wenn du Messungen dokumentieren und lokalisieren möchtest",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          "qL3uEmBv"
+        ]
+      },
+      {
+        "text": ".\n\nFalls du eine besonders präzise und langfristige Messung suchst, ist **Dezibel X** eine sehr gute Wahl. Für einfache, schnelle Messungen reichen **Sound Meter** oder **Schallmessung** aus. Möchtest du die Messungen auch kartografisch festhalten, ist **NoiseCapture** ideal.\n\nHast du eine bestimmte Anforderung an die App, z. B. Kalibrierungsmöglichkeiten oder eine bestimmte Benutzeroberfläche?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-08-07T19:54:24.535Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1786132464545,
+        "completedAtMs": 1786132474107,
+        "firstTokenAtMs": 1786132468101,
+        "generationStats": {
+          "outputTokens": 415,
+          "completionCount": 1,
+          "generationDurationMs": 5725,
+          "outputTokensPerSecond": 72.48908296943232
+        },
+        "timeToFirstTokenMs": 3556,
+        "completionDurationMs": 9562,
+        "userMessageCreatedToCompletionMs": 11495
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [
+          "web_search"
+        ],
+        "integrationNames": [
+          "web_search"
+        ]
+      }
+    },
+    "canvas": [],
+    "files": []
+  }
+]

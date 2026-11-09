@@ -1,0 +1,65 @@
+[
+  {
+    "id": "b99aa644-fe92-4c3a-a46e-da60d1126d4b",
+    "version": 0,
+    "chatId": "ab7ba5b7-2303-4680-91fc-48a9f2a98669",
+    "content": "Hallo, Robert! 👋\n\nWie kann ich Ihnen heute helfen? Ich kann zum Beispiel Recherchen durchführen, Dokumente erstellen, Daten analysieren oder Aufgaben in Ihren verbundenen Apps übernehmen.",
+    "contentChunks": [
+      {
+        "text": "Hallo, Robert! 👋\n\nWie kann ich Ihnen heute helfen? Ich kann zum Beispiel Recherchen durchführen, Dokumente erstellen, Daten analysieren oder Aufgaben in Ihren verbundenen Apps übernehmen.",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-10-17T10:49:27.441Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1792234167248,
+        "completedAtMs": 1792234168418,
+        "firstTokenAtMs": 1792234167997,
+        "generationStats": {
+          "outputTokens": 42,
+          "completionCount": 1,
+          "generationDurationMs": 279,
+          "outputTokensPerSecond": 150.53763440860214
+        },
+        "timeToFirstTokenMs": 749,
+        "bootstrapDurationMs": 388,
+        "completionDurationMs": 1170,
+        "userMessageCreatedToCompletionMs": 1208
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [],
+        "integrationNames": []
+      }
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "510d32a2-4580-4ead-942d-5fbf70c55563",
+    "version": 0,
+    "chatId": "ab7ba5b7-2303-4680-91fc-48a9f2a98669",
+    "content": "Hallo",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-10-17T10:49:27.210Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  }
+]

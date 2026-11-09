@@ -44,6 +44,13 @@ Abbildungsnummer → Datei → beschreibender Unterschrift.
   SVG: `python3 ../../skills/overlap-gate/svg_zorder_check.py <datei.svg>` — 0 verdeckte
   Labels. Der renderbasierte Gate (`overlap_check.py`, Klasse L1) auf dem gebauten PDF
   ist die finale Instanz (0 Befunde).
+- **Label-Kollisionen in der SVG (Regel 13, Pflicht):** Kein Label auf einer Linie/einem
+  Stroke (Dimensionstext „3 m“ darf nicht auf der Maßpfeil-Linie liegen — stattdessen
+  neben die Linie oder mit Halo-Kästchen dahinter) und nie zwei Texte auf derselben
+  Zeile (z. B. Fußzeile: Titel und „Maße direkt aus dem Artikel…“ kollidieren).
+  Vor dem Schreiben jeder SVG:
+  `python3 ../../skills/overlap-gate/svg_label_collision_check.py <datei.svg>` — 0 Befunde
+  (T2T text/text, T2L text/line). Reparatur bestehender SVGs: `svg_label_fix.py`.
 
 ## Akzeptanzkriterien
 - [ ] Jedes geplante Konzept mit Grafikanforderung hat eine SVG-Datei

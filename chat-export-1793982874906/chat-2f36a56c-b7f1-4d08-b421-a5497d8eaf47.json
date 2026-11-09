@@ -1,0 +1,64 @@
+[
+  {
+    "id": "d650e08a-fa63-4304-b2c2-2f18c10c0c24",
+    "version": 0,
+    "chatId": "2f36a56c-b7f1-4d08-b421-a5497d8eaf47",
+    "content": "I can't directly access or analyze content from YouTube links, including Shorts. However, if you describe the video or its content, I can help answer questions or provide insights based on that description! Let me know how I can assist.",
+    "contentChunks": [
+      {
+        "text": "I can't directly access or analyze content from YouTube links, including Shorts. However, if you describe the video or its content, I can help answer questions or provide insights based on that description! Let me know how I can assist.",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-08-28T21:27:01.728Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "completionTiming": {
+        "startedAtMs": 1787952421739,
+        "completedAtMs": 1787952423601,
+        "firstTokenAtMs": 1787952423207,
+        "generationStats": {
+          "outputTokens": 50,
+          "completionCount": 1,
+          "generationDurationMs": 276,
+          "outputTokensPerSecond": 181.15942028985506
+        },
+        "timeToFirstTokenMs": 1468,
+        "completionDurationMs": 1862,
+        "userMessageCreatedToCompletionMs": 3209
+      },
+      "assistantAnswerSignals": {
+        "toolNames": [],
+        "integrationNames": []
+      }
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "e48a94fb-d9f5-4811-990b-97edc01b843e",
+    "version": 0,
+    "chatId": "2f36a56c-b7f1-4d08-b421-a5497d8eaf47",
+    "content": "https://youtube.com/shorts/7g58pfnnde8?is=HU-REgBq0AC9zy-A",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-08-28T21:27:00.392Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  }
+]
