@@ -2129,3 +2129,15 @@ Event-Typen siehe WORKFLOW.md „Logging“.
 | 2026-11-08T20:53:00+01:00 | doc-builder | output | v3.5: 10/10 PDF/A-2b, 580 S. (seitenzahl-identisch), Overlap-Gate 0, Meta 0, EPUBs EPUBCheck 10/10 | 06-dokumente/v3.5/ |
 | 2026-11-08T20:54:00+01:00 | orchestrator | output | review-v16/ angelegt zum Owner-Review | review-v16/ |
 | 2026-11-08T20:55:00+01:00 | archivar | output | BACKLOG OV-4 erledigt, review-v16 offen; HANDOVER | archiv/* |
+
+
+### Durchlauf v3.6 + review-v17 — Agent buchsetzer etabliert (2026-11-08, 21:10–21:16+01:00, Phase K)
+
+| ts | agent | event | detail | artifact |
+|---|---|---|---|---|
+| 2026-11-08T21:10:00+01:00 | orchestrator | review_feedback | 5. Review, gleiches Problem (ART-0137 Abb. 2): Stray-Line in Fußleiste, Orphan-Halo, Titel nicht zentriert | review-v17/ |
+| 2026-11-08T21:11:00+01:00 | orchestrator | decision | Agent 24 buchsetzer etabliert: deterministisches Overlap-Gate nach jedem Build (F0-F3 PDF + L1/T2T/T2L/T2F/S1/S2 SVG), 0-Toleranz, rot = Rebuild-Pflicht; WORKFLOW Phase J + Regel 13 | agents/24-buchsetzer.md, WORKFLOW.md |
+| 2026-11-08T21:12:00+01:00 | illustrator | output | S1/S2-Checks + Fixer (Stray-Lines/Orphan-Halos entfernen, Fußzeilen-Titel zentrieren): 336+305 in 335 SVGs; Recheck 0/645 alle Klassen | illustrationen/art-*.svg |
+| 2026-11-08T21:13:00+01:00 | buchsetzer | init | Erster Gate-Lauf: v3.6 F0-F3 = 0 (580 S.), SVG alle Klassen = 0/645, Meta 0, EPUBCheck 10/10 → GRÜN | artifacts/27-buchsetzer.md |
+| 2026-11-08T21:14:00+01:00 | doc-builder | output | v3.6: 10/10 PDF/A-2b, 580 S. (seitenzahl-identisch), EPUBs EPUBCheck 10/10 | 06-dokumente/v3.6/ |
+| 2026-11-08T21:15:00+01:00 | orchestrator | output | review-v17/ angelegt zum Owner-Review | review-v17/ |

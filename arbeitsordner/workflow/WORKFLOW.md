@@ -33,7 +33,7 @@ und jedem Owner-Review (phase_end / review_feedback).
 | G (parallel) | korrektor, index-builder | `04-redaktion.md`, `10-testleser.md`, `03-planung.md` | `11-korrektur.md`, `12-register.md` |
 | H | doc-builder | `04-redaktion.md`, `11-korrektur.md`, `12-register.md`, `03-planung.md`, `00-tool-analyse.md`, illustrationen/ | `06-dokumente/` + Abschlussbericht |
 | I | prepress (Druckdaten) | `06-dokumente/`, `00-tool-analyse.md` | `06-dokumente/druckdaten/` (PDF/X, CMYK, Anschnitt) |
-| J | **visual-qa (GATE) → format-reviewer (Druckfreigabe)** | `06-dokumente/` inkl. druckdaten/ | `20-visual-qa.md` (gerenderte Seiten: Kollisionen, Leerraum, Caption-Abstände), dann `05-format-review.md` (Feedback → doc-builder/prepress/editor/illustrator) |
+| J | **buchsetzer (GATE, deterministisch) → visual-qa (GATE, Pixel) → format-reviewer (Druckfreigabe)** | `06-dokumente/` inkl. druckdaten/ + `illustrationen/` | `27-buchsetzer.md` (skills/overlap-gate: F0-F3 PDF, L1/T2T/T2L/T2F/S1/S2 SVG — 0 Befunde = grün), dann `20-visual-qa.md`, dann `05-format-review.md` |
 
 **Gate-Regel Phase J:** visual-qa läuft nach JEDEM doc-builder-Rebuild VOR der Freigabe.
 Urteil „rot" in `20-visual-qa.md` → Rebuild-Pflicht, keine Imprimatur. Interne
@@ -71,6 +71,7 @@ zweiter Kanal — Graustufen-/S/W-Druck muss voll lesbar bleiben, prepress-proof
 | 18 | marketing | `agents/18-marketing.md` | Launch-Plan, Leseprobe, Kampagne |
 | 19 | accessibility | `agents/19-accessibility.md` | EAA: getaggte PDF/EPUB, ONIX-Barrierefreiheits-Metadaten |
 | 20 | visual-qa | `agents/20-visual-qa.md` | Gate: rendert Seiten, prüft Kollisionen/Leerraum/Kontrast/Meta |
+| 24 | buchsetzer | `agents/24-buchsetzer.md` | Gate (deterministisch, 0-Toleranz, Regel 13): Text/Bild-Überlagerungen — PDF-Render-Gate + SVG-Quell-Checks (skills/overlap-gate/) nach jedem Build |
 | 21 | archivar | `agents/21-archivar.md` | Projekt-Gedächtnis: KATALOG.md, CHRONIK.md, BACKLOG.md |
 
 ## Konventionen

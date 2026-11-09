@@ -198,6 +198,39 @@ def check_svg(path):
                                  "bbox": [round(v,1) for v in tbb],
                                  "seg": [round(v,1) for v in seg]})
                 break
+    # S1: Stray-Line in der Fußleiste (zusätzliche horizontale Linie innerhalb der
+    # Footer-Bar — der Balken hat bereits einen stroke-Rahmen)
+    vb = root.get("viewBox", "0 0 800 600").split()
+    vw, vh = float(vb[2]), float(vb[3])
+    bars = [shape_bbox(el) for el in root
+            if el.tag.split("}")[-1] == "rect"
+            and (el.get("fill") or "") == "#f4f4f4"
+            and float(el.get("width", 0)) > 0.5 * vw
+            and float(el.get("y", 0)) > 0.8 * vh]
+    for sidx, seg in strokes:
+        sx1, sy1, sx2, sy2 = seg
+        if abs(sy1 - sy2) > 0.5:
+            continue
+        for bb in bars:
+            if bb[1] <= sy1 <= bb[3]:
+                findings.append({"class": "S1_stray_footer_line",
+                                 "seg": [round(v,1) for v in seg],
+                                 "bar": [round(v,1) for v in bb]})
+    # S2: Orphan-Halo (Halo-Rechteck, dessen Text nicht mehr daneben steht)
+    kids = list(root)
+    for i, el in enumerate(kids):
+        if el.tag.split("}")[-1] == "rect" and el.get("data-halo") == "1":
+            nxt = kids[i + 1] if i + 1 < len(kids) else None
+            ok = False
+            if nxt is not None and nxt.tag.split("}")[-1] == "text":
+                tbb, _ = text_bbox(nxt)
+                hb = shape_bbox(el)
+                ix = max(0.0, min(tbb[2], hb[2]) - max(tbb[0], hb[0]))
+                iy = max(0.0, min(tbb[3], hb[3]) - max(tbb[1], hb[1]))
+                ok = ix * iy > 0.3 * max(1e-6, (tbb[2]-tbb[0])*(tbb[3]-tbb[1]))
+            if not ok:
+                findings.append({"class": "S2_orphan_halo",
+                                 "halo_bbox": [round(v,1) for v in shape_bbox(el)]})
     # T2F: dunkler Text auf Muster/dunkler Füllfläche (heller Text auf dunklem Grund
     # ist by design — Step-Nummern weiß auf Kreis — und braucht keinen Halo)
     for tidx, tbb, txt, prot_flag, tfill in texts:

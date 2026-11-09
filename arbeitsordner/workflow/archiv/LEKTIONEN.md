@@ -164,3 +164,16 @@ Gate `overlap_check.py` (F1/F2/F3/L1, 0-Toleranz) nach jedem Build auf allen PDF
 → `08-illustrator.md` (text-last + Quell-Check), `07-doc-builder.md` (Overlap-Gate im Build,
 figures nur im Fluss, gap ≥ 8pt, Caption unterhalb Bild-Rechteck), `20-visual-qa.md` +
 `23-layout-inspector.md` (K8/K9 als Gate-Klassen, rot = Rebuild-Pflicht).
+
+
+## Nachtrag 2 (2026-11-08, 5. Overlap-Review)
+
+**Lektion:** Ein wiederkehrendes Layout-Problem (Text/Bild-Überlagerungen, 5 Reviews lang
+repariert statt verhindert) braucht einen **eigenen Gate-Agenten mit 0-Toleranz**, nicht
+nur eine Regel. → Agent 24 `buchsetzer` (agents/24-buchsetzer.md) besitzt das
+deterministische Overlap-Gate (Skill `skills/overlap-gate/`: PDF F0–F3 + SVG
+L1/T2T/T2L/T2F/S1/S2) und läuft in Phase J vor visual-qa. Präventionsregeln fürs SVG
+(Regel 13): text-last; Labels nie auf Linien, nie doppelt auf einer Zeile, nie dunkler
+Text auf Muster (Halo); Fußzeilen-Notiz oben rechts im Header; Fußleiste = Balken +
+zentrierter Titel + Brand, keine Stray-Lines, keine Orphan-Halos. Jeder Check = 0 vor
+Schreiben/Build. → `24-buchsetzer.md`, `08-illustrator.md`, `07-doc-builder.md`.

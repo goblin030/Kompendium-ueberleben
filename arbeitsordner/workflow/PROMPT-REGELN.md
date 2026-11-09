@@ -29,8 +29,8 @@ jeweils eigenen Abschnitt an jede Datei unter `agents/*.md` angehängt.
     Caption-Abstände, Warnrahmen) — beide müssen grün/gelb sein vor der Imprimatur.
 12. **Illustrationen detailliert:** SVGs zeigen echte Details (Maßketten, Schraffuren,
     Explosionsansichten, Schritt-Overlays, Texturen, Proportionen) — nicht nur Symbole.
-13. **Text-Bild-Überlagerungen — 0-Toleranz mit deterministischem Gate (Skill
-    `skills/overlap-gate/`):** Nach jedem Build läuft `overlap_check.py` (150-dpi-Render +
+13. **Text-Bild-Überlagerungen — 0-Toleranz, Gate-Agent `buchsetzer` (24) + Skill
+    `skills/overlap-gate/`:** Nach jedem Build läuft `overlap_check.py` (150-dpi-Render +
     Vektor-Analyse) über ALLE PDFs (Quell + druckdaten): F0 Text im Bildbereich,
     F1 verdeckter Doku-Text, F2 Text auf Bild-Tinte, F3 Linie durch Text (K5b).
     0 Befunde = Freigabe-Voraussetzung; Befund = Rebuild-Pflicht, nie filtern.

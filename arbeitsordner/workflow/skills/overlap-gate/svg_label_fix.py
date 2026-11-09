@@ -117,6 +117,49 @@ def fix(path, dry_run=False):
     stats = {"halos": 0, "moves": 0}
     vb = root.get("viewBox", "0 0 800 600").split()
     vb_w, vb_h = float(vb[2]), float(vb[3])
+    # S1: Stray-Lines in der Fußleisten-Bar entfernen (Balken hat eigenen stroke-Rahmen)
+    bars = [shape_bbox(el) for el in root
+            if el.tag.split("}")[-1] == "rect"
+            and (el.get("fill") or "") == "#f4f4f4"
+            and float(el.get("width", 0)) > 0.5 * vb_w
+            and float(el.get("y", 0)) > 0.8 * vb_h]
+    for el in list(root):
+        if el.tag.split("}")[-1] == "line":
+            y1, y2 = float(el.get("y1", 0)), float(el.get("y2", 0))
+            if abs(y1 - y2) <= 0.5:
+                for bb in bars:
+                    if bb[1] <= y1 <= bb[3]:
+                        root.remove(el)
+                        stats["moves"] += 1
+                        break
+    def _remove_orphan_halos():
+        kids = list(root)
+        for i, el in enumerate(kids):
+            if el.tag.split("}")[-1] == "rect" and el.get("data-halo") == "1":
+                nxt = kids[i + 1] if i + 1 < len(kids) else None
+                ok = False
+                if nxt is not None and nxt.tag.split("}")[-1] == "text":
+                    from svg_label_collision_check import text_bbox as _tb
+                    tbb, _ = _tb(nxt)
+                    hb = shape_bbox(el)
+                    ix = max(0.0, min(tbb[2], hb[2]) - max(tbb[0], hb[0]))
+                    iy = max(0.0, min(tbb[3], hb[3]) - max(tbb[1], hb[1]))
+                    ok = ix * iy > 0.3 * max(1e-6, (tbb[2]-tbb[0])*(tbb[3]-tbb[1]))
+                if not ok:
+                    root.remove(el)
+                    stats["moves"] += 1
+
+    _remove_orphan_halos()
+    # Fußzeilen-Titel/Brand in der Bar zentrieren
+    for bb in bars:
+        for el in root:
+            if el.tag.split("}")[-1] != "text":
+                continue
+            y = float(el.get("y", 0))
+            fs = float(el.get("font-size", 12) or 12)
+            if bb[1] + 4 <= y <= bb[3] and (el.get("x") == "28" or el.get("text-anchor") == "end"):
+                el.set("y", f"{bb[1] + (bb[3]-bb[1])/2 + fs*0.35:.1f}")
+                stats["moves"] += 1
     for _ in range(MAX_ITER):
         texts, strokes, fills = collect(root)
         # Footer-Notiz („Maße direkt aus dem Artikel …“) aus der Fußleiste in den
@@ -163,6 +206,7 @@ def fix(path, dry_run=False):
             stats["moves"] += 1
         if not dry_run:
             pass
+    _remove_orphan_halos()  # nach den Moves (Notiz in Header) erneut prüfen
     if not dry_run:
         tree.write(path, encoding="UTF-8", xml_declaration=True)
     ET.parse(path)  # valide?

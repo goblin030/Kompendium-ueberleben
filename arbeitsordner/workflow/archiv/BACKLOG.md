@@ -68,6 +68,7 @@
 | review-v14 | `review-v14/README.md` (v3.3: text-last-SVGs, Overlap-Gate 0 Befunde, PDFs+EPUB+Suche) | Owner-Review: Figure-Labels sichtbar? Warnbox vs. Figure-Grid (Band 7) visuell bestätigen | — | **offen (2026-11-08)** — Feedback bitte als `review-v14/FEEDBACK.md` oder `review_feedback`-Event im Log |
 | review-v15 | `review-v15/README.md` (v3.4: Label-Kollisionen gefixt, Gates 0, PDFs+EPUB+Suche) | Owner-Review: ART-0078 Abb. 2 Maßtext/Fußzeile, Stichproben Maßketten, Halos ok? | — | **offen (2026-11-08)** — Feedback bitte als `review-v15/FEEDBACK.md` oder `review_feedback`-Event im Log |
 | review-v16 | `review-v16/README.md` (v3.5: T2F-Halos + Fußzeilen-Notiz in Header, Gates 0) | Owner-Review: ART-0255 Abb.1/2, Material-Listen lesbar? Halos ok? | — | **offen (2026-11-08)** — Feedback bitte als `review-v16/FEEDBACK.md` oder `review_feedback`-Event im Log |
+| review-v17 | `review-v17/README.md` (v3.6: Fußzeilen normalisiert S1/S2, Agent buchsetzer etabliert, Gate grün) | Owner-Review: ART-0137 Abb.2 Fußzeile, Stichprobe alle abb-2-Fußzeilen | — | **offen (2026-11-08)** — Feedback bitte als `review-v17/FEEDBACK.md` oder `review_feedback`-Event im Log |
 
 ## 6. Marktanalyse `17-marktanalyse-beyondcamping.md` — Vorschläge V1–V12 (alle ungesetzt, Stand `6acf220`)
 
@@ -146,6 +147,7 @@
 | OV-2 | Gate verankert: Regel 13 in PROMPT-REGELN.md; doc-builder (Gate im Build), illustrator (text-last + Quell-Check), visual-qa/layout-inspector (K8/K9, rot = Rebuild) | **erledigt (2026-11-08)** |
 | OV-3 | Label-Kollisionen IN den SVGs (Owner-Beispiel ART-0078 Abb. 2: Maßtext auf Pfeillinie, Fußzeilen-Doppeltext): 1.568 Befunde in 603/645 art-SVGs (817 T2T + 751 T2L) | **erledigt (v3.4, 2026-11-08)** — svg_label_fix.py: 1.381 Halos + 817 Verschiebungen; Recheck 0/645; Regel 13 erweitert (svg_label_collision_check.py = 0 vor Schreiben); v3.4 rebuild, Gates 0, review-v15 |
 | OV-4 | Review v15 (ART-0255): T2F — dunkler Text auf Muster/dunkler Füllfläche (Schraffur, Stoff) unleserlich (4.426×), Fußzeilen-Notiz auf Fußleisten-Rahmen | **erledigt (v3.5, 2026-11-08)** — T2F-Halos + Notiz in Header rechts oben (2.693 Halos + 303 Moves gesamt); Recheck 0/645 (T2T/T2L/T2F); v3.5 rebuild, Gates 0, review-v16 |
+| OV-5 | 5. Review (ART-0137 Abb. 2): Stray-Line in Fußleiste + Orphan-Halo + Titel nicht zentriert (336 S1 + 305 S2 in 335 SVGs). Owner forderte eigenen Prüf-Agenten | **erledigt (v3.6, 2026-11-08)** — S1/S2-Checks + Fixer (Entfernen + Zentrieren); Recheck 0/645 (alle Klassen); **Agent 24 buchsetzer etabliert** (agents/24-buchsetzer.md, WORKFLOW Phase J, Regel 13): Gate nach jedem Build, 0-Toleranz; erster Lauf 27-buchsetzer.md GRÜN; review-v17 |
 
 ---
 
