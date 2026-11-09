@@ -50,7 +50,10 @@ Abbildungsnummer → Datei → beschreibender Unterschrift.
   Zeile (z. B. Fußzeile: Titel und „Maße direkt aus dem Artikel…“ kollidieren).
   Vor dem Schreiben jeder SVG:
   `python3 ../../skills/overlap-gate/svg_label_collision_check.py <datei.svg>` — 0 Befunde
-  (T2T text/text, T2L text/line). Reparatur bestehender SVGs: `svg_label_fix.py`.
+  (T2T text/text, T2L text/line, T2F dunkler Text auf Muster/dunkler Füllfläche —
+  Halo-Kästchen dahinter). **Fußzeilen-Notiz** („Maße direkt aus dem Artikel…“) immer
+  **oben rechts im Header** (x = viewBox-Breite − 28, y = 38, anchor=end), nie in der
+  Fußleiste (kollidiert mit dem Fußleisten-Rahmen). Reparatur: `svg_label_fix.py`.
 
 ## Akzeptanzkriterien
 - [ ] Jedes geplante Konzept mit Grafikanforderung hat eine SVG-Datei

@@ -21,7 +21,8 @@ import xml.etree.ElementTree as ET
 
 sys.path.insert(0, __file__.rsplit("/", 1)[0])
 from svg_label_collision_check import (CHAR_W, T2T_FRAC, INSET, text_bbox,
-                                       line_segments, seg_rect_intersect, halo_protected)
+                                       line_segments, seg_rect_intersect, halo_protected,
+                                       shape_bbox, lum_hex)
 
 ET.register_namespace("", "http://www.w3.org/2000/svg")
 ET.register_namespace("xlink", "http://www.w3.org/1999/xlink")
@@ -43,19 +44,26 @@ def lum(fill):
 
 def collect(root):
     prot = halo_protected(root)
-    texts, strokes = [], []
+    texts, strokes, fills = [], [], []
     for idx, el in enumerate(list(root)):
         tag = el.tag.split("}")[-1]
         if tag == "text":
             bb, txt = text_bbox(el)
             if txt.strip():
-                texts.append([idx, el, bb, txt, idx in prot])
+                texts.append([idx, el, bb, txt, idx in prot, el.get("fill", "#1a1a1a")])
         elif tag in ("line", "path"):
-            if (el.get("stroke") or "none") == "none":
-                continue
-            for s in line_segments(el):
-                strokes.append((idx, s))
-    return texts, strokes
+            if (el.get("stroke") or "none") != "none":
+                for s in line_segments(el):
+                    strokes.append((idx, s))
+        if tag in ("rect", "circle", "ellipse", "path"):
+            fill = el.get("fill", "none")
+            if fill != "none":
+                l = lum_hex(fill)
+                if fill.startswith("url(") or (l is not None and l < 0.6):
+                    bb = shape_bbox(el)
+                    if bb:
+                        fills.append((idx, bb, fill))
+    return texts, strokes, fills
 
 
 def t2t_pairs(texts):
@@ -74,7 +82,7 @@ def t2t_pairs(texts):
 
 def t2l_texts(texts, strokes):
     out = []
-    for i, (_, el, bb, txt, prot_flag) in enumerate(texts):
+    for i, (_, el, bb, txt, prot_flag, _f) in enumerate(texts):
         if prot_flag:
             continue
         for _, seg in strokes:
@@ -84,15 +92,44 @@ def t2l_texts(texts, strokes):
     return out
 
 
+def t2f_texts(texts, fills):
+    """Dunkler Text auf Muster/dunkler Füllfläche (heller Text auf dunklem Grund ist by design)."""
+    out = []
+    for i, (_, el, bb, txt, prot_flag, tfill) in enumerate(texts):
+        if prot_flag:
+            continue
+        tl = lum_hex(tfill)
+        if tl is not None and tl >= 0.6:
+            continue
+        ta = max(1e-6, (bb[2]-bb[0])*(bb[3]-bb[1]))
+        for _, fbb, _fill in fills:
+            ix = max(0.0, min(bb[2], fbb[2]) - max(bb[0], fbb[0]))
+            iy = max(0.0, min(bb[3], fbb[3]) - max(bb[1], fbb[1]))
+            if ix * iy > 0.3 * ta:
+                out.append(i)
+                break
+    return out
+
+
 def fix(path, dry_run=False):
     tree = ET.parse(path)
     root = tree.getroot()
     stats = {"halos": 0, "moves": 0}
+    vb = root.get("viewBox", "0 0 800 600").split()
+    vb_w, vb_h = float(vb[2]), float(vb[3])
     for _ in range(MAX_ITER):
-        texts, strokes = collect(root)
-        # T2L -> Halo vor das text-Element
-        for i in t2l_texts(texts, strokes):
-            _, el, bb, txt, _prot = texts[i]
+        texts, strokes, fills = collect(root)
+        # Footer-Notiz („Maße direkt aus dem Artikel …“) aus der Fußleiste in den
+        # Header rechts oben verschieben (kollidiert sonst mit Fußleisten-Rahmen)
+        for _idx, el, bb, txt, _p, _f in texts:
+            if "Maße direkt aus dem Artikel" in txt and float(el.get("y", 0)) > 0.85 * vb_h:
+                el.set("x", f"{vb_w - 28:.0f}")
+                el.set("y", "38")
+                el.set("text-anchor", "end")
+                stats["moves"] += 1
+        # T2L + T2F -> Halo vor das text-Element
+        for i in t2l_texts(texts, strokes) + t2f_texts(texts, fills):
+            _, el, bb, txt, _prot, _tf = texts[i]
             fs = float(el.get("font-size", 12) or 12)
             fill = el.get("fill", "#1a1a1a")
             halo_fill = "#ffffff" if lum(fill) < 0.6 else "#1a1a1a"
@@ -103,9 +140,9 @@ def fix(path, dry_run=False):
             root.insert(list(root).index(el), halo)
             stats["halos"] += 1
         # T2T -> kleineres Font-Label verschieben
-        texts, strokes = collect(root)
+        texts, strokes, fills = collect(root)
         pairs = t2t_pairs(texts)
-        if not pairs and not t2l_texts(texts, strokes):
+        if not pairs and not t2l_texts(texts, strokes) and not t2f_texts(texts, fills):
             break
         for i, j in pairs:
             a, b = texts[i], texts[j]

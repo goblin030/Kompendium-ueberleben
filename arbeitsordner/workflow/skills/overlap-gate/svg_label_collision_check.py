@@ -39,6 +39,38 @@ def text_bbox(el):
     return (x0, y - 0.75 * fs, x0 + w, y + 0.25 * fs), txt
 
 
+def lum_hex(fill):
+    import re as _re
+    m = _re.match(r"#([0-9a-fA-F]{6})", fill or "")
+    if not m:
+        return None
+    h = m.group(1)
+    r, g, b = (int(h[i:i+2], 16) / 255 for i in (0, 2, 4))
+    return 0.299 * r + 0.587 * g + 0.114 * b
+
+
+def shape_bbox(el):
+    tag = el.tag.split("}")[-1]
+    try:
+        if tag == "rect":
+            x, y = float(el.get("x", 0)), float(el.get("y", 0))
+            return (x, y, x + float(el.get("width", 0)), y + float(el.get("height", 0)))
+        if tag == "circle":
+            cx, cy, r = float(el.get("cx", 0)), float(el.get("cy", 0)), float(el.get("r", 0))
+            return (cx - r, cy - r, cx + r, cy + r)
+        if tag == "ellipse":
+            cx, cy = float(el.get("cx", 0)), float(el.get("cy", 0))
+            rx, ry = float(el.get("rx", 0)), float(el.get("ry", 0))
+            return (cx - rx, cy - ry, cx + rx, cy + ry)
+        if tag == "path":
+            nums = [float(v) for v in __import__("re").findall(r"-?\d+\.?\d*", el.get("d", ""))]
+            if len(nums) >= 4:
+                return (min(nums[0::2]), min(nums[1::2]), max(nums[0::2]), max(nums[1::2]))
+    except (TypeError, ValueError):
+        return None
+    return None
+
+
 def line_segments(el):
     """Gerade Segmente aus <line> und aus M/L/H/V-Path-Kommandos (absolut)."""
     tag = el.tag.split("}")[-1]
@@ -122,18 +154,27 @@ def check_svg(path):
     except ET.ParseError as e:
         return [{"class": "T_XML", "detail": str(e)}]
     prot = halo_protected(root)
-    texts, strokes = [], []
+    texts, strokes, fills = [], [], []
     for idx, el in enumerate(root):
         tag = el.tag.split("}")[-1]
         if tag == "text":
             bb, txt = text_bbox(el)
             if txt.strip():
-                texts.append((idx, bb, txt, idx in prot))
+                texts.append((idx, bb, txt, idx in prot, el.get("fill", "#1a1a1a")))
         elif tag in ("line", "path"):
             if (el.get("stroke") or "none") == "none":
-                continue
-            for s in line_segments(el):
-                strokes.append((idx, s))
+                pass
+            else:
+                for s in line_segments(el):
+                    strokes.append((idx, s))
+        if tag in ("rect", "circle", "ellipse", "path"):
+            fill = el.get("fill", "none")
+            if fill != "none":
+                l = lum_hex(fill)
+                if fill.startswith("url(") or (l is not None and l < 0.6):
+                    bb = shape_bbox(el)
+                    if bb:
+                        fills.append((idx, bb, fill))
     findings = []
     # T2T
     for i in range(len(texts)):
@@ -148,7 +189,7 @@ def check_svg(path):
                                  "b": texts[j][2][:30],
                                  "bbox_a": [round(v,1) for v in a], "bbox_b": [round(v,1) for v in b]})
     # T2L (halo-geschützte Labels gelten als gefixt)
-    for tidx, tbb, txt, prot_flag in texts:
+    for tidx, tbb, txt, prot_flag, tfill in texts:
         if prot_flag:
             continue
         for sidx, seg in strokes:
@@ -156,6 +197,23 @@ def check_svg(path):
                 findings.append({"class": "T2L_text_line", "text": txt[:30],
                                  "bbox": [round(v,1) for v in tbb],
                                  "seg": [round(v,1) for v in seg]})
+                break
+    # T2F: dunkler Text auf Muster/dunkler Füllfläche (heller Text auf dunklem Grund
+    # ist by design — Step-Nummern weiß auf Kreis — und braucht keinen Halo)
+    for tidx, tbb, txt, prot_flag, tfill in texts:
+        if prot_flag:
+            continue
+        tl = lum_hex(tfill)
+        if tl is not None and tl >= 0.6:
+            continue  # heller Text: Kontrast zum dunklen Grund steht
+        ta = max(1e-6, (tbb[2]-tbb[0])*(tbb[3]-tbb[1]))
+        for fidx, fbb, fill in fills:
+            ix = max(0.0, min(tbb[2], fbb[2]) - max(tbb[0], fbb[0]))
+            iy = max(0.0, min(tbb[3], fbb[3]) - max(tbb[1], fbb[1]))
+            if ix * iy > 0.3 * ta:
+                findings.append({"class": "T2F_text_on_fill", "text": txt[:30],
+                                 "bbox": [round(v,1) for v in tbb],
+                                 "fill_bbox": [round(v,1) for v in fbb], "fill": fill})
                 break
     return findings
 

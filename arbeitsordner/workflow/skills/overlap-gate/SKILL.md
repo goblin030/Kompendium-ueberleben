@@ -26,10 +26,10 @@ PDFs (Quell-PDFs UND druckdaten/), und nach JEDEM SVG-Neuaufbau durch den illust
 2. **SVG-Quell-Checks (illustrator), je 0 Befunde vor dem Schreiben:**
    - `svg_zorder_check.py` = Klasse L1: **Z-Order „text-last"** — alle `<text>` nach allen
      gefüllten Shapes (`svg_textlast.py` ordnet automatisch um).
-   - `svg_label_collision_check.py` = Klassen T2T/T2L: kein Label auf einer Stroke-Linie
-     (Dimensionstext auf Maßpfeil) und nie zwei Labels auf derselben Zeile
-     (Fußzeilen-Doppeltext). Reparatur bestehender SVGs: `svg_label_fix.py`
-     (Halo-Rechteck vor kollidierendem Label bzw. Label verschieben).
+   - `svg_label_collision_check.py` = Klassen T2T/T2L/T2F: kein Label auf einer
+     Stroke-Linie (Dimensionstext auf Maßpfeil), nie zwei Labels auf derselben Zeile,
+     kein dunkler Text auf Muster/dunkler Füllfläche (Halo-Kästchen). Fußzeilen-Notiz
+     steht oben rechts im Header, nie in der Fußleiste. Reparatur: `svg_label_fix.py`.
 3. **Layout-Regel (doc-builder):** figures nur im Fluss — kein `place()`, keine negativen
    Offsets in Artikel-Inhalten; `show figure: set block(breakable: false)` + `gap ≥ 8 pt`;
    Caption unterhalb des Bild-Rechtecks, nie innerhalb.
@@ -37,10 +37,12 @@ PDFs (Quell-PDFs UND druckdaten/), und nach JEDEM SVG-Neuaufbau durch den illust
 
 ## Aktueller Stand v3.4 (Durchlauf 2026-11-08, 580 Seiten, 10 Bände)
 - v3.3: text-last (645 art-SVGs), PDF-Gate F0/F1/F2/F3 = 0 auf allen 580 S.
-- v3.4 (Owner-Beispiel ART-0078 Abb. 2: Maßtext auf Pfeillinie, Fußzeilen-Doppeltext):
-  `svg_label_fix.py` auf alle 645 art-SVGs — 1.381 Halos (T2L) + 817 Verschiebungen (T2T);
-  danach `svg_label_collision_check.py` = **0 in 645/645**, `svg_zorder_check.py` = 0,
-  PDF-Overlap-Gate = 0, Meta = 0, EPUBCheck 10/10 valide.
+- v3.4 (Owner-Beispiel ART-0078 Abb. 2): `svg_label_fix.py` — 1.381 Halos (T2L) +
+  817 Verschiebungen (T2T); Check = 0 in 645/645.
+- v3.5 (Review v15, ART-0255: Notiz auf Fußleisten-Rahmen, Text auf Schraffur):
+  T2F-Halos (dunkler Text auf Pattern) + Fußzeilen-Notiz in den Header rechts oben —
+  insges. 2.693 Halos + 303 Moves; danach **0 Kollisionen in 645/645** (T2T/T2L/T2F),
+  zorder 0, PDF-Gate 0, Meta 0, EPUBCheck 10/10 valide.
 - Hinweis: eine frühere renderbasierte L1-Zahl (~2.500) war ein BBox-Artefakt kleiner
   Subset-Fonts — L1/T2T/T2L werden quellseitig gemessen, das Render-Gate misst nur
   Doku-Text ≥ 7 pt (F0/F1/F2/F3).

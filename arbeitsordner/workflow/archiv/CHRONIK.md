@@ -2117,3 +2117,15 @@ Event-Typen siehe WORKFLOW.md „Logging“.
 | 2026-11-08T20:33:00+01:00 | doc-builder | output | v3.4: 10/10 PDF/A-2b, 580 S. (seitenzahl-identisch), Overlap-Gate 0, Meta 0, EPUBs EPUBCheck 10/10 | 06-dokumente/v3.4/ |
 | 2026-11-08T20:34:00+01:00 | orchestrator | output | review-v15/ angelegt zum Owner-Review | review-v15/ |
 | 2026-11-08T20:35:00+01:00 | archivar | output | BACKLOG OV-3 erledigt, review-v15 offen; HANDOVER | archiv/* |
+
+
+### Durchlauf v3.5 + review-v16 — T2F/Fußzeilen-Notiz (2026-11-08, 20:50–20:55+01:00, Phase K)
+
+| ts | agent | event | detail | artifact |
+|---|---|---|---|---|
+| 2026-11-08T20:50:00+01:00 | orchestrator | review_feedback | Review v15 (ART-0255): Notiz auf Fußleisten-Rahmen, Text auf Schraffur unleserlich (T2F 4.426×) | review-v16/ |
+| 2026-11-08T20:51:00+01:00 | illustrator | decision | Regel 13: T2F-Halo + Notiz oben rechts im Header; Check = 0 (T2T/T2L/T2F) | agents/08-illustrator.md, PROMPT-REGELN.md |
+| 2026-11-08T20:52:00+01:00 | illustrator | output | svg_label_fix.py auf 645 art-SVGs: 2.693 Halos + 303 Moves; Recheck 0/645; XML valide; Meta 0 | illustrationen/art-*.svg |
+| 2026-11-08T20:53:00+01:00 | doc-builder | output | v3.5: 10/10 PDF/A-2b, 580 S. (seitenzahl-identisch), Overlap-Gate 0, Meta 0, EPUBs EPUBCheck 10/10 | 06-dokumente/v3.5/ |
+| 2026-11-08T20:54:00+01:00 | orchestrator | output | review-v16/ angelegt zum Owner-Review | review-v16/ |
+| 2026-11-08T20:55:00+01:00 | archivar | output | BACKLOG OV-4 erledigt, review-v16 offen; HANDOVER | archiv/* |
