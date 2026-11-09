@@ -247,13 +247,16 @@ def check_svg(path):
                 div_ys.append(y)
     if div_ys:
         footer_top = min(min(div_ys), 0.88 * vh)
+    footer_texts = [el for el in root if el.tag.split("}")[-1] == "text"
+                    and float(el.get("y", 0)) > footer_top and "".join(el.itertext()).strip()]
+    max_fs = max((float(el.get("font-size", 0) or 0) for el in footer_texts), default=0.0)
     for idx, el in enumerate(root):
         tag = el.tag.split("}")[-1]
         if tag == "text":
             y = float(el.get("y", 0))
             txt = "".join(el.itertext())
             if y > footer_top and txt.strip():
-                allowed = (el.get("x") == "28" and float(el.get("font-size", 0) or 0) >= 13) or el.get("text-anchor") == "end"
+                allowed = el.get("text-anchor") == "end" or float(el.get("font-size", 0) or 0) >= max_fs - 0.01
                 if not allowed:
                     findings.append({"class": "S3_element_in_footer_zone", "kind": "text",
                                      "text": txt[:30], "y": y, "footer_top": round(footer_top, 1)})
@@ -272,6 +275,49 @@ def check_svg(path):
             if bb[3] > footer_top + 2 and bb[1] < vh:
                 findings.append({"class": "S3_element_in_footer_zone", "kind": tag,
                                  "bbox": [round(v, 1) for v in bb], "footer_top": round(footer_top, 1)})
+    # S4: Titel/Brand in der Fußzone überragt den Balken bzw. das viewBox seitlich
+    bar_x0, bar_x1 = None, None
+    for el in root:
+        if el.tag.split("}")[-1] == "rect" and (el.get("fill") or "") == "#f4f4f4" \
+                and float(el.get("width", 0)) > 0.5 * vw and float(el.get("y", 0)) > 0.8 * vh:
+            bar_x0, bar_x1 = float(el.get("x", 0)), float(el.get("x", 0)) + float(el.get("width", 0))
+    for idx, el in enumerate(root):
+        if el.tag.split("}")[-1] != "text":
+            continue
+        y = float(el.get("y", 0))
+        if y <= footer_top:
+            continue
+        txt = "".join(el.itertext())
+        if not txt.strip():
+            continue
+        is_title = el.get("x") == "28" and float(el.get("font-size", 0) or 0) >= 13
+        is_brand = el.get("text-anchor") == "end"
+        if not (is_title or is_brand):
+            continue
+        bb, _ = text_bbox(el)
+        fs = float(el.get("font-size", 12) or 12)
+        if bar_x0 is not None:
+            brand_w = 0.0
+            for o in root:
+                if o.tag.split("}")[-1] == "text" and o.get("text-anchor") == "end" and o is not el:
+                    b2, bt = text_bbox(o)
+                    if float(o.get("y", 0)) > footer_top:
+                        brand_w = b2[2] - b2[0]
+            if is_title:
+                avail_right = (bar_x1 - 8) - brand_w - 16
+                if bb[0] < bar_x0 + 2 or bb[2] > avail_right:
+                    findings.append({"class": "S4_footer_text_overflow", "which": "title",
+                                     "text": txt[:30], "bbox": [round(v,1) for v in bb],
+                                     "bar": [bar_x0, bar_x1]})
+            else:
+                if bb[2] > bar_x1 - 2 or bb[0] < bar_x0 + 2:
+                    findings.append({"class": "S4_footer_text_overflow", "which": "brand",
+                                     "text": txt[:30], "bbox": [round(v,1) for v in bb],
+                                     "bar": [bar_x0, bar_x1]})
+        else:
+            if bb[2] > vw - 4 or bb[0] < 4:
+                findings.append({"class": "S4_footer_text_overflow", "which": "title" if is_title else "brand",
+                                 "text": txt[:30], "bbox": [round(v,1) for v in bb], "bar": None})
     # T2F: dunkler Text auf Muster/dunkler Füllfläche (heller Text auf dunklem Grund
     # ist by design — Step-Nummern weiß auf Kreis — und braucht keinen Halo)
     for tidx, tbb, txt, prot_flag, tfill in texts:

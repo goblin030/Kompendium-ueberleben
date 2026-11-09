@@ -172,13 +172,17 @@ def fix(path, dry_run=False):
         if tag == "rect" and (el.get("fill") or "") == "#f4f4f4" and float(el.get("y", 0)) > 0.8 * vb_h:
             div_ys.append(float(el.get("y", 0)))
     footer_top = min(min(div_ys), 0.88 * vb_h) if div_ys else 0.88 * vb_h
+    _ftexts = [el for el in root if el.tag.split("}")[-1] == "text"
+               and float(el.get("y", 0)) > footer_top and "".join(el.itertext()).strip()]
+    _maxfs = max((float(el.get("font-size", 0) or 0) for el in _ftexts), default=0.0)
+    titles = [el for el in _ftexts if float(el.get("font-size", 0) or 0) >= _maxfs - 0.01]
     cluster = []
     for el in root:
         tag = el.tag.split("}")[-1]
         if tag == "text":
             y = float(el.get("y", 0)); txt = "".join(el.itertext())
             if y > footer_top and txt.strip():
-                if (el.get("x") == "28" and float(el.get("font-size", 0) or 0) >= 13) or el.get("text-anchor") == "end":
+                if el.get("text-anchor") == "end" or el in titles:
                     continue
                 cluster.append(el)
         elif tag in ("rect", "line", "circle", "ellipse"):
@@ -224,6 +228,47 @@ def fix(path, dry_run=False):
                         and kids[i + 1] in cluster:
                     el.set("y", f"{float(el.get('y', 0)) + dy:.1f}")
             stats["moves"] += len(cluster)
+    # S4: Fußzeilen-Titel/Brand in den Balken ziehen (x an Balkenränder) und ggf.
+    # Schrift verkleinern, damit der Text nicht über den Balken ragt
+    bar_x0 = bar_x1 = None
+    for el in root:
+        if el.tag.split("}")[-1] == "rect" and (el.get("fill") or "") == "#f4f4f4" \
+                and float(el.get("width", 0)) > 0.5 * vb_w and float(el.get("y", 0)) > 0.8 * vb_h:
+            bar_x0 = float(el.get("x", 0)); bar_x1 = bar_x0 + float(el.get("width", 0))
+    footer_els = [el for el in root if el.tag.split("}")[-1] == "text"
+                  and float(el.get("y", 0)) > footer_top and "".join(el.itertext()).strip()]
+    titles = [el for el in footer_els if float(el.get("font-size", 0) or 0) >= 13]
+    brands = [el for el in footer_els if el.get("text-anchor") == "end"]
+    for el in titles + brands:
+        from svg_label_collision_check import text_bbox as _tb2
+        bb, txt = _tb2(el)
+        fs = float(el.get("font-size", 12) or 12)
+        if bar_x0 is not None:
+            brand_w = 0.0
+            for o in brands:
+                if o is not el:
+                    b2, _ = _tb2(o)
+                    brand_w = max(brand_w, b2[2] - b2[0])
+            if el in titles:
+                el.set("x", f"{bar_x0 + 8:.1f}")
+                avail = (bar_x1 - 8 - brand_w - 16) - (bar_x0 + 8)
+            else:
+                el.set("x", f"{bar_x1 - 8:.1f}")
+                avail = (bar_x1 - 8) - (bar_x0 + 8)
+            need = len(txt) * CHAR_W
+            if need * fs > avail and avail > 0:
+                el.set("font-size", f"{max(8.0, avail / need):.2f}")
+                stats["moves"] += 1
+        else:
+            # ohne Balken: Text muss ins viewBox passen (abzüglich x-Offset)
+            if bb[0] < 4:
+                el.set("x", "4"); stats["moves"] += 1
+                bb, _ = _tb2(el)
+            avail = (vb_w - 10) - bb[0]
+            need = len(txt) * CHAR_W
+            if bb[2] > vb_w - 4 and avail > 0 and need > 0:
+                el.set("font-size", f"{min(fs, max(7.0, avail / need)):.2f}")
+                stats["moves"] += 1
     for _ in range(MAX_ITER):
         texts, strokes, fills = collect(root)
         # Footer-Notiz („Maße direkt aus dem Artikel …“) aus der Fußleiste in den

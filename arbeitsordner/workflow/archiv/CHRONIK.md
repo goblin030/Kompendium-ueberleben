@@ -2153,3 +2153,15 @@ Event-Typen siehe WORKFLOW.md „Logging“.
 | 2026-11-08T21:33:00+01:00 | buchsetzer | output | Gate-Lauf 2 (v3.7): SVG 0/645, PDF F0-F3 = 0 (580 S.), Meta 0, EPUBCheck 10/10 → GRÜN | artifacts/27-buchsetzer.md |
 | 2026-11-08T21:34:00+01:00 | doc-builder | output | v3.7: 10/10 PDF/A-2b, 580 S. (seitenzahl-identisch), EPUBs EPUBCheck 10/10 | 06-dokumente/v3.7/ |
 | 2026-11-08T21:35:00+01:00 | orchestrator | output | review-v18/ angelegt zum Owner-Review | review-v18/ |
+
+
+### Durchlauf v3.8 + review-v19 — S4 Fußzeilen-Titel im Balken (2026-11-08, 21:50–21:56+01:00, Phase K)
+
+| ts | agent | event | detail | artifact |
+|---|---|---|---|---|
+| 2026-11-08T21:50:00+01:00 | orchestrator | review_feedback | Review v18: Titel überragt Balken seitlich (ART-0137 Abb. 2) — 681 S4 in 342 SVGs | review-v19/ |
+| 2026-11-08T21:51:00+01:00 | buchsetzer | decision | S4 als Gate-Klasse; Fixer: Balkenränder + shrink-to-fit; SVG-LAYOUT.md Regel 9; Regel 13/08-illustrator/24-buchsetzer | skills/overlap-gate/ |
+| 2026-11-08T21:52:00+01:00 | illustrator | output | S4-Fix auf 645 art-SVGs (358 Moves); Recheck 0/645 alle Klassen; XML valide; Meta 0 | illustrationen/art-*.svg |
+| 2026-11-08T21:53:00+01:00 | buchsetzer | output | Gate-Lauf 3 (v3.8): SVG 0/645, PDF F0-F3 = 0 (580 S.), Meta 0, EPUBCheck 10/10 → GRÜN | artifacts/27-buchsetzer.md |
+| 2026-11-08T21:54:00+01:00 | doc-builder | output | v3.8: 10/10 PDF/A-2b, 580 S. (seitenzahl-identisch), EPUBs EPUBCheck 10/10 | 06-dokumente/v3.8/ |
+| 2026-11-08T21:55:00+01:00 | orchestrator | output | review-v19/ angelegt zum Owner-Review | review-v19/ |

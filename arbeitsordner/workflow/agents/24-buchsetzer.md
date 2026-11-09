@@ -30,8 +30,8 @@ SVG-Level (quellseitig):
 - T2T Label über Label, T2L Linie durch Label, T2F dunkler Text auf Muster/dunkler
   Fläche — `svg_label_collision_check.py`
 - S1 Stray-Line in der Fußleiste, S2 Orphan-Halo, S3 Element in der Fußzone
-  (reserviert für Divider+Titel+Brand; Bauplan: `skills/overlap-gate/SVG-LAYOUT.md`)
-  — `svg_label_collision_check.py`
+  (reserviert für Divider+Titel+Brand), S4 Titel/Brand überragt Balken/viewBox nicht
+  (Bauplan: `skills/overlap-gate/SVG-LAYOUT.md`) — `svg_label_collision_check.py`
 Reparatur (nur nach Befund, nie prophylaktisch ohne Befund): `svg_label_fix.py` /
 `svg_textlast.py`, dann Re-Check = 0.
 

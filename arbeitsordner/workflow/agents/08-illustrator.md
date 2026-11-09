@@ -55,8 +55,9 @@ Abbildungsnummer → Datei → beschreibender Unterschrift.
   **oben rechts im Header** (x = viewBox-Breite − 28, y = 38, anchor=end), nie in der
   Fußleiste (kollidiert mit dem Fußleisten-Rahmen). **Fußzone (y ≥ min(Divider,
   0,88·H)) ist reserviert** für Divider + Titel + Brand — Detail-Annotationen gehören
-  in den Zeichenbereich. Verbindlicher Bauplan: `skills/overlap-gate/SVG-LAYOUT.md`
-  (Zonen + 8 Regeln). Reparatur: `svg_label_fix.py`.
+  in den Zeichenbereich. **Titel/Brand bleiben im Balken** (x = Balkenrand ± 8,
+  bei zu langem Titel kleinere Schrift). Verbindlicher Bauplan:
+  `skills/overlap-gate/SVG-LAYOUT.md` (Zonen + 9 Regeln). Reparatur: `svg_label_fix.py`.
 
 ## Akzeptanzkriterien
 - [ ] Jedes geplante Konzept mit Grafikanforderung hat eine SVG-Datei

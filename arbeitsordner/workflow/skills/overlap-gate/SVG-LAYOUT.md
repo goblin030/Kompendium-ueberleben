@@ -25,5 +25,8 @@ Reparatur). Geprüft durch `svg_label_collision_check.py` = 0 (T2T/T2L/T2F/S1/S2
    Divider und Titel.
 7. Fußleiste abb-2: Balken (#f4f4f4, voller Breite minus Ränder) mit zentriertem Titel
    (y = balken_y + h/2 + fs·0,35) und Brand rechts; keine zusätzliche Linie im Balken.
+9. **Titel/Brand nie über den Balken hinaus:** Titel x = balken_x + 8, Brand x =
+   balken_x1 − 8 (anchor=end); bei zu langem Titel Schrift verkleinern (shrink-to-fit),
+   nie überragen lassen.
 8. viewBox konsistent (800×600 abb-1/3, 900×520 abb-2), `font-family="sans-serif"`,
    selbstenthalten (keine externen Refs), valide XML, Meta-Hygiene (nur öffentliche Kennungen).

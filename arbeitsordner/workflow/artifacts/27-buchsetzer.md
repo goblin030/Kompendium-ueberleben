@@ -43,3 +43,16 @@ verbindlicher Bauplan verankert (08-illustrator.md, Regel 13).
 | Meta / compile / EPUBCheck | alle | 0 / 10× ok / 10× valide |
 
 **Gesamturteil: GRÜN.**
+
+## Lauf 3 — v3.8 (2026-11-08, nach Review v18 / ART-0137 Abb. 2)
+
+Neue Klasse **S4** (Fußzeilen-Titel/Brand überragt Balken/viewBox — 681× in 342 SVGs).
+Fixer: Titel/Brand an die Balkenränder (x = bar±8), Schrift shrink-to-fit. Danach 0.
+
+| Prüfklasse | Scope | Ergebnis |
+|---|---|---|
+| S4/S3/T2T/T2L/T2F/S1/S2 + L1 (`svg_label_collision_check.py` + `svg_zorder_check.py`) | 645 art-SVGs | **0** |
+| F0–F3 PDF (`overlap_check.py`, 150 dpi) | 10 PDFs, 580 S. | **0** (`06-dokumente/v3.8/overlap-report-v3.8.json`) |
+| Meta / compile / EPUBCheck | alle | 0 / 10× ok / 10× valide |
+
+**Gesamturteil: GRÜN.**
