@@ -71,6 +71,7 @@
 | review-v17 | `review-v17/README.md` (v3.6: Fußzeilen normalisiert S1/S2, Agent buchsetzer etabliert, Gate grün) | Owner-Review: ART-0137 Abb.2 Fußzeile, Stichprobe alle abb-2-Fußzeilen | — | **offen (2026-11-08)** — Feedback bitte als `review-v17/FEEDBACK.md` oder `review_feedback`-Event im Log |
 | review-v18 | `review-v18/README.md` (v3.7: S3 Fußzone reserviert, SVG-LAYOUT.md, Gate grün) | Owner-Review: ART-0165 Abb.1 Detail-Box im Zeichenbereich? Fußzonen-Stichprobe | — | **offen (2026-11-08)** — Feedback bitte als `review-v18/FEEDBACK.md` oder `review_feedback`-Event im Log |
 | review-v19 | `review-v19/README.md` (v3.8: S4 Titel im Balken, Gate grün) | Owner-Review: ART-0137 Abb.2 Fußzeile, lange Titel lesbar (shrink-to-fit)? | — | **offen (2026-11-08)** — Feedback bitte als `review-v19/FEEDBACK.md` oder `review_feedback`-Event im Log |
+| review-v20 | `review-v20/README.md` (v3.9: rect-Ränder als Linien, Leader in Fußzone gefixt, Gate grün) | Owner-Review: ART-0233 Abb.1 Detail-Cluster, Panel-Texte, Leader | — | **offen (2026-11-08)** — Feedback bitte als `review-v20/FEEDBACK.md` oder `review_feedback`-Event im Log |
 
 ## 6. Marktanalyse `17-marktanalyse-beyondcamping.md` — Vorschläge V1–V12 (alle ungesetzt, Stand `6acf220`)
 
@@ -152,6 +153,7 @@
 | OV-5 | 5. Review (ART-0137 Abb. 2): Stray-Line in Fußleiste + Orphan-Halo + Titel nicht zentriert (336 S1 + 305 S2 in 335 SVGs). Owner forderte eigenen Prüf-Agenten | **erledigt (v3.6, 2026-11-08)** — S1/S2-Checks + Fixer (Entfernen + Zentrieren); Recheck 0/645 (alle Klassen); **Agent 24 buchsetzer etabliert** (agents/24-buchsetzer.md, WORKFLOW Phase J, Regel 13): Gate nach jedem Build, 0-Toleranz; erster Lauf 27-buchsetzer.md GRÜN; review-v17 |
 | OV-6 | 6. Review (ART-0165 Abb. 1): Detail-Annotationen in der Fußzone (2.108 S3-Elemente in 331 SVGs) — Fußzone war nicht reserviert | **erledigt (v3.7, 2026-11-08)** — S3-Klasse + Fixer (Cluster in Zeichenbereich, 1.657 Moves); Recheck 0/645 alle Klassen; **SVG-LAYOUT.md** als persistenter Bauplan (Fußzone reserviert, Notiz in Header, text-last, Halos); verankert in Regel 13 + 08-illustrator + 24-buchsetzer; Gate-Lauf 2 GRÜN; review-v18 |
 | OV-7 | Review v18 (ART-0137 Abb. 2): Fußzeilen-Titel/Brand ragt über den Balken (681 S4 in 342 SVGs) | **erledigt (v3.8, 2026-11-08)** — S4-Klasse + Fixer (x an Balkenränder, shrink-to-fit); Recheck 0/645 alle Klassen; SVG-LAYOUT.md Regel 9; Gate-Lauf 3 GRÜN; review-v19 |
+| OV-8 | Anomalie Review v19 (ART-0233 Abb. 1): Leader-Line in Fußzone, Text an Panel-Rand (rect-stroke) — rect-Ränder waren nicht als Linien im Check | **erledigt (v3.9, 2026-11-08)** — rect-Ränder als Linien (T2L), line in shape_bbox (Leader in S3), S1 ohne Balken-Ränder + rect-Kanten hochschieben, Z-Order ohne Halos; 701 Halos + 357 Moves; Recheck 0/645 alle Klassen; SVG-LAYOUT.md Regel 10; Gate-Lauf 4 GRÜN; review-v20 |
 
 ---
 

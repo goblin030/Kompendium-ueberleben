@@ -22,7 +22,7 @@ import xml.etree.ElementTree as ET
 sys.path.insert(0, __file__.rsplit("/", 1)[0])
 from svg_label_collision_check import (CHAR_W, T2T_FRAC, INSET, text_bbox,
                                        line_segments, seg_rect_intersect, halo_protected,
-                                       shape_bbox, lum_hex)
+                                       shape_bbox, lum_hex, rect_border_segments)
 
 ET.register_namespace("", "http://www.w3.org/2000/svg")
 ET.register_namespace("xlink", "http://www.w3.org/1999/xlink")
@@ -55,6 +55,9 @@ def collect(root):
             if (el.get("stroke") or "none") != "none":
                 for s in line_segments(el):
                     strokes.append((idx, s))
+        if tag == "rect" and (el.get("stroke") or "none") != "none":
+            for s in rect_border_segments(el):
+                strokes.append((idx, s))
         if tag in ("rect", "circle", "ellipse", "path"):
             fill = el.get("fill", "none")
             if fill != "none":
@@ -124,12 +127,24 @@ def fix(path, dry_run=False):
             and float(el.get("width", 0)) > 0.5 * vb_w
             and float(el.get("y", 0)) > 0.8 * vb_h]
     for el in list(root):
-        if el.tag.split("}")[-1] == "line":
+        tag = el.tag.split("}")[-1]
+        if tag == "line":
             y1, y2 = float(el.get("y1", 0)), float(el.get("y2", 0))
             if abs(y1 - y2) <= 0.5:
                 for bb in bars:
                     if bb[1] <= y1 <= bb[3]:
                         root.remove(el)
+                        stats["moves"] += 1
+                        break
+        elif tag == "rect" and (el.get("stroke") or "none") != "none" and el.get("data-halo") != "1" \
+                and float(el.get("width", 0)) < 0.98 * vb_w:
+            bb = shape_bbox(el)
+            if bb:
+                for bar in bars:
+                    # rect-Kante liegt in der Bar oder ragt hinein -> rect nach oben schieben
+                    if bb[3] >= bar[1] - 0.5 and bb[1] < bar[1]:
+                        dy = bar[1] - 2 - bb[3]
+                        el.set("y", f"{float(el.get('y', 0)) + dy:.1f}")
                         stats["moves"] += 1
                         break
     def _remove_orphan_halos():

@@ -62,6 +62,9 @@ def shape_bbox(el):
             cx, cy = float(el.get("cx", 0)), float(el.get("cy", 0))
             rx, ry = float(el.get("rx", 0)), float(el.get("ry", 0))
             return (cx - rx, cy - ry, cx + rx, cy + ry)
+        if tag == "line":
+            x1, y1, x2, y2 = (float(el.get(k, 0)) for k in ("x1", "y1", "x2", "y2"))
+            return (min(x1, x2), min(y1, y2), max(x1, x2), max(y1, y2))
         if tag == "path":
             nums = [float(v) for v in __import__("re").findall(r"-?\d+\.?\d*", el.get("d", ""))]
             if len(nums) >= 4:
@@ -69,6 +72,13 @@ def shape_bbox(el):
     except (TypeError, ValueError):
         return None
     return None
+
+
+def rect_border_segments(el):
+    """Die 4 Kanten eines gestroketen rect als Segmente."""
+    x, y = float(el.get("x", 0)), float(el.get("y", 0))
+    w, h = float(el.get("width", 0)), float(el.get("height", 0))
+    return [(x, y, x + w, y), (x + w, y, x + w, y + h), (x + w, y + h, x, y + h), (x, y + h, x, y)]
 
 
 def line_segments(el):
@@ -166,7 +176,11 @@ def check_svg(path):
                 pass
             else:
                 for s in line_segments(el):
-                    strokes.append((idx, s))
+                    strokes.append((idx, s, False))
+        if tag == "rect" and (el.get("stroke") or "none") != "none":
+            is_bar = (el.get("fill") or "") == "#f4f4f4" and float(el.get("width", 0)) > 0.5 * float(root.get("viewBox").split()[2]) and float(el.get("y", 0)) > 0.8 * float(root.get("viewBox").split()[3])
+            for s in rect_border_segments(el):
+                strokes.append((idx, s, is_bar))
         if tag in ("rect", "circle", "ellipse", "path"):
             fill = el.get("fill", "none")
             if fill != "none":
@@ -192,7 +206,7 @@ def check_svg(path):
     for tidx, tbb, txt, prot_flag, tfill in texts:
         if prot_flag:
             continue
-        for sidx, seg in strokes:
+        for sidx, seg, _fb in strokes:
             if seg_rect_intersect(seg, tbb):
                 findings.append({"class": "T2L_text_line", "text": txt[:30],
                                  "bbox": [round(v,1) for v in tbb],
@@ -207,7 +221,9 @@ def check_svg(path):
             and (el.get("fill") or "") == "#f4f4f4"
             and float(el.get("width", 0)) > 0.5 * vw
             and float(el.get("y", 0)) > 0.8 * vh]
-    for sidx, seg in strokes:
+    for sidx, seg, from_bar in strokes:
+        if from_bar:
+            continue
         sx1, sy1, sx2, sy2 = seg
         if abs(sy1 - sy2) > 0.5:
             continue

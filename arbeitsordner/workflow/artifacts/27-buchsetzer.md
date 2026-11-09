@@ -56,3 +56,17 @@ Fixer: Titel/Brand an die Balkenränder (x = bar±8), Schrift shrink-to-fit. Dan
 | Meta / compile / EPUBCheck | alle | 0 / 10× ok / 10× valide |
 
 **Gesamturteil: GRÜN.**
+
+## Lauf 4 — v3.9 (2026-11-08, Anomalie in Review v19 / ART-0233 Abb. 1)
+
+rect-Ränder (stroke) werden als Linien behandelt (T2L deckt Panel borders), `<line>` in
+shape_bbox (Leader-Lines in S3), S1 ohne Balken-eigene Ränder + rect-Kanten in der Bar
+werden hochgeschoben, Z-Order ignoriert Halos. Fixer-Lauf: 701 Halos + 357 Moves.
+
+| Prüfklasse | Scope | Ergebnis |
+|---|---|---|
+| L1/T2T/T2L/T2F/S1/S2/S3/S4 | 645 art-SVGs | **0** |
+| F0–F3 PDF (150 dpi) | 10 PDFs, 580 S. | **0** (`06-dokumente/v3.9/overlap-report-v3.9.json`) |
+| Meta / compile / EPUBCheck | alle | 0 / 10× ok / 10× valide |
+
+**Gesamturteil: GRÜN.**

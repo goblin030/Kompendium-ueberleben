@@ -47,6 +47,10 @@ PDFs (Quell-PDFs UND druckdaten/), und nach JEDEM SVG-Neuaufbau durch den illust
   Fußzeilen-Titel zentriert.
 - v3.7 (Review v17, ART-0165 Abb. 1): **S3** — Fußzone reserviert; Detail-Cluster
   (2.108 Elemente in 331 SVGs) in den Zeichenbereich verschoben (1.657 Moves).
+- v3.9 (Anomalie in Review v19, ART-0233 Abb. 1): rect-Ränder (stroke) zählen als Linien
+  (T2L deckt Panel borders), `<line>` in shape_bbox (Leader in S3), S1 ignoriert
+  Balken-eigene Ränder und schiebt rects mit Kante in der Bar nach oben, Z-Order ignoriert
+  Halos. Danach: **0 in 645/645** (alle Klassen), L1 = 0.
 - v3.8 (Review v18, ART-0137 Abb. 2): **S4** — Fußzeilen-Titel/Brand überragten den
   Balken (681× in 342 SVGs); Fixer zieht sie an die Balkenränder und skaliert die
   Schrift (shrink-to-fit). Danach: **0 Kollisionen in 645/645** (T2T/T2L/T2F/S1/S2/S3/S4),

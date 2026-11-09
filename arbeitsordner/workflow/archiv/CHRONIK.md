@@ -2165,3 +2165,15 @@ Event-Typen siehe WORKFLOW.md „Logging“.
 | 2026-11-08T21:53:00+01:00 | buchsetzer | output | Gate-Lauf 3 (v3.8): SVG 0/645, PDF F0-F3 = 0 (580 S.), Meta 0, EPUBCheck 10/10 → GRÜN | artifacts/27-buchsetzer.md |
 | 2026-11-08T21:54:00+01:00 | doc-builder | output | v3.8: 10/10 PDF/A-2b, 580 S. (seitenzahl-identisch), EPUBs EPUBCheck 10/10 | 06-dokumente/v3.8/ |
 | 2026-11-08T21:55:00+01:00 | orchestrator | output | review-v19/ angelegt zum Owner-Review | review-v19/ |
+
+
+### Durchlauf v3.9 + review-v20 — rect-Ränder als Linien, Leader in Fußzone (2026-11-08, 22:10–22:16+01:00, Phase K)
+
+| ts | agent | event | detail | artifact |
+|---|---|---|---|---|
+| 2026-11-08T22:10:00+01:00 | orchestrator | review_feedback | Anomalie Review v19 (ART-0233 Abb. 1): Leader in Fußzone, Text an rect-Rand | review-v20/ |
+| 2026-11-08T22:11:00+01:00 | buchsetzer | decision | rect-Ränder als Linien (T2L), line in shape_bbox (Leader in S3), S1 ohne Balken-Ränder, Z-Order ohne Halos; SVG-LAYOUT.md Regel 10 | skills/overlap-gate/ |
+| 2026-11-08T22:12:00+01:00 | illustrator | output | Fixer auf 645 art-SVGs (701 Halos + 357 Moves); Recheck 0/645 alle Klassen | illustrationen/art-*.svg |
+| 2026-11-08T22:13:00+01:00 | buchsetzer | output | Gate-Lauf 4 (v3.9): SVG 0/645, PDF F0-F3 = 0 (580 S.), Meta 0, EPUBCheck 10/10 → GRÜN | artifacts/27-buchsetzer.md |
+| 2026-11-08T22:14:00+01:00 | doc-builder | output | v3.9: 10/10 PDF/A-2b, 580 S. (seitenzahl-identisch), EPUBs EPUBCheck 10/10 | 06-dokumente/v3.9/ |
+| 2026-11-08T22:15:00+01:00 | orchestrator | output | review-v20/ angelegt zum Owner-Review | review-v20/ |

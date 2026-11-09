@@ -25,6 +25,9 @@ Reparatur). Geprüft durch `svg_label_collision_check.py` = 0 (T2T/T2L/T2F/S1/S2
    Divider und Titel.
 7. Fußleiste abb-2: Balken (#f4f4f4, voller Breite minus Ränder) mit zentriertem Titel
    (y = balken_y + h/2 + fs·0,35) und Brand rechts; keine zusätzliche Linie im Balken.
+10. **Rect-Ränder sind Linien:** Panel-/Box-Ränder (stroke) dürfen keinen Text durchstoßen
+    (sonst Halo); Leader-/Bezugslinien dürfen nicht in die Fußzone laufen (S3) und keine
+    Stray-Lines in den Balken legen (S1).
 9. **Titel/Brand nie über den Balken hinaus:** Titel x = balken_x + 8, Brand x =
    balken_x1 − 8 (anchor=end); bei zu langem Titel Schrift verkleinern (shrink-to-fit),
    nie überragen lassen.

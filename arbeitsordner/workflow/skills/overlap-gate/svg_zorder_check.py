@@ -60,6 +60,8 @@ def check_svg(path):
             w = len(txt) * fs * 0.55
             texts.append((idx, (x, y - fs, x + w, y), txt))
         elif tag in ("rect", "circle", "ellipse"):
+            if el.get("data-halo") == "1":
+                continue  # Halo schützt sein Label gezielt
             if (el.get("fill") or "none") == "none":
                 continue
             bb = shape_bbox(el)
